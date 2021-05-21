@@ -1,7 +1,6 @@
 name: Update RSS feed
 
 on:
-  push:
   schedule:
     - cron: '00 18 * * *'
   workflow_dispatch:
