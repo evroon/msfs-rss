@@ -1,0 +1,21 @@
+name: Update RSS feed
+
+on:
+  push:
+    branches:
+      - 'master'
+  schedule:
+    - cron: '00 18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Python modules
+        run: pip3 install -r requirements.txt
+
+      - name: Update Feed
+        run: python3 main.py
