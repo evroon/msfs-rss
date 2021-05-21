@@ -4,6 +4,7 @@ from feedgen.feed import FeedGenerator
 from datetime import datetime
 
 main_url = 'https://www.flightsimulator.com'
+rss_url = 'https://raw.githubusercontent.com/evroon/msfs-rss/main/atom.xml'
 
 # Initialize RSS feed.
 fg = FeedGenerator()
@@ -12,7 +13,7 @@ fg.title('MSFS Blog')
 fg.subtitle('Development updates of Microsoft Flight Simulator.')
 fg.link(href=main_url, rel='alternate')
 fg.logo('https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png')
-fg.link(href='example.org', rel='self')
+fg.link(href=rss_url, rel='self')
 fg.language('en')
 
 page = requests.get(main_url)
