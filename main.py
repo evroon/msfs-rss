@@ -25,11 +25,13 @@ for post in posts:
     header = post.find(class_='entry-title')
     summary = post.find(class_='entry-summary')
     meta = post.find(class_='entry-meta')
+    image = post.find(class_='img-fluid')
 
     title = header.text.strip()
     url = header.find('a')['href']
     body = summary.text.strip()
     date = datetime.fromisoformat(meta.find('time')['datetime'])
+    enclosure = image['src']
 
     fe = fg.add_entry()
     fe.id(url)
@@ -37,5 +39,6 @@ for post in posts:
     fe.link(href=url)
     fe.pubDate(date)
     fe.summary(body)
+    fe.enclosure(enclosure)
 
 fg.atom_file('atom.xml')
