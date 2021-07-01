@@ -31,9 +31,6 @@ for post in posts:
     url = header.find('a')['href']
     body = summary.text.strip()
     date = datetime.fromisoformat(meta.find('time')['datetime'])
-    enclosure = image['src']
-    img_response = requests.head(enclosure)
-    img_headers = img_response.headers
 
     fe = fg.add_entry()
     fe.id(url)
@@ -41,6 +38,10 @@ for post in posts:
     fe.link(href=url)
     fe.pubDate(date)
     fe.summary(body)
-    fe.enclosure(image['src'], img_headers['content-length'], img_headers['content-type'])
+    
+    if image is not None:
+        enclosure = image['src']
+        img_headers = requests.head(enclosure).headers
+        fe.enclosure(enclosure, img_headers['content-length'], img_headers['content-type'])
 
 fg.atom_file('atom.xml')
