@@ -37,6 +37,7 @@ for post in posts:
     fe.title(title)
     fe.link(href=url)
     fe.pubDate(date)
+    fe.updated(date)
     fe.summary(body)
     
     if image is not None:
