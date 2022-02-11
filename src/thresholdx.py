@@ -33,8 +33,15 @@ for post in posts:
 
     image = post.find('img')
     url = post.find('a')['href']
-    body = sim_tag
     date = datetime.strptime(post.find(class_='vsp').text, '%b %d, %Y').astimezone(pytz.UTC)
+
+    body_response = requests.get(main_url.rstrip('/news') + url)
+    summary = f'Sim: {sim_tag}'
+
+    if body_response.ok:
+        soup = BeautifulSoup(body_response.text, 'html.parser')
+        paragraphs = soup.find(class_='w-richtext').find_all('p')
+        summary += '\n\n' + '\n\n'.join([p.text for p in paragraphs])
 
     fe = fg.add_entry()
     fe.id(url)
@@ -42,10 +49,10 @@ for post in posts:
     fe.link(href=url)
     fe.pubDate(date)
     fe.updated(date)
-    fe.summary(body)
+    fe.summary(summary)
 
     if image is not None:
-        enclosure = f"{image['src']}"
+        enclosure = image['src']
         img_headers = requests.head(enclosure).headers
         fe.enclosure(enclosure, img_headers['content-length'], img_headers['content-type'])
 
