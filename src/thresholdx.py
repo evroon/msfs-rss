@@ -41,7 +41,7 @@ for post in posts:
     if body_response.ok:
         soup = BeautifulSoup(body_response.text, 'html.parser')
         paragraphs = soup.find(class_='w-richtext').find_all('p')
-        summary += '\n\n' + '\n\n'.join([p.text for p in paragraphs])
+        summary += '. ' + ' '.join([p.text for p in paragraphs])
 
     fe = fg.add_entry()
     fe.id(url)
