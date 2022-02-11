@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-11T20:44:33.016507+00:00</updated>
+  <updated>2022-02-11T20:58:42.863037+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/beta32</id>
-    <title>Fenix Simulations A320 Now Entering Beta</title>
-    <updated>2022-02-01T00:00:00+00:00</updated>
-    <link href="/news/beta32" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/60ec548aa1ef4603c03ced9b_cover.png" rel="enclosure" type="image/png" length="668311"/>
-    <summary>MSFS</summary>
-    <published>2022-02-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/velsim</id>
     <title> VATSIM Introduces Velocity to Their Network</title>
@@ -150,6 +141,15 @@
     <link href="/news/2022ob" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62060e0e79c1485ea89da916_5980722_Tim1.jpg.182bacdbdaa59a03a491d6f1e4bbd07a.jpg" rel="enclosure" type="image/jpeg" length="129614"/>
     <summary>MSFS</summary>
+    <published>2022-02-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tls103</id>
+    <title>ToLiss Releases Minor Update for A340</title>
+    <updated>2022-02-11T00:00:00+00:00</updated>
+    <link href="/news/tls103" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6206cb3b45dad854ca703dfd_cover.png" rel="enclosure" type="image/png" length="961364"/>
+    <summary>X-Plane</summary>
     <published>2022-02-11T00:00:00+00:00</published>
   </entry>
 </feed>
