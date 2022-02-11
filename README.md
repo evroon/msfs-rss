@@ -1,9 +1,11 @@
-# MSFS Blog RSS Feed
-[![Update RSS feed](https://github.com/evroon/msfs-rss/actions/workflows/update_feed.yaml/badge.svg)](https://github.com/evroon/msfs-rss/actions/workflows/update_feed.yaml)
+# Flight simulator RSS Feeds
+[![Update RSS feeds](https://github.com/evroon/msfs-rss/actions/workflows/update_feed.yaml/badge.svg)](https://github.com/evroon/msfs-rss/actions/workflows/update_feed.yaml)
 
-RSS feed for the MSFS blog: https://www.flightsimulator.com.
+RSS feed for:
+* [MSFS blog](https://www.flightsimulator.com): https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml
+* [Thresholdx](https://www.thresholdx.net/news): https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/thresholdx.xml
 
-The RSS feed URL is: https://raw.githubusercontent.com/evroon/msfs-rss/main/atom.xml, which you can add to your favorite RSS reader. Github Actions updates the RSS feed at 18:00 UTC every day.
+You can add these RSS feeds to your favorite RSS reader. Github Actions updates the RSS feeds at 18:00 UTC every day.
 
 ## Usage
 The Python script can be run by first installing the dependencies:
@@ -12,7 +14,7 @@ The Python script can be run by first installing the dependencies:
 python3 -m pip install -r requirements.txt
 ```
 
-And simply running the Python script:
+And simply running one of the Python scripts:
 ```bash
-python3 main.py
+python3 src/msfs.py
 ```

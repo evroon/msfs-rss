@@ -4,7 +4,7 @@ from feedgen.feed import FeedGenerator
 from datetime import datetime
 
 main_url = 'https://www.flightsimulator.com'
-rss_url = 'https://raw.githubusercontent.com/evroon/msfs-rss/main/atom.xml'
+rss_url = 'https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml'
 
 # Initialize RSS feed.
 fg = FeedGenerator()
@@ -45,4 +45,4 @@ for post in posts:
         img_headers = requests.head(enclosure).headers
         fe.enclosure(enclosure, img_headers['content-length'], img_headers['content-type'])
 
-fg.atom_file('atom.xml')
+fg.atom_file('feeds/msfs.xml')
