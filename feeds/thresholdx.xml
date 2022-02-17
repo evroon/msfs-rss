@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-16T18:24:46.019048+00:00</updated>
+  <updated>2022-02-17T18:24:57.077185+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/enmhms</id>
-    <title>Onfinal Studios Releases Mehamn Airport (ENMH) for Microsoft Flight Simulator</title>
-    <updated>2022-02-04T00:00:00+00:00</updated>
-    <link href="/news/enmhms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/61fc7fbf32ebbd448af9afa6_Cover.png" rel="enclosure" type="image/png" length="1264024"/>
-    <summary>Sim: MSFS. Onfinal Studios has recently released Mehamn Airport (ENMH) for Microsoft Flight Simulator. This scenery, bringing to life the small regional airport located at the northern tip of Norway, is a refreshing addition for pilots seeking brand new adventures in the wilderness of Scandinavia. According to the sceneryâs store page, Mehamn Airport will feature everything from detailed 3D models, custom objects, night lighting, and PBR textures. The developers also stated that the airport will accurately reflect the latest layout of its real-life counterpart with correctly placed taxiways and runways. For the complete feature list, check out the productâs store page Mehamn Airport, located in northern Norway, serves the village of Mehamn. The main airline for the region is WiderÃ¸e, which operates Dash-8s. For pilots seeking to test their landing skills, the airport âoffers a challenging offset localizer approach with a stunning view [and a short 880-meter runway]â. Currently, Mehamn Airport (ENMH) can be purchased on simMarket for $9.05 USD. To successfully install the scenery, the developers recommend users have at least 63MB of free disk space. It is also interesting to note that Mehamn isnât Onfinal Studiosâ first Scandinavian scenery; previous sceneries released by Onfinal Studios include Bronnoysund Airport and Batsfjord, both of which can also be purchased on simMarket.</summary>
-    <published>2022-02-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/thrcar</id>
-    <title>Thranda Design Announces the Cessna Caravan for X-Plane </title>
-    <updated>2022-02-05T00:00:00+00:00</updated>
-    <link href="/news/thrcar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/61fdf030306532265a4ebfa7_1355259902_1(4).jpg.349cadc2ec1730dc400aa5a7877c4c2e%20(2).jpg" rel="enclosure" type="image/jpeg" length="43712"/>
-    <summary>Sim: X-Plane. After much speculation over Thranda Designâs newest aircraft for X-Plane, the developer has taken to the X-Plane.org Forums to announce theÂ C208 Caravan 675 and C208B Grand Caravan will be arriving for X-Plane. Although no confirmation was given over whether the aircraft will be made for X-Plane 11 or 12, judging by the in-sim screenshots, it appears that the aircraft will be available in X-Plane 11. Containing both the C208 Caravan 675 and C208B Grand Caravan, the developer has assured users that the aircraft will contain all features from their Dynamic Generation Series product line. This means that the aircraft will boast âdynamic liveries, dynamic panels, dynamic dirt controls, DynaFeel flight dynamics enhancement, dynamically configurable for cargo, passenger, and executive version,â along with much more.Â  Although relatively little information was provided regarding a potential release date or pricing information, it was confirmed that the aircraft is being readied to enter beta, and is in the âfinal stages of production.â As well, no information on any potential X-Plane 12 upgrade was mentioned. For any further developments that arise for Thranda's newest aircraft for X-Plane, Threshold will make sure to keep you updated. Furthermore, for additional information and screenshots, make sure to check out the original announcement via the X-Plane.org Forums.</summary>
-    <published>2022-02-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/leiaer</id>
     <title>UnAir Releases Leicestershire AeroClub for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620b2ae92872738f29dd88e3_banner_1.png" rel="enclosure" type="image/png" length="838369"/>
     <summary>Sim: X-Plane. VATSIMâs team is maintaining its biannual tradition of Cross the Pond. The event will take place on April 2nd, in the westbound fashion. For those unfamiliar with the event, VATSIM hosts a transatlantic event where hundreds of pilots and full ATC coverage come together to participate in long-haul operations. Nearly 12 hours of full Air Traffic Control services will be in use for the entirety of the event. The team has opened up a vote for pilots to give feedback as to which airports theyâd like to operate out of during the event.Â  As always, thereâs a plethora of airports to choose from. Pilotâs are given the opportunity to choose three of their preferred airports from the lists below.Â  Itâs critical to mention that aspiring CTP pilots must book a flight slot to ensure participation in the event. Whilst bookings are currently not available, the VATSIM team will keep the community updated regarding the results and booking availability later this month. Due to the large swarms of aircraft during the event, pilots can potentially expect delays to their slot times. Another small piece of information to add, is that Concordes are not permitted within the event and supersonic aircraft will not be recognized as event participating aircraft. Stay tuned with VATSIMâs Cross the Pond website to ensure up to date information regarding slot bookings, and event updates.</summary>
     <published>2022-02-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/md11tf</id>
+    <title>TFDi Announces MD-11 Pricing Details</title>
+    <updated>2022-02-17T00:00:00+00:00</updated>
+    <link href="/news/md11tf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620dbacd1a16115d5de2d91a_ext3.png" rel="enclosure" type="image/png" length="1844197"/>
+    <summary>Sim: MSFS. TFDi has updated their product page for their MD-11 to include pricing information. The team seems to follow the same a-la-carte pricing model of the forthcoming PMDG NG3 which lets users purchase a single aircraft variant of their choice, unlike previous pricing models which includes two or more main variants within the base package. TFDi stated that the pricing model was adopted to allow users to âselect the exact features and options you want.â The base package comes in two flavours, the freighter to passenger variant, purchasing one of them will discount the other base package. For example, if you purchase the passenger variant, you donât need to shell out another $89.99 for the Freighter base package, but $14.99. TFDi aims to also expand the breadth of the simulation with an add-on package labeled âExtended Simulation Packageâ, this package introduces operational failures, an advanced custom failures menu, and some circuit breaker functionality.Here is the original breakdown of the pricing: Other information on the product page promises a well rounded digital replica of the trijet, with support for all the modern ESP (namely, Prepar3D v4 and v5) platforms including MSFS. The team opened the possibility of adapting the aircraft for use on older ESP simulators such as FSX and Prepar3D v1 to 3. The supplied feature list is short but covers what youâd normally expect in a high end aircraft simulation, with a fully bespoke visual model that includes highly accurate 3D and textures, with support for PBR on simulators that support it. On the technical side, accurate flight dynamics, a full fledged onboard simulation system that features a completely simulated FMS and autopilot system simulation are promised. Lastly, the team partnered with Turbine Sound Studios for the soundpack. TFDi is still accepting suggestions in their forum for features people like to see included in the aircraft. Head over to their wishlist to contribute. Thatâs all for TFDiâs MD-11. Weâll be sure to keep you in the loop. For now, do visit their product page for the original source.</summary>
+    <published>2022-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mag787</id>
+    <title>Magknight Updates Boeing 787</title>
+    <updated>2022-02-17T00:00:00+00:00</updated>
+    <link href="/news/mag787" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620dcbdfb40718395f756bb5_Cover.jpg" rel="enclosure" type="image/jpeg" length="53848"/>
+    <summary>Sim: X-Plane. The developers over at Magknight have updated their rendition of the Boeing 787 Dreamliner for X-Plane 11, bringing the aircraft version to 1.7.21. This update features many bug fixes and minor feature additions to help prepare the aircraft for its next major update. The team has recently gone on a tight-lipped silence without posting any updates since last August. Regardless, the team has been hard at work preparing for the custom FMC and newly modeled wings, which are said to be featured in the next update for the aircraft. Magknight has been the sole developer to venture into the world of the Dreamliner in XP11, with FlightFactor shortly becoming their competitor with their 787 currently in development. This update mainly features various bug fixes and minor additions. The CDU help box and NAV RAD page have been added, along with a custom radio simulation. MFD screen pop-ups have been added also with an N1 prediction addition to the EICAS. New Avitab textures, ND graphics,Â  and CDU graphics have been implemented into the aircraft as well. Moving on to items that have been changed, the CDU will now display times in ârealâ UTC. Multiple changes have been made to the MFD, such as keyboard entries, mouse entry code, and movement code, which have all been changed. The PFD artificial horizon colors have been improved alongside screen dimming in the flight deck. Legacy panel art and BetterPushback buttons when the plugin is not installed have been removed in this version. If you are interested in further learning about this update, you can view the full changelog at Magknightâs Official Discord Server. If you are interested in purchasing this aircraft, you can find it on the X-Plane.org Store for $44.95. Threshold will keep you posted on any further updates from Magknight.</summary>
+    <published>2022-02-17T00:00:00+00:00</published>
   </entry>
 </feed>
