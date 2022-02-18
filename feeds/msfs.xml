@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-02-17T18:24:55.171576+00:00</updated>
+  <updated>2022-02-18T18:24:46.650427+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/01/MSFS_FokkerFVII_NoSnipe_NoLogo_NoText_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="188589"/>
     <summary>We are proud to release the second of our Local Legends series of famous historical aircraft, the Fokker F.VII today. An 8-passenger airliner first flown in 1924 and designed by German aeronautical engineer Walther Rethel for the Fokker Aircraft Company of The Netherlands, the first five F.VIIs produced were driven by a single engine only. It was in this configuration that Dutch flag carrier … Continued</summary>
     <published>2022-01-31T21:39:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-world-update-vii-sale/</id>
-    <title>Marketplace: World Update VII Sale</title>
-    <updated>2022-01-31T21:00:15+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-world-update-vii-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/01/WU7_Sale_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="139386"/>
-    <summary>19 Items On Sale Now in the Marketplace</summary>
-    <published>2022-01-31T21:00:15+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-1-22-2-0-world-update-vii-australia-now-available/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Chtybeau-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76210"/>
     <summary>If you haven’t heard, Sim Update 8 Beta is live as of this morning! If you are interested in participating, click here for directions on how to join. And if you’re just curious, you can read the working release notes here. On another note, A big thank you for all who attended our SDK Q&amp;A yesterday on Twitch.</summary>
     <published>2022-02-10T23:03:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-17th-2022-development-update/</id>
+    <title>February 17th, 2022 Development Update</title>
+    <updated>2022-02-17T23:57:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-17th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/isaiahnparadise-Twitter-1024x576.png" rel="enclosure" type="image/png" length="261677"/>
+    <summary>We are nearing our Sim Update 8 release (see the updated Roadmap)! For those currently participating in the Beta, an update dropped yesterday based on your feedback and reports from last week. You can read the changelog here.</summary>
+    <published>2022-02-17T23:57:24+00:00</published>
   </entry>
 </feed>
