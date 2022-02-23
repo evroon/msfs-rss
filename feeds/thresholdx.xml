@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-22T18:25:33.002628+00:00</updated>
+  <updated>2022-02-23T18:23:47.586217+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/12nava</id>
-    <title>SimCoders Teases X-Plane 12 Plans &amp; Carenado Piper Navajo REP</title>
-    <updated>2022-02-15T00:00:00+00:00</updated>
-    <link href="/news/12nava" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620b09b2f41e1f31c789b861_wo.png" rel="enclosure" type="image/png" length="529061"/>
-    <summary>Sim: X-Plane. Â Last week, X-Plane developer SimCoders published a series of previews depicting their upcoming Reality Expansion Pack (REP) for Carenado Piper Navajo and sharing their plans of bringing their trademark Reality Expansion Packs to X-Plane 12, discussing the full implementation of the experimental flight model currently available as an option in X-Plane 11. For the developers, one of the bigger challenges they have to tackle is the full implementation of the Experimental Flight Model (EFM), an option available to users since X-Plane 11.40 but will become the only model available in X-Plane 12. To facilitate a âsmooth transitionâ to the new flight model, all REP from v4.6 onwards will run the EFM by default. Inn addition, the SimCoders are looking to âimprove the flight dynamics of the older REPsâ (Carenado F33, V35, Baron, C210, etc) based on community feedback, presenting users with the most realistic flight experience. Apart from the insights on their transition to the new simulator, the developers also teased the community with progress on their upcoming Navajo REP. The pictures showcase the aircrafts checklist, load/balance, and airspeed reference sheet. The plugin, according to the developers, will feature âall the usual REP improvements and a couple of powerful Lycoming TSIO-540-A2Câ. However, it is difficult to judge how close the REP is to completion based on the pictures provided. Currently, SimCoders is yet to announce a release date or pricing for the Carenado Navajo Reality Pack. Threshold will keep you updated on this front. For those looking to purchase existing Reality Expansion Packs, all SimCoders products can be found on the X-Plane.org store.</summary>
-    <published>2022-02-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ctpw22</id>
     <title>Vote for VATSIMâs Cross The Pond Westbound Airports!</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621356088dd56d981010e9b1_1_53993699-dd72-4bc5-9a32-164de9db6e02-2-2.png" rel="enclosure" type="image/png" length="580850"/>
     <summary>Sim: X-Plane. The Piper J3 Cub is aviationâs old trusty steed, and SimSolutionâs rendition of the iconic aircraft is now available to live on within X-Plane 11. SimSolutionâs appears to have done a great job in recreating one of aviation's most adored aircraft, this STOL aircraft has long been known for its versatility and agility, capable of unthinkable maneuvers. For pilots looking for an aircraft to just have fun with, this was and still is it. SimSolutions claims to have modeled this aircraft with high resolution textures, which is demonstrated in their provided images. Accurate flight characteristics is another promise made by the developers, meaning you can do all the same crazy low speed maneuvers you've seen these aircraft do in those viral videos. The Product comes with three configurations, namely: Standard Tires, Tundra Tires and Floats. With this, the aircraft includes a number of quirky features such as a custom hand held radio, hand propping ability, and toggleable covers. See below their full Feature list: In addition to all this, what could be considered a minor yet appreciated feature is the provided CSL model for Vatsim use. The great news is this neat little product can be enjoyed by all, as the aircraft works with X-Plane 11.50+Â  across Windows, MacOS and Linux.Â  It's worth mentioning, with Vatsim Velocity being released not too long ago, could we see this Aircraft leading an STOL challenge perhaps? Do let us know! Priced at a reasonable 12.99GBP the aircraft can be purchased from the product page on the iniBuilds Store.</summary>
     <published>2022-02-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/2nc0ms</id>
+    <title>Pilotâs Releases Mountain Air Airport For MSFS</title>
+    <updated>2022-02-23T00:00:00+00:00</updated>
+    <link href="/news/2nc0ms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6215c1bdb39ec357e8edab78_Cover.jpg" rel="enclosure" type="image/jpeg" length="159701"/>
+    <summary>Sim: MSFS. Mountain Air Airport (2NC0), is North Carolinaâs well recognized general aviation favorite. Known around the world for its unique breathtaking views and scenic approaches. Topped with a slight element of danger, given the runway is sloped, while simultaneously nestled high in the Slickrock Mountains. Surrounded by neighboring Black Mountains, Blue Ridge Mountains, and the Appalachian Mountains, it's needless to say, pilots here typically won't be able to truly take in the natural beauty on their way in, given the evident obstacle issue that tends to require full effort and attention.Â   Pilotâs GesmbH has attempted to capture this beautiful location in a way that could offer everyone sitting at home the opportunity to experience operations in and out of the airport. Looking at their provided images, it appears they have done a brilliant job in doing so, with consistently crisp, clear textures. Below is a list of features they have implemented into the scenery, while the list is quite limited the images do speak for themselves.  If you enjoy short-haul tourist charter flights, this scenery may be ideal for you. Currently, the product can only be purchased exclusively on the MSFS Marketplace and is priced at a reasonable $12.49 USD. This scenery is available on PC and XBOX. For more information check out their Facebook page.</summary>
+    <published>2022-02-23T00:00:00+00:00</published>
   </entry>
 </feed>
