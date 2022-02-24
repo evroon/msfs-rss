@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-23T18:23:47.586217+00:00</updated>
+  <updated>2022-02-24T18:25:42.347065+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ctpw22</id>
-    <title>Vote for VATSIMâs Cross The Pond Westbound Airports!</title>
-    <updated>2022-02-15T00:00:00+00:00</updated>
-    <link href="/news/ctpw22" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620b2ae92872738f29dd88e3_banner_1.png" rel="enclosure" type="image/png" length="838369"/>
-    <summary>Sim: X-Plane. VATSIMâs team is maintaining its biannual tradition of Cross the Pond. The event will take place on April 2nd, in the westbound fashion. For those unfamiliar with the event, VATSIM hosts a transatlantic event where hundreds of pilots and full ATC coverage come together to participate in long-haul operations. Nearly 12 hours of full Air Traffic Control services will be in use for the entirety of the event. The team has opened up a vote for pilots to give feedback as to which airports theyâd like to operate out of during the event.Â  As always, thereâs a plethora of airports to choose from. Pilotâs are given the opportunity to choose three of their preferred airports from the lists below.Â  Itâs critical to mention that aspiring CTP pilots must book a flight slot to ensure participation in the event. Whilst bookings are currently not available, the VATSIM team will keep the community updated regarding the results and booking availability later this month. Due to the large swarms of aircraft during the event, pilots can potentially expect delays to their slot times. Another small piece of information to add, is that Concordes are not permitted within the event and supersonic aircraft will not be recognized as event participating aircraft. Stay tuned with VATSIMâs Cross the Pond website to ensure up to date information regarding slot bookings, and event updates.</summary>
-    <published>2022-02-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/md11tf</id>
     <title>TFDi Announces MD-11 Pricing Details</title>
@@ -150,6 +141,15 @@
     <link href="/news/2nc0ms" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6215c1bdb39ec357e8edab78_Cover.jpg" rel="enclosure" type="image/jpeg" length="159701"/>
     <summary>Sim: MSFS. Mountain Air Airport (2NC0), is North Carolinaâs well recognized general aviation favorite. Known around the world for its unique breathtaking views and scenic approaches. Topped with a slight element of danger, given the runway is sloped, while simultaneously nestled high in the Slickrock Mountains. Surrounded by neighboring Black Mountains, Blue Ridge Mountains, and the Appalachian Mountains, it's needless to say, pilots here typically won't be able to truly take in the natural beauty on their way in, given the evident obstacle issue that tends to require full effort and attention.Â   Pilotâs GesmbH has attempted to capture this beautiful location in a way that could offer everyone sitting at home the opportunity to experience operations in and out of the airport. Looking at their provided images, it appears they have done a brilliant job in doing so, with consistently crisp, clear textures. Below is a list of features they have implemented into the scenery, while the list is quite limited the images do speak for themselves.  If you enjoy short-haul tourist charter flights, this scenery may be ideal for you. Currently, the product can only be purchased exclusively on the MSFS Marketplace and is priced at a reasonable $12.49 USD. This scenery is available on PC and XBOX. For more information check out their Facebook page.</summary>
+    <published>2022-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inilhr</id>
+    <title>iniScene Release Heathrow for MSFS</title>
+    <updated>2022-02-23T00:00:00+00:00</updated>
+    <link href="/news/inilhr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6216b1f20b1e308e5c205217_39.png" rel="enclosure" type="image/png" length="3156402"/>
+    <summary>Sim: MSFS. iniScene has released their highly anticipated rendition of Britainâs Busiest Airport. Featuring much of the airportâs instantly recognisable features such as the Emirates A380 model situated in the centre of a roundabout as well as the legendary Concorde situated at the threshold to runway 27L. Also to be explored in the scenery are over 10,000 cars scattered around the airport, 2,500 custom placed lighting fixtures and hand colour corrected ortho imagery. Find the full list of features below. iniBuilds announced Heathrow Airport (EGLL) was in creation by their scenery department (iniScene) at the start of this month with a short video teaser. This teaser was swiftly followed with a longer trailer showcasing the airport in a comprehensive video. Now, not long after the trailer, todayâs release marks the release of the scenery, now available for Â£17.99. Worried about your FPS while flying in or out of this dense area? Fear not, iniScene states they have taken an âaggressiveâ approach to optimising the scenery with heavy usage of LOD (Level of Detail) models and âmeticulousâ optimisation throughout the whole scenery package. Also available for users of MSFS on the Xbox, is a further optimised rendition of the scenery making usage of the scenery ideal for Xbox simmers. Although Heathrow is not yet available for Xbox, the scenery is said to be with Microsoft for their long-winded approval process, after which the scenery will be available on the in-game marketplace. Hereâs the full feature list provided: iniSceneâs Heathrow Airport is now available for Microsoft Flight Simulator for the price of Â£17.99.Â  Xbox users will be able to pick up a copy of the scenery on the Marketplace following Microsoftâs internal reviewal process. No estimated length has been given for this period so far.</summary>
     <published>2022-02-23T00:00:00+00:00</published>
   </entry>
 </feed>

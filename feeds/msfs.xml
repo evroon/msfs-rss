@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-02-23T18:23:46.826130+00:00</updated>
+  <updated>2022-02-24T18:25:41.580752+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -54,14 +54,6 @@
     <published>2022-02-17T23:57:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/reno-air-races-meet-the-planes/</id>
-    <title>Reno Air Races: Meet The Planes</title>
-    <updated>2021-11-16T21:10:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/reno-air-races-meet-the-planes/" rel="alternate"/>
-    <summary>A Walk Down Reno’s Flight Line When it comes to speed, not all planes are created equal. Since the very first Reno Air Races, competing aircraft have been separated into different classes based on their speed and performance. That first event in 1964 featured three classes: Biplanes like the Pitts Special, Formula 1 race planes that must adhere to identical performance standards, and Unlimited: classic WWII era warbirds where anything goes when it comes to … Continued</summary>
-    <published>2021-11-16T21:10:33+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/local-legend-ii-fokker-f-vii/</id>
     <title>Local Legend II: Fokker F.VII</title>
     <updated>2022-01-31T21:39:59+00:00</updated>
@@ -74,8 +66,16 @@
     <title>Pioneers of Flight: Cornelius Coffey and Willa Brown</title>
     <updated>2022-02-21T17:12:57+00:00</updated>
     <link href="https://www.flightsimulator.com/pioneers-of-flight-cornelius-coffey-and-willa-brown/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/coffey2-1024x758.jpg" rel="enclosure" type="image/jpeg" length="108646"/>
     <summary>When thinking about the pioneers of African-American aviation, possibly the most famous are the Tuskegee Airman, the decorated World War II aviators who served their country despite having to fight against racial segregation and discrimination within the US military. Or perhaps you might think of Bessie Coleman, who in 1921 was the first Black woman … Continued</summary>
     <published>2022-02-21T17:12:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
+    <title>Community Spotlight: Blu Games</title>
+    <updated>2022-02-23T09:30:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Blu_Games_Header-1-1024x414.png" rel="enclosure" type="image/png" length="148656"/>
+    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
+    <published>2022-02-23T09:30:43+00:00</published>
   </entry>
 </feed>
