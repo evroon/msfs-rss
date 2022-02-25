@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-02-24T18:25:41.580752+00:00</updated>
+  <updated>2022-02-25T18:25:41.970075+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-22-2-0-world-update-vii-australia-now-available/</id>
-    <title>Release Notes (1.22.2.0) World Update VII: Australia Now Available!</title>
-    <updated>2022-01-31T21:03:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-22-2-0-world-update-vii-australia-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/01/MSFS_WU7_Australia_NoSnipe_NoLogo_NoText_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="912122"/>
-    <summary>Release Notes for Version 1.22.2.0 (World Update VII: Australia) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-01-31T21:03:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-3rd-2022-development-update/</id>
     <title>February 3rd, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/isaiahnparadise-Twitter-1024x576.png" rel="enclosure" type="image/png" length="261677"/>
     <summary>We are nearing our Sim Update 8 release (see the updated Roadmap)! For those currently participating in the Beta, an update dropped yesterday based on your feedback and reports from last week. You can read the changelog here.</summary>
     <published>2022-02-17T23:57:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-24th-2022-development-update/</id>
+    <title>February 24th, 2022 Development Update</title>
+    <updated>2022-02-25T00:07:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-24th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Punkoflyer-Forum-1-1024x683.jpg" rel="enclosure" type="image/jpeg" length="46583"/>
+    <summary>We are on track to release Sim Update 8 on Monday, February 28th on all platforms. Thank you to everyone who participated in the Beta leading up to this release. We are thankful for the help in improving the build version overall. Stay tuned for more discussion during our monthly Dev Q&amp;A coming next Wednesday, March 2nd at 10:30am PST (1830Z) on Twitch.</summary>
+    <published>2022-02-25T00:07:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-ii-fokker-f-vii/</id>
