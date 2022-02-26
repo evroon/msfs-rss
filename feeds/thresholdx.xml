@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-25T18:25:42.668833+00:00</updated>
+  <updated>2022-02-26T18:24:13.765623+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vc10no</id>
-    <title>Just Flight's VC10 for X-Plane is Potentially Cancelled</title>
-    <updated>2022-02-18T00:00:00+00:00</updated>
-    <link href="/news/vc10no" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/620fa8be8e8ffe73defbe475_VC10XP_040820_10_cNNC0cvYC.jpeg" rel="enclosure" type="image/jpeg" length="230965"/>
-    <summary>Sim: X-Plane. New evidence supports the claim that the Just Flight VC10 for XPlane has been cancelled. In May 2020, Just Flight announced their intentions to port their VC10 from the ESP platform into X-Plane. This was followed by previews uploaded to their Facebook Page: Despite promising images of the teamâs progress, a long radio silence ensued, until XPlane users started to express their concerns online. On February 4th 2022, a user of the XPlane.Org Forums posted an email claimed to have been sent to them by Just Flightâs customer service in response to a query as to the whereabouts of the VC10. The email cites that the main reason for the cancellation of the project was the teamâs inability to assure the quality of the product. This claim is corroborated by the fact that clicking the link to the progress blog on Just Flightâs website yields a âPage not foundâ error. Whilst Just Flight have not yet formally made a public announcement, the evidence points toward the VC-10 port for X-Plane no longer being in development.</summary>
-    <published>2022-02-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/da50ab</id>
     <title>Aerobask Teases DA50 for X-Plane</title>
@@ -150,6 +141,15 @@
     <link href="/news/ksryxp" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62186e8938a1935df7038b83_Cover.jpg" rel="enclosure" type="image/jpeg" length="140798"/>
     <summary>Sim: X-Plane. VerticalSim has released the visual rendition of Syracuse Airport (KSYR) for X-Plane 11 just 3 months after the initial release of Boise Airport for the same client. The developerâs scenery style has finally reached the Empire State. Syracuse Airport is locate near the city of Syracuse, New York. After land was purchased in 1928, a small airfield was constructed to service airmail carriers. After World War 2, the Army Air Corps leased the local bomber base near the small airfield, which then further transformed into the Clarence E. Hancock Airport in 1949. At the time of opening, the airport had four airlines basing routes in and out of the airfield, which included but are not limited to, American Airlines and Mohawk Airlines. Today, the airport receives both passenger and cargo operations. This visual rendition offers many qualities that VerticalSim has made standard in all of its releases. Right out of the box, 4K PBR textures and HDR night lighting have been included, alongside the airport's current layout as of 2022. SAM Jetway support and animated vehicle traffic have also been added to enhance the userâs experience. Lastly, taxi routes are available for AI Traffic addons. The full feature list has been provided upon release: If you are interested in purchasing this scenery, you can find it on VerticalSimâs Store Page for $19.99. For other visual scenery packages by VerticalSim, visit their website.</summary>
+    <published>2022-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/recyyz</id>
+    <title>RegDesigns Announces Toronto Pearson Airport for Microsoft Flight Simulator</title>
+    <updated>2022-02-25T00:00:00+00:00</updated>
+    <link href="/news/recyyz" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62194ddf74ffdb61a0d4d080_YYZ10%20(1).png" rel="enclosure" type="image/png" length="967588"/>
+    <summary>Sim: MSFS. Toronto-based developer, RegDesigns have announced their rendition of Toronto Pearson International Airport (CYYZ) for Microsoft Flight Simulator. After being sought after by the community for quite a while now, the announcement of CYYZ comes with a plethora of excitement from the community. Unfortunately, not much information was provided, except the fact that the airport recently entered beta. Excitingly, however, a trailer is set to release later today via the developerâs YouTube Channel. Located in the Greater Toronto Area (Ontario, Canada), Toronto Pearson is an incredibly large airport within Canada, with 50.5 million visitors in 2019, the aerodrome sees a vast array of aircraft types frequently visiting, including the enormous Airbus A380. Furthermore, the airport marks the first major airport within Canada created by RegDesigns, with their previous creations including Waterloo (CYKF), Guelph (CNC4), and more.Â  Lastly, the airport is set to cost $19.99. However, no further information was given, and no potential release date is known. Nevertheless, make sure to check out the developer's YouTube Channel, to view the trailer which is releasing soon. Finally, to acquire additional information, make sure to check out the developerâs website, or join their discord server where a giveaway is being hosted as well.</summary>
     <published>2022-02-25T00:00:00+00:00</published>
   </entry>
 </feed>
