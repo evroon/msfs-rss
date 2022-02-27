@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-26T18:24:13.765623+00:00</updated>
+  <updated>2022-02-27T18:24:34.687092+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/da50ab</id>
-    <title>Aerobask Teases DA50 for X-Plane</title>
-    <updated>2022-02-18T00:00:00+00:00</updated>
-    <link href="/news/da50ab" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62101fe63de5ac130e570d94_chrome_1802_2237.png" rel="enclosure" type="image/png" length="2516263"/>
-    <summary>Sim: X-Plane. The team at Aerobask has uploaded a teaser trailer of their upcoming Diamond DA50 RG for X-Plane 11. Aerobaskâs DA50 features a Garmin avionics suite, PBR textures, and accurate modelling. The new aircraft will join the existing DA62 in the developerâs Diamond catalogue.Â  The Diamond DA50 is a five seat, single engine, composite aircraft designed and manufactured by Diamond Aircraft. Originating out of Austria, the aircraft first flew in April of 2007, but is not in active production awaiting certification from EASA and the FAA. The RG variant of the DA50 has a useful load of 559kg (1,232 lbs), a maximum speed of 181 knots, and a range of 750nm (1,389km). Currently, only two prototypes of the aircraft exist in the entire world, with production expected to resume once its certification process is complete.Â  Unfortunately, Aerobask has not revealed any additional information regarding the whereabouts of the project, but keep an eye out for future teasers and trailers on our website. Pilots who are unfamiliar with Aerobask should take a quick look at this article showcasing Aerobask's rendition of their previous Diamond Aircraft project, the DA62.</summary>
-    <published>2022-02-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inihea</id>
-    <title>iniScene Premieres Heathrow Trailer</title>
-    <updated>2022-02-19T00:00:00+00:00</updated>
-    <link href="/news/inihea" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621064dbb0efea420ca3a990_neue.png" rel="enclosure" type="image/png" length="957243"/>
-    <summary>Sim: MSFS. The highly awaited trailer for iniSceneâs rendition of London Heathrow Airport has premiered on their YouTube Channel. This trailer comes just after the team announced the project for Microsoft Flight Simulator just a week ago, alongside releasing a teaser trailer the same day. Londonâs Heathrow Airport is often referred to as one of the main International hubs in Europe, alongside airports like Amsterdam Schiphol and Charles De Gualle. It is the hub for the countries residing Flag Carrier, British Airways, while also being a focus airport for Virgin Atlantic. The airport also sees many other well-known carriers such as Delta, KLM, American Airlines, and Emirates to name a few. This project by iniScene has been one of the most ambitious projects for the developer. Not only has the team focused on the main terminals, runways/taxiways, and airport facilities, but they have also focused on many different airport landmarks such as the airport's distinctive looking ATC Control Tower, to construction vehicles on the airport grounds, ending with hotels outside the airport grounds. The team has said that this project will be the team's âmost detailed and feature-rich scenery to date.â No feature list or product page has not been released to the public at this time. Though we do expect to see an intense feature list when it has been made readily available to the public. If you are interested in learning more about this project, check out our previous coverage when this project was first announced!Threshold will keep you updated on further developments regarding this project.</summary>
-    <published>2022-02-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/stu24f</id>
     <title>MK Studios Hints at Rome News on February 24th</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62194ddf74ffdb61a0d4d080_YYZ10%20(1).png" rel="enclosure" type="image/png" length="967588"/>
     <summary>Sim: MSFS. Toronto-based developer, RegDesigns have announced their rendition of Toronto Pearson International Airport (CYYZ) for Microsoft Flight Simulator. After being sought after by the community for quite a while now, the announcement of CYYZ comes with a plethora of excitement from the community. Unfortunately, not much information was provided, except the fact that the airport recently entered beta. Excitingly, however, a trailer is set to release later today via the developerâs YouTube Channel. Located in the Greater Toronto Area (Ontario, Canada), Toronto Pearson is an incredibly large airport within Canada, with 50.5 million visitors in 2019, the aerodrome sees a vast array of aircraft types frequently visiting, including the enormous Airbus A380. Furthermore, the airport marks the first major airport within Canada created by RegDesigns, with their previous creations including Waterloo (CYKF), Guelph (CNC4), and more.Â  Lastly, the airport is set to cost $19.99. However, no further information was given, and no potential release date is known. Nevertheless, make sure to check out the developer's YouTube Channel, to view the trailer which is releasing soon. Finally, to acquire additional information, make sure to check out the developerâs website, or join their discord server where a giveaway is being hosted as well.</summary>
     <published>2022-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lirfms</id>
+    <title>MK-STUDIOS Releases Rome-Fiumicino For MSFS</title>
+    <updated>2022-02-27T00:00:00+00:00</updated>
+    <link href="/news/lirfms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621ae48bb2da881966b3d78c_Cover.jpg" rel="enclosure" type="image/jpeg" length="260149"/>
+    <summary>Sim: MSFS. The development teams at MK-STUDIOS have released their visual rendition of Rome-Fiumicino International Airport (LIRF) for Microsoft Flight Simulator. This release brings the developerâs quality and attention to detail to the Mediterranean airport. To some, this airport is also known as the Leonardo Da Vinci International Airport, opening its doors in 1961. With 2 runways operating upon opening, this airport was to help alleviate passenger traffic from the smaller Rome Ciampino Airport after the 1960 Rome Olympics. The airport later built a third runway when Alitalia Airlines built its main hub within the same decade. Today, the airport is ranked the 11th busiest airport in Europe, servicing 43.5 million passengers in 2019 (pre-pandemic), and services the new Italian carrier, ITA Airways as of late 2021. The feature list provided is short but simple, with the use of PBR textures alongside this rendition featuring the airport's current 2022 layout. Satellite imagery has been used on the airport grounds, including small simplified terminal interiors. The full feature list has been provided and below: - Rome Fiumicino Airport in very detailed rendition, - High definition PBR textures, - 2022 airport layout, - Satellite image for the airport area, - Simplified terminal interior.Â  To purchase the visual rendition of Leonardo da Vinci International Airport for â¬15.99, visit simMarket. For other scenery packages developed by MK-STUDIOS, visit their product page on simMarket.</summary>
+    <published>2022-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kastms</id>
+    <title>Skyline Simulations Releases Astoria Regional Airport for MSFS</title>
+    <updated>2022-02-27T00:00:00+00:00</updated>
+    <link href="/news/kastms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621aea579c2cc63da86a7a64_Cover.png" rel="enclosure" type="image/png" length="2968597"/>
+    <summary>Sim: MSFS. Scenery developer Skyline Simulations has released its newest product - Astoria Regional Airport (KAST) for Microsoft Flight Simulator. Utilizing technologies such as PBR textures and FSEco-subsystem, the developers bring users an immersive experience of the unique regional airport on the coast of Oregon. According to Skyline Simulations, Astoria airport has been crafted to reflect the latest airport updates. Featuring HD/PBR ground decals, detailed 3D building models, custom static objects, landmarks, and an accurate city model based on realistic OSM data. A full list of features can be viewed on the developerâs store page. Located in Warrenton Astoria, Oregon, the airport serves both civilian traffic and the United States Coast Guard. Currently, KAST has no scheduled airline flights, though it is a popular general aviation destination for the locals. Flying to the region, users can âenjoy the night view with beautiful landmarks such as the Astoria Column, the Lighthouse, and the famous Astoria-Megler Bridge". Currently, Astoria Regional Airport (KAST) can be purchased on Skyline Simulationâs webstore or simMarket for $21.00 USD or EUR 19.00, excluding any potential sales tax.</summary>
+    <published>2022-02-27T00:00:00+00:00</published>
   </entry>
 </feed>
