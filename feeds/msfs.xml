@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-02-28T18:25:29.062536+00:00</updated>
+  <updated>2022-03-01T18:24:52.265089+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/sim-update-8-beta-preview/</id>
-    <title>Sim Update 8 Beta News</title>
-    <updated>2022-02-10T03:07:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/sim-update-8-beta-preview/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_007-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="47433"/>
-    <summary>Welcome testers! Thank you for your interest in participating in the Sim Update 8 Public Flight. Read this post to learn how to sign up for the Sim Update 8 beta.</summary>
-    <published>2022-02-10T03:07:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-10th-2022-development-update/</id>
     <title>February 10th, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/24855a87a0c3c452ea483ee97de83b299cf049ff-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="51684"/>
     <summary>Release Notes for Version 1.23.12.0 (Sim Update 8) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2022-02-28T16:03:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-now-available-on-xbox-one-and-mobile-devices-via-xbox-cloud-gaming/</id>
+    <title>Microsoft Flight Simulator: Now Available on Xbox One and mobile devices via Xbox Cloud Gaming</title>
+    <updated>2022-03-01T17:01:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-now-available-on-xbox-one-and-mobile-devices-via-xbox-cloud-gaming/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/xCloud_Microsoft-Flight-Simulator_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="179466"/>
+    <summary>As we continue to evolve the simulator and expand the ways with which both core simmers and newcomers to the franchise can experience Microsoft Flight Simulator, we are thrilled to announce that Microsoft Flight Simulator can now be streamed via Xbox Cloud Gaming.Starting today, Microsoft Flight Simulator is available on Xbox One and on other … Continued</summary>
+    <published>2022-03-01T17:01:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-ii-fokker-f-vii/</id>

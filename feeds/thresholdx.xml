@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-02-28T18:25:30.732039+00:00</updated>
+  <updated>2022-03-01T18:24:53.096374+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simcub</id>
-    <title>SimSolutions Previews the Piper J3 Cub for X-Plane 11</title>
-    <updated>2022-02-20T00:00:00+00:00</updated>
-    <link href="/news/simcub" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6211a971b02b10a5f701f65c_unnamed%20(1).png" rel="enclosure" type="image/png" length="54984"/>
-    <summary>Sim: X-Plane. After the recent release of their DA40NG for X-Plane 11, SimSolutions has once again taken to the iniBuilds Youtube Channel to announce their newest aircraft for the simulator, this time with the Piper J3 Cub. With the developer claiming the aircraft as a â faithful rendition of the real aircraft,â the single-engine Piper is set to boast âhigh-resolution textures, accurate flight characteristics, and an accurately modelled airframe.â Furthermore, to cover the J3 Cubâs diverse flying capabilities, the piston airplane will release with three different configurations, including standard tires, tundra tires, and floats. Lastly, an extensive feature list was provided, which is viewable below. Unfortunately, no release date was provided for the aircraft. However, itâs been confirmed that it will cost Â£12.99 GBP (plus tax). Lastly, make sure to check out the aircraft's product page via the iniBuilds store for further information. As well, Threshold will make sure to keep you updated on any potential developments that arise with the J3 Cub.</summary>
-    <published>2022-02-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/madbet</id>
-    <title>Leonardo Maddog for MSFS is in Beta</title>
-    <updated>2022-02-20T00:00:00+00:00</updated>
-    <link href="/news/madbet" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6211c94bfba3194aa85cdb1e_maddog.jpeg" rel="enclosure" type="image/jpeg" length="286296"/>
-    <summary>Sim: MSFS. First announced in November of 2020, Leonardo has undergone active development of itâs incredible McDonnell Douglas MD-80 for the new simulator. Itâs been a couple months since weâve last heard from the team, but recently, Stefan subtly commented on the Maddog X forum that the aircraft is currently in itâs beta stage, and the software is progressing well.Â  Leonardoâs MD-80 was originally developed for Prepar3Dv4 and FSX. Itâs widely considered by the flight simulation community to be one of the best airliners available for any simulator platform, and arguably the best MD-80 available, period. The aircraft delivers fully simulated failures, accurate systems, superb modeling, and a proactive development team.Â  Reverting back to the MSFS compatible MD-80, the team has shared a few videos on its YouTube channel, showcasing the aircraft in action. Other than their videos and promising comments regarding the aircraftâs development progress, though, we havenât received any additional information surrounding its release.Â  Stefano mentioned that more details will follow this announcement, make sure to keep up to date with Leonardoâs progress on their forums, as well as with us here at Threshold.Â </summary>
-    <published>2022-02-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/blue75</id>
-    <title>BlueBird Simulations Announces 757 for MSFS</title>
-    <updated>2022-02-20T00:00:00+00:00</updated>
-    <link href="/news/blue75" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621236468c749afce981d8b3_Screenshot-9040-Logo-2048x1152.png" rel="enclosure" type="image/png" length="1466645"/>
-    <summary>Sim: MSFS. Up-and-coming aircraft developer BlueBird Simulations has announced their first project for flight simulation, the Boeing 757. The team contains four dedicated members, including a programmer with a plethora of experience, two model designers, and an airline pilot. Just Flight will be supporting the 757 development efforts. BlueBird informed the community that âthis will be a mid-level complexity aircraft which will be several layers more complex than default airliners.â â BlueBird Simulations intends for the 757 to be an MSFS-native aircraft to fully utilize the SDK. As of now, the aircraft is still in the early stages of systems development, but more information will be disclosed later, when the team has more progress to share. Itâs important to contextualize the recurrent theme of âassuming release datesâ by pointing out that development times may change over the course of time if the developer feels its necessary, but BlueBird is confident that the 757 will find itself on the market in the first half of 2023.Â  Head over to the BlueBird Simulations website to visit the original update post, additionally check Just Flight's Facebook post for more images of the 757âs current exterior, and to keep current with the âflying pencilsâ progress.Â </summary>
-    <published>2022-02-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tdsgtn</id>
-    <title>TDS Sim Announces GTNXi VC Integration MSFS</title>
-    <updated>2022-02-21T00:00:00+00:00</updated>
-    <link href="/news/tdsgtn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621331db750bf90c7e2f7d12_cpic02-2.jpeg" rel="enclosure" type="image/jpeg" length="289971"/>
-    <summary>Sim: MSFS. As the addons list for MSFS continues to grow, it has been refreshing to see a utility product amongst all the scenery and aircraft hype. With TDS Simâs flagship product, itâs a simulated fourth generation Garmin GTNXI: an answer to the complaints and concerns over MSFS native navigation systems that have, according to the community, long been one the simulators short falls - its latest update is certainly arriving with much anticipation. Recently, TDS Sim announced that their product for MSFS can now be experienced through Virtual Cockpits with added VC and VR support.Â  Now armed with these new capabilities and an expanding list of compatible aircraft, the product's future developments appear promising. The aircraft that will initially support this added VR and VC ability will be the Just Flight PA28 collection, followed by the upcoming SimWorks Studios RV-14, as well as the FlySimWare C414. Integration of the product and the added functionality will be dependent on external aircraft developers and their willingness to adopt TDS Simâs SDK.Â  In true Garmin fashion, the GTNXi is packed with some really impressive features that will give the pilots who utilize it the upper hand. This experience is now heightened with the recently added capabilities; if you are not a current user of the GTNXi, and are a VR user or simply someone who prefers complete VC integration, then maybe the prospect of this product now working for you may spark some interest. Luckily weâre here to give you a quick insight on what this product entails. It is evident that the team has really gone to great lengths to ensure no function has been forgotten. What we have seen from the team recently proves their willingness to constantly build on their existing products, meaning we can be sure to see future updates. Take a look at some of their more interesting features amongst many, that we thought are worth highlighting: Some noteworthy mentions: the product contains both the 650Xi and the 750Xi so thereâs no need to purchase them individually. Should you decide to go ahead and purchase the product, the team has expressed their focus in keeping the product optimized so that performance of the flight simulator remains unimpacted, we know this is important. The installation of similar products in the past have always notoriously been tricky, however TDS claims their installation process is as simple as running a standalone exe file. Should you require further information check out the product page for an extensive breakdown, potential users can expect all the usual Garmin functions and much more. The product is currently on sale at 39.95 EUR, typically costing 49.95 EUR and can be purchased on TDS Simâs website.</summary>
-    <published>2022-02-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sspj3c</id>
     <title>SimSolutionâs releases Piper J3 Cub</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621c809be24b25aeefb7331a_KCRW_Preview_22%20(1).png" rel="enclosure" type="image/png" length="578611"/>
     <summary>Sim: X-Plane. iniBuilds has posted a trailer showcasing Xometry Designs new project, West Virginia International Yeager Airport for X-Plane 11. The airport serves as the newest addition to Xometrys expanding range of products, which now include Victorville, Punta Delgada, Eagle County and West Virginia International Airport. Yeager Airport will take advantage of X-Plane 11s technology by featuring high resolution ground textures, PBR, SAM jetways alongside other luxuries.Â  Otherwise known as McLaughlin Air National Guard Base, West Virginia Yeager International airport is a dual-purpose airport, served both by the military and commercial airline operators. Carriers that currently provide flights to the airport include American Eagle, Delta Airlines, Delta Connection, Spirit Airlines and United Express. Itâs also imperative to mention that the geography of the airport is unique, as it sits on a hilltop 300 feet (100 meters) above the lower Charleston metropolitan area providing for a cool approach. Reverting back to the X-Plane variant of the airport, iniBuilds provided this features list: Whilst iniBuilds hasn't provided a specific release date for the airport, they've detailed that the airport is âcoming soonâ. Once available for purchase, iniBuilds will publish Yeager Airport to their store for Â£15.49/â¬18.43/$20.77. Make sure to monitor Threshold in the forthcoming future in anticipation of the airports release.Â Â   </summary>
     <published>2022-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mdppms</id>
+    <title>Dreamflight Studios Releases Puerto Plata Airport for MSFS</title>
+    <updated>2022-02-28T00:00:00+00:00</updated>
+    <link href="/news/mdppms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621d1b2e98c66a030b68479e_mdpp%20(1).jpg" rel="enclosure" type="image/jpeg" length="473359"/>
+    <summary>Sim: X-Plane. Scenery developer Dreamflight Studios has released its rendition of Puerto Plata airport for MSFS2020. The news follows their recent release of McClellan Palomar airport for the new sim last month. Puerto Plata is a feature-rich airport, as it presents itself with full PBR and HD textures, sloped runways, as well as other commodities.Â  Gregorio Luperon International Airport, also known as Puerto Plata Airport, is one of the Dominican Republic's busiest airports. Its proximity to the coast makes it popular with leisure tourists, especially snowbirds who desire to escape the harsh winters of the Northern US, Canada, and northern Europe. Puerto Plata is served by a slew of airlines, most notably by Air Transat, American Airlines, Condor, Finnair, JetBlue, United in addition to other leisure airlines. Due to the nature of this region, the vast majority of this service is seasonal, only containing a few scheduled flights during the summer.Â  Dreamflight Studios rendition of Gregorio Luperon International Airport showcases the following features: Puerto Plata airport is available on simMarket for 12.99EUR/10.85GBP/14.55USD. The product is installed with the Contrail desktop app. Once downloaded, the airport will utilize approximately 500MB of space.Â Stay tuned with Threshold to keep current with future Dreamflight Studios news! </summary>
+    <published>2022-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flyyyz</id>
+    <title>FlyTampa Publishes Toronto Pearson for MSFS</title>
+    <updated>2022-03-01T00:00:00+00:00</updated>
+    <link href="/news/flyyyz" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621db201fb202563638518dc_cyyz5.jpg" rel="enclosure" type="image/jpeg" length="373391"/>
+    <summary>Sim: MSFS. The renowned scenery developer, FlyTampa, has shipped out its rendition of Toronto Pearson International Airport (CYYZ), for Microsoft Flight Simulator. This release brings more of the developer's high-quality development and accurate renditions to the major intercontinental airport.  Toronto has a small history that dates back to 1937 when the Canadian Government opted to build 2 airports, one of which currently resides on the Toronto Islands which is present-day Billy Bishop Toronto City Airport, and the other to be built in northwest Toronto, named the Malton Airport, and received its first passenger service in 1939. After WW2, the airport received international status in 1958 and was changed to Lester B. Pearson International Airport in 1984. FlyTampa has included a detailed feature list for this package. Starting off, an interior of the terminals has been provided alongside the latest layout of the airport as of 2022. PBR textures and Dynamic lighting are included as well. 3D terrain including both tunnels and bridges is accurately modeled to depict the current layout of the airport.  If you are interested in picking this scenery package for yourself, you can find it over on FlyTampaâs Website and it sells for $17.99. You can also find this airport for a variety of other simulators such as FSX and Prepar3D, over on their website as well.</summary>
+    <published>2022-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfsv8</id>
+    <title>Asobo Studio Released Sim Update VIII (v1.23.12.0) for Microsoft Flight Simulator</title>
+    <updated>2022-03-01T00:00:00+00:00</updated>
+    <link href="/news/msfsv8" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621dd63b54a5a14f89e39168_JAPAN_Update_Shrine-1024x576.png" rel="enclosure" type="image/png" length="162837"/>
+    <summary>Sim: MSFS. Earlier this week, Asobo Studio released Sim Update VIII (v1.23.12.0) for Microsoft Flight Simulator. The update brings a few new features and a large variety of improvements to simulator stability, weather, VR, developer SDK, and default aircrafts. Starting off with the new features, the developers announced that the Market Place will receive a brand new UI that brings âimproved discoverability and a better navigation experienceâ. Additionally, an optional propeller simulation system with âhundreds of moving surfacesâ is now available for the Cessna 152, Cessna 208 B Grand Caravan EX, and Beechcraft King Air 350i, improving the realism of propeller effects such as feathering and prop-drag. Finally, a new private match mode for Reno air Races can now be accessed via content manager and a new Spotlight Event has been added that features landing a Cessna Citation CJ4 at Reno Stead airport. In addition to the new features, Asobo Studio also introduced a long list of bug fixes and improvements that address almost every area of the simulator. The complete list can be viewed on MSFSâs website. Currently, Sim Update VIII is available to download for all users. As usual, the developers have reminded the community to temporarily move community packages to another folder if the new version brings âunexpected impact on the titleâs performance and behaviorâ. </summary>
+    <published>2022-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/waxp12</id>
+    <title>Laminar Research Addresses Wake Turbulence in X-Plane 12</title>
+    <updated>2022-03-01T00:00:00+00:00</updated>
+    <link href="/news/waxp12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621e3670cb15834234c64554_xp12wt01.png" rel="enclosure" type="image/png" length="429571"/>
+    <summary>Sim: X-Plane. Phillip from Laminar Research addressed wake turbulence in the upcoming X-Plane 12 Flight Simulator. Involving both player aircraft and AI aircraft and its correlation with the simulator physics and aerodynamics.  AI Traffic After a brief introduction about wake turbulence, Phillip addresses the wake turbulence that is left by AI aircraft. All AI aircraft will leave the correct wake turbulence that corresponds to its aircraft, and is calculated properly with the vortex that is created by the wing of the aircraft. Same will apply for user aircraft. Phillip then goes on to say:  Online Traffic, 3rd Party Plugins, and Live Traffic Further on, Phillip addresses wake turbulence left by online network aircraft, live traffic, and other 3rd party plugins. With the correct data through an ADS-B exchange, X-Plane will calculate the best effects to aircraft weight, wing area, and wingspan through the data the plugin provides. Current XP11 traffic plugins are compatible with the wake turbulence and will be a base function in XP12.  Thatâs it for todayâs update, but Threshold will be sure to keep you up to date with any further X-Plane 12 development updates.</summary>
+    <published>2022-03-01T00:00:00+00:00</published>
   </entry>
 </feed>
