@@ -2,12 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-01T18:24:52.265089+00:00</updated>
+  <updated>2022-03-02T18:25:45.299625+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
+  <entry>
+    <id>https://www.flightsimulator.com/pioneers-of-flight-cornelius-coffey-and-willa-brown/</id>
+    <title>Pioneers of Flight: Cornelius Coffey and Willa Brown</title>
+    <updated>2022-02-21T17:12:57+00:00</updated>
+    <link href="https://www.flightsimulator.com/pioneers-of-flight-cornelius-coffey-and-willa-brown/" rel="alternate"/>
+    <summary>When thinking about the pioneers of African-American aviation, possibly the most famous are the Tuskegee Airman, the decorated World War II aviators who served their country despite having to fight against racial segregation and discrimination within the US military. Or perhaps you might think of Bessie Coleman, who in 1921 was the first Black woman … Continued</summary>
+    <published>2022-02-21T17:12:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
+    <title>Community Spotlight: Blu Games</title>
+    <updated>2022-02-23T09:30:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
+    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
+    <published>2022-02-23T09:30:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
+    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
+    <updated>2022-03-01T19:06:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/MicrosoftTeams-image-7-1024x576.png" rel="enclosure" type="image/png" length="222728"/>
+    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
+    <published>2022-03-01T19:06:42+00:00</published>
+  </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-10th-2022-development-update/</id>
     <title>February 10th, 2022 Development Update</title>
@@ -52,30 +77,5 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/xCloud_Microsoft-Flight-Simulator_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="179466"/>
     <summary>As we continue to evolve the simulator and expand the ways with which both core simmers and newcomers to the franchise can experience Microsoft Flight Simulator, we are thrilled to announce that Microsoft Flight Simulator can now be streamed via Xbox Cloud Gaming.Starting today, Microsoft Flight Simulator is available on Xbox One and on other … Continued</summary>
     <published>2022-03-01T17:01:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-ii-fokker-f-vii/</id>
-    <title>Local Legend II: Fokker F.VII</title>
-    <updated>2022-01-31T21:39:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-ii-fokker-f-vii/" rel="alternate"/>
-    <summary>We are proud to release the second of our Local Legends series of famous historical aircraft, the Fokker F.VII today. An 8-passenger airliner first flown in 1924 and designed by German aeronautical engineer Walther Rethel for the Fokker Aircraft Company of The Netherlands, the first five F.VIIs produced were driven by a single engine only. It was in this configuration that Dutch flag carrier … Continued</summary>
-    <published>2022-01-31T21:39:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/pioneers-of-flight-cornelius-coffey-and-willa-brown/</id>
-    <title>Pioneers of Flight: Cornelius Coffey and Willa Brown</title>
-    <updated>2022-02-21T17:12:57+00:00</updated>
-    <link href="https://www.flightsimulator.com/pioneers-of-flight-cornelius-coffey-and-willa-brown/" rel="alternate"/>
-    <summary>When thinking about the pioneers of African-American aviation, possibly the most famous are the Tuskegee Airman, the decorated World War II aviators who served their country despite having to fight against racial segregation and discrimination within the US military. Or perhaps you might think of Bessie Coleman, who in 1921 was the first Black woman … Continued</summary>
-    <published>2022-02-21T17:12:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
-    <title>Community Spotlight: Blu Games</title>
-    <updated>2022-02-23T09:30:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Blu_Games_Header-1-1024x414.png" rel="enclosure" type="image/png" length="148656"/>
-    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
-    <published>2022-02-23T09:30:43+00:00</published>
   </entry>
 </feed>
