@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-03T18:25:41.564222+00:00</updated>
+  <updated>2022-03-04T18:25:38.291037+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/MicrosoftTeams-image-7-1024x576.png" rel="enclosure" type="image/png" length="222728"/>
     <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
     <published>2022-03-01T19:06:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/february-10th-2022-development-update/</id>
-    <title>February 10th, 2022 Development Update</title>
-    <updated>2022-02-10T23:03:11+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-10th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Chtybeau-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76210"/>
-    <summary>If you haven’t heard, Sim Update 8 Beta is live as of this morning! If you are interested in participating, click here for directions on how to join. And if you’re just curious, you can read the working release notes here. On another note, A big thank you for all who attended our SDK Q&amp;A yesterday on Twitch.</summary>
-    <published>2022-02-10T23:03:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-17th-2022-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/xCloud_Microsoft-Flight-Simulator_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="179466"/>
     <summary>As we continue to evolve the simulator and expand the ways with which both core simmers and newcomers to the franchise can experience Microsoft Flight Simulator, we are thrilled to announce that Microsoft Flight Simulator can now be streamed via Xbox Cloud Gaming.Starting today, Microsoft Flight Simulator is available on Xbox One and on other … Continued</summary>
     <published>2022-03-01T17:01:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-3rd-2022-development-update/</id>
+    <title>March 3rd, 2022 Development Update</title>
+    <updated>2022-03-03T23:28:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-3rd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/ZILLNIAZI17-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="137020"/>
+    <summary>On Tuesday, we announced the launch of Microsoft Flight Simulator on Xbox Cloud Gaming. Users can now enjoy the sim on Xbox One and on other supported devices via Xbox Cloud Gaming, powered by custom Xbox Series X hardware. We also released the highly anticipated Famous Flyer 1: Beechcraft Model 17 Staggering.</summary>
+    <published>2022-03-03T23:28:50+00:00</published>
   </entry>
 </feed>
