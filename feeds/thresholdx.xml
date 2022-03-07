@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-06T18:24:18.335319+00:00</updated>
+  <updated>2022-03-07T18:25:53.746464+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kastms</id>
-    <title>Skyline Simulations Releases Astoria Regional Airport for MSFS</title>
-    <updated>2022-02-27T00:00:00+00:00</updated>
-    <link href="/news/kastms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621aea579c2cc63da86a7a64_Cover.png" rel="enclosure" type="image/png" length="2968597"/>
-    <summary>Sim: MSFS. Scenery developer Skyline Simulations has released its newest product - Astoria Regional Airport (KAST) for Microsoft Flight Simulator. Utilizing technologies such as PBR textures and FSEco-subsystem, the developers bring users an immersive experience of the unique regional airport on the coast of Oregon. According to Skyline Simulations, Astoria airport has been crafted to reflect the latest airport updates. Featuring HD/PBR ground decals, detailed 3D building models, custom static objects, landmarks, and an accurate city model based on realistic OSM data. A full list of features can be viewed on the developerâs store page. Located in Warrenton Astoria, Oregon, the airport serves both civilian traffic and the United States Coast Guard. Currently, KAST has no scheduled airline flights, though it is a popular general aviation destination for the locals. Flying to the region, users can âenjoy the night view with beautiful landmarks such as the Astoria Column, the Lighthouse, and the famous Astoria-Megler Bridge". Currently, Astoria Regional Airport (KAST) can be purchased on Skyline Simulationâs webstore or simMarket for $21.00 USD or EUR 19.00, excluding any potential sales tax.</summary>
-    <published>2022-02-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ctpwbd</id>
-    <title>VATSIM Cross the Pond Westbound Airports Announced</title>
-    <updated>2022-02-27T00:00:00+00:00</updated>
-    <link href="/news/ctpwbd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621c0b07bdead4684b8696af_7JRF7kO.png" rel="enclosure" type="image/png" length="26812"/>
-    <summary>Sim: X-Plane. After originally opening up voting earlier this month, the Virtual Air Traffic Simulation Network, better known as VATSIM, has revealed the airports set to be used for this year's Cross the Pond (CTP) Westbound event. This year, it will take place on April 2nd. For those unaware, Cross the Pond is an extremely popular event held annually on the network which allows users to fly across the Atlantic with full ATC coverage and realistic procedures. Not only does this event generate a lot of excitement within the community, but it typically sees an incredible amount of traffic, making it one of the busiest events on the network. Ranging from Munich Airport (EDDM) to Barbados (TBPB), the community has voted on a multitude of different departure and arrival aerodromes, which are viewable in the picture below. It should be noted, however, that users will need to book a CTP slot to ensure participation in this event without delays. However, users are able to take part in the event without booking a slot, but delays should be expected. For further information make sure to check out the VATSIM Cross the Pond website. As well, Threshold will make sure to keep you updated once the bookings for the event open.</summary>
-    <published>2022-02-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rdcyyz</id>
     <title>RegDesigns Releases Toronto Pearson Airport for Microsoft Flight Simulator</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6223275fbb74451768dd3078_sr22.jpg" rel="enclosure" type="image/jpeg" length="78988"/>
     <summary>Sim: X-Plane. Renowned aircraft developer TorqueSim has retaken to their forums to announce the release of their anticipated X-Plane 11 updates and further outline their X-Plane 12 ambitions. Their SR20 and SR22 received the most attention in this update.Â  The following updates consist of quality assurance improvements and preparations for X-Plane 12. It's imperative to mention, though, that there is no X-Plane 12 updateÂ justÂ yet.Â  SR20/22 G1000 1.3.0 Release Notes: Bug Fixes: SR20/SR22 Entegra 1.1.0 Release Notes: All of the above "new" features found in the SR20/22 G1000, in addition to: Bug Fixes and Improvements Aspiring TorqueSim pilots can find the SR20/22 on the X-Aviation store. As we optimistically await X-Plane 12, Threshold will continue to report on all new things TorqueSim.Â </summary>
     <published>2022-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/37fenx</id>
+    <title>Fenix Drops Another A320 Preview</title>
+    <updated>2022-03-07T00:00:00+00:00</updated>
+    <link href="/news/37fenx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6225c44e92854cb1e04832ec_dattabletho-min.png" rel="enclosure" type="image/png" length="1907053"/>
+    <summary>Sim: MSFS. After entering beta in early February, the Fenix Simulations team has returned to keeping their lips tight. Aamir has since returned from the depths of silence to share a singular new screenshot of the upcoming A320 for MSFS. The screenshot showcases the functionality of the EFB, as well as shows the cockpit in a âturnaroundâ state. Aamir hasn't mentioned any additional details regarding the aircraft's progress in beta but did claim that an upcoming update will reveal "areas of the products as yet unseen/unheard!." For those who aren't familiar with the current functionality of the aircraft, you should gaze at Fenix's YouTube channel that exhibits the A320's components. The team also has a public Discord server where members can communicate with any inquiries or concerns.Â  Unfortunately, there isn't much more to share with this update, but Threshold will keep up to date with Fenix as more information is released shortly.</summary>
+    <published>2022-03-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/prevwe</id>
+    <title>FlightBeam Studios Shares Wellington Airport Previews</title>
+    <updated>2022-03-07T00:00:00+00:00</updated>
+    <link href="/news/prevwe" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6225c764e2560a5bd508b81f_eba5cc_48952dbfae60478ba673a688c58d84bbmv2-2.jpg" rel="enclosure" type="image/jpeg" length="290823"/>
+    <summary>Sim: MSFS. Smooth seas donât make skillful sailors, Wellington International Airport is testament to this. Located just outside of the world's windiest city, this airport has notoriously had pilots constantly on their toes and challenging their skills. Windy Welly has since its inception, had pilots and seatbelts alike tested everyday, with a relatively short runway not making things any easier. That said, you canât beat Wellington on a good day! FlightBeam Studios have been hard at work to give us the opportunity to experience this airport first-hand, recently sharing a couple of preview images that evidently suggest that this project is indeed in its late phase of production. The textures are clear and complete with buildings looking true to reality. Unlike most sceneries, surroundings are particularly important here as your nose will almost never be straight down the centerline.Â  The precise attention to detail in the air bridge texturing in particular, demonstrates the teams capabilities, setting our expectations high as we hope this level of detail remains consistent throughout the scenery as a whole. We can confirm release is imminent as FlightBeam Studios have opened applications for Beta testers whom must meet the following prerequisites, as mentioned on their official application form:Â  For more information stay tuned. Do feel free to check out their original preview post. Should you be interested in beta testing and meet the above requirements, submit an application here.Â Â </summary>
+    <published>2022-03-07T00:00:00+00:00</published>
   </entry>
 </feed>
