@@ -2,37 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-09T18:25:54.134604+00:00</updated>
+  <updated>2022-03-10T18:25:50.943809+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
-    <title>Community Spotlight: Blu Games</title>
-    <updated>2022-02-23T09:30:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
-    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
-    <published>2022-02-23T09:30:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
-    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
-    <updated>2022-03-01T19:06:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
-    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
-    <published>2022-03-01T19:06:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
-    <title>Community Spotlight: Alyson Johnson</title>
-    <updated>2022-03-08T16:57:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
-    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
-    <published>2022-03-08T16:57:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-17th-2022-development-update/</id>
     <title>February 17th, 2022 Development Update</title>
@@ -77,5 +52,30 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/ZILLNIAZI17-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="137020"/>
     <summary>On Tuesday, we announced the launch of Microsoft Flight Simulator on Xbox Cloud Gaming. Users can now enjoy the sim on Xbox One and on other supported devices via Xbox Cloud Gaming, powered by custom Xbox Series X hardware. We also released the highly anticipated Famous Flyer 1: Beechcraft Model 17 Staggering.</summary>
     <published>2022-03-03T23:28:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
+    <title>Community Spotlight: Blu Games</title>
+    <updated>2022-02-23T09:30:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
+    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
+    <published>2022-02-23T09:30:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
+    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
+    <updated>2022-03-01T19:06:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
+    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
+    <published>2022-03-01T19:06:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
+    <title>Community Spotlight: Alyson Johnson</title>
+    <updated>2022-03-08T16:57:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
+    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
+    <published>2022-03-08T16:57:50+00:00</published>
   </entry>
 </feed>
