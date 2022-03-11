@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-10T18:25:52.780577+00:00</updated>
+  <updated>2022-03-11T18:25:55.146096+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flyyyz</id>
-    <title>FlyTampa Publishes Toronto Pearson for MSFS</title>
-    <updated>2022-03-01T00:00:00+00:00</updated>
-    <link href="/news/flyyyz" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621db201fb202563638518dc_cyyz5.jpg" rel="enclosure" type="image/jpeg" length="373391"/>
-    <summary>Sim: MSFS. The renowned scenery developer, FlyTampa, has shipped out its rendition of Toronto Pearson International Airport (CYYZ), for Microsoft Flight Simulator. This release brings more of the developer's high-quality development and accurate renditions to the major intercontinental airport.  Toronto has a small history that dates back to 1937 when the Canadian Government opted to build 2 airports, one of which currently resides on the Toronto Islands which is present-day Billy Bishop Toronto City Airport, and the other to be built in northwest Toronto, named the Malton Airport, and received its first passenger service in 1939. After WW2, the airport received international status in 1958 and was changed to Lester B. Pearson International Airport in 1984. FlyTampa has included a detailed feature list for this package. Starting off, an interior of the terminals has been provided alongside the latest layout of the airport as of 2022. PBR textures and Dynamic lighting are included as well. 3D terrain including both tunnels and bridges is accurately modeled to depict the current layout of the airport.  If you are interested in picking this scenery package for yourself, you can find it over on FlyTampaâs Website and it sells for $17.99. You can also find this airport for a variety of other simulators such as FSX and Prepar3D, over on their website as well.</summary>
-    <published>2022-03-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msfsv8</id>
     <title>Asobo Studio Released Sim Update VIII (v1.23.12.0) for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622866b4e6406a0f5aaa500f_pmdg1.PNG" rel="enclosure" type="image/png" length="993757"/>
     <summary>Sim: MSFS. PMDGÂ has entered its fourth week of testingÂ their upcoming 737-700 for MSFS. As reported in weeks past, the team is making better-than-anticipated progress on the aircraft. Hundreds of "taskings," also known as "bug reports," have been resolved since the beginning of the beta test.Â  Randazzo reports that the "number of knee-knockers we are hitting that are related to PMDG-platform interface issues is dropping rapidly, and the number of "this system/function is behaving incorrectly" reports is rising as a percentage of the whole." Systems-wise, the airplane is operating at an "expected level" in this development phase.Â  PMDG is simultaneously working on improving the visuals of the aircraft, such as adding more wear-and-tear to the cockpit and adding some more character to the textures. Randazzo noted some small yet crucial details of their texturing adventures, relating to aluminum being exposed on the backing plate for the right-most dimmer panel, left of the captain's FMS. Aesthetic fingerprints are also being incorporated onto the screens of the digital displays. Last but not least, PMDG will begin working on some other preview videos as some time is freeing up to allow them to do so. No additional information regarding the aircraft was shared, but keep up with Threshold to stay in touch with the latest and greatest from PMDG!</summary>
     <published>2022-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gfopti</id>
+    <title>GotFriends Previews the EA7-Optica for Microsoft Flight Simulator</title>
+    <updated>2022-03-11T00:00:00+00:00</updated>
+    <link href="/news/gfopti" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622b783064130a5597768ae6_unnamed%20(3).png" rel="enclosure" type="image/png" length="155311"/>
+    <summary>Sim: MSFS. After releasing a multitude of freeware projects, GotFriends have once again decided to venture into the world of payware, with the announcement of the EA7 Optica, their second payware aircraft for Microsoft Flight Simulator. This aircraft is a full remaster of the previous freeware version which released last year. The developer has made it clear, however, that this is built completely from the ground up and includes exciting features such as a KAP140 autopilot and full PMS50 (GTN750) support. Included are âseveral real world liveries the aircraft was most popular for,â an animated cat and dog sitting visibly in the cockpit, and the aforementioned KAP140 autopilot and GTN750 support. It should be noted, however, that currently the TDS GTN750 does not work with this aircraft. Upon its initial release, the aircraft is set to be exclusive to the Flightsim.to store, and will be coming to the MSFS Marketplace (and Xbox) within a month. Furthermore, the aircraft is set to cost $19.99, but will launch with a sale of 50% as a token of appreciation to the community. It was also stated that users should be looking forward to the aircraft releasing sometime next week. For further information make sure to check out the official teaser trailer, as well as the original announcement made on the Flightsim.to website</summary>
+    <published>2022-03-11T00:00:00+00:00</published>
   </entry>
 </feed>
