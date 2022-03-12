@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-11T18:25:55.146096+00:00</updated>
+  <updated>2022-03-12T18:24:51.139457+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msfsv8</id>
-    <title>Asobo Studio Released Sim Update VIII (v1.23.12.0) for Microsoft Flight Simulator</title>
-    <updated>2022-03-01T00:00:00+00:00</updated>
-    <link href="/news/msfsv8" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621dd63b54a5a14f89e39168_JAPAN_Update_Shrine-1024x576.png" rel="enclosure" type="image/png" length="162837"/>
-    <summary>Sim: MSFS. Earlier this week, Asobo Studio released Sim Update VIII (v1.23.12.0) for Microsoft Flight Simulator. The update brings a few new features and a large variety of improvements to simulator stability, weather, VR, developer SDK, and default aircrafts. Starting off with the new features, the developers announced that the Market Place will receive a brand new UI that brings âimproved discoverability and a better navigation experienceâ. Additionally, an optional propeller simulation system with âhundreds of moving surfacesâ is now available for the Cessna 152, Cessna 208 B Grand Caravan EX, and Beechcraft King Air 350i, improving the realism of propeller effects such as feathering and prop-drag. Finally, a new private match mode for Reno air Races can now be accessed via content manager and a new Spotlight Event has been added that features landing a Cessna Citation CJ4 at Reno Stead airport. In addition to the new features, Asobo Studio also introduced a long list of bug fixes and improvements that address almost every area of the simulator. The complete list can be viewed on MSFSâs website. Currently, Sim Update VIII is available to download for all users. As usual, the developers have reminded the community to temporarily move community packages to another folder if the new version brings âunexpected impact on the titleâs performance and behaviorâ. </summary>
-    <published>2022-03-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/waxp12</id>
     <title>Laminar Research Addresses Wake Turbulence in X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622b783064130a5597768ae6_unnamed%20(3).png" rel="enclosure" type="image/png" length="155311"/>
     <summary>Sim: MSFS. After releasing a multitude of freeware projects, GotFriends have once again decided to venture into the world of payware, with the announcement of the EA7 Optica, their second payware aircraft for Microsoft Flight Simulator. This aircraft is a full remaster of the previous freeware version which released last year. The developer has made it clear, however, that this is built completely from the ground up and includes exciting features such as a KAP140 autopilot and full PMS50 (GTN750) support. Included are âseveral real world liveries the aircraft was most popular for,â an animated cat and dog sitting visibly in the cockpit, and the aforementioned KAP140 autopilot and GTN750 support. It should be noted, however, that currently the TDS GTN750 does not work with this aircraft. Upon its initial release, the aircraft is set to be exclusive to the Flightsim.to store, and will be coming to the MSFS Marketplace (and Xbox) within a month. Furthermore, the aircraft is set to cost $19.99, but will launch with a sale of 50% as a token of appreciation to the community. It was also stated that users should be looking forward to the aircraft releasing sometime next week. For further information make sure to check out the official teaser trailer, as well as the original announcement made on the Flightsim.to website</summary>
     <published>2022-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mu-2v2</id>
+    <title>X-Scenery Announces Mitsubishi MU-2B-60 Marquise 2.0</title>
+    <updated>2022-03-12T00:00:00+00:00</updated>
+    <link href="/news/mu-2v2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622c62ce2ad45820988b8327_overall.jpg.df8811fb8799a340c56caac02e4834a3.jpg" rel="enclosure" type="image/jpeg" length="77212"/>
+    <summary>Sim: X-Plane. Earlier this week, X-Plane developer X-Scenery officially announced their latest project - the Mitsubishi MU-2B-60 Marquise 2.0. The aircraft, a completely reinvented version of the developerâs first payware product back in 2008, will serve as nostalgia for longtime X-Plane users while allowing others to enjoy a memorable general aviation experience. According to the developer, the 3D model of the MU-2 has to be redone from the ground up to accommodate for the differences between X-Plane 9, the simulator the first version of the plane was designed for, and X-Plane 11. Improved software technology, hardware capabilities, and workflow have allowed the team to improve the modelâs geometric fidelity and âget the challenging shapes and curves more accurateâ. To illustrate the differences between the two models, the developers included a comparison between the two where the v2 model clearly has âa higher density 3D model all aroundâ. Additionally, higher 3D details have been utilized in certain areas of the aircraft to âreflect light more realistically as [the user] moves the camera aroundâ, an approach that differs from the traditional method of using texture decals which may result in âfake looking 3D modelsâ. To compliment the new model, the developers are also utilizing PBR textures with a solid implementation of ambient occlusion, âa phenomenon where light loses energy as it bounces around into corners, resulting in darker corners and recessesâ. Since ambient occlusion is not provided for aircraft in X-Plane by default, it will be painted, or "baked", into the MU-2's textures. For a full list of improvements in version 2, checkout the developer's post. Finally, the developers teased that additional progress updates that will introduce the users to the MU-2âs cockpit will be published soon, though no specific time frames has been given. Currently, X-Scenery is yet to announce the release date or pricing of the Mitsubishi MU-2. However, the developers did indicate owners of V1 will receive a discount when purchasing MU-2 V2. Threshold will keep you updated on this front. </summary>
+    <published>2022-03-12T00:00:00+00:00</published>
   </entry>
 </feed>
