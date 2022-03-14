@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-13T18:24:42.363923+00:00</updated>
+  <updated>2022-03-14T18:24:21.218268+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asmyko</id>
-    <title>Aerosoft Updates Mykonos Airport Scenery </title>
-    <updated>2022-03-02T00:00:00+00:00</updated>
-    <link href="/news/asmyko" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/621f2e00377af6e5088db6fa_lgmk-msfs_05.jpeg" rel="enclosure" type="image/jpeg" length="275243"/>
-    <summary>Sim: MSFS. Aerosoft has recently released an update for their Mykonos airport scenery. The update is quite lengthy and substantial with numerous changes made to keep the airport's virtual rendition up to date with the real airport. Let's take a closer look and highlight some of the more interesting additions made.Â  Before we get into the particulars. Looking at the images above we can really begin to appreciate how far scenery development has come, with the developers putting effort into seamlessly blending the airport into an already realistic default scenery. The releases of yesteryears in flight simulation would frequently have contrasting colours between the scenery satellite imagery and the default textures. The majority of changes have been prompted by the recent changes Mykonos airport has undergone. The $28 million upgrade has essentially given the airport a âfaceliftâ with a stunning new facade symbolizing the traditional Cycladic architecture. The project was set to open in 2021 and so it did, with no delay from Aerosoft who were relatively quick to follow suit and update their product. Hereâs their full change list for you to check out: Reading through the list, it seems the team at Aerosoft has almost completely recreated the airport, with new lights, new textures, new modeling and enhanced mesh, with existing users being able to expect an almost brand new product. It is pleasing to see this focus on what essentially can be referred to as virtual modernisation, especially as an update and not as a whole new product. While not expected from developers, scenarios like these are appreciated. Check out their official post on the update, and should you wish to purchase the product, it can be found on the Aerosoft store.</summary>
-    <published>2022-03-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dccord</id>
     <title>Just Flight Teases Release Date for DC Design Concorde</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622e062f53c422e402194dfa_unnamed%20(5)%20(1).png" rel="enclosure" type="image/png" length="68066"/>
     <summary>Sim: X-Plane. After the original announcement of Keflavik International Airport (BIKF) earlier this month, Xometry has now released Icelandâs biggest airport for X-Plane 11. Originally serving as a USAF base in 1942, Keflavik has quickly become Icelandâs largest airport after the opening of its main passenger terminal in 1987. Not only does this aerodrome serve as a hub for Icelandair, but it saw nearly 10 million passengers in 2019 while being used by over 20 major airlines. Promised as the âmost up-to-date rendition of BIKF currently available for X-Plane 11/12,â the developer claims that the airport has been made with high accuracy. Furthermore, the airport features custom SAM jetways, an interior on the main terminal, high-resolution PBR texturing, and much more. The full feature list is viewable below. Xometryâs rendition of BIKF is available for purchase via the iniBuilds store for a price of Â£17.99 GBP (excluding VAT). It should also be noted that customers are subject to a 15% discount on other Xometry products when using the code âBIKF-Launchâ. Furthermore, users can enjoy a 20% discount on the iniSimulations Airbus Beluga by using the code âBIKF-Belugaâ at checkout.Â  For further information, make sure to check out the official trailer via the iniBuilds YouTube channel.</summary>
     <published>2022-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfcord</id>
+    <title>Just Flight Announces Release Date for Concorde</title>
+    <updated>2022-03-14T00:00:00+00:00</updated>
+    <link href="/news/jfcord" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622edfd5d9cfeb9ed8c639d8_6220755png.png" rel="enclosure" type="image/png" length="1506231"/>
+    <summary>Sim: X-Plane. Earlier this week, Just Flight announced that its much anticipated Concorde for Microsoft Flight Simulator will be released on the 30th March. The Concorde, produced by DC Designs to be both âan accessible and yet highly detailed rendition of this iconic aircraftâ, will provide the users with unique adventures as one of the worldâs first supersonic jetliners. The Concorde, according to the developers, will feature most of the special features found on its real life counterpart, including custom-coded fuel systems, fully operational engineerâs station, nose-droop mechanism, âadvanced autopilot system, and fly-by-wire controlsâ. A full list of features can be found on Just Flightâs website. Additionally, the aircraft has been given a custom-made flight model that accurately reflects its handling in âsubsonic, transonic, supersonic and super-cruiseâ phases of flight, which âwill require correct handling of the aircraft in order to achieve her famous high-altitude and high-Mach performanceâ. Currently, the Concorde is set to be priced at Â£27.99 / $39.99 / â¬34.95, excluding sales tax that may incur. To find out more about the DC Designs Concorde, visit their Facebook page.</summary>
+    <published>2022-03-14T00:00:00+00:00</published>
   </entry>
 </feed>
