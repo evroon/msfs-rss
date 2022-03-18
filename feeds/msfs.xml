@@ -2,20 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-17T18:26:03.782624+00:00</updated>
+  <updated>2022-03-18T18:26:00.644050+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/february-24th-2022-development-update/</id>
-    <title>February 24th, 2022 Development Update</title>
-    <updated>2022-02-25T00:07:02+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-24th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/Punkoflyer-Forum-1-1024x683.jpg" rel="enclosure" type="image/jpeg" length="46583"/>
-    <summary>We are on track to release Sim Update 8 on Monday, February 28th on all platforms. Thank you to everyone who participated in the Beta leading up to this release. We are thankful for the help in improving the build version overall. Stay tuned for more discussion during our monthly Dev Q&amp;A coming next Wednesday, March 2nd at 10:30am PST (1830Z) on Twitch.</summary>
-    <published>2022-02-25T00:07:02+00:00</published>
+    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
+    <title>Community Spotlight: Blu Games</title>
+    <updated>2022-02-23T09:30:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
+    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
+    <published>2022-02-23T09:30:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
+    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
+    <updated>2022-03-01T19:06:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
+    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
+    <published>2022-03-01T19:06:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
+    <title>Community Spotlight: Alyson Johnson</title>
+    <updated>2022-03-08T16:57:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
+    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
+    <published>2022-03-08T16:57:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-1-23-12-0-sim-update-viii-now-available/</id>
@@ -54,28 +70,12 @@
     <published>2022-03-10T22:22:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
-    <title>Community Spotlight: Blu Games</title>
-    <updated>2022-02-23T09:30:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
-    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
-    <published>2022-02-23T09:30:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
-    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
-    <updated>2022-03-01T19:06:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
-    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
-    <published>2022-03-01T19:06:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
-    <title>Community Spotlight: Alyson Johnson</title>
-    <updated>2022-03-08T16:57:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
-    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
-    <published>2022-03-08T16:57:50+00:00</published>
+    <id>https://www.flightsimulator.com/march-17th-2022-development-update/</id>
+    <title>March 17th, 2022 Development Update</title>
+    <updated>2022-03-17T23:11:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-17th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/Filippo20032222-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="83818"/>
+    <summary>We are very excited for the release of World Update VIII: Iberia next week, launching on March 22 at 2:00am PDT (0900Z)! To go along with the next World Update, we are also launching a new plane for both PC and Xbox, Local Legend III: Dornier Do J Wal.</summary>
+    <published>2022-03-17T23:11:29+00:00</published>
   </entry>
 </feed>
