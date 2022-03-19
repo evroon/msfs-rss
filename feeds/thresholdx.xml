@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-18T18:26:02.135546+00:00</updated>
+  <updated>2022-03-19T18:25:04.206688+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ts1112</id>
-    <title>TorqueSim X-Plane 11 Updates Released; X-Plane 12 Preparations</title>
-    <updated>2022-03-05T00:00:00+00:00</updated>
-    <link href="/news/ts1112" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6223275fbb74451768dd3078_sr22.jpg" rel="enclosure" type="image/jpeg" length="78988"/>
-    <summary>Sim: X-Plane. Renowned aircraft developer TorqueSim has retaken to their forums to announce the release of their anticipated X-Plane 11 updates and further outline their X-Plane 12 ambitions. Their SR20 and SR22 received the most attention in this update.Â  The following updates consist of quality assurance improvements and preparations for X-Plane 12. It's imperative to mention, though, that there is no X-Plane 12 updateÂ justÂ yet.Â  SR20/22 G1000 1.3.0 Release Notes: Bug Fixes: SR20/SR22 Entegra 1.1.0 Release Notes: All of the above "new" features found in the SR20/22 G1000, in addition to: Bug Fixes and Improvements Aspiring TorqueSim pilots can find the SR20/22 on the X-Aviation store. As we optimistically await X-Plane 12, Threshold will continue to report on all new things TorqueSim.Â </summary>
-    <published>2022-03-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/37fenx</id>
     <title>Fenix Drops Another A320 Preview</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6209b16078b45f2be1a2d595_image_15297.jpeg" rel="enclosure" type="image/jpeg" length="1049348"/>
     <summary>Sim: MSFS. Earlier this week, aircraft developer PMDG has published a new update on its much anticipated 737-700 project for Microsoft Flight Simulator, discussing the status of the aircraftâs testing, developmental progress, and upcoming plans. According to the developers, the testing of the aircraft continues smoothly, with some 70 issues reported by the testers and more than 120 solved by the development team. However, despite the 737 currently performing at a near satisfactory level, the developers expressed their frustration that MSFS currently lacks âtools that [they] would normally use to improve code stability and look for areas that require optimizationâ, preventing them from gaining vital insights on key areas needing improvements. In addition to updates on testing, the team also shined light on their current task of improving the details of some areas âto evaluate the impact different techniques may have on the performance of the simulatorâ. The developers are trying to gradually increase the level of details without sacrificing any performance, a process aided by their âincreased confidence in Asobo's rendering engineâ.Â The developer's progress is demonstrated by the completely rebuilt fire handles and light knobs pictured above. Finally, the developers revealed that a âfull bore promotional processâ will soon start, presenting the public with additional details on the aircraft and answering their questions. Currently, PMDG has not revealed the release date of the aircraft, claiming that its carefully designed workflow and testing procedure currently prevent it from determining a precise date. However, the developers teased that the 737 is âvery close to that pointâ where a firm release date can be set and the embargo can be lifted for beta testers. â</summary>
     <published>2022-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/esdchu</id>
+    <title>Emerald Scenery Design Releases Chunilna Cabin strip for MSFS</title>
+    <updated>2022-03-19T00:00:00+00:00</updated>
+    <link href="/news/esdchu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62360747e3980f4a6ad2158d_chunilna_cabin_strip_alaska_msfs_r17%20(1).jpeg" rel="enclosure" type="image/jpeg" length="524472"/>
+    <summary>Sim: MSFS. After originally releasing a plethora of sceneries for Prepar3D and various freeware sceneries for Microsoft Flight Simulator, Emerald Scenery Design have ventured into the world of payware for MSFS. Marking the developerâs first payware product for Asoboâs simulator, the developer has taken to the backcountry of Alaska, with the release of Chunilna Cabin Strip. Located 11km to the Northeast of Talkeetna Alaska, Chunilna Cabin Strip is an unregistered airfield with an incredibly short runway, with anything larger than a Piper Cub providing quite a struggle for pilots. Featuring environmentally dynamic features such as seasonal butterflies, morel mushrooms, rain puddles, VFX, and more, Emerald Scenery Design claims to have brought this scenery âto life in incredible detail.â Furthermore, the scenery uses its own custom library which includes custom vegetation, 3D trees, custom ground textures, and more. The full feature list is viewable below. Chunilna Cabin Strip is available for purchase from the developerâs store or store.flightsim.com for a price of $9.99 USD. Furthermore, the developer is hoping to release the airport on the MSFS marketplace and flightsim.to, but is currently awaiting approval. As well, they are considering a release on Xbox but nothing is certain. Lastly, make sure to check out the official trailer for the airport via the developerâs YouTube Channel. As well, for further information, one can join the developerâs discord.</summary>
+    <published>2022-03-19T00:00:00+00:00</published>
   </entry>
 </feed>
