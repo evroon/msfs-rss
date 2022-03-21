@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-20T18:25:32.812774+00:00</updated>
+  <updated>2022-03-21T18:26:45.020011+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gfopti</id>
-    <title>GotFriends Previews the EA7-Optica for Microsoft Flight Simulator</title>
-    <updated>2022-03-11T00:00:00+00:00</updated>
-    <link href="/news/gfopti" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622b783064130a5597768ae6_unnamed%20(3).png" rel="enclosure" type="image/png" length="155311"/>
-    <summary>Sim: MSFS. After releasing a multitude of freeware projects, GotFriends have once again decided to venture into the world of payware, with the announcement of the EA7 Optica, their second payware aircraft for Microsoft Flight Simulator. This aircraft is a full remaster of the previous freeware version which released last year. The developer has made it clear, however, that this is built completely from the ground up and includes exciting features such as a KAP140 autopilot and full PMS50 (GTN750) support. Included are âseveral real world liveries the aircraft was most popular for,â an animated cat and dog sitting visibly in the cockpit, and the aforementioned KAP140 autopilot and GTN750 support. It should be noted, however, that currently the TDS GTN750 does not work with this aircraft. Upon its initial release, the aircraft is set to be exclusive to the Flightsim.to store, and will be coming to the MSFS Marketplace (and Xbox) within a month. Furthermore, the aircraft is set to cost $19.99, but will launch with a sale of 50% as a token of appreciation to the community. It was also stated that users should be looking forward to the aircraft releasing sometime next week. For further information make sure to check out the official teaser trailer, as well as the original announcement made on the Flightsim.to website</summary>
-    <published>2022-03-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mu-2v2</id>
-    <title>X-Scenery Announces Mitsubishi MU-2B-60 Marquise 2.0</title>
-    <updated>2022-03-12T00:00:00+00:00</updated>
-    <link href="/news/mu-2v2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622c62ce2ad45820988b8327_overall.jpg.df8811fb8799a340c56caac02e4834a3.jpg" rel="enclosure" type="image/jpeg" length="77212"/>
-    <summary>Sim: X-Plane. Earlier this week, X-Plane developer X-Scenery officially announced their latest project - the Mitsubishi MU-2B-60 Marquise 2.0. The aircraft, a completely reinvented version of the developerâs first payware product back in 2008, will serve as nostalgia for longtime X-Plane users while allowing others to enjoy a memorable general aviation experience. According to the developer, the 3D model of the MU-2 has to be redone from the ground up to accommodate for the differences between X-Plane 9, the simulator the first version of the plane was designed for, and X-Plane 11. Improved software technology, hardware capabilities, and workflow have allowed the team to improve the modelâs geometric fidelity and âget the challenging shapes and curves more accurateâ. To illustrate the differences between the two models, the developers included a comparison between the two where the v2 model clearly has âa higher density 3D model all aroundâ. Additionally, higher 3D details have been utilized in certain areas of the aircraft to âreflect light more realistically as [the user] moves the camera aroundâ, an approach that differs from the traditional method of using texture decals which may result in âfake looking 3D modelsâ. To compliment the new model, the developers are also utilizing PBR textures with a solid implementation of ambient occlusion, âa phenomenon where light loses energy as it bounces around into corners, resulting in darker corners and recessesâ. Since ambient occlusion is not provided for aircraft in X-Plane by default, it will be painted, or "baked", into the MU-2's textures. For a full list of improvements in version 2, checkout the developer's post. Finally, the developers teased that additional progress updates that will introduce the users to the MU-2âs cockpit will be published soon, though no specific time frames has been given. Currently, X-Scenery is yet to announce the release date or pricing of the Mitsubishi MU-2. However, the developers did indicate owners of V1 will receive a discount when purchasing MU-2 V2. Threshold will keep you updated on this front. </summary>
-    <published>2022-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/gfoptc</id>
-    <title>Got Friends Releases the EA-7 Edgley Optica for Microsoft Flight Simulator</title>
-    <updated>2022-03-13T00:00:00+00:00</updated>
-    <link href="/news/gfoptc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622dff0eab20150642006b11_unnamed%20(4).png" rel="enclosure" type="image/png" length="145364"/>
-    <summary>Sim: MSFS. After a recent run of previews, Got Friends has released their second payware aircraft for Microsoft Flight Simulator, the EA-7 Edgley Optica. The Optica serves as a complete remaster of their previous freeware version, with the developer calling it a âfull reduxâ built from the ground up. The EA-7 Edgley Optica is a single-engine aircraft originally created by Edgley Aircraft Limited, built primarily for aerial observation and as a low-cost solution for helicopters.Â  Powered by a Textron Lycoming IO-540-V4A5D at 260 horsepower, the aircraft is able to reach speeds up to 132mph and is limited to its service ceiling of 14,000 feet. The developer's rendition of the EA-7 Optica boasts various exciting features, such as a KAP140 Autopilot, PMS50 GTN750 support with Working Titleâs extension framework, as well as attachable skis for winter operations, and much more. The full feature list is viewable below. Currently, the aircraft is available for purchase exclusively from the flightsim.to store for a price of $13.20 CAD, which is 50% cheaper than its original price of $26.40 CAD. However, the aircraft will also be available via the MSFS Marketplace and Xbox in the coming months. For further information, make sure to check out the teaser trailer, or view the aircraft's product page.</summary>
-    <published>2022-03-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xobikf</id>
     <title>Xometry Releases Keflavik International Airport for X-Plane 11</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6236a5d3296f8a08a244ada6_c3101.jpg" rel="enclosure" type="image/jpeg" length="352009"/>
     <summary>Sim: MSFS. Aircraft developer Milviz has posted a new tutorial video on their YouTube channel, in the form of a tutorial, in anticipation of their upcoming C310 release for MSFS. The aircraft has been previewed since the beginning of MSFS's days, and it appears that its release is now imminent.  âComplimenting their C310 efforts is their upcoming ATR for MSFS. We haven't received too much information on the coinciding project yet, except for a few screenshots showcasing its operation in the new sim. The C310 has seen its fair share of exposure, including other videos and screenshots, which can be seen on Milviz's Facebook here. Milviz's Tutorial video presents the aircraft in its current state, from cold and dark startup to shutdown. Take a look at it to understand the plane better before it releases.</summary>
     <published>2022-03-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ukksna</id>
+    <title>UK2000 Scenery Announces John Wayne Airport for Microsoft Flight Simulator</title>
+    <updated>2022-03-21T00:00:00+00:00</updated>
+    <link href="/news/ukksna" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237c747f610daccfaf0a65c_Screenshot%20(140).png" rel="enclosure" type="image/png" length="789775"/>
+    <summary>Sim: MSFS. As their name suggests, UK2000 have previously exclusively developed sceneries located in the United Kingdom for various simulators. However, the developer is taking a different path with the announcement of John Wayne Airport (KSNA) for Microsoft Flight Simulator. This airport marks the first scenery by the developer located outside of the United Kingdom, as well as their first scenery located in America. Citing the reason for the switch as âpart business and part getting bored with UK airports,â the developer has stated that their venture into the American scene brings a âleap forward in improved HD PBR materials and Level of Detail for UK2000.â According to the developer, KSNA is also set to include a plethora of accurately placed custom-made models created in an efficient way to limit file size, and line markings with âblack-bordersâ typically seen in the United States have been included. As well, UK2000 has remodeled their general aviation library collection to include additional details with PBR materials. Furthermore, new models have been added, such as the C172, SR22, P-51, and B17 for the airport museum. Additionally, the airside terminal interior has been modelled, along with â21 unique animated Jetways with high PBR details.â Unfortunately, no further information was provided, and no release date or pricing information is known. However, it was stated that release is due soon so Threshold will make sure to keep you updated on any developments that arise with this airport. In the meantime, make sure to check out the official trailer for KSNA via UK2000 Sceneryâs YouTube Channel.</summary>
+    <published>2022-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/206l3c</id>
+    <title>CowanSim Releases Bell Helicopters 206L3 for X-Plane 11</title>
+    <updated>2022-03-21T00:00:00+00:00</updated>
+    <link href="/news/206l3c" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237d4a7bb8a60b032ba7aea_206L3-2022-03-18-09.41.52.jpg" rel="enclosure" type="image/jpeg" length="208203"/>
+    <summary>Sim: X-Plane. Last Friday, CowanSim released their rendition of the Bell 206. The helicopter delivers many features, including floats systems, dynamic weight options, and spotlights. This product is part of a developing lineage of helicopters in the X-Plane 11 space. Unfortunately, the helicopter space hasn't been well documented, but to preface this new product, the Bell 206 is a two-bladed helicopter manufactured by Bell Helicopter. The seven-seater LongRanger was eventually developed into twin-engine options, marketed as the TwinRanger. It can cruise at a maximum speed of 120 knots over 374 nm at 13,500 feet.Â  CowanSim has provided the following feature list for their 206L3: Prospective 206L3 can obtain the helicopter on the CowanSim website for $32.95. Once downloaded, the product will utilize approximately 1GB of space.Â </summary>
+    <published>2022-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfsvc</id>
+    <title>Xometry Announces Victorville for MSFS2020</title>
+    <updated>2022-03-21T00:00:00+00:00</updated>
+    <link href="/news/msfsvc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237d8428ff7b368140cb918_KVCV_Preview_1.png" rel="enclosure" type="image/png" length="1857976"/>
+    <summary>Sim: MSFS. Scenery developer Xometry is expanding into the MSFS2020 environment, as they've previewed their Victorville rendition in the new simulator. The upgraded scenery will be their first for the sim, and it surely won't be the last. Conveniently, VCV was their first airport in X-Plane 11, and it appears that Xometry is continuing that theme.Â  Victorville is a local legend among AvGeeks and aviation nerds in the Pacific Southwest. Famous for its vast graveyard containing hundreds of stored airline relics, the played a significant role in keeping aircraft during the COVID-19 pandemic. Fleets such as the Aero California DC-9s, Delta MD-80, MD90, and FedEx DC-10s have found their permanent home in the lower desert.Â  Unfortunately, the Xometry team hasn't provided an MSFS-specific feature list, so we'll give you their X-Plane 11 features: We'll keep you updated when Xometry posts additional information regarding the upcoming scenery. Join their Discord server to interact with the community if you're a prospective Victorville owner.</summary>
+    <published>2022-03-21T00:00:00+00:00</published>
   </entry>
 </feed>
