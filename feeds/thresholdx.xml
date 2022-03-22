@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-21T18:26:45.020011+00:00</updated>
+  <updated>2022-03-22T18:25:55.125049+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xobikf</id>
-    <title>Xometry Releases Keflavik International Airport for X-Plane 11</title>
-    <updated>2022-03-13T00:00:00+00:00</updated>
-    <link href="/news/xobikf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622e062f53c422e402194dfa_unnamed%20(5)%20(1).png" rel="enclosure" type="image/png" length="68066"/>
-    <summary>Sim: X-Plane. After the original announcement of Keflavik International Airport (BIKF) earlier this month, Xometry has now released Icelandâs biggest airport for X-Plane 11. Originally serving as a USAF base in 1942, Keflavik has quickly become Icelandâs largest airport after the opening of its main passenger terminal in 1987. Not only does this aerodrome serve as a hub for Icelandair, but it saw nearly 10 million passengers in 2019 while being used by over 20 major airlines. Promised as the âmost up-to-date rendition of BIKF currently available for X-Plane 11/12,â the developer claims that the airport has been made with high accuracy. Furthermore, the airport features custom SAM jetways, an interior on the main terminal, high-resolution PBR texturing, and much more. The full feature list is viewable below. Xometryâs rendition of BIKF is available for purchase via the iniBuilds store for a price of Â£17.99 GBP (excluding VAT). It should also be noted that customers are subject to a 15% discount on other Xometry products when using the code âBIKF-Launchâ. Furthermore, users can enjoy a 20% discount on the iniSimulations Airbus Beluga by using the code âBIKF-Belugaâ at checkout.Â  For further information, make sure to check out the official trailer via the iniBuilds YouTube channel.</summary>
-    <published>2022-03-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfcord</id>
     <title>Just Flight Announces Release Date for Concorde</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237d8428ff7b368140cb918_KVCV_Preview_1.png" rel="enclosure" type="image/png" length="1857976"/>
     <summary>Sim: MSFS. Scenery developer Xometry is expanding into the MSFS2020 environment, as they've previewed their Victorville rendition in the new simulator. The upgraded scenery will be their first for the sim, and it surely won't be the last. Conveniently, VCV was their first airport in X-Plane 11, and it appears that Xometry is continuing that theme.Â  Victorville is a local legend among AvGeeks and aviation nerds in the Pacific Southwest. Famous for its vast graveyard containing hundreds of stored airline relics, the played a significant role in keeping aircraft during the COVID-19 pandemic. Fleets such as the Aero California DC-9s, Delta MD-80, MD90, and FedEx DC-10s have found their permanent home in the lower desert.Â  Unfortunately, the Xometry team hasn't provided an MSFS-specific feature list, so we'll give you their X-Plane 11 features: We'll keep you updated when Xometry posts additional information regarding the upcoming scenery. Join their Discord server to interact with the community if you're a prospective Victorville owner.</summary>
     <published>2022-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfto28</id>
+    <title>Just Flight Previews PA-38 Tomahawk for MSFS</title>
+    <updated>2022-03-22T00:00:00+00:00</updated>
+    <link href="/news/jfto28" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623936c6c13d9480f5204fe1_Pic_6_pHU32rEUR.jpg" rel="enclosure" type="image/jpeg" length="501533"/>
+    <summary>Sim: MSFS. Just Flight has previewed their upcoming rendition of the Piper PA-38 aircraft for Microsoft Flight Simulator. This update brings a new look into the aircraft, along with a detailed feature list to add to what users can expect upon release. At a first glance, the modeling on the aircraft is up to the expectations and correlates to the previous aircraft released, and upcoming. All aspects of the aircraft both exterior and exterior, are modeled accurately to resemble real-world aircraft. A total of 16 liveries will be provided on release and features liveries from many different countries. Users will also be provided a paintkit for the aircraft to create their own liveries and tailor to their own taste. Looking at the feature list provided by Just Flight, PBR texturing has been used alongside real-time reflections and realism. Full support of MSFS's icing effect has also been featured. Ground services and equipment such as chocks, fuel trucks, tie-downs, etc. are all included with the aircraft. A full 3D cockpit has been included with a full EFB will be provided to add accessibility to the user. IFR avionics will be included as well. The aircraft will be VR compatible upon release. All sounds are recorded from a real-world PA-38, alongside utilizing MSFS audio capabilities. If you are interested in the full feature list, you can view it over on Just Flight's Website. As of today, no release date or pricing has been announced. If you are interested in other products by Just Flight, you can view their full catalog over on their website. Threshold will keep you updated on further developments.</summary>
+    <published>2022-03-22T00:00:00+00:00</published>
   </entry>
 </feed>
