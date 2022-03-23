@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-22T18:25:55.125049+00:00</updated>
+  <updated>2022-03-23T18:27:01.143340+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfcord</id>
-    <title>Just Flight Announces Release Date for Concorde</title>
-    <updated>2022-03-14T00:00:00+00:00</updated>
-    <link href="/news/jfcord" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622edfd5d9cfeb9ed8c639d8_6220755png.png" rel="enclosure" type="image/png" length="1506231"/>
-    <summary>Sim: X-Plane. Earlier this week, Just Flight announced that its much anticipated Concorde for Microsoft Flight Simulator will be released on the 30th March. The Concorde, produced by DC Designs to be both âan accessible and yet highly detailed rendition of this iconic aircraftâ, will provide the users with unique adventures as one of the worldâs first supersonic jetliners. The Concorde, according to the developers, will feature most of the special features found on its real life counterpart, including custom-coded fuel systems, fully operational engineerâs station, nose-droop mechanism, âadvanced autopilot system, and fly-by-wire controlsâ. A full list of features can be found on Just Flightâs website. Additionally, the aircraft has been given a custom-made flight model that accurately reflects its handling in âsubsonic, transonic, supersonic and super-cruiseâ phases of flight, which âwill require correct handling of the aircraft in order to achieve her famous high-altitude and high-Mach performanceâ. Currently, the Concorde is set to be priced at Â£27.99 / $39.99 / â¬34.95, excluding sales tax that may incur. To find out more about the DC Designs Concorde, visit their Facebook page.</summary>
-    <published>2022-03-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/eschsp</id>
-    <title>Emerald Scenery Design Previews Chunilna Cabin Strip for MSFS</title>
-    <updated>2022-03-14T00:00:00+00:00</updated>
-    <link href="/news/eschsp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622fcd3d4a3e885a397c5221_chunilna_cabin_strip_alaska_msfs_r9%20(1).jpg" rel="enclosure" type="image/jpeg" length="400534"/>
-    <summary>Sim: MSFS. After releasing a plethora of freeware backcountry airports for Microsoft Flight Simulator, Emerald Design is venturing into the world of payware for MSFS, with the Chunilna Cabin Strip, a remote airfield located 11km to the Northeast of Talkeetna, Alaska. Marking the first payware product created by the developer for Microsoft Flight Simulator, Chunilna Cabin Strip is set to feature a multitude of exciting features not typically seen in other addons. With the airfield being located in Alaska, the scenery will include four native Butterflies and Morel mushrooms only seen during the warm summer months. Furthermore, additional dynamic features were included, such as rain puddles, and a bonfire along with smoke from the cabin that only appears when the temperature drops.Â  Along with these various immersion-enhancing features, the developer has included hand-placed native vegetation, a sloped runway, custom ground textures, and much more. As well, a shortened feature list is viewable below.Â  The airport is set to release via the developer's website and store.flightsim.com for a price of USD $9.99. As well, Emerald Scenery Design is hoping to release the airport on flightsim.to and the MSFS marketplace but is still awaiting approval. Furthermore, the developer has stated that they are considering an Xbox release, but nothing is set in stone. Nevertheless, Threshold will make sure to keep you updated on any developments that arise with this product. In the meantime, make sure to check out the original announcement post on the MSFS Forums and the airport's product page for further information. </summary>
-    <published>2022-03-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gsxpr2</id>
     <title>FSDreamTeam Drops Second GSX Preview</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623936c6c13d9480f5204fe1_Pic_6_pHU32rEUR.jpg" rel="enclosure" type="image/jpeg" length="501533"/>
     <summary>Sim: MSFS. Just Flight has previewed their upcoming rendition of the Piper PA-38 aircraft for Microsoft Flight Simulator. This update brings a new look into the aircraft, along with a detailed feature list to add to what users can expect upon release. At a first glance, the modeling on the aircraft is up to the expectations and correlates to the previous aircraft released, and upcoming. All aspects of the aircraft both exterior and exterior, are modeled accurately to resemble real-world aircraft. A total of 16 liveries will be provided on release and features liveries from many different countries. Users will also be provided a paintkit for the aircraft to create their own liveries and tailor to their own taste. Looking at the feature list provided by Just Flight, PBR texturing has been used alongside real-time reflections and realism. Full support of MSFS's icing effect has also been featured. Ground services and equipment such as chocks, fuel trucks, tie-downs, etc. are all included with the aircraft. A full 3D cockpit has been included with a full EFB will be provided to add accessibility to the user. IFR avionics will be included as well. The aircraft will be VR compatible upon release. All sounds are recorded from a real-world PA-38, alongside utilizing MSFS audio capabilities. If you are interested in the full feature list, you can view it over on Just Flight's Website. As of today, no release date or pricing has been announced. If you are interested in other products by Just Flight, you can view their full catalog over on their website. Threshold will keep you updated on further developments.</summary>
     <published>2022-03-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/md1132</id>
+    <title>Rotate Announces MD-11 Release Date</title>
+    <updated>2022-03-22T00:00:00+00:00</updated>
+    <link href="/news/md1132" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623a3a9bc89d94f6d67c586b_md111.png" rel="enclosure" type="image/png" length="953620"/>
+    <summary>Sim: X-Plane. Aircraft developer Rotate has announced the release date of their upcoming McDonnell Douglas MD-11 for X-Plane 11Â via X-Plane.org's YouTube channel.Â The hyped trijet will release on March 24th. This release marks the first-ever high-quality heavy trijet in X-Plane 11. Since the project was initially announced in May of 2017, nearly five years have passed while the community has eagerly awaited its release. As mentioned before, MD-11 is the first quality heavy trijet that the X-Plane 11 community has ever seen. Complimenting this fact is the lack of high-caliber heavy trijets in any sim, as the CaptainSim L1011 TriStar exists as the last notable 3-engined model. Preceding the CaptainSim L1011, the PMDG MD-11 and JustFlight DC-10 were developed originally for 32bit platforms such as FSX.Â  Rotate has distributed some preview copies to streamers for usage in anticipation of the release. Q8Pilot is currently active on the YouTube platform, showcasing the aircraft in its full glory.Â Check out his channel to learn more about the upcoming release. Last but not least is the pricing of the MD-11; unfortunately, neither Rotate nor X-Plane.org have provided a specific figure as to how much the plane will cost, though it was mentioned in the comments of theÂ release trailerÂ that pilots could expect the trijet to be in the 80-90USD range.Â  â a special thank you to "Hampus Murling" on Discord for providing these screenshots of the MD-11!</summary>
+    <published>2022-03-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/zdpsdf</id>
+    <title>Zero Dollar Payware Releases KSDF v2 for XP11</title>
+    <updated>2022-03-23T00:00:00+00:00</updated>
+    <link href="/news/zdpsdf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623b552ad86ea5291a61aa38_X-Plane_W1h0nNAr3n.png.bafa8dc283c7e8025a3d3beba14187bd.png" rel="enclosure" type="image/png" length="915872"/>
+    <summary>Sim: X-Plane. Zero Dollar Payware has returned, this time updating their visual rendition for Louisville Muhammad Ali International for X-Plane. This update brings the scenery version to version 2 and involves the team's updated style and detail to the well-known cargo airport. Louisville International is the hub for the mainline cargo carrier, UPS. With a square footage of 5.2 million square feet and a perimeter of 7.2 miles, the UPSÂ Worldport sees about 2 million packages a day, averaging 416,000 packages an hour. and 125 aircraft cargo stands, which makes it one of the more popular cargo airports in the world. KSDF also features a passenger terminal which in 2019, serviced about 4.2 million passengers from carriers such as Delta, Southwest, American, and many other carriers. â No feature list has been provided by ZDP, however at a eye glance, detailed ground textures and 3D buildings are all provided in this package. From the included screenshots, the airport seems to be WorldTraffic 3 compatible, alongside a possible SAMÂ Jetway extension for movable jetways. Alongside this, detailed airport ground equipment on both the cargo and passenger side of the airport, are all modeled. You can find this scenery package by Zero Dollar Payware over at the Threshold Forums, free to download. If you are interested in other packages by Zero Dollar Payware, you can find their catalog over on the ThresholdÂ Forums as well.</summary>
+    <published>2022-03-23T00:00:00+00:00</published>
   </entry>
 </feed>
