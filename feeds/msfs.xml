@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-23T18:26:58.555201+00:00</updated>
+  <updated>2022-03-24T18:26:34.144207+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,33 +34,6 @@
     <published>2022-03-08T16:57:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-now-available-on-xbox-one-and-mobile-devices-via-xbox-cloud-gaming/</id>
-    <title>Microsoft Flight Simulator: Now Available on Xbox One and mobile devices via Xbox Cloud Gaming</title>
-    <updated>2022-03-01T17:01:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-now-available-on-xbox-one-and-mobile-devices-via-xbox-cloud-gaming/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/02/xCloud_Microsoft-Flight-Simulator_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="179466"/>
-    <summary>As we continue to evolve the simulator and expand the ways with which both core simmers and newcomers to the franchise can experience Microsoft Flight Simulator, we are thrilled to announce that Microsoft Flight Simulator can now be streamed via Xbox Cloud Gaming.Starting today, Microsoft Flight Simulator is available on Xbox One and on other … Continued</summary>
-    <published>2022-03-01T17:01:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-3rd-2022-development-update/</id>
-    <title>March 3rd, 2022 Development Update</title>
-    <updated>2022-03-03T23:28:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-3rd-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/ZILLNIAZI17-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="137020"/>
-    <summary>On Tuesday, we announced the launch of Microsoft Flight Simulator on Xbox Cloud Gaming. Users can now enjoy the sim on Xbox One and on other supported devices via Xbox Cloud Gaming, powered by custom Xbox Series X hardware. We also released the highly anticipated Famous Flyer 1: Beechcraft Model 17 Staggering.</summary>
-    <published>2022-03-03T23:28:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-10th-2022-development-update/</id>
-    <title>March 10th, 2022 Development Update</title>
-    <updated>2022-03-10T22:22:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-10th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/mutsumi01210-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="25970"/>
-    <summary>We are quickly approaching our next release in just a few short weeks, World Update 8: Iberia. Until then, here are this week’s development updates and community highlights.</summary>
-    <published>2022-03-10T22:22:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/march-17th-2022-development-update/</id>
     <title>March 17th, 2022 Development Update</title>
     <updated>2022-03-17T23:11:29+00:00</updated>
@@ -77,5 +50,32 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2021/11/cropped-cropped-MicrosoftFlightSimulator_GotY_KeyArt_Horiz_RGB_Final-1024x576.jpg" rel="enclosure" type="image/jpeg" length="137054"/>
     <summary>In light of recent tragic aviation news, we have made the decision to postpone our release of World Update VIII: Iberia until Thursday, March 24th at 2:00 AM PDT (0900Z). We extend our deepest condolences to those affected by this event.Thank you.</summary>
     <published>2022-03-22T00:29:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/release-notes-1-24-5-0-world-update-viii-iberia-now-available/</id>
+    <title>Release Notes (1.24.5.0) World Update VIII: Iberia Now Available!</title>
+    <updated>2022-03-24T13:03:59+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-1-24-5-0-world-update-viii-iberia-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/MSFS_WU8_Iberia_NoSnipe_Logo_NoText_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="279150"/>
+    <summary>Release Notes for Version 1.24.5.0 (World Update VIII: Iberia) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2022-03-24T13:03:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/world-update-viii-sale/</id>
+    <title>World Update VIII Sale</title>
+    <updated>2022-03-24T14:59:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-viii-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/StoreSale_WU8_v03-1024x576.jpg" rel="enclosure" type="image/jpeg" length="158869"/>
+    <summary>35 Items on Sale Now in the Marketplace</summary>
+    <published>2022-03-24T14:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/ukraine/</id>
+    <title>Microsoft Flight Simulator Marketplace Charity Campaign</title>
+    <updated>2022-03-24T17:03:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/ukraine/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/UkraineFlag_Pantone_Blue285C_Yellow108C-e1648080060912-1024x396.png" rel="enclosure" type="image/png" length="376"/>
+    <summary>We Stand with Ukraine by providing humanitarian relief and aid for the people affected.</summary>
+    <published>2022-03-24T17:03:12+00:00</published>
   </entry>
 </feed>

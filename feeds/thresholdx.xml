@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-23T18:27:01.143340+00:00</updated>
+  <updated>2022-03-24T18:26:35.387272+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gsxpr2</id>
-    <title>FSDreamTeam Drops Second GSX Preview</title>
-    <updated>2022-03-15T00:00:00+00:00</updated>
-    <link href="/news/gsxpr2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/622fde28313d583c9c1aa9d3_FSDreamteam-GSX-First-Look-in-MSFS-01.jpg" rel="enclosure" type="image/jpeg" length="198925"/>
-    <summary>Sim: MSFS. Umberto Colapicchioni dropped a second preview on his YouTube Channel regarding GSX for Microsoft Flight Simulator, showcasing the product's pushback procedures and animations, whilst the upcoming product is in its alpha build stage of development. This video starts off with Umberto summoning the GSX menu, and from eyeshot, viewers can see a variety of options from the menu. Items such as catering, refueling, boarding, and jetways are all shown in the UI along with other options the plugin is known for in its P3D and FSX counterparts.  After clicking on the pushback option, viewers see a handling operator menu, giving users the option to choose what air carrier operation pushes them back from the gate. The options included in the video are British Airways, Easyjet (both white and orange logos), and Virgin Atlantic. After choosing one of the options, viewers then can see a pushback tug pulling up to the aircraft, involving a ground crew member, fully animated.  After that, the aircraft pushes back, and once again, ground crew animations are fully animated, along with realistic flags and such being animated, and modeled.Â  FSDreamTeam did add a disclaimer that the product is in its Alpha version with features being subjected to change. Alongside this, no price or release date was announced by the development team.</summary>
-    <published>2022-03-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/da50ae</id>
     <title>Aerobask Releases DA50 for X-Plane 11</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623b552ad86ea5291a61aa38_X-Plane_W1h0nNAr3n.png.bafa8dc283c7e8025a3d3beba14187bd.png" rel="enclosure" type="image/png" length="915872"/>
     <summary>Sim: X-Plane. Zero Dollar Payware has returned, this time updating their visual rendition for Louisville Muhammad Ali International for X-Plane. This update brings the scenery version to version 2 and involves the team's updated style and detail to the well-known cargo airport. Louisville International is the hub for the mainline cargo carrier, UPS. With a square footage of 5.2 million square feet and a perimeter of 7.2 miles, the UPSÂ Worldport sees about 2 million packages a day, averaging 416,000 packages an hour. and 125 aircraft cargo stands, which makes it one of the more popular cargo airports in the world. KSDF also features a passenger terminal which in 2019, serviced about 4.2 million passengers from carriers such as Delta, Southwest, American, and many other carriers. â No feature list has been provided by ZDP, however at a eye glance, detailed ground textures and 3D buildings are all provided in this package. From the included screenshots, the airport seems to be WorldTraffic 3 compatible, alongside a possible SAMÂ Jetway extension for movable jetways. Alongside this, detailed airport ground equipment on both the cargo and passenger side of the airport, are all modeled. You can find this scenery package by Zero Dollar Payware over at the Threshold Forums, free to download. If you are interested in other packages by Zero Dollar Payware, you can find their catalog over on the ThresholdÂ Forums as well.</summary>
     <published>2022-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aseddn</id>
+    <title>Aerosoft/Captain 7 Releases Airport Nuremberg for Microsoft Flight Simulator</title>
+    <updated>2022-03-24T00:00:00+00:00</updated>
+    <link href="/news/aseddn" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623c1261468601aab3ca01cf_aerosoft-airport-nuremberg%20(27).jpg" rel="enclosure" type="image/jpeg" length="374740"/>
+    <summary>Sim: MSFS. Earlier this week, Aerosoft/Captain 7 released its rendition of Airport Nuremberg (EDDN) for Microsoft Flight Simulator. The scenery, crafted with highly detailed models, high quality textures, and custom aerial images, brings an immersive experience for pilots who are flying into Bavaria. The airport, developed by Captain 7, 29Palms, and LimeSim, is accurately recreated based on the latest layout of the airport. It will feature âhighly detailed buildings with internal modelingâ, sloped runways, custom signage, animated jetways, realistic night lighting, and custom orthoimagery. For the full list of features, checkout Aerosoftâs store. Airport Nuremberg (EDDN), located 5km from the center of the city, is the second largest international airport in Bavaria and the 10th busiest airport in Germany. The airport, serving more than two dozen lines, connects some 4 million passengers to business and leisure destinations across Europe each year. Currently, the airport can be purchased on Aerosoftâs webstore for â¬16.76 or $18.40 USD, excluding any sale tax that may incur. To successfully install the product, users must have an active Aerosoft account and download the scenery via Aerosoft One.</summary>
+    <published>2022-03-24T00:00:00+00:00</published>
   </entry>
 </feed>
