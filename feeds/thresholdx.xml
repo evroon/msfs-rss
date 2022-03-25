@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-24T18:26:35.387272+00:00</updated>
+  <updated>2022-03-25T18:27:06.858817+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/da50ae</id>
-    <title>Aerobask Releases DA50 for X-Plane 11</title>
-    <updated>2022-03-16T00:00:00+00:00</updated>
-    <link href="/news/da50ae" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6231752f6f7fca5a1bf6ef1a_16.jpg" rel="enclosure" type="image/jpeg" length="86456"/>
-    <summary>Sim: X-Plane. Just after the release of the trailer video, the development team at Aerobask have released their rendition of the Diamond DA50 RG aircraft for X-Plane 11. This release brings yet another detailed addition to the general aviation field for X-Plane 11. Throughout their many releases, Aeobask is often looked up to as an aircraft developer for X-Plane. Creating both high-quality payware and freeware aircraft. Releases such as the Phenom 300, the DA62, and their freeware DR401 are all well-praised add ons for the developer, with their latest release, the DA50 RG. The team has provided a feature list for the aircraft upon release. Starting off, PBR textures are used inside the 3D cockpit featuring aerodynamic work done by X-Aerodynamics. An enhanced Laminar Research G1000 suite has been provided for more user accessibility. All future aircraft updates are provided through the Skunkcrafts Updater. All systems are fully functional along with simulated oxygen and ice protection systems. If youâre interested in reading the full feature list for yourself, you can find it listed below: â Aerobask quality 3D model Accurate flight model Enhanced Laminar G1000 Systems Other High quality sounds Liveries If you are interested in picking this aircraft up for yourself, you can find it over on the X-Plane.org store which sells for $39.95. If you are also by chance interested in other products by Aerobask, you can find all of their products over on their website.</summary>
-    <published>2022-03-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/shadxp</id>
     <title>Jemma Simulations Release CFM Shadow for X-Plane 11</title>
@@ -150,6 +141,15 @@
     <link href="/news/aseddn" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623c1261468601aab3ca01cf_aerosoft-airport-nuremberg%20(27).jpg" rel="enclosure" type="image/jpeg" length="374740"/>
     <summary>Sim: MSFS. Earlier this week, Aerosoft/Captain 7 released its rendition of Airport Nuremberg (EDDN) for Microsoft Flight Simulator. The scenery, crafted with highly detailed models, high quality textures, and custom aerial images, brings an immersive experience for pilots who are flying into Bavaria. The airport, developed by Captain 7, 29Palms, and LimeSim, is accurately recreated based on the latest layout of the airport. It will feature âhighly detailed buildings with internal modelingâ, sloped runways, custom signage, animated jetways, realistic night lighting, and custom orthoimagery. For the full list of features, checkout Aerosoftâs store. Airport Nuremberg (EDDN), located 5km from the center of the city, is the second largest international airport in Bavaria and the 10th busiest airport in Germany. The airport, serving more than two dozen lines, connects some 4 million passengers to business and leisure destinations across Europe each year. Currently, the airport can be purchased on Aerosoftâs webstore for â¬16.76 or $18.40 USD, excluding any sale tax that may incur. To successfully install the product, users must have an active Aerosoft account and download the scenery via Aerosoft One.</summary>
+    <published>2022-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ro11xp</id>
+    <title>Rotate Releases MD-11 for X-Plane</title>
+    <updated>2022-03-24T00:00:00+00:00</updated>
+    <link href="/news/ro11xp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623cb8b379009ea6d4fcbeb5_X-Plane_1803_2227.png" rel="enclosure" type="image/png" length="1893033"/>
+    <summary>Sim: X-Plane. Following the announcement of the release date on Tuesday, Rotate has delivered upon their promise and has launched their MD-11 for X-Plane. The MD-11 has been Rotate's active development project since its announcement in May 2017, almost 5 years ago. The aircraft accurately depicts its real life counterpart, currently only simulating the General Electric (GE)Â engine option in the freighter variant. Rotate has been sharing teasers and system previews of the widebody tri-jet frequently since it first announced the aircraft aircraft, mainly focussing on individual system areas during these updates. Nearing the end of the development process, the aircraft subsequently entered beta testing in late October of 2021. Following this long test period, the developer shared the aircraft with media outlets and streamers over the past weeks ahead of today's release.  Rotate has shared an extensive feature list on the product page, although the full thing is too long to share on this article, highlights of this include over 200 custom failures, and accurate simulation of all critical aircraft systems. Rotate has also announced today, prompting lots of backlash that the aircraft will see the passenger variant as an extra purchase. Seeing as the aircraft also does not ship with the Pratt and Whitney engines, and has lots of small bugs degrading the experience, the community is seemingly disappointed. You can purchase the highly awaited Rotate MD-11 for X-Plane 11 now from the X-Plane.org Store for $83.95.</summary>
     <published>2022-03-24T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-24T18:26:34.144207+00:00</updated>
+  <updated>2022-03-25T18:27:05.918856+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,6 +32,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
     <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
     <published>2022-03-08T16:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-10th-2022-development-update/</id>
+    <title>March 10th, 2022 Development Update</title>
+    <updated>2022-03-10T22:22:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-10th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/mutsumi01210-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="25970"/>
+    <summary>We are quickly approaching our next release in just a few short weeks, World Update 8: Iberia. Until then, here are this week’s development updates and community highlights.</summary>
+    <published>2022-03-10T22:22:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-17th-2022-development-update/</id>
@@ -68,14 +77,5 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/StoreSale_WU8_v03-1024x576.jpg" rel="enclosure" type="image/jpeg" length="158869"/>
     <summary>35 Items on Sale Now in the Marketplace</summary>
     <published>2022-03-24T14:59:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/ukraine/</id>
-    <title>Microsoft Flight Simulator Marketplace Charity Campaign</title>
-    <updated>2022-03-24T17:03:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/ukraine/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/UkraineFlag_Pantone_Blue285C_Yellow108C-e1648080060912-1024x396.png" rel="enclosure" type="image/png" length="376"/>
-    <summary>We Stand with Ukraine by providing humanitarian relief and aid for the people affected.</summary>
-    <published>2022-03-24T17:03:12+00:00</published>
   </entry>
 </feed>
