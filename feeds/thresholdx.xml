@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-25T18:27:06.858817+00:00</updated>
+  <updated>2022-03-26T18:25:12.194034+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/shadxp</id>
-    <title>Jemma Simulations Release CFM Shadow for X-Plane 11</title>
-    <updated>2022-03-17T00:00:00+00:00</updated>
-    <link href="/news/shadxp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6232cdf318f88c2d674ef3dd_cover.PNG" rel="enclosure" type="image/png" length="559540"/>
-    <summary>Sim: X-Plane. Developer Jemma Simulations has released their rendition of the CFM Shadow ultralight kit aircraft. It is a two-seater powered by a two-stroke, two-cylinder Rotax engine for those unfamiliar with the airplane. The Shadow is the first aircraft produced by the developer. The aircraft is relatively basic by design, but the developer provided a feature list to give aspiring pilots an idea of what to expect with the aircraft.Â  Features: Â Pilots can obtain the CFM Shadow for $15.95 on the X-Plane.org store. It'll consume approximately 250MB of space when downloaded.Â </summary>
-    <published>2022-03-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pm7377</id>
     <title>PMDG Publishes Update on 737-700</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623cb8b379009ea6d4fcbeb5_X-Plane_1803_2227.png" rel="enclosure" type="image/png" length="1893033"/>
     <summary>Sim: X-Plane. Following the announcement of the release date on Tuesday, Rotate has delivered upon their promise and has launched their MD-11 for X-Plane. The MD-11 has been Rotate's active development project since its announcement in May 2017, almost 5 years ago. The aircraft accurately depicts its real life counterpart, currently only simulating the General Electric (GE)Â engine option in the freighter variant. Rotate has been sharing teasers and system previews of the widebody tri-jet frequently since it first announced the aircraft aircraft, mainly focussing on individual system areas during these updates. Nearing the end of the development process, the aircraft subsequently entered beta testing in late October of 2021. Following this long test period, the developer shared the aircraft with media outlets and streamers over the past weeks ahead of today's release.  Rotate has shared an extensive feature list on the product page, although the full thing is too long to share on this article, highlights of this include over 200 custom failures, and accurate simulation of all critical aircraft systems. Rotate has also announced today, prompting lots of backlash that the aircraft will see the passenger variant as an extra purchase. Seeing as the aircraft also does not ship with the Pratt and Whitney engines, and has lots of small bugs degrading the experience, the community is seemingly disappointed. You can purchase the highly awaited Rotate MD-11 for X-Plane 11 now from the X-Plane.org Store for $83.95.</summary>
     <published>2022-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/414rel</id>
+    <title>Flysimware Releases C414 for MSFS2020</title>
+    <updated>2022-03-26T00:00:00+00:00</updated>
+    <link href="/news/414rel" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623edd7a8687e4e14065546d_flysimware-cessna-414aw-chancellor-msfs2020.jpg" rel="enclosure" type="image/jpeg" length="287973"/>
+    <summary>Sim: MSFS. Aircraft developer Flysimware has released their version of the Cessna 414 Chancellor for the new simulator. The team took great detail into account with this aircraft, as their tech pilot owns one of these birds in real life. Flysimware has teased their Chancellor for an extended period but has finally decided to post the plane on their website for purchase.Â  The Cessna C414 Chancellor is a pressurized, twin-engine aircraft developed by a famous company. Containing two TSIO-520-J engines, the plane outputs nearly 310hp. It can obtain about 1700 feet per minute during the climb, with a ceiling of 30,000 feet with a range of 1,528 miles. Flysimware's C414"AW" signifies an upgraded -A Variant with winglets and offers the "RAM IV" conversion, providing more power for the pilot.Â Â  Flysimware's C414 Features: The C414 delivers with four liveries. Flysimware points out that the product is still "a beta version." Aspiring C414 pilots can obtain the aircraft on the Flysimware store for $39.99.Â </summary>
+    <published>2022-03-26T00:00:00+00:00</published>
   </entry>
 </feed>
