@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-26T18:25:12.194034+00:00</updated>
+  <updated>2022-03-27T18:25:10.377641+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pm7377</id>
-    <title>PMDG Publishes Update on 737-700</title>
-    <updated>2022-03-17T00:00:00+00:00</updated>
-    <link href="/news/pm7377" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6209b16078b45f2be1a2d595_image_15297.jpeg" rel="enclosure" type="image/jpeg" length="1049348"/>
-    <summary>Sim: MSFS. Earlier this week, aircraft developer PMDG has published a new update on its much anticipated 737-700 project for Microsoft Flight Simulator, discussing the status of the aircraftâs testing, developmental progress, and upcoming plans. According to the developers, the testing of the aircraft continues smoothly, with some 70 issues reported by the testers and more than 120 solved by the development team. However, despite the 737 currently performing at a near satisfactory level, the developers expressed their frustration that MSFS currently lacks âtools that [they] would normally use to improve code stability and look for areas that require optimizationâ, preventing them from gaining vital insights on key areas needing improvements. In addition to updates on testing, the team also shined light on their current task of improving the details of some areas âto evaluate the impact different techniques may have on the performance of the simulatorâ. The developers are trying to gradually increase the level of details without sacrificing any performance, a process aided by their âincreased confidence in Asobo's rendering engineâ.Â The developer's progress is demonstrated by the completely rebuilt fire handles and light knobs pictured above. Finally, the developers revealed that a âfull bore promotional processâ will soon start, presenting the public with additional details on the aircraft and answering their questions. Currently, PMDG has not revealed the release date of the aircraft, claiming that its carefully designed workflow and testing procedure currently prevent it from determining a precise date. However, the developers teased that the 737 is âvery close to that pointâ where a firm release date can be set and the embargo can be lifted for beta testers. â</summary>
-    <published>2022-03-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/esdchu</id>
     <title>Emerald Scenery Design Releases Chunilna Cabin Strip for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623edd7a8687e4e14065546d_flysimware-cessna-414aw-chancellor-msfs2020.jpg" rel="enclosure" type="image/jpeg" length="287973"/>
     <summary>Sim: MSFS. Aircraft developer Flysimware has released their version of the Cessna 414 Chancellor for the new simulator. The team took great detail into account with this aircraft, as their tech pilot owns one of these birds in real life. Flysimware has teased their Chancellor for an extended period but has finally decided to post the plane on their website for purchase.Â  The Cessna C414 Chancellor is a pressurized, twin-engine aircraft developed by a famous company. Containing two TSIO-520-J engines, the plane outputs nearly 310hp. It can obtain about 1700 feet per minute during the climb, with a ceiling of 30,000 feet with a range of 1,528 miles. Flysimware's C414"AW" signifies an upgraded -A Variant with winglets and offers the "RAM IV" conversion, providing more power for the pilot.Â Â  Flysimware's C414 Features: The C414 delivers with four liveries. Flysimware points out that the product is still "a beta version." Aspiring C414 pilots can obtain the aircraft on the Flysimware store for $39.99.Â </summary>
     <published>2022-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mscaip</id>
+    <title>Macco Simulations Announces Cancun Airport For Microsoft Flight Simulator</title>
+    <updated>2022-03-27T00:00:00+00:00</updated>
+    <link href="/news/mscaip" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623ff68dc52c4dc9df929702_Screen%20Shot%202022-03-27%20at%201.29.37%20AM-min.png" rel="enclosure" type="image/png" length="1737790"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Macco Simulations announced their latest product - Cancun International Airport for Microsoft Flight Simulator. The airport, equipped with detailed models, 8 layers of ground texturing, and custom ground objects, will serve as an ideal vacation destination for pilots all year round. According to the developers, Cancun will mark the teamâs first attempt to recreate an airport outside of the United Kingdom. They have spend more than 10 months working on this project, with almost half of it dedicated to â sorting out the [regionâs] atrocious [default] satellite imageryâ. They also revealed that a full version of the scenery will be available on release, instead of beta versions like their previous airports. The finished product will include custom static vehicles, PBR/4k textures, "fully optimized LODs for best performance on PC and XBOX", and fully custom jetways. For the full list of features, checkout the developer's website.  Cancun Airport, located on the Caribbean coast, is the main airport serving the popular holiday destination of Cancun. It's visited by various major airlines such as KLM, Lufthansa, Delta, and American, seeing some 22 million passengers per year. From the airport, passengers can board flights to destinations such as Orlando, Los Angeles, and London. Currently, Macco Simulations has teased that Cancun Airport will be released early next month, though the specific date and pricing were not provided. Threshold will keep you updated on this front.</summary>
+    <published>2022-03-27T00:00:00+00:00</published>
   </entry>
 </feed>
