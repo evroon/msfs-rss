@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-27T18:25:10.377641+00:00</updated>
+  <updated>2022-03-28T18:26:50.082669+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/esdchu</id>
-    <title>Emerald Scenery Design Releases Chunilna Cabin Strip for MSFS</title>
-    <updated>2022-03-19T00:00:00+00:00</updated>
-    <link href="/news/esdchu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62360747e3980f4a6ad2158d_chunilna_cabin_strip_alaska_msfs_r17%20(1).jpeg" rel="enclosure" type="image/jpeg" length="524472"/>
-    <summary>Sim: MSFS. After originally releasing a plethora of sceneries for Prepar3D and various freeware sceneries for Microsoft Flight Simulator, Emerald Scenery Design have ventured into the world of payware for MSFS. Marking the developerâs first payware product for Asoboâs simulator, the developer has taken to the backcountry of Alaska, with the release of Chunilna Cabin Strip. Located 11km to the Northeast of Talkeetna Alaska, Chunilna Cabin Strip is an unregistered airfield with an incredibly short runway, with anything larger than a Piper Cub providing quite a struggle for pilots. Featuring environmentally dynamic features such as seasonal butterflies, morel mushrooms, rain puddles, VFX, and more, Emerald Scenery Design claims to have brought this scenery âto life in incredible detail.â Furthermore, the scenery uses its own custom library which includes custom vegetation, 3D trees, custom ground textures, and more. The full feature list is viewable below. Chunilna Cabin Strip is available for purchase from the developerâs store or store.flightsim.com for a price of $9.99 USD. Furthermore, the developer is hoping to release the airport on the MSFS marketplace and flightsim.to, but is currently awaiting approval. As well, they are considering a release on Xbox but nothing is certain. Lastly, make sure to check out the official trailer for the airport via the developerâs YouTube Channel. As well, for further information, one can join the developerâs discord.</summary>
-    <published>2022-03-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pawdms</id>
     <title>Northern Sky Studios Releases Seward Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623ff68dc52c4dc9df929702_Screen%20Shot%202022-03-27%20at%201.29.37%20AM-min.png" rel="enclosure" type="image/png" length="1737790"/>
     <summary>Sim: MSFS. Earlier this week, scenery developer Macco Simulations announced their latest product - Cancun International Airport for Microsoft Flight Simulator. The airport, equipped with detailed models, 8 layers of ground texturing, and custom ground objects, will serve as an ideal vacation destination for pilots all year round. According to the developers, Cancun will mark the teamâs first attempt to recreate an airport outside of the United Kingdom. They have spend more than 10 months working on this project, with almost half of it dedicated to â sorting out the [regionâs] atrocious [default] satellite imageryâ. They also revealed that a full version of the scenery will be available on release, instead of beta versions like their previous airports. The finished product will include custom static vehicles, PBR/4k textures, "fully optimized LODs for best performance on PC and XBOX", and fully custom jetways. For the full list of features, checkout the developer's website.  Cancun Airport, located on the Caribbean coast, is the main airport serving the popular holiday destination of Cancun. It's visited by various major airlines such as KLM, Lufthansa, Delta, and American, seeing some 22 million passengers per year. From the airport, passengers can board flights to destinations such as Orlando, Los Angeles, and London. Currently, Macco Simulations has teased that Cancun Airport will be released early next month, though the specific date and pricing were not provided. Threshold will keep you updated on this front.</summary>
     <published>2022-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xovict</id>
+    <title>Xometry Publishes Victorville for MSFS</title>
+    <updated>2022-03-28T00:00:00+00:00</updated>
+    <link href="/news/xovict" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62413e0476f54667010716c0_ezgif-5-1899149dc2.jpg" rel="enclosure" type="image/jpeg" length="566185"/>
+    <summary>Sim: MSFS. The team over at Xometry Design is back bringing Victorville Logistics Airport to Microsoft Flight Simulator. This release brings the developers both attention to detail, and quality work to the Southern California Logistics Airport. The Victorville Airport is known for a variety of subjects, most recently being used as a aircraft storage and an aircraft retirement area. At its inception, the USÂ Federal Government was trying to situate the area after the closure of George Air Force Base, once coming to a conclusion, the airport was convereted to a Logistics Airport in 1992. Since then, the airfield has been used for cargo and airline logistics and storage. In 2020, as a result with of the COVID-19 Pandemic, many airlines both housed in the USÂ and outside the US, use this airfield for aircraft storage due to lesser demand on routes. Xometry has provided a detailed feature log upon release of this package. Starting off, detailed buildings and ground textures have been modelled with PBRÂ textures. Xometry has provided both a pre COVID and current renditions fo the airport. Disassembled aircraft parts can be found across the airfield, with including over 150 custom placed aircraft over the airport grounds. If you are interested in the full feature list, you can check out the products webpage. If you are interested in this scenery package and picking it up for yourself, you can purchase it over on the iniBuilds Store and sells for $17.00 USD. If you are interested in any other products by Xometry, you can check out their extensive catalog on the iniBuilds Store as well.</summary>
+    <published>2022-03-28T00:00:00+00:00</published>
   </entry>
 </feed>
