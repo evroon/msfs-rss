@@ -2,55 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-29T18:26:43.379847+00:00</updated>
+  <updated>2022-03-30T18:27:04.691374+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-blu-games/</id>
-    <title>Community Spotlight: Blu Games</title>
-    <updated>2022-02-23T09:30:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-blu-games/" rel="alternate"/>
-    <summary>In this Community Spotlight, we’ll be shining a light on community member and content creator Blu Games. “What’s going on beautiful people, my name is Caleb but online I am Blu Games – Youtuber, Streamer, &amp; Reviewer from Texas.”In his streams and videos, Blu Games enjoys and explores a variety of different realistic simulators and games … Continued</summary>
-    <published>2022-02-23T09:30:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/</id>
-    <title>Famous Flyer I: Beechcraft Model 17 Staggerwing</title>
-    <updated>2022-03-01T19:06:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-i-beechcraft-model-17-staggerwing/" rel="alternate"/>
-    <summary>There’s flying, and then there’s flying with style.The Beechcraft Model 17 Staggerwing, the first release in our Famous Flyers series of aircraft, earned a reputation for being one of the most luxurious and comfortable planes of its era. This beautiful art deco-inspired biplane sports an upper wing offset further to the rear than the lower … Continued</summary>
-    <published>2022-03-01T19:06:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
-    <title>Community Spotlight: Alyson Johnson</title>
-    <updated>2022-03-08T16:57:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/aly1-1024x768.jpg" rel="enclosure" type="image/jpeg" length="86784"/>
-    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
-    <published>2022-03-08T16:57:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-10th-2022-development-update/</id>
-    <title>March 10th, 2022 Development Update</title>
-    <updated>2022-03-10T22:22:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-10th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/mutsumi01210-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="25970"/>
-    <summary>We are quickly approaching our next release in just a few short weeks, World Update 8: Iberia. Until then, here are this week’s development updates and community highlights.</summary>
-    <published>2022-03-10T22:22:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-17th-2022-development-update/</id>
-    <title>March 17th, 2022 Development Update</title>
-    <updated>2022-03-17T23:11:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-17th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/Filippo20032222-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="83818"/>
-    <summary>We are very excited for the release of World Update VIII: Iberia next week, launching on March 22 at 2:00am PDT (0900Z)! To go along with the next World Update, we are also launching a new plane for both PC and Xbox, Local Legend III: Dornier Do J Wal.</summary>
-    <published>2022-03-17T23:11:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-viii-iberia-postponed/</id>
     <title>World Update VIII: Iberia Postponed</title>
@@ -77,5 +34,48 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/StoreSale_WU8_v03-1024x576.jpg" rel="enclosure" type="image/jpeg" length="158869"/>
     <summary>35 Items on Sale Now in the Marketplace</summary>
     <published>2022-03-24T14:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/ukraine/</id>
+    <title>Microsoft Flight Simulator Marketplace Charity Campaign</title>
+    <updated>2022-03-24T17:03:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/ukraine/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/UkraineFlag_Pantone_Blue285C_Yellow108C-e1648080060912-1024x396.png" rel="enclosure" type="image/png" length="376"/>
+    <summary>We Stand with Ukraine by providing humanitarian relief and aid for the people affected.</summary>
+    <published>2022-03-24T17:03:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-24th-2022-development-update/</id>
+    <title>March 24th, 2022 Development Update</title>
+    <updated>2022-03-24T23:13:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-24th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/pommes_l-Twitter2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="103064"/>
+    <summary>Screenshot by pommes_l (Twitter)World Update 8: Iberia is officially live! Click here to for full release notes and check out the trailer below:﻿Thank you to those who made it out to our monthly Dev Q&amp;A yesterday. The full video can be found in the Twitch section below. Coming up next week: our Local Legends #3 … Continued</summary>
+    <published>2022-03-24T23:13:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
+    <title>Community Spotlight: Alyson Johnson</title>
+    <updated>2022-03-08T16:57:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
+    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
+    <published>2022-03-08T16:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/</id>
+    <title>Local Legend III: Dornier Do J Wal</title>
+    <updated>2022-03-29T19:01:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/" rel="alternate"/>
+    <summary>The Microsoft Flight Simulator team is proud to announce the third release in our Local Legends family of historic aircraft: the Do J Wal, a twin-engine, high-wing flying boat by German aviation firm Dornier. The J Wal (“Whale” in German) captured the imagination of the world immediately after it was introduced in 1923 due its … Continued</summary>
+    <published>2022-03-29T19:01:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
+    <title>Community Spotlight: Beth Oliver</title>
+    <updated>2022-03-30T16:31:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/header-1024x374.png" rel="enclosure" type="image/png" length="150698"/>
+    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
+    <published>2022-03-30T16:31:39+00:00</published>
   </entry>
 </feed>
