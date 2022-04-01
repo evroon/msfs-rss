@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-03-31T18:27:11.947814+00:00</updated>
+  <updated>2022-04-01T18:27:50.357312+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-viii-iberia-postponed/</id>
-    <title>World Update VIII: Iberia Postponed</title>
-    <updated>2022-03-22T00:29:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-viii-iberia-postponed/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2021/11/cropped-cropped-MicrosoftFlightSimulator_GotY_KeyArt_Horiz_RGB_Final-1024x576.jpg" rel="enclosure" type="image/jpeg" length="137054"/>
-    <summary>In light of recent tragic aviation news, we have made the decision to postpone our release of World Update VIII: Iberia until Thursday, March 24th at 2:00 AM PDT (0900Z). We extend our deepest condolences to those affected by this event.Thank you.</summary>
-    <published>2022-03-22T00:29:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-1-24-5-0-world-update-viii-iberia-now-available/</id>
     <title>Release Notes (1.24.5.0) World Update VIII: Iberia Now Available!</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/pommes_l-Twitter2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="103064"/>
     <summary>Screenshot by pommes_l (Twitter)World Update 8: Iberia is officially live! Click here to for full release notes and check out the trailer below:﻿Thank you to those who made it out to our monthly Dev Q&amp;A yesterday. The full video can be found in the Twitch section below. Coming up next week: our Local Legends #3 … Continued</summary>
     <published>2022-03-24T23:13:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-31st-2022-development-update/</id>
+    <title>March 31st, 2022 Development Update</title>
+    <updated>2022-03-31T21:42:03+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-31st-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/CaptainBibic-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="46439"/>
+    <summary>Screenshot by CaptainBibic (Forum)We are excited to announce our next testing opportunity will be available soon for Sim Update 9. Our main focus for this beta is: Checking stability and performance Testing against the release notes to confirm accuracy Identify any regressions that may have taken place due to code changes Providing an opportunity for … Continued</summary>
+    <published>2022-03-31T21:42:03+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>

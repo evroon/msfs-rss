@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-03-31T18:27:13.105763+00:00</updated>
+  <updated>2022-04-01T18:27:51.692494+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rv14msfs</id>
-    <title>SimWorks Studios Announces RV-14 Release Date</title>
-    <updated>2022-03-20T00:00:00+00:00</updated>
-    <link href="/news/rv14msfs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62369b5c06dd18d4cb15a7b0_rv141.png" rel="enclosure" type="image/png" length="1216362"/>
-    <summary>Sim: MSFS. Developer SimWorks Studios has announced that their RV-14 is scheduled for release on Monday, March 28th. Since releasing their Quest Kodiak for the sim, the team has remained active in the MSFS space.  SimWorks Studios also announced that their FSX and Prepar3D products would no longer be updated or supported and withdrawn from sale by April 1st. Their products will become available again as freeware in six months on the developer's website.  For those who aren't familiar with the Vans RV-14, the single-engine kit aircraft is one of Van's Aircraft's newest developments. Fitted with a Lycoming IO-390 four-stroke powerplant, the plane performs well, producing nearly 215hp and can cruise at 168 knots indicated airspeed. It also has a maximum range of 815nm.  SimWorks Studios RV-14 will be available for 14.99EUR on their website and 19.99EUR on third-party stores. Stay tuned with Threshold in anticipation of the aircrafts release!</summary>
-    <published>2022-03-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ff7879</id>
-    <title>FlightFactor Previews Boeing 787 EFIS</title>
-    <updated>2022-03-20T00:00:00+00:00</updated>
-    <link href="/news/ff7879" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62369fd5296f8a3a763d5601_7871.jpg" rel="enclosure" type="image/jpeg" length="262578"/>
-    <summary>Sim: X-Plane. Aircraft developer FlightFactorÂ has posted more previews of their upcoming Boeing 787 for X-Plane 11 on Twitter.Â The team has presented screenshots of the aircrafts Primary Flight Display (PFD), Navigation Display (ND), and Multifunction Display (MFD). Since first announcing their 787 for X-Plane, the community has built hype around its development. We've seen many reviews ranging from its cockpit to its rendered model to its systems. While we don't have any information regarding its release, the team is making significant strides in its development. One of their more recent development updates included some early in-sim cockpit previews.Â  FlightFactor has multiple aircraft projects at hand, from the 777v2 to the 787 and beyond. Be on the lookout for more of their updates in the coming months. Those who want to stay in the know with FlightFactor updatesÂ can join their Discord server here.Â If you're interested in previous 787 or 777v2 updates,Â peek at our other articles.Â </summary>
-    <published>2022-03-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mi3119</id>
     <title>Milviz Posts MSFS Cessna C310 Tutorial Video </title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6243ecebb11a4b283982ddf1_Cessna_172SP_G1000-2022-03-247.44.57PM_thumb_c0324458-01fb-4a78-8254-451752e5fb6b%20copy.jpg" rel="enclosure" type="image/jpeg" length="698548"/>
     <summary>Sim: X-Plane. Earlier this week, scenery developer TaiModels released Sydney Kingsford Smith International Airport (YSSY) for X-Plane 11. The airport, created using 4k textures, custom SAM jetways, and custom ground mesh, will serve as the gateway for pilots looking to visit one of Australia's most well known metropolises. According to the developers, Sydney Airport has been recreated to mirror its real life counterpart. Some notable features of the scenery include high detailed models, interior models for terminal 1 and 2, custom animated objects, PBR textures, and optimizations for best performances. For a complete list of features, check out the productâs store page. Sydney Airport, located only 5 miles away from Sydneyâs central districts, is the main international airport that serves the region. One of the busiest airports in Australia, YSSY serves as a hub for international travel, connecting the country to almost every continent in the world. In 2018 alone, the airport handled some 45 million passengers and was nominated by Skytrax as the worldâs 20th best airport. Currently, TaiModelsâs Sydney Airport can be purchased on iniBuildsâs webstore for Â£20.99 GBP/$27.50 USD, excluding any sales tax that may occur. The product is supported all three operating systems and the developers recommend the users to have at least 1.86GB of free disk free for successful installation.</summary>
     <published>2022-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/conc331</id>
+    <title>DCDesigns Releases Concorde for MSFS2020</title>
+    <updated>2022-04-01T00:00:00+00:00</updated>
+    <link href="/news/conc331" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62467a4cbbf30f709871b8fd_concorde-microsoft-flight-simulator_2_ss_l_220330095555.jpg" rel="enclosure" type="image/jpeg" length="130917"/>
+    <summary>Sim: MSFS. Aircraft developer DCDesigns has released their rendition of the Aerospatiale Concorde for MSFS2020. The product is accompanied by MSFS native materials, a realistic flight model, and a complete operations manual. While it's unlikely that you don't know much about the Concorde, here's a bit of a history lesson anyway. The Aerospatiale/BAC Concorde is a French-British afterburning turbojet supersonic airliner that operated at a cruising speed of Mach 2.02. Considered a technological marvel, it contains the title of the most successful supersonic aircraft, beating its only "viable" competitor, the Tupolev Tu-144. It initially garnered interest from many airlines, such as Pan Am and Trans World Airlines, but production delays and hesitance regarding the airframes viability as a profitable mechanism led to mass cancellations of orders, leaving only British Airways and Air France to operate the aircraft. The Concorde is still the only "successful" supersonic airliner to date, even though the airframe's last flight took place in 2003. Today, most Concordes are presented at notable museums such as the Intrepid and Boeing museums, existing as figures of an incredible legacy of the past.Â  Rewinding to the DCDesigns rendition of the Concorde, it's imperative to mention that the developer designed the aircraft intending to simplify the plane so that it is accessible to all users without requiring "intense" studying to fly. Therefore, it's important to keep expectations humble as it doesn't compete with the likes of the FSLabs Concorde, for example.Â  DCDesigns' Concorde Features: You can obtain the DCDesigns Concorde for MSFS2020 through the JustFlight store for $39.99. In addition, aspiring pilots can check out the release trailer beforehand to get a glimpse of the aircraft in action. </summary>
+    <published>2022-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gsxp11</id>
+    <title>Stairport Releases GroundService for XP11</title>
+    <updated>2022-04-01T00:00:00+00:00</updated>
+    <link href="/news/gsxp11" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624705641a92f3a612f7b5dd_sam-groundservice-xp%20(1).jpg" rel="enclosure" type="image/jpeg" length="138515"/>
+    <summary>Sim: X-Plane. One of the most anticipated airport environment add-on's has been released. Stairport, in collaboration with MisterX, have released GroundService plugin for X-Plane 11. Being the second plugin of its kind, many XP11 users have looked forward to this product developed by the well known developers. The plugin enhances the various aspects of airport life that has often been neglected in X-Plane 11 for quite some time. While other development teams have included basic ground services in their plugins, this release brings the whole world of ground services to light. With cleaning trucks, to passenger stairs for smaller airports, this plugin provides it all, with high accessibility for users through the SAM3 plugin. With a multitude of features, this plugin provides it all. First, the product does come with a aircraft compatibility list, and a 10 minute demo has been provided to give users a chance to take a dip in the water before purchasing. All aspects of ground services have been included in the package with items such as GPU, cleaning trucks, loaders, and animated passenger stairs being included. X-Plane 12 compatibility is currently under development for the plugin to be ready at the launch of XP12. This plugin by Stairport is available for purchase on the Aerosoft Store with a selling price of $34.99. If you are interested in other products developed by Stairport and MisterX, you can check out their product pages over on Aerosoft Store for Stairport, and the X-Plane.org Store for MisterX</summary>
+    <published>2022-04-01T00:00:00+00:00</published>
   </entry>
 </feed>
