@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-01T18:27:51.692494+00:00</updated>
+  <updated>2022-04-02T18:25:25.213163+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mi3119</id>
-    <title>Milviz Posts MSFS Cessna C310 Tutorial Video </title>
-    <updated>2022-03-20T00:00:00+00:00</updated>
-    <link href="/news/mi3119" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6236a5d3296f8a08a244ada6_c3101.jpg" rel="enclosure" type="image/jpeg" length="352009"/>
-    <summary>Sim: MSFS. Aircraft developer Milviz has posted a new tutorial video on their YouTube channel, in the form of a tutorial, in anticipation of their upcoming C310 release for MSFS. The aircraft has been previewed since the beginning of MSFS's days, and it appears that its release is now imminent.  âComplimenting their C310 efforts is their upcoming ATR for MSFS. We haven't received too much information on the coinciding project yet, except for a few screenshots showcasing its operation in the new sim. The C310 has seen its fair share of exposure, including other videos and screenshots, which can be seen on Milviz's Facebook here. Milviz's Tutorial video presents the aircraft in its current state, from cold and dark startup to shutdown. Take a look at it to understand the plane better before it releases.</summary>
-    <published>2022-03-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ukksna</id>
     <title>UK2000 Scenery Announces John Wayne Airport for Microsoft Flight Simulator</title>
@@ -104,7 +95,7 @@
     <updated>2022-03-27T00:00:00+00:00</updated>
     <link href="/news/mscaip" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623ff68dc52c4dc9df929702_Screen%20Shot%202022-03-27%20at%201.29.37%20AM-min.png" rel="enclosure" type="image/png" length="1737790"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer Macco Simulations announced their latest product - Cancun International Airport for Microsoft Flight Simulator. The airport, equipped with detailed models, 8 layers of ground texturing, and custom ground objects, will serve as an ideal vacation destination for pilots all year round. According to the developers, Cancun will mark the teamâs first attempt to recreate an airport outside of the United Kingdom. They have spend more than 10 months working on this project, with almost half of it dedicated to â sorting out the [regionâs] atrocious [default] satellite imageryâ. They also revealed that a full version of the scenery will be available on release, instead of beta versions like their previous airports. The finished product will include custom static vehicles, PBR/4k textures, "fully optimized LODs for best performance on PC and XBOX", and fully custom jetways. For the full list of features, checkout the developer's website.  Cancun Airport, located on the Caribbean coast, is the main airport serving the popular holiday destination of Cancun. It's visited by various major airlines such as KLM, Lufthansa, Delta, and American, seeing some 22 million passengers per year. From the airport, passengers can board flights to destinations such as Orlando, Los Angeles, and London. Currently, Macco Simulations has teased that Cancun Airport will be released early next month, though the specific date and pricing were not provided. Threshold will keep you updated on this front.</summary>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Macco Simulations announced their latest product - Cancun International Airport (MMUN) for Microsoft Flight Simulator. The airport, equipped with detailed models, 8 layers of ground texturing, and custom ground objects, will serve as an ideal vacation destination for pilots all year round. According to the developers, Cancun will mark the teamâs first attempt to recreate an airport outside of the United Kingdom. They have spend more than 10 months working on this project, with almost half of it dedicated to â sorting out the [regionâs] atrocious [default] satellite imageryâ. They also revealed that a full version of the scenery will be available on release, instead of beta versions like their previous airports. The finished product will include custom static vehicles, PBR/4k textures, "fully optimized LODs for best performance on PC and XBOX", and fully custom jetways. For the full list of features, checkout the developer's website.  Cancun Airport, located on the Caribbean coast, is the main airport serving the popular holiday destination of Cancun. It's visited by various major airlines such as KLM, Lufthansa, Delta, and American, seeing some 22 million passengers per year. From the airport, passengers can board flights to destinations such as Orlando, Los Angeles, and London. Currently, Macco Simulations has teased that Cancun Airport will be released early next month, though the specific date and pricing were not provided. Threshold will keep you updated on this front.</summary>
     <published>2022-03-27T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624705641a92f3a612f7b5dd_sam-groundservice-xp%20(1).jpg" rel="enclosure" type="image/jpeg" length="138515"/>
     <summary>Sim: X-Plane. One of the most anticipated airport environment add-on's has been released. Stairport, in collaboration with MisterX, have released GroundService plugin for X-Plane 11. Being the second plugin of its kind, many XP11 users have looked forward to this product developed by the well known developers. The plugin enhances the various aspects of airport life that has often been neglected in X-Plane 11 for quite some time. While other development teams have included basic ground services in their plugins, this release brings the whole world of ground services to light. With cleaning trucks, to passenger stairs for smaller airports, this plugin provides it all, with high accessibility for users through the SAM3 plugin. With a multitude of features, this plugin provides it all. First, the product does come with a aircraft compatibility list, and a 10 minute demo has been provided to give users a chance to take a dip in the water before purchasing. All aspects of ground services have been included in the package with items such as GPU, cleaning trucks, loaders, and animated passenger stairs being included. X-Plane 12 compatibility is currently under development for the plugin to be ready at the launch of XP12. This plugin by Stairport is available for purchase on the Aerosoft Store with a selling price of $34.99. If you are interested in other products developed by Stairport and MisterX, you can check out their product pages over on Aerosoft Store for Stairport, and the X-Plane.org Store for MisterX</summary>
     <published>2022-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hema20</id>
+    <title>Chudoba Design Releases Marsa Alam Airport for MSFS2020</title>
+    <updated>2022-04-02T00:00:00+00:00</updated>
+    <link href="/news/hema20" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6247f90c9d29b720c66edf19_hema1.png" rel="enclosure" type="image/png" length="541258"/>
+    <summary>Sim: MSFS. iniBuilds affiliate Chudoba DesignÂ has released its rendition of Marsa Alam (HEMA) airport for MSFS2020.Â The Egyptian airport is faithfully recreated, feature-rich, and moderately priced to add to its offerings.Â  Marsa Alam International Airport is an international airport, mainly serving as a vacation destination for European leisure travelers. The airport features traffic from many notable airlines, such as easyJet, Edelweiss, Lufthansa, Smartwings, and TUI fly. It served over 1 million passengers back in 2012 and contains a singular, 9800 foot, or 3,000-meter runway. Marsa Alam for MSFS is presented with the following features:Â  You can purchase HEMA airport for MSFS on theÂ iniBuilds store for 6.99GBP/8.30EUR/9.19USD.Â The download will consume 158MB of space on your hard drive and 364MB after installation.Â </summary>
+    <published>2022-04-02T00:00:00+00:00</published>
   </entry>
 </feed>
