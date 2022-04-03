@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-02T18:25:25.213163+00:00</updated>
+  <updated>2022-04-03T18:25:26.176213+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ukksna</id>
-    <title>UK2000 Scenery Announces John Wayne Airport for Microsoft Flight Simulator</title>
-    <updated>2022-03-21T00:00:00+00:00</updated>
-    <link href="/news/ukksna" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237c747f610daccfaf0a65c_Screenshot%20(140).png" rel="enclosure" type="image/png" length="789775"/>
-    <summary>Sim: MSFS. As their name suggests, UK2000 have previously exclusively developed sceneries located in the United Kingdom for various simulators. However, the developer is taking a different path with the announcement of John Wayne Airport (KSNA) for Microsoft Flight Simulator. This airport marks the first scenery by the developer located outside of the United Kingdom, as well as their first scenery located in America. Citing the reason for the switch as âpart business and part getting bored with UK airports,â the developer has stated that their venture into the American scene brings a âleap forward in improved HD PBR materials and Level of Detail for UK2000.â According to the developer, KSNA is also set to include a plethora of accurately placed custom-made models created in an efficient way to limit file size, and line markings with âblack-bordersâ typically seen in the United States have been included. As well, UK2000 has remodeled their general aviation library collection to include additional details with PBR materials. Furthermore, new models have been added, such as the C172, SR22, P-51, and B17 for the airport museum. Additionally, the airside terminal interior has been modelled, along with â21 unique animated Jetways with high PBR details.â Unfortunately, no further information was provided, and no release date or pricing information is known. However, it was stated that release is due soon so Threshold will make sure to keep you updated on any developments that arise with this airport. In the meantime, make sure to check out the official trailer for KSNA via UK2000 Sceneryâs YouTube Channel.</summary>
-    <published>2022-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/206l3c</id>
     <title>CowanSim Releases Bell Helicopters 206L3 for X-Plane 11</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6247f90c9d29b720c66edf19_hema1.png" rel="enclosure" type="image/png" length="541258"/>
     <summary>Sim: MSFS. iniBuilds affiliate Chudoba DesignÂ has released its rendition of Marsa Alam (HEMA) airport for MSFS2020.Â The Egyptian airport is faithfully recreated, feature-rich, and moderately priced to add to its offerings.Â  Marsa Alam International Airport is an international airport, mainly serving as a vacation destination for European leisure travelers. The airport features traffic from many notable airlines, such as easyJet, Edelweiss, Lufthansa, Smartwings, and TUI fly. It served over 1 million passengers back in 2012 and contains a singular, 9800 foot, or 3,000-meter runway. Marsa Alam for MSFS is presented with the following features:Â  You can purchase HEMA airport for MSFS on theÂ iniBuilds store for 6.99GBP/8.30EUR/9.19USD.Â The download will consume 158MB of space on your hard drive and 364MB after installation.Â </summary>
     <published>2022-04-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ch65up</id>
+    <title>Hot Start Pushes Out Challenger 650 Update</title>
+    <updated>2022-04-03T00:00:00+00:00</updated>
+    <link href="/news/ch65up" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/61c7db088f6818366ca10a5a_01.jpg.dad1a93442e931e0ffc7e416570e9972.jpg" rel="enclosure" type="image/jpeg" length="1298071"/>
+    <summary>Sim: X-Plane. The development team behind the renowned Challenger 650 aircraft is back bringing a small bug fix and improvement update for the small business jet. This includes a variety of fixes and minor improvements to make the aircraft more like its real-world counterpart and bring more accessibility to the user. Whilst this update is quite small. It comes packed with a variety of features. Starting off, additions such as click spots for wing inspections for preflight and adding a variety of system support such as OCEANÂ CLX, ATSÂ LOG, and DEPÂ CLX, but also features a brief update to xPilot SELCAL datarefs. Moving forward, an assortment of improvements have also been made. Datarefs for the "walking mode" and libfail have been enhanced, alongside an enhancement to overnight icing accumulation that follows real-world METARÂ data. Support for the online network POSCON has been added as well. The large parts of this update contain bug fixes. A multitude of these features are mainly system improvements and bug fixes, along with a variety of FMCÂ and Flightplan system improvements have been made as well.  You can find the full content list of the update by visiting the X-Pilot Forums, and if you are interested in picking this aircraft up for yourself, you can find it over on the X-Aviation Store.</summary>
+    <published>2022-04-03T00:00:00+00:00</published>
   </entry>
 </feed>
