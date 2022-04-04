@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-03T18:25:26.176213+00:00</updated>
+  <updated>2022-04-04T18:27:51.831377+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/206l3c</id>
-    <title>CowanSim Releases Bell Helicopters 206L3 for X-Plane 11</title>
-    <updated>2022-03-21T00:00:00+00:00</updated>
-    <link href="/news/206l3c" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237d4a7bb8a60b032ba7aea_206L3-2022-03-18-09.41.52.jpg" rel="enclosure" type="image/jpeg" length="208203"/>
-    <summary>Sim: X-Plane. Last Friday, CowanSim released their rendition of the Bell 206. The helicopter delivers many features, including floats systems, dynamic weight options, and spotlights. This product is part of a developing lineage of helicopters in the X-Plane 11 space. Unfortunately, the helicopter space hasn't been well documented, but to preface this new product, the Bell 206 is a two-bladed helicopter manufactured by Bell Helicopter. The seven-seater LongRanger was eventually developed into twin-engine options, marketed as the TwinRanger. It can cruise at a maximum speed of 120 knots over 374 nm at 13,500 feet.Â  CowanSim has provided the following feature list for their 206L3: Prospective 206L3 can obtain the helicopter on the CowanSim website for $32.95. Once downloaded, the product will utilize approximately 1GB of space.Â </summary>
-    <published>2022-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msfsvc</id>
     <title>Xometry Announces Victorville for MSFS2020</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/61c7db088f6818366ca10a5a_01.jpg.dad1a93442e931e0ffc7e416570e9972.jpg" rel="enclosure" type="image/jpeg" length="1298071"/>
     <summary>Sim: X-Plane. The development team behind the renowned Challenger 650 aircraft is back bringing a small bug fix and improvement update for the small business jet. This includes a variety of fixes and minor improvements to make the aircraft more like its real-world counterpart and bring more accessibility to the user. Whilst this update is quite small. It comes packed with a variety of features. Starting off, additions such as click spots for wing inspections for preflight and adding a variety of system support such as OCEANÂ CLX, ATSÂ LOG, and DEPÂ CLX, but also features a brief update to xPilot SELCAL datarefs. Moving forward, an assortment of improvements have also been made. Datarefs for the "walking mode" and libfail have been enhanced, alongside an enhancement to overnight icing accumulation that follows real-world METARÂ data. Support for the online network POSCON has been added as well. The large parts of this update contain bug fixes. A multitude of these features are mainly system improvements and bug fixes, along with a variety of FMCÂ and Flightplan system improvements have been made as well.  You can find the full content list of the update by visiting the X-Pilot Forums, and if you are interested in picking this aircraft up for yourself, you can find it over on the X-Aviation Store.</summary>
     <published>2022-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fscytz</id>
+    <title>FSimStudios Releases Billy Bishop Airport for MSFS</title>
+    <updated>2022-04-04T00:00:00+00:00</updated>
+    <link href="/news/fscytz" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624a5a4acb6eec317ae69588_293023_17.png" rel="enclosure" type="image/png" length="887872"/>
+    <summary>Sim: MSFS. The team over at FSimStudios has released their visual rendition of Toronto's Billy Bishop Airport for Microsoft Flight Simulator. This release has brought an all-new look to the small regional Canadian airport. Before Toronto Pearson International Airport was constructed, Billy Bishop Airport served as Toronto's main airport. Being built in 1939, the airport served as the main hub for all air traffic. A decade later, the Canadian Government proposed an expansion to the small airport to increase passenger traffic to the area. Later on, with the airport receiving a regional jet ban in 1983, passenger air travel slightly declined. Now in the 21st Century, the airport was approved to receive the Airbus A220 for a limited time. For this release, the team has included a feature list of what is included in the scenery package. Starting off, the package has the current 2022 layout airport and more than 20 accurate handmade models of downtown Toronto have been included. Many helipads for Toronto's hospitals have been included for our rotorcraft friends to fly to. Static Q400s are an option for users to include in their scenery as well. The full feature list is listed below: This scenery is able to be purchased over on the simMarket Store and sells for â¬13.99. </summary>
+    <published>2022-04-04T00:00:00+00:00</published>
   </entry>
 </feed>
