@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-04T18:27:51.831377+00:00</updated>
+  <updated>2022-04-05T18:27:35.802779+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msfsvc</id>
-    <title>Xometry Announces Victorville for MSFS2020</title>
-    <updated>2022-03-21T00:00:00+00:00</updated>
-    <link href="/news/msfsvc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6237d8428ff7b368140cb918_KVCV_Preview_1.png" rel="enclosure" type="image/png" length="1857976"/>
-    <summary>Sim: MSFS. Scenery developer Xometry is expanding into the MSFS2020 environment, as they've previewed their Victorville rendition in the new simulator. The upgraded scenery will be their first for the sim, and it surely won't be the last. Conveniently, VCV was their first airport in X-Plane 11, and it appears that Xometry is continuing that theme.Â  Victorville is a local legend among AvGeeks and aviation nerds in the Pacific Southwest. Famous for its vast graveyard containing hundreds of stored airline relics, the played a significant role in keeping aircraft during the COVID-19 pandemic. Fleets such as the Aero California DC-9s, Delta MD-80, MD90, and FedEx DC-10s have found their permanent home in the lower desert.Â  Unfortunately, the Xometry team hasn't provided an MSFS-specific feature list, so we'll give you their X-Plane 11 features: We'll keep you updated when Xometry posts additional information regarding the upcoming scenery. Join their Discord server to interact with the community if you're a prospective Victorville owner.</summary>
-    <published>2022-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfto28</id>
-    <title>Just Flight Previews PA-38 Tomahawk for MSFS</title>
-    <updated>2022-03-22T00:00:00+00:00</updated>
-    <link href="/news/jfto28" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623936c6c13d9480f5204fe1_Pic_6_pHU32rEUR.jpg" rel="enclosure" type="image/jpeg" length="501533"/>
-    <summary>Sim: MSFS. Just Flight has previewed their upcoming rendition of the Piper PA-38 aircraft for Microsoft Flight Simulator. This update brings a new look into the aircraft, along with a detailed feature list to add to what users can expect upon release. At a first glance, the modeling on the aircraft is up to the expectations and correlates to the previous aircraft released, and upcoming. All aspects of the aircraft both exterior and exterior, are modeled accurately to resemble real-world aircraft. A total of 16 liveries will be provided on release and features liveries from many different countries. Users will also be provided a paintkit for the aircraft to create their own liveries and tailor to their own taste. Looking at the feature list provided by Just Flight, PBR texturing has been used alongside real-time reflections and realism. Full support of MSFS's icing effect has also been featured. Ground services and equipment such as chocks, fuel trucks, tie-downs, etc. are all included with the aircraft. A full 3D cockpit has been included with a full EFB will be provided to add accessibility to the user. IFR avionics will be included as well. The aircraft will be VR compatible upon release. All sounds are recorded from a real-world PA-38, alongside utilizing MSFS audio capabilities. If you are interested in the full feature list, you can view it over on Just Flight's Website. As of today, no release date or pricing has been announced. If you are interested in other products by Just Flight, you can view their full catalog over on their website. Threshold will keep you updated on further developments.</summary>
-    <published>2022-03-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/md1132</id>
     <title>Rotate Announces MD-11 Release Date</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624a5a4acb6eec317ae69588_293023_17.png" rel="enclosure" type="image/png" length="887872"/>
     <summary>Sim: MSFS. The team over at FSimStudios has released their visual rendition of Toronto's Billy Bishop Airport for Microsoft Flight Simulator. This release has brought an all-new look to the small regional Canadian airport. Before Toronto Pearson International Airport was constructed, Billy Bishop Airport served as Toronto's main airport. Being built in 1939, the airport served as the main hub for all air traffic. A decade later, the Canadian Government proposed an expansion to the small airport to increase passenger traffic to the area. Later on, with the airport receiving a regional jet ban in 1983, passenger air travel slightly declined. Now in the 21st Century, the airport was approved to receive the Airbus A220 for a limited time. For this release, the team has included a feature list of what is included in the scenery package. Starting off, the package has the current 2022 layout airport and more than 20 accurate handmade models of downtown Toronto have been included. Many helipads for Toronto's hospitals have been included for our rotorcraft friends to fly to. Static Q400s are an option for users to include in their scenery as well. The full feature list is listed below: This scenery is able to be purchased over on the simMarket Store and sells for â¬13.99. </summary>
     <published>2022-04-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/w42b24</id>
+    <title>Wing42 Releases Boeing 247D for MSFS</title>
+    <updated>2022-04-05T00:00:00+00:00</updated>
+    <link href="/news/w42b24" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624bba48c1d30c8a6d9179d6_wing42_boeing247d_thumbnail-scaled.jpg" rel="enclosure" type="image/jpeg" length="355230"/>
+    <summary>Sim: MSFS. Wing42 has released their rendition of the Boeing 247DÂ aircraft for Microsoft Flight Simulator. The older-styled aircraft has been added to the simulator's ever-increasing catalog of historical aircraft. Being introduced in 1933, the Boeing 247 is known for its many technologies, that at the time, were newer to the aviation realm. Features such as the first cantilevered wing, and the retractable landing gear were just the first of many technologies to be revolutionized into many more components of flight. The 247D is the race variant of the aircraft, featuring variable pitch props to increase speed. The aircraft comes packed with many features such as PBRÂ textures being used throughout the entire aircraft. The flight model is accurate to its real world-counterpart and has been verified and tested by real-world pilots. All mechanical systems have been modeled and developed correctly to make the flight deck more accurate for the user. AÂ clipboard that represents an EFB brings much more accessibility to ground services, aircraft load, static elements, and more. You can view the full feature list on the products webpage. This rendition of the Boeing 247DÂ by Wing42 can be found over on their website and sells for $20.47. You can find other products developed by Wing42 on their website as well.</summary>
+    <published>2022-04-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/md1110</id>
+    <title>Rotate Updates MD-11 to Version 1.01 </title>
+    <updated>2022-04-05T00:00:00+00:00</updated>
+    <link href="/news/md1110" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624bd463364207513aee9e5e_md11.jpg" rel="enclosure" type="image/jpeg" length="86570"/>
+    <summary>Sim: X-Plane. Aircraft developer RotateÂ has released a new update for their recently-released McDonnell Douglas MD-11.Â The update pertains to a few significant issues that users were experiencing after the product's initial release, mainly relating to LNAV and ILS bugs. They've also provided a list of issues the team plans on addressing shortly to complement this update.Â  Rotate has listed these issues as having been remitted: Users having issues with Mac activation were encouragedÂ to visit this link on the x-plane.org forumsÂ to access the workaround.Â  Sequentially, Rotate has also informed the community regarding the next steps it plans to tackle some remaining substantial issues. The team is currently working on the following:Â  Active Sky users have also been reassured that the team is investigating issues with the plugin causing the MD11s autopilot to malfunction; stay tuned for a fix as the team is actively working on fix.Â  Despite its flaws, Rotate has delivered a visually appealing airplane, and hopefully following in the footsteps of their MD-80, evolve into a matured product with a solid simulation. If you're interested in purchasing the MD-11,Â you can find it on the X-Plane.org store for $83.95.Â </summary>
+    <published>2022-04-05T00:00:00+00:00</published>
   </entry>
 </feed>
