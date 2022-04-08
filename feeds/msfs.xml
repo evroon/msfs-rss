@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-04-07T18:26:45.441661+00:00</updated>
+  <updated>2022-04-08T18:27:51.743966+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-24-5-0-world-update-viii-iberia-now-available/</id>
-    <title>Release Notes (1.24.5.0) World Update VIII: Iberia Now Available!</title>
-    <updated>2022-03-24T13:03:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-24-5-0-world-update-viii-iberia-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/MSFS_WU8_Iberia_NoSnipe_Logo_NoText_1920x1080-1024x576.png" rel="enclosure" type="image/png" length="279150"/>
-    <summary>Release Notes for Version 1.24.5.0 (World Update VIII: Iberia) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-03-24T13:03:59+00:00</published>
+    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
+    <title>Community Spotlight: Alyson Johnson</title>
+    <updated>2022-03-08T16:57:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
+    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
+    <published>2022-03-08T16:57:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/world-update-viii-sale/</id>
-    <title>World Update VIII Sale</title>
-    <updated>2022-03-24T14:59:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-viii-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/StoreSale_WU8_v03-1024x576.jpg" rel="enclosure" type="image/jpeg" length="158869"/>
-    <summary>35 Items on Sale Now in the Marketplace</summary>
-    <published>2022-03-24T14:59:37+00:00</published>
+    <id>https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/</id>
+    <title>Local Legend III: Dornier Do J Wal</title>
+    <updated>2022-03-29T19:01:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/" rel="alternate"/>
+    <summary>The Microsoft Flight Simulator team is proud to announce the third release in our Local Legends family of historic aircraft: the Do J Wal, a twin-engine, high-wing flying boat by German aviation firm Dornier. The J Wal (“Whale” in German) captured the imagination of the world immediately after it was introduced in 1923 due its … Continued</summary>
+    <published>2022-03-29T19:01:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
+    <title>Community Spotlight: Beth Oliver</title>
+    <updated>2022-03-30T16:31:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/header-1024x374.png" rel="enclosure" type="image/png" length="150698"/>
+    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
+    <published>2022-03-30T16:31:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/ukraine/</id>
@@ -54,28 +61,21 @@
     <published>2022-03-31T21:42:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-alyson-johnson/</id>
-    <title>Community Spotlight: Alyson Johnson</title>
-    <updated>2022-03-08T16:57:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-alyson-johnson/" rel="alternate"/>
-    <summary>Among the content creators within the Microsoft Flight Simulator player community, some post videos reviewing new releases to the Marketplace, some discuss news about upcoming Sim and World updates, and others create educational material. If you browse the Microsoft Flight Simulator category on YouTube or Twitch, you’ll find many people sharing their knowledge about aviation … Continued</summary>
-    <published>2022-03-08T16:57:50+00:00</published>
+    <id>https://www.flightsimulator.com/april-7th-2022-development-update/</id>
+    <title>April 7th, 2022 Development Update</title>
+    <updated>2022-04-07T21:30:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-7th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/shizhe85511526-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="106786"/>
+    <summary>We are one week into our public Sim Update 9 Beta testing and your feedback has already led to an improved build which came out this past Tuesday. We anticipate more updates during Beta testing and continue to work through your reports. A huge thank you to those who have taken the time to help us in this endeavor!</summary>
+    <published>2022-04-07T21:30:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/</id>
-    <title>Local Legend III: Dornier Do J Wal</title>
-    <updated>2022-03-29T19:01:04+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/" rel="alternate"/>
-    <summary>The Microsoft Flight Simulator team is proud to announce the third release in our Local Legends family of historic aircraft: the Do J Wal, a twin-engine, high-wing flying boat by German aviation firm Dornier. The J Wal (“Whale” in German) captured the imagination of the world immediately after it was introduced in 1923 due its … Continued</summary>
-    <published>2022-03-29T19:01:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
-    <title>Community Spotlight: Beth Oliver</title>
-    <updated>2022-03-30T16:31:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/header-1024x374.png" rel="enclosure" type="image/png" length="150698"/>
-    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
-    <published>2022-03-30T16:31:39+00:00</published>
+    <id>https://www.flightsimulator.com/spring-sale-500-items-on-sale-now-in-the-marketplace/</id>
+    <title>Spring Sale: 500+ Items On Sale Now in the Marketplace</title>
+    <updated>2022-04-08T17:00:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/spring-sale-500-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/SpringSale2022_v02-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122029"/>
+    <summary>For one week starting on April 8th, save up to 79% on more than 500 items.</summary>
+    <published>2022-04-08T17:00:46+00:00</published>
   </entry>
 </feed>

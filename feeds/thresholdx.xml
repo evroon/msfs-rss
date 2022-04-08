@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-07T18:26:47.244204+00:00</updated>
+  <updated>2022-04-08T18:27:53.173118+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/md1132</id>
-    <title>Rotate Announces MD-11 Release Date</title>
-    <updated>2022-03-22T00:00:00+00:00</updated>
-    <link href="/news/md1132" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623a3a9bc89d94f6d67c586b_md111.png" rel="enclosure" type="image/png" length="953620"/>
-    <summary>Sim: X-Plane. Aircraft developer Rotate has announced the release date of their upcoming McDonnell Douglas MD-11 for X-Plane 11Â via X-Plane.org's YouTube channel.Â The hyped trijet will release on March 24th. This release marks the first-ever high-quality heavy trijet in X-Plane 11. Since the project was initially announced in May of 2017, nearly five years have passed while the community has eagerly awaited its release. As mentioned before, MD-11 is the first quality heavy trijet that the X-Plane 11 community has ever seen. Complimenting this fact is the lack of high-caliber heavy trijets in any sim, as the CaptainSim L1011 TriStar exists as the last notable 3-engined model. Preceding the CaptainSim L1011, the PMDG MD-11 and JustFlight DC-10 were developed originally for 32bit platforms such as FSX.Â  Rotate has distributed some preview copies to streamers for usage in anticipation of the release. Q8Pilot is currently active on the YouTube platform, showcasing the aircraft in its full glory.Â Check out his channel to learn more about the upcoming release. Last but not least is the pricing of the MD-11; unfortunately, neither Rotate nor X-Plane.org have provided a specific figure as to how much the plane will cost, though it was mentioned in the comments of theÂ release trailerÂ that pilots could expect the trijet to be in the 80-90USD range.Â  â a special thank you to "Hampus Murling" on Discord for providing these screenshots of the MD-11!</summary>
-    <published>2022-03-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/zdpsdf</id>
     <title>Zero Dollar Payware Releases KSDF v2 for XP11</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624bd463364207513aee9e5e_md11.jpg" rel="enclosure" type="image/jpeg" length="86570"/>
     <summary>Sim: X-Plane. Aircraft developer RotateÂ has released a new update for their recently-released McDonnell Douglas MD-11.Â The update pertains to a few significant issues that users were experiencing after the product's initial release, mainly relating to LNAV and ILS bugs. They've also provided a list of issues the team plans on addressing shortly to complement this update.Â  Rotate has listed these issues as having been remitted: Users having issues with Mac activation were encouragedÂ to visit this link on the x-plane.org forumsÂ to access the workaround.Â  Sequentially, Rotate has also informed the community regarding the next steps it plans to tackle some remaining substantial issues. The team is currently working on the following:Â  Active Sky users have also been reassured that the team is investigating issues with the plugin causing the MD11s autopilot to malfunction; stay tuned for a fix as the team is actively working on fix.Â  Despite its flaws, Rotate has delivered a visually appealing airplane, and hopefully following in the footsteps of their MD-80, evolve into a matured product with a solid simulation. If you're interested in purchasing the MD-11,Â you can find it on the X-Plane.org store for $83.95.Â </summary>
     <published>2022-04-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/crj948</id>
+    <title>ADSimulations Announces CRJ900 for X-Plane 11</title>
+    <updated>2022-04-08T00:00:00+00:00</updated>
+    <link href="/news/crj948" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624fe3a082d9c95c7c6151b8_01.thumb.jpg.c53c14e8709c8c846aa98f93835a283c.jpg" rel="enclosure" type="image/jpeg" length="55747"/>
+    <summary>Sim: X-Plane. Aircraft developer ADSimulations has announced their next project for X-Plane 11, the Mitsubishi CRJ-900! The larger CRJ follows the developers growing line of aircraft, following their original CRJ-700 release.  The Mitsubishi CRJ-900 is an extended variant of the CRJ-700 base model in the Bombardier Aerospaces' regional jet product line. It features 1,553NM of range, can accommodate up to 90 passengers, and cruises at Mach 0.82. The plane is used in various environments worldwide, though it can be found in excess with American, Delta, Lufthansa Cityline, and SAS. Unfortunately, ADsimulations hasn't shared any additional information with us except that they'll release the product within the next few weeks, and complimenting the release will be an update to their CRJ-700.  Stay tuned with Threshold, as we'll keep you updated with the latest and greatest from ADsimulations.</summary>
+    <published>2022-04-08T00:00:00+00:00</published>
   </entry>
 </feed>
