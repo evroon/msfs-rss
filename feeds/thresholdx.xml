@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-09T18:26:01.764174+00:00</updated>
+  <updated>2022-04-10T18:26:26.197324+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/zdpsdf</id>
-    <title>Zero Dollar Payware Releases KSDF v2 for XP11</title>
-    <updated>2022-03-23T00:00:00+00:00</updated>
-    <link href="/news/zdpsdf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623b552ad86ea5291a61aa38_X-Plane_W1h0nNAr3n.png.bafa8dc283c7e8025a3d3beba14187bd.png" rel="enclosure" type="image/png" length="915872"/>
-    <summary>Sim: X-Plane. Zero Dollar Payware has returned, this time updating their visual rendition for Louisville Muhammad Ali International for X-Plane. This update brings the scenery version to version 2 and involves the team's updated style and detail to the well-known cargo airport. Louisville International is the hub for the mainline cargo carrier, UPS. With a square footage of 5.2 million square feet and a perimeter of 7.2 miles, the UPSÂ Worldport sees about 2 million packages a day, averaging 416,000 packages an hour. and 125 aircraft cargo stands, which makes it one of the more popular cargo airports in the world. KSDF also features a passenger terminal which in 2019, serviced about 4.2 million passengers from carriers such as Delta, Southwest, American, and many other carriers. â No feature list has been provided by ZDP, however at a eye glance, detailed ground textures and 3D buildings are all provided in this package. From the included screenshots, the airport seems to be WorldTraffic 3 compatible, alongside a possible SAMÂ Jetway extension for movable jetways. Alongside this, detailed airport ground equipment on both the cargo and passenger side of the airport, are all modeled. You can find this scenery package by Zero Dollar Payware over at the Threshold Forums, free to download. If you are interested in other packages by Zero Dollar Payware, you can find their catalog over on the ThresholdÂ Forums as well.</summary>
-    <published>2022-03-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aseddn</id>
     <title>Aerosoft/Captain 7 Releases Airport Nuremberg for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624fe3a082d9c95c7c6151b8_01.thumb.jpg.c53c14e8709c8c846aa98f93835a283c.jpg" rel="enclosure" type="image/jpeg" length="55747"/>
     <summary>Sim: X-Plane. Aircraft developer ADSimulations has announced their next project for X-Plane 11, the Mitsubishi CRJ-900! The larger CRJ follows the developers growing line of aircraft, following their original CRJ-700 release.  The Mitsubishi CRJ-900 is an extended variant of the CRJ-700 base model in the Bombardier Aerospaces' regional jet product line. It features 1,553NM of range, can accommodate up to 90 passengers, and cruises at Mach 0.82. The plane is used in various environments worldwide, though it can be found in excess with American, Delta, Lufthansa Cityline, and SAS. Unfortunately, ADsimulations hasn't shared any additional information with us except that they'll release the product within the next few weeks, and complimenting the release will be an update to their CRJ-700.  Stay tuned with Threshold, as we'll keep you updated with the latest and greatest from ADsimulations.</summary>
     <published>2022-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kontxp</id>
+    <title>Verticalsim Releases Ontario International Airport for X-Plane 11</title>
+    <updated>2022-04-09T00:00:00+00:00</updated>
+    <link href="/news/kontxp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62521870f27b8619508ec77a_Screenshot_13-1.jpg" rel="enclosure" type="image/jpeg" length="1002348"/>
+    <summary>Sim: X-Plane. Earlier this week, developer Verticalsim released Ontario International Airport (KONT) for X-Plane 11. The scenery, featuring PBR textures, HDR lighting, and custom ground traffic, will serve as a fantastic gateway for pilots who are planning to visit the beautiful state of California or looking for a major cargo hub to fly their new MD-11 or A300. According to the productâs store page, Verticalismâs rendition of Ontario Airport will be based on the latest layout of the airport, including the recently added Fedex ramp. The scenery will feature SAM jetways, highly detailed models, custom lighting, and âusage of LODâs for optimizationâ. For a complete list of features, check out the developerâs website. Ontario Airport, located in San Bernardino County, California, is a public airport that serves as both a passenger and cargo hub for the region, as well as the alternative landing site for LAX. It is home to airlines such as American and Delta and cargo carriers such as UPS and Fedex. In 2018, KONT saw some 5 million passengers and an average of 65 flights per day. Currently, Ontario International Airport for X-Plane 11 can be purchased on Verticalsimâs webstore for $24.99 USD, excluding any sales tax that may incur. To successfully install the product, users must download the SAM plugin and have at least 3.51GB of free space on their hard drive.</summary>
+    <published>2022-04-09T00:00:00+00:00</published>
   </entry>
 </feed>
