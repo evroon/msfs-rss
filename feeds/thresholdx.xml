@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-11T18:29:57.272628+00:00</updated>
+  <updated>2022-04-12T18:27:03.074339+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/414rel</id>
-    <title>Flysimware Releases C414 for MSFS2020</title>
-    <updated>2022-03-26T00:00:00+00:00</updated>
-    <link href="/news/414rel" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623edd7a8687e4e14065546d_flysimware-cessna-414aw-chancellor-msfs2020.jpg" rel="enclosure" type="image/jpeg" length="287973"/>
-    <summary>Sim: MSFS. Aircraft developer Flysimware has released their version of the Cessna 414 Chancellor for the new simulator. The team took great detail into account with this aircraft, as their tech pilot owns one of these birds in real life. Flysimware has teased their Chancellor for an extended period but has finally decided to post the plane on their website for purchase.Â  The Cessna C414 Chancellor is a pressurized, twin-engine aircraft developed by a famous company. Containing two TSIO-520-J engines, the plane outputs nearly 310hp. It can obtain about 1700 feet per minute during the climb, with a ceiling of 30,000 feet with a range of 1,528 miles. Flysimware's C414"AW" signifies an upgraded -A Variant with winglets and offers the "RAM IV" conversion, providing more power for the pilot.Â Â  Flysimware's C414 Features: The C414 delivers with four liveries. Flysimware points out that the product is still "a beta version." Aspiring C414 pilots can obtain the aircraft on the Flysimware store for $39.99.Â </summary>
-    <published>2022-03-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mscaip</id>
     <title>Macco Simulations Announces Cancun Airport For Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6253dee6de4061db98b6db4a_293472_KHH_01.jpg" rel="enclosure" type="image/jpeg" length="362497"/>
     <summary>Sim: MSFS. Scenery developer ACO Design StudioÂ has released their second scenery for the new simulator, Taiwan Kaohsiung International Airport! The airport appears to take full advantage of MSFS' landscape, with custom terminals and surrounding environment. Kaohsiung International Airport (RCKH) is the second busiest airport in Taiwan, following Taoyuan. In 2018, it served nearly seven million passengers, with service from air carriers such as EVA, China Airlines, Japan Airlines, and Vietnam Airlines. The airport also serves as a hub for China Airlines, EVA, Uni Air, Mandarin Airlines, and Tigerair Taiwan. RCKH contains one runway, at 3,150m or 10,335ft.Â  You can purchase ACO Design Studios Kaohsiung International AirportÂ on SimMarket for 19.50EUR/21.18USD/16.25GPB.Â It will also be available on the MSFS Marketplace in May, as Microsoft is still processing the scenery.Â </summary>
     <published>2022-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rv14fs</id>
+    <title>SimWorksStudios Releases RV-14 for MSFS</title>
+    <updated>2022-04-12T00:00:00+00:00</updated>
+    <link href="/news/rv14fs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62550ca89aaaf9df3572d8a5_RV14-01.jpg" rel="enclosure" type="image/jpeg" length="175010"/>
+    <summary>Sim: MSFS. SimWorksStudios have officially released their rendition of the RV-14 aircraft for Microsoft Flight Simulator. With a variety of features accessible to users, this aircraft is a keen addition to MSFS's General Aviation market.   Touted as an aircraft with many pristine features, Van's RV-14 features a wide variety of features for real-world pilots to experience. The aircraft ships in two variants, the RV-14, and the RV-14A. Visually the difference is the main variant is a taildragger, whilst the A variant is not. With a high fuel economy, fast speed, and a comfortable flight deck, this aircraft offers much of a pilot's dream.  SimWorksStudios have provided a feature list upon release. Starting, all variants of the RV-14 have been included with 3 different liveries. The 3D model and animations all replicate the real-world aircraft, plus the flight dynamics of the aircraft have been tested by real-world pilots. All MSFS icing and rain effects are compatible with the aircraft. Alongside this, GTNS750 compatibility with both PMS50 and TDS is available. If you'd like the full feature list, you can check it out on the aircraft'sÂ product page.  If you are interested in picking this aircraft up for yourself, you can purchase it over at theÂ SimWorksStudios Website, selling for â¬14.99. If you are interested in other products by the same development team, you can check out theirÂ websiteÂ to view their catalog of products.</summary>
+    <published>2022-04-12T00:00:00+00:00</published>
   </entry>
 </feed>
