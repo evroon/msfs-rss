@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-12T18:27:03.074339+00:00</updated>
+  <updated>2022-04-13T18:26:59.859097+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mscaip</id>
-    <title>Macco Simulations Announces Cancun Airport For Microsoft Flight Simulator</title>
-    <updated>2022-03-27T00:00:00+00:00</updated>
-    <link href="/news/mscaip" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/623ff68dc52c4dc9df929702_Screen%20Shot%202022-03-27%20at%201.29.37%20AM-min.png" rel="enclosure" type="image/png" length="1737790"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer Macco Simulations announced their latest product - Cancun International Airport (MMUN) for Microsoft Flight Simulator. The airport, equipped with detailed models, 8 layers of ground texturing, and custom ground objects, will serve as an ideal vacation destination for pilots all year round. According to the developers, Cancun will mark the teamâs first attempt to recreate an airport outside of the United Kingdom. They have spend more than 10 months working on this project, with almost half of it dedicated to â sorting out the [regionâs] atrocious [default] satellite imageryâ. They also revealed that a full version of the scenery will be available on release, instead of beta versions like their previous airports. The finished product will include custom static vehicles, PBR/4k textures, "fully optimized LODs for best performance on PC and XBOX", and fully custom jetways. For the full list of features, checkout the developer's website.  Cancun Airport, located on the Caribbean coast, is the main airport serving the popular holiday destination of Cancun. It's visited by various major airlines such as KLM, Lufthansa, Delta, and American, seeing some 22 million passengers per year. From the airport, passengers can board flights to destinations such as Orlando, Los Angeles, and London. Currently, Macco Simulations has teased that Cancun Airport will be released early next month, though the specific date and pricing were not provided. Threshold will keep you updated on this front.</summary>
-    <published>2022-03-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xovict</id>
     <title>Xometry Publishes Victorville for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62550ca89aaaf9df3572d8a5_RV14-01.jpg" rel="enclosure" type="image/jpeg" length="175010"/>
     <summary>Sim: MSFS. SimWorksStudios have officially released their rendition of the RV-14 aircraft for Microsoft Flight Simulator. With a variety of features accessible to users, this aircraft is a keen addition to MSFS's General Aviation market.   Touted as an aircraft with many pristine features, Van's RV-14 features a wide variety of features for real-world pilots to experience. The aircraft ships in two variants, the RV-14, and the RV-14A. Visually the difference is the main variant is a taildragger, whilst the A variant is not. With a high fuel economy, fast speed, and a comfortable flight deck, this aircraft offers much of a pilot's dream.  SimWorksStudios have provided a feature list upon release. Starting, all variants of the RV-14 have been included with 3 different liveries. The 3D model and animations all replicate the real-world aircraft, plus the flight dynamics of the aircraft have been tested by real-world pilots. All MSFS icing and rain effects are compatible with the aircraft. Alongside this, GTNS750 compatibility with both PMS50 and TDS is available. If you'd like the full feature list, you can check it out on the aircraft'sÂ product page.  If you are interested in picking this aircraft up for yourself, you can purchase it over at theÂ SimWorksStudios Website, selling for â¬14.99. If you are interested in other products by the same development team, you can check out theirÂ websiteÂ to view their catalog of products.</summary>
     <published>2022-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/macafs</id>
+    <title>Macco Simulations Release Cancun International for MSFS</title>
+    <updated>2022-04-13T00:00:00+00:00</updated>
+    <link href="/news/macafs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6256e4f3e5996a22e6d51ed5_MMUN.JPG" rel="enclosure" type="image/jpeg" length="1025424"/>
+    <summary>Sim: MSFS. The team over at Macco Simulations have released their visual rendition of Cancun International Airport (MMUN) for Microsoft Flight Simulator. With MSFS' beauty, this package enhances the area and the airport for all virtual visitors worldwide. Opening in 1974, the Cancun International Airport has two parallel runways and serves as a hub for LatinÂ America carrier MAYAir, and is a focus city for Volaris and VivaAerobus, offering routes to over 20 Mexican airports, and serves other routes to over 30 countries. The airport is Mexico's second busiest airport after Mexico City, and is Latin America's third busiest airport, with serving over 22 million passengers in 2021. Upon release, the team has provided a feature list of what is included in this package. Firstly, PBRÂ materials have been used throughout the model, with utilizing 4k textures. A basic terminal interior has been modeled, alongside custom lighting and static vehicles across the airport, with the inclusion of fully custom jetways. If you are interested in the full feature list, you can view it below: If you are interested in picking this scenery package for yourself, you can find it over on the Macco Simulations Website and sells for $15.99. If you are also interested in other packages by the team, you can check their product catalog on their website as well.</summary>
+    <published>2022-04-13T00:00:00+00:00</published>
   </entry>
 </feed>
