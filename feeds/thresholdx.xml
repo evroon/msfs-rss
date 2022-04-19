@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-18T18:29:20.723639+00:00</updated>
+  <updated>2022-04-19T18:28:14.197630+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gsxp11</id>
-    <title>Stairport Releases GroundService for XP11</title>
-    <updated>2022-04-01T00:00:00+00:00</updated>
-    <link href="/news/gsxp11" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624705641a92f3a612f7b5dd_sam-groundservice-xp%20(1).jpg" rel="enclosure" type="image/jpeg" length="138515"/>
-    <summary>Sim: X-Plane. One of the most anticipated airport environment add-on's has been released. Stairport, in collaboration with MisterX, have released GroundService plugin for X-Plane 11. Being the second plugin of its kind, many XP11 users have looked forward to this product developed by the well known developers. The plugin enhances the various aspects of airport life that has often been neglected in X-Plane 11 for quite some time. While other development teams have included basic ground services in their plugins, this release brings the whole world of ground services to light. With cleaning trucks, to passenger stairs for smaller airports, this plugin provides it all, with high accessibility for users through the SAM3 plugin. With a multitude of features, this plugin provides it all. First, the product does come with a aircraft compatibility list, and a 10 minute demo has been provided to give users a chance to take a dip in the water before purchasing. All aspects of ground services have been included in the package with items such as GPU, cleaning trucks, loaders, and animated passenger stairs being included. X-Plane 12 compatibility is currently under development for the plugin to be ready at the launch of XP12. This plugin by Stairport is available for purchase on the Aerosoft Store with a selling price of $34.99. If you are interested in other products developed by Stairport and MisterX, you can check out their product pages over on Aerosoft Store for Stairport, and the X-Plane.org Store for MisterX</summary>
-    <published>2022-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hema20</id>
-    <title>Chudoba Design Releases Marsa Alam Airport for MSFS2020</title>
-    <updated>2022-04-02T00:00:00+00:00</updated>
-    <link href="/news/hema20" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6247f90c9d29b720c66edf19_hema1.png" rel="enclosure" type="image/png" length="541258"/>
-    <summary>Sim: MSFS. iniBuilds affiliate Chudoba DesignÂ has released its rendition of Marsa Alam (HEMA) airport for MSFS2020.Â The Egyptian airport is faithfully recreated, feature-rich, and moderately priced to add to its offerings.Â  Marsa Alam International Airport is an international airport, mainly serving as a vacation destination for European leisure travelers. The airport features traffic from many notable airlines, such as easyJet, Edelweiss, Lufthansa, Smartwings, and TUI fly. It served over 1 million passengers back in 2012 and contains a singular, 9800 foot, or 3,000-meter runway. Marsa Alam for MSFS is presented with the following features:Â  You can purchase HEMA airport for MSFS on theÂ iniBuilds store for 6.99GBP/8.30EUR/9.19USD.Â The download will consume 158MB of space on your hard drive and 364MB after installation.Â </summary>
-    <published>2022-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ch65up</id>
-    <title>Hot Start Pushes Out Challenger 650 Update</title>
-    <updated>2022-04-03T00:00:00+00:00</updated>
-    <link href="/news/ch65up" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/61c7db088f6818366ca10a5a_01.jpg.dad1a93442e931e0ffc7e416570e9972.jpg" rel="enclosure" type="image/jpeg" length="1298071"/>
-    <summary>Sim: X-Plane. The development team behind the renowned Challenger 650 aircraft is back bringing a small bug fix and improvement update for the small business jet. This includes a variety of fixes and minor improvements to make the aircraft more like its real-world counterpart and bring more accessibility to the user. Whilst this update is quite small. It comes packed with a variety of features. Starting off, additions such as click spots for wing inspections for preflight and adding a variety of system support such as OCEANÂ CLX, ATSÂ LOG, and DEPÂ CLX, but also features a brief update to xPilot SELCAL datarefs. Moving forward, an assortment of improvements have also been made. Datarefs for the "walking mode" and libfail have been enhanced, alongside an enhancement to overnight icing accumulation that follows real-world METARÂ data. Support for the online network POSCON has been added as well. The large parts of this update contain bug fixes. A multitude of these features are mainly system improvements and bug fixes, along with a variety of FMCÂ and Flightplan system improvements have been made as well.  You can find the full content list of the update by visiting the X-Pilot Forums, and if you are interested in picking this aircraft up for yourself, you can find it over on the X-Aviation Store.</summary>
-    <published>2022-04-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fscytz</id>
     <title>FSimStudios Releases Billy Bishop Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625d54e2d60a955d6adc601f_ayo.jpg" rel="enclosure" type="image/jpeg" length="906428"/>
     <summary>Sim: MSFS. PMDG is reaching the end of the tunnel in the development of their hotly-awaited 737-700NG3. On their forums, Robert Randazzo detailed that the team remains bullish for a timely release, but is still reserved on setting a concrete release date due to several factors adding âambiguityâ to the projectâs completion, and the upcoming Sim Update 9 from Asobo additionally brings more uncertainty to the add-onâs stability with potential issues that is unforeseeable. Randazzo explained that a lot of logistics are involved in preparation for enabling the team to adapt to SU9, one of which is ensuring a stable testing environment to avoid a ânegative initial user experienceâ. A lot of details are yet to be finalised, including the release date which not even the team has a concrete answer internally, there is an âentire evaluative processâ taking place to pinpoint a date. That said, RSR reassured that the productâs launch will not be a surprise drop in store, a release date with possibly an approximate time of day will be announced prior to the release. As the team approaches the final leg of the 737-700âs development, Randazzo optimistically said that things will become much more exciting between now and the productâs release. The embargo will be lifted so testers of the add-on can share and provide additional new insights into the product, streamers who got ahold of the aircraft will have their embargo lifted as the plane is released.Â  To kickstart the beginning of the hype building, the team is currently releasing a series of walkthrough videos on the 737-700 on their YouTube channel, with an introductory video published already (embedded on top). A few hours ago, another video is published detailing the Tow Out and plans after the release of the aircraft: More videos will steadily be published in the coming days and weeks. Moving on, Randazzo has shifted to discussing the sounds that are developed for the add-on. Armen, who is principally behind the soundset, has been developing a âsound-scapeâ to match the visuals and systems fidelity of the rest of the aircraft. Stressing that the sound engine that MSFS used is âunlike anything they have every[sic] had the opportunity to work withâ, to which Armen has used the engine to its full potential. Randazzo wraps up the update by assuring that this will be a monumental release, both for the team and the flight sim community; the talent behind Vin and Jason to develop the most visually, and technically faithful 737 for MSFS combined with the delightful sonic experience from Armen that brings the bird to life. To read the original update, visit their forums.</summary>
     <published>2022-04-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyrfam</id>
+    <title>Pyreegue &amp; Family is Safe and Well; Development Still Going Strong</title>
+    <updated>2022-04-19T00:00:00+00:00</updated>
+    <link href="/news/pyrfam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ec87a2e2ad36e5e3e0292_owo.png" rel="enclosure" type="image/png" length="1616642"/>
+    <summary>Sim: MSFS. Ukrainian developer Pyreegue has dropped an update providing a short raincheck on his whereabouts and his family in light of the Russian Invasion of Ukraine. The war brought much disruptions to the developer's (and many others) way of life, fortunately, the developer confirmed that he and his family are safe. As things are beginning to settle down for Pyreegue - he is now back to work on his current projects for MSFS. The developer assured that he has not fallen behind in his commitment to his projects regardless of the happenings around the flight sim community in that extended period of time. For this update, the developer is previewing some of the new modeling for current scenery projects and a reworked set of static aircraft: Â  â Wrapping up the weather update, Pyreegue thanks everyone for their support, including Orbx, who has put effort to support Ukrainian developers hosting their products on their store.Â  â âOnce again, I canât thank you enough for being there in my time of need, for what you guys and the team at Orbx did to help me overcome this misery, I wouldnât be where I am today without people like you. Thank you.â â For the original update with more pictures, visit the forum thread comment. â</summary>
+    <published>2022-04-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bnddub</id>
+    <title>Boundless Simulations Confirms Release Date for Dublin</title>
+    <updated>2022-04-19T00:00:00+00:00</updated>
+    <link href="/news/bnddub" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ecb12fd7f46025a6de66b_uwu.png" rel="enclosure" type="image/png" length="285355"/>
+    <summary>Sim: X-Plane. Boundless Simulations has confirmed the date that they will be releasing their âmost ambitious project yetâ which is Dublin Airport. According to the scenery developer, they are âwell on trackâ and are aiming to bring the scenery to their store on Friday, May 13th. Boundless has ramped up their effort to increase product quality by implementing more detail than ever before, in line with most modern scenery releases of today, the scenery will be laid with up to date satellite imagery sourced near the end of last year along with a detailed terminal model containing interior modelling for added depth. Boundless now employs the popular SAM plugin to animate its custom jetways. Finally, the rest of the landscape is decorated with custom vegetation. Here is the full feature list: This release date is provisional but one that Boundless âintend to stick toâ. The developer has also confirmed that the product will cost Â£19.99 which is âcheaper than any other alternative payware Dublin sceneryâ. There has been no word on whether they will be selling it on any other broker's website other than their own just yet. Nonetheless, weâll keep you in the loop on further developments to this project. Stay tuned!</summary>
+    <published>2022-04-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sbwapl</id>
+    <title>SimBitWorld Teases A Pilots Life V2 Screenshots</title>
+    <updated>2022-04-19T00:00:00+00:00</updated>
+    <link href="/news/sbwapl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ee30eeb0310b9de2a5e55_APL01.JPG" rel="enclosure" type="image/jpeg" length="202953"/>
+    <summary>Sim: X-Plane. SimBitWorld, developers of "A Pilots Life"Â have posted a new showcase on their Facebook page regarding the next generation of the plugin. With a complete overhaul of features and new additions coming in the near future. The company CEO, Ovidiu has teased various features of APL v2 for the past few months, showcasing various UI overhauls along with features making a reappearance in the new version, alongside new features that will be making an appearance. The team is expecting a release sometime in spring or summer of this year. A Pilots Life provides users an immersive experience into the world of a commercial airline pilot. Whether it be in regards to passenger or cargo operations, the plugin provides and tailors to the user. You make your way up through the airlines, completing routes, with various aircraft. As you gain experience, you have the option to move to more major carriers, and have the option to earn more virtual money. No complete feature list has been provided at this time. The project is currently in its beta stage of development, and Ovidiu is planning on making his deadline for release, which he has yet to disclose.  You can purchase A Pilots Life over on the simMarket for a limited discount price of â¬8.38, after which the product sells for â¬16.75</summary>
+    <published>2022-04-19T00:00:00+00:00</published>
   </entry>
 </feed>
