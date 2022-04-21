@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-04-20T18:28:26.606979+00:00</updated>
+  <updated>2022-04-21T18:30:35.583170+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/march-24th-2022-development-update/</id>
-    <title>March 24th, 2022 Development Update</title>
-    <updated>2022-03-24T23:13:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-24th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/03/pommes_l-Twitter2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="103064"/>
-    <summary>Screenshot by pommes_l (Twitter)World Update 8: Iberia is officially live! Click here to for full release notes and check out the trailer below:﻿Thank you to those who made it out to our monthly Dev Q&amp;A yesterday. The full video can be found in the Twitch section below. Coming up next week: our Local Legends #3 … Continued</summary>
-    <published>2022-03-24T23:13:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-31st-2022-development-update/</id>
     <title>March 31st, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/HeKa48-Forum-1024x429.jpeg" rel="enclosure" type="image/jpeg" length="60008"/>
     <summary>A new build is now available for SU9 Public Beta testers! Your feedback has been instrumental in this build and we thank you again for all your help! Click here to see the newest changelog.</summary>
     <published>2022-04-14T22:24:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/freedom-fox-from-parallel-42-available-today-in-the-marketplace/</id>
+    <title>Freedom Fox from Parallel 42 Available Today in the Marketplace</title>
+    <updated>2022-04-20T18:42:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/freedom-fox-from-parallel-42-available-today-in-the-marketplace/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/MicrosoftTeams-image-28-1024x576.png" rel="enclosure" type="image/png" length="173320"/>
+    <summary>﻿In full collaboration with Trent Palmer, experience Freedom Fox, and a customized variant named “Fox2” with a beautiful selection of liveries. The only Kitfox you’ll ever need, now available in the Marketplace on Xbox &amp; PC.Learn more about Freedom Fox here.</summary>
+    <published>2022-04-20T18:42:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/</id>
