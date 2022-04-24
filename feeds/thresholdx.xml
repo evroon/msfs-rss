@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-23T18:26:31.527612+00:00</updated>
+  <updated>2022-04-24T18:26:34.434203+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/crj948</id>
-    <title>ADSimulations Announces CRJ900 for X-Plane 11</title>
-    <updated>2022-04-08T00:00:00+00:00</updated>
-    <link href="/news/crj948" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/624fe3a082d9c95c7c6151b8_01.thumb.jpg.c53c14e8709c8c846aa98f93835a283c.jpg" rel="enclosure" type="image/jpeg" length="55747"/>
-    <summary>Sim: X-Plane. Aircraft developer ADSimulations has announced their next project for X-Plane 11, the Mitsubishi CRJ-900! The larger CRJ follows the developers growing line of aircraft, following their original CRJ-700 release.  The Mitsubishi CRJ-900 is an extended variant of the CRJ-700 base model in the Bombardier Aerospaces' regional jet product line. It features 1,553NM of range, can accommodate up to 90 passengers, and cruises at Mach 0.82. The plane is used in various environments worldwide, though it can be found in excess with American, Delta, Lufthansa Cityline, and SAS. Unfortunately, ADsimulations hasn't shared any additional information with us except that they'll release the product within the next few weeks, and complimenting the release will be an update to their CRJ-700.  Stay tuned with Threshold, as we'll keep you updated with the latest and greatest from ADsimulations.</summary>
-    <published>2022-04-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kontxp</id>
     <title>Verticalsim Releases Ontario International Airport for X-Plane 11</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/626237e8e33d771b107df3ec_ebbr-msfs_07.jpg" rel="enclosure" type="image/jpeg" length="115258"/>
     <summary>Sim: MSFS. Bringing attention to detail, Aerosoft has released its highly awaited visual rendition of Brussels International Airport for Microsoft Flight Simulator. This release adds to the ever-increasing catalog of major airports that Aerosoft has pushed out. Dating back to the early days of the German Luftwaffe occupied the area and operated the area as a backup airfield. After the war in the 1960s, the airport received multiple hangers with then receiving cargo ramps in 1976 and passenger terminals in 1994. Brussels received about 23 million passengers in about 2019 pre-COVID-19. With an all-inclusive feature list, Aerosoft has provided content that all users will enjoy. Starting off, a complete layout of Brussels Airport with detailed modeling has been provided alongside, custom jetways and correct terminal variations included. Next, accurate lighting along the airport grounds and ground textures have all been modeled and included. You may view the full feature list on Aerosoftâs website. If you are interested in picking this scenery package up for yourself, you can pick it up over on Aerosoftâs website and sells for â¬20.97. If you are interested in Aerosoftâs catalog of other sceneries, you can visit their website and take a look. â</summary>
     <published>2022-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bos423</id>
+    <title>FlyTampa Releases Boston for MSFS2020</title>
+    <updated>2022-04-23T00:00:00+00:00</updated>
+    <link href="/news/bos423" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62647d088afa9786a7fa2346_kbos1.jpg" rel="enclosure" type="image/jpeg" length="586532"/>
+    <summary>Sim: MSFS. Scenery developer FlyTampa has released their rendition of Boston International Airport for MSFS2020. The scenery delivers entirely accurate airport buildings, interior, and layout.Â  Boston Logan International Airport serves the Boston metropolitan area in Massachusetts. It's the 16th busiest airport in the United States, having served nearly 42 million passengers in 2019. Logan airport is a hub for both Cape Air and Delta Air Lines and a focus city for JetBlue. Numerous international airlines serve the airport, including Azores Airlines, Emirates, Cathay Pacific, El Al, etc. Boston airport features six runways, ranging from a small GA to a full-size, ten thousand foot runway. FlyTampa Boston for MSFS contains the following: You can purchase Boston for MSFS on the FlyTampa store for $18.99. It'll consume approximately 2.3GB of space after download. Make sure to keep in touch with Threshold regarding future FlyTampa news and releases.Â Â </summary>
+    <published>2022-04-23T00:00:00+00:00</published>
   </entry>
 </feed>
