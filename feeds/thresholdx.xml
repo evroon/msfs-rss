@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-04-26T18:30:18.058208+00:00</updated>
+  <updated>2022-04-27T18:28:31.593907+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rv14fs</id>
-    <title>SimWorksStudios Releases RV-14 for MSFS</title>
-    <updated>2022-04-12T00:00:00+00:00</updated>
-    <link href="/news/rv14fs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62550ca89aaaf9df3572d8a5_RV14-01.jpg" rel="enclosure" type="image/jpeg" length="175010"/>
-    <summary>Sim: MSFS. SimWorksStudios have officially released their rendition of the RV-14 aircraft for Microsoft Flight Simulator. With a variety of features accessible to users, this aircraft is a keen addition to MSFS's General Aviation market.   Touted as an aircraft with many pristine features, Van's RV-14 features a wide variety of features for real-world pilots to experience. The aircraft ships in two variants, the RV-14, and the RV-14A. Visually the difference is the main variant is a taildragger, whilst the A variant is not. With a high fuel economy, fast speed, and a comfortable flight deck, this aircraft offers much of a pilot's dream.  SimWorksStudios have provided a feature list upon release. Starting, all variants of the RV-14 have been included with 3 different liveries. The 3D model and animations all replicate the real-world aircraft, plus the flight dynamics of the aircraft have been tested by real-world pilots. All MSFS icing and rain effects are compatible with the aircraft. Alongside this, GTNS750 compatibility with both PMS50 and TDS is available. If you'd like the full feature list, you can check it out on the aircraft'sÂ product page.  If you are interested in picking this aircraft up for yourself, you can purchase it over at theÂ SimWorksStudios Website, selling for â¬14.99. If you are interested in other products by the same development team, you can check out theirÂ websiteÂ to view their catalog of products.</summary>
-    <published>2022-04-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/macafs</id>
     <title>Macco Simulations Release Cancun International for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6268218ff2a1995b5bd087a5_rs%3Dw_1280%20(1).jpg" rel="enclosure" type="image/jpeg" length="235211"/>
     <summary>Sim: X-Plane. Laminar Research has taken to their Twitter page to showcase previews of X-Codr Designs Denver 2.0 in X-Plane 12, an upcoming free update to the popular airport. The developerâs version two rendition of Denver is set to release with a multitude of exciting changes, these include the new terminal expansions, improved ground textures, revamped terminals, and more. You can view the full feature list below. It was also confirmed by the developer that they still plan on supporting X-Plane 11. As well according to X-Codr, they donât believe that the X-Plane 12 version of the airport will require a separate download, as the X-Plane 11 version should ignore the X-Plane 12 features. Due to the strict NDA still in place for Laminarâs new simulator, the developer has stated that they wonât be making an official announcement on the forums until X-Plane 12 releases. As well, X-Codr Designs has assured users that progress on Sedona is still developing nicely, and will not be affected by Denver. It was also said that work has finished on the rocks, and the airport will be started, with previews coming soon. In the meantime, you can purchase Denver for X-Plane 11 via the X-Plane.org store for $29.95. As well, make sure to check out the source post for this article via the developerâs website, and join their discord for further information.</summary>
     <published>2022-04-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aseddf</id>
+    <title>Aviotek Simulation Software Previews Frankfurt (EDDF) for X-Plane and MSFS</title>
+    <updated>2022-04-27T00:00:00+00:00</updated>
+    <link href="/news/aseddf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6268e1178ebb2158d1285799_279167905_1891709774361480_3580936102275275336_n.jpg" rel="enclosure" type="image/jpeg" length="63342"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Aviotek Simulation Software has published a short update on its upcoming Frankfurt Airport scenery for both X-Plane 11 and MSFS. The brief blog provides the community with a glimpse into the sceneryâs progress and showcases new previews. According to the developers, they are trying to âintegrate and include as many details as possible, as well as some unique features never seen beforeâ, a process that will âtake way longer than expected sometimesâ. Therefore, at the current stage, it is impossible to estimate how much longer the team needs to complete the airport. From the previews accompanying the post, it is clear that the modeling for the passenger and cargo terminals, towers, and hangers are mostly complete. A few ground vehicles ranging from buses to pushback trucks are also showcased. In a previous post, the developers has revealed that the scenery will come with high quality PBR textures and custom animations for both simulators, promising to provide in-sim previews as soon as possible. Currently, the developers are yet to announce a release date or pricing for Frankfurt Airport. Based on Aviotekâs previous products, the scenery will likely cost between $18 and $26 USD. Threshold will keep you updated on this front. â</summary>
+    <published>2022-04-27T00:00:00+00:00</published>
   </entry>
 </feed>
