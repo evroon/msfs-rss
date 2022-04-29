@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-04-28T18:30:03.254639+00:00</updated>
+  <updated>2022-04-29T18:29:44.010556+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/april-7th-2022-development-update/</id>
-    <title>April 7th, 2022 Development Update</title>
-    <updated>2022-04-07T21:30:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-7th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/shizhe85511526-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="106786"/>
-    <summary>We are one week into our public Sim Update 9 Beta testing and your feedback has already led to an improved build which came out this past Tuesday. We anticipate more updates during Beta testing and continue to work through your reports. A huge thank you to those who have taken the time to help us in this endeavor!</summary>
-    <published>2022-04-07T21:30:49+00:00</published>
+    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
+    <title>Community Spotlight: Beth Oliver</title>
+    <updated>2022-03-30T16:31:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
+    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
+    <published>2022-03-30T16:31:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/spring-sale-500-items-on-sale-now-in-the-marketplace/</id>
-    <title>Spring Sale: 500+ Items On Sale Now in the Marketplace</title>
-    <updated>2022-04-08T17:00:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/spring-sale-500-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/SpringSale2022_v02-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122029"/>
-    <summary>For one week starting on April 8th, save up to 79% on more than 500 items.</summary>
-    <published>2022-04-08T17:00:46+00:00</published>
+    <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
+    <title>Community Spotlight: Gregory Davis</title>
+    <updated>2022-04-19T16:30:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-gregory-davis/" rel="alternate"/>
+    <summary>In 2021, Gregory embarked on a new career challenge when he accepted the role of President of Eviation, an electric aircraft company based out of Arlington Municipal Airport (ICAO: KAWO) in the greater Seattle area. Learn more about Greg and his history playing Microsoft Flight Simulator!</summary>
+    <published>2022-04-19T16:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
+    <title>Famous Flyer II: Gee Bee Model Z Super Sportster and Model R-2 Super Sportster</title>
+    <updated>2022-04-26T15:24:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/MicrosoftTeams-image-44-1024x576.png" rel="enclosure" type="image/png" length="220729"/>
+    <summary>﻿Microsoft Flight Simulator’s latest Famous Flyer offerings take you into the cockpits of the most legendary speed kings of the Golden Age of Flight: The Gee Bee Model Z and the Gee Bee Model R-2. These Super Sportsters dominated air racing at the sport’s peak in the early 1930s, and they continue to captivate imaginations … Continued</summary>
+    <published>2022-04-26T15:24:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-14th-2022-development-update/</id>
@@ -54,28 +61,21 @@
     <published>2022-04-21T23:02:40+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/</id>
-    <title>Local Legend III: Dornier Do J Wal</title>
-    <updated>2022-03-29T19:01:04+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-iii-dornier-do-j-wal/" rel="alternate"/>
-    <summary>The Microsoft Flight Simulator team is proud to announce the third release in our Local Legends family of historic aircraft: the Do J Wal, a twin-engine, high-wing flying boat by German aviation firm Dornier. The J Wal (“Whale” in German) captured the imagination of the world immediately after it was introduced in 1923 due its … Continued</summary>
-    <published>2022-03-29T19:01:04+00:00</published>
+    <id>https://www.flightsimulator.com/release-notes-1-25-7-0-sim-update-ix-now-available/</id>
+    <title>Release Notes (1.25.7.0) Sim Update IX Now Available!</title>
+    <updated>2022-04-26T15:01:34+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-1-25-7-0-sim-update-ix-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/isaiahnparadise-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="99027"/>
+    <summary>Release Notes for Version 1.25.7.0 (Sim Update 9) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2022-04-26T15:01:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
-    <title>Community Spotlight: Beth Oliver</title>
-    <updated>2022-03-30T16:31:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
-    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
-    <published>2022-03-30T16:31:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
-    <title>Community Spotlight: Gregory Davis</title>
-    <updated>2022-04-19T16:30:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-gregory-davis/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/MicrosoftTeams-image-1-1024x683.jpg" rel="enclosure" type="image/jpeg" length="63728"/>
-    <summary>In 2021, Gregory embarked on a new career challenge when he accepted the role of President of Eviation, an electric aircraft company based out of Arlington Municipal Airport (ICAO: KAWO) in the greater Seattle area. Learn more about Greg and his history playing Microsoft Flight Simulator!</summary>
-    <published>2022-04-19T16:30:30+00:00</published>
+    <id>https://www.flightsimulator.com/april-28th-2022-development-update/</id>
+    <title>April 28th, 2022 Development Update</title>
+    <updated>2022-04-28T20:55:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-28th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/Matt_Photomode-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="133004"/>
+    <summary>Sim Update IX is out now! Click here to see release notes. If you’d like to provide your overall impressions of the update, don’t forget to vote in our forum polls here and leave us a comment.</summary>
+    <published>2022-04-28T20:55:32+00:00</published>
   </entry>
 </feed>
