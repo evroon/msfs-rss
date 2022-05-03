@@ -2,37 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-05-02T18:27:46.586400+00:00</updated>
+  <updated>2022-05-03T18:28:22.936543+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-beth-oliver/</id>
-    <title>Community Spotlight: Beth Oliver</title>
-    <updated>2022-03-30T16:31:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-beth-oliver/" rel="alternate"/>
-    <summary>As Women’s History Month comes to a close, we are shining a light on an individual who has many years both real-world flight history and Microsoft Flight Simulator history behind her: pilot and former Microsoft Flight Simulator Subject Matter Expert, Beth Oliver.</summary>
-    <published>2022-03-30T16:31:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
-    <title>Community Spotlight: Gregory Davis</title>
-    <updated>2022-04-19T16:30:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-gregory-davis/" rel="alternate"/>
-    <summary>In 2021, Gregory embarked on a new career challenge when he accepted the role of President of Eviation, an electric aircraft company based out of Arlington Municipal Airport (ICAO: KAWO) in the greater Seattle area. Learn more about Greg and his history playing Microsoft Flight Simulator!</summary>
-    <published>2022-04-19T16:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
-    <title>Famous Flyer II: Gee Bee Model Z Super Sportster and Model R-2 Super Sportster</title>
-    <updated>2022-04-26T15:24:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/MicrosoftTeams-image-44-1024x576.png" rel="enclosure" type="image/png" length="220729"/>
-    <summary>﻿Microsoft Flight Simulator’s latest Famous Flyer offerings take you into the cockpits of the most legendary speed kings of the Golden Age of Flight: The Gee Bee Model Z and the Gee Bee Model R-2. These Super Sportsters dominated air racing at the sport’s peak in the early 1930s, and they continue to captivate imaginations … Continued</summary>
-    <published>2022-04-26T15:24:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-14th-2022-development-update/</id>
     <title>April 14th, 2022 Development Update</title>
@@ -77,5 +52,30 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/Matt_Photomode-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="133004"/>
     <summary>Sim Update IX is out now! Click here to see release notes. If you’d like to provide your overall impressions of the update, don’t forget to vote in our forum polls here and leave us a comment.</summary>
     <published>2022-04-28T20:55:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
+    <title>Community Spotlight: Gregory Davis</title>
+    <updated>2022-04-19T16:30:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-gregory-davis/" rel="alternate"/>
+    <summary>In 2021, Gregory embarked on a new career challenge when he accepted the role of President of Eviation, an electric aircraft company based out of Arlington Municipal Airport (ICAO: KAWO) in the greater Seattle area. Learn more about Greg and his history playing Microsoft Flight Simulator!</summary>
+    <published>2022-04-19T16:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
+    <title>Famous Flyer II: Gee Bee Model Z Super Sportster and Model R-2 Super Sportster</title>
+    <updated>2022-04-26T15:24:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/" rel="alternate"/>
+    <summary>﻿Microsoft Flight Simulator’s latest Famous Flyer offerings take you into the cockpits of the most legendary speed kings of the Golden Age of Flight: The Gee Bee Model Z and the Gee Bee Model R-2. These Super Sportsters dominated air racing at the sport’s peak in the early 1930s, and they continue to captivate imaginations … Continued</summary>
+    <published>2022-04-26T15:24:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-deekay/</id>
+    <title>Community Spotlight: Deekay</title>
+    <updated>2022-05-03T16:55:22+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-deekay/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MicrosoftTeams-image-26-1024x473.png" rel="enclosure" type="image/png" length="167408"/>
+    <summary>We are pleased to shine the spotlight on a member of the Microsoft Flight Simulator player community from South Korea: David Kang, who goes by Deekay online. In addition to being an Orbx partner, he is also a leader of Fly Together Korea, a community of nearly 4,500 Korean flight sim enthusiasts. When not flying … Continued</summary>
+    <published>2022-05-03T16:55:22+00:00</published>
   </entry>
 </feed>
