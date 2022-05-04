@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-05-03T18:28:23.786221+00:00</updated>
+  <updated>2022-05-04T18:28:17.303999+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bruclo</id>
-    <title>Aerosoft Inches Closer to Release With Brussels for Microsoft Flight Simulator</title>
-    <updated>2022-04-18T00:00:00+00:00</updated>
-    <link href="/news/bruclo" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625d44557c579403c3ea7e55_bro.png" rel="enclosure" type="image/png" length="3582917"/>
-    <summary>Sim: MSFS. Aerosoft has returned with another major airport, soon to be released for Microsoft Flight Simulator, hopping over to Brussels with a detailed rendition of the namesake airport, the team has released a trailer for the product, signalling a close-to-release stage of the development. The project has been through an extended development period since the earlier days of MSFS, and the recent developments and news on the forums has portrayed a project status that's closer to the end of the tunnel. In typical Aerosoft fashion, their development house has brought a vividly detailed recreation of the airport, featuring a well-rounded replica of the terminal complex and its interior. It will also boast some unique features such as assisted docking. It has not been confirmed that the system will work for all aircraft types, but further details regarding the feature may be confirmed as we approach the release of the airport. Brussels Airport, which has the ICAO code EBBR, served almost twenty-five million passengers in Europe in 2019 making it Europeâs 24th busiest airport. The main airline to serve the airportis the countryâs flag carrier, Brussels Airlines, which operates an all Airbus fleet including the A319, A320, and A330. Aerosoft has not disclosed a price however they confirmed that they will be selling in their store very soon.</summary>
-    <published>2022-04-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/737rel</id>
     <title>PMDG On Approach to Release for 737-700; Remains Tight-Lipped On Release Date</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6270d2652429a82fb82754b1_MD-11%20Interior.png" rel="enclosure" type="image/png" length="427767"/>
     <summary>Sim: X-Plane. Known developer for PACX and smartCARS, TFDI Design has published a Spring 2022 development update on their forums page. This update covers the continuous progress on their rendition of the MD-11, alongside developments for PACX, smartCARS 3, and updates for their sister company JetStream Radio. The team touched base that further modeling and texture work has continued along with progress on the systems and auto flight systems. Various engine variations have begun development with the PW Engine variant. The team expects to make great progress in the coming months. At the beginning of the update, the team addressed PACXâs latest update and its successes. Features like an IFE that tracks your flight, lets you access JetStream radio, and more were added to help add to the overall experience of the application. â â The team for the upcoming smartCARS 3 programs has begun finalizing the UI and adding more accessibility to virtual airlines that want to tailor to their pilots, in their own communities. It will improve the overall dynamic of the widely used program. â In this section, it was addressed that the radio station is now âfront and centerâ in the PACX IFE. With also the announcement of launching a new station to include a catalog of music from the 90s to now. â If you would like to read the update in its entirety, you can visit the TFDI forums for more information. â</summary>
     <published>2022-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iapdu</id>
+    <title>Indiafoxtecho Announces New Projects and Publishes Development Update</title>
+    <updated>2022-05-04T00:00:00+00:00</updated>
+    <link href="/news/iapdu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6271d3009fdabc4c5d46a0b0_279572045_5661152563898158_7587075841842710172_n.jpg" rel="enclosure" type="image/jpeg" length="412870"/>
+    <summary>Sim: MSFS. Last week, aircraft developer Indiafoxtecho published a lengthy post on its Facebook page to announce new projects and bring development updates on existing ones. First off, the developers confirmed that their next project will be the Tornado for Microsoft Flight Simulators. Both the IDS and IDS-MLU will be developed, with the legacy IDS serving as the baseline model. Additionally, the developers hinted that âthe GR1, ECR and possibly the ADV variantâ will also be developed, though the feasibility of an ADV variant will be dependent on the resources available to the team.  A few previews depicting the planeâs Â exterior modeling were also published with the post, though the developers warned that they were taken at preliminary stages of development and will be drastically improved later on.  	In addition to announcing the Tornado, the Indiafoxtecho also touched on the progress of their other products. According to the developers, the Aermacchi M346, which will use native MSFS FCS flight model, now has a completed HTML5/JS HUD , but is experiencing slight delays in texturing and system programming. The aircraft should be ready for beta testing in the coming weeks. As for the Eurofighter Typhoon, the developers has decided to model the plane from scratch since they are not satisfied with the commercial meshes and P3D model they originally planned to use as a starting point, a process that will take considerably more time to complete. Finally, the developers talked about bringing the teamâs projects to DCS. They revealed that DCS development entails much more work than that for other simulators, requiring extensive planning and research beforehand. Therefore, their DCS team is currently only focused on âbringing the MB.339â to the market. Threshold will keep you updated on this front. â</summary>
+    <published>2022-05-04T00:00:00+00:00</published>
   </entry>
 </feed>
