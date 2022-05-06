@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-05-05T18:27:55.492337+00:00</updated>
+  <updated>2022-05-06T18:28:23.623807+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/april-14th-2022-development-update/</id>
-    <title>April 14th, 2022 Development Update</title>
-    <updated>2022-04-14T22:24:21+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-14th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/HeKa48-Forum-1024x429.jpeg" rel="enclosure" type="image/jpeg" length="60008"/>
-    <summary>A new build is now available for SU9 Public Beta testers! Your feedback has been instrumental in this build and we thank you again for all your help! Click here to see the newest changelog.</summary>
-    <published>2022-04-14T22:24:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/freedom-fox-from-parallel-42-available-today-in-the-marketplace/</id>
     <title>Freedom Fox from Parallel 42 Available Today in the Marketplace</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/Matt_Photomode-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="133004"/>
     <summary>Sim Update IX is out now! Click here to see release notes. If you’d like to provide your overall impressions of the update, don’t forget to vote in our forum polls here and leave us a comment.</summary>
     <published>2022-04-28T20:55:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-5th-2022-development-update/</id>
+    <title>May 5th, 2022 Development Update</title>
+    <updated>2022-05-05T21:07:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-5th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/Speedbrake22-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="66283"/>
+    <summary>Thank you for providing feedback since the release of Sim Update 9! At this time, we are hard at work on a patch that will fix some of the emerging issues we have seen this past week. We are excited to share more details and patch notes soon.</summary>
+    <published>2022-05-05T21:07:49+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
