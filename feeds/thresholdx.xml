@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-05-06T18:28:24.171105+00:00</updated>
+  <updated>2022-05-07T18:26:45.718103+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pyrfam</id>
-    <title>Pyreegue &amp; Family is Safe and Well; Development Still Going Strong</title>
-    <updated>2022-04-19T00:00:00+00:00</updated>
-    <link href="/news/pyrfam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ec87a2e2ad36e5e3e0292_owo.png" rel="enclosure" type="image/png" length="1616642"/>
-    <summary>Sim: MSFS. Ukrainian developer Pyreegue has dropped an update providing a short raincheck on his whereabouts and his family in light of the Russian Invasion of Ukraine. The war brought much disruptions to the developer's (and many others) way of life, fortunately, the developer confirmed that he and his family are safe. As things are beginning to settle down for Pyreegue - he is now back to work on his current projects for MSFS. The developer assured that he has not fallen behind in his commitment to his projects regardless of the happenings around the flight sim community in that extended period of time. For this update, the developer is previewing some of the new modeling for current scenery projects and a reworked set of static aircraft: Wrapping up the weather update, Pyreegue thanks everyone for their support, including Orbx, who has put effort to support Ukrainian developers hosting their products on their store.Â  âOnce again, I canât thank you enough for being there in my time of need, for what you guys and the team at Orbx did to help me overcome this misery, I wouldnât be where I am today without people like you. Thank you.â For the original update with more pictures, visit the forum thread comment.</summary>
-    <published>2022-04-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bnddub</id>
     <title>Boundless Simulations Confirms Release Date for Dublin</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6274add24ef344df75453f09_mini5001.PNG" rel="enclosure" type="image/png" length="474768"/>
     <summary>Sim: MSFS. Aircraft developer GotFriends, known for their Gee Bee R3 Special, and upcoming Grumman F4F,Â have teasedÂ their forthcoming Mini-500 helicopter for the new simulator. The developer has not detailed the features of the rotorcraft yet but plans on keeping the community updated throughout the development process. On theÂ "Skoots" YouTube channel, it was mentioned that the team is implementing the AirlandFS helicopter physics engine. The rotorcraft will also deliver with Asobo's native model with CFD when it's possible to do so, accounting for the current SDK's limitations.Â Â The Mini-500 will also present with a few bold liveries. First produced in 1994, the Revolution Mini-500 is a kit helicopter featuring a Rotax 582 engine and has produced over 100 airworthy models. It contains a history with a poor safety record, with many component failures plaguing the design. It was a cheap alternative to other helicopters, such as the Robinson R22, as it featured an endurance of 3 hours and a 75mph cruise speed. GotFriends' Mini-500 doesn't have a release date yet, though it was mentioned that it would release sometime in 2022, but you can stay updated on their websiteÂ here.Â </summary>
     <published>2022-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/737506</id>
+    <title>PMDG Sets 737 Release Date for MSFS2020</title>
+    <updated>2022-05-07T00:00:00+00:00</updated>
+    <link href="/news/737506" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62760542fbf0175a9b61a988_image_15258.jpg" rel="enclosure" type="image/jpeg" length="712230"/>
+    <summary>Sim: MSFS. Robert Randazzo at PMDGÂ has updated the community regarding its development whereaboutsÂ surrounding its imminent Boeing 737 release. He reiterates that, even after the release, the plane is still due for some improvements and additional work, but the team is confident that the aircraft is in a "releasable" state. The project has been a long time in the making, having been announced within the same period as MSFS's release.Â  Not a Port! Randazzo has re-emphasized that the 737 for MSFS is not simply a port from the Prepar3D version. In his own words, "Microsoft Flight simulator, when it finally arrived, offered such a magnificent visual environment that it seemed we would be missing an opportunity to do something truly wonderful if we simply dragged the 737 as-is into the new environment and handed it off to you."Â  A Gentle Reminder The PMDG 737 for MSFS will release in six-week intervals following the -700s initial release. The MAX variants are included in the lineage of products, which will come "eventually." Also incoming for the new flightsim, albeit without any additional information or timeframe, is theÂ 777Â andÂ 747 for MSFS.Â Though, both products are on the backburner for the time being while the team releases the 737 variants.Â  Some General Hype PMDG believes that Microsoft Flight Simulator "is the best simulation platform that any of the development team has ever put a product into." The developers gawked at the aircraft's beauty and performance in the simulator. As you can imagine, the 737 will deliver with a customized autopilot, flight model, systems modeling, and sound environment. Following the release, the team will be active with accomodating bug reports, and they warned users that the Ops Center would be very busy with updates in the next few days. Final Words A quick reminder for those who purchased the NGXu for P3D, you will receive a $99.99 credit towards buying the MSFS 737 product line if you acquired the aircraft before December 31st, 2019. The PDMG 737 for MSFS will be released on May 9th, 2022, asÂ the team announced on their YouTube channel.Â Threshold will keep you updated regarding pricing and additional information at the release on Monday.Â </summary>
+    <published>2022-05-07T00:00:00+00:00</published>
   </entry>
 </feed>
