@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-05-07T18:26:45.718103+00:00</updated>
+  <updated>2022-05-08T18:26:54.958476+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bnddub</id>
-    <title>Boundless Simulations Confirms Release Date for Dublin</title>
-    <updated>2022-04-19T00:00:00+00:00</updated>
-    <link href="/news/bnddub" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ecb12fd7f46025a6de66b_uwu.png" rel="enclosure" type="image/png" length="285355"/>
-    <summary>Sim: X-Plane. Boundless Simulations has confirmed the date that they will be releasing their âmost ambitious project yetâ which is Dublin Airport. According to the scenery developer, they are âwell on trackâ and are aiming to bring the scenery to their store on Friday, May 13th. Boundless has ramped up their effort to increase product quality by implementing more detail than ever before, in line with most modern scenery releases of today, the scenery will be laid with up to date satellite imagery sourced near the end of last year along with a detailed terminal model containing interior modelling for added depth. Boundless now employs the popular SAM plugin to animate its custom jetways. Finally, the rest of the landscape is decorated with custom vegetation. Here is the full feature list: This release date is provisional but one that Boundless âintend to stick toâ. The developer has also confirmed that the product will cost Â£19.99 which is âcheaper than any other alternative payware Dublin sceneryâ. There has been no word on whether they will be selling it on any other broker's website other than their own just yet. Nonetheless, weâll keep you in the loop on further developments to this project. Stay tuned!</summary>
-    <published>2022-04-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sbwapl</id>
-    <title>SimBitWorld Teases A Pilots Life V2 Screenshots</title>
-    <updated>2022-04-19T00:00:00+00:00</updated>
-    <link href="/news/sbwapl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625ee30eeb0310b9de2a5e55_APL01.JPG" rel="enclosure" type="image/jpeg" length="202953"/>
-    <summary>Sim: X-Plane. SimBitWorld, developers of "A Pilots Life"Â have posted a new showcase on their Facebook page regarding the next generation of the plugin. With a complete overhaul of features and new additions coming in the near future. The company CEO, Ovidiu has teased various features of APL v2 for the past few months, showcasing various UI overhauls along with features making a reappearance in the new version, alongside new features that will be making an appearance. The team is expecting a release sometime in spring or summer of this year. A Pilots Life provides users an immersive experience into the world of a commercial airline pilot. Whether it be in regards to passenger or cargo operations, the plugin provides and tailors to the user. You make your way up through the airlines, completing routes, with various aircraft. As you gain experience, you have the option to move to more major carriers, and have the option to earn more virtual money. No complete feature list has been provided at this time. The project is currently in its beta stage of development, and Ovidiu is planning on making his deadline for release, which he has yet to disclose.  You can purchase A Pilots Life over on the simMarket for a limited discount price of â¬8.38, after which the product sells for â¬16.75</summary>
-    <published>2022-04-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p737ea</id>
-    <title>PMDG Outlines Early Adopter Model for MSFS 737</title>
-    <updated>2022-04-20T00:00:00+00:00</updated>
-    <link href="/news/p737ea" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/625fa99cc9935bf720cf1049_Screen%20Shot%202022-04-20%20at%201.34.51%20AM.png" rel="enclosure" type="image/png" length="865174"/>
-    <summary>Sim: MSFS. Earlier this week, PMDG published a lengthy blog, detailing its plans for the release of its much anticipated 737NG series for Microsoft Flight Simulator. Through the blog, the developers explained in detail the Early Adopter model they will utilize for their upcoming products and outlined a general release plan for its 737s. According to PMDG, the Early Adopter model will be implemented for the first time to give the developers additional time to fully master the new technologies brought by MSFS, allowing them to gradually implement features that they couldnât provide in the past. In the Early Adopter Period that starts with the initial release of the -700, ânew features, bug fixes, model and texture improvements, performance optimizations, and increasing MSFS integration will be rolled out in update intervals spaced approximately two weeks apartâ. During this time, the -600, -800, and -900 will also be released, with new updates being made available to all four variants simultaneously. In total, the developers expect this period to run a total of 24 weeks, ending around 6 weeks after the release of the -900, though it may be extended if needed. The developers stressed that the airplanes will be fully functional during this time and this period will enable them to âexpand it beyond the initial capabilities deliveredâ. Additionally, PMDG will be providing a list of features that it will add/optimize, including ones that are currently unachievable due to SDK limitations. The list will be kept up-to-date with the roll out of each new version.Â  After the Early Adopter Phase, the aircraft will enter the continued maintenance phase where PMDG will shift focus away from developing new features and instead provide regular compatibility/stability updates, turning to the development of its next product - the 777 series for MSFS. Currently, PMDG has not yet announced a firm release date or pricing for the 737NG series. However the developers stressed that the Early Adopter phase will not affect the price of the aircraft. Threshold will keep you updated on this front. â</summary>
-    <published>2022-04-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fxhjgh</id>
     <title>FlightFX and Marwan Gharib Reach Publishing Agreement; Sets Release Price</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62760542fbf0175a9b61a988_image_15258.jpg" rel="enclosure" type="image/jpeg" length="712230"/>
     <summary>Sim: MSFS. Robert Randazzo at PMDGÂ has updated the community regarding its development whereaboutsÂ surrounding its imminent Boeing 737 release. He reiterates that, even after the release, the plane is still due for some improvements and additional work, but the team is confident that the aircraft is in a "releasable" state. The project has been a long time in the making, having been announced within the same period as MSFS's release.Â  Not a Port! Randazzo has re-emphasized that the 737 for MSFS is not simply a port from the Prepar3D version. In his own words, "Microsoft Flight simulator, when it finally arrived, offered such a magnificent visual environment that it seemed we would be missing an opportunity to do something truly wonderful if we simply dragged the 737 as-is into the new environment and handed it off to you."Â  A Gentle Reminder The PMDG 737 for MSFS will release in six-week intervals following the -700s initial release. The MAX variants are included in the lineage of products, which will come "eventually." Also incoming for the new flightsim, albeit without any additional information or timeframe, is theÂ 777Â andÂ 747 for MSFS.Â Though, both products are on the backburner for the time being while the team releases the 737 variants.Â  Some General Hype PMDG believes that Microsoft Flight Simulator "is the best simulation platform that any of the development team has ever put a product into." The developers gawked at the aircraft's beauty and performance in the simulator. As you can imagine, the 737 will deliver with a customized autopilot, flight model, systems modeling, and sound environment. Following the release, the team will be active with accomodating bug reports, and they warned users that the Ops Center would be very busy with updates in the next few days. Final Words A quick reminder for those who purchased the NGXu for P3D, you will receive a $99.99 credit towards buying the MSFS 737 product line if you acquired the aircraft before December 31st, 2019. The PDMG 737 for MSFS will be released on May 9th, 2022, asÂ the team announced on their YouTube channel.Â Threshold will keep you updated regarding pricing and additional information at the release on Monday.Â </summary>
     <published>2022-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fenday</id>
+    <title>Fenix A320 Incoming; Potential Release in "Days"</title>
+    <updated>2022-05-07T00:00:00+00:00</updated>
+    <link href="/news/fenday" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6276fa11f962ee673df2cf52_ltu.png" rel="enclosure" type="image/png" length="829329"/>
+    <summary>Sim: MSFS. Aamir at Fenix SimulationsÂ has reappeared to mentionÂ that the A320 for MSFS is incoming and that he "expects everyone here to be flying the Fenix in days, not months." This message comes after a long hiatus from the team as they've focused their development resources on ensuring the aircraft comes out in due time.Â  Aamir mentioned that the plane's release is contingent on the status of the upcoming Sim Update 9 patch, which will determine whether the A320 is ready for release, depending on its effect on the aircraft's functionality. It's anticipated that the patch will be delivered to users between now and May 17th, the next World Update.Â  Fenix's A320 is arguably the most feature-rich airliner to be delivered to a simulator;Â the team has done a fantastic job documenting their progress and updating the community with blogsÂ that outline the features of the Airbus. The team's Discord is often the medium for communication; you canÂ join it hereÂ to become involved in the community. Though we have not received any additional information from the team, for the time being, we'll ensure to keep you updated when the Fenix team decides to publish more information regarding the release of the plane.Â  (just a little sidenote, the video embedded above is from previous updates and is not from any recent "developments", and we give thanks to BiologicalNanobot for providing the screenshot!)</summary>
+    <published>2022-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bufmsf</id>
+    <title>iniScene Announces Buffalo Niagara for MSFS2020</title>
+    <updated>2022-05-07T00:00:00+00:00</updated>
+    <link href="/news/bufmsf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6276fee5e82221429982e380_280067634_1062951474646818_1866729130902131263_n.jpg" rel="enclosure" type="image/jpeg" length="712033"/>
+    <summary>Sim: MSFS. iniBuilds scenery division, iniSceneÂ has posted a previewÂ of their upcoming Buffalo Niagara (KBUF) airport for MSFS2020. The developer claims that "it is one of (their) best creations yet" and will be delivered to the new simulator soon. Buffalo Niagara International Airport serves the Buffalo, New York, metropolitan area in western New York. It's served by a slew of airlines, notably Delta, American, Frontier, JetBlue, Southwest, United, and Sun Country. The airport typically hosts approximately five million passengers per year, with its most busy route being to Orlando, Florida. iniScene's rendition of Buffalo will serve as a faithful recreation of the airport; check out the preview video onÂ their YouTube channel. As of now, the team hasn't shared any additional information, but stay tuned as the release nears.Â </summary>
+    <published>2022-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/737057</id>
+    <title>PMDG Announces 737 for MSFS Pricing</title>
+    <updated>2022-05-08T00:00:00+00:00</updated>
+    <link href="/news/737057" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62760542fbf0175a9b61a988_image_15258.jpg" rel="enclosure" type="image/jpeg" length="712230"/>
+    <summary>Sim: MSFS. In the second volume of announcements today, Robert Randazzo at PMDG simulationsÂ has detailed the pricing structureÂ for the 737 lines of products. The 737-700 will initially release via PMDG's site but eventually become available on the MSFS marketplace.Â  âPricing PMDG will be providing promotional pricing for the 737-700, at $69.99. Upon the release of the subsequent -600 variant, the price will rise to $74.99. The 737-600 will cost approximately $50, the -800 will (most likely) cost the same as the -700, and the -900 will be announced. PMDG doesn't anticipate bundling or discounting their 737 product until mid-late 2023. Move-up Program If you purchased the 737NGXu for Prepar3D during November or December 2019, you're qualified for the PMDG Move-Up program, where you will be endowed $99.99 in credit on the website to utilize towards the MSFS 737 product line. These credits will remain available through December 31, 2024. More information on this can be found in theÂ PMDGs post. Estimated Timeline for Future Variants PMDG 737-700 for MSFS: 09MAY22 PMDG 737-600 for MSFS: ~20JUN22** PMDG 737-800 for MSFS: ~01AUG22** PMDG 737-900 for MSFS: ~12SEP22** All dates are estimates and are subject to change. Final Tidbits Randazzo mentioned that the product would become available between 1700Z and 2359Z on May 9, but any delays to the product will be announced on the forums in that circumstance. If you're not up to date with the recent PMDG news,Â peek at our previous articleÂ before the product releases. Our team at Threshold is looking forward to seeing your screenshotsÂ on our Discord server!</summary>
+    <published>2022-05-08T00:00:00+00:00</published>
   </entry>
 </feed>
