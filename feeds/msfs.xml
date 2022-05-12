@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-05-10T18:29:13.186821+00:00</updated>
+  <updated>2022-05-12T18:30:29.635566+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/freedom-fox-from-parallel-42-available-today-in-the-marketplace/</id>
-    <title>Freedom Fox from Parallel 42 Available Today in the Marketplace</title>
-    <updated>2022-04-20T18:42:00+00:00</updated>
-    <link href="https://www.flightsimulator.com/freedom-fox-from-parallel-42-available-today-in-the-marketplace/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/MicrosoftTeams-image-28-1024x576.png" rel="enclosure" type="image/png" length="173320"/>
-    <summary>﻿In full collaboration with Trent Palmer, experience Freedom Fox, and a customized variant named “Fox2” with a beautiful selection of liveries. The only Kitfox you’ll ever need, now available in the Marketplace on Xbox &amp; PC.Learn more about Freedom Fox here.</summary>
-    <published>2022-04-20T18:42:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-21st-2022-development-update/</id>
     <title>April 21st, 2022 Development Update</title>
@@ -54,12 +45,13 @@
     <published>2022-05-05T21:07:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-gregory-davis/</id>
-    <title>Community Spotlight: Gregory Davis</title>
-    <updated>2022-04-19T16:30:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-gregory-davis/" rel="alternate"/>
-    <summary>In 2021, Gregory embarked on a new career challenge when he accepted the role of President of Eviation, an electric aircraft company based out of Arlington Municipal Airport (ICAO: KAWO) in the greater Seattle area. Learn more about Greg and his history playing Microsoft Flight Simulator!</summary>
-    <published>2022-04-19T16:30:30+00:00</published>
+    <id>https://www.flightsimulator.com/release-notes-1-25-9-0-sim-update-9-patch-now-available/</id>
+    <title>Release Notes (1.25.9.0) Sim Update 9 Patch Now Available!</title>
+    <updated>2022-05-11T15:27:28+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-1-25-9-0-sim-update-9-patch-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/shizhe85511526-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="111213"/>
+    <summary>Release Notes for Version 1.25.9.0 (SU9 Patch) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2022-05-11T15:27:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
@@ -74,8 +66,16 @@
     <title>Community Spotlight: Deekay</title>
     <updated>2022-05-03T16:55:22+00:00</updated>
     <link href="https://www.flightsimulator.com/community-spotlight-deekay/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MicrosoftTeams-image-26-1024x473.png" rel="enclosure" type="image/png" length="167408"/>
     <summary>We are pleased to shine the spotlight on a member of the Microsoft Flight Simulator player community from South Korea: David Kang, who goes by Deekay online. In addition to being an Orbx partner, he is also a leader of Fly Together Korea, a community of nearly 4,500 Korean flight sim enthusiasts. When not flying … Continued</summary>
     <published>2022-05-03T16:55:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/now-available-just-flight-146-professional/</id>
+    <title>Now Available: Just Flight 146 Professional</title>
+    <updated>2022-05-12T00:00:14+00:00</updated>
+    <link href="https://www.flightsimulator.com/now-available-just-flight-146-professional/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/4K_SLIDER_14-1024x575.jpg" rel="enclosure" type="image/jpeg" length="29930"/>
+    <summary>The Microsoft Flight Simulator team is thrilled to announce the release of the Just Flight 146 Professional to the in-sim Marketplace (PC, USD $64.99). Made for simmers who demand the highest attention to detail and the most accurate representation of its real-life counterpart, this plane represents one of the first true “study level” airliners available … Continued</summary>
+    <published>2022-05-12T00:00:14+00:00</published>
   </entry>
 </feed>

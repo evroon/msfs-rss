@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-05-10T18:29:14.081640+00:00</updated>
+  <updated>2022-05-12T18:30:30.506202+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bos423</id>
-    <title>FlyTampa Releases Boston for MSFS2020</title>
-    <updated>2022-04-23T00:00:00+00:00</updated>
-    <link href="/news/bos423" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62647d088afa9786a7fa2346_kbos1.jpg" rel="enclosure" type="image/jpeg" length="586532"/>
-    <summary>Sim: MSFS. Scenery developer FlyTampa has released their rendition of Boston International Airport for MSFS2020. The scenery delivers entirely accurate airport buildings, interior, and layout.Â  Boston Logan International Airport serves the Boston metropolitan area in Massachusetts. It's the 16th busiest airport in the United States, having served nearly 42 million passengers in 2019. Logan airport is a hub for both Cape Air and Delta Air Lines and a focus city for JetBlue. Numerous international airlines serve the airport, including Azores Airlines, Emirates, Cathay Pacific, El Al, etc. Boston airport features six runways, ranging from a small GA to a full-size, ten thousand foot runway. FlyTampa Boston for MSFS contains the following: You can purchase Boston for MSFS on the FlyTampa store for $18.99. It'll consume approximately 2.3GB of space after download. Make sure to keep in touch with Threshold regarding future FlyTampa news and releases.Â Â </summary>
-    <published>2022-04-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/crj900</id>
-    <title>ADSimulations Releases CRJ-900 for X-Plane 11</title>
-    <updated>2022-04-24T00:00:00+00:00</updated>
-    <link href="/news/crj900" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62659834622da42c8ec57d03_crj91.png" rel="enclosure" type="image/png" length="167217"/>
-    <summary>Sim: X-Plane. Aircraft developer ADSimulations, known for releasing the CRJ-700 for X-Plane 11, has published a sequel to the aircraft series with their new CRJ-900. The -900, first announced in early April, is an extended variant of the CRJ series. The aircraft features "basic systems" but will contain "deeper systems" in subsequent updates.Â  The Mitsubishi CRJ-900 is an extended variant of the CRJ-700 base model in the Bombardier Aerospaces' regional jet product line. It features 1,553NM of range, can accommodate up to 90 passengers, and cruises at Mach 0.82. The plane is used in various environments worldwide, though it can be found in excess with American, Delta, Lufthansa Cityline, and SAS. ADSimulations CRJ-900 has an extensive feature list, so here's a layman's version of it: ADSimulations previously mentioned that the ensuing release of the CRJ-900 will be an update to their existing CRJ-700 product.Â  If you're interested in purchasing the ADSimulations CRJ-900, you can do so on the X-Plane.org store for $49.95.Â  edit: CRJ-700 customers can get the CRJ-900 for 30% off. Please find the discount coupon in the original CRJ-700 invoice at the store.</summary>
-    <published>2022-04-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/md8042</id>
-    <title>Leonardo SH Announces Maddog Release Date for MSFS2020</title>
-    <updated>2022-04-25T00:00:00+00:00</updated>
-    <link href="/news/md8042" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6266d97b7e1473943f19a975_promo.thumb.jpg.a68be8be4eaafaf8a434f3bd11cb44bd.jpg" rel="enclosure" type="image/jpeg" length="85477"/>
-    <summary>Sim: MSFS. Stefano from Leonardo Software House has taken to the team's forums to announce that the Maddog X will be releasing on April 30th. The plane will be available via SimMarket only, for 75 Euros. He also mentioned that the aircraft would deliver with an EFB, which was not initially planned in the feature list, and a new 3D model for the passenger cabin.Â  Leonardo posted an update approximately a month ago detailing the features that users should expect in the MD-80: Fly the Maddog X MSFS version 1.0 will include: - MD82 with -217A engines, PAX Cabin 162Y, and Honeywell FMS for NAV/VNAV/ACARS; - Flight model and engines performances tested and matched against real aircraft performance tables; - All systems/avionics/tests etc., fully implemented as in the P3D version, including failures/INOPs feature, fully dimmable integral and flood lightning, working TCAS and EGPWS terrain mode; - New FMS Services page for controlling DOORS/STAIR, External power, fuel loading, etc.; - Fully integrated with MSFS ecosystem (jetway, catering, baggage loader, etc...); - Integration with PFPX/SimBrief via Load Manager and retrieval of OFP data via the ACARS system; - Livery manager and aircraft settings configurable for different aircraft; - Livery-based cockpit color (pink, blue or gray) and main panel variations (including placards and speed bugs); - Can be installed in the same machine with Fly the Maddog X for P3D; Configurable options from Load Manager:Â  - Panel state when starting simulation (Cold &amp; Dark, Ready at Gate, Ready for Takeoff...); - Weight &amp; Balance and route planner; - Load Manager units (Kg/mbar or Lbs/InHg); Aircraft options: - Cockpit units (Kg/mbar or Lbs/InHg); - PFD flight director style (cross bar or single cue), rising runway, ND wind arrow, ground speed, and aircraft map symbol, HDG UP or TRK UP option; - PFD wired to opposite NAV; - Armed altitude as FL and AutoArm altitude option; - Gear waring inhibit above 1500ft AGL; - Always play aural when autopilot disconnects; - Auto brake system; - Three VOR instrument versions: VOR/ADF/DME, VOR/ADF and VOR only; - Two altimeter versions: DUAL/SINGLE knob; - Optional TAS/SAT indicator; - Flat or Cone tail; Simulator options: - Enable failures; - Autopilot disconnect when flight controls move; - Automatic update of aircraft weight and cg; - Automatic fuel loading; - Enable PM calls; - Sync CM1/CM2; - FSUIPC compatibility mode; - Maximum luminosity of all cockpit lights and instruments (flood, integral, LED, LCD and CRT); - Failures probability, separated for LIGHT, MEDIUM, and DANGEROUS; - INOP systems according to MEL; Unfortunately, the team hasn't shared any additional information with us, but Threshold promises to keep you updated with new development sourcing from Leonardo SH!</summary>
-    <published>2022-04-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcrden</id>
     <title>X-Codr Designs Previews Denver 2.0 in X-Plane 12</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/627a0be92a65881198a3ec0c_mxi.PNG" rel="enclosure" type="image/png" length="592343"/>
     <summary>Sim: MSFS. Scenery developerÂ MXI DesignÂ has teased their upcoming rendition of Worcester Airport (KORH) for MSFS via theÂ AviationLads YouTube channel.Â The development team is responsible for other notable payware projects Svalbard, Dubrovnik, and Bern, and is diving into the United States scenery space for the first time. Worcester Regional Airport (KORH) serves the Worcester metropolitan area in Massachusetts. Featuring two runways, 7,000 and 5,000 feet, respectively, the airport hosts nearly 54,000 passengers per year. ORH is served in a limited capacity by American Eagle, Delta Connection, and JetBlue, all flights concluding in New York, with the exception of one flight to Fort Lauderdale.Â  Unfortunately, we don't have any additional information regarding the scenery's status. It's anticipated that the airport will fall within the 10-25 Euro range. If you're interested in MXI Design's Worcester Airport, keep in touch with Threshold, as we'll keep you updated with its development. special thanks to member, "Tang0" in our Discord for the tip!</summary>
     <published>2022-05-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/eidw11</id>
+    <title>Boundless Publishes Trailer Showcasing Dublin for X-Plane 11</title>
+    <updated>2022-05-12T00:00:00+00:00</updated>
+    <link href="/news/eidw11" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/627cabfee4bcd345b743ac45_eidw_Product_Page.jpg" rel="enclosure" type="image/jpeg" length="305994"/>
+    <summary>Sim: X-Plane. Scenery developer BoundlessÂ has published a trailer on their YouTube channelÂ showcasing their upcoming airport for X-Plane 11, Dublin (EIDW). The developer also announced that the project would be released on May 13th.Â  Dublin is Europe's 12th largest airport, claiming service from airlines such as Aer Lingus, Air France, American Airlines, Finnair, Etihad, and many others. The airport is a hub for Aer Lingus, Ryanair, and Tui Airways. Dublin contains two runways, for the time being, both exceeding 6700 feet (2000m), which accommodate over 32 million passengers per year. Boundless' Dublin is their "largest project to date," featuring "heavily optimized objects and textures," as well as 3D vegetation and custom placed objects.Â  Feature List: Dublin airport for X-Plane 11 will release on May 13th onÂ the Boundless store for Â£19.99Â and is expected to utilize approximately 2.2GB of space.Â  another special thanks to "Tang0" in our Discord for the tip!</summary>
+    <published>2022-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tg0512</id>
+    <title>Asobo Confirms Top Gun: Maverick DLC Release Date</title>
+    <updated>2022-05-12T00:00:00+00:00</updated>
+    <link href="/news/tg0512" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/627cb0df4616ed2bc9ae4017_dab63fd14daa33f6ce9b4bfd044529cb.jpg" rel="enclosure" type="image/jpeg" length="130375"/>
+    <summary>Sim: MSFS. The Top Gun: Maverick DLC for MSFS2020 has an official release date. TheÂ Xbox Twitter page announcedÂ that the DLC would release the day after the movie hits the screens. Users will be able to download the Maverick add-on on May 25th.Â  For the time being, users can immerse themselves in the Top Gun experience on the new "whatsmycallsign" website, so you can be prepared once the DLC releases. The movie, dubbed "Maverick," is the sequel to the original film, featuring Tom Cruise, Miles Teller, and Jennifer Connelly. Microsoft had also providedÂ a reveal trailerÂ from last June when they initially announced the additional military content for the simulator. Keep in touch with Threshold for future Top Gun Maverick DLC updates and news regarding its impending release! â</summary>
+    <published>2022-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/125909</id>
+    <title>Asobo Releases SU9 Patch - 1.25.9.0</title>
+    <updated>2022-05-12T00:00:00+00:00</updated>
+    <link href="/news/125909" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/627cb4e7ee70f39ea5369f7f_capsule_616x353.jpg" rel="enclosure" type="image/jpeg" length="108736"/>
+    <summary>Sim: MSFS. Microsoft Flight Simulator 2020 developer Asobo Studios has released a patch to counter some issues faced by users after the Sim Update 9. The team has admitted that their beta testing hasn't been sufficient in identifying problems and will continue to improve their processes to accommodate future updates better. General Bugfix 1.25.9.0 For PC users of MSFS, some packages in the community folder may have been excluded from the update, which may negatively impact MSFS's performance and behavior. Asobo advises all users to move their community package to another folder before relaunching the title, especially if they suffer from stability issues or untimely loading times. extending a special thanks to Tomcat_22 for the news tip!</summary>
+    <published>2022-05-12T00:00:00+00:00</published>
   </entry>
 </feed>
