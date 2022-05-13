@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-05-12T18:30:29.635566+00:00</updated>
+  <updated>2022-05-13T18:29:16.179448+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/april-21st-2022-development-update/</id>
-    <title>April 21st, 2022 Development Update</title>
-    <updated>2022-04-21T23:02:40+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-21st-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/A___LIVAS-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="79123"/>
-    <summary>Thank you to everyone who submitted or upvoted a question in the forums for our upcoming Dev Q&amp;A! We are taking a look now and are looking forward to chatting with you next week, April 27th at 10:30am PT (1730Z) on Twitch.</summary>
-    <published>2022-04-21T23:02:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-1-25-7-0-sim-update-ix-now-available/</id>
     <title>Release Notes (1.25.7.0) Sim Update IX Now Available!</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/shizhe85511526-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="111213"/>
     <summary>Release Notes for Version 1.25.9.0 (SU9 Patch) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2022-05-11T15:27:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-12th-2022-development-update/</id>
+    <title>May 12th, 2022 Development Update</title>
+    <updated>2022-05-12T22:11:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-12th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MihamaBlend-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="19030"/>
+    <summary>Yesterday, we released a patch to Sim Update 9 that addresses some Xbox crashes as well as some bugs that were found in the Beta. Release Notes can be found here. We are also planning to host our May Dev Q&amp;A on Wednesday, May 25th at 10:30 am PT (1730Z), the same day as the release of our free Top Gun: Maverick DLC! If you wish to ask or upvote a question, you can do so here.</summary>
+    <published>2022-05-12T22:11:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
