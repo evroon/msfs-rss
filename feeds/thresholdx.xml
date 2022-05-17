@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-05-16T18:30:16.402082+00:00</updated>
+  <updated>2022-05-17T18:29:28.772253+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vermyl</id>
-    <title>VerticalSim Releases Myrtle Beach International Aiport for MSFS</title>
-    <updated>2022-04-27T00:00:00+00:00</updated>
-    <link href="/news/vermyl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6269ad28c1744ed28d15fd52_MYR_4-uai-2064x1140.jpg" rel="enclosure" type="image/jpeg" length="387250"/>
-    <summary>Sim: MSFS. Scenery developer Verticalsim has released the highly anticipated Myrtle Beach (KYMR) for Microsoft Flight Simulator 2020. This scenery is not just the airport of the South Carolina city but it comes with the surrounding hotels too. Being used as an army base until 1948, the city of Myrtle Beach decided there was not a need for an airport in the area, though funds were allocated. With the land being annexed in 1977, the property was used as a join civil-military airport, though it severely limited the number of civilian flights. Years later in 1996, the airport gained international status with new terminals with an influence from the local beaches. The airport served over 2.4 million passengers in 2018, being the second busiest airport in South Carolina. The product comes with many features that portray the quality work of Verticalsim. Starting off, the 2022 layout of the airport is included along with proper taxi signage. Custom jetways compatible with the SAM plugin are also a part of this package. Some hotels outside the airport grounds have been modeled to add extra depth to the surrounding area.Â  If you are interested in picking this visual rendition of Myrtle Beach for yourself, you can find over on the simMarket store, and sells for $13.87. If you are interested in other various scenery packages developed my Verticalsim, you can check out their website to view the assortment of sceneries for XP11 and MSFS.</summary>
-    <published>2022-04-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mfs146</id>
     <title>Just Flight Releases BAE146 for MSFS </title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6281a51f44647e4431ff5718_tap.jpg" rel="enclosure" type="image/jpeg" length="216630"/>
     <summary>Sim: X-Plane. Earlier this week, developer Flight Sim Labs released an update on the progress of their various upcoming aircrafts. Though most of the update focused on the advances made on their P3D projects, the team also briefly touched on their development plan for Microsoft Flight Simulator. Please note that all pictures are from FSLabsâ A320-X for P3D. According to FSLabs, they have actively been investigating the best way to introduce their products to the new simulator, searching for a way that will enable them to âmaintain a common code base that keeps a high level of realism and fidelity as regards the flight model characteristics the customer base has been used to up to nowâ. Additionally, it is announced that the team is currently working on developing the A320NEO for P3D, an aircraft that will eventually be brought to MSFS along with other aircrafts in the A320-X Master Series lineup. The team also revealed that the Concorde will be released first for P3D and will be brought to MSFS on a later date. Previews of the aircraft (most likely for P3D) will be shared in the next six to eight weeks. Finally, the developers confirmed that the A3XX product they have been teasing is indeed the A330, teasing that more information will soon be released. It isnât mentioned, however, if the aircraft will be brought to MSFS. Currently, FSLabs has yet to announce any release dates or time line for its MSFS aircrafts. Threshold will keep you updated on this front. â</summary>
     <published>2022-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kastxp</id>
+    <title>Skyline Simulations Release Astoria Regional Airport for X-Plane</title>
+    <updated>2022-05-17T00:00:00+00:00</updated>
+    <link href="/news/kastxp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/628367261797bd00d48ec761_k23.jpg" rel="enclosure" type="image/jpeg" length="145219"/>
+    <summary>Sim: X-Plane. Astoria Regional Airport is a joint civil-military public. Currently, the airport is not serving any airline flights. It is mostly used as a military airport serving the United States Air Force and the US Coast Guard, frequently taking their helicopters out for search and rescue missions. The airport used to serve flights to Portland International Airport with SeaPort Airlines with fares as little as $49 each way.Â  The product has been ported over from MSFS, allowing users to be able to fly in and out across multiple platforms. However, with porting does come miss accuracies in the SDK. However, the team has done a good job to flatten any issues out, making it an all-around good product. Skyline Simulations have utilised the latest development tools when their rendition with fully detailed PBR ground textures, Landmarks, and detailed night textures. Along with this, the developer has also attached a feature list of everything included in their rendition of Astoria Regional Airport.Â  Skyline Simulations Astoria Regional Airport costs $20 USD Excl VAT and can be purchased from the X-Plane.org Store or their website.</summary>
+    <published>2022-05-17T00:00:00+00:00</published>
   </entry>
 </feed>
