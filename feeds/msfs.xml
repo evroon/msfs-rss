@@ -2,80 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-05-18T18:28:35.730387+00:00</updated>
+  <updated>2022-06-06T18:26:46.345803+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/</id>
-    <title>Famous Flyer II: Gee Bee Model Z Super Sportster and Model R-2 Super Sportster</title>
-    <updated>2022-04-26T15:24:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-ii-gee-bee-model-z-super-sportster-and-model-r-2-super-sportster/" rel="alternate"/>
-    <summary>﻿Microsoft Flight Simulator’s latest Famous Flyer offerings take you into the cockpits of the most legendary speed kings of the Golden Age of Flight: The Gee Bee Model Z and the Gee Bee Model R-2. These Super Sportsters dominated air racing at the sport’s peak in the early 1930s, and they continue to captivate imaginations … Continued</summary>
-    <published>2022-04-26T15:24:37+00:00</published>
+    <id>https://www.flightsimulator.com/may-19th-2022-development-update/</id>
+    <title>May 19th, 2022 Development Update</title>
+    <updated>2022-05-19T23:11:56+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-19th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/paulyoungphotos-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="33730"/>
+    <summary>With the release of World Update IX: Italy and Malta, a mandatory update for the generic airport data folder on Xbox was also pushed which led to an increase of crashes on launch for both Xbox Series X|S and Xbox Cloud Gaming.  We have identified the specific crash instances and plan to release a hot fix as quickly as possible (we are targeting Friday) to get Xbox and Xbox Cloud Gaming users up and running again. A flight is now available to join, details within.</summary>
+    <published>2022-05-19T23:11:56+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-deekay/</id>
-    <title>Community Spotlight: Deekay</title>
-    <updated>2022-05-03T16:55:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-deekay/" rel="alternate"/>
-    <summary>We are pleased to shine the spotlight on a member of the Microsoft Flight Simulator player community from South Korea: David Kang, who goes by Deekay online. In addition to being an Orbx partner, he is also a leader of Fly Together Korea, a community of nearly 4,500 Korean flight sim enthusiasts. When not flying … Continued</summary>
-    <published>2022-05-03T16:55:22+00:00</published>
+    <id>https://www.flightsimulator.com/become-a-top-gun-pilot-in-free-expansion-available-today/</id>
+    <title>Become a Top Gun Pilot in Free Expansion Available Today</title>
+    <updated>2022-05-25T15:46:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/become-a-top-gun-pilot-in-free-expansion-available-today/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MSFS_TopGunMaverick_Screenshots_01-1024x576.png" rel="enclosure" type="image/png" length="140759"/>
+    <summary>We are thrilled to announce that, today Microsoft Flight Simulator released the long-awaited “Top Gun: Maverick” expansion. Develop the skills required and navigate the complexities encountered by actual Top Gun pilots in authentic locations including the most challenging landing – on an aircraft carrier. This offering will push your piloting abilities to the limits—and beyond.</summary>
+    <published>2022-05-25T15:46:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-26th-2022-development-update/</id>
+    <title>May 26th, 2022 Development Update</title>
+    <updated>2022-05-26T21:20:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-26th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/YusufWardana-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97527"/>
+    <summary>Screenshot by YusufWardana (Forum) We are thrilled to announce that Microsoft Flight Simulator released the long-awaited “Top Gun: Maverick” expansion. Develop the skills required and navigate the complexities encountered by actual Top Gun pilots in authentic locations including the most challenging landing – on an aircraft carrier. This offering will push your piloting abilities to the … Continued</summary>
+    <published>2022-05-26T21:20:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-2nd-2022-development-update/</id>
+    <title>June 2nd, 2022 Development Update</title>
+    <updated>2022-06-02T22:20:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-2nd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/phsch03-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="46595"/>
+    <summary>Screenshot by phsch03 (Forum)We are excited to release our long-awaited Local Legends #4 – The Savoia Marchetti S.55, now available in the Marketplace for PC and Xbox! Learn more about the aircraft here. We will soon add the aircraft manual as well, which will be located here once live.MSFS TeamDevelopment RoadmapClick here for the web-friendly … Continued</summary>
+    <published>2022-06-02T22:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/mk-studios-sale/</id>
+    <title>MK-STUDIOS Sale</title>
+    <updated>2022-06-03T15:00:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/mk-studios-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MK_SaleImage_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="104728"/>
+    <summary>9 Items On Sale Now in the Marketplace.</summary>
+    <published>2022-06-03T15:00:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/now-available-just-flight-146-professional/</id>
     <title>Now Available: Just Flight 146 Professional</title>
     <updated>2022-05-12T00:00:14+00:00</updated>
     <link href="https://www.flightsimulator.com/now-available-just-flight-146-professional/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/4K_SLIDER_14-1024x575.jpg" rel="enclosure" type="image/jpeg" length="29930"/>
     <summary>The Microsoft Flight Simulator team is thrilled to announce the release of the Just Flight 146 Professional to the in-sim Marketplace (PC, USD $64.99). Made for simmers who demand the highest attention to detail and the most accurate representation of its real-life counterpart, this plane represents one of the first true “study level” airliners available … Continued</summary>
     <published>2022-05-12T00:00:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/may-5th-2022-development-update/</id>
-    <title>May 5th, 2022 Development Update</title>
-    <updated>2022-05-05T21:07:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-5th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/Speedbrake22-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="66283"/>
-    <summary>Thank you for providing feedback since the release of Sim Update 9! At this time, we are hard at work on a patch that will fix some of the emerging issues we have seen this past week. We are excited to share more details and patch notes soon.</summary>
-    <published>2022-05-05T21:07:49+00:00</published>
+    <id>https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/</id>
+    <title>Wings Over the Web: A Look at Formation Flying</title>
+    <updated>2022-05-19T23:11:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/" rel="alternate"/>
+    <summary>We are very excited about Microsoft Flight Simulator’s first virtual airshow that we will be streaming on our official Twitch channel on May 22, 2022! Organized by the Flight Simulator Thunderbirds members Chunky, Logic, and Slim, the  Wings Over the Web Airshow  brings together four virtual display teams, and seven individual performers, to create stunning air displays born … Continued</summary>
+    <published>2022-05-19T23:11:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-25-9-0-sim-update-9-patch-now-available/</id>
-    <title>Release Notes (1.25.9.0) Sim Update 9 Patch Now Available!</title>
-    <updated>2022-05-11T15:27:28+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-25-9-0-sim-update-9-patch-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/04/shizhe85511526-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="111213"/>
-    <summary>Release Notes for Version 1.25.9.0 (SU9 Patch) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-05-11T15:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/may-12th-2022-development-update/</id>
-    <title>May 12th, 2022 Development Update</title>
-    <updated>2022-05-12T22:11:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-12th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MihamaBlend-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="19030"/>
-    <summary>Yesterday, we released a patch to Sim Update 9 that addresses some Xbox crashes as well as some bugs that were found in the Beta. Release Notes can be found here. We are also planning to host our May Dev Q&amp;A on Wednesday, May 25th at 10:30 am PT (1730Z), the same day as the release of our free Top Gun: Maverick DLC! If you wish to ask or upvote a question, you can do so here.</summary>
-    <published>2022-05-12T22:11:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-25-9-0-world-update-ix-italy-now-available/</id>
-    <title>Release Notes (1.25.9.0) World Update IX: Italy and Malta Now Available!</title>
-    <updated>2022-05-17T13:02:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-25-9-0-world-update-ix-italy-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/WU_ITALY_HeroShot_Venice_03R_4K-1024x576.png" rel="enclosure" type="image/png" length="304887"/>
-    <summary>Release Notes for Version 1.25.9.0 (World Update IX: Italy and Malta) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-05-17T13:02:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-ix-sale/</id>
-    <title>World Update IX Sale</title>
-    <updated>2022-05-17T14:57:44+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-ix-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/StoreSale_WU9_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="155073"/>
-    <summary>28 Items On Sale Now in the Marketplace</summary>
-    <published>2022-05-17T14:57:44+00:00</published>
+    <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
+    <title>Local Legend IV: Savoia-Marchetti S.55</title>
+    <updated>2022-06-02T16:34:47+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MSFS_S55_Screenshots_10-89113556fceba0b2e590-1024x576.jpg" rel="enclosure" type="image/jpeg" length="47991"/>
+    <summary>Today we are pleased to introduce the fourth plane in the Microsoft Flight Simulator “Local Legends” series, the S.55. The “Local Legends” series celebrates the history of aviation and this plane, a twin-engine flying boat produced by Italian aviation manufacturer Savoia-Marchetti of Milan, is linked to our most recent World Update IX: Italy and Malta. It features a … Continued</summary>
+    <published>2022-06-02T16:34:47+00:00</published>
   </entry>
 </feed>
