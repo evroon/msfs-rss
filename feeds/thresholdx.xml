@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-06T18:26:49.901482+00:00</updated>
+  <updated>2022-06-07T18:26:31.346685+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lkprxp</id>
-    <title>Orbx Release Prague for X-Plane </title>
-    <updated>2022-05-20T00:00:00+00:00</updated>
-    <link href="/news/lkprxp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62877fe134d5027199eeaf53_6273597a60eca.jpeg" rel="enclosure" type="image/jpeg" length="433845"/>
-    <summary>Sim: X-Plane. To complete the collection covering all 3 main simulators, orbx has released Prague for X-Plane. The capital city of the Czech Republic offers over 120 routes across Europe and beyond with 50 different airlines. Tourist can enter and visit one of Europe's largest cities to seek famous architecture as well as historical museums. The airport comes with a handful of features, including 21 Points of interest around the airport region. These add subtle features to the airport, adding an amazing approach and departure. Furthermore, the airport comes with a custom ground poly allowing variations in the runway and slopes and rises on taxiways.Â  Along with the release, orbx also attached a feature list: Orbx Prague can be purchased from orbx direct for $27.83 AUD Excl Vat. They are also offering a Prague bundle where you can get all 3 renditions for 20% off.</summary>
-    <published>2022-05-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lrxp12</id>
-    <title>Laminar Research Publishes X-Plane 12 Development Update</title>
-    <updated>2022-05-22T00:00:00+00:00</updated>
-    <link href="/news/lrxp12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6289bfbb8579a6a5637c2b55_267858219_10158174229516283_1901376959439531799_n.jpeg" rel="enclosure" type="image/jpeg" length="226536"/>
-    <summary>Sim: X-Plane. Earlier this week, Laminar Research published a new development update for the much anticipated X-Plane 12. The update provides a quick glance at the state of the upcoming simulator plus a brief summary of features that are complete and ones that still need additional work. According to the developers, the next milestone for the team is to release the simulator in early access. In early access, X-Plane 12, priced at $59.99, will be open for the public to purchase on X-plane.com or Steam. Users who choose to buy the simulator during this stage will receive digital keys to both X-Plane 12 and 11. DVD editions of X-Plane 12, however, will not be available for purchase until the end of Early Access. Next up, the developers addressed their progress on various aspects of the simulator. The team confirmed that the flight model, weather engine, and ATC are mostly complete, though small improvements, optimizations, and final reviews still need to be done. As for the scenery, features such as animated jetways, rain/Snow shaders, and modular tower building kit have been completed, though features such as 3D tree performance improvements, boat/seaplane 3D wake drawing, and eclectic passenger buses still need work. Finally, the update indicates that all default aircrafts except for the A330 (need custom coded FMS) and F14 (need liveries and finalization of cockpit details) have been completed. The full list of progress updates can be found here. Currently, the developers are yet to announce a release date for X-Plane 12 early access. Threshold will keep you updated on this front. â</summary>
-    <published>2022-05-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ege202</id>
     <title>Xometry Posts Trailer of Upcoming Eagle County Airport for MSFS2020</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629db7d8db3dbefc6a0d23c8_wing-tra-737_orig.png" rel="enclosure" type="image/png" length="1701430"/>
     <summary>Sim: MSFS. Creators of Rotterdam-The Hague for Microsoft Flight Simulator, RDPresets have announced that Naplesâ airport will be their next pursuit for the platform.  With this news the developer doubles the number of projects theyâve got on the go, as work on Marseille continues concurrently. â[Marseille] has hit some major bumps in the road, some items failed our Quality Assurance and are requiring some remodelling, this will take time and has set Marseille back two release slots, meaning as it stands two other airports will come before it." The developer explains that the delay is necessary to ensure quality. "But this does allow me to announce you our first new airport which is in Italian [sic], âAeroporto di Napoliâ." "Weâre incredibly proud of how this product is currently being developed and itâs going at an incredible pace. Weâre using a new texture method ensuring a higher texture resolution, but at the same time using less texture sets. "It took us some time to perfect this and arguably weâre still learning it, but we feel it is really good already and worthy enough to put it above our current Rotterdam airport quality." RDPresets want to go 'the extra mile' in ground detailing with Naples, saying that the final product will 'truly give you an idea of arriving or departing [at an airport with proper weathering]. They have not offered a release date as yet, but maintain that the first in-sim images of Naples will debut shortly. It was also revealed in the development update that the brand is working on a hub software for their products. The software will be called RDHome. See the source post for this article on the RDPresets website.</summary>
     <published>2022-06-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mvpcce</id>
+    <title>Milviz Discusses Updates for PC-6 Porter and Cessna 310R</title>
+    <updated>2022-06-06T00:00:00+00:00</updated>
+    <link href="/news/mvpcce" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629e70ea2b797332fd34fdff_286338871_5346744258703239_4442868559021534495_n.jpeg" rel="enclosure" type="image/jpeg" length="465253"/>
+    <summary>Sim: MSFS. The tail-dragging turboprop PC-6 Porter from Milviz will shortly see an update according to developers, who are currently working on 'stage 2' of the Pilatus craft. The aircraft was first released for Microsoft Flight Simulator in September 2021 in a typical land-faring configuration. Milviz's stage 2 is set add floats and tundra tyres to the available set-ups. An option for an older steam gauge cockpit with 'multiple radio options' will also be available according to the developer. Speaking to the status of the update, the team had this to say -- "Development is ongoing, but we are a bit behind schedule. Hope to have some pics with the floats in the coming weeks." Stage 2 of Milviz's PC-6 Porter will see a price rise for new customers, but existing users will be able to upgrade for free. The developer says that your initial purchase will entitle you to any future updates for this products. In the same Facebook post, the team also made brief mention of their latest release, the Cessna 310R. The twin piston craft's service pack is "nearly finished!" See the source post for this article on Facebook.</summary>
+    <published>2022-06-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42mex</id>
+    <title>Parallel42 Announces New Airstrip; 'Scenes' to Sell Separately</title>
+    <updated>2022-06-07T00:00:00+00:00</updated>
+    <link href="/news/p42mex" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629ef27127ce87013d8a92d5_0_bETJs4vXIrxSLDhT.jpeg" rel="enclosure" type="image/jpeg" length="289353"/>
+    <summary>Sim: X-Plane. Parallel42 continues their unique âscenesâ series with Mexican Mountain, a bush camping spot in Green River, Utah. The series is tailor-made for the groupâs FreedomFox aircraft, which was released in December 2021. âScenesâ, small fictional airstrips dotted around Microsoft Flight Simulatorâs backcountry, come free to customers of the FreedomFox and are stocked with plenty of room to park up on multiplayer adventures.Â  Edson Soriano, managing director at Parallel42 commented that the dioramas âcontinue bringing value to your time flying FF/F2.â The latest creation in the series, Mexican Mountain â which has been given the fictional ICAO â42MXâ â has been made in collaboration with several real-world pilots operating in the area. Green River makes for a dramatic backdrop for bush flying, with large elevation changes, ridges, cliffs and pinnacles but to name a few prominent features. âMexican Mountain truly isâ¦out there, the views are tremendous, &amp; youâll have plenty of places to practice STOL landings nearby and youâre a short hop away from Moab.â Mexican Mountain will be available for free to owners of the FreedomFox Complete Package (incl. all Orbx customers) and will be available separately on the Microsoft Marketplace for $7.99 USD.Â  Starting with Mexican Mountain, previously released âscenesâ will also be migrated to the Marketplace so users without the FreedomFox Complete Package can use the strips too.</summary>
+    <published>2022-06-07T00:00:00+00:00</published>
   </entry>
 </feed>
