@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-07T18:26:31.346685+00:00</updated>
+  <updated>2022-06-08T18:27:36.150169+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ege202</id>
-    <title>Xometry Posts Trailer of Upcoming Eagle County Airport for MSFS2020</title>
-    <updated>2022-05-22T00:00:00+00:00</updated>
-    <link href="/news/ege202" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6289e0ebe507205036462477_xometryege.png" rel="enclosure" type="image/png" length="383391"/>
-    <summary>Sim: MSFS. Xometry, the well-known scenery developer in the X-Plane and MSFS space, has returned to the iniBuildsÂ YouTube channel with a trailerÂ of their upcoming Eagle County airport for MSFS2020. Eagle is the second scenery in the developer's MSFS lineup, as they're responsible for the recently-released Victorville airport.Â  Eagle County airport is located in the Rocky Mountains in Colorado. It poses a difficult challenge as its geography is located in a narrow valley, and high elevation prevents larger aircraft from operating on the field. Airlines such as American, Delta, and United service the airport with A319s, B737s, and regional jets.Â Â  iniBuilds YouTube channel did not mention a feature list, though here's the feature list from Xometry's EGEÂ for X-Plane 11: iniBuilds has not detailed EGE's release yet, but theÂ X-Plane 11 versionÂ of the airport is currently for sale for 14.99GBP and consumes nearly 2GB when downloaded. If you're interested in EGE for MSFS, keep up to date with Threshold, as we'll post any new details as soon as they come out.Â </summary>
-    <published>2022-05-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hjet31</id>
     <title>HJet for Microsoft Flight Simulator by Marwan Gharib Releasing May 31st </title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629ef27127ce87013d8a92d5_0_bETJs4vXIrxSLDhT.jpeg" rel="enclosure" type="image/jpeg" length="289353"/>
     <summary>Sim: X-Plane. Parallel42 continues their unique âscenesâ series with Mexican Mountain, a bush camping spot in Green River, Utah. The series is tailor-made for the groupâs FreedomFox aircraft, which was released in December 2021. âScenesâ, small fictional airstrips dotted around Microsoft Flight Simulatorâs backcountry, come free to customers of the FreedomFox and are stocked with plenty of room to park up on multiplayer adventures.Â  Edson Soriano, managing director at Parallel42 commented that the dioramas âcontinue bringing value to your time flying FF/F2.â The latest creation in the series, Mexican Mountain â which has been given the fictional ICAO â42MXâ â has been made in collaboration with several real-world pilots operating in the area. Green River makes for a dramatic backdrop for bush flying, with large elevation changes, ridges, cliffs and pinnacles but to name a few prominent features. âMexican Mountain truly isâ¦out there, the views are tremendous, &amp; youâll have plenty of places to practice STOL landings nearby and youâre a short hop away from Moab.â Mexican Mountain will be available for free to owners of the FreedomFox Complete Package (incl. all Orbx customers) and will be available separately on the Microsoft Marketplace for $7.99 USD.Â  Starting with Mexican Mountain, previously released âscenesâ will also be migrated to the Marketplace so users without the FreedomFox Complete Package can use the strips too.</summary>
     <published>2022-06-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ownrel</id>
+    <title>RWY26 Debuts in MSFS with Teaser &amp; Release of Owen Roberts Intl. Airport</title>
+    <updated>2022-06-08T00:00:00+00:00</updated>
+    <link href="/news/ownrel" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629ff2f20ddc54e420f6d68a_omg.jpeg" rel="enclosure" type="image/jpeg" length="528129"/>
+    <summary>Sim: MSFS. A few hours ago, Runway 26 Simulations has officially made their debut on Microsoft Flight Simulator with the announcement of their first product on the platform, Owen Roberts International Airport (MWCR). Shortly after the news drop, the team got it released on SimMarket. The real airport is the main international gateway for the Cayman Islands. Consisting of a single 2,398 runway with a recently upgraded terminal, the airport is home to the nationâs flag carrier, Cayman Airways and sees over 1 million passengers traversing through the airport. The airport is a major facilitator to Cayman Islandsâ reliance on imported goods, processing 1.5 million and a quarter of a million pounds of cargo and mail respectively. In a Facebook post briefly captioned âBehold... First scenery for MSFS2020â¦â The team also dropped a trailer on their YouTube channel, providing a quick walkthrough of the airport rendition. On the product page, thereâs not much in the way of information, with the notable omission of a basic feature list. We do know that it comes at a rather light 175MB package. The developer is recognised for its scenery creations focused around Central America, and the push into MSFS with the West Carribean airport is something to be expected. If youâre up for some scenic flying, you could begin your journey by exploring George Town. The airport, priced at 15 Euros - is an accessible ask. Presumably, this will mark the beginning of more caribbean airports to come, particularly from Runway 26, stay tuned as weâll keep you in the loop on future developments from the development team.</summary>
+    <published>2022-06-08T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-07T18:26:28.056781+00:00</updated>
+  <updated>2022-06-08T18:27:33.297677+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-ix-sale/</id>
-    <title>World Update IX Sale</title>
-    <updated>2022-05-17T14:57:44+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-ix-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/StoreSale_WU9_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="155073"/>
-    <summary>28 Items On Sale Now in the Marketplace</summary>
-    <published>2022-05-17T14:57:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/update-on-xbox-and-xbox-cloud-gaming-launch-issue/</id>
-    <title>Update on Xbox and Xbox Cloud Gaming Launch Issue</title>
-    <updated>2022-05-19T00:11:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/update-on-xbox-and-xbox-cloud-gaming-launch-issue/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/Not-sure-1024x498.png" rel="enclosure" type="image/png" length="273571"/>
-    <summary>Yesterday after the release of World Update IX: Italy and Malta, Xbox and Xbox Cloud Gaming users began to hit a crash on launch that prevented them from playing the sim. We released a server-side fix this morning to prevent any further Xbox or Xbox Cloud Gaming users from hitting this crash.</summary>
-    <published>2022-05-19T00:11:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-19th-2022-development-update/</id>
     <title>May 19th, 2022 Development Update</title>
@@ -52,6 +34,24 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/YusufWardana-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97527"/>
     <summary>Screenshot by YusufWardana (Forum) We are thrilled to announce that Microsoft Flight Simulator released the long-awaited “Top Gun: Maverick” expansion. Develop the skills required and navigate the complexities encountered by actual Top Gun pilots in authentic locations including the most challenging landing – on an aircraft carrier. This offering will push your piloting abilities to the … Continued</summary>
     <published>2022-05-26T21:20:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-2nd-2022-development-update/</id>
+    <title>June 2nd, 2022 Development Update</title>
+    <updated>2022-06-02T22:20:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-2nd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/phsch03-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="46595"/>
+    <summary>Screenshot by phsch03 (Forum)We are excited to release our long-awaited Local Legends #4 – The Savoia Marchetti S.55, now available in the Marketplace for PC and Xbox! Learn more about the aircraft here. We will soon add the aircraft manual as well, which will be located here once live.MSFS TeamDevelopment RoadmapClick here for the web-friendly … Continued</summary>
+    <published>2022-06-02T22:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/mk-studios-sale/</id>
+    <title>MK-STUDIOS Sale</title>
+    <updated>2022-06-03T15:00:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/mk-studios-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MK_SaleImage_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="104728"/>
+    <summary>9 Items On Sale Now in the Marketplace.</summary>
+    <published>2022-06-03T15:00:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/now-available-just-flight-146-professional/</id>
