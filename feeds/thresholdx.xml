@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-08T18:27:36.150169+00:00</updated>
+  <updated>2022-06-09T18:27:13.198224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/hjet31</id>
-    <title>HJet for Microsoft Flight Simulator by Marwan Gharib Releasing May 31st </title>
-    <updated>2022-05-26T00:00:00+00:00</updated>
-    <link href="/news/hjet31" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/628f062f99e95b60925375a2_62757e1417be36da0161cadd_11.1.PNG" rel="enclosure" type="image/png" length="2835360"/>
-    <summary>Sim: X-Plane. Earlier this week, FlightFX revealed that the HJet, developed by Marwan Gharib, will be released next Tuesday, May 31st. The jet, featuring custom coded systems, high quality textures, and detailed exterior models, will be a unique addition to the business jet lineup for Microsoft Flight Simulator on both PC and XBOX. The HJet, developed entirely by Marwan over the past three years, will carry "an array of features, improvements, and personal touches that will make this aircraft impossible to step away from". The jet has been furnished with PBR textures, custom GPU, animated cabin/cargo doors, and hundreds of animated surfaces in both the cockpit and the cabin. Apart from the detailed modeling, the aircraft will also be equipped with a custom G3000 suite that includes the Touch Screen Controller, built- in checklists, and a custom PFD Crew Alert System. In addition, the HJet will come with custom fuel, electrical, and HVAC systems that mirror the handling and performance characteristics of the plane's real life counterpart. For a complete list of features for the HJet, visit FlightFX  The aircraft, according to the developer, will be priced at $24.99 USD and available for purchase on the Marketplace. For additional information on the HJet, check out another Threshold article.</summary>
-    <published>2022-05-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/es5232</id>
-    <title>Biological Nanobot Updates Enhanced Skyscapes</title>
-    <updated>2022-05-27T00:00:00+00:00</updated>
-    <link href="/news/es5232" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62905904db959da46a7d5d5b_ezgif-4-9ff0f646e8.jpg" rel="enclosure" type="image/jpeg" length="66978"/>
-    <summary>Sim: X-Plane. Enhanced Skyscapes developer Biological Nanobot has published an update for the X-Plane 11 program. The "visual solution for X-Plane 11" replaces the default sky and clouds with realistic shader-based sky and fully volumetric clouds. It's fully compatible with weather injection add-ons, including but not limited to Active Sky XP and FS Global Real Weather. The update brings some hefty changes to the program, detailed below: Aspiring users of Enhanced Skyscapes can obtain the program on the Threshold store for 15.00USD. BioNanobot has provided prospective buyers a 20-minute demo to test the product before making their final purchase decision.</summary>
-    <published>2022-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jf146u</id>
-    <title>Just Flight Releases v0.1.3 for 146 Professional</title>
-    <updated>2022-05-27T00:00:00+00:00</updated>
-    <link href="/news/jf146u" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62905c277a3259af7813237a_146-professional-microsoft-flight-simulator_14_ss_l_220429142651.jpg" rel="enclosure" type="image/jpeg" length="566302"/>
-    <summary>Sim: MSFS. Earlier this week, developer Just Flight released an extensive update for its popular 146 Professional. The new update, pushed to the community as version 0.1.3, brings a wide array of bug fixes and quality of life improvements that promises to enhance the user experience of the aircraft. According to the developer, the update fixed bugs in the planeâs autopilot, including VOR, DME, and LNAV/FMS tracking. Cockpit modeling and animations such as the cabin window rain effect are also added or revised. Furthermore, tutorial flight files have been added and tweaks to the VR experience have been implemented. These improvements are only a fraction of the ones Just Flight are bringing to the 146. For the complete list of changes, visit the developerâs website. Just Flightâs 146 Professional, released earlier this month, is a study-level recreation of the iconic BAE 146 regional jet, including realistic performance, a custom EFB, and all eight variants of the aircraft. For more information on the 146, checkout a previous Threshold article. Currently, the 146 Professional can be purchased on Just Flightâs webstore for $64.99 USD. Owners of the aircraft will be receiving the newest update for free.</summary>
-    <published>2022-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/storms</id>
-    <title>SoFly Previews STORMS for MSFS</title>
-    <updated>2022-05-31T00:00:00+00:00</updated>
-    <link href="/news/storms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6295925b21533896c8e83519_STORM-by-SoFly-21.jpg" rel="enclosure" type="image/jpeg" length="342369"/>
-    <summary>Sim: MSFS. Earlier this week, add-on developer SoFly released a trailer for its upcoming STORMS for Microsoft Flight Simulator. The add-on, available for purchase starting May 31st, will bring an array of extreme weather presets to the MSFS, including accurately constructed hurricanes and terrifying super storms that will pose refreshing challenges for every pilot. According to the developers, the add-on will introduce to the simulator a wide range of weather presets. Users can choose from a wide selection of hurricanes (both historical and fictional), super storms, and global presets. Each of the presets will recreate the corresponding extreme weather in every detail from wind conditions to location. In addition to the weather presets, STORM will also bring a series of missions such as discovery flights that will enable users to admire the spectacle of extreme weather, educational flights that will provide the community with a brief historical background for each hurricane, and landing challenges that are designed to test even the most seasoned pilots. For a complete list of missions and presets, check out the productâs manual. Currently, the add-on is scheduled to be released on Tuesday, May 31st, though the pricing is yet to be revealed. Threshold will keep you updated on this front. â</summary>
-    <published>2022-05-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/atr053</id>
     <title>MSFS2020 Upcoming ATR 42/72 Update</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629ff2f20ddc54e420f6d68a_omg.jpeg" rel="enclosure" type="image/jpeg" length="528129"/>
     <summary>Sim: MSFS. A few hours ago, Runway 26 Simulations has officially made their debut on Microsoft Flight Simulator with the announcement of their first product on the platform, Owen Roberts International Airport (MWCR). Shortly after the news drop, the team got it released on SimMarket. The real airport is the main international gateway for the Cayman Islands. Consisting of a single 2,398 runway with a recently upgraded terminal, the airport is home to the nationâs flag carrier, Cayman Airways and sees over 1 million passengers traversing through the airport. The airport is a major facilitator to Cayman Islandsâ reliance on imported goods, processing 1.5 million and a quarter of a million pounds of cargo and mail respectively. In a Facebook post briefly captioned âBehold... First scenery for MSFS2020â¦â The team also dropped a trailer on their YouTube channel, providing a quick walkthrough of the airport rendition. On the product page, thereâs not much in the way of information, with the notable omission of a basic feature list. We do know that it comes at a rather light 175MB package. The developer is recognised for its scenery creations focused around Central America, and the push into MSFS with the West Carribean airport is something to be expected. If youâre up for some scenic flying, you could begin your journey by exploring George Town. The airport, priced at 15 Euros - is an accessible ask. Presumably, this will mark the beginning of more caribbean airports to come, particularly from Runway 26, stay tuned as weâll keep you in the loop on future developments from the development team.</summary>
     <published>2022-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dcf15u</id>
+    <title>DC Designs Updates F-15 Eagle for Microsoft Flight Simulator</title>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <link href="/news/dcf15u" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1c2c7136b9a0e4636524f_284544172_3265782867076023_2111639058208303226_n.png" rel="enclosure" type="image/png" length="416453"/>
+    <summary>Sim: MSFS. Military aircraft developer DC Designs have released a new update for their F-15 Eagle product for Microsoft Flight Simulator. The McDonnell Douglas craft was first made available on the platform in January 2021. The update was quietly added to the Just Flight website today, with some of the main drawcards being a new fly-by-wire control system and re-done cockpit and instrument panels. Hereâs the full changelog: DC Designsâ F-15 Eagle, which includes the C, D, E and I variants, is available for purchase through Just Flightâs online store. It retails at $40.99 USD.</summary>
+    <published>2022-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/assfra</id>
+    <title>Aviotek Showcase First Screenshots of Frankfurt (EDDF) for X-Plane</title>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <link href="/news/assfra" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1c7c791183b53a0b7ef48_287006497_1925031934362597_6289553976030141825_n.jpeg" rel="enclosure" type="image/jpeg" length="136348"/>
+    <summary>Sim: X-Plane. Being both Germanyâs busiest airport and Lufthansaâs primary hub, Flughafen Frankfurt is a large undertaking for any scenery developer, perhaps none less so than Aviotek Simulation Software, whom began on the airport in late 2020. Today, the group published the first in-simulator screenshots of EDDF, which will be coming to both X-Plane and Microsoft Flight Simulator. It appears to be the former that the developer tackles first, as the images, posted on Facebook, come from Laminarâs sim. X-Plane has traditionally been the home of Aviotek, who have previously released five products for the platform via X-Aviation. âNow itâs time to fill the ramp with our pretty vehicles and equipment,â reads the social media post. âThere are still some improvements required, objects to be placed and bugs to fix, but the team is working day and night to deliver the best rendition possible for both the simulators, so you can really feel-there.â There is no release date or price that has been made available as yet. It is also not clear whether the Microsoft Flight Simulator rendition of Frankfurt will be available at the same time. You can find out more about Aviotekâs Frankfurt project in a previous article.</summary>
+    <published>2022-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vskboi</id>
+    <title>Verticalsim Announces Boise for Microsoft Flight Simulator</title>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <link href="/news/vskboi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1ced70fb718609759fdbf_287024476_4807808412656800_2786903833022319994_n.jpeg" rel="enclosure" type="image/jpeg" length="161459"/>
+    <summary>Sim: MSFS. Boiseâs relatively small airfield makes headlines for the second time this week with another developer announcing theyâre bringing Gowen Field to Microsoft Flight Simulator. This time, the creator is Verticalsim. The scenery-maker has previously covered KBOI in X-Plane and in-line with previous releases, is now working on bringing their extensive catalogue of products for Laminarâs sim over to Microsoft Flight Simulator. Verticalsim published the following feature list with the announcement: Though a release date has not been mentioned, users likely wonât have to wait long for Boise to launch as based on previous releases Verticalsim tends to have a very short turnaround. Threshold will keep you posted.</summary>
+    <published>2022-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ausham</id>
+    <title>AUscene Teases Hamilton Island Airport for Microsoft Flight Simulator</title>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <link href="/news/ausham" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1d4302cfb6ba96ea3783d_284513968_514946167039563_5900949890880924501_n.jpeg" rel="enclosure" type="image/jpeg" length="218117"/>
+    <summary>Sim: MSFS. Australian tourist destination Hamilton Island and its airport, YBHM, has received more attention today in the form of a new development update from AUscene. The airfield is one of two projects the developer currently has underway for Microsoft Flight Simulator. On release, Hamilton Island will move alongside the developerâs âReefworldâ area scenery covering the Great Barrier Reef. The two will be offered as a bundle pack due to their proximity. Todayâs development update focused on the terminalâs interior, which the developer initially debated whether to include at all. âAfter much consideration we decided to add the Terminal Interior and are excited to finally be able to share some previews with you all! Hamilton Island will be our most extensive product with plenty of details for you to discover at the Airport, Marina, Resort and Dent Island.â See the source post for this article on Facebook.</summary>
+    <published>2022-06-09T00:00:00+00:00</published>
   </entry>
 </feed>
