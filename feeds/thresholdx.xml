@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-10T18:28:46.256623+00:00</updated>
+  <updated>2022-06-11T18:25:04.101479+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/atr053</id>
-    <title>MSFS2020 Upcoming ATR 42/72 Update</title>
-    <updated>2022-05-31T00:00:00+00:00</updated>
-    <link href="/news/atr053" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6295ae94529bd97db2053d6d_atrasobo1.jpg" rel="enclosure" type="image/jpeg" length="311422"/>
-    <summary>Sim: MSFS. MSFS developers, Asobo Studios, have revealed more information about their upcoming ATR 42/72 for MSFS2020. The team hosted a Q&amp;A on their Twitch channel, which was laterÂ posted on YouTubeÂ for the community to recap. Asobo claims that they plan on the aircraft being available for both the PC and Xbox platforms.Â  The ATR 72 is a twin-engine turboprop airline produced by the French and Italian aircraft manufacturer ATR. "72" denotes that the aircraft presents a capacity of 72-78 passengers in a single class arrangement. The "72" is the larger variant of the ATR series, developed from the ATR 42. Currently, approximately 1,000 ATRs fly worldwide, primarily with IndiGo, Air New Zealand, Wings Air, and Azul Linhas Aereas.Â  Asobo has outlined the following details about the upcoming release: Hans believes it's still too early to comment on the aircraft's release date, but keep on the lookout for more news regarding the upcoming ATR series for MSFS2020!</summary>
-    <published>2022-05-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fse223</id>
     <title>FSA Announces FlightSimExpo 2023 Dates and Location</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1d4302cfb6ba96ea3783d_284513968_514946167039563_5900949890880924501_n.jpeg" rel="enclosure" type="image/jpeg" length="218117"/>
     <summary>Sim: MSFS. Australian tourist destination Hamilton Island and its airport, YBHM, has received more attention today in the form of a new development update from AUscene. The airfield is one of two projects the developer currently has underway for Microsoft Flight Simulator. On release, Hamilton Island will move alongside the developerâs âReefworldâ area scenery covering the Great Barrier Reef. The two will be offered as a bundle pack due to their proximity. Todayâs development update focused on the terminalâs interior, which the developer initially debated whether to include at all. âAfter much consideration we decided to add the Terminal Interior and are excited to finally be able to share some previews with you all! Hamilton Island will be our most extensive product with plenty of details for you to discover at the Airport, Marina, Resort and Dent Island.â See the source post for this article on Facebook.</summary>
     <published>2022-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcdsrr</id>
+    <title>X-Codr Designs Releases Sedona Red Rocks for Microsoft Flight Simulator</title>
+    <updated>2022-06-11T00:00:00+00:00</updated>
+    <link href="/news/xcdsrr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a40727f36d7d0ea90ba84a_Screen%20Shot%202022-06-10%20at%2011.08.20%20PM.png" rel="enclosure" type="image/png" length="2179245"/>
+    <summary>Sim: X-Plane. Earlier this week, X-Codr Designs released Sedona Red Rocks for Microsoft Flight Simulator. The scenery, which comes with detailed models/textures and custom orthoimagery, will provide users with an immersive flight in the stunning Sedona region of Arizona, allowing them to experience the areaâs famous geological wonders. According to the developers, an array of different rock formations ranging from Cathedral Rock to Capitol Butte are hand modeled and textured after their real life counterparts in Sedona.  â Additionally, NAIP orthoimagery has beenused to âcover up glaring shadowsâ while performance has been optimized to minimize the sceneryâs impact on the usersâ computers. Finally, Sedona Airport (default or X-Codrâs upcoming rendition) has been seamlessly blended into this product. For a complete list of features,, visit the developerâs website. Currently, the Sedona Red Rocks by X-Codr Designs can be purchased in the MSFS MarketPlace for $14.99 USD. For other Microsoft Flight Simulator news, check out another Threshold article.</summary>
+    <published>2022-06-11T00:00:00+00:00</published>
   </entry>
 </feed>
