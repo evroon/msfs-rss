@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-11T18:25:04.101479+00:00</updated>
+  <updated>2022-06-12T18:25:03.943859+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fse223</id>
-    <title>FSA Announces FlightSimExpo 2023 Dates and Location</title>
-    <updated>2022-06-03T00:00:00+00:00</updated>
-    <link href="/news/fse223" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5b50f45f22ba1b84d4a3c4ad_Screen%20Shot%202018-07-19%20at%203.27.42%20PM.png" rel="enclosure" type="image/png" length="46563"/>
-    <summary>Sim: X-Plane. Flight Sim Association has announced the dates and location of FlightSimExpo 2023! The event is one of the world's largest dedicated flight simulation conferences. Since 2018, over 3,500 attendees have attended Las Vegas, Orlando, and San Diego events. Similar to 2021, the event will be held in a hybrid online and in-person setting.Â  We are happy to announce that the venue and location for FSExpo 2023 is the Lone Star Flight Museum at Ellington Airport (EFD) in Houston, Texas! According to FSA, "the 130,000 square foot museum and learning center has ample space for more than 2,000 attendees across two air-conditioned hangars." Other facilities surrounding the area are the Texas Aviation Hall of Fame and learning exhibits that include Redbird flight training devices. FSExpo 2023 will be held from June 23rd to June 25th, with the 23rd being an "add-on series of group discussions" before the in-person conference on June 24th and 25th.Â  Ellington Airport is approximately 15 minutes drive away from Hobby Airport (HOU) and 35 minutes from Intercontinental (IAH). FSA's Evan Reiter writes that the venue is working with hotels, airlines, and rental car companies to secure discounted rates for attendees. They're also anticipating that attendees will be able to "add-on" experiences at NASA, ATC facilities, and more.Â  Registration for the event will begin in December. More information regarding hotels, attractions, and travel will be available later this year. Hopeful attendees of FSExpo can monitor their website to keep up to date with all new information regarding the upcoming event!</summary>
-    <published>2022-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/737uap</id>
-    <title>PMDG 737-700 for MSFS Updated, -600 Previewed</title>
-    <updated>2022-06-04T00:00:00+00:00</updated>
-    <link href="/news/737uap" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629bdc88175235796b98e634_PMDG_600_screenshots4.jpeg" rel="enclosure" type="image/jpeg" length="1454491"/>
-    <summary>Sim: MSFS. The youngest siblings of the 737 family have seen some limelight on the PMDG Forum today with group chief executive Robert Randazzo announcing the release of the productâs first update post-launch. A subsequent post published shortly after gives further insight into the next entry in the series, the 737-600. Firstly though, the changes list for the -700. Randazzo describes the foremost changes: â[The update] comes with a number of changes and improvements, including updated models and associated textures, a significant update to the sound engine and dozens upon dozens of small tweaks, adjustments and improvements.â Version 3.00.0020 of the PMDG 737-700 brings the following 69 changes: Updating the product can be done via the PMDG Operations Center. Randazzo notes that some may experience some sound issues on the first post-update run of the 737. âWe have traced this to the manner in which the sim caches sounds, and it can be easily corrected by simply running the airplane, then exiting back to the world menu and launching the aircraft a second time. For reasons we don't yet understand, the sim does not update the cache on the first run, but it does on the second launch and from then on you will be fine without further need to tinker.âÂ  Turning to the -600 variant of the 737, the âthoroughbredâ Baby Boeing is running approximately seven to nine days behind the schedule dictated by PMDG in the lead up to the first variantâs release.Â  Robert Randazzo maintains that due to some âslopâ accounted for in the release schedule, the -600 âmay still roll out on timeâ later this month, and that any delay on the little brother will not have any effect on the 737-800, slated for early August. The post then launches into detailing a number of new advancements coming both for the -600 and 737 series as a whole. âFor a few years now, we have been at work conducting a full rebuild on the lateral and vertical path modeling capability for the PMDG FMS used by all of our Boeing airliners.â âThe good news is that we are preparing to insert it into testing within the PMDG 737 for MSFS, and it will then roll out to you in the forum of a free update. This modern path modeling has been something we have been building toward for some time and it will dramatically improve the accuracy of how PMDG airliners move through the sky in a 3D pathway âConcurrent with the Lateral/Vertical Path Module we have been working to build out a proper flight director roll and pitch module based upon input from some of the industryâs leading flight control logic engineers and our in house mathematical wizard. âThis has been under initial iteration testing and will also roll out as a free update shortly.â On the topic of the Universal Flight Tablet, the team remains relatively tight-lipped on progress, with Randazzo suspecting that he may have given away too much information in last weekâs update. Today, he offers a few words to the effect of âsoonâ. Other miscellaneous topics covered include another reminder to customers of the 737 NGXu who purchased in November and December 2019 that a $99.99 credit remains available for their use on the PMDG webstore and that another update for the 737 will be due ânext weekâ. See the source posts for this article on the PMDG Forum.</summary>
-    <published>2022-06-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/oblmme</id>
     <title>Orbx Announces Landmarks Melbourne for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a40727f36d7d0ea90ba84a_Screen%20Shot%202022-06-10%20at%2011.08.20%20PM.png" rel="enclosure" type="image/png" length="2179245"/>
     <summary>Sim: X-Plane. Earlier this week, X-Codr Designs released Sedona Red Rocks for Microsoft Flight Simulator. The scenery, which comes with detailed models/textures and custom orthoimagery, will provide users with an immersive flight in the stunning Sedona region of Arizona, allowing them to experience the areaâs famous geological wonders. According to the developers, an array of different rock formations ranging from Cathedral Rock to Capitol Butte are hand modeled and textured after their real life counterparts in Sedona.  â Additionally, NAIP orthoimagery has beenused to âcover up glaring shadowsâ while performance has been optimized to minimize the sceneryâs impact on the usersâ computers. Finally, Sedona Airport (default or X-Codrâs upcoming rendition) has been seamlessly blended into this product. For a complete list of features,, visit the developerâs website. Currently, the Sedona Red Rocks by X-Codr Designs can be purchased in the MSFS MarketPlace for $14.99 USD. For other Microsoft Flight Simulator news, check out another Threshold article.</summary>
     <published>2022-06-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lmmelb</id>
+    <title>Landmarks Melbourne by Orbx Now Available</title>
+    <updated>2022-06-11T00:00:00+00:00</updated>
+    <link href="/news/lmmelb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a523d5c1fdbb460479f0d5_629-da56ab81442ca2bd8215be740378f006.jpg" rel="enclosure" type="image/jpeg" length="1383373"/>
+    <summary>Sim: MSFS. Home to the Australian Open, the Australian Grand Prix, and Orbx's Australian Headquarters, Melbourne is the group's latest destination in the Landmarks series and was made available yesterday. The product boasts another 200 points of interest over the simulator's default skyline from World Update 7 -- which Orbx also had a hand in creating. "Welcome to the cultural and sports capital of Australia and the hometown of Orbx!" reads the product description. "With about a third of its current five million residents born outside of Australia, Melbourneâs skyline mirrors its inhabitantsâ diversity, from Gold Rush and Victorian architecture to ultra-modern skyscrapers." The feature list reads: Landmarks Melbourne is available for $17.89 AUD (US$12.62 | â¬11,99 | Â£10.24) from OrbxDirect. To see more images, check out a previous article.</summary>
+    <published>2022-06-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsrpro</id>
+    <title>FSRealistic Pro Released</title>
+    <updated>2022-06-12T00:00:00+00:00</updated>
+    <link href="/news/fsrpro" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a52b4474c14f14cf317a77_unknown%20(1).png" rel="enclosure" type="image/png" length="3111061"/>
+    <summary>Sim: MSFS. Effects management system FSRealistic 'Core' has now been available for seven months, having been initially released in November 2021. In the time since, rkApps have taken to improving upon the work seen in that product with the new FSRealistic Pro. The 'Pro' version builds upon the effects included in 'Core', with the developer proclaiming a "growing list of 28" different interactions. Speaking to Threshold, the developer explains the leap forward that the 'Pro' version has made:  "After a long period of time that Asobo didn't support camera movements, it has recently released a partial support and we have now finally managed to make a breakthrough with amazing real camera effects to create a more-than-ever realistic flight experience." "We are proud to be the first company to offer such level of realism and excited to offer you [the chance] to join the ride!" FSRealistic Pro is available for EUR 28.00 from simMarket here. Users of 'Core' are able to upgrade at a discounted price of EUR 5.60. Threshold is giving away two copies of FSRealistic Pro to readers of this article. To enter, simply write a comment below this article. The winners will be drawn in 24 hours.</summary>
+    <published>2022-06-12T00:00:00+00:00</published>
   </entry>
 </feed>
