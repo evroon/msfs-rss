@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-12T18:25:00.988069+00:00</updated>
+  <updated>2022-06-13T18:29:11.374594+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/become-a-top-gun-pilot-in-free-expansion-available-today/</id>
-    <title>Become a Top Gun Pilot in Free Expansion Available Today</title>
-    <updated>2022-05-25T15:46:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/become-a-top-gun-pilot-in-free-expansion-available-today/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/MSFS_TopGunMaverick_Screenshots_01-1024x576.png" rel="enclosure" type="image/png" length="140759"/>
-    <summary>We are thrilled to announce that, today Microsoft Flight Simulator released the long-awaited “Top Gun: Maverick” expansion. Develop the skills required and navigate the complexities encountered by actual Top Gun pilots in authentic locations including the most challenging landing – on an aircraft carrier. This offering will push your piloting abilities to the limits—and beyond.</summary>
-    <published>2022-05-25T15:46:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-26th-2022-development-update/</id>
     <title>May 26th, 2022 Development Update</title>
@@ -52,6 +43,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/spitice0-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="40768"/>
     <summary>In last week’s Development Roadmap update, you may have noticed the change in date of Sim Update 10 from July to August. Our team is hard at work on fixes and features we hope you’ll love, as many have been community requests since the launch of the sim. Our newly updated Feedback Snapshot below lists out some of those features coming soon such as Bush Trip fixes, weather improvements, DX12, DLSS, and more.</summary>
     <published>2022-06-09T23:10:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulators-40th-anniversary-edition/</id>
+    <title>Microsoft Flight Simulator’s 40th Anniversary Edition</title>
+    <updated>2022-06-12T17:59:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulators-40th-anniversary-edition/" rel="alternate"/>
+    <summary>The 40th Anniversary Edition, a completely free offering for those who already own Microsoft Flight Simulator or play it via Xbox Game Pass, is a comprehensive celebration of the franchise with both a tribute to our past as well as an introduction to new and highly anticipated aircraft types. The nod to the past will re-introduce some classic … Continued</summary>
+    <published>2022-06-12T17:59:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/</id>
