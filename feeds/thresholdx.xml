@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-13T18:29:12.032642+00:00</updated>
+  <updated>2022-06-14T18:28:13.432848+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mynnfs</id>
-    <title>Sierrasim Announces Nassau-Lynden Pindling for Microsoft Flight Simulator</title>
-    <updated>2022-06-06T00:00:00+00:00</updated>
-    <link href="/news/mynnfs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629d53fcacf98ec96a558cad_285190442_3484183708475644_8869966591637855385_n.jpeg" rel="enclosure" type="image/jpeg" length="181174"/>
-    <summary>Sim: MSFS. Scenery developer Sierrasim Simulation has announced their latest product for Microsoft Flight Simulator: Nassauâs Lynden Pindling Airport (MYNN) in the Bahamas. The airport will be native to the platform, as the development group has not previously tackled Nassau for other simulators. The news was publicised via Facebook, in which is short post was shared. âComing Soon - MYNN- Lynden Pindling International Airport MSFS PC/Xbox" Watch this space for further news. Check out the group's previous release, Olaya Herrera Airport (SKMD), in another article.</summary>
-    <published>2022-06-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rdnapl</id>
     <title>RDPresets Debut Naples Airport in Latest Development Update</title>
@@ -150,6 +141,15 @@
     <link href="/news/aphdhc" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a6472acf79f600ffd92934_3.jpg" rel="enclosure" type="image/jpeg" length="880498"/>
     <summary>Sim: MSFS. A second developer has now gone public on a deal struck with Microsoft for Flight Simulator's 40th Anniversary Update, this being Aeroplane Heaven and the aircraft in development the legendary DC-3. Similar to iniBuilds, the other developer signed on with Microsoft for the update, the developer has been under NDA on all news surrounding the project. Speaking on Facebook, the developer maintains that "the package will be the self-same one as we would release ourselves with other advantages yet to come." "The sounds have now been completed by the best in the business and a new flight model is also now complete, authored by another top FM coder." "As part of the Anniversary celebrations we will be bringing you all the liveries we have shown you, in a special add-on package absolutely free. We will now be able to bring you updates both here and with Microsoft, as the package progresses to release in November." Later in the day, the developer also showcased another aircraft which will shortly be added to their range: the DHC-1 Chipmunk. The deHavilland craft was teased in a single image posted on Facebook, proclaiming its 'very' soon arrival. The so-called 'poor man's Spitfire' does not appear to be part of the 40th Anniversary Update and thus will be a payware product. See both of these items on Aeroplane Heaven's Facebook page. Alternatively, check out the large number of aircraft coming to Microsoft Flight Simulator with the 40th Anniversary Update in a dedicated article here.</summary>
+    <published>2022-06-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/drzewiecki-design-released-rzeszow-jasionka-airport-eprz-for-microsoft-flight-simulator</id>
+    <title>Drzewiecki Design Released RzeszÃ³w-Jasionka Airport (EPRZ) for Microsoft Flight Simulator</title>
+    <updated>2022-06-13T00:00:00+00:00</updated>
+    <link href="/news/drzewiecki-design-released-rzeszow-jasionka-airport-eprz-for-microsoft-flight-simulator" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a7c836f0923513c0157793_297387_EPRZ_MSFS_11.jpg" rel="enclosure" type="image/jpeg" length="1796359"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Drzewiecki Design released RzeszÃ³w-Jasionka Airport (EPRZ) for Microsoft Flight Simulator. The product, an accurate rendition of the southeastern Polish airport, features high quality textures/models and serves as the gateway for pilots looking to venture into eastern Europe. According to the developers, the airport is created based on the latest layout of its real life counterpart. The scenery features high definition PBR textures and mesh, as well as detailed models, custom night lighting, and terminal interiors. Additionally, the airport has been optimized for performance and is FPS-friendly without sacrificing any realism. Finally, the scenery also includes RzeszÃ³w City landmarks scattered in the region around the airport in order to further increase the usersâ immersion. For a full list of features, visit the developerâs website. Currently, the scenery can be purchased on simMarket for EUR 15 or USD 15.87. The developers recommend users to have at least 1.6GB of free space on their hard drives in order to successfully install the product. For information on other Drzewiecki Design products, checkout another Threshold article.</summary>
     <published>2022-06-13T00:00:00+00:00</published>
   </entry>
 </feed>

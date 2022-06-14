@@ -2,12 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-13T18:29:11.374594+00:00</updated>
+  <updated>2022-06-14T18:28:10.308224+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
+  <entry>
+    <id>https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/</id>
+    <title>Wings Over the Web: A Look at Formation Flying</title>
+    <updated>2022-05-19T23:11:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/" rel="alternate"/>
+    <summary>We are very excited about Microsoft Flight Simulator’s first virtual airshow that we will be streaming on our official Twitch channel on May 22, 2022! Organized by the Flight Simulator Thunderbirds members Chunky, Logic, and Slim, the  Wings Over the Web Airshow  brings together four virtual display teams, and seven individual performers, to create stunning air displays born … Continued</summary>
+    <published>2022-05-19T23:11:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
+    <title>Local Legend IV: Savoia-Marchetti S.55</title>
+    <updated>2022-06-02T16:34:47+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/" rel="alternate"/>
+    <summary>Today we are pleased to introduce the fourth plane in the Microsoft Flight Simulator “Local Legends” series, the S.55. The “Local Legends” series celebrates the history of aviation and this plane, a twin-engine flying boat produced by Italian aviation manufacturer Savoia-Marchetti of Milan, is linked to our most recent World Update IX: Italy and Malta. It features a … Continued</summary>
+    <published>2022-06-02T16:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>
+    <title>Community Spotlight: Wings over Iowa</title>
+    <updated>2022-06-10T15:49:08+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-wings-over-iowa/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/7G5A1886-1024x683.jpg" rel="enclosure" type="image/jpeg" length="52549"/>
+    <summary>This past weekend, NGPA (National Gay Pilots Association) hosted a first-of-its-kind event: a fly-in to Cedar Rapids, Iowa to celebrate aviation and pride called Wings Over Iowa. On Friday, June 3rd, over 100 members flew in, some with their own aircraft, and got together to celebrate. Read more about the experience within!</summary>
+    <published>2022-06-10T15:49:08+00:00</published>
+  </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-26th-2022-development-update/</id>
     <title>May 26th, 2022 Development Update</title>
@@ -49,32 +74,8 @@
     <title>Microsoft Flight Simulator’s 40th Anniversary Edition</title>
     <updated>2022-06-12T17:59:00+00:00</updated>
     <link href="https://www.flightsimulator.com/microsoft-flight-simulators-40th-anniversary-edition/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/40th_Anniversary-1024x576.png" rel="enclosure" type="image/png" length="240515"/>
     <summary>The 40th Anniversary Edition, a completely free offering for those who already own Microsoft Flight Simulator or play it via Xbox Game Pass, is a comprehensive celebration of the franchise with both a tribute to our past as well as an introduction to new and highly anticipated aircraft types. The nod to the past will re-introduce some classic … Continued</summary>
     <published>2022-06-12T17:59:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/</id>
-    <title>Wings Over the Web: A Look at Formation Flying</title>
-    <updated>2022-05-19T23:11:01+00:00</updated>
-    <link href="https://www.flightsimulator.com/wings-over-the-web-a-look-at-formation-flying/" rel="alternate"/>
-    <summary>We are very excited about Microsoft Flight Simulator’s first virtual airshow that we will be streaming on our official Twitch channel on May 22, 2022! Organized by the Flight Simulator Thunderbirds members Chunky, Logic, and Slim, the  Wings Over the Web Airshow  brings together four virtual display teams, and seven individual performers, to create stunning air displays born … Continued</summary>
-    <published>2022-05-19T23:11:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
-    <title>Local Legend IV: Savoia-Marchetti S.55</title>
-    <updated>2022-06-02T16:34:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/" rel="alternate"/>
-    <summary>Today we are pleased to introduce the fourth plane in the Microsoft Flight Simulator “Local Legends” series, the S.55. The “Local Legends” series celebrates the history of aviation and this plane, a twin-engine flying boat produced by Italian aviation manufacturer Savoia-Marchetti of Milan, is linked to our most recent World Update IX: Italy and Malta. It features a … Continued</summary>
-    <published>2022-06-02T16:34:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>
-    <title>Community Spotlight: Wings over Iowa</title>
-    <updated>2022-06-10T15:49:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-wings-over-iowa/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/7G5A1886-1024x683.jpg" rel="enclosure" type="image/jpeg" length="52549"/>
-    <summary>This past weekend, NGPA (National Gay Pilots Association) hosted a first-of-its-kind event: a fly-in to Cedar Rapids, Iowa to celebrate aviation and pride called Wings Over Iowa. On Friday, June 3rd, over 100 members flew in, some with their own aircraft, and got together to celebrate. Read more about the experience within!</summary>
-    <published>2022-06-10T15:49:08+00:00</published>
   </entry>
 </feed>
