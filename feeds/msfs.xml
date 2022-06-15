@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-14T18:28:10.308224+00:00</updated>
+  <updated>2022-06-15T18:27:24.268314+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/7G5A1886-1024x683.jpg" rel="enclosure" type="image/jpeg" length="52549"/>
     <summary>This past weekend, NGPA (National Gay Pilots Association) hosted a first-of-its-kind event: a fly-in to Cedar Rapids, Iowa to celebrate aviation and pride called Wings Over Iowa. On Friday, June 3rd, over 100 members flew in, some with their own aircraft, and got together to celebrate. Read more about the experience within!</summary>
     <published>2022-06-10T15:49:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/may-26th-2022-development-update/</id>
-    <title>May 26th, 2022 Development Update</title>
-    <updated>2022-05-26T21:20:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-26th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/05/YusufWardana-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97527"/>
-    <summary>Screenshot by YusufWardana (Forum) We are thrilled to announce that Microsoft Flight Simulator released the long-awaited “Top Gun: Maverick” expansion. Develop the skills required and navigate the complexities encountered by actual Top Gun pilots in authentic locations including the most challenging landing – on an aircraft carrier. This offering will push your piloting abilities to the … Continued</summary>
-    <published>2022-05-26T21:20:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-2nd-2022-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/40th_Anniversary-1024x576.png" rel="enclosure" type="image/png" length="240515"/>
     <summary>The 40th Anniversary Edition, a completely free offering for those who already own Microsoft Flight Simulator or play it via Xbox Game Pass, is a comprehensive celebration of the franchise with both a tribute to our past as well as an introduction to new and highly anticipated aircraft types. The nod to the past will re-introduce some classic … Continued</summary>
     <published>2022-06-12T17:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/release-notes-1-26-5-0-world-update-x-usa-now-available/</id>
+    <title>Release Notes (1.26.5.0) World Update X: USA Now Available!</title>
+    <updated>2022-06-14T18:38:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-1-26-5-0-world-update-x-usa-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MSFS_WU10_US_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="221846"/>
+    <summary>﻿World Update X captures the spirit of the United States of America and all of its exquisite landscapes, cityscapes, and breathtaking vistas to enjoy from above in Microsoft Flight Simulator.Explore the renowned canyons of the Desert Southwest, roam throughout storied architecture of America’s great cities, and soar among peaks that tower miles above their surroundings … Continued</summary>
+    <published>2022-06-14T18:38:04+00:00</published>
   </entry>
 </feed>
