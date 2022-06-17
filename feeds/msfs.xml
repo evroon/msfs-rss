@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-16T18:28:56.416239+00:00</updated>
+  <updated>2022-06-17T18:28:26.489546+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2022-06-10T15:49:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/june-2nd-2022-development-update/</id>
-    <title>June 2nd, 2022 Development Update</title>
-    <updated>2022-06-02T22:20:00+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-2nd-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/phsch03-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="46595"/>
-    <summary>Screenshot by phsch03 (Forum)We are excited to release our long-awaited Local Legends #4 – The Savoia Marchetti S.55, now available in the Marketplace for PC and Xbox! Learn more about the aircraft here. We will soon add the aircraft manual as well, which will be located here once live.MSFS TeamDevelopment RoadmapClick here for the web-friendly … Continued</summary>
-    <published>2022-06-02T22:20:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/mk-studios-sale/</id>
-    <title>MK-STUDIOS Sale</title>
-    <updated>2022-06-03T15:00:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/mk-studios-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MK_SaleImage_v01-1024x576.jpg" rel="enclosure" type="image/jpeg" length="104728"/>
-    <summary>9 Items On Sale Now in the Marketplace.</summary>
-    <published>2022-06-03T15:00:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/june-9th-2022-development-update/</id>
     <title>June 9th, 2022 Development Update</title>
     <updated>2022-06-09T23:10:36+00:00</updated>
@@ -77,5 +59,23 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MSFS_WU10_US_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="221846"/>
     <summary>﻿World Update X captures the spirit of the United States of America and all of its exquisite landscapes, cityscapes, and breathtaking vistas to enjoy from above in Microsoft Flight Simulator.Explore the renowned canyons of the Desert Southwest, roam throughout storied architecture of America’s great cities, and soar among peaks that tower miles above their surroundings … Continued</summary>
     <published>2022-06-14T18:38:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-16-2022-development-update/</id>
+    <title>June 16, 2022 Development Update</title>
+    <updated>2022-06-16T23:03:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-16-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/ElfinAardvark40-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="59720"/>
+    <summary>Screenshot by ElfinAardvark40 (Forum)Last weekend, the Microsoft Flight Simulator team was proud to join our colleagues in presenting at the Xbox &amp; Bethesda Games Showcase. In case you missed it, here are the highlights for MSFS: Microsoft Flight Simulator 40th Anniversary Edition A free upgrade to all current MSFS players launching in November 2022. New additions … Continued</summary>
+    <published>2022-06-16T23:03:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/justsim-sale/</id>
+    <title>JustSim Sale</title>
+    <updated>2022-06-17T17:03:08+00:00</updated>
+    <link href="https://www.flightsimulator.com/justsim-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/JustSimSale2022_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="166626"/>
+    <summary>26 Items On Sale Now in the Marketplace. Enjoy discounted pricing on Marketplace content from JustSim!</summary>
+    <published>2022-06-17T17:03:08+00:00</published>
   </entry>
 </feed>

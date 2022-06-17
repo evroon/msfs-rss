@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-16T18:28:57.162502+00:00</updated>
+  <updated>2022-06-17T18:28:27.334250+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rdnapl</id>
-    <title>RDPresets Debut Naples Airport in Latest Development Update</title>
-    <updated>2022-06-06T00:00:00+00:00</updated>
-    <link href="/news/rdnapl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/629db7d8db3dbefc6a0d23c8_wing-tra-737_orig.png" rel="enclosure" type="image/png" length="1701430"/>
-    <summary>Sim: MSFS. Creators of Rotterdam-The Hague for Microsoft Flight Simulator, RDPresets have announced that Naplesâ airport will be their next pursuit for the platform.  With this news the developer doubles the number of projects theyâve got on the go, as work on Marseille continues concurrently. â[Marseille] has hit some major bumps in the road, some items failed our Quality Assurance and are requiring some remodelling, this will take time and has set Marseille back two release slots, meaning as it stands two other airports will come before it." The developer explains that the delay is necessary to ensure quality. "But this does allow me to announce you our first new airport which is in Italian [sic], âAeroporto di Napoliâ." "Weâre incredibly proud of how this product is currently being developed and itâs going at an incredible pace. Weâre using a new texture method ensuring a higher texture resolution, but at the same time using less texture sets. "It took us some time to perfect this and arguably weâre still learning it, but we feel it is really good already and worthy enough to put it above our current Rotterdam airport quality." RDPresets want to go 'the extra mile' in ground detailing with Naples, saying that the final product will 'truly give you an idea of arriving or departing [at an airport with proper weathering]. They have not offered a release date as yet, but maintain that the first in-sim images of Naples will debut shortly. It was also revealed in the development update that the brand is working on a hub software for their products. The software will be called RDHome. See the source post for this article on the RDPresets website.</summary>
-    <published>2022-06-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mvpcce</id>
     <title>Milviz Discusses Updates for PC-6 Porter and Cessna 310R</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a7c836f0923513c0157793_297387_EPRZ_MSFS_11.jpg" rel="enclosure" type="image/jpeg" length="1796359"/>
     <summary>Sim: MSFS. Earlier this week, scenery developer Drzewiecki Design released RzeszÃ³w-Jasionka Airport (EPRZ) for Microsoft Flight Simulator. The product, an accurate rendition of the southeastern Polish airport, features high quality textures/models and serves as the gateway for pilots looking to venture into eastern Europe. According to the developers, the airport is created based on the latest layout of its real life counterpart. The scenery features high definition PBR textures and mesh, as well as detailed models, custom night lighting, and terminal interiors. Additionally, the airport has been optimized for performance and is FPS-friendly without sacrificing any realism. Finally, the scenery also includes RzeszÃ³w City landmarks scattered in the region around the airport in order to further increase the usersâ immersion. For a full list of features, visit the developerâs website. Currently, the scenery can be purchased on simMarket for EUR 15 or USD 15.87. The developers recommend users to have at least 1.6GB of free space on their hard drives in order to successfully install the product. For information on other Drzewiecki Design products, checkout another Threshold article.</summary>
     <published>2022-06-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ppegaa</id>
+    <title>PYREEGUE Dev Co. Previews Belfast Airport (EGAA) for Microsoft Flight Simulator</title>
+    <updated>2022-06-16T00:00:00+00:00</updated>
+    <link href="/news/ppegaa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ab9f64b1aa9917b4774100_Screenshot_3.thumb.png.e4f8bdd13e4a90635c1ccabb5b7db807.png" rel="enclosure" type="image/png" length="577474"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer PYREEGUE published a short update on its upcoming Belfast/Aldergrove International Airport (EGAA) for Microsoft Flight Simulator. In the update, the team previews the modeling, texturing, and lighting of the airport through a series of short videos, demonstrating their progress and the new technologies being implemented on the scenery. Based on the videos, it can be concluded that the airport's terminal has been mostly completed. As the plane taxied toward the gate, we can see that the overall building, signage, small objects (ground vehicles, AC units, etc), and lighting are almost fully modeled and textured. Additionally, we can see through the buildingâs window into the terminal interior where everything from chairs, vending machines, and walking passengers have been modeled/animated. According to the developers, what is being shown in the videos only represent a small portion of ânew crazy thingsâ that Belfast Airport will feature. The team also hinted that the new features brought to Belfast will come to âgreat stuffâ featured in EGAA will eventually be integrated into its other airports, starting with EGPH before moving to EGPF, EGNX and EGPD. Currently, the developers are yet to announce a release date and pricing for Belfast airport, though they did indicate that they âare not far from releaseâ. Threshold will keep you updated on this front. For more information on the scenery, check out a previous Threshold article.  â</summary>
+    <published>2022-06-16T00:00:00+00:00</published>
   </entry>
 </feed>
