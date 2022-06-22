@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-21T18:27:58.518951+00:00</updated>
+  <updated>2022-06-22T18:30:59.349009+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/assfra</id>
-    <title>Aviotek Showcase First Screenshots of Frankfurt (EDDF) for X-Plane</title>
-    <updated>2022-06-09T00:00:00+00:00</updated>
-    <link href="/news/assfra" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1c7c791183b53a0b7ef48_287006497_1925031934362597_6289553976030141825_n.jpeg" rel="enclosure" type="image/jpeg" length="136348"/>
-    <summary>Sim: X-Plane. Being both Germanyâs busiest airport and Lufthansaâs primary hub, Flughafen Frankfurt is a large undertaking for any scenery developer, perhaps none less so than Aviotek Simulation Software, whom began on the airport in late 2020. Today, the group published the first in-simulator screenshots of EDDF, which will be coming to both X-Plane and Microsoft Flight Simulator. It appears to be the former that the developer tackles first, as the images, posted on Facebook, come from Laminarâs sim. X-Plane has traditionally been the home of Aviotek, who have previously released five products for the platform via X-Aviation. âNow itâs time to fill the ramp with our pretty vehicles and equipment,â reads the social media post. âThere are still some improvements required, objects to be placed and bugs to fix, but the team is working day and night to deliver the best rendition possible for both the simulators, so you can really feel-there.â There is no release date or price that has been made available as yet. It is also not clear whether the Microsoft Flight Simulator rendition of Frankfurt will be available at the same time. You can find out more about Aviotekâs Frankfurt project in a previous article.</summary>
-    <published>2022-06-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vskboi</id>
     <title>Verticalsim Announces Boise for Microsoft Flight Simulator</title>
@@ -150,6 +141,15 @@
     <link href="/news/rksiup" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b14d8ab1b014932dd68bf5_289440864_3126141987634129_7456268730579559754_n.jpg" rel="enclosure" type="image/jpeg" length="514219"/>
     <summary>Sim: MSFS. Pacific Islands Simulations has recently published on its Facebook page a short update on its upcoming Incheon/Songdo Airport (RKSI) scenery for Microsoft Flight Simulator, informing the community on the teamâs progress over the past few weeks and showcasing a few new previews. According to the developers, the terminal interiors have mostly been completed. From the pictures, we can see that the team has modeled and textured everything from the escalator, the glass doom, and shops such as Dunkin Donuts in great detail.  In addition to work on the interior, the taxiways, parking lots, drainage systems, and traffic tunnels have also been added - progress that is very much evident on the previews posted. Though the team has yet to set a firm release date for the product, they teased that development has entered the âfinal phasesâ for the airport. Currently, the developers are yet to announce the pricing of the product. Threshold will keep you updated on this front. For now, check out another Threshold article. â</summary>
+    <published>2022-06-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jffk70</id>
+    <title>Just Flight Announces Fokker 100 &amp; 70 for Microsoft Flight Simulator</title>
+    <updated>2022-06-21T00:00:00+00:00</updated>
+    <link href="/news/jffk70" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b22ba377fb9d1a175969fa_287512483_10162001953168499_8760778841413427502_n.jpg" rel="enclosure" type="image/jpeg" length="646260"/>
+    <summary>Sim: MSFS. Just Flight have added a new aircraft to their list of in development products today in the form of the Fokker 100 (and the shortened 70 variant) for Microsoft Flight Simulator.  It is the second Fokker aircraft they've got on the go at the moment, with the F28 Fellowship also in the works. Learn more about that product here. "Just like in real-life, we will be following development of our Fokker F28 Fellowship for MSFS with its younger brother, the Fokker 100 and shortened Fokker 70," the developers said on Facebook. "Built with incredible detail to take full advantage of the MSFS platform, the exterior and cockpit modelling and texturing work is progressing very well, and we are aiming for a 2023 release." The developers maintain that the aircraft is still in the early stages, saying that the 3D model and textures have a decent headstart on the code and systems for the aircraft.  We can expect the Fokker 100/70 to be added to the group's website in the near future. In the meantime. 'enjoy these initial shots,' they say.  See the source post for this article on Facebook.</summary>
     <published>2022-06-21T00:00:00+00:00</published>
   </entry>
 </feed>
