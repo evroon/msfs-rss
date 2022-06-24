@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-23T18:29:04.428863+00:00</updated>
+  <updated>2022-06-24T18:29:34.427975+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vskboi</id>
-    <title>Verticalsim Announces Boise for Microsoft Flight Simulator</title>
-    <updated>2022-06-09T00:00:00+00:00</updated>
-    <link href="/news/vskboi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1ced70fb718609759fdbf_287024476_4807808412656800_2786903833022319994_n.jpeg" rel="enclosure" type="image/jpeg" length="161459"/>
-    <summary>Sim: MSFS. Boiseâs relatively small airfield makes headlines for the second time this week with another developer announcing theyâre bringing Gowen Field to Microsoft Flight Simulator. This time, the creator is Verticalsim. The scenery-maker has previously covered KBOI in X-Plane and in-line with previous releases, is now working on bringing their extensive catalogue of products for Laminarâs sim over to Microsoft Flight Simulator. Verticalsim published the following feature list with the announcement: Though a release date has not been mentioned, users likely wonât have to wait long for Boise to launch as based on previous releases Verticalsim tends to have a very short turnaround. Threshold will keep you posted.</summary>
-    <published>2022-06-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ausham</id>
     <title>AUscene Teases Hamilton Island Airport for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b22ba377fb9d1a175969fa_287512483_10162001953168499_8760778841413427502_n.jpg" rel="enclosure" type="image/jpeg" length="646260"/>
     <summary>Sim: MSFS. Just Flight have added a new aircraft to their list of in development products today in the form of the Fokker 100 (and the shortened 70 variant) for Microsoft Flight Simulator.  It is the second Fokker aircraft they've got on the go at the moment, with the F28 Fellowship also in the works. Learn more about that product here. "Just like in real-life, we will be following development of our Fokker F28 Fellowship for MSFS with its younger brother, the Fokker 100 and shortened Fokker 70," the developers said on Facebook. "Built with incredible detail to take full advantage of the MSFS platform, the exterior and cockpit modelling and texturing work is progressing very well, and we are aiming for a 2023 release." The developers maintain that the aircraft is still in the early stages, saying that the 3D model and textures have a decent headstart on the code and systems for the aircraft.  We can expect the Fokker 100/70 to be added to the group's website in the near future. In the meantime. 'enjoy these initial shots,' they say.  See the source post for this article on Facebook.</summary>
     <published>2022-06-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfgcrr</id>
+    <title>Just Flight Releases Lanzarote Airport (GCRR) for Microsoft Flight Simulator </title>
+    <updated>2022-06-24T00:00:00+00:00</updated>
+    <link href="/news/jfgcrr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b5438d3e068627edecec46_gcrr-lanzarote-airport_2_ss_l_220620104231.jpg" rel="enclosure" type="image/jpeg" length="144502"/>
+    <summary>Sim: MSFS. Earlier this week, Just Flight released its newest product for Microsoft Flight Simulator - Lanzarote Airport (GCRR). The scenery, utilizing the latest available technologies, brings an immersive experience for pilots who are looking for a memorable summer in the Canary Islands.	 â According to the developers, the airport will feature detailed exterior models and textures for terminals, ground signages, and other facilities, as well as realistic interiors for terminals 1 and 2. Additionally, the animated objects such as palm trees, flags, and fans have been placed around the field to further improve immersion. Finally, the product supports Visual Docking Guidance System (VDGS) and supporting software for the system will be installed simultaneously with the scenery. For the full list of the features, visit the developerâs website. Just Flight has warned the users that the airportâs âcustom elevation data conflicts with the amazing Lanzarote scenery of Island Creationsâ. To ensure that both products can work seamlessly alongside each other, the team suggests the users âplease turn off [Island Creationâs] 'mesh' package by removing it from the community folder or turning it off in the content managerâ. Currently, Â Lanzarote Airport can be purchased on Just Flightâs webstore for $20.49 USD. The developers recommend users to have at least 456MB of free space on their hard drives in order to successfully install the product. Please note that the product is not compatible with MSFS for Xbox. Credits to REM_13 from the Threshold Discord server for the news scoop</summary>
+    <published>2022-06-24T00:00:00+00:00</published>
   </entry>
 </feed>
