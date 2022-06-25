@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-06-24T18:29:32.922622+00:00</updated>
+  <updated>2022-06-25T18:26:43.353429+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,6 +32,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/7G5A1886-1024x683.jpg" rel="enclosure" type="image/jpeg" length="52549"/>
     <summary>This past weekend, NGPA (National Gay Pilots Association) hosted a first-of-its-kind event: a fly-in to Cedar Rapids, Iowa to celebrate aviation and pride called Wings Over Iowa. On Friday, June 3rd, over 100 members flew in, some with their own aircraft, and got together to celebrate. Read more about the experience within!</summary>
     <published>2022-06-10T15:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulators-40th-anniversary-edition/</id>
+    <title>Microsoft Flight Simulator’s 40th Anniversary Edition</title>
+    <updated>2022-06-12T17:59:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulators-40th-anniversary-edition/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/40th_Anniversary-1024x576.png" rel="enclosure" type="image/png" length="240515"/>
+    <summary>The 40th Anniversary Edition, a completely free offering for those who already own Microsoft Flight Simulator or play it via Xbox Game Pass, is a comprehensive celebration of the franchise with both a tribute to our past as well as an introduction to new and highly anticipated aircraft types. The nod to the past will re-introduce some classic … Continued</summary>
+    <published>2022-06-12T17:59:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-1-26-5-0-world-update-x-usa-now-available/</id>
@@ -68,14 +77,5 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/06/insider-home-bg-02-1024x432.jpg" rel="enclosure" type="image/jpeg" length="45600"/>
     <summary>A new beta testing opportunity is now available which specifically targets stability on Xbox Series X|S. To help us better track some of the memory-related crashes on Xbox, this build will contain additional telemetry logging and a more precise memory tracking system. Any time you experience issues such as a crash on your console, extra … Continued</summary>
     <published>2022-06-21T15:25:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/june-23rd-2022-development-update/</id>
-    <title>June 23rd, 2022 Development Update</title>
-    <updated>2022-06-23T21:58:02+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-23rd-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/pommes_l-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="64238"/>
-    <summary>As we enter the dog days of summer, there are a few housekeeping announcements we’d like to share with you today. The first is a reminder that earlier this week, we released an Xbox-only Stability Test, which you can read more about here. The goal is to gather extra telemetry from Xbox users to help us track down the root cause of memory issues. Any Xbox Series X|S user is welcome to join.</summary>
-    <published>2022-06-23T21:58:02+00:00</published>
   </entry>
 </feed>

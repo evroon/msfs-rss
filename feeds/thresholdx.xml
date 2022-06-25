@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-24T18:29:34.427975+00:00</updated>
+  <updated>2022-06-25T18:26:44.271464+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ausham</id>
-    <title>AUscene Teases Hamilton Island Airport for Microsoft Flight Simulator</title>
-    <updated>2022-06-09T00:00:00+00:00</updated>
-    <link href="/news/ausham" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a1d4302cfb6ba96ea3783d_284513968_514946167039563_5900949890880924501_n.jpeg" rel="enclosure" type="image/jpeg" length="218117"/>
-    <summary>Sim: MSFS. Australian tourist destination Hamilton Island and its airport, YBHM, has received more attention today in the form of a new development update from AUscene. The airfield is one of two projects the developer currently has underway for Microsoft Flight Simulator. On release, Hamilton Island will move alongside the developerâs âReefworldâ area scenery covering the Great Barrier Reef. The two will be offered as a bundle pack due to their proximity. Todayâs development update focused on the terminalâs interior, which the developer initially debated whether to include at all. âAfter much consideration we decided to add the Terminal Interior and are excited to finally be able to share some previews with you all! Hamilton Island will be our most extensive product with plenty of details for you to discover at the Airport, Marina, Resort and Dent Island.â See the source post for this article on Facebook.</summary>
-    <published>2022-06-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcdsrr</id>
     <title>X-Codr Designs Releases Sedona Red Rocks for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b5438d3e068627edecec46_gcrr-lanzarote-airport_2_ss_l_220620104231.jpg" rel="enclosure" type="image/jpeg" length="144502"/>
     <summary>Sim: MSFS. Earlier this week, Just Flight released its newest product for Microsoft Flight Simulator - Lanzarote Airport (GCRR). The scenery, utilizing the latest available technologies, brings an immersive experience for pilots who are looking for a memorable summer in the Canary Islands.	 â According to the developers, the airport will feature detailed exterior models and textures for terminals, ground signages, and other facilities, as well as realistic interiors for terminals 1 and 2. Additionally, the animated objects such as palm trees, flags, and fans have been placed around the field to further improve immersion. Finally, the product supports Visual Docking Guidance System (VDGS) and supporting software for the system will be installed simultaneously with the scenery. For the full list of the features, visit the developerâs website. Just Flight has warned the users that the airportâs âcustom elevation data conflicts with the amazing Lanzarote scenery of Island Creationsâ. To ensure that both products can work seamlessly alongside each other, the team suggests the users âplease turn off [Island Creationâs] 'mesh' package by removing it from the community folder or turning it off in the content managerâ. Currently, Â Lanzarote Airport can be purchased on Just Flightâs webstore for $20.49 USD. The developers recommend users to have at least 456MB of free space on their hard drives in order to successfully install the product. Please note that the product is not compatible with MSFS for Xbox. Credits to REM_13 from the Threshold Discord server for the news scoop</summary>
     <published>2022-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdg3p</id>
+    <title>PMDG Updates 737-700, Now Allows 3rd Party Modifications</title>
+    <updated>2022-06-25T00:00:00+00:00</updated>
+    <link href="/news/pmdg3p" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b6c068a2bd3423d4467253_280406865_5341956039177470_8848590533260663753_n.jpg" rel="enclosure" type="image/jpeg" length="500941"/>
+    <summary>Sim: MSFS. Today marks the second update in the space of a month for the PMDG 737-700 for Microsoft Flight Simulator, which is now on version 3.00.0024. The developers say that this patch primarily brings 'behind the panel' improvements. This is due to the forthcoming rollout of a new lateral flight path model, which was discussed at length in the group's previous development status update earlier this month -- see that here. According to PMDG lead Robert Randazzo, "we are very close to turning [this] new feature on for you." "We have also spent an enormous amount of time investigating laggy animation problems. It is a painstakingly slow process, but we think we have made good progress in stabilizing some of the laggier items such as the control columns and throttles." "One item still in the research pool is the windshield wipers. We made a small amount of improvement here, but we are finding that the wipers move so fast (even at their slow setting) that they simply don't render smoothly and we are still working to see if we cannot devise a way to make that work more effectively. Stay tuned for more there." Randazzo also notes that the trim wheel's animation and sound are seeing some work. See the full changelog here: Looking to the future, the developer says that this week will focus on control configuration problems for users. This extends to both getting rudders correctly working on some joysticks and game-pads, as well as finetuning control balancing for proper feel. Also coming with this update is a revised EULA. This was not mentioned in the primary forum post for the patch, instead, Randazzo opted to post this separately.  In short, after some disputes from 3rd party creators over PMDG's tight leash on model/texture modifications (outside of liveries) leading to a number of DMCA takedowns, the group have changed their license agreement to allow this type of mod.  It is important to note that the new EULA still states that PMDG must be contacted before distributing new 'models, sounds or other files.' See the update forum post here.</summary>
+    <published>2022-06-25T00:00:00+00:00</published>
   </entry>
 </feed>
