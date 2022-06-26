@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-25T18:26:44.271464+00:00</updated>
+  <updated>2022-06-26T18:25:38.890899+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xcdsrr</id>
-    <title>X-Codr Designs Releases Sedona Red Rocks for Microsoft Flight Simulator</title>
-    <updated>2022-06-11T00:00:00+00:00</updated>
-    <link href="/news/xcdsrr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a40727f36d7d0ea90ba84a_Screen%20Shot%202022-06-10%20at%2011.08.20%20PM.png" rel="enclosure" type="image/png" length="2179245"/>
-    <summary>Sim: X-Plane. Earlier this week, X-Codr Designs released Sedona Red Rocks for Microsoft Flight Simulator. The scenery, which comes with detailed models/textures and custom orthoimagery, will provide users with an immersive flight in the stunning Sedona region of Arizona, allowing them to experience the areaâs famous geological wonders. According to the developers, an array of different rock formations ranging from Cathedral Rock to Capitol Butte are hand modeled and textured after their real life counterparts in Sedona.  â Additionally, NAIP orthoimagery has beenused to âcover up glaring shadowsâ while performance has been optimized to minimize the sceneryâs impact on the usersâ computers. Finally, Sedona Airport (default or X-Codrâs upcoming rendition) has been seamlessly blended into this product. For a complete list of features,, visit the developerâs website. Currently, the Sedona Red Rocks by X-Codr Designs can be purchased in the MSFS MarketPlace for $14.99 USD. For other Microsoft Flight Simulator news, check out another Threshold article.</summary>
-    <published>2022-06-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lmmelb</id>
     <title>Landmarks Melbourne by Orbx Now Available</title>
@@ -150,6 +141,15 @@
     <link href="/news/pmdg3p" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b6c068a2bd3423d4467253_280406865_5341956039177470_8848590533260663753_n.jpg" rel="enclosure" type="image/jpeg" length="500941"/>
     <summary>Sim: MSFS. Today marks the second update in the space of a month for the PMDG 737-700 for Microsoft Flight Simulator, which is now on version 3.00.0024. The developers say that this patch primarily brings 'behind the panel' improvements. This is due to the forthcoming rollout of a new lateral flight path model, which was discussed at length in the group's previous development status update earlier this month -- see that here. According to PMDG lead Robert Randazzo, "we are very close to turning [this] new feature on for you." "We have also spent an enormous amount of time investigating laggy animation problems. It is a painstakingly slow process, but we think we have made good progress in stabilizing some of the laggier items such as the control columns and throttles." "One item still in the research pool is the windshield wipers. We made a small amount of improvement here, but we are finding that the wipers move so fast (even at their slow setting) that they simply don't render smoothly and we are still working to see if we cannot devise a way to make that work more effectively. Stay tuned for more there." Randazzo also notes that the trim wheel's animation and sound are seeing some work. See the full changelog here: Looking to the future, the developer says that this week will focus on control configuration problems for users. This extends to both getting rudders correctly working on some joysticks and game-pads, as well as finetuning control balancing for proper feel. Also coming with this update is a revised EULA. This was not mentioned in the primary forum post for the patch, instead, Randazzo opted to post this separately.  In short, after some disputes from 3rd party creators over PMDG's tight leash on model/texture modifications (outside of liveries) leading to a number of DMCA takedowns, the group have changed their license agreement to allow this type of mod.  It is important to note that the new EULA still states that PMDG must be contacted before distributing new 'models, sounds or other files.' See the update forum post here.</summary>
+    <published>2022-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ukkflg</id>
+    <title>UK2000 Flagstaff (KFLG) Releasing Soon</title>
+    <updated>2022-06-25T00:00:00+00:00</updated>
+    <link href="/news/ukkflg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b77f215ca00db2e9dc8a90_288834023_1841523056053190_3211437326610278558_n.jpg" rel="enclosure" type="image/jpeg" length="501965"/>
+    <summary>Sim: MSFS. The no-longer constrained UK2000 scenery group have announced that Flagstaff, Arizona will be their next airport destination. The developer began creating scenery outside of their usual scope -- these fair isles -- at the start of the year with John Wayne being released in March. The developer cited both commercial motivations and a boredom with doing very similar UK airports as the main reasons for the change-up. A number of preview screenshots were published of Flagstaff this morning via Facebook, a selection of which are attached throughout this article. Fielding some user questions in the comments section of the same post, the developer confirmed that their next product following KFLG will indeed be a UK airport -- and that Flagstaff will not be coming to X-Plane. UK2000 is exclusively a Microsoft Flight Simulator developer, having suspending X-Plane development at the start of 2021 and similarly for Prepar3D at the end of the year. See the source post for this article on Facebook.</summary>
     <published>2022-06-25T00:00:00+00:00</published>
   </entry>
 </feed>
