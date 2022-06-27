@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-06-26T18:25:38.890899+00:00</updated>
+  <updated>2022-06-27T18:30:47.644009+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lmmelb</id>
-    <title>Landmarks Melbourne by Orbx Now Available</title>
-    <updated>2022-06-11T00:00:00+00:00</updated>
-    <link href="/news/lmmelb" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a523d5c1fdbb460479f0d5_629-da56ab81442ca2bd8215be740378f006.jpg" rel="enclosure" type="image/jpeg" length="1383373"/>
-    <summary>Sim: MSFS. Home to the Australian Open, the Australian Grand Prix, and Orbx's Australian Headquarters, Melbourne is the group's latest destination in the Landmarks series and was made available yesterday. The product boasts another 200 points of interest over the simulator's default skyline from World Update 7 -- which Orbx also had a hand in creating. "Welcome to the cultural and sports capital of Australia and the hometown of Orbx!" reads the product description. "With about a third of its current five million residents born outside of Australia, Melbourneâs skyline mirrors its inhabitantsâ diversity, from Gold Rush and Victorian architecture to ultra-modern skyscrapers." The feature list reads: Landmarks Melbourne is available for $17.89 AUD (US$12.62 | â¬11,99 | Â£10.24) from OrbxDirect. To see more images, check out a previous article.</summary>
-    <published>2022-06-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsrpro</id>
-    <title>FSRealistic Pro Released</title>
-    <updated>2022-06-12T00:00:00+00:00</updated>
-    <link href="/news/fsrpro" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a52b4474c14f14cf317a77_unknown%20(1).png" rel="enclosure" type="image/png" length="3111061"/>
-    <summary>Sim: MSFS. Effects management system FSRealistic 'Core' has now been available for seven months, having been initially released in November 2021. In the time since, rkApps have taken to improving upon the work seen in that product with the new FSRealistic Pro. The 'Pro' version builds upon the effects included in 'Core', with the developer proclaiming a "growing list of 28" different interactions. Speaking to Threshold, the developer explains the leap forward that the 'Pro' version has made:  "After a long period of time that Asobo didn't support camera movements, it has recently released a partial support and we have now finally managed to make a breakthrough with amazing real camera effects to create a more-than-ever realistic flight experience." "We are proud to be the first company to offer such level of realism and excited to offer you [the chance] to join the ride!" FSRealistic Pro is available for EUR 28.00 from simMarket here. Users of 'Core' are able to upgrade at a discounted price of EUR 5.60. Threshold is giving away two copies of FSRealistic Pro to readers of this article. To enter, simply write a comment below this article. The winners will be drawn in 24 hours.</summary>
-    <published>2022-06-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a31fre</id>
     <title>iniBuilds Announces Microsoft Flight Simulator Partnership: A310 to be Free</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b77f215ca00db2e9dc8a90_288834023_1841523056053190_3211437326610278558_n.jpg" rel="enclosure" type="image/jpeg" length="501965"/>
     <summary>Sim: MSFS. The no-longer constrained UK2000 scenery group have announced that Flagstaff, Arizona will be their next airport destination. The developer began creating scenery outside of their usual scope -- these fair isles -- at the start of the year with John Wayne being released in March. The developer cited both commercial motivations and a boredom with doing very similar UK airports as the main reasons for the change-up. A number of preview screenshots were published of Flagstaff this morning via Facebook, a selection of which are attached throughout this article. Fielding some user questions in the comments section of the same post, the developer confirmed that their next product following KFLG will indeed be a UK airport -- and that Flagstaff will not be coming to X-Plane. UK2000 is exclusively a Microsoft Flight Simulator developer, having suspending X-Plane development at the start of 2021 and similarly for Prepar3D at the end of the year. See the source post for this article on Facebook.</summary>
     <published>2022-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/obvtsp</id>
+    <title>Orbx Phuket for Microsoft Flight Simulator Released</title>
+    <updated>2022-06-26T00:00:00+00:00</updated>
+    <link href="/news/obvtsp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b8bab7fa20ff264db50247_2-4916a7ccf996095fbc4c4eec12643be7.jpg" rel="enclosure" type="image/jpeg" length="341115"/>
+    <summary>Sim: MSFS. Welcoming over 16 million passengers annually -- second only to Bangkok -- Phuket International Airport is Orbx's latest destination for Microsoft Flight Simulator and first in Thailand. The airport was introduced on Friday and in typical Orbx fashion, release was swift. "There are three terminals at Phuket Airport: international, domestic, and the recently completed Siam Land Private Jet Terminal. Thai Airlines and nearly 50 other airlines, including Etihad Airways and Air China, use the airport as a hub. All these have been expertly modelled with PBR," reads the release forum post. The feature list is as follows: Orbx Phuket is available for $28.96 AUD (approx. US$20.13 | â¬19,06 | Â£16.41) from OrbxDirect.</summary>
+    <published>2022-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jse120</id>
+    <title>Jemma Simulations Teases Embraer E120 for X-Plane</title>
+    <updated>2022-06-27T00:00:00+00:00</updated>
+    <link href="/news/jse120" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b933f1c8c4ca443c91724a_EMBext.thumb.jpg.6299dc803e3e210dac46cd6ebfdaa4d9.jpg" rel="enclosure" type="image/jpeg" length="17520"/>
+    <summary>Sim: X-Plane. Jemma Simulations has recently unveiled the Embraer E120 as their newest project for X-Plane. The turbo-prop, a popular aircraft for regional airlines, will feature everything from 4k textures to fully animated circuit breakers, giving users an ultra realistic flying experience. 	According to the announcement, work on the E120 has just started. It can be seen from the pictures provided that the initial exterior and interior modeling is mostly complete, though the texturing process is yet to start. The finished aircraft, the developers teased, will include fully modeled and animated 3D cabin, customized FMOD sound pack, AVITAB, and a detailed exterior model with interactive elements such as access panels and ground element. 	Additionally, the E120 will come with âlots of liveriesâ. Air France, American Eagle, and United are among the many liveries teased in the post. Users will also have access to the planeâs paint kit upon release and will be able to customize the âtail numbers tied to specific liveriesâ. 	Currently, Jemma Simulations has yet to announce an estimated release date and pricing for the E120. Threshold will keep you updated on any new developments of the aircraft. â</summary>
+    <published>2022-06-27T00:00:00+00:00</published>
   </entry>
 </feed>
