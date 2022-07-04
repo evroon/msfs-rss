@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-07-03T18:25:39.397263+00:00</updated>
+  <updated>2022-07-04T18:28:26.358590+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffxpde</id>
-    <title>FlightFactor Shares X-Plane Development Update</title>
-    <updated>2022-06-13T00:00:00+00:00</updated>
-    <link href="/news/ffxpde" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62a72a0bb912a76ea62fecdc_278391652_516087066594252_1002473650932431623_n.jpg" rel="enclosure" type="image/jpeg" length="101607"/>
-    <summary>Sim: X-Plane. FlightFactor has taken to the X-Plane.org Forum today to share a 'comprehensive' development update covering two of their in-development aircraft as well as four other products which have already been released. The brand's leader Ramzzess says that the 'time is right' for a holistic overview of the group's projects given the short time until X-Plane 12 becomes available. No images were shared in this post, however, we've included screenshots from previous teasers which have been published over the past couple of months. Addressing the 777v2 and 787 first, Ramzzess says that "the models being built [are] more complicated than anything that we have developed before, to the point of insanity." The Flight Management System, EFB, maintenance, and sound systems all remain 'in progress' at various stages of completion.  A CPDLC system will be included with both aircraft, which at this stage is being integrated with some third party addons.  Failures will be completed on release, but at this stage FlightFactor believe that most things covered in real-world sim training are implemented. There are currently over 1000 individual failures, with 'more stuff' to be added after release.  Another unique aspect of these Boeing widebodies will be a multi-crew simulation. Ramzzess describes this as an 'enormous undertaking'. Interactions between the captain, first officer, cabin crew and ground staff will be covered, with more to be added post-release. The first officer will be able to assist in all standard procedures on release, similar to the likes of FS2Crew products for ESP-platforms.  FlightFactor list the following as being 'basically ready for release:' Turning attention to the A320, Ramzzess applauds the work of the Airbus team for the release of v1.3.0, which has improved FPS counts by a reported 20-50%. Before the end of the X-Plane 11 run, the team want to bring back the web browser, integrate a new weather radar and correct a number of small issues. With X-Plane 12, however, FlightFactor plan some more significant changes, these include: The final topic covered in the development update today are the group's other three models, the Boeing 757, 767 and Airbus A350.  These will be compatible with X-Plane 12 from the outset and will see extended support and updates through the end of version 12 or if a new version of the aircraft is rolled out -- there are no specific plans for this as yet. A 767-400 variant is also being worked on and will be added to the various 767 packages available right now.  "It is in all respects a continuation of that line. Not a standalone model," says Ramzzess. See the source post for this article on the X-Plane.org Forum.</summary>
-    <published>2022-06-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aphdhc</id>
     <title>Aeroplane Heaven Partner with Microsoft for DC-3 &amp; Debut Standalone DHC-1 Chipmunk</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62be82382d4ce9926440c797_298773_lime-xp_24.jpg" rel="enclosure" type="image/jpeg" length="307675"/>
     <summary>Sim: X-Plane. Tailstrike Designs and Windsock Simulations have recently released Airport Bergamo v2 for X-Plane 11. The airport, a leap forward compared to its original version, brings updated terminals, animated jet bridges, and redesigned surrounding details. According to the sceneryâs store page, Airport Bergamo v2 will reflect the latest layout of its real life counterpart in 2021, including the new north apron. It will feature high quality PBR textures, custom made signage, and full surrounding details instead of blurry satellite images. 	Additionally, the developers have indicated that scenery will have minimal impact on the performance of the simulators, ensuring that users can have a smooth flying experience. It is recommended that users have at least 4GB of free disk space in order to successfully install the product. 	Currently, the product can be purchased on simMarket or Aerosoftâs webstore for EUR 20.13 or USD 20.91. Owners of Airport Bergamo V1 for X-Plane can purchase the new version for a reduced price of EUR 10.07. Credits to Lazerzen from the Threshold Discord for the news scoop. For more X-Plane news, check out another Threshold article.</summary>
     <published>2022-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jftgr1</id>
+    <title>Just Flight Teases Tornado GR1 for Microsoft Flight Simulator</title>
+    <updated>2022-07-04T00:00:00+00:00</updated>
+    <link href="/news/jftgr1" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62c27b1f3dba37e4dfeccaeb_TOR%203.jpg" rel="enclosure" type="image/jpeg" length="112172"/>
+    <summary>Sim: MSFS. Last week, Just Flight announced their newest project for Microsoft Flight Simulator - the Tornado GR1. The Tornado GR1, a step up from the developerâs Hawk T1, will bring the perfect experience for pilots looking for the thrill of high speed, low altitude flying. According to the developers, the Tornado GR1 will feature 8k textures and study-level systems. Judging by the pictures provided, the exterior and cockpit of the jet have been completely modeled and textured, including moving parts such as spoilers and reverse thrust buckets. At this stage, no feature list or any additional details have been provided, though the team promised to keep the community updated on the aircraftâs progress.  Tornado GR1, a collaboration between the UK, West Germany, and Italy, is designed to be a multirole military aircraft capable of carrying out a variety of anti-ground, intercepting, and air defense suppression missions. First produced in 1979, different variants of the Tornado saw action in the Gulf War of 1991, âBosnian War, Kosovo War, Iraq War, in Libya during the 2011 Libyan civil war, as well as smaller roles in Afghanistan, Yemen, and Syriaâ. Currently, the developers are yet to announce the release date and pricing of the jet aircraft. Threshold will keep you updated on this front. â</summary>
+    <published>2022-07-04T00:00:00+00:00</published>
   </entry>
 </feed>
