@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-07-06T18:28:33.430114+00:00</updated>
+  <updated>2022-07-07T18:29:52.029157+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-26-5-0-world-update-x-usa-now-available/</id>
-    <title>Release Notes (1.26.5.0) World Update X: USA Now Available!</title>
-    <updated>2022-06-14T18:38:04+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-26-5-0-world-update-x-usa-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MSFS_WU10_US_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="221846"/>
-    <summary>﻿World Update X captures the spirit of the United States of America and all of its exquisite landscapes, cityscapes, and breathtaking vistas to enjoy from above in Microsoft Flight Simulator.Explore the renowned canyons of the Desert Southwest, roam throughout storied architecture of America’s great cities, and soar among peaks that tower miles above their surroundings … Continued</summary>
-    <published>2022-06-14T18:38:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-16-2022-development-update/</id>
     <title>June 16, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/pommes_l-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="64238"/>
     <summary>As we enter the dog days of summer, there are a few housekeeping announcements we’d like to share with you today. The first is a reminder that earlier this week, we released an Xbox-only Stability Test, which you can read more about here. The goal is to gather extra telemetry from Xbox users to help us track down the root cause of memory issues. Any Xbox Series X|S user is welcome to join.</summary>
     <published>2022-06-23T21:58:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-30th-2022-development-update/</id>
+    <title>June 30th, 2022 Development Update</title>
+    <updated>2022-06-30T21:54:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-30th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MihamaBlend-Twitter-3-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="44342"/>
+    <summary>Regarding the ongoing Xbox Stability Testing – we’ve received a lot of data on out of memory crashes on Xbox and are now analyzing the information and investigating a few different cases. The information we’ve received so far has been hugely beneficial to the team. Thank you very much for those who are participating!</summary>
+    <published>2022-06-30T21:54:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
