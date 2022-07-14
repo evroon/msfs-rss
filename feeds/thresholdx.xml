@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-07-13T18:26:58.716534+00:00</updated>
+  <updated>2022-07-14T18:28:46.766776+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ppegaa</id>
-    <title>PYREEGUE Dev Co. Previews Belfast Airport (EGAA) for Microsoft Flight Simulator</title>
-    <updated>2022-06-16T00:00:00+00:00</updated>
-    <link href="/news/ppegaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ab9f64b1aa9917b4774100_Screenshot_3.thumb.png.e4f8bdd13e4a90635c1ccabb5b7db807.png" rel="enclosure" type="image/png" length="577474"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer PYREEGUE published a short update on its upcoming Belfast/Aldergrove International Airport (EGAA) for Microsoft Flight Simulator. In the update, the team previews the modeling, texturing, and lighting of the airport through a series of short videos, demonstrating their progress and the new technologies being implemented on the scenery. Based on the videos, it can be concluded that the airport's terminal has been mostly completed. As the plane taxied toward the gate, we can see that the overall building, signage, small objects (ground vehicles, AC units, etc), and lighting are almost fully modeled and textured. Additionally, we can see through the buildingâs window into the terminal interior where everything from chairs, vending machines, and walking passengers have been modeled/animated. According to the developers, what is being shown in the videos only represent a small portion of ânew crazy thingsâ that Belfast Airport will feature. The team also hinted that the new features brought to Belfast will come to âgreat stuffâ featured in EGAA will eventually be integrated into its other airports, starting with EGPH before moving to EGPF, EGNX and EGPD. Currently, the developers are yet to announce a release date and pricing for Belfast airport, though they did indicate that they âare not far from releaseâ. Threshold will keep you updated on this front. For more information on the scenery, check out a previous Threshold article.  â</summary>
-    <published>2022-06-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aflb23</id>
     <title>AirfoilLabs Launches First Microsoft Flight Simulator Aircraft: the Bristell B23</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62cca56fadaf9474154325e2_293382350_4845411982231640_3219375507246419653_n.jpg" rel="enclosure" type="image/jpeg" length="360957"/>
     <summary>Sim: MSFS. Software house SimWorks Studios have come forward today with more information on a large-scale update to their Quest Kodiak 100 aircraft for Microsoft Flight Simulator. The details were shared via Facebook, with today's update focusing primarily on the handling characteristics of the aircraft. "Here is an update on the Kodiak packages. A big flight model update was delivered to us this past week, which will improve the response of the aircraft," the team wrote on social media. "Many people complained that the plane was very sensitive to pitch input, something we attributed to the short travel that most desktop yokes have." "After a long time of tweaking and balancing, the next update will improve this aspect of the Kodiak's handling." The new flight model also rectifies the Kodiak's performance, giving a more accurate reflection of the American aircraft after Sim Update 8 left the high-wing somewhat underpowered. The amphibian edition of the Kodiak is also seeing some nice progress according to the developer, even given "MSFS' flight model limitations" in this area. Before release, the aircraft will see some last fine tuning and get a sign off from Quest's parent company Daher. Speaking of a release window, SimWorks have said that both the wheeled Kodiak update and new Amphibian variant should be coming out after Sim Update 10 launches in mid- to late-August. This is to take advantage of new features coming in that update. See the source post for this article on Facebook.</summary>
     <published>2022-07-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff7640</id>
+    <title>FlightFactor 767-400ER Available in Public Beta</title>
+    <updated>2022-07-13T00:00:00+00:00</updated>
+    <link href="/news/ff7640" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62cf2a393106e73d388c9423_FXJcDpeXwAAI9pU.jpg" rel="enclosure" type="image/jpeg" length="602496"/>
+    <summary>Sim: MSFS. The most recently released real-world variant of the Boeing 767 is now available for X-Plane courtesy of FlightFactor.  First launched in 2000, the -400ER shares a common type rating with other 767 models as well as 757 variants, though in cockpit form is much closer to Boeing's 777 with six displays arranged in the same way as the larger widebody. Today's beta release coincided with a number of other improvements for the 767 series as a whole. These include: FlightFactor are retailing the 767-400ER at $79.00 USD with a $69.00 USD launch price for the time being, whereas owners of other 767 variants can upgrade for $30.00 USD.  The developer recently released this chart to show the upgrade options available for the 767. It's important to note that even though the -400ER is able to be purchased, the developers makes it clear that this is a public beta and issues are to be expected. Purchase the standalone 767-400ER from the X-Plane.org Store here, or upgrade at this link here.</summary>
+    <published>2022-07-13T00:00:00+00:00</published>
   </entry>
 </feed>
