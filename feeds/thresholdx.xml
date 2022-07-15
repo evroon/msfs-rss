@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-07-14T18:28:46.766776+00:00</updated>
+  <updated>2022-07-15T18:28:15.599500+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aflb23</id>
-    <title>AirfoilLabs Launches First Microsoft Flight Simulator Aircraft: the Bristell B23</title>
-    <updated>2022-06-18T00:00:00+00:00</updated>
-    <link href="/news/aflb23" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ad5addf9f79bf5a4e2876c_288675244_2240065689482813_6265946275129304151_n.jpg" rel="enclosure" type="image/jpeg" length="760363"/>
-    <summary>Sim: MSFS. Traditionally an aircraft-maker for X-Plane, AirfoilLabs have made a stunning leap into the Microsoft Flight Simulator market today with the announcement and release of the Bristell B23, a light sport aircraft from the Czech Republic. Sharing the news on Facebook, the developer raved about the relatively unknown LSA brand saying that the group have flown with their B23's real world counterparts. "Today, we have a pretty different announcement to make. For over a year and a half, we have been cooperating with an LSA Aircraft manufacturer, the BRISTELL." "Airfoillabs has heard the requests many of you have been asking for and, for the first time, introduces an aircraft model for the Microsoft Flight Simulator 2020." The aircraft was released at the same time as the announcement was made and is available on the Microsoft Marketplace for $24.99 USD. In the comments of the social media post, community users peppered questions regarding the developer's commitment to X-Plane 11 and 12 -- to which the developer remained steadfast. "This aircraft [the Bristell B23] will not be available for X-Plane, at least not yet. But weâre working on airplanes for X-Plane 12. We will be releasing the C172 NG digital once X-Plane 12 is available to the public, as well as the NG analogue version." The steam-gauge version of the group's C172 will be exclusively available on X-Plane 12. Difficulty surrounding porting to v11 and maintaining two versions is cited as the primary reasons behind this decision. See AirfoilLabs on Facebook here.</summary>
-    <published>2022-06-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/73pmdg</id>
     <title> PMDG Publishes Development Blog for MSFS 737 Series</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62cf2a393106e73d388c9423_FXJcDpeXwAAI9pU.jpg" rel="enclosure" type="image/jpeg" length="602496"/>
     <summary>Sim: MSFS. The most recently released real-world variant of the Boeing 767 is now available for X-Plane courtesy of FlightFactor.  First launched in 2000, the -400ER shares a common type rating with other 767 models as well as 757 variants, though in cockpit form is much closer to Boeing's 777 with six displays arranged in the same way as the larger widebody. Today's beta release coincided with a number of other improvements for the 767 series as a whole. These include: FlightFactor are retailing the 767-400ER at $79.00 USD with a $69.00 USD launch price for the time being, whereas owners of other 767 variants can upgrade for $30.00 USD.  The developer recently released this chart to show the upgrade options available for the 767. It's important to note that even though the -400ER is able to be purchased, the developers makes it clear that this is a public beta and issues are to be expected. Purchase the standalone 767-400ER from the X-Plane.org Store here, or upgrade at this link here.</summary>
     <published>2022-07-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mktene</id>
+    <title>MK Studios Releases Tenerife Airports Package</title>
+    <updated>2022-07-14T00:00:00+00:00</updated>
+    <link href="/news/mktene" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62d07c3acce12651ea70bfb0_Microsoft-Flight-Simulator-2022-06-16-10_14_13-PM-scaled.jpg" rel="enclosure" type="image/jpeg" length="395337"/>
+    <summary>Sim: MSFS. Polish scenery creator MK Studios has launched two new airports today, with both North and South Tenerife Airports (GCXO and GCTS respectively) combined into one scenery package. For previous simulator platforms, such as Prepar3D version 5, the developer opted to sell the airports separately. "Welcome to Tenerife, the largest and most populous island of the Canary Islands," reads the product description. "The island of Tenerife has two airports: the Tenerife North Airport (or Los Rodeos) and Tenerife South Airport (or Reina Sofia). The south airport is situated in a tourist area, and therefore is the busiest, having hundreds of connections to different parts of the world. Tenerife North Airport operates mostly domestic flights between the islands of the archipelago." "In this package, we recreated these two airports, GCTS and GCXO, and added a few POIs with custom satellite images and mesh." The aerodrome pair package includes the following features: You can purchase MK Studios' Tenerife for EUR 15.99 from simMarket or $23.95 AUD (approx. US$16.19 | â¬16,14 | Â£13.68) from OrbxDirect.</summary>
+    <published>2022-07-14T00:00:00+00:00</published>
   </entry>
 </feed>
