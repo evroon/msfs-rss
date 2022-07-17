@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-07-16T18:26:41.468243+00:00</updated>
+  <updated>2022-07-17T18:26:13.935879+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/xbox-series-xs-testing-opportunity/</id>
-    <title>Xbox Series X|S Testing Opportunity</title>
-    <updated>2022-06-21T15:25:36+00:00</updated>
-    <link href="https://www.flightsimulator.com/xbox-series-xs-testing-opportunity/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/06/insider-home-bg-02-1024x432.jpg" rel="enclosure" type="image/jpeg" length="45600"/>
-    <summary>A new beta testing opportunity is now available which specifically targets stability on Xbox Series X|S. To help us better track some of the memory-related crashes on Xbox, this build will contain additional telemetry logging and a more precise memory tracking system. Any time you experience issues such as a crash on your console, extra … Continued</summary>
-    <published>2022-06-21T15:25:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/june-23rd-2022-development-update/</id>
-    <title>June 23rd, 2022 Development Update</title>
-    <updated>2022-06-23T21:58:02+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-23rd-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/pommes_l-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="64238"/>
-    <summary>As we enter the dog days of summer, there are a few housekeeping announcements we’d like to share with you today. The first is a reminder that earlier this week, we released an Xbox-only Stability Test, which you can read more about here. The goal is to gather extra telemetry from Xbox users to help us track down the root cause of memory issues. Any Xbox Series X|S user is welcome to join.</summary>
-    <published>2022-06-23T21:58:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-30th-2022-development-update/</id>
     <title>June 30th, 2022 Development Update</title>
@@ -52,6 +34,24 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/MicrosoftTeams-image-46-1024x576.jpg" rel="enclosure" type="image/jpeg" length="115666"/>
     <summary>Enjoy discounted pricing on Marketplace content from iniBuilds!For seven days starting on July 8th save up to 45% on the following items: 3MI2 &amp; 6Y3 Fox Islands EGJA Alderney Airpor EGKA Shoreham Airport EGKK London Gatwick Airport EGLL Heathrow Airport EIKY Kerry Airport HEMA Marsa Alam International Airport To purchase these discounted items, visit the … Continued</summary>
     <published>2022-07-08T17:16:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/july-14th-2022-development-update/</id>
+    <title>July 14th, 2022 Development Update</title>
+    <updated>2022-07-14T22:23:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-14th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/DaveBGaming-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="92047"/>
+    <summary>Screenshot by DaveBGaming (Forum)The Sim Update 10 public beta has been active for about a week now, and so far we have received lots of valuable feedback that will influence upcoming future SU10 beta builds during the testing period. On behalf of the dev team, thank you to everyone who has been reporting issues with … Continued</summary>
+    <published>2022-07-14T22:23:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/summer-sale-700-items-on-sale-now-in-the-marketplace/</id>
+    <title>Summer Sale: 700+ items on sale now in the Marketplace</title>
+    <updated>2022-07-15T17:55:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/summer-sale-700-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/SummerSale2022_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122478"/>
+    <summary>For two weeks starting on July 15, save up to 75% on more than 700 items.</summary>
+    <published>2022-07-15T17:55:27+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
