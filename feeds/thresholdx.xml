@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-07-26T18:28:55.818226+00:00</updated>
+  <updated>2022-07-27T18:28:04.853727+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/73pmdg</id>
-    <title> PMDG Publishes Development Blog for MSFS 737 Series</title>
-    <updated>2022-06-18T00:00:00+00:00</updated>
-    <link href="/news/73pmdg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62760542fbf0175a9b61a988_image_15258.jpg" rel="enclosure" type="image/jpeg" length="712230"/>
-    <summary>Sim: MSFS. Earlier this week, PMDG published a lengthy development blog on its website where the developers shared the future plans for their popular 737-700 and 737-600 aircrafts for Microsoft Flight Simulator. Starting off the blog, the developer indicated that the current update cycle for the -700 will only carry bug fixes and small tweaks as the team focuses on improving visual features and animations within the cockpit to improve both user experience and the planeâs overall performance. Additionally, efforts are being diverted to repair the aircraftâs trim wheel animation whose code has been âaccidentally revertedâ to that of the original 737nGX for P3D. This means that the part has to be completely rebuilt and retested before the update can be pushed out, a process the team hopes to complete by the middle of next week. As for the -600, the developers confirmed the beta team will soon receive the new version carrying the ânew PMDG Lateral Flight Path Model (LFPM) that has been under development for two yearsâ. The LFPM will give a far more accurate, more true-to-life lateral flight path modelâ, improving realism and reducing errors. The new model will be first introduced in the -600 before being implemented onto the -700. The developers have indicated that they plan to implement the LFPM into all their existing P3D aircrafts. Due to the LFPM, the team is expecting the launch of the -600 to be delayed by a few weeks and will share more information on a potential release sometime next week after the new version has been tested. Finally, the team addressed the question of when will the aircrafts be made available in the MarketPlace. Currently, the -700 are being withheld from the MarketPlace due to concern of âincompatibility between [the] product and gamepad/twist grip/dual rudder axis controllersâ. The developers are hoping to resolve this issue in the next update cycle and will provide more information soon. As for the -600, there will likely be a much shorter delay between its launch on the PMDG web store and MarketPlace. 	Currently, the -700 variant can be purchased for a reduced price of $69.99. As for the -600 variant, the developers are yet to announce an exact release date and pricing. Threshold will keep you updated on this front. Credits to Cristian Ionescu from the Threshold Discord for the news scoop.</summary>
-    <published>2022-06-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/swsdev</id>
     <title>SimWorks Studios Issues Lengthy Development Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62d07c3acce12651ea70bfb0_Microsoft-Flight-Simulator-2022-06-16-10_14_13-PM-scaled.jpg" rel="enclosure" type="image/jpeg" length="395337"/>
     <summary>Sim: MSFS. Polish scenery creator MK Studios has launched two new airports today, with both North and South Tenerife Airports (GCXO and GCTS respectively) combined into one scenery package. For previous simulator platforms, such as Prepar3D version 5, the developer opted to sell the airports separately. "Welcome to Tenerife, the largest and most populous island of the Canary Islands," reads the product description. "The island of Tenerife has two airports: the Tenerife North Airport (or Los Rodeos) and Tenerife South Airport (or Reina Sofia). The south airport is situated in a tourist area, and therefore is the busiest, having hundreds of connections to different parts of the world. Tenerife North Airport operates mostly domestic flights between the islands of the archipelago." "In this package, we recreated these two airports, GCTS and GCXO, and added a few POIs with custom satellite images and mesh." The aerodrome pair package includes the following features: You can purchase MK Studios' Tenerife for EUR 15.99 from simMarket or $23.95 AUD (approx. US$16.19 | â¬16,14 | Â£13.68) from OrbxDirect.</summary>
     <published>2022-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jf75du</id>
+    <title>JustFlight Releases 757 Development Update</title>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <link href="/news/jf75du" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e089371f1b929e4177e29d_757_1_eGcsHo811.webp" rel="enclosure" type="image/webp" length="117254"/>
+    <summary>Sim: MSFS. On 22th of July 2022, they announced they had advanced the work on the VC animations, the FMS, and the flight dynamics. As for the external model, they work mainly on the landing gear. There were no other changes on the textures, as other exterior details are still to be finalized. The flight model has also been developed, but it is unknown to what extent. The developers simply say that there is still a lot of work to be done on this aspect. This update primarily adresses the modelling of the FMSÂ and the programming of its various components. As per the update, the developer states that the VCÂ animations 90% complete, although the devs then state that many switches still need to be integrated.Â Readdressing the FMS, the devs strongly emphasize the priority the FMSÂ has in development. Once the FMSÂ is complete, other systems will be worked on and addressed. If you are interested in reading the full update for yourself, you may view it on JustFlight's website. The work is still in progress, and no release date has been announced yet. Threshold will keep you updated on any futher updates.</summary>
+    <published>2022-07-27T00:00:00+00:00</published>
   </entry>
 </feed>
