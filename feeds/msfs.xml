@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-07-27T18:28:03.072951+00:00</updated>
+  <updated>2022-07-28T18:30:52.272328+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -54,14 +54,6 @@
     <published>2022-07-21T23:29:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/</id>
-    <title>Local Legend IV: Savoia-Marchetti S.55</title>
-    <updated>2022-06-02T16:34:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-iv-savoia-marchetti-s-55/" rel="alternate"/>
-    <summary>Today we are pleased to introduce the fourth plane in the Microsoft Flight Simulator “Local Legends” series, the S.55. The “Local Legends” series celebrates the history of aviation and this plane, a twin-engine flying boat produced by Italian aviation manufacturer Savoia-Marchetti of Milan, is linked to our most recent World Update IX: Italy and Malta. It features a … Continued</summary>
-    <published>2022-06-02T16:34:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>
     <title>Community Spotlight: Wings over Iowa</title>
     <updated>2022-06-10T15:49:08+00:00</updated>
@@ -74,8 +66,16 @@
     <title>Reno Air Race Series Presented By Tobii</title>
     <updated>2022-06-29T19:02:27+00:00</updated>
     <link href="https://www.flightsimulator.com/reno-air-race-series-presented-by-tobii/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/06/MicrosoftTeams-image-45-1024x576.png" rel="enclosure" type="image/png" length="118674"/>
     <summary>Together with our friends at Tobii Gaming, we are pleased to announce the next phase in our Reno Air Race Series!On Wednesday, June 29 we hosted an exhibition match featuring some of your favorite Twitch and YouTube content creators from the Microsoft Flight Simulator community. Now, it’s your turn to race for glory, bragging rights, and fabulous prizes!Event OverviewIn the … Continued</summary>
     <published>2022-06-29T19:02:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/</id>
+    <title>Community Spotlight: Lillo and Roberto</title>
+    <updated>2022-07-27T16:06:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/unknown_1-1024x771.png" rel="enclosure" type="image/png" length="330610"/>
+    <summary>Accessibility is one of the core values at Microsoft. Refining our products so they can be enjoyed by everyone — regardless of physical ability — is extremely important to us. A few years ago, the Xbox team introduced the Xbox Adaptive Controller to make thousands of great games on Xbox and PC accessible to an … Continued</summary>
+    <published>2022-07-27T16:06:36+00:00</published>
   </entry>
 </feed>
