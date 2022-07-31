@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-07-30T18:26:26.533967+00:00</updated>
+  <updated>2022-07-31T18:26:33.118244+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/swsdev</id>
-    <title>SimWorks Studios Issues Lengthy Development Update</title>
-    <updated>2022-06-18T00:00:00+00:00</updated>
-    <link href="/news/swsdev" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ad6832c576e30f5be465f2_288647332_4779790138793825_2497002483118359383_n.jpg" rel="enclosure" type="image/jpeg" length="500377"/>
-    <summary>Sim: MSFS. SimWorks Studios are planning to hit the second half of 2022 hard and bring three more aircraft to Microsoft Flight Simulator by the end of the year, according to a new development update issued today. Firstly, addressing an aircraft that's already available for the simulator, the developer discusses work on an Amphibian variant of the Kodiak 100. "The exterior and interior models have been completed. A significant amount of time has gone in re-engineering the interior of the aircraft so that it is compatible with Asobo's submodel and attachment system." The Kodiak's interior has seen similar treatment with new support for the platform's 'submodel' feature. The developer explains that this will allow a more efficient cockpit model -- this will also find its way into the other, wheeled, Kodiak currently available. SimWorks Studios' Vans RV-14 will also see some new content in the near future, with a GNS530 radio stack being made ready for rollout on PC and Xbox.  Onto the three in-development aircraft: the RV-10, Airvan and PC-12. The four-seat cousin of the RV-14, the Vans RV-10 is said to be making 'solid progress'. The developer says that the exterior model is undergoing review at the moment, with images to come in 'the next couple of weeks'. "Regarding the PC-12, we have our WIP exterior in the simulator and are dialing in the basic geometry, electrical and engine parameters. We are nitpicking at the exterior still, as some details of the aircraft were hard to come by.  "However, thanks to Pilatus and our pilots, we have everything we need and can soon dash to the finish line and focus on the cockpit!" Finally, the Gippsland Airvan -- according to this development update, the aircraft will come equipped with steam gauges and a GNS530 plus a Bendix-King unit to comprise the radio stack. As with the Kodiak, the instrument panel will be 'moldable', allowing for user customisation. See the full development update on Facebook.</summary>
-    <published>2022-06-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rksiup</id>
     <title>Pacific Islands Simulations Posts Development Updates on Incheon/Songdo Airport (RKSI)</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e089371f1b929e4177e29d_757_1_eGcsHo811.webp" rel="enclosure" type="image/webp" length="117254"/>
     <summary>Sim: MSFS. On 22th of July 2022, they announced they had advanced the work on the VC animations, the FMS, and the flight dynamics. As for the external model, they work mainly on the landing gear. There were no other changes on the textures, as other exterior details are still to be finalized. The flight model has also been developed, but it is unknown to what extent. The developers simply say that there is still a lot of work to be done on this aspect. This update primarily adresses the modelling of the FMSÂ and the programming of its various components. As per the update, the developer states that the VCÂ animations 90% complete, although the devs then state that many switches still need to be integrated.Â Readdressing the FMS, the devs strongly emphasize the priority the FMSÂ has in development. Once the FMSÂ is complete, other systems will be worked on and addressed. If you are interested in reading the full update for yourself, you may view it on JustFlight's website. The work is still in progress, and no release date has been announced yet. Threshold will keep you updated on any futher updates.</summary>
     <published>2022-07-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wxrff</id>
+    <title>When X-Plane Fights Real Forest Fires </title>
+    <updated>2022-07-31T00:00:00+00:00</updated>
+    <link href="/news/wxrff" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e5e773660fbc7c7fb8e87f_screenshot-2022-07-18-183624.jpeg" rel="enclosure" type="image/jpeg" length="689898"/>
+    <summary>Sim: X-Plane. Bridger Aerospace, a real-life firefighting company, is now using VR simulation to train its pilots to fly in complex conditions, like flying low to put out a forest fire. The simulator they will be using? X-Plane. During real life training, it is impossible to accurately reproduce the conditions of wildfires pilots will be expected to put out. Only simulation and virtual reality can realistically recreate such extreme conditions. On top of this, pilots can even train in the same virtual aircraft using the âshared cockpitâ model from completely different locations - drastically increasing training efficiency and reducing overall cost.  Pretoria Engineering, a real life group of engineers from the University of Astoria, are designing the plug-in for X-Plane 12. When completed, it will integrate Bridgerâs aircraft with the ability to fly ultra realistic aerial firefighting missions. Such an integration of X-Plane into pilot training programs is proof that flight simulation is so much more than a video game - it is capable of not only fulfilling the dream of aviation enthusiasts but also playing a critical role in the training of pilots for an array of possible scenarios they may encounter in real life. â</summary>
+    <published>2022-07-31T00:00:00+00:00</published>
   </entry>
 </feed>
