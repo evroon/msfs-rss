@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-01T18:32:24.764510+00:00</updated>
+  <updated>2022-08-02T18:28:49.487896+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/july-7th-2022-development-update/</id>
-    <title>July 7th, 2022 Development Update</title>
-    <updated>2022-07-07T21:35:48+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-7th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/Harry-Potter-IronWings_VP-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="85707"/>
-    <summary>Great news: the Sim Update 10 Beta is almost ready! We are finalizing beta release notes, prepping the forums, and readying the test build for a target release of tomorrow, July 8th, at 8am PT (1500Z). The Sim Update 10 Forum Feedback category will be made public at that time, and you will find more information on how to join the beta, our overall goals, what kind of feedback we are looking for, and targeted feedback surveys.</summary>
-    <published>2022-07-07T21:35:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/inibuilds-sale/</id>
     <title>iniBuilds Sale</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/isaiahnparadise-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="125965"/>
     <summary>Screenshot by isaiahnparadise (Twitter)This week we deployed two updates for the Sim Update 10 public beta: a small one on Monday, and a larger one on Wednesday. We are still collecting a lot of great feedback from participants, and future updates to the SU10 beta will be announced in the Beta News and Updates section on … Continued</summary>
     <published>2022-07-21T23:29:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/july-28th-2022-development-update/</id>
+    <title>July 28th, 2022 Development Update</title>
+    <updated>2022-07-28T21:58:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-28th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/Coffee198227-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="103812"/>
+    <summary>We are pleased to announce that we will be hosting a Sim Update 10 Dev Stream on Thursday, August 18th at 10:30am PT (1730Z). This stream will delve into all things Sim Update 10 related, including a deeper look into some of the new features coming out.</summary>
+    <published>2022-07-28T21:58:27+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>

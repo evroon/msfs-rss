@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-01T18:32:26.360671+00:00</updated>
+  <updated>2022-08-02T18:28:50.313223+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rksiup</id>
-    <title>Pacific Islands Simulations Posts Development Updates on Incheon/Songdo Airport (RKSI)</title>
-    <updated>2022-06-21T00:00:00+00:00</updated>
-    <link href="/news/rksiup" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b14d8ab1b014932dd68bf5_289440864_3126141987634129_7456268730579559754_n.jpg" rel="enclosure" type="image/jpeg" length="514219"/>
-    <summary>Sim: MSFS. Pacific Islands Simulations has recently published on its Facebook page a short update on its upcoming Incheon/Songdo Airport (RKSI) scenery for Microsoft Flight Simulator, informing the community on the teamâs progress over the past few weeks and showcasing a few new previews. According to the developers, the terminal interiors have mostly been completed. From the pictures, we can see that the team has modeled and textured everything from the escalator, the glass doom, and shops such as Dunkin Donuts in great detail.  In addition to work on the interior, the taxiways, parking lots, drainage systems, and traffic tunnels have also been added - progress that is very much evident on the previews posted. Though the team has yet to set a firm release date for the product, they teased that development has entered the âfinal phasesâ for the airport. Currently, the developers are yet to announce the pricing of the product. Threshold will keep you updated on this front. For now, check out another Threshold article. â</summary>
-    <published>2022-06-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jffk70</id>
-    <title>Just Flight Announces Fokker 100 &amp; 70 for Microsoft Flight Simulator</title>
-    <updated>2022-06-21T00:00:00+00:00</updated>
-    <link href="/news/jffk70" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b22ba377fb9d1a175969fa_287512483_10162001953168499_8760778841413427502_n.jpg" rel="enclosure" type="image/jpeg" length="646260"/>
-    <summary>Sim: MSFS. Just Flight have added a new aircraft to their list of in development products today in the form of the Fokker 100 (and the shortened 70 variant) for Microsoft Flight Simulator.  It is the second Fokker aircraft they've got on the go at the moment, with the F28 Fellowship also in the works. Learn more about that product here. "Just like in real-life, we will be following development of our Fokker F28 Fellowship for MSFS with its younger brother, the Fokker 100 and shortened Fokker 70," the developers said on Facebook. "Built with incredible detail to take full advantage of the MSFS platform, the exterior and cockpit modelling and texturing work is progressing very well, and we are aiming for a 2023 release." The developers maintain that the aircraft is still in the early stages, saying that the 3D model and textures have a decent headstart on the code and systems for the aircraft.  We can expect the Fokker 100/70 to be added to the group's website in the near future. In the meantime. 'enjoy these initial shots,' they say.  See the source post for this article on Facebook.</summary>
-    <published>2022-06-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfgcrr</id>
     <title>Just Flight Releases Lanzarote Airport (GCRR) for Microsoft Flight Simulator </title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e5e773660fbc7c7fb8e87f_screenshot-2022-07-18-183624.jpeg" rel="enclosure" type="image/jpeg" length="689898"/>
     <summary>Sim: X-Plane. Bridger Aerospace, a real-life firefighting company, is now using VR simulation to train its pilots to fly in complex conditions, like flying low to put out a forest fire. The simulator they will be using? X-Plane. During real life training, it is impossible to accurately reproduce the conditions of wildfires pilots will be expected to put out. Only simulation and virtual reality can realistically recreate such extreme conditions. On top of this, pilots can even train in the same virtual aircraft using the âshared cockpitâ model from completely different locations - drastically increasing training efficiency and reducing overall cost.  Pretoria Engineering, a real life group of engineers from the University of Astoria, are designing the plug-in for X-Plane 12. When completed, it will integrate Bridgerâs aircraft with the ability to fly ultra realistic aerial firefighting missions. Such an integration of X-Plane into pilot training programs is proof that flight simulation is so much more than a video game - it is capable of not only fulfilling the dream of aviation enthusiasts but also playing a critical role in the training of pilots for an array of possible scenarios they may encounter in real life. â</summary>
     <published>2022-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/isksat</id>
+    <title>iniScene Releases San Antonio International Airport (KSAT) for MSFS</title>
+    <updated>2022-08-02T00:00:00+00:00</updated>
+    <link href="/news/isksat" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e8aafd01b8ef5c147880c3_27_7688d03f-f9ff-4d27-af38-5e6967700133.png.webp" rel="enclosure" type="image/webp" length="156716"/>
+    <summary>Sim: MSFS. Last week, developer iniScene released its latest scenery for Microsoft Flight Simulator - San Antonio International Airport (KSAT). The airport, crafted with âwith unparalleled attention to detailsâ, will feature everything from custom ground decals to 30cm/px satellite imagery that utilizes the latest MSFS SDK. According to developers, KSAT will feature hand-made ground polyones for every surface from runways to aprons, custom made signages, vegetation, and car models, PBR textures, and terminal interiors.  â Additionally, the airport will be integrated with dynamic ground handling vehicles. The product will first come with a custom pushback tug with more vehicles being added in future updates. To view the entire feature list, visit the developerâs website. Currently, the scenery can be purchased on the iniScene webstore for $20.06 USD. To successfully install the product, the developers recommend users to have at least 6.61GB of free space on their hard drive. For more MSFS news, check out another Threshold article.</summary>
+    <published>2022-08-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pc12ca</id>
+    <title>Carenado Publishes PC-12 Screenshots</title>
+    <updated>2022-08-02T00:00:00+00:00</updated>
+    <link href="/news/pc12ca" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e8ae7cfa7f39830db544f5_292071041_5216927795050659_1988621114253456010_n.jpg" rel="enclosure" type="image/jpeg" length="66362"/>
+    <summary>Sim: MSFS. Carenado has recently showcased various screenshots of their upcoming visual rendition of the Pilatus PC-12 aircraft for Microsoft Flight Simulator. This comes after a period of tight-lipped silence from the developers. Carenado did express an apologetic state, as they have experienced unexpected delays in the release of this aircraft to the public. They do hope to surpass these setbacks and move forward with the release aircraft. In the screenshots posted to their Facebook page, they showcased working GTNXi by TDS, and the in-house EX600 Suite. With these operational, Carenado hopes to move forward with development and an eventual release. Be sure to follow Threshold for more updates.</summary>
+    <published>2022-08-02T00:00:00+00:00</published>
   </entry>
 </feed>
