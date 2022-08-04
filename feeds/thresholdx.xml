@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-03T18:29:00.420415+00:00</updated>
+  <updated>2022-08-04T18:29:29.241073+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfgcrr</id>
-    <title>Just Flight Releases Lanzarote Airport (GCRR) for Microsoft Flight Simulator </title>
-    <updated>2022-06-24T00:00:00+00:00</updated>
-    <link href="/news/jfgcrr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b5438d3e068627edecec46_gcrr-lanzarote-airport_2_ss_l_220620104231.jpg" rel="enclosure" type="image/jpeg" length="144502"/>
-    <summary>Sim: MSFS. Earlier this week, Just Flight released its newest product for Microsoft Flight Simulator - Lanzarote Airport (GCRR). The scenery, utilizing the latest available technologies, brings an immersive experience for pilots who are looking for a memorable summer in the Canary Islands.	 â According to the developers, the airport will feature detailed exterior models and textures for terminals, ground signages, and other facilities, as well as realistic interiors for terminals 1 and 2. Additionally, the animated objects such as palm trees, flags, and fans have been placed around the field to further improve immersion. Finally, the product supports Visual Docking Guidance System (VDGS) and supporting software for the system will be installed simultaneously with the scenery. For the full list of the features, visit the developerâs website. Just Flight has warned the users that the airportâs âcustom elevation data conflicts with the amazing Lanzarote scenery of Island Creationsâ. To ensure that both products can work seamlessly alongside each other, the team suggests the users âplease turn off [Island Creationâs] 'mesh' package by removing it from the community folder or turning it off in the content managerâ. Currently, Â Lanzarote Airport can be purchased on Just Flightâs webstore for $20.49 USD. The developers recommend users to have at least 456MB of free space on their hard drives in order to successfully install the product. Please note that the product is not compatible with MSFS for Xbox. Credits to REM_13 from the Threshold Discord server for the news scoop</summary>
-    <published>2022-06-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmdg3p</id>
     <title>PMDG Updates 737-700, Now Allows 3rd Party Modifications</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e8ae7cfa7f39830db544f5_292071041_5216927795050659_1988621114253456010_n.jpg" rel="enclosure" type="image/jpeg" length="66362"/>
     <summary>Sim: MSFS. Carenado has recently showcased various screenshots of their upcoming visual rendition of the Pilatus PC-12 aircraft for Microsoft Flight Simulator. This comes after a period of tight-lipped silence from the developers. Carenado did express an apologetic state, as they have experienced unexpected delays in the release of this aircraft to the public. They do hope to surpass these setbacks and move forward with the release aircraft. In the screenshots posted to their Facebook page, they showcased working GTNXi by TDS, and the in-house EX600 Suite. With these operational, Carenado hopes to move forward with development and an eventual release. Be sure to follow Threshold for more updates.</summary>
     <published>2022-08-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/t208gc</id>
+    <title>Thranda Releases Free Expansion Pack for C208 Grand Caravan</title>
+    <updated>2022-08-04T00:00:00+00:00</updated>
+    <link href="/news/t208gc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62eb32157b64ff81adee4fa2_unknown.png" rel="enclosure" type="image/png" length="277119"/>
+    <summary>Sim: X-Plane. Last week, developer Thranda announced via the X-Plane forum the release of a new expansion pack for its C208 and C208B Grand Caravan. The best part: this pack is completely free and can be downloaded from the X-Plane.org store! The feedback on the forum is very positive. Users seem to be delighted with this free and well-developed initiative. But what exactly does this pack contain? First of all a seaplane version of the Grand Caravan equipped with floats. â For the landplane version, the pack offers tundra tires and mud flaps, enabling operations in rough terrains. The package also offers changes to the interior of the aircraft such as an integrated G1000. The seats will also be removable via presets, allowing the aircraft to serve either as a passenger or cargo plane. These features will be available for both the amphibious and landplane models. Currently, users who already purchased the plane can download the expansion pack together with the new version. Those who are looking to pick up the aircraft can purchase it on the X-Plane.org store for $44.95, â</summary>
+    <published>2022-08-04T00:00:00+00:00</published>
   </entry>
 </feed>
