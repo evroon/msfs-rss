@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-04T18:29:29.241073+00:00</updated>
+  <updated>2022-08-05T18:28:59.675796+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmdg3p</id>
-    <title>PMDG Updates 737-700, Now Allows 3rd Party Modifications</title>
-    <updated>2022-06-25T00:00:00+00:00</updated>
-    <link href="/news/pmdg3p" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b6c068a2bd3423d4467253_280406865_5341956039177470_8848590533260663753_n.jpg" rel="enclosure" type="image/jpeg" length="500941"/>
-    <summary>Sim: MSFS. Today marks the second update in the space of a month for the PMDG 737-700 for Microsoft Flight Simulator, which is now on version 3.00.0024. The developers say that this patch primarily brings 'behind the panel' improvements. This is due to the forthcoming rollout of a new lateral flight path model, which was discussed at length in the group's previous development status update earlier this month -- see that here. According to PMDG lead Robert Randazzo, "we are very close to turning [this] new feature on for you." "We have also spent an enormous amount of time investigating laggy animation problems. It is a painstakingly slow process, but we think we have made good progress in stabilizing some of the laggier items such as the control columns and throttles." "One item still in the research pool is the windshield wipers. We made a small amount of improvement here, but we are finding that the wipers move so fast (even at their slow setting) that they simply don't render smoothly and we are still working to see if we cannot devise a way to make that work more effectively. Stay tuned for more there." Randazzo also notes that the trim wheel's animation and sound are seeing some work. See the full changelog here: Looking to the future, the developer says that this week will focus on control configuration problems for users. This extends to both getting rudders correctly working on some joysticks and game-pads, as well as finetuning control balancing for proper feel. Also coming with this update is a revised EULA. This was not mentioned in the primary forum post for the patch, instead, Randazzo opted to post this separately.  In short, after some disputes from 3rd party creators over PMDG's tight leash on model/texture modifications (outside of liveries) leading to a number of DMCA takedowns, the group have changed their license agreement to allow this type of mod.  It is important to note that the new EULA still states that PMDG must be contacted before distributing new 'models, sounds or other files.' See the update forum post here.</summary>
-    <published>2022-06-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ukkflg</id>
     <title>UK2000 Flagstaff (KFLG) Releasing Soon</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62eb32157b64ff81adee4fa2_unknown.png" rel="enclosure" type="image/png" length="277119"/>
     <summary>Sim: X-Plane. Last week, developer Thranda announced via the X-Plane forum the release of a new expansion pack for its C208 and C208B Grand Caravan. The best part: this pack is completely free and can be downloaded from the X-Plane.org store! The feedback on the forum is very positive. Users seem to be delighted with this free and well-developed initiative. But what exactly does this pack contain? First of all a seaplane version of the Grand Caravan equipped with floats. â For the landplane version, the pack offers tundra tires and mud flaps, enabling operations in rough terrains. The package also offers changes to the interior of the aircraft such as an integrated G1000. The seats will also be removable via presets, allowing the aircraft to serve either as a passenger or cargo plane. These features will be available for both the amphibious and landplane models. Currently, users who already purchased the plane can download the expansion pack together with the new version. Those who are looking to pick up the aircraft can purchase it on the X-Plane.org store for $44.95, â</summary>
     <published>2022-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jff28u</id>
+    <title>Just Flight Publishes Fokker F28 Fellowship Development Update</title>
+    <updated>2022-08-05T00:00:00+00:00</updated>
+    <link href="/news/jff28u" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ec9b05681fa0dbd328e67a_1000_Air_France_srxkHMBHR.png.webp" rel="enclosure" type="image/webp" length="89426"/>
+    <summary>Sim: MSFS. Earlier this week, developer Just Flight published a brief update for its upcoming Fokker F28 Fellowship for Microsoft Flight Simulator. The short blog focused on the work being done on the aircraftâs interior modeling/texturing and cockpit lighting. Announced just over a year ago, Just Flightâs Fokker F28 has seen extensive work being done on it over the past few months. Since the last update, the developers have been making âextensive upgrades to the cockpitâ. Due to the great variations in cockpit design that exist between the F28 variants operated by different airlines, the team chose to base their design on the real F28 they visited in Fokker Technical College. With the layout finalized, the developers are working to improve the visual fidelity of the cockpit while testers, including Â âF28 flight, engineering, and training crewâ, are checking and rechecking every detail. Apart from cockpit modeling, progress has also been made in cockpit lighting. Just Flight has included a few pictures in the update to showcase the night lighting of the Fokkerâs instruments, annunciator, and warning lights. Currently, Just Flight is yet to announce the release date and pricing of the aircraft. Threshold will keep you updated on this front. Shout out to Joe from the official Threshold Discord server for the news scoop. â</summary>
+    <published>2022-08-05T00:00:00+00:00</published>
   </entry>
 </feed>

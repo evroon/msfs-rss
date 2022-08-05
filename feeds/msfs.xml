@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-04T18:29:26.818364+00:00</updated>
+  <updated>2022-08-05T18:28:58.476464+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/inibuilds-sale/</id>
-    <title>iniBuilds Sale</title>
-    <updated>2022-07-08T17:16:55+00:00</updated>
-    <link href="https://www.flightsimulator.com/inibuilds-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/MicrosoftTeams-image-46-1024x576.jpg" rel="enclosure" type="image/jpeg" length="115666"/>
-    <summary>Enjoy discounted pricing on Marketplace content from iniBuilds!For seven days starting on July 8th save up to 45% on the following items: 3MI2 &amp; 6Y3 Fox Islands EGJA Alderney Airpor EGKA Shoreham Airport EGKK London Gatwick Airport EGLL Heathrow Airport EIKY Kerry Airport HEMA Marsa Alam International Airport To purchase these discounted items, visit the … Continued</summary>
-    <published>2022-07-08T17:16:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-14th-2022-development-update/</id>
-    <title>July 14th, 2022 Development Update</title>
-    <updated>2022-07-14T22:23:38+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-14th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/DaveBGaming-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="92047"/>
-    <summary>Screenshot by DaveBGaming (Forum)The Sim Update 10 public beta has been active for about a week now, and so far we have received lots of valuable feedback that will influence upcoming future SU10 beta builds during the testing period. On behalf of the dev team, thank you to everyone who has been reporting issues with … Continued</summary>
-    <published>2022-07-14T22:23:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/summer-sale-700-items-on-sale-now-in-the-marketplace/</id>
     <title>Summer Sale: 700+ items on sale now in the Marketplace</title>
@@ -52,6 +34,24 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/Coffee198227-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="103812"/>
     <summary>We are pleased to announce that we will be hosting a Sim Update 10 Dev Stream on Thursday, August 18th at 10:30am PT (1730Z). This stream will delve into all things Sim Update 10 related, including a deeper look into some of the new features coming out.</summary>
     <published>2022-07-28T21:58:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-4th-2022-development-update/</id>
+    <title>August 4th, 2022 Development Update</title>
+    <updated>2022-08-04T23:22:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-4th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/HeKa48-Forum-1024x429.jpg" rel="enclosure" type="image/jpeg" length="43080"/>
+    <summary>Screenshot by HeKa48 (Forum) Our third Beta build, 1.27.13, released this morning at 8am PT. You can find the list of patch notes in our forums here, as well as vote in the new surveys here. We already see important feedback coming through and appreciate you taking the time to share your comparisons, regressions, thoughts, … Continued</summary>
+    <published>2022-08-04T23:22:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/fs-academy-sale/</id>
+    <title>FS Academy Sale</title>
+    <updated>2022-08-05T17:14:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/fs-academy-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/FSAcademy_Sale_2022_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="75162"/>
+    <summary>5 Items On Sale Now in the Marketplace.</summary>
+    <published>2022-08-05T17:14:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>
