@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-07T18:27:22.237872+00:00</updated>
+  <updated>2022-08-08T18:29:28.194082+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ukkflg</id>
-    <title>UK2000 Flagstaff (KFLG) Releasing Soon</title>
-    <updated>2022-06-25T00:00:00+00:00</updated>
-    <link href="/news/ukkflg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b77f215ca00db2e9dc8a90_288834023_1841523056053190_3211437326610278558_n.jpg" rel="enclosure" type="image/jpeg" length="501965"/>
-    <summary>Sim: MSFS. The no-longer constrained UK2000 scenery group have announced that Flagstaff, Arizona will be their next airport destination. The developer began creating scenery outside of their usual scope -- these fair isles -- at the start of the year with John Wayne being released in March. The developer cited both commercial motivations and a boredom with doing very similar UK airports as the main reasons for the change-up. A number of preview screenshots were published of Flagstaff this morning via Facebook, a selection of which are attached throughout this article. Fielding some user questions in the comments section of the same post, the developer confirmed that their next product following KFLG will indeed be a UK airport -- and that Flagstaff will not be coming to X-Plane. UK2000 is exclusively a Microsoft Flight Simulator developer, having suspending X-Plane development at the start of 2021 and similarly for Prepar3D at the end of the year. See the source post for this article on Facebook.</summary>
-    <published>2022-06-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/obvtsp</id>
-    <title>Orbx Phuket for Microsoft Flight Simulator Released</title>
-    <updated>2022-06-26T00:00:00+00:00</updated>
-    <link href="/news/obvtsp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b8bab7fa20ff264db50247_2-4916a7ccf996095fbc4c4eec12643be7.jpg" rel="enclosure" type="image/jpeg" length="341115"/>
-    <summary>Sim: MSFS. Welcoming over 16 million passengers annually -- second only to Bangkok -- Phuket International Airport is Orbx's latest destination for Microsoft Flight Simulator and first in Thailand. The airport was introduced on Friday and in typical Orbx fashion, release was swift. "There are three terminals at Phuket Airport: international, domestic, and the recently completed Siam Land Private Jet Terminal. Thai Airlines and nearly 50 other airlines, including Etihad Airways and Air China, use the airport as a hub. All these have been expertly modelled with PBR," reads the release forum post. The feature list is as follows: Orbx Phuket is available for $28.96 AUD (approx. US$20.13 | â¬19,06 | Â£16.41) from OrbxDirect.</summary>
-    <published>2022-06-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jse120</id>
     <title>Jemma Simulations Teases Embraer E120 for X-Plane</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ec9b05681fa0dbd328e67a_1000_Air_France_srxkHMBHR.png.webp" rel="enclosure" type="image/webp" length="89426"/>
     <summary>Sim: MSFS. Earlier this week, developer Just Flight published a brief update for its upcoming Fokker F28 Fellowship for Microsoft Flight Simulator. The short blog focused on the work being done on the aircraftâs interior modeling/texturing and cockpit lighting. Announced just over a year ago, Just Flightâs Fokker F28 has seen extensive work being done on it over the past few months. Since the last update, the developers have been making âextensive upgrades to the cockpitâ. Due to the great variations in cockpit design that exist between the F28 variants operated by different airlines, the team chose to base their design on the real F28 they visited in Fokker Technical College. With the layout finalized, the developers are working to improve the visual fidelity of the cockpit while testers, including Â âF28 flight, engineering, and training crewâ, are checking and rechecking every detail. Apart from cockpit modeling, progress has also been made in cockpit lighting. Just Flight has included a few pictures in the update to showcase the night lighting of the Fokkerâs instruments, annunciator, and warning lights. Currently, Just Flight is yet to announce the release date and pricing of the aircraft. Threshold will keep you updated on this front. Shout out to Joe from the official Threshold Discord server for the news scoop. â</summary>
     <published>2022-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniadu</id>
+    <title>iniScene Publishes August Development Update</title>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <link href="/news/iniadu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f09df44826b824a9cb2609_Screen%20Shot%202022-08-08%20at%201.23.54%20AM.png" rel="enclosure" type="image/png" length="2821738"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer iniScene published its development update for the month of August. The brief blog touched upon the teamâs plan for the coming weeks and unveiled two new sceneries - Ibiza Airport for Microsoft Flight Simulator (LEIB) and Buffalo Airport (KBUF) for X-Plane. 	Starting off the update, the developer announced Ibiza Airport for MSFS and confirmed that the scenery will be available for purchase later this month. Though the team is yet to release further details on the airport, it can be seen from the trailer that it will feature everything from terminal interiors and PBR textures to animated vegetation and custom night lighting. â 	Apart from Ibiza, the developer also announced Buffalo Airport for X-Plane. The scenery will feature hand-made ground polygons, realistic ground equipment, and dynamic lighting, and high quality textures. iniScene confirmed that the airport will be fully compatible with upcoming X-Plane 12 and teased that a few more X-Plane scenarios will be released later this year.  Currently, the developers are yet to announce a firm release date for either Ibiza or Buffalo airport. Threshold will keep you updated on this front. Shout out to MJ from the official Threshold Discord for the news scoop.</summary>
+    <published>2022-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfosfd</id>
+    <title>ShortFinal Design Releases KSFO Definitive for XP11</title>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <link href="/news/sfosfd" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f09d0e1ca43f55577d226d_a350_xp11%20-%202022-08-04%2013.25.45.jpg" rel="enclosure" type="image/jpeg" length="238302"/>
+    <summary>Sim: X-Plane. Known developer for X-Plane 11, ShortFinal Design (aka MisterX6) has released his long-awaited KSFO Definitive Project for X-Plane 11. With many updates from the previous rendition, this visual rendition of San Fransisco International impresses one and all, with new techniques used by the developer. MisterX6 released his first and only freeware rendition of KSFO back in 2015, and it underwent updates till he moved to payware projects. Since then, the San Fransisco area received no love from developers, till SFD announced he was revisiting the area and had started from scratch on the project. This rendition has a vast inclusion list that has been provided. Starting off, the usage of SAM for jetways and airport operations has been used to add realism and life to the airport. The airport layout shipped is the current layout of KSFO as of 2022. Various animations of airport vehicles, workers, and passengers have also been included. The usage of PBR textures is present throughout the scenery package. For the complete feature list, you can view it on the X-Plane.Org Store This rendition of KSFO is now available on the .Org Store and sells for $26.95. If you are interested in other packages developed by ShortFinal Design, you can view his payware catalog on the .Org Store as well. If you are interested in his freeware catalog, you can have a look over on his forum page.</summary>
+    <published>2022-08-08T00:00:00+00:00</published>
   </entry>
 </feed>
