@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-08T18:29:25.101502+00:00</updated>
+  <updated>2022-08-09T18:28:04.348469+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -54,14 +54,6 @@
     <published>2022-08-05T17:14:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-wings-over-iowa/</id>
-    <title>Community Spotlight: Wings over Iowa</title>
-    <updated>2022-06-10T15:49:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-wings-over-iowa/" rel="alternate"/>
-    <summary>This past weekend, NGPA (National Gay Pilots Association) hosted a first-of-its-kind event: a fly-in to Cedar Rapids, Iowa to celebrate aviation and pride called Wings Over Iowa. On Friday, June 3rd, over 100 members flew in, some with their own aircraft, and got together to celebrate. Read more about the experience within!</summary>
-    <published>2022-06-10T15:49:08+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/reno-air-race-series-presented-by-tobii/</id>
     <title>Reno Air Race Series Presented By Tobii</title>
     <updated>2022-06-29T19:02:27+00:00</updated>
@@ -74,8 +66,16 @@
     <title>Community Spotlight: Lillo and Roberto</title>
     <updated>2022-07-27T16:06:36+00:00</updated>
     <link href="https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/unknown_1-1024x771.png" rel="enclosure" type="image/png" length="330610"/>
     <summary>Accessibility is one of the core values at Microsoft. Refining our products so they can be enjoyed by everyone — regardless of physical ability — is extremely important to us. A few years ago, the Xbox team introduced the Xbox Adaptive Controller to make thousands of great games on Xbox and PC accessible to an … Continued</summary>
     <published>2022-07-27T16:06:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
+    <title>Microsoft Flight Simulator at EAA AirVenture Oshkosh</title>
+    <updated>2022-08-09T17:18:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/MicrosoftTeams-image-52-1024x609.png" rel="enclosure" type="image/png" length="287959"/>
+    <summary>The three largest and most important aviation events in the world are hosted in Paris, Farnborough, and Oshkosh. The former two, held in alternating years, are large trade shows for industry insiders. While there is limited access for the general public, these are very much events for CEOs, business executives, and sales representatives for the … Continued</summary>
+    <published>2022-08-09T17:18:18+00:00</published>
   </entry>
 </feed>
