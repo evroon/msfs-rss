@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-11T18:28:16.433097+00:00</updated>
+  <updated>2022-08-12T18:28:31.960116+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/summer-sale-700-items-on-sale-now-in-the-marketplace/</id>
-    <title>Summer Sale: 700+ items on sale now in the Marketplace</title>
-    <updated>2022-07-15T17:55:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/summer-sale-700-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/SummerSale2022_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122478"/>
-    <summary>For two weeks starting on July 15, save up to 75% on more than 700 items.</summary>
-    <published>2022-07-15T17:55:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-21st-2022-development-update/</id>
     <title>July 21st, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/FSAcademy_Sale_2022_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="75162"/>
     <summary>5 Items On Sale Now in the Marketplace.</summary>
     <published>2022-08-05T17:14:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-11th-2022-development-update/</id>
+    <title>August 11th, 2022 Development Update</title>
+    <updated>2022-08-11T22:33:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-11th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/syokatunofu-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="138772"/>
+    <summary>Screenshot by syokatunofu (Twitter) Thank you to all players who have been participating in the on-going Sim Update 10 public beta and sharing your feedback and bug reports with the developers. The team at Asobo remains hard at work on SU10, and we are currently preparing a new beta build to release to testers soon. … Continued</summary>
+    <published>2022-08-11T22:33:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/reno-air-race-series-presented-by-tobii/</id>

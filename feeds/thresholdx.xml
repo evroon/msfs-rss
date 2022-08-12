@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-11T18:28:19.661075+00:00</updated>
+  <updated>2022-08-12T18:28:33.122252+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jse120</id>
-    <title>Jemma Simulations Teases Embraer E120 for X-Plane</title>
-    <updated>2022-06-27T00:00:00+00:00</updated>
-    <link href="/news/jse120" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62b933f1c8c4ca443c91724a_EMBext.thumb.jpg.6299dc803e3e210dac46cd6ebfdaa4d9.jpg" rel="enclosure" type="image/jpeg" length="17520"/>
-    <summary>Sim: X-Plane. Jemma Simulations has recently unveiled the Embraer E120 as their newest project for X-Plane. The turbo-prop, a popular aircraft for regional airlines, will feature everything from 4k textures to fully animated circuit breakers, giving users an ultra realistic flying experience. 	According to the announcement, work on the E120 has just started. It can be seen from the pictures provided that the initial exterior and interior modeling is mostly complete, though the texturing process is yet to start. The finished aircraft, the developers teased, will include fully modeled and animated 3D cabin, customized FMOD sound pack, AVITAB, and a detailed exterior model with interactive elements such as access panels and ground element. 	Additionally, the E120 will come with âlots of liveriesâ. Air France, American Eagle, and United are among the many liveries teased in the post. Users will also have access to the planeâs paint kit upon release and will be able to customize the âtail numbers tied to specific liveriesâ. 	Currently, Jemma Simulations has yet to announce an estimated release date and pricing for the E120. Threshold will keep you updated on any new developments of the aircraft. â</summary>
-    <published>2022-06-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wfzbaa</id>
-    <title>WF Scenery Studios Releases Beijing Capital International Airport (ZBAA) for Microsoft Flight Simulator </title>
-    <updated>2022-06-30T00:00:00+00:00</updated>
-    <link href="/news/wfzbaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62bd2fe906d6274cc4e16f54_Screen%20Shot%202022-06-30%20at%201.07.18%20AM-min.png" rel="enclosure" type="image/png" length="1721145"/>
-    <summary>Sim: MSFS. WF Scenery Studios, a developer who focuses on Chinese airports, has recently released the newest product in their Microsoft Flight Simulator lineup - Beijing Capital International Airport (ZBAA). The airport, which utilizes PBR textures and custom lighting, will serve as the gateway for pilots to the heart of China.  	According to the productâs store page, WF Studioâs ZBAA is furnished with animated jetways, dynamic lighting, and accurate ground markings. In addition, the airport trains that connect the various sections of terminal 3 have been modeled, textured, and animated in detail. Finally, it can be seen from the photos that customized static aircraft and interior of the control tower are also included in the scenery. â 	Beijing Capital Airport, one of the two international serving the capital of China, is located 32km from Beijing. It has three parallel runways and three terminals. The airport âhas rapidly ascended in rankings of the world's busiest airports in the past decadeâ, serving more than 80 million passengers per year. 	Currently, ZBAA can be purchased on simMarket for EUR 23.90 or USD 25.24. For users who own the P3D version of the airport, the scenery can be bought for a reduced price of EUR 12; the discount should be automatically applied to eligible simMarket accounts. Credits to buffegg from the Threshold Discord for the news scoop. For more MSFS news, check out another Threshold article.  â</summary>
-    <published>2022-06-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/berxp11</id>
     <title>Tailstrike Designs and Windsock Simulations Release Airport Bergamo V2 for X-Plane 11</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f09d0e1ca43f55577d226d_a350_xp11%20-%202022-08-04%2013.25.45.jpg" rel="enclosure" type="image/jpeg" length="238302"/>
     <summary>Sim: X-Plane. Known developer for X-Plane 11, ShortFinal Design (aka MisterX6) has released his long-awaited KSFO Definitive Project for X-Plane 11. With many updates from the previous rendition, this visual rendition of San Francisco International impresses one and all, with new techniques used by the developer. MisterX6 released his first and only freeware rendition of KSFO back in 2015, and it underwent updates till he moved to payware projects. Since then, the San Francisco area received no love from developers, till SFD announced he was revisiting the area and had started from scratch on the project. This rendition has a vast inclusion list that has been provided. Starting off, the usage of SAM for jetways and airport operations has been used to add realism and life to the airport. The airport layout shipped is the current layout of KSFO as of 2022. Various animations of airport vehicles, workers, and passengers have also been included. The usage of PBR textures is present throughout the scenery package. For the complete feature list, you can view it on the X-Plane.Org Store This rendition of KSFO is now available on the .Org Store and sells for $26.95. If you are interested in other packages developed by ShortFinal Design, you can view his payware catalog on the .Org Store as well. If you are interested in his freeware catalog, you can have a look over on his forum page.</summary>
     <published>2022-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pc12ca2</id>
+    <title>Carenado Finishes PC12 for Microsoft Flight Simulator</title>
+    <updated>2022-08-12T00:00:00+00:00</updated>
+    <link href="/news/pc12ca2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f68cc569f22508515e2486_298795014_5315779201832184_7004121334989087429_n.jpg" rel="enclosure" type="image/jpeg" length="303487"/>
+    <summary>Sim: MSFS. Carenado has announced that development work and testing are complete on their upcoming PC12, meaning that it is now ready to fly under the command of virtual pilots! The aircraft has been a long-awaited addon for Microsoft Flight Simulator and from what we can see visually in the teasers, it looks stunning.  In a recent press release on their Facebook page, the developers said: âdear friends, we are very happy to inform you that the PC12 project was finished and handed over to Microsoft to be uploaded to the simulator marketplace, Microsoft recently told us that this will happen in the first days of September, we appreciate all the shows of support and understanding setbacks in the development of this project, thank you all very much and we hope you have fun with this wonderful plane!â Judging by the post, it looks like fans of Carenado and the PC12 can expect to take off for the first time in the Pilatus early in September.  Though the developers are yet to announce a precise release date for the PC12, it is certain that we only have a few more weeks to wait! Threshold will keep you updated on any news regarding the aircraft. For now, check out a previous article on the PC12  â</summary>
+    <published>2022-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inikbuf</id>
+    <title>iniScene release Buffalo Niagara KBUF scenery for X-Plane 11 </title>
+    <updated>2022-08-12T00:00:00+00:00</updated>
+    <link href="/news/inikbuf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f68e8e7904d06ceed85d21_22_24069982-7921-4e4f-b57a-28f78a2b1b40.png.webp" rel="enclosure" type="image/webp" length="555864"/>
+    <summary>Sim: MSFS. iniBuilds has released its anticipated Buffalo Niagara scenery for X-plane 11. KBUF is located in Buffalo New York, the airport serves Buffalo and the surrounding area, as well as the southern golden horseshoe region of Ontario Canada. Interestingly KBUF is the third busiest airport in New York. It serves as a hub for; United Airlines, American Airlines, Delta, Jet Blue, and various other airlines on top of being a relatively large hub for FedEx Express and UPS.  The developers have teased that the scenery boasts  You can find the full feature list for KBUF here Currently, Buffalo Niagara Airport is available for the reasonable price of Â£16.99 on the iniScene Store. The developers recommend users to have at least 2.94GB of free space on their hard drives to successfully install the product. Be sure to follow Threshold for more updates on the latest scenery and aircraft for MSFS and X-plane 11.</summary>
+    <published>2022-08-12T00:00:00+00:00</published>
   </entry>
 </feed>
