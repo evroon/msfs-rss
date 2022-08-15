@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-14T18:27:03.241459+00:00</updated>
+  <updated>2022-08-15T18:31:18.892858+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/berxp11</id>
-    <title>Tailstrike Designs and Windsock Simulations Release Airport Bergamo V2 for X-Plane 11</title>
-    <updated>2022-07-01T00:00:00+00:00</updated>
-    <link href="/news/berxp11" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62be82382d4ce9926440c797_298773_lime-xp_24.jpg" rel="enclosure" type="image/jpeg" length="307675"/>
-    <summary>Sim: X-Plane. Tailstrike Designs and Windsock Simulations have recently released Airport Bergamo v2 for X-Plane 11. The airport, a leap forward compared to its original version, brings updated terminals, animated jet bridges, and redesigned surrounding details. According to the sceneryâs store page, Airport Bergamo v2 will reflect the latest layout of its real life counterpart in 2021, including the new north apron. It will feature high quality PBR textures, custom made signage, and full surrounding details instead of blurry satellite images. 	Additionally, the developers have indicated that scenery will have minimal impact on the performance of the simulators, ensuring that users can have a smooth flying experience. It is recommended that users have at least 4GB of free disk space in order to successfully install the product. 	Currently, the product can be purchased on simMarket or Aerosoftâs webstore for EUR 20.13 or USD 20.91. Owners of Airport Bergamo V1 for X-Plane can purchase the new version for a reduced price of EUR 10.07. Credits to Lazerzen from the Threshold Discord for the news scoop. For more X-Plane news, check out another Threshold article.</summary>
-    <published>2022-07-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jftgr1</id>
     <title>Just Flight Teases Tornado GR1 for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f68e8e7904d06ceed85d21_22_24069982-7921-4e4f-b57a-28f78a2b1b40.png.webp" rel="enclosure" type="image/webp" length="555864"/>
     <summary>Sim: MSFS. iniBuilds has released its anticipated Buffalo Niagara scenery for X-plane 11. KBUF is located in Buffalo New York, the airport serves Buffalo and the surrounding area, as well as the southern golden horseshoe region of Ontario Canada. Interestingly KBUF is the third busiest airport in New York. It serves as a hub for; United Airlines, American Airlines, Delta, Jet Blue, and various other airlines on top of being a relatively large hub for FedEx Express and UPS.  The developers have teased that the scenery boasts  You can find the full feature list for KBUF here Currently, Buffalo Niagara Airport is available for the reasonable price of Â£16.99 on the iniScene Store. The developers recommend users to have at least 2.94GB of free space on their hard drives to successfully install the product. Be sure to follow Threshold for more updates on the latest scenery and aircraft for MSFS and X-plane 11.</summary>
     <published>2022-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inkadl</id>
+    <title>IniBuilds Announces Dallas Love Field for MSFS and Partnership with iBlueYonder</title>
+    <updated>2022-08-15T00:00:00+00:00</updated>
+    <link href="/news/inkadl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f9e09e2ad68d9da820e3ad_unknown.png" rel="enclosure" type="image/png" length="982644"/>
+    <summary>Sim: MSFS. IniBuilds has announced its partnership with iBlueYonderpour to develop its upcoming Dallas Love Field (KDAL) scenery for Microsoft Flight Simulator. After complimenting the CEO of iBlueYonder, Bill Womack, IniBuilds revealed that it has already started development on KDAL. However, neither developers have disclosed any details on either the scenery or the partnership. Though IniBuilds is well known within the community, iBlueYonder may be a less familiar face to some. In reality however, iBlueYonder is very experienced in the creation of sceneries for P3D, X-Plane, FSX, and MSFS. More details on the developers can be found here. But why choose KDAL? Though Lovefield is often overshadowed by Fort Worth, it is located much closer to Dallas city center and serves as a main hub for Southwest Airlines, a well-known low cost airline that operates an all 737 fleet. Southwest, Delta and Alaska also flies a few flights to select destinations per day. â The IniBuilds forum post ends with the announcement of a trailer about this airport that will be available soon. Currently no release date or pricing had been disclosed. Threshold will keep you updated on this front.  â</summary>
+    <published>2022-08-15T00:00:00+00:00</published>
   </entry>
 </feed>
