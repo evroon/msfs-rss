@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-18T18:28:25.097712+00:00</updated>
+  <updated>2022-08-19T18:31:56.517666+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/july-21st-2022-development-update/</id>
-    <title>July 21st, 2022 Development Update</title>
-    <updated>2022-07-21T23:29:21+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-21st-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/isaiahnparadise-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="125965"/>
-    <summary>Screenshot by isaiahnparadise (Twitter)This week we deployed two updates for the Sim Update 10 public beta: a small one on Monday, and a larger one on Wednesday. We are still collecting a lot of great feedback from participants, and future updates to the SU10 beta will be announced in the Beta News and Updates section on … Continued</summary>
-    <published>2022-07-21T23:29:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-28th-2022-development-update/</id>
-    <title>July 28th, 2022 Development Update</title>
-    <updated>2022-07-28T21:58:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-28th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/07/Coffee198227-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="103812"/>
-    <summary>We are pleased to announce that we will be hosting a Sim Update 10 Dev Stream on Thursday, August 18th at 10:30am PT (1730Z). This stream will delve into all things Sim Update 10 related, including a deeper look into some of the new features coming out.</summary>
-    <published>2022-07-28T21:58:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-4th-2022-development-update/</id>
     <title>August 4th, 2022 Development Update</title>
@@ -54,12 +36,22 @@
     <published>2022-08-11T22:33:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/reno-air-race-series-presented-by-tobii/</id>
-    <title>Reno Air Race Series Presented By Tobii</title>
-    <updated>2022-06-29T19:02:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/reno-air-race-series-presented-by-tobii/" rel="alternate"/>
-    <summary>Together with our friends at Tobii Gaming, we are pleased to announce the next phase in our Reno Air Race Series!On Wednesday, June 29 we hosted an exhibition match featuring some of your favorite Twitch and YouTube content creators from the Microsoft Flight Simulator community. Now, it’s your turn to race for glory, bragging rights, and fabulous prizes!Event OverviewIn the … Continued</summary>
-    <published>2022-06-29T19:02:27+00:00</published>
+    <id>https://www.flightsimulator.com/anniversary-sale-50-items-on-sale-now-in-the-marketplace/</id>
+    <title>Anniversary Sale: 50+ Items On Sale Now In The Marketplace</title>
+    <updated>2022-08-18T17:15:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/anniversary-sale-50-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/AnniversarySale-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="131281"/>
+    <summary>For two days starting August 18th, save 25% on more than 50 items.</summary>
+    <published>2022-08-18T17:15:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-18th-2022-development-update/</id>
+    <title>August 18th, 2022 Development Update</title>
+    <updated>2022-08-18T23:44:15+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-18th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/IronWings_VP-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="57404"/>
+    <summary>Today, August 18, is the two-year anniversary of our release on PC, and what a busy day it was! Earlier this morning, we launched the third plane in our series of Famous Flyers, the v-tail Beechcraft Bonanza V35. We also hosted another of our Dev Q&amp;A sessions with Jorg, Seb, and Martial. Check this update to see what you missed!</summary>
+    <published>2022-08-18T23:44:15+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/</id>
@@ -74,8 +66,16 @@
     <title>Microsoft Flight Simulator at EAA AirVenture Oshkosh</title>
     <updated>2022-08-09T17:18:18+00:00</updated>
     <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/MicrosoftTeams-image-52-1024x609.png" rel="enclosure" type="image/png" length="287959"/>
     <summary>The three largest and most important aviation events in the world are hosted in Paris, Farnborough, and Oshkosh. The former two, held in alternating years, are large trade shows for industry insiders. While there is limited access for the general public, these are very much events for CEOs, business executives, and sales representatives for the … Continued</summary>
     <published>2022-08-09T17:18:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/</id>
+    <title>Famous Flyer III: Beechcraft Bonanza V35</title>
+    <updated>2022-08-18T22:22:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/MicrosoftTeams-image-35-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121047"/>
+    <summary>The Beechcraft Bonanza V35 is one of the great classics of the world of aviation. The V35, produced from 1966 to 1967, hails from one of the most distinctive lines of airplanes in history, the Bonanza family. First flown on December 22, 1945, the Bonanza is still being manufactured, making it the longest continuously produced … Continued</summary>
+    <published>2022-08-18T22:22:37+00:00</published>
   </entry>
 </feed>

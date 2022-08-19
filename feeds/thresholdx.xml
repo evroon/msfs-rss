@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-18T18:28:25.649818+00:00</updated>
+  <updated>2022-08-19T18:31:57.428580+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jftgr1</id>
-    <title>Just Flight Teases Tornado GR1 for Microsoft Flight Simulator</title>
-    <updated>2022-07-04T00:00:00+00:00</updated>
-    <link href="/news/jftgr1" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62c27b1f3dba37e4dfeccaeb_TOR%203.jpg" rel="enclosure" type="image/jpeg" length="112172"/>
-    <summary>Sim: MSFS. Last week, Just Flight announced their newest project for Microsoft Flight Simulator - the Tornado GR1. The Tornado GR1, a step up from the developerâs Hawk T1, will bring the perfect experience for pilots looking for the thrill of high speed, low altitude flying. According to the developers, the Tornado GR1 will feature 8k textures and study-level systems. Judging by the pictures provided, the exterior and cockpit of the jet have been completely modeled and textured, including moving parts such as spoilers and reverse thrust buckets. At this stage, no feature list or any additional details have been provided, though the team promised to keep the community updated on the aircraftâs progress.  Tornado GR1, a collaboration between the UK, West Germany, and Italy, is designed to be a multirole military aircraft capable of carrying out a variety of anti-ground, intercepting, and air defense suppression missions. First produced in 1979, different variants of the Tornado saw action in the Gulf War of 1991, âBosnian War, Kosovo War, Iraq War, in Libya during the 2011 Libyan civil war, as well as smaller roles in Afghanistan, Yemen, and Syriaâ. Currently, the developers are yet to announce the release date and pricing of the jet aircraft. Threshold will keep you updated on this front. â</summary>
-    <published>2022-07-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/togamu</id>
     <title>TOGA Simulations Mitsubishi MU-2 for X-Plane Releasing Friday</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f9e09e2ad68d9da820e3ad_unknown.png" rel="enclosure" type="image/png" length="982644"/>
     <summary>Sim: MSFS. IniBuilds has announced its partnership with iBlueYonderpour to develop its upcoming Dallas Love Field (KDAL) scenery for Microsoft Flight Simulator. After complimenting the CEO of iBlueYonder, Bill Womack, IniBuilds revealed that it has already started development on KDAL. However, neither developers have disclosed any details on either the scenery or the partnership. Though IniBuilds is well known within the community, iBlueYonder may be a less familiar face to some. In reality however, iBlueYonder is very experienced in the creation of sceneries for P3D, X-Plane, FSX, and MSFS. More details on the developers can be found here. But why choose KDAL? Though Lovefield is often overshadowed by Fort Worth, it is located much closer to Dallas city center and serves as a main hub for Southwest Airlines, a well-known low cost airline that operates an all 737 fleet. Southwest, Delta and Alaska also flies a few flights to select destinations per day. â The IniBuilds forum post ends with the announcement of a trailer about this airport that will be available soon. Currently no release date or pricing had been disclosed. Threshold will keep you updated on this front.  â</summary>
     <published>2022-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/v35msf</id>
+    <title>Microsoft Releases Beechcraft Bonanza V35 for MSFS</title>
+    <updated>2022-08-19T00:00:00+00:00</updated>
+    <link href="/news/v35msf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ff1dba33c3ef3001b9e82c_Screen%20Shot%202022-08-19%20at%201.20.54%20AM.png" rel="enclosure" type="image/png" length="3575534"/>
+    <summary>Sim: MSFS. Earlier this week, the developers of Microsoft Flight Simulator announced the release of its newest aircraft - Beechcraft Bonanza V35.  The Bonanza, developed by Carenado and published in partnership with Microsoft, is the third aircraft in MSFSâs new Famous Flyers series. The plane is powered by a 6-cylinder Continental IO-520B piston engine and has a 900 mile maximum range. It also features an iconic V-shaped tail that works as âa hybrid of a rudder and an elevatorâ. Unfortunately, neither Carenado or Microsoft released a feature list for the Bonanza. However, a trailer is available to those who are trying to catch a glimpse of what the aircraft has to offer. Currently, the V35 can be bought in the ingame Marketplace for $14.99 USD. Microsoft has teased that the next aircrafts of the Famous Flyers series will be coming soon. Threshold will keep you updated on this front. Shout to themsmyshoes from the Official Threshold Discord for the news scoop. â</summary>
+    <published>2022-08-19T00:00:00+00:00</published>
   </entry>
 </feed>
