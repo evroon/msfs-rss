@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-21T18:27:31.256568+00:00</updated>
+  <updated>2022-08-22T18:28:40.972817+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/togamu</id>
-    <title>TOGA Simulations Mitsubishi MU-2 for X-Plane Releasing Friday</title>
-    <updated>2022-07-10T00:00:00+00:00</updated>
-    <link href="/news/togamu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62cb51008b9d36a2a0dabd84_MU2_2_Release.jpg.827eb705b75f8863126f4fdc7d74a5c6.jpg" rel="enclosure" type="image/jpeg" length="72371"/>
-    <summary>Sim: X-Plane. A familiar face with an unfamiliar name will be launching the reincarnation of the Mitsubishi MU-2 for X-Plane this week, with Tom Kyler -- most notably of IXEG -- completely overhauling the now 14 year old product. The product's release will coincide with the gazetting of a new name: X-Scenery is no more and will be replaced with TOGA Simulations to better align with the products the brand makes. The Mitsubishi MU-2 has been a prominent fixture on the X-Aviation store since its creation in 2008. In fact, it was the first product ever sold on the platform according to Cameron Son, the store's owner. Speaking on the X-Pilot forum, Son made the following announcement.  "Today, we're officially announcing Friday, July 15, 2022 as the release date for v2 of this great aircraft! This isn't just an update to the existing aircraft! It's an entirely new code base, 3D model and FMOD sound simulation. It is truly a new product." A specific release time was not given, though the American-based company said they're aiming for 'the afternoon on Friday'. Further information is expected in the coming days. There's been no word of a price yet either. This will be unveiled once the product page goes live later this week. Previous customers of the MU-2 can expect a $20 discount on v2, though these coupons will only be available for 60 days.</summary>
-    <published>2022-07-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/swkodi</id>
     <title>SimWorks Studios Details Kodiak Improvements</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ff1dba33c3ef3001b9e82c_Screen%20Shot%202022-08-19%20at%201.20.54%20AM.png" rel="enclosure" type="image/png" length="3575534"/>
     <summary>Sim: MSFS. Earlier this week, the developers of Microsoft Flight Simulator announced the release of its newest aircraft - Beechcraft Bonanza V35.  The Bonanza, developed by Carenado and published in partnership with Microsoft, is the third aircraft in MSFSâs new Famous Flyers series. The plane is powered by a 6-cylinder Continental IO-520B piston engine and has a 900 mile maximum range. It also features an iconic V-shaped tail that works as âa hybrid of a rudder and an elevatorâ. Unfortunately, neither Carenado or Microsoft released a feature list for the Bonanza. However, a trailer is available to those who are trying to catch a glimpse of what the aircraft has to offer. Currently, the V35 can be bought in the ingame Marketplace for $14.99 USD. Microsoft has teased that the next aircrafts of the Famous Flyers series will be coming soon. Threshold will keep you updated on this front. Shout to themsmyshoes from the Official Threshold Discord for the news scoop. â</summary>
     <published>2022-08-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmd738</id>
+    <title>PMDG 737-800NG at âTop of descentâ</title>
+    <updated>2022-08-21T00:00:00+00:00</updated>
+    <link href="/news/pmd738" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6302b517d3a4b32950df5104_Screen%20Shot%202022-08-21%20at%205.43.15%20PM.png" rel="enclosure" type="image/png" length="1393334"/>
+    <summary>Sim: MSFS. PMDG, developer of the popular 737 series add-ons for P3D and MSFS, has announced that the next aircraft of their 737 series, the -800, for Microsoft Flight Simulator is at the âtop of descentâ. Adding to this latest update from the team, the team also revealed a host of new enhancements for their current series of aircraft. The official post can be read over on the PMDG forums. Firstly, PMDG teased that they have handed what they believe to be the final build before the release of the 737-800 over to their testing team and eagerly await their testing feedback. This is a promising sign for a release in the very near future. PMDG has also disclosed they are hoping to release it in a window between the 23rd of August and the 31st of August. The 737-800 package will contain 4 airframe types; the 737-800 passenger airliner, the BBJ2, the 737-800 BCF, and the 737-800 BDSF.  PMDG has also discussed that new sun visors will be added to their current line of 737 aircraft which will add to the immersion. On top of this, the developers added that the functionality for the cockpit map lights to move around, a feature common in most MSFS aircrafts that have left many disappointed up to now. To read the full changelog of updated features and improvements you can take a look at the PMDG forums.  Finally, the developers released a video showcasing the all-new light and sun visor features. Check it out here. Shoutout to RCFLYER86 from the official Threshold Discord server for bringing this news to our attention.  â</summary>
+    <published>2022-08-21T00:00:00+00:00</published>
   </entry>
 </feed>
