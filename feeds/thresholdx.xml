@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-23T18:28:36.050462+00:00</updated>
+  <updated>2022-08-24T18:37:41.262436+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mktene</id>
-    <title>MK Studios Releases Tenerife Airports Package</title>
-    <updated>2022-07-14T00:00:00+00:00</updated>
-    <link href="/news/mktene" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62d07c3acce12651ea70bfb0_Microsoft-Flight-Simulator-2022-06-16-10_14_13-PM-scaled.jpg" rel="enclosure" type="image/jpeg" length="395337"/>
-    <summary>Sim: MSFS. Polish scenery creator MK Studios has launched two new airports today, with both North and South Tenerife Airports (GCXO and GCTS respectively) combined into one scenery package. For previous simulator platforms, such as Prepar3D version 5, the developer opted to sell the airports separately. "Welcome to Tenerife, the largest and most populous island of the Canary Islands," reads the product description. "The island of Tenerife has two airports: the Tenerife North Airport (or Los Rodeos) and Tenerife South Airport (or Reina Sofia). The south airport is situated in a tourist area, and therefore is the busiest, having hundreds of connections to different parts of the world. Tenerife North Airport operates mostly domestic flights between the islands of the archipelago." "In this package, we recreated these two airports, GCTS and GCXO, and added a few POIs with custom satellite images and mesh." The aerodrome pair package includes the following features: You can purchase MK Studios' Tenerife for EUR 15.99 from simMarket or $23.95 AUD (approx. US$16.19 | â¬16,14 | Â£13.68) from OrbxDirect.</summary>
-    <published>2022-07-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jf75du</id>
-    <title>JustFlight Releases 757 Development Update</title>
-    <updated>2022-07-27T00:00:00+00:00</updated>
-    <link href="/news/jf75du" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e089371f1b929e4177e29d_757_1_eGcsHo811.webp" rel="enclosure" type="image/webp" length="117254"/>
-    <summary>Sim: MSFS. On 22th of July 2022, they announced they had advanced the work on the VC animations, the FMS, and the flight dynamics. As for the external model, they work mainly on the landing gear. There were no other changes on the textures, as other exterior details are still to be finalized. The flight model has also been developed, but it is unknown to what extent. The developers simply say that there is still a lot of work to be done on this aspect. This update primarily adresses the modelling of the FMSÂ and the programming of its various components. As per the update, the developer states that the VCÂ animations 90% complete, although the devs then state that many switches still need to be integrated.Â Readdressing the FMS, the devs strongly emphasize the priority the FMSÂ has in development. Once the FMSÂ is complete, other systems will be worked on and addressed. If you are interested in reading the full update for yourself, you may view it on JustFlight's website. The work is still in progress, and no release date has been announced yet. Threshold will keep you updated on any futher updates.</summary>
-    <published>2022-07-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wxrff</id>
-    <title>When X-Plane Fights Real Forest Fires </title>
-    <updated>2022-07-31T00:00:00+00:00</updated>
-    <link href="/news/wxrff" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62e5e773660fbc7c7fb8e87f_screenshot-2022-07-18-183624.jpeg" rel="enclosure" type="image/jpeg" length="689898"/>
-    <summary>Sim: X-Plane. Bridger Aerospace, a real-life firefighting company, is now using VR simulation to train its pilots to fly in complex conditions, like flying low to put out a forest fire. The simulator they will be using? X-Plane. During real life training, it is impossible to accurately reproduce the conditions of wildfires pilots will be expected to put out. Only simulation and virtual reality can realistically recreate such extreme conditions. On top of this, pilots can even train in the same virtual aircraft using the âshared cockpitâ model from completely different locations - drastically increasing training efficiency and reducing overall cost.  Pretoria Engineering, a real life group of engineers from the University of Astoria, are designing the plug-in for X-Plane 12. When completed, it will integrate Bridgerâs aircraft with the ability to fly ultra realistic aerial firefighting missions. Such an integration of X-Plane into pilot training programs is proof that flight simulation is so much more than a video game - it is capable of not only fulfilling the dream of aviation enthusiasts but also playing a critical role in the training of pilots for an array of possible scenarios they may encounter in real life. â</summary>
-    <published>2022-07-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/isksat</id>
     <title>iniScene Releases San Antonio International Airport (KSAT) for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63051575033de8e1dbbd14ac_2116242128_Thranda_U206G-2022-08-1712_36_54PM.thumb.jpg.9e8cdc52d8aea1c08d1d99730144a82f.jpg" rel="enclosure" type="image/jpeg" length="72365"/>
     <summary>Sim: X-Plane. Popular aircraft developer Thranda, best known for their dynamic generation series of aircraft featuring the ever popular Pilatus PC6 and the DHC-2 to name but a few, have announced their next product for this line is the Cessna U206G stationair!  The aircraft will feature all the trimmings we have come to expect from Thrandaâs dynamic generation series. It will incorporate the usual texture and paint editing tools along with cockpit panel customization and an array of extra options both inside and out providing you with everything you will need to fulfill your mission, whatever it may be. In a forum post online, Thranda have announced the project and provided a variety of screenshots from throughout the development process and some from what seems to be at a close to completed stage.  Although a release date is not provided by the developer, they have encouraged everyone to âstay tuned for releaseâ hinting a release in the very near future is possible. Here at Threshold we will be sure to bring you any updates on release information.     â</summary>
     <published>2022-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pa24pi</id>
+    <title>InDepthSimulations Piper Comanche 250 development update</title>
+    <updated>2022-08-23T00:00:00+00:00</updated>
+    <link href="/news/pa24pi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630539197e66ee757d525825_pa24_-_2022-07-12_15.02.19.jpg" rel="enclosure" type="image/jpeg" length="339180"/>
+    <summary>Sim: X-Plane. InDepthSimulations have provided fans with an update in the development of their PA-24 Comanche 250 for X-plane 11. Exclusive news to threshold was provided by the lead developer from IDS around the future of the comanche project and whats to be expected!Â  The comanche 250 first flew in 1956 and production ceased in 1972 with just under 5,000 of the aircraft rolled off the production line. The comanche is still ever popular to this day and you can find them flying in many countries. Never before in X-plane 11 has the Comanche 250 been developed in such detail and its sure to be an impressive aircraft when it is finished.  Progress is going well on the Comanche with release planned for Q4 2022. We can see from previews supplied by InDepthSimulations that the modelling and texture work is progressing nicely.  â The IDS comanche 250 will boast options for a modern avionics suite using the RSG G5 and G500, but if this isn't to your liking it will also have the option to use a standard 6 pack "steam gauge"Â setup.  â Although still on target, development of the Comanche 250 has slowed slightly due to a small team, the developer has encouraged anyone who may be interested in joining up to assist in pushing this beautiful aircraft across the line to contact them through Discord â Threshold will keep you updated on developments with the IDS comanche as it progresses closer to the finish line!Â </summary>
+    <published>2022-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/yaknor</id>
+    <title>Northern Sky studio release Yakutat Airport</title>
+    <updated>2022-08-23T00:00:00+00:00</updated>
+    <link href="/news/yaknor" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630540e6eb659c78131a71c0_62fee0df7e2d2.jpg" rel="enclosure" type="image/jpeg" length="1418657"/>
+    <summary>Sim: MSFS. Northern Sky studio have released their all new Yakutat scenery for Microsoft Flight Simulator. Yakutat airport is located in southern Alaska, It is an incredibly important airport for the area. Alaska airlines operate regular flights in and out of the field in both passenger and cargo Boeing 737-700 aircraft.  The location of the field is ideal for exploring Alaska or for short passenger flight operations to areas such as Juneau or Cordova. Yakutat also played a vital role in World War 2 as a landing field for aircraft between Washington State and Elmendorf Air Force Base according to ORBX.  â â A popular general aviation airport, the only airliner traffic seen regularly at Yakutat are Alaska Airlines 737-700's.  The scenery features:Â  This stunning scenery is available for only $11.98 from Orbx  â</summary>
+    <published>2022-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inibiz</id>
+    <title>iniScene Release LEIB Ibiza Scenery for MSFS</title>
+    <updated>2022-08-24T00:00:00+00:00</updated>
+    <link href="/news/inibiz" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63065a9fc5d5e424ddd237c2_3.PNG" rel="enclosure" type="image/png" length="2415001"/>
+    <summary>Sim: MSFS. iniScene has released their all new Ibiza scenery for Microsoft flight simulator. Once a military airport during the civil war, now a party haven that sees Europeans flock in their thousands for the time of their lives, Ibiza is one of the most incredible islands in the Beleric Sea. iniScene have released an outstanding version of LEIB for MSFS boasting some incredible features such as; This scenery is perfect for those who enjoy; Ryanair, Jet2 or Easyjet style operations, around europe in their flight sim. The scenery downloads at a reasonable 1.58GB and can be purchased from the iniBuilds website for Â£13.49 GBP. </summary>
+    <published>2022-08-24T00:00:00+00:00</published>
   </entry>
 </feed>
