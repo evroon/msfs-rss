@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-08-25T18:28:24.789877+00:00</updated>
+  <updated>2022-08-26T18:28:45.114406+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/august-4th-2022-development-update/</id>
-    <title>August 4th, 2022 Development Update</title>
-    <updated>2022-08-04T23:22:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-4th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/HeKa48-Forum-1024x429.jpg" rel="enclosure" type="image/jpeg" length="43080"/>
-    <summary>Screenshot by HeKa48 (Forum) Our third Beta build, 1.27.13, released this morning at 8am PT. You can find the list of patch notes in our forums here, as well as vote in the new surveys here. We already see important feedback coming through and appreciate you taking the time to share your comparisons, regressions, thoughts, … Continued</summary>
-    <published>2022-08-04T23:22:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/fs-academy-sale/</id>
     <title>FS Academy Sale</title>
@@ -54,12 +45,13 @@
     <published>2022-08-18T23:44:15+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/</id>
-    <title>Community Spotlight: Lillo and Roberto</title>
-    <updated>2022-07-27T16:06:36+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-lillo-and-roberto/" rel="alternate"/>
-    <summary>Accessibility is one of the core values at Microsoft. Refining our products so they can be enjoyed by everyone — regardless of physical ability — is extremely important to us. A few years ago, the Xbox team introduced the Xbox Adaptive Controller to make thousands of great games on Xbox and PC accessible to an … Continued</summary>
-    <published>2022-07-27T16:06:36+00:00</published>
+    <id>https://www.flightsimulator.com/august-25th-2022-development-update/</id>
+    <title>August 25th, 2022 Development Update</title>
+    <updated>2022-08-25T23:21:34+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-25th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/IronWings_VP-Twitter-3-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="49819"/>
+    <summary>Screenshot by IronWings_VP (Twitter) Earlier today at gamescom in Cologne, Germany, the team was proud to make some new announcements about Microsoft Flight Simulator. See below for details: Local Legend VI: Junkers F 13: The world’s first all-metal transport plane, this innovative and highly influential aircraft is available now from the in-sim Marketplace for USD $14.99. City Update 1 (CU1): a … Continued</summary>
+    <published>2022-08-25T23:21:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
@@ -74,8 +66,16 @@
     <title>Famous Flyer III: Beechcraft Bonanza V35</title>
     <updated>2022-08-18T22:22:37+00:00</updated>
     <link href="https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/MicrosoftTeams-image-35-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121047"/>
     <summary>The Beechcraft Bonanza V35 is one of the great classics of the world of aviation. The V35, produced from 1966 to 1967, hails from one of the most distinctive lines of airplanes in history, the Bonanza family. First flown on December 22, 1945, the Bonanza is still being manufactured, making it the longest continuously produced … Continued</summary>
     <published>2022-08-18T22:22:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-vi-junker-f-13/</id>
+    <title>Local Legend VI: Junkers F 13</title>
+    <updated>2022-08-25T19:00:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-vi-junker-f-13/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/MicrosoftTeams-image-65-1024x576.png" rel="enclosure" type="image/png" length="244286"/>
+    <summary>One of the most important and innovative aircraft in aviation history is now available for Microsoft Flight Simulator, the stately Junkers F 13!The Microsoft Flight Simulator Team is delighted to announce the release of Local Legend VI: the Junkers F 13. A breakthrough design that remains iconic to this day, the F 13 was the … Continued</summary>
+    <published>2022-08-25T19:00:43+00:00</published>
   </entry>
 </feed>
