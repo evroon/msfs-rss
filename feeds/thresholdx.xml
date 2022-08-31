@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-08-30T18:28:17.154690+00:00</updated>
+  <updated>2022-08-31T18:33:13.655842+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jff28u</id>
-    <title>Just Flight Publishes Fokker F28 Fellowship Development Update</title>
-    <updated>2022-08-05T00:00:00+00:00</updated>
-    <link href="/news/jff28u" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ec9b05681fa0dbd328e67a_1000_Air_France_srxkHMBHR.png.webp" rel="enclosure" type="image/webp" length="89426"/>
-    <summary>Sim: MSFS. Earlier this week, developer Just Flight published a brief update for its upcoming Fokker F28 Fellowship for Microsoft Flight Simulator. The short blog focused on the work being done on the aircraftâs interior modeling/texturing and cockpit lighting. Announced just over a year ago, Just Flightâs Fokker F28 has seen extensive work being done on it over the past few months. Since the last update, the developers have been making âextensive upgrades to the cockpitâ. Due to the great variations in cockpit design that exist between the F28 variants operated by different airlines, the team chose to base their design on the real F28 they visited in Fokker Technical College. With the layout finalized, the developers are working to improve the visual fidelity of the cockpit while testers, including Â âF28 flight, engineering, and training crewâ, are checking and rechecking every detail. Apart from cockpit modeling, progress has also been made in cockpit lighting. Just Flight has included a few pictures in the update to showcase the night lighting of the Fokkerâs instruments, annunciator, and warning lights. Currently, Just Flight is yet to announce the release date and pricing of the aircraft. Threshold will keep you updated on this front. Shout out to Joe from the official Threshold Discord server for the news scoop. â</summary>
-    <published>2022-08-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniadu</id>
     <title>iniScene Publishes August Development Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630b3bd342457517411b5b2f_1.PNG" rel="enclosure" type="image/png" length="1468068"/>
     <summary>Sim: MSFS. After having developed the A310 for MSFS, iniBuilds announces the continuation of its partnership with MSFS with two new aircraft under development: The Curtiss JN-4 Jenny and the Grumman G-21A Goose. Both aircraft will be 100% free and developed exclusively for MSFS. In a forum post, the CEO of iniBuilds is pleased to announce the continuation of their partnership with MSFS with these two historic aircraft under development. The Curtiss JN-4 Jenny, was a military training aircraft with production starting in 1915. After the end of the First World War, there was a surplus of aircraft that became civilian aircraft in 1918. From then on, the JN-4 became a very popular trainer for solo training flights, for the civilian market. It is therefore a historic aircraft full of adventure and history that iniBuilds is developing for a modern simulator, more than 100 years after the real-life Curtiss JN-4 Jenny was released. The second aircraft under development, the Grumman G-21A Goose, has a different story. Originally, it was a group of Long Islanders who wanted a business aircraft to fly to and from New York. So they approached Grumman. Following discussions, Grumman converted the Grumman Goose and that's how the G-21A was born, in around 1936. The G-21A was later upgraded to carry 8 passengers and fly military missions all over the world. iniBuilds has endeavoured to reproduce this atmosphere in the aircraft cabin with a bar, champagne bucket and restroom facilities to remain true to the model.Â  The first pictures of the cockpit show the progress the developers have made on this aircraft, which already makes us want to fly it!</summary>
     <published>2022-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp12pr</id>
+    <title>X-plane 12 On The Horizon </title>
+    <updated>2022-08-30T00:00:00+00:00</updated>
+    <link href="/news/xp12pr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630e5546d03ed8751f504f18_FbbRDtFXoAMOkdh.jpg" rel="enclosure" type="image/jpeg" length="381275"/>
+    <summary>Sim: X-Plane. X-plane 12 is well and truly just around the corner! Over recent weeks Laminar Research have released more and more teaser footage of X-plane 12 to the public.  Perhaps the most significant update so far, alongside the release of the X-plane mobile version 12 update, has been published just moments ago via the official X-plane twitter in which Laminar disclose a new build, which is a strong candidate for public early access and is currently being wrapped up and prepared for testing by the team. Testing is likely to begin tomorrow according to Laminar. Once this testing begins we should have a much better idea of timeline for release!  Exciting times for X-plane fans, for quick and correct information keep your eyes on www.thresholdx.net For now, we will leave you with some stunning photos released by the X-plane team in preparation for release.  â Thanks to community member Serzh for highlighting this news!Â </summary>
+    <published>2022-08-30T00:00:00+00:00</published>
   </entry>
 </feed>
