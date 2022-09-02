@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-01T18:30:55.299717+00:00</updated>
+  <updated>2022-09-02T18:29:39.992164+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/fs-academy-sale/</id>
-    <title>FS Academy Sale</title>
-    <updated>2022-08-05T17:14:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/fs-academy-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/FSAcademy_Sale_2022_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="75162"/>
-    <summary>5 Items On Sale Now in the Marketplace.</summary>
-    <published>2022-08-05T17:14:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-11th-2022-development-update/</id>
     <title>August 11th, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/IronWings_VP-Twitter-3-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="49819"/>
     <summary>Screenshot by IronWings_VP (Twitter) Earlier today at gamescom in Cologne, Germany, the team was proud to make some new announcements about Microsoft Flight Simulator. See below for details: Local Legend VI: Junkers F 13: The world’s first all-metal transport plane, this innovative and highly influential aircraft is available now from the in-sim Marketplace for USD $14.99. City Update 1 (CU1): a … Continued</summary>
     <published>2022-08-25T23:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-1st-2022-development-update/</id>
+    <title>September 1st, 2022 Development Update</title>
+    <updated>2022-09-01T22:44:22+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-1st-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/ExplorerJB-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="72597"/>
+    <summary>Screenshot by ExplorerJB (Forum) With August now in the rearview mirror, many of you will be returning to school for the new year or starting college. For those studying an aviation-related field, we wish you the best of luck and hope your experiences with Microsoft Flight Simulator will serve you well in your educational endeavors. … Continued</summary>
+    <published>2022-09-01T22:44:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
