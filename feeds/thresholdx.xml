@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-02T18:29:40.995802+00:00</updated>
+  <updated>2022-09-03T18:28:20.310103+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniadu</id>
-    <title>iniScene Publishes August Development Update</title>
-    <updated>2022-08-08T00:00:00+00:00</updated>
-    <link href="/news/iniadu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f09df44826b824a9cb2609_Screen%20Shot%202022-08-08%20at%201.23.54%20AM.png" rel="enclosure" type="image/png" length="2821738"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer iniScene published its development update for the month of August. The brief blog touched upon the teamâs plan for the coming weeks and unveiled two new sceneries - Ibiza Airport for Microsoft Flight Simulator (LEIB) and Buffalo Airport (KBUF) for X-Plane. 	Starting off the update, the developer announced Ibiza Airport for MSFS and confirmed that the scenery will be available for purchase later this month. Though the team is yet to release further details on the airport, it can be seen from the trailer that it will feature everything from terminal interiors and PBR textures to animated vegetation and custom night lighting. â 	Apart from Ibiza, the developer also announced Buffalo Airport for X-Plane. The scenery will feature hand-made ground polygons, realistic ground equipment, and dynamic lighting, and high quality textures. iniScene confirmed that the airport will be fully compatible with upcoming X-Plane 12 and teased that a few more X-Plane scenarios will be released later this year.  Currently, the developers are yet to announce a firm release date for either Ibiza or Buffalo airport. Threshold will keep you updated on this front. Shout out to MJ from the official Threshold Discord for the news scoop.</summary>
-    <published>2022-08-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sfosfd</id>
     <title>ShortFinal Design Releases KSFO Definitive for XP11</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630e5546d03ed8751f504f18_FbbRDtFXoAMOkdh.jpg" rel="enclosure" type="image/jpeg" length="381275"/>
     <summary>Sim: X-Plane. X-plane 12 is well and truly just around the corner! Over recent weeks Laminar Research have released more and more teaser footage of X-plane 12 to the public.  Perhaps the most significant update so far, alongside the release of the X-plane mobile version 12 update, has been published just moments ago via the official X-plane twitter in which Laminar disclose a new build, which is a strong candidate for public early access and is currently being wrapped up and prepared for testing by the team. Testing is likely to begin tomorrow according to Laminar. Once this testing begins we should have a much better idea of timeline for release!  Exciting times for X-plane fans, for quick and correct information keep your eyes on www.thresholdx.net For now, we will leave you with some stunning photos released by the X-plane team in preparation for release.  â Thanks to community member Serzh for highlighting this news!Â </summary>
     <published>2022-08-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inihop</id>
+    <title>iniScene Release Hooper Heliport </title>
+    <updated>2022-09-03T00:00:00+00:00</updated>
+    <link href="/news/inihop" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631398e491ee611357bc243a_4.PNG" rel="enclosure" type="image/png" length="1503369"/>
+    <summary>Sim: X-Plane. iniScene has released their all-new X-plane 11 Hooper Heliport scenery. This is a new milestone for iniScene being their first-ever entry into the helicopter market. the iconic Hooper Heliport (58CA) is located in thriving downtown Los Angeles, California. Owned by the City of Los Angeles, the heliport is used exclusively by the LAPD's 16 helicopters. Key features of this scenery include;Â  â iniScene has released a trailer for their all-new scenery which can be seen; â Hooper Heliport is available now from the ini-Store for just Â£4.99 GBP â â</summary>
+    <published>2022-09-03T00:00:00+00:00</published>
   </entry>
 </feed>
