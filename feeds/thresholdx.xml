@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-04T18:27:58.915594+00:00</updated>
+  <updated>2022-09-05T18:30:44.422913+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfosfd</id>
-    <title>ShortFinal Design Releases KSFO Definitive for XP11</title>
-    <updated>2022-08-08T00:00:00+00:00</updated>
-    <link href="/news/sfosfd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f09d0e1ca43f55577d226d_a350_xp11%20-%202022-08-04%2013.25.45.jpg" rel="enclosure" type="image/jpeg" length="238302"/>
-    <summary>Sim: X-Plane. Known developer for X-Plane 11, ShortFinal Design (aka MisterX6) has released his long-awaited KSFO Definitive Project for X-Plane 11. With many updates from the previous rendition, this visual rendition of San Francisco International impresses one and all, with new techniques used by the developer. MisterX6 released his first and only freeware rendition of KSFO back in 2015, and it underwent updates till he moved to payware projects. Since then, the San Francisco area received no love from developers, till SFD announced he was revisiting the area and had started from scratch on the project. This rendition has a vast inclusion list that has been provided. Starting off, the usage of SAM for jetways and airport operations has been used to add realism and life to the airport. The airport layout shipped is the current layout of KSFO as of 2022. Various animations of airport vehicles, workers, and passengers have also been included. The usage of PBR textures is present throughout the scenery package. For the complete feature list, you can view it on the X-Plane.Org Store This rendition of KSFO is now available on the .Org Store and sells for $26.95. If you are interested in other packages developed by ShortFinal Design, you can view his payware catalog on the .Org Store as well. If you are interested in his freeware catalog, you can have a look over on his forum page.</summary>
-    <published>2022-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pc12ca2</id>
-    <title>Carenado Finishes PC12 for Microsoft Flight Simulator</title>
-    <updated>2022-08-12T00:00:00+00:00</updated>
-    <link href="/news/pc12ca2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f68cc569f22508515e2486_298795014_5315779201832184_7004121334989087429_n.jpg" rel="enclosure" type="image/jpeg" length="303487"/>
-    <summary>Sim: MSFS. Carenado has announced that development work and testing are complete on their upcoming PC12, meaning that it is now ready to fly under the command of virtual pilots! The aircraft has been a long-awaited addon for Microsoft Flight Simulator and from what we can see visually in the teasers, it looks stunning.  In a recent press release on their Facebook page, the developers said: âdear friends, we are very happy to inform you that the PC12 project was finished and handed over to Microsoft to be uploaded to the simulator marketplace, Microsoft recently told us that this will happen in the first days of September, we appreciate all the shows of support and understanding setbacks in the development of this project, thank you all very much and we hope you have fun with this wonderful plane!â Judging by the post, it looks like fans of Carenado and the PC12 can expect to take off for the first time in the Pilatus early in September.  Though the developers are yet to announce a precise release date for the PC12, it is certain that we only have a few more weeks to wait! Threshold will keep you updated on any news regarding the aircraft. For now, check out a previous article on the PC12  â</summary>
-    <published>2022-08-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inikbuf</id>
-    <title>iniScene release Buffalo Niagara KBUF scenery for X-Plane 11 </title>
-    <updated>2022-08-12T00:00:00+00:00</updated>
-    <link href="/news/inikbuf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f68e8e7904d06ceed85d21_22_24069982-7921-4e4f-b57a-28f78a2b1b40.png.webp" rel="enclosure" type="image/webp" length="555864"/>
-    <summary>Sim: MSFS. iniBuilds has released its anticipated Buffalo Niagara scenery for X-plane 11. KBUF is located in Buffalo New York, the airport serves Buffalo and the surrounding area, as well as the southern golden horseshoe region of Ontario Canada. Interestingly KBUF is the third busiest airport in New York. It serves as a hub for; United Airlines, American Airlines, Delta, Jet Blue, and various other airlines on top of being a relatively large hub for FedEx Express and UPS.  The developers have teased that the scenery boasts  You can find the full feature list for KBUF here Currently, Buffalo Niagara Airport is available for the reasonable price of Â£16.99 on the iniScene Store. The developers recommend users to have at least 2.94GB of free space on their hard drives to successfully install the product. Be sure to follow Threshold for more updates on the latest scenery and aircraft for MSFS and X-plane 11.</summary>
-    <published>2022-08-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inkadl</id>
     <title>IniBuilds Announces Dallas Love Field for MSFS and Partnership with iBlueYonder</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631398e491ee611357bc243a_4.PNG" rel="enclosure" type="image/png" length="1503369"/>
     <summary>Sim: X-Plane. iniScene has released their all-new X-plane 11 Hooper Heliport scenery. This is a new milestone for iniScene being their first-ever entry into the helicopter market. the iconic Hooper Heliport (58CA) is located in thriving downtown Los Angeles, California. Owned by the City of Los Angeles, the heliport is used exclusively by the LAPD's 16 helicopters. Key features of this scenery include;Â  â iniScene has released a trailer for their all-new scenery which can be seen; â Hooper Heliport is available now from the ini-Store for just Â£4.99 GBP â â</summary>
     <published>2022-09-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rjp146</id>
+    <title>Just Flight Publishes Blog on Differences Between RJ Professional and 146 Professional</title>
+    <updated>2022-09-05T00:00:00+00:00</updated>
+    <link href="/news/rjp146" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63153e5ea1b32d75101a875b_RJ_9.jpg" rel="enclosure" type="image/jpeg" length="275969"/>
+    <summary>Sim: MSFS. Earlier this week, developer Just Flight published a short blog on the key differences between its upcoming RJ Professional for Microsoft Flight Simulator and the 146 Professional for MSFS that was released almost a year ago. Through the post, Just Flight briefly introduced the most noticeable, as well as the more hidden, differences in exterior modeling and cockpit layout of the two products. Starting with the exterior, the developer pointed out that RJ Professional will feature different probe configuration, more powerful engine options, and as many as 29 new liveraries. Moving on to the cockpit, the most significant upgrades to the aircrafts can be seen. Most of the analog instruments from the HDI to the engine indicators are placed with a new suite of electronic flight instrumentation systems. The new system will also include a brand new primary flight instrument system, and navigational display. Furthermore, the cockpit will feature a digital metric altimeter, full authority digital engine control system, and a âmore capable digital flight guidance system (FGS) is controlled by the mode control panel (MCP)â Finally, the RJ Professional will be equipped with two custom-coded GNLU-910 FMSs and a new automatic pressurization system in the overhead panel. In addition to the upgrades described above, a series of more subtle changes from a reworked radio panel and yoke checklists are also added to the aircraft. A full list of changes can be checked out on Just Flightâs website. Currently, Just Flight is yet to announce a release date and pricing for the RJ Professional for MSFS. Threshold will keep you updated on this front. â</summary>
+    <published>2022-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp12fl</id>
+    <title>X-Plane 12 Release On Very Short Final! </title>
+    <updated>2022-09-05T00:00:00+00:00</updated>
+    <link href="/news/xp12fl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162b3f35ac39c183d12bb6_Fb5zPBUWIAsOIEo.jpg" rel="enclosure" type="image/jpeg" length="857267"/>
+    <summary>Sim: X-Plane. Laminar Research, Developers of X-Plane have announced that their all-new and game-changing Flight sim is on short final and expected for release within 24 hours!Â  In an official X-Plane Twitter announcement, the developers revealed;  â Update:Â  As of two minutes ago, the X-plane website has gone down for maintenance which X-plane has confirmed on Twitter, âdown for obvious reasonsâ¦. It's happeningâ Release is expected very shortly.Â  Keep your eyes peeled for more articles as the next 24 hours unfold. We will be discussing statements from developers on their products for X-Plane 12. We endeavour to bring you all the latest news surrounding this exciting new release!Â  â</summary>
+    <published>2022-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aerfal</id>
+    <title>Aerobask Provide Update On Falcon 8X</title>
+    <updated>2022-09-05T00:00:00+00:00</updated>
+    <link href="/news/aerfal" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162b3b5ff28b1db212e3cd_312719733_Slection_1125.jpg.3a54ceeb64fd577b86706c42da0ace99.jpg" rel="enclosure" type="image/jpeg" length="137511"/>
+    <summary>Sim: X-Plane. X-Plane 12 is just around the corner, and with NDAs lifted as of the 5th of September, many developers have been providing updates on their new and converted products for X-Plane 12. One of the most eagerly anticipated products is the all-new Aerobask Dassault Falcon 8X.Â  Updates on Falcon 8X development have been few and far between as of late due to Non-disclosure agreements between developers of aircraft and Laminar Research, developers of X-Plane 12. Now that such agreements have been lifted, Aerobask has provided some stunning new images through a forum post of the Falcon 8x in the X-Plane 12 world.Â  Its worth mentioning that each screenshot has been taking in stock X-Plane 12, we can see just how stunning the new sim is!  Although not much information surrounding progress or a timeline has been released, we have been provided with a closer look at the aircraft than ever before!Â  We will keep you updated on this as it progresses but for now, enjoy these beautiful screenshots â</summary>
+    <published>2022-09-05T00:00:00+00:00</published>
   </entry>
 </feed>
