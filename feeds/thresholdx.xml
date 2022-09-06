@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-05T18:30:44.422913+00:00</updated>
+  <updated>2022-09-06T18:29:59.202715+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inkadl</id>
-    <title>IniBuilds Announces Dallas Love Field for MSFS and Partnership with iBlueYonder</title>
-    <updated>2022-08-15T00:00:00+00:00</updated>
-    <link href="/news/inkadl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62f9e09e2ad68d9da820e3ad_unknown.png" rel="enclosure" type="image/png" length="982644"/>
-    <summary>Sim: MSFS. IniBuilds has announced its partnership with iBlueYonderpour to develop its upcoming Dallas Love Field (KDAL) scenery for Microsoft Flight Simulator. After complimenting the CEO of iBlueYonder, Bill Womack, IniBuilds revealed that it has already started development on KDAL. However, neither developers have disclosed any details on either the scenery or the partnership. Though IniBuilds is well known within the community, iBlueYonder may be a less familiar face to some. In reality however, iBlueYonder is very experienced in the creation of sceneries for P3D, X-Plane, FSX, and MSFS. More details on the developers can be found here. But why choose KDAL? Though Lovefield is often overshadowed by Fort Worth, it is located much closer to Dallas city center and serves as a main hub for Southwest Airlines, a well-known low cost airline that operates an all 737 fleet. Southwest, Delta and Alaska also flies a few flights to select destinations per day. â The IniBuilds forum post ends with the announcement of a trailer about this airport that will be available soon. Currently no release date or pricing had been disclosed. Threshold will keep you updated on this front.  â</summary>
-    <published>2022-08-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/v35msf</id>
     <title>Microsoft Releases Beechcraft Bonanza V35 for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/aerfal" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162b3b5ff28b1db212e3cd_312719733_Slection_1125.jpg.3a54ceeb64fd577b86706c42da0ace99.jpg" rel="enclosure" type="image/jpeg" length="137511"/>
     <summary>Sim: X-Plane. X-Plane 12 is just around the corner, and with NDAs lifted as of the 5th of September, many developers have been providing updates on their new and converted products for X-Plane 12. One of the most eagerly anticipated products is the all-new Aerobask Dassault Falcon 8X.Â  Updates on Falcon 8X development have been few and far between as of late due to Non-disclosure agreements between developers of aircraft and Laminar Research, developers of X-Plane 12. Now that such agreements have been lifted, Aerobask has provided some stunning new images through a forum post of the Falcon 8x in the X-Plane 12 world.Â  Its worth mentioning that each screenshot has been taking in stock X-Plane 12, we can see just how stunning the new sim is!  Although not much information surrounding progress or a timeline has been released, we have been provided with a closer look at the aircraft than ever before!Â  We will keep you updated on this as it progresses but for now, enjoy these beautiful screenshots â</summary>
+    <published>2022-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp12re</id>
+    <title>X-Plane 12 Released</title>
+    <updated>2022-09-05T00:00:00+00:00</updated>
+    <link href="/news/xp12re" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162c1e2485a0822bcf4b73_Fb5r2HLXgAUS8Mf.jpg" rel="enclosure" type="image/jpeg" length="76582"/>
+    <summary>Sim: X-Plane. The moment has arrived, and a new generation of flight simulator is upon us. Taking to Twitter just moments ago X-Plane announced that X-Plane 12 is now available. X-Plane 12 can be purchased from X-Plane.com for $59.99Â  Laminar Research has provided the following information;Â  New features:Â  This Early Access digital edition is ideal for people who: X-Plane 12 Early Access includes: Continue to keep your eyes on Threshold over the coming weeks for the latest updates and news surrounding aircraft, scenery and much more for this all-new simulator. â â Â  â</summary>
     <published>2022-09-05T00:00:00+00:00</published>
   </entry>
 </feed>
