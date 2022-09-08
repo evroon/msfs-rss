@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-06T18:29:59.202715+00:00</updated>
+  <updated>2022-09-08T18:29:42.275874+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/v35msf</id>
-    <title>Microsoft Releases Beechcraft Bonanza V35 for MSFS</title>
-    <updated>2022-08-19T00:00:00+00:00</updated>
-    <link href="/news/v35msf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/62ff1dba33c3ef3001b9e82c_Screen%20Shot%202022-08-19%20at%201.20.54%20AM.png" rel="enclosure" type="image/png" length="3575534"/>
-    <summary>Sim: MSFS. Earlier this week, the developers of Microsoft Flight Simulator announced the release of its newest aircraft - Beechcraft Bonanza V35.  The Bonanza, developed by Carenado and published in partnership with Microsoft, is the third aircraft in MSFSâs new Famous Flyers series. The plane is powered by a 6-cylinder Continental IO-520B piston engine and has a 900 mile maximum range. It also features an iconic V-shaped tail that works as âa hybrid of a rudder and an elevatorâ. Unfortunately, neither Carenado or Microsoft released a feature list for the Bonanza. However, a trailer is available to those who are trying to catch a glimpse of what the aircraft has to offer. Currently, the V35 can be bought in the ingame Marketplace for $14.99 USD. Microsoft has teased that the next aircrafts of the Famous Flyers series will be coming soon. Threshold will keep you updated on this front. Shout to themsmyshoes from the Official Threshold Discord for the news scoop. â</summary>
-    <published>2022-08-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmd738</id>
-    <title>PMDG 737-800NG at âTop of descentâ</title>
-    <updated>2022-08-21T00:00:00+00:00</updated>
-    <link href="/news/pmd738" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6302b517d3a4b32950df5104_Screen%20Shot%202022-08-21%20at%205.43.15%20PM.png" rel="enclosure" type="image/png" length="1393334"/>
-    <summary>Sim: MSFS. PMDG, developer of the popular 737 series add-ons for P3D and MSFS, has announced that the next aircraft of their 737 series, the -800, for Microsoft Flight Simulator is at the âtop of descentâ. Adding to this latest update from the team, the team also revealed a host of new enhancements for their current series of aircraft. The official post can be read over on the PMDG forums. Firstly, PMDG teased that they have handed what they believe to be the final build before the release of the 737-800 over to their testing team and eagerly await their testing feedback. This is a promising sign for a release in the very near future. PMDG has also disclosed they are hoping to release it in a window between the 23rd of August and the 31st of August. The 737-800 package will contain 4 airframe types; the 737-800 passenger airliner, the BBJ2, the 737-800 BCF, and the 737-800 BDSF.  PMDG has also discussed that new sun visors will be added to their current line of 737 aircraft which will add to the immersion. On top of this, the developers added that the functionality for the cockpit map lights to move around, a feature common in most MSFS aircrafts that have left many disappointed up to now. To read the full changelog of updated features and improvements you can take a look at the PMDG forums.  Finally, the developers released a video showcasing the all-new light and sun visor features. Check it out here. Shoutout to RCFLYER86 from the official Threshold Discord server for bringing this news to our attention.  â</summary>
-    <published>2022-08-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rjprfs</id>
     <title>RJ Professional by Just Flight Simulation for MSFS in development</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162c1e2485a0822bcf4b73_Fb5r2HLXgAUS8Mf.jpg" rel="enclosure" type="image/jpeg" length="76582"/>
     <summary>Sim: X-Plane. The moment has arrived, and a new generation of flight simulator is upon us. Taking to Twitter just moments ago X-Plane announced that X-Plane 12 is now available. X-Plane 12 can be purchased from X-Plane.com for $59.99Â  Laminar Research has provided the following information;Â  New features:Â  This Early Access digital edition is ideal for people who: X-Plane 12 Early Access includes: Continue to keep your eyes on Threshold over the coming weeks for the latest updates and news surrounding aircraft, scenery and much more for this all-new simulator. â â Â  â</summary>
     <published>2022-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pcmsfs</id>
+    <title>Project Coastline For MSFS Released</title>
+    <updated>2022-09-07T00:00:00+00:00</updated>
+    <link href="/news/pcmsfs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6318c38cffe8d6748154f34b_279722058_397582412376955_6692229729613934459_n.jpg" rel="enclosure" type="image/jpeg" length="813814"/>
+    <summary>Sim: MSFS. Project Coastline Italy and Malta have been released for Microsoft Flight Simulator. This version may be a work in progress but it is still a jaw-dropping scenery package and is now available for purchase. Containing 400km of the Italian coastline this VFR scenery is a pilot's dream. â âRocks, cliffs, boats, yachts, docks, harbours, marinas, palms, working lighthouses, moving harbour crane lifts, parasols, night lights, animals, and more have been added to improve the overall quality of the coast, which by default is flat and dull. Landmarks have been added to the world map so you can easily plan your trip.â Â  According to the developers the addon currently includes;Â  - The whole Tuscany region improved with rocks, marinas, harbors, boats etc. - The commercial harbours of Genova, La Spezia, Savona-VadoÂ  (Liguria). - The commercial harbours of Cagliari, Olbia, Porto Torres (Sardegna) - The commercial harbours of Gioia Tauro, Reggio Calabria (Calabria) - The commercial harbour of Catania, faraglioni di Aci Trezza, - Palermo, Messina, Gela (Sicily) - The commercial harbour of Civitavecchia, Fiumicino, Olbia (Lazio) - The commercial harbour of Trieste (Friuli-Venezia-Giulia) Venezia (Veneto) - The commercial harbour of Bari, Taranto and Brindisi (Puglia) - The commercial harbour of Ravenna (Emilia-Romagna) - The commercial harbour of Naples and Salerno(Campania) - The commercial harbor of Ancona and Pescara (Marche) - Malta - Astronomical Observatories - Boats have been added to the whole Italian coast and lakes. - An optional freeware version of the Grosseto Military Airport LIRS (USAF planes are present just for eye candy). - All the rivers bridges and underwater objects of the 9 photogrammetric Italian cities have been cleaned up. Now all the bridges are visible and not covered in water. The cities are Milan, Verona, Venice, Bologna, Florence, Rome, Naples, Catania, Palermo, and Bari. Â  This is well and truly a must-have for VFR pilots who enjoy flying in the region and is available from both Flighsim.to and Simmarket for approximately â¬25.00Â  â</summary>
+    <published>2022-09-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aero12</id>
+    <title>Aerobask Announces Upcoming Release of ViperJet</title>
+    <updated>2022-09-07T00:00:00+00:00</updated>
+    <link href="/news/aero12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631914afdfb6c651033ab6bf_1677803628_viperjet-2022-08-2409_51_00.jpg.8e2f5543f43b4ad8bb55c49cbd2f1f61.jpg" rel="enclosure" type="image/jpeg" length="157684"/>
+    <summary>Sim: X-Plane. This week, Aerobask announced information regarding the ViperJet for the newly released X-Plane 12 Public Beta. Originally released in 2015 for XP10, the ViperJet has been updated to keep up with the improving progress of Laminarâs X-Plane Flight Simulator. New improvements for XP12 include updated avionics, a flight model tailored for XP12, along with all the expected visuals such as 3D model textures. Aerobask rebuilt the entire aircraft to take advantage of the latest features the new sim has to offer. Detailed in this forum post are XP12 images of this sleek home-built jet showcasing the new XP12 effects added to the new model. We will keep you updated with more Aerobask news here on Threshold! â</summary>
+    <published>2022-09-07T00:00:00+00:00</published>
   </entry>
 </feed>
