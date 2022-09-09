@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-08T18:29:42.275874+00:00</updated>
+  <updated>2022-09-09T18:32:02.474769+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rjprfs</id>
-    <title>RJ Professional by Just Flight Simulation for MSFS in development</title>
-    <updated>2022-08-22T00:00:00+00:00</updated>
-    <link href="/news/rjprfs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6303fcd2b01f2b88d62ede9b_Capture.PNG" rel="enclosure" type="image/png" length="273376"/>
-    <summary>Sim: MSFS. After the great success of the B-146 Professional for x-plane 11, the developers of Just Flight have set themselves a new challenge: As in real life, they want to develop the 146 Professional into the RJ Professional, a new range that will be exclusively available for MSFS. Just Flight are excited to announce that they are working on the RJ professional range which will include 3 variants: The RJ70, the RJ85 and the RJ100. Variants exclusively available for MSFS. â If we look at the historical context of aviation, the RJ range, derived from the 146 range from 1993 onwards (1988 for the RJ100). We can note improvements made from this date, such as the introduction of an EFIS cockpit with digital displays replacing the ADI, HSI and engine instrumentation present on the 146. â This is exactly what Just Flight is putting forward in the development of the RJ Professional, the same changes are being implemented. There have been many other changes between the 146 and the RJ, both in real life and in the simulation world with Just Flight indicating these changes on the aircraft web page. â â â On the 15th of August, Just Flight published development updates with images available of this future product, both cockpit and exterior model images are seen, without telling us much more. They simply inform us that work is still in progress, that pictures are available and that they will keep us informed of future updates. But for the moment, there is no official release date for this aircraft. â â â â</summary>
-    <published>2022-08-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/thrstat</id>
     <title>Thranda reveals U206G Stationair in developement</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631914afdfb6c651033ab6bf_1677803628_viperjet-2022-08-2409_51_00.jpg.8e2f5543f43b4ad8bb55c49cbd2f1f61.jpg" rel="enclosure" type="image/jpeg" length="157684"/>
     <summary>Sim: X-Plane. This week, Aerobask announced information regarding the ViperJet for the newly released X-Plane 12 Public Beta. Originally released in 2015 for XP10, the ViperJet has been updated to keep up with the improving progress of Laminarâs X-Plane Flight Simulator. New improvements for XP12 include updated avionics, a flight model tailored for XP12, along with all the expected visuals such as 3D model textures. Aerobask rebuilt the entire aircraft to take advantage of the latest features the new sim has to offer. Detailed in this forum post are XP12 images of this sleek home-built jet showcasing the new XP12 effects added to the new model. We will keep you updated with more Aerobask news here on Threshold! â</summary>
     <published>2022-09-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inilax</id>
+    <title>iniScene Announces LAX For MSFS</title>
+    <updated>2022-09-08T00:00:00+00:00</updated>
+    <link href="/news/inilax" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631a70eb202ef72b5c1cc906_1.PNG" rel="enclosure" type="image/png" length="2117777"/>
+    <summary>Sim: MSFS. The iniBuilds team have announced the release of their upcoming scenery, Los Angeles' LAX Airport. Over 170 different airlines serve the Los Angeles International Airport, being one of the busiest airports in the world making it a must-have in your flight sim. It is well known that iniBuilds pay close attention to detail when it comes to making scenery, making this upcoming release is no exception! This version of LAX is based in early to mid-2022, easily familiar if you've flown into LAX recently. iniScene detailed a slew of features in the official forum post here. Features include handmade ground textures and dynamic airport lighting. You'll find familiar logos, decals, and ground vehicles on the ramps creating the busy congested feel of LAX. iniBulids have also modeled terminal concourses by hand, giving you more things to check out and explore between flights. Of course, the iconic LAX entryway sign is modeled with dynamic lighting!  Currently, KLAX is in beta testing so expect a release in the near future. iniScene has released a promo trailer detailing more features and details not listed in the announcement post. Check it out below It's worth a watch! Expect more information regarding the release here at THRESHOLD.</summary>
+    <published>2022-09-08T00:00:00+00:00</published>
   </entry>
 </feed>
