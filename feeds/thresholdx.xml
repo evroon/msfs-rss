@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-09T18:32:02.474769+00:00</updated>
+  <updated>2022-09-10T18:31:00.177014+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/thrstat</id>
-    <title>Thranda reveals U206G Stationair in developement</title>
-    <updated>2022-08-23T00:00:00+00:00</updated>
-    <link href="/news/thrstat" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63051575033de8e1dbbd14ac_2116242128_Thranda_U206G-2022-08-1712_36_54PM.thumb.jpg.9e8cdc52d8aea1c08d1d99730144a82f.jpg" rel="enclosure" type="image/jpeg" length="72365"/>
-    <summary>Sim: X-Plane. Popular aircraft developer Thranda, best known for their dynamic generation series of aircraft featuring the ever popular Pilatus PC6 and the DHC-2 to name but a few, have announced their next product for this line is the Cessna U206G stationair!  The aircraft will feature all the trimmings we have come to expect from Thrandaâs dynamic generation series. It will incorporate the usual texture and paint editing tools along with cockpit panel customization and an array of extra options both inside and out providing you with everything you will need to fulfill your mission, whatever it may be. In a forum post online, Thranda have announced the project and provided a variety of screenshots from throughout the development process and some from what seems to be at a close to completed stage.  Although a release date is not provided by the developer, they have encouraged everyone to âstay tuned for releaseâ hinting a release in the very near future is possible. Here at Threshold we will be sure to bring you any updates on release information.     â</summary>
-    <published>2022-08-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pa24pi</id>
     <title>InDepthSimulations Piper Comanche 250 development update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631a70eb202ef72b5c1cc906_1.PNG" rel="enclosure" type="image/png" length="2117777"/>
     <summary>Sim: MSFS. The iniBuilds team have announced the release of their upcoming scenery, Los Angeles' LAX Airport. Over 170 different airlines serve the Los Angeles International Airport, being one of the busiest airports in the world making it a must-have in your flight sim. It is well known that iniBuilds pay close attention to detail when it comes to making scenery, making this upcoming release is no exception! This version of LAX is based in early to mid-2022, easily familiar if you've flown into LAX recently. iniScene detailed a slew of features in the official forum post here. Features include handmade ground textures and dynamic airport lighting. You'll find familiar logos, decals, and ground vehicles on the ramps creating the busy congested feel of LAX. iniBulids have also modeled terminal concourses by hand, giving you more things to check out and explore between flights. Of course, the iconic LAX entryway sign is modeled with dynamic lighting!  Currently, KLAX is in beta testing so expect a release in the near future. iniScene has released a promo trailer detailing more features and details not listed in the announcement post. Check it out below It's worth a watch! Expect more information regarding the release here at THRESHOLD.</summary>
     <published>2022-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xpil12</id>
+    <title>xPilot release XP12 Compatibility Update</title>
+    <updated>2022-09-10T00:00:00+00:00</updated>
+    <link href="/news/xpil12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5f3b23368a65f3d9a7c9a339_MainWindow.png" rel="enclosure" type="image/png" length="31476"/>
+    <summary>Sim: X-Plane. Popular plugin xPilot has been updated to beta version .35 which adds support for X-Plane 12 among some other changes. xPilot is a cross-platform pilot client for X-Plane 11 originally, and now X-Plane 12 that allows you to connect to the VATSIM Network so you can fly amongst aircraft and receive virtual air traffic control services in real-time. For a full changelog and the free download link, you can click here â Threshold, bringing you the latest in flight sim news!Â  â</summary>
+    <published>2022-09-10T00:00:00+00:00</published>
   </entry>
 </feed>
