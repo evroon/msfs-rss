@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-10T18:31:00.177014+00:00</updated>
+  <updated>2022-09-11T18:30:03.870191+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pa24pi</id>
-    <title>InDepthSimulations Piper Comanche 250 development update</title>
-    <updated>2022-08-23T00:00:00+00:00</updated>
-    <link href="/news/pa24pi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630539197e66ee757d525825_pa24_-_2022-07-12_15.02.19.jpg" rel="enclosure" type="image/jpeg" length="339180"/>
-    <summary>Sim: X-Plane. InDepthSimulations have provided fans with an update in the development of their PA-24 Comanche 250 for X-plane 11. Exclusive news to threshold was provided by the lead developer from IDS around the future of the comanche project and whats to be expected!Â  The comanche 250 first flew in 1956 and production ceased in 1972 with just under 5,000 of the aircraft rolled off the production line. The comanche is still ever popular to this day and you can find them flying in many countries. Never before in X-plane 11 has the Comanche 250 been developed in such detail and its sure to be an impressive aircraft when it is finished.  Progress is going well on the Comanche with release planned for Q4 2022. We can see from previews supplied by InDepthSimulations that the modelling and texture work is progressing nicely.  â The IDS comanche 250 will boast options for a modern avionics suite using the RSG G5 and G500, but if this isn't to your liking it will also have the option to use a standard 6 pack "steam gauge"Â setup.  â Although still on target, development of the Comanche 250 has slowed slightly due to a small team, the developer has encouraged anyone who may be interested in joining up to assist in pushing this beautiful aircraft across the line to contact them through Discord â Threshold will keep you updated on developments with the IDS comanche as it progresses closer to the finish line!Â </summary>
-    <published>2022-08-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/yaknor</id>
     <title>Northern Sky studio release Yakutat Airport</title>
@@ -150,6 +141,15 @@
     <link href="/news/xpil12" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5f3b23368a65f3d9a7c9a339_MainWindow.png" rel="enclosure" type="image/png" length="31476"/>
     <summary>Sim: X-Plane. Popular plugin xPilot has been updated to beta version .35 which adds support for X-Plane 12 among some other changes. xPilot is a cross-platform pilot client for X-Plane 11 originally, and now X-Plane 12 that allows you to connect to the VATSIM Network so you can fly amongst aircraft and receive virtual air traffic control services in real-time. For a full changelog and the free download link, you can click here â Threshold, bringing you the latest in flight sim news!Â  â</summary>
+    <published>2022-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xenv17</id>
+    <title>xEnviro Release Progress Update On Version 1.17 and Beyond </title>
+    <updated>2022-09-10T00:00:00+00:00</updated>
+    <link href="/news/xenv17" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631cf39ddb8f385a8463607d_scale_2.jpg" rel="enclosure" type="image/jpeg" length="78835"/>
+    <summary>Sim: X-Plane. The team behind the popular X-Plane addon xEnviro have released an update on what's in store regarding the project's future development.Â  âIn a forum post this evening, head of development Magnus has outlined future plans for the project along with reasons behind the perhaps seemingly slow development of version 1.17 â It has been revealed that xEnviro will not be released during the Beta phase of X-Plane 12. Magnus provides us with the reasoning behind this;Â  âxEnviro will not be released in this Beta run.Â Laminar Research has closed off all access to the platform by not giving access to the 3D draw callback, depth buffer and so on. X-Plane 11 was already limiting us and thus demanded a lot on performance to work. Especially when Vulkan was released, and our dynamic seasons got abruptly cut off. âÂ  Magnus goes on to further state; âHowever. We are in a dialogue with Austin on the matter, and I am optimistic that we will find a solution to our limited access so that we can release 1.18 in XP12. Regardless of when this access is given, we must finish 1.17 in XP11.â New features expected in version 1.17 of xEnviro include;Â  Magnus has disclosed that they are currently rebuilding the beta testing team and while he is not in a position to provide a time frame he provides us with in update in stating âWeâre at the final stretch before the chicanes that lead to the finish lineâ We will keep you update on the development of xEnviro V1.17 as it progresses.  â</summary>
     <published>2022-09-10T00:00:00+00:00</published>
   </entry>
 </feed>
