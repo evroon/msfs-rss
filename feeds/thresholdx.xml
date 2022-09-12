@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-11T18:30:03.870191+00:00</updated>
+  <updated>2022-09-12T18:32:22.250589+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/yaknor</id>
-    <title>Northern Sky studio release Yakutat Airport</title>
-    <updated>2022-08-23T00:00:00+00:00</updated>
-    <link href="/news/yaknor" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630540e6eb659c78131a71c0_62fee0df7e2d2.jpg" rel="enclosure" type="image/jpeg" length="1418657"/>
-    <summary>Sim: MSFS. Northern Sky studio have released their all new Yakutat scenery for Microsoft Flight Simulator. Yakutat airport is located in southern Alaska, It is an incredibly important airport for the area. Alaska airlines operate regular flights in and out of the field in both passenger and cargo Boeing 737-700 aircraft.  The location of the field is ideal for exploring Alaska or for short passenger flight operations to areas such as Juneau or Cordova. Yakutat also played a vital role in World War 2 as a landing field for aircraft between Washington State and Elmendorf Air Force Base according to ORBX.  â â A popular general aviation airport, the only airliner traffic seen regularly at Yakutat are Alaska Airlines 737-700's.  The scenery features:Â  This stunning scenery is available for only $11.98 from Orbx  â</summary>
-    <published>2022-08-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inibiz</id>
-    <title>iniScene Release LEIB Ibiza Scenery for MSFS</title>
-    <updated>2022-08-24T00:00:00+00:00</updated>
-    <link href="/news/inibiz" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63065a9fc5d5e424ddd237c2_3.PNG" rel="enclosure" type="image/png" length="2415001"/>
-    <summary>Sim: MSFS. iniScene has released their all new Ibiza scenery for Microsoft flight simulator. Once a military airport during the civil war, now a party haven that sees Europeans flock in their thousands for the time of their lives, Ibiza is one of the most incredible islands in the Beleric Sea. iniScene have released an outstanding version of LEIB for MSFS boasting some incredible features such as; This scenery is perfect for those who enjoy; Ryanair, Jet2 or Easyjet style operations, around europe in their flight sim. The scenery downloads at a reasonable 1.58GB and can be purchased from the iniBuilds website for Â£13.49 GBP. </summary>
-    <published>2022-08-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmdg78</id>
     <title>PMDG Release 737-800NG for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631cf39ddb8f385a8463607d_scale_2.jpg" rel="enclosure" type="image/jpeg" length="78835"/>
     <summary>Sim: X-Plane. The team behind the popular X-Plane addon xEnviro have released an update on what's in store regarding the project's future development.Â  âIn a forum post this evening, head of development Magnus has outlined future plans for the project along with reasons behind the perhaps seemingly slow development of version 1.17 â It has been revealed that xEnviro will not be released during the Beta phase of X-Plane 12. Magnus provides us with the reasoning behind this;Â  âxEnviro will not be released in this Beta run.Â Laminar Research has closed off all access to the platform by not giving access to the 3D draw callback, depth buffer and so on. X-Plane 11 was already limiting us and thus demanded a lot on performance to work. Especially when Vulkan was released, and our dynamic seasons got abruptly cut off. âÂ  Magnus goes on to further state; âHowever. We are in a dialogue with Austin on the matter, and I am optimistic that we will find a solution to our limited access so that we can release 1.18 in XP12. Regardless of when this access is given, we must finish 1.17 in XP11.â New features expected in version 1.17 of xEnviro include;Â  Magnus has disclosed that they are currently rebuilding the beta testing team and while he is not in a position to provide a time frame he provides us with in update in stating âWeâre at the final stretch before the chicanes that lead to the finish lineâ We will keep you update on the development of xEnviro V1.17 as it progresses.  â</summary>
     <published>2022-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xworld</id>
+    <title>X-WORLD Europe Released For X-Plane 12</title>
+    <updated>2022-09-11T00:00:00+00:00</updated>
+    <link href="/news/xworld" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631e5ade0228d10a8e8f8a95_2.PNG" rel="enclosure" type="image/png" length="481665"/>
+    <summary>Sim: X-Plane. Highly popular scenery package X-World developed by SimHeaven has released its European scenery package for X-Plane 12! In a post on their website, SimHeaven have announced the free scenery package which is now available.  The post on their website states;  "X-World continues for X-Plane 12 the successful and high quality sceneries for X-Plane 11 like X-Europe, X-America and so on. Objects are not set by an autogen rule, they are set Â following OSM data in addition with Microsoft building footprints, which leads to a more realistic look and feel." SimHeaven go on to further explain;  "X-WORLD is a series of scenery packages covering the whole world, each continental package is separate available: X-World_Africa, X-World_America, X-World_Antarctica, X-World_Asia, X-World_Australia-Oceania, X-World_Europe" The download for X-Europe can be found here. </summary>
+    <published>2022-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fisf6f</id>
+    <title>Flyingiron Simulation Releases its F6F Hellcat</title>
+    <updated>2022-09-12T00:00:00+00:00</updated>
+    <link href="/news/fisf6f" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631f1fa7aad167d92aefa828_f6f-32_900x.webp" rel="enclosure" type="image/webp" length="93348"/>
+    <summary>Sim: X-Plane. Flyingron Simulations released its long-anticipated F6F Hellcat, adding to its ever-growing war-bird hangar. In WWII, the Grumman Hellcat served primarily as a NAVY bird on aircraft carriers. It replaced the F4F Wildcat to take on the A6M Zero. The Hellcat later became one of the top performing combat aircraft of the war gaining over 5,000 kills by the end of World War II. Flyingiron has brought the Hellcats legacy to Microsoft Flight Simulator with meticulous attention to detail. Flyingiron has also gained recognition for its Spitfire and P-58 models developed for Microsoft Flight Simulator.Â The F6F-5 HELLCAT is for sale for the reasonable price of $45 AUD.  â The model is well detailed and handcrafted, taking over six months to complete. A few notable features include attention to aircraft systems and thermodynamics, factors to be considered in terms of wear and tear, and power plant management. Expect a learning curve when flying the Hellcat, which will challenge your manual flying skills. The F6F will be an exciting aircraft to switch to if you are used to flying today's modern birds. Usability features include a virtual tablet with customization options, maintenance, live aircraft monitoring, and more.Â  For a complete list of features including the product manual, check out the Hellcat product page here on the Flyingiron Simulations site. â</summary>
+    <published>2022-09-12T00:00:00+00:00</published>
   </entry>
 </feed>
