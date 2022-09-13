@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-12T18:32:22.250589+00:00</updated>
+  <updated>2022-09-13T18:31:55.019598+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmdg78</id>
-    <title>PMDG Release 737-800NG for MSFS</title>
-    <updated>2022-08-24T00:00:00+00:00</updated>
-    <link href="/news/pmdg78" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6306a7d02ca78ec9529b05bf_PMDG_NG38_screenshots4__18100.jpg" rel="enclosure" type="image/jpeg" length="91333"/>
-    <summary>Sim: MSFS. Popular aircraft developer PMDG have released their much anticipated Boeing 737-800NG for MSFS to complete their 737 collection which now features the -600, -700 and -800!Â The release of the 737-800 will no doubt be just as popular as the previous two models.Â  The 737-800 is one of the most successful aircraft to ever be built and is without a doubt the most successful aircraft ever produced by Boeing. The PMDG 737-800 features multiple variants on top of the standard passenger variant including freighter variants and the stunning BBJ2 variant.Â  â The PMDG 737-800NG is available now from the PMDG website for a sale price of $69.99 and with a usual price of $74.00. Find out more and get a full feature list over at PMDG.COM â</summary>
-    <published>2022-08-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lhsbd2</id>
     <title>LHSimulations Releases Budapest Airport v2 for Microsoft Flight Simulator</title>
@@ -150,6 +141,15 @@
     <link href="/news/fisf6f" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631f1fa7aad167d92aefa828_f6f-32_900x.webp" rel="enclosure" type="image/webp" length="93348"/>
     <summary>Sim: X-Plane. Flyingron Simulations released its long-anticipated F6F Hellcat, adding to its ever-growing war-bird hangar. In WWII, the Grumman Hellcat served primarily as a NAVY bird on aircraft carriers. It replaced the F4F Wildcat to take on the A6M Zero. The Hellcat later became one of the top performing combat aircraft of the war gaining over 5,000 kills by the end of World War II. Flyingiron has brought the Hellcats legacy to Microsoft Flight Simulator with meticulous attention to detail. Flyingiron has also gained recognition for its Spitfire and P-58 models developed for Microsoft Flight Simulator.Â The F6F-5 HELLCAT is for sale for the reasonable price of $45 AUD.  â The model is well detailed and handcrafted, taking over six months to complete. A few notable features include attention to aircraft systems and thermodynamics, factors to be considered in terms of wear and tear, and power plant management. Expect a learning curve when flying the Hellcat, which will challenge your manual flying skills. The F6F will be an exciting aircraft to switch to if you are used to flying today's modern birds. Usability features include a virtual tablet with customization options, maintenance, live aircraft monitoring, and more.Â  For a complete list of features including the product manual, check out the Hellcat product page here on the Flyingiron Simulations site. â</summary>
+    <published>2022-09-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dcdesh</id>
+    <title>DC Designs Announce Harrier Update and Surprise Fighter Project</title>
+    <updated>2022-09-12T00:00:00+00:00</updated>
+    <link href="/news/dcdesh" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631fbedc50514036f29d3eea_305975846_507159501412807_4030653392269115163_n.jpg" rel="enclosure" type="image/jpeg" length="488607"/>
+    <summary>Sim: MSFS. DC Designs have posted a news update to their Facebook page detailing requested features from several customers. One such request from customers is if the Harrier could bow as it does in real-life air displays, as seen in this video. Here is the response. â Â âI had not had the chance to test this until recently, and yesterday was able to give it a go. The answer was: yes you can! However, to balance the Harrier while performing the bow and not climb, drift, or descend is really difficult even in light winds. The aircraftâs engine thrust responds to N2, which means there is a lag between adding or removing power, and the thrust altering to climb or descend in the hover, which complicates things even further.â Check out more test footage of the Harrier here. The developer also dropped hints of a "Secret projectâ within the post. Just today the project was announced via Facebook as a partnership with a new developer âCJ Simulations". The pair are working together in bringing the Eurofighter Typhoon to FS2020.Â  This will be a well detailed model with a fully operational cockpit. The Typhoon will have a custom flight model simulating its unique delta canard system. You can expect many liveries and visual aerodynamic effects to be featured with this fighter as well. DC Designs also released a video displaying the Typhoon's maneuverability, aerodynamic effects, and modeling details! The Eurofighter is slated to be released in October for PC and XBox. Weâre looking forward to these releases. DC Designs is known for their awesome fighter aircraft for FS2020, especially the F-14 Tomcat. Weâll keep you updated with more information here at Threshold! â</summary>
     <published>2022-09-12T00:00:00+00:00</published>
   </entry>
 </feed>
