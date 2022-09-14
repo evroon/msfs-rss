@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-13T18:31:55.019598+00:00</updated>
+  <updated>2022-09-14T18:31:52.687507+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lhsbd2</id>
-    <title>LHSimulations Releases Budapest Airport v2 for Microsoft Flight Simulator</title>
-    <updated>2022-08-28T00:00:00+00:00</updated>
-    <link href="/news/lhsbd2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630b0d2fbe6387116cb4b82b_31.png" rel="enclosure" type="image/png" length="3392837"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer LHSimulations released Budapest International Airport v2 for Microsoft Flight Simulator. The airport, equipped with everything from detailed ortho to high quality PBR textures, will provide sim-pilots with a gateway into the historical city and the country of Hungary itself. According to the developers, Budapest v2 will feature the latest layout of the airport, including a brand new cargo area furnished with aprons and hangers. In addition, the airport will also house functional jetways and âhigh resolution photobackgroundâ for maximum immersion.  Finally, LHSimulations has promised to bring an array of improvements through future updates from performance patches to custom air traffic. For a full list of features, check out LHSimulations webstore.  Currently, Budapest International Airport can be purchased in the Microsoft Flight Simulator ingame Marketplace, though it is unclear if owners of the original version will receive v2 for free or with a discount. Threshold will keep you updated on this front. â</summary>
-    <published>2022-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inijen</id>
-    <title>ini Builds Announce The Curtiss JN-4 Jenny and The Grumman G-21A </title>
-    <updated>2022-08-28T00:00:00+00:00</updated>
-    <link href="/news/inijen" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630b3bd342457517411b5b2f_1.PNG" rel="enclosure" type="image/png" length="1468068"/>
-    <summary>Sim: MSFS. After having developed the A310 for MSFS, iniBuilds announces the continuation of its partnership with MSFS with two new aircraft under development: The Curtiss JN-4 Jenny and the Grumman G-21A Goose. Both aircraft will be 100% free and developed exclusively for MSFS. In a forum post, the CEO of iniBuilds is pleased to announce the continuation of their partnership with MSFS with these two historic aircraft under development. The Curtiss JN-4 Jenny, was a military training aircraft with production starting in 1915. After the end of the First World War, there was a surplus of aircraft that became civilian aircraft in 1918. From then on, the JN-4 became a very popular trainer for solo training flights, for the civilian market. It is therefore a historic aircraft full of adventure and history that iniBuilds is developing for a modern simulator, more than 100 years after the real-life Curtiss JN-4 Jenny was released. The second aircraft under development, the Grumman G-21A Goose, has a different story. Originally, it was a group of Long Islanders who wanted a business aircraft to fly to and from New York. So they approached Grumman. Following discussions, Grumman converted the Grumman Goose and that's how the G-21A was born, in around 1936. The G-21A was later upgraded to carry 8 passengers and fly military missions all over the world. iniBuilds has endeavoured to reproduce this atmosphere in the aircraft cabin with a bar, champagne bucket and restroom facilities to remain true to the model.Â  The first pictures of the cockpit show the progress the developers have made on this aircraft, which already makes us want to fly it!</summary>
-    <published>2022-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp12pr</id>
-    <title>X-plane 12 On The Horizon </title>
-    <updated>2022-08-30T00:00:00+00:00</updated>
-    <link href="/news/xp12pr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/630e5546d03ed8751f504f18_FbbRDtFXoAMOkdh.jpg" rel="enclosure" type="image/jpeg" length="381275"/>
-    <summary>Sim: X-Plane. X-plane 12 is well and truly just around the corner! Over recent weeks Laminar Research have released more and more teaser footage of X-plane 12 to the public.  Perhaps the most significant update so far, alongside the release of the X-plane mobile version 12 update, has been published just moments ago via the official X-plane twitter in which Laminar disclose a new build, which is a strong candidate for public early access and is currently being wrapped up and prepared for testing by the team. Testing is likely to begin tomorrow according to Laminar. Once this testing begins we should have a much better idea of timeline for release!  Exciting times for X-plane fans, for quick and correct information keep your eyes on www.thresholdx.net For now, we will leave you with some stunning photos released by the X-plane team in preparation for release.  â Thanks to community member Serzh for highlighting this news!Â </summary>
-    <published>2022-08-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inihop</id>
-    <title>iniScene Release Hooper Heliport </title>
-    <updated>2022-09-03T00:00:00+00:00</updated>
-    <link href="/news/inihop" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631398e491ee611357bc243a_4.PNG" rel="enclosure" type="image/png" length="1503369"/>
-    <summary>Sim: X-Plane. iniScene has released their all-new X-plane 11 Hooper Heliport scenery. This is a new milestone for iniScene being their first-ever entry into the helicopter market. the iconic Hooper Heliport (58CA) is located in thriving downtown Los Angeles, California. Owned by the City of Los Angeles, the heliport is used exclusively by the LAPD's 16 helicopters. Key features of this scenery include;Â  â iniScene has released a trailer for their all-new scenery which can be seen; â Hooper Heliport is available now from the ini-Store for just Â£4.99 GBP â â</summary>
-    <published>2022-09-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rjp146</id>
     <title>Just Flight Publishes Blog on Differences Between RJ Professional and 146 Professional</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631fbedc50514036f29d3eea_305975846_507159501412807_4030653392269115163_n.jpg" rel="enclosure" type="image/jpeg" length="488607"/>
     <summary>Sim: MSFS. DC Designs have posted a news update to their Facebook page detailing requested features from several customers. One such request from customers is if the Harrier could bow as it does in real-life air displays, as seen in this video. Here is the response. â Â âI had not had the chance to test this until recently, and yesterday was able to give it a go. The answer was: yes you can! However, to balance the Harrier while performing the bow and not climb, drift, or descend is really difficult even in light winds. The aircraftâs engine thrust responds to N2, which means there is a lag between adding or removing power, and the thrust altering to climb or descend in the hover, which complicates things even further.â Check out more test footage of the Harrier here. The developer also dropped hints of a "Secret projectâ within the post. Just today the project was announced via Facebook as a partnership with a new developer âCJ Simulations". The pair are working together in bringing the Eurofighter Typhoon to FS2020.Â  This will be a well detailed model with a fully operational cockpit. The Typhoon will have a custom flight model simulating its unique delta canard system. You can expect many liveries and visual aerodynamic effects to be featured with this fighter as well. DC Designs also released a video displaying the Typhoon's maneuverability, aerodynamic effects, and modeling details! The Eurofighter is slated to be released in October for PC and XBox. Weâre looking forward to these releases. DC Designs is known for their awesome fighter aircraft for FS2020, especially the F-14 Tomcat. Weâll keep you updated with more information here at Threshold! â</summary>
     <published>2022-09-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/thresholdjobs</id>
+    <title>Threshold Is Hiring!</title>
+    <updated>2022-09-13T00:00:00+00:00</updated>
+    <link href="/news/thresholdjobs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6320f2169c2f79ad659e59cb_1.PNG" rel="enclosure" type="image/png" length="222171"/>
+    <summary>Sim: X-Plane. Are you an avid flight sim enthusiast looking to turn your hobby into more than just a hobby? Well, now you can! Threshold is delighted to announce the recruitment of new content creators, news writers and reviewers.Â  Working at Threshold holds so many advantages; such as earning some money on the side at a competitive scale by writing about your passion and at your leisure. You work when and how you like, with no minimums to meet, and no requirements for activity.Â  Threshold staff are paid by article, so the more you write the more you earn.  Let's dive a little deeper into what each role consists of, and to whom itâs tailored: News Writers: News writers are the backbone of Threshold, primarily the role consists of finding stories and news to write about in the flight sim world. This can range from Aircraft release announcements to new simulators being released and everything in between. News writers can earn money per article at a very competitive rate. Our main area of recruitment currently is for news writers, it is also an area friendly to both new and experienced individuals and great for skill development.Â  â Reviewers:Â  Are you passionate about flight simulator addons? This is the right role for you. Reviewers perform in-depth tests of products for simulators such as MSFS and X-plane. There are many benefits to becoming a reviewer such as receiving test copies of some of the latest add-ons in the flight simulation world, working closely with many developers and building relationships helping to shape the way products develop further and earning money all the while!Â  â Requirements: You donât need to be above average in English but you should have a solid base to work from and be willing to learn and progress your writing over time. Please only apply if you are in a position to write relatively often. If you are able to take on all of the roles advertised then that is a huge bonus. Many of our writers write reviews but help out with news now and then. To apply email rob@thresholdx.net today and express your interest.Â  â</summary>
+    <published>2022-09-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xjetyt</id>
+    <title>X-Crafts Posts Demo of E-Jet Update</title>
+    <updated>2022-09-13T00:00:00+00:00</updated>
+    <link href="/news/xjetyt" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632108ad4487d2aba354ade2_ejets001.jpg" rel="enclosure" type="image/jpeg" length="80107"/>
+    <summary>Sim: X-Plane. The X-Crafts team has taken to their YouTube Channel and posted a full flight video in their rendition of the Embraer E-195 demonstrating the new FMS, new autopilot systems, and new displays. While most of the team has remained tight-lipped since the FSExpo Showcase, the team has brung steady work and the continuous development of their E-Jets Family.Â  The video starts off at LOWW and showcases the complete programming of the WIP FMC, and shows off the new EFB, with at a glance looks to include takeoff and landing perfs, checklists, ground service, and integrated Avitab, along with a weight and balance tab. Ending the video off, the demo ends with the programming once again of the FMC for landing at LYBE, and we watch as the aircraft comes to the gate and ends the flight. Note that this product is still very much a WIP. The team has stated that there will be a paid upgrade for XP12 for both the E175 and E195.Â  No ETA has been stated by the development team. Follow Threshold for more news!</summary>
+    <published>2022-09-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tolair</id>
+    <title>Toliss Release Airbus Fleet Update For XP12</title>
+    <updated>2022-09-14T00:00:00+00:00</updated>
+    <link href="/news/tolair" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6321cbba84352de43604d648_1.PNG" rel="enclosure" type="image/png" length="1855944"/>
+    <summary>Sim: X-Plane. Developers Toliss have released an update for their X-Plane Airbus range bringing their popular A319 and A321 variants into XP12. The aircraft will be available to those who owned them in XP11 for $10.99 each via the X-Plane.org store The discount will be automatically applied to your account, Toliss have explained.Â  A variety of new features have been added to the A319 just some of them include; â The A321 has also received a variety of updates and new features;Â  To read a full list of new features and changes to the A319 and A321 check out their store page here We will endeavour to keep you updated on Aircraft and Scenery that are brought into XP12 as the weeks go on.</summary>
+    <published>2022-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/free-xp12-dataref-compatibility-checker-released</id>
+    <title>Free XP12 dataref compatibility checker released</title>
+    <updated>2022-09-14T00:00:00+00:00</updated>
+    <link href="/news/free-xp12-dataref-compatibility-checker-released" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6321e4fa65e57a9302a2988d_usage.jpg" rel="enclosure" type="image/jpeg" length="253387"/>
+    <summary>Sim: X-Plane. Porting existing addons to XP12 has been somewhat turbulent for developers with complex addons. Fabrice Kauffmann published free software assisting developers with migrating addons from XP11 to X-Plane 12. According to a post at Helisimmer.com, the script scans OBJ, LUA, and SND files for obsolete datarefs. Addon developers will save time updating addons to XP12 using his free tool. Thanks to Fabrice Kauffmann; this will help the growth and improvement of X-Plane 12! The software is free for Windows 10/11 and available on GitHub!  â</summary>
+    <published>2022-09-14T00:00:00+00:00</published>
   </entry>
 </feed>

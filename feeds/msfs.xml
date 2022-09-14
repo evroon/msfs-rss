@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-13T18:31:54.333113+00:00</updated>
+  <updated>2022-09-14T18:31:52.119259+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/anniversary-sale-50-items-on-sale-now-in-the-marketplace/</id>
-    <title>Anniversary Sale: 50+ Items On Sale Now In The Marketplace</title>
-    <updated>2022-08-18T17:15:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/anniversary-sale-50-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/AnniversarySale-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="131281"/>
-    <summary>For two days starting August 18th, save 25% on more than 50 items.</summary>
-    <published>2022-08-18T17:15:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-18th-2022-development-update/</id>
     <title>August 18th, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/FreakierCube18-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="53058"/>
     <summary>Screenshot by FreakierCube18 (Forum) The full release of Sim Update 10 is on its way, slated for next week! While we are pinpointing the exact day of release, our team is currently adding in our final changes and updates for SU10. Beta users can expect one final test build coming shortly. We have also been … Continued</summary>
     <published>2022-09-08T23:46:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/reno-sale-46-items-on-sale-now-in-the-marketplace/</id>
+    <title>Reno Sale: 46 Items On Sale Now in the Marketplace</title>
+    <updated>2022-09-14T17:08:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/reno-sale-46-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/MSFS_RenoSale2022_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76365"/>
+    <summary>For five days starting September 14th, save up to 50% on 46 items.</summary>
+    <published>2022-09-14T17:08:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
