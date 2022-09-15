@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-14T18:31:52.687507+00:00</updated>
+  <updated>2022-09-15T18:32:05.216583+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rjp146</id>
-    <title>Just Flight Publishes Blog on Differences Between RJ Professional and 146 Professional</title>
-    <updated>2022-09-05T00:00:00+00:00</updated>
-    <link href="/news/rjp146" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63153e5ea1b32d75101a875b_RJ_9.jpg" rel="enclosure" type="image/jpeg" length="275969"/>
-    <summary>Sim: MSFS. Earlier this week, developer Just Flight published a short blog on the key differences between its upcoming RJ Professional for Microsoft Flight Simulator and the 146 Professional for MSFS that was released almost a year ago. Through the post, Just Flight briefly introduced the most noticeable, as well as the more hidden, differences in exterior modeling and cockpit layout of the two products. Starting with the exterior, the developer pointed out that RJ Professional will feature different probe configuration, more powerful engine options, and as many as 29 new liveraries. Moving on to the cockpit, the most significant upgrades to the aircrafts can be seen. Most of the analog instruments from the HDI to the engine indicators are placed with a new suite of electronic flight instrumentation systems. The new system will also include a brand new primary flight instrument system, and navigational display. Furthermore, the cockpit will feature a digital metric altimeter, full authority digital engine control system, and a âmore capable digital flight guidance system (FGS) is controlled by the mode control panel (MCP)â Finally, the RJ Professional will be equipped with two custom-coded GNLU-910 FMSs and a new automatic pressurization system in the overhead panel. In addition to the upgrades described above, a series of more subtle changes from a reworked radio panel and yoke checklists are also added to the aircraft. A full list of changes can be checked out on Just Flightâs website. Currently, Just Flight is yet to announce a release date and pricing for the RJ Professional for MSFS. Threshold will keep you updated on this front. â</summary>
-    <published>2022-09-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp12fl</id>
-    <title>X-Plane 12 Release On Very Short Final! </title>
-    <updated>2022-09-05T00:00:00+00:00</updated>
-    <link href="/news/xp12fl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162b3f35ac39c183d12bb6_Fb5zPBUWIAsOIEo.jpg" rel="enclosure" type="image/jpeg" length="857267"/>
-    <summary>Sim: X-Plane. Laminar Research, Developers of X-Plane have announced that their all-new and game-changing Flight sim is on short final and expected for release within 24 hours!Â  In an official X-Plane Twitter announcement, the developers revealed;  â Update:Â  As of two minutes ago, the X-plane website has gone down for maintenance which X-plane has confirmed on Twitter, âdown for obvious reasonsâ¦. It's happeningâ Release is expected very shortly.Â  Keep your eyes peeled for more articles as the next 24 hours unfold. We will be discussing statements from developers on their products for X-Plane 12. We endeavour to bring you all the latest news surrounding this exciting new release!Â  â</summary>
-    <published>2022-09-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aerfal</id>
-    <title>Aerobask Provide Update On Falcon 8X</title>
-    <updated>2022-09-05T00:00:00+00:00</updated>
-    <link href="/news/aerfal" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63162b3b5ff28b1db212e3cd_312719733_Slection_1125.jpg.3a54ceeb64fd577b86706c42da0ace99.jpg" rel="enclosure" type="image/jpeg" length="137511"/>
-    <summary>Sim: X-Plane. X-Plane 12 is just around the corner, and with NDAs lifted as of the 5th of September, many developers have been providing updates on their new and converted products for X-Plane 12. One of the most eagerly anticipated products is the all-new Aerobask Dassault Falcon 8X.Â  Updates on Falcon 8X development have been few and far between as of late due to Non-disclosure agreements between developers of aircraft and Laminar Research, developers of X-Plane 12. Now that such agreements have been lifted, Aerobask has provided some stunning new images through a forum post of the Falcon 8x in the X-Plane 12 world.Â  Its worth mentioning that each screenshot has been taking in stock X-Plane 12, we can see just how stunning the new sim is!  Although not much information surrounding progress or a timeline has been released, we have been provided with a closer look at the aircraft than ever before!Â  We will keep you updated on this as it progresses but for now, enjoy these beautiful screenshots â</summary>
-    <published>2022-09-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xp12re</id>
     <title>X-Plane 12 Released</title>
@@ -149,7 +122,34 @@
     <updated>2022-09-14T00:00:00+00:00</updated>
     <link href="/news/free-xp12-dataref-compatibility-checker-released" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6321e4fa65e57a9302a2988d_usage.jpg" rel="enclosure" type="image/jpeg" length="253387"/>
-    <summary>Sim: X-Plane. Porting existing addons to XP12 has been somewhat turbulent for developers with complex addons. Fabrice Kauffmann published free software assisting developers with migrating addons from XP11 to X-Plane 12. According to a post at Helisimmer.com, the script scans OBJ, LUA, and SND files for obsolete datarefs. Addon developers will save time updating addons to XP12 using his free tool. Thanks to Fabrice Kauffmann; this will help the growth and improvement of X-Plane 12! The software is free for Windows 10/11 and available on GitHub!  â</summary>
+    <summary>Sim: X-Plane. Porting existing addons to XP12 has been somewhat turbulent for developers with complex addons. Fabrice Kauffmann published free software assisting developers with migrating addons from XP11 to X-Plane 12. According to a post at Helisimmer.com, the script scans OBJ, LUA, and SND files for obsolete datarefs. Addon developers will save time updating addons to XP12 using his free tool. Thanks to Fabrice Kauffmann; this will help the growth and improvement of X-Plane 12! The software is free for Windows 10/11 and available on GitHub!  Threshold, bringing you the latest in flight sim news! </summary>
     <published>2022-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/versim</id>
+    <title>Vertical Simulations Releases Free Update for KSYR for X-Plane 12</title>
+    <updated>2022-09-14T00:00:00+00:00</updated>
+    <link href="/news/versim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63225537927e0a30ea9bc3d1_screencapture.PNG" rel="enclosure" type="image/png" length="381865"/>
+    <summary>Sim: X-Plane. Vertical Simulations has announced on his Discord that he has just released a free update for KSYR in X-Plane 12. Previous owners of the X-Plane 11 version will find the updated version under their âaccount pageâ section on his website â https://verticalsims.com/ â Additionally, purchasers of the original scenery from SimMarket &amp; the Xplane.org store will also find the update available to them.Â  Also within the announcement, Vertical Simulations noted the following Changelog improvements found in the new update: â</summary>
+    <published>2022-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp12d2</id>
+    <title>X-Plane 12 Developement Update</title>
+    <updated>2022-09-15T00:00:00+00:00</updated>
+    <link href="/news/xp12d2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6322c3784d1e217427e02bd4_Screen-Shot-2022-08-28-at-1.webp" rel="enclosure" type="image/webp" length="3839634"/>
+    <summary>Sim: X-Plane. Earlier today, Ben Supnik took to the X-Plane Developer blog to post about the current state and findings with X-Plane 12 since its initial early access release just two weeks ago. In the post Mr. Supnik highlights the rationale behind releasing X-Plane 12 for early access when the simulator is far from being fully developed, as there are â...still over two hundred open bugs.â Mr. Supnik immediately stressed how important it is to Laminar Research that the âentire X-Plane community be involved in X-Plane 12âs growth,â and not be confined to a limited number of beta testers.  Major areas of improvement include clouds, in which Mr. Supnik explains that the development team is working on shaping and cloud quality, improving resolution, correcting artifacts, and improving overall performance. The developer goes on to point out that clouds are some of the most taxing graphics on any system and itâs a âgive and takeâ relationship between performance and quality. Lighting is another focus of improvement for the developer as they want to correct and improve the auto-exposure and tone mapping within the sim.  For those X-Plane 12 users who are dissatisfied with the Boeing FMC in the highly anticipated Airbus A330 that shipped with the default aircraft upon initial release of X-Plane 12, youâll be happy to know that the developer is working on a proper Airbus MCDU for the plane. This update is expected to ship during early access, but with no specific mention of a date at this time. Mr. Supnik lastly points out that a few new SDK and authoring features are âmostly completedâ and will ship during early access as well. Mr. Supnik further hinted at allowing third party access to the in-sim weather system.  Additionally, the development team at Laminar will continue to optimize the simâs GPU usage while beginning to optimize VRAM use (as they have not done so at this point). For users of X-Plane 12 who are having VRAM issues, Mr. Supnik suggests lowering the simulator's resolution. Lastly, Mr. Supnik mentioned that over the course of the past weekend, some of the development team met to do planning and roadmapping for the sim. He disclosed that beta 3 should be coming out âshortlyâ (with no specific date or bug the planned update will fix). Mr. Supnik also disclosed that X-Plane 12 has been submitted to Steam and is currently in review. Heâs hopeful that X-Plane 12 will be available soon on the Steam platform for those interested in picking up the simulator there instead of through the developerâs site.  If you are interested in picking up X-Plane 12 now, you can do so by visiting the official website for X-Plane here. Threshold will keep you updated on any new developments.</summary>
+    <published>2022-09-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gblfr2</id>
+    <title>Global Forests v2 Released for X-Plane 12</title>
+    <updated>2022-09-15T00:00:00+00:00</updated>
+    <link href="/news/gblfr2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632346180134bbee25dbffcf_19f241_849b3f55ced84a338f83fc94add3cb8e_mv2.jpg" rel="enclosure" type="image/jpeg" length="92185"/>
+    <summary>Sim: X-Plane. Geo Reality Design recently released v2 of its Global Forests addon for X-Plane 12, adding more immersion, replacing and, enhancing X-Plane's vegetation. Global Forest 2 covers three regions, Europe, North America, and Asia-Oceania. V2 complements Global forests V1 for seamless integration with Ortho4XP, terrain, and X-Plane 12âs seasons! Over 400 .for files utilized with various trees, vegetation, and density data. Based on real-world information using vegetation height/density from global map data to provide that living world feel, something bush pilots would greatly appreciate! Global Forests v2 is on the X-Plane.ORG store for $15.00. Check out this video on their YouTube page for additional footage!  â â â â</summary>
+    <published>2022-09-15T00:00:00+00:00</published>
   </entry>
 </feed>
