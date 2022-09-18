@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-17T18:30:56.685573+00:00</updated>
+  <updated>2022-09-18T18:30:47.767183+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xworld</id>
-    <title>X-WORLD Europe Released For X-Plane 12</title>
-    <updated>2022-09-11T00:00:00+00:00</updated>
-    <link href="/news/xworld" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631e5ade0228d10a8e8f8a95_2.PNG" rel="enclosure" type="image/png" length="481665"/>
-    <summary>Sim: X-Plane. Highly popular scenery package X-World developed by SimHeaven has released its European scenery package for X-Plane 12! In a post on their website, SimHeaven have announced the free scenery package which is now available.  The post on their website states;  "X-World continues for X-Plane 12 the successful and high quality sceneries for X-Plane 11 like X-Europe, X-America and so on. Objects are not set by an autogen rule, they are set Â following OSM data in addition with Microsoft building footprints, which leads to a more realistic look and feel." SimHeaven go on to further explain;  "X-WORLD is a series of scenery packages covering the whole world, each continental package is separate available: X-World_Africa, X-World_America, X-World_Antarctica, X-World_Asia, X-World_Australia-Oceania, X-World_Europe" The download for X-Europe can be found here. </summary>
-    <published>2022-09-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fisf6f</id>
-    <title>Flyingiron Simulation Releases its F6F Hellcat</title>
-    <updated>2022-09-12T00:00:00+00:00</updated>
-    <link href="/news/fisf6f" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631f1fa7aad167d92aefa828_f6f-32_900x.webp" rel="enclosure" type="image/webp" length="93348"/>
-    <summary>Sim: X-Plane. Flyingron Simulations released its long-anticipated F6F Hellcat, adding to its ever-growing war-bird hangar. In WWII, the Grumman Hellcat served primarily as a NAVY bird on aircraft carriers. It replaced the F4F Wildcat to take on the A6M Zero. The Hellcat later became one of the top performing combat aircraft of the war gaining over 5,000 kills by the end of World War II. Flyingiron has brought the Hellcats legacy to Microsoft Flight Simulator with meticulous attention to detail. Flyingiron has also gained recognition for its Spitfire and P-58 models developed for Microsoft Flight Simulator.Â The F6F-5 HELLCAT is for sale for the reasonable price of $45 AUD.  â The model is well detailed and handcrafted, taking over six months to complete. A few notable features include attention to aircraft systems and thermodynamics, factors to be considered in terms of wear and tear, and power plant management. Expect a learning curve when flying the Hellcat, which will challenge your manual flying skills. The F6F will be an exciting aircraft to switch to if you are used to flying today's modern birds. Usability features include a virtual tablet with customization options, maintenance, live aircraft monitoring, and more.Â  For a complete list of features including the product manual, check out the Hellcat product page here on the Flyingiron Simulations site. â</summary>
-    <published>2022-09-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dcdesh</id>
     <title>DC Designs Announce Harrier Update and Surprise Fighter Project</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6325f73fea9e2c7687a7c0c0_header.jpg" rel="enclosure" type="image/jpeg" length="23198"/>
     <summary>Sim: X-Plane. The long-awaited flight simulator by Laminar Research is finally available on Steam for $59.99, where customers will be able to test the platform as it progresses through the early access phase.Â  According to Laminar, it should be under early access from 3 to 5 months, where developers plan to improve the volumetric clouds, tweak the lightning system, implement a fully customized Airbus MCDU, and brand new third-party interfaces for add-on developers. To read the complete feature list, please refer to this post. â â Itâs important to note that X-Plane 12 is also available directly via their website for the same price and with identical features. â</summary>
     <published>2022-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flfxvj</id>
+    <title>Exclusive Update, The FlightFX Vision Jet</title>
+    <updated>2022-09-18T00:00:00+00:00</updated>
+    <link href="/news/flfxvj" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632716c7c0173f70bc7b1fa7_1_1.PNG" rel="enclosure" type="image/png" length="2165690"/>
+    <summary>Sim: MSFS. In an exclusive progress update, FlightFX has provided the following update to us here at threshold on the progress of their latest project, the stunning Vision jet. Members of the FlightFX discord will have been kept in the loop with the development process in the form of photos through various stages but just today we spoke to Nick from FlightFX who gives us a more detailed look at what has been done so far, and what is still to go.Â  âThe product is currently about to go to Beta.Â  Right now we are cleaning and polishing a few things.Â  Once in Beta, we will give them a dedicated feedback form on what we are looking to have them concentrate on.Â  The Alpha team has been mostly concentrating on performance and handling as that group is aligned with some of our Owner/Operators.âÂ  Nick goes on to further expand;Â  âOur Beta team will focus on the quality of life, visual modelling etc.Â  We expect them to break the aircraft.Â  Through each Beta round, we will connect and fix any remaining issues that we expect to roll out.â Addressing FlightFX fan's eager enthusiasm and interest to know a release date, Nick has wisely said; âWe have a launch date and price point known internally. We will make an announcement on those things once we are about halfway through the Beta process. We know people are excited and are very appreciative of the support. Just want to make sure we can clearly see the roadmap in front of us. Our policy has been to not state firm dates until the unknowns are off the table.â â Our thanks to Nick and the team at FlightFX. The Vision Jet is going to be fantastic no doubt and we will keep you all updated, here at Threshold.Â  â</summary>
+    <published>2022-09-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fly2hi</id>
+    <title>Fly 2 High Releases Wroclaw Airport for MSFS</title>
+    <updated>2022-09-18T00:00:00+00:00</updated>
+    <link href="/news/fly2hi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632718d11d07978f0237755f_MhZsMYR.png" rel="enclosure" type="image/png" length="2334615"/>
+    <summary>Sim: MSFS. Fly 2 High has just released their rendition of Wroclaw Airport (EPWR) for Microsoft Flight Simulator, featuring a fully modelled 3D terminal, enhanced city lighting, PBR materials on the airport buildings and ground, custom animated vehicle traffic and animated humans. Itâs said to be their most optimized work to date, a direct result of their experience gained from developing and updating their previous airports. The scenery is available on FlightSim.to for $16.00 (excluding VAT) or SimMarket for â¬15.99. At least 2 GB of free disk space is recommended to install the product. â</summary>
+    <published>2022-09-18T00:00:00+00:00</published>
   </entry>
 </feed>
