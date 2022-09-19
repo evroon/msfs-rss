@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-18T18:30:46.526021+00:00</updated>
+  <updated>2022-09-19T18:34:43.445889+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/august-25th-2022-development-update/</id>
-    <title>August 25th, 2022 Development Update</title>
-    <updated>2022-08-25T23:21:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-25th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/08/IronWings_VP-Twitter-3-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="49819"/>
-    <summary>Screenshot by IronWings_VP (Twitter) Earlier today at gamescom in Cologne, Germany, the team was proud to make some new announcements about Microsoft Flight Simulator. See below for details: Local Legend VI: Junkers F 13: The world’s first all-metal transport plane, this innovative and highly influential aircraft is available now from the in-sim Marketplace for USD $14.99. City Update 1 (CU1): a … Continued</summary>
-    <published>2022-08-25T23:21:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-1st-2022-development-update/</id>
     <title>September 1st, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/Cirrocumulus646-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="85162"/>
     <summary>Screenshot by Cirrocumulus646 (Forum) We would like to give a sincere thank you to everyone who have participated in the Sim Update 10 beta over the last several weeks. Your feedback and reports have been very valuable in getting the update ready for its final version. Speaking of, we will have more information to share … Continued</summary>
     <published>2022-09-16T00:01:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/drzewiecki-design-sale/</id>
+    <title>Drzewiecki Design Sale</title>
+    <updated>2022-09-19T17:47:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/drzewiecki-design-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/DD_Sale_Sept2022_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="130909"/>
+    <summary>16 Items On Sale Now in the Marketplace</summary>
+    <published>2022-09-19T17:47:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>

@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-18T18:30:47.767183+00:00</updated>
+  <updated>2022-09-19T18:34:44.028126+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dcdesh</id>
-    <title>DC Designs Announce Harrier Update and Surprise Fighter Project</title>
-    <updated>2022-09-12T00:00:00+00:00</updated>
-    <link href="/news/dcdesh" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/631fbedc50514036f29d3eea_305975846_507159501412807_4030653392269115163_n.jpg" rel="enclosure" type="image/jpeg" length="488607"/>
-    <summary>Sim: MSFS. DC Designs have posted a news update to their Facebook page detailing requested features from several customers. One such request from customers is if the Harrier could bow as it does in real-life air displays, as seen in this video. Here is the response. â Â âI had not had the chance to test this until recently, and yesterday was able to give it a go. The answer was: yes you can! However, to balance the Harrier while performing the bow and not climb, drift, or descend is really difficult even in light winds. The aircraftâs engine thrust responds to N2, which means there is a lag between adding or removing power, and the thrust altering to climb or descend in the hover, which complicates things even further.â Check out more test footage of the Harrier here. The developer also dropped hints of a "Secret projectâ within the post. Just today the project was announced via Facebook as a partnership with a new developer âCJ Simulations". The pair are working together in bringing the Eurofighter Typhoon to FS2020.Â  This will be a well detailed model with a fully operational cockpit. The Typhoon will have a custom flight model simulating its unique delta canard system. You can expect many liveries and visual aerodynamic effects to be featured with this fighter as well. DC Designs also released a video displaying the Typhoon's maneuverability, aerodynamic effects, and modeling details! The Eurofighter is slated to be released in October for PC and XBox. Weâre looking forward to these releases. DC Designs is known for their awesome fighter aircraft for FS2020, especially the F-14 Tomcat. Weâll keep you updated with more information here at Threshold! â</summary>
-    <published>2022-09-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xjetyt</id>
-    <title>X-Crafts Posts Demo of E-Jet Update</title>
-    <updated>2022-09-13T00:00:00+00:00</updated>
-    <link href="/news/xjetyt" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632108ad4487d2aba354ade2_ejets001.jpg" rel="enclosure" type="image/jpeg" length="80107"/>
-    <summary>Sim: X-Plane. The X-Crafts team has taken to their YouTube Channel and posted a full flight video in their rendition of the Embraer E-195 demonstrating the new FMS, new autopilot systems, and new displays. While most of the team has remained tight-lipped since the FSExpo Showcase, the team has brung steady work and the continuous development of their E-Jets Family.Â  The video starts off at LOWW and showcases the complete programming of the WIP FMC, and shows off the new EFB, with at a glance looks to include takeoff and landing perfs, checklists, ground service, and integrated Avitab, along with a weight and balance tab. Ending the video off, the demo ends with the programming once again of the FMC for landing at LYBE, and we watch as the aircraft comes to the gate and ends the flight. Note that this product is still very much a WIP. The team has stated that there will be a paid upgrade for XP12 for both the E175 and E195.Â  No ETA has been stated by the development team. Follow Threshold for more news!</summary>
-    <published>2022-09-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tolair</id>
-    <title>Toliss Release Airbus Fleet Update For XP12</title>
-    <updated>2022-09-14T00:00:00+00:00</updated>
-    <link href="/news/tolair" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6321cbba84352de43604d648_1.PNG" rel="enclosure" type="image/png" length="1855944"/>
-    <summary>Sim: X-Plane. Developers Toliss have released an update for their X-Plane Airbus range bringing their popular A319 and A321 variants into XP12. The aircraft will be available to those who owned them in XP11 for $10.99 each via the X-Plane.org store The discount will be automatically applied to your account, Toliss have explained.Â  A variety of new features have been added to the A319 just some of them include; â The A321 has also received a variety of updates and new features;Â  To read a full list of new features and changes to the A319 and A321 check out their store page here We will endeavour to keep you updated on Aircraft and Scenery that are brought into XP12 as the weeks go on.</summary>
-    <published>2022-09-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/free-xp12-dataref-compatibility-checker-released</id>
-    <title>Free XP12 dataref compatibility checker released</title>
-    <updated>2022-09-14T00:00:00+00:00</updated>
-    <link href="/news/free-xp12-dataref-compatibility-checker-released" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6321e4fa65e57a9302a2988d_usage.jpg" rel="enclosure" type="image/jpeg" length="253387"/>
-    <summary>Sim: X-Plane. Porting existing addons to XP12 has been somewhat turbulent for developers with complex addons. Fabrice Kauffmann published free software assisting developers with migrating addons from XP11 to X-Plane 12. According to a post at Helisimmer.com, the script scans OBJ, LUA, and SND files for obsolete datarefs. Addon developers will save time updating addons to XP12 using his free tool. Thanks to Fabrice Kauffmann; this will help the growth and improvement of X-Plane 12! The software is free for Windows 10/11 and available on GitHub!  Threshold, bringing you the latest in flight sim news! </summary>
-    <published>2022-09-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/versim</id>
-    <title>Vertical Simulations Releases Free Update for KSYR for X-Plane 12</title>
-    <updated>2022-09-14T00:00:00+00:00</updated>
-    <link href="/news/versim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63225537927e0a30ea9bc3d1_screencapture.PNG" rel="enclosure" type="image/png" length="381865"/>
-    <summary>Sim: X-Plane. Vertical Simulations has announced on his Discord that he has just released a free update for KSYR in X-Plane 12. Previous owners of the X-Plane 11 version will find the updated version under their âaccount pageâ section on his website â https://verticalsims.com/ â Additionally, purchasers of the original scenery from SimMarket &amp; the Xplane.org store will also find the update available to them.Â  Also within the announcement, Vertical Simulations noted the following Changelog improvements found in the new update: â</summary>
-    <published>2022-09-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp12d2</id>
-    <title>X-Plane 12 Developement Update</title>
-    <updated>2022-09-15T00:00:00+00:00</updated>
-    <link href="/news/xp12d2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6322c3784d1e217427e02bd4_Screen-Shot-2022-08-28-at-1.webp" rel="enclosure" type="image/webp" length="3839634"/>
-    <summary>Sim: X-Plane. Earlier today, Ben Supnik took to the X-Plane Developer blog to post about the current state and findings with X-Plane 12 since its initial early access release just two weeks ago. In the post Mr. Supnik highlights the rationale behind releasing X-Plane 12 for early access when the simulator is far from being fully developed, as there are â...still over two hundred open bugs.â Mr. Supnik immediately stressed how important it is to Laminar Research that the âentire X-Plane community be involved in X-Plane 12âs growth,â and not be confined to a limited number of beta testers.  Major areas of improvement include clouds, in which Mr. Supnik explains that the development team is working on shaping and cloud quality, improving resolution, correcting artifacts, and improving overall performance. The developer goes on to point out that clouds are some of the most taxing graphics on any system and itâs a âgive and takeâ relationship between performance and quality. Lighting is another focus of improvement for the developer as they want to correct and improve the auto-exposure and tone mapping within the sim.  For those X-Plane 12 users who are dissatisfied with the Boeing FMC in the highly anticipated Airbus A330 that shipped with the default aircraft upon initial release of X-Plane 12, youâll be happy to know that the developer is working on a proper Airbus MCDU for the plane. This update is expected to ship during early access, but with no specific mention of a date at this time. Mr. Supnik lastly points out that a few new SDK and authoring features are âmostly completedâ and will ship during early access as well. Mr. Supnik further hinted at allowing third party access to the in-sim weather system.  Additionally, the development team at Laminar will continue to optimize the simâs GPU usage while beginning to optimize VRAM use (as they have not done so at this point). For users of X-Plane 12 who are having VRAM issues, Mr. Supnik suggests lowering the simulator's resolution. Lastly, Mr. Supnik mentioned that over the course of the past weekend, some of the development team met to do planning and roadmapping for the sim. He disclosed that beta 3 should be coming out âshortlyâ (with no specific date or bug the planned update will fix). Mr. Supnik also disclosed that X-Plane 12 has been submitted to Steam and is currently in review. Heâs hopeful that X-Plane 12 will be available soon on the Steam platform for those interested in picking up the simulator there instead of through the developerâs site.  If you are interested in picking up X-Plane 12 now, you can do so by visiting the official website for X-Plane here. Threshold will keep you updated on any new developments.</summary>
-    <published>2022-09-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gblfr2</id>
     <title>Global Forests v2 Released for X-Plane 12</title>
@@ -151,5 +97,59 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632718d11d07978f0237755f_MhZsMYR.png" rel="enclosure" type="image/png" length="2334615"/>
     <summary>Sim: MSFS. Fly 2 High has just released their rendition of Wroclaw Airport (EPWR) for Microsoft Flight Simulator, featuring a fully modelled 3D terminal, enhanced city lighting, PBR materials on the airport buildings and ground, custom animated vehicle traffic and animated humans. Itâs said to be their most optimized work to date, a direct result of their experience gained from developing and updating their previous airports. The scenery is available on FlightSim.to for $16.00 (excluding VAT) or SimMarket for â¬15.99. At least 2 GB of free disk space is recommended to install the product. â</summary>
     <published>2022-09-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sbbrbg</id>
+    <title>Brazil Land Games Previews BrasÃ­lia International Airport for MSFS.</title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/sbbrbg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6327f9d57d27dae6bc143278_NT0AqQo.png" rel="enclosure" type="image/png" length="2258477"/>
+    <summary>Sim: MSFS. âBrazil Land GamesÂ shared work-in-progress images of their upcoming BrasÃ­lia International Airport (SBBR) for Microsoft Flight Simulator. Brasilia International Airport is the second busiest airport in Brazil, providing service to more than 10 million passengers in 2021. BrasÃ­lia International has been under development since November 2021, featuring a fully modeled terminal withÂ animated moving walkways, updated ground layout, and custom jetways. The project is still under development, see more images on BLG's officialÂ FacebookÂ here. Pricing and release information to be announced. Stay tuned to Threshold for more updates! â</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nmmkai</id>
+    <title>No Money Mondays: Hong Kong Kai Tak MSFS</title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/nmmkai" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632842b3cd6b9928a6e4d323_UZ6LrSF.png" rel="enclosure" type="image/png" length="2255990"/>
+    <summary>Sim: MSFS. Although it's been 24 years since the last time an airplane landed on the infamous runway 13,Kai Tak is still widely adored by flight enthusiasts all around the globe. Like the closure of Meigs Field, it marked the end of an era. Itâs impossible to talk about challenging approaches without mentioning the tricky checkerboard arrival, where a pilot had to fly low, slow, and close to apartment buildings. Pilots were also required to perform a flawless turn towards the runway, managing vertical speed and aiming for the runway threshold; simultaneously. Historically, KaiÂ Tak's runway 13 was one of the most challenging approaches in aviation history. One of the most enjoyable perks of flight simulation is the ability to bring once existing airports back virtually, providing the opportunity to experience the thrill of landing in Hong Kong as it was in the 1990s. What if I told you you could experience Kai Tak for no charge in Microsoft Flight Simulator? Scenery developer ali501 shared his rendition on flights.to so that we can all go back in time to simpler days when Avgas and Jet-A guzzling airplanes were not much of a concern. An era long left behind, now to be revived in all its glory. With a fully modeled terminal, era-accurate static vehicles, and advertisements, itâs quite a throwback. ali501's Kai Tak is the perfect blend of No Money Mondays and throwback Tuesdays! Itâs hard not to feel transported back to 1998 when you spot things like the Flight Simulator 98 advertisement or the Motorola flip phone that screams late 90s nostalgia. A trip down memory lane for older folks; and a glimpse into the past for younger people. Ready to take on the Kai Tak challenge? Download it here; at least 2.04 GB of free disk space is recommended to install the product. Installation is as simple as it could possibly be: drag the ali501-kaitak folder into your MSFS Community folder, and that's it! Stay tuned to Threshold for more freeware recommendations. â</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/x-plane-to-now-live</id>
+    <title>X-Plane.to Now Live</title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/x-plane-to-now-live" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632864353ea41e39bb24537c_XPTO.JPG" rel="enclosure" type="image/jpeg" length="166781"/>
+    <summary>Sim: X-Plane. â For those flight simmers using Microsoft Flight Simulator, chances are youâre no stranger to the popular mods and add-ons site âflightsim.toâ. Newly released from the same team behind the aforementioned site, comes X-Plane.to. Browsing either of these sites will give you access to great freeware sceneries, liveries, etc. X-Plane.to will grow with time and community support, as time passes, it is certain that more freeware add-ons for X-Plane 12 will surface. But for now, you can expect a very similar layout as X-Plane.toâs predecessor. â</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniscene-ksat-development-update</id>
+    <title>IniScene KSAT Development Update </title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/iniscene-ksat-development-update" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632873085d24b0381aea5023_KSAT4.png" rel="enclosure" type="image/png" length="655758"/>
+    <summary>Sim: X-Plane. â â Optimization efforts are well underway from IniScene and their Microsoft Flight Simulator payware scenery, San Antonio (KSAT). The developerâs update, posted on both the Discord server and the IniBuilds forum mentions that they have dissolved photogrammetry in the immediate area surrounding the airport and that in and of itself has provided âmore than substantial increase in optimization,â according to the developer. Since the release of the scenery, some users have experienced stuttering issues, but the developer is hopeful that this update (releasing sometime this week-according to IniScene) will remediate any stuttering issues for users. â â Along with optimizing the scenery, IniScene has also modeled much more of the surrounding architecture in the vicinity. â â If youâre interested in picking up the KSAT scenery for Microsoft Flight Simulator you can buy it directly from the Ini store, here or you can buy it from Simmarket. â</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/the-secret-studio-releases-miri-airport-for-msfs</id>
+    <title>The Secret Studio Releases Miri Airport for MSFS</title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/the-secret-studio-releases-miri-airport-for-msfs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63287bdc841378f1013eb07f_QVqe4xc.png" rel="enclosure" type="image/png" length="4100463"/>
+    <summary>Sim: X-Plane. The Secret Studio has released their rendition of Miri Airport (WBGR), Malaysiaâs sixth busiest airport with a yearly average of 2 million passengers (pre-pandemic). Its strategic location makes it a hub for rural air services by MASWings and Awan Inspirasi. Despite not being an international airport, it does get international flights regularly.Â  â â The feature list includes a fully recreated passenger terminal with retail booths and stores, and a custom-made VDGS (Visual Docking Guidance System) that works with default and custom aircraft without any further configuration required. â â The scenery can be purchased on either FlightSim.to or SimMarket for $16.00. At least 482 MB of free disk space is required to install the product. â</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/thranda-releases-cessna-u206g-stationair-for-x-plane</id>
+    <title>Thranda Releases Cessna U206G Stationair for X-Plane</title>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <link href="/news/thranda-releases-cessna-u206g-stationair-for-x-plane" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6328aa24bc6c083772d46a9c_Screen%20Shot%202022-09-19%20at%2012.42.47%20PM.png" rel="enclosure" type="image/png" length="2917157"/>
+    <summary>Sim: X-Plane. Thranda Designs has just released their rendition of the Cessna U206G Stationair, the âsport vehicle of the airâ that is popular among bush pilots and skydivers. Introduced in 1962, over 8509 units had been built as of 2006 and the plane is still in production to this very day! Undeniably a gem for general aviation enthusiasts, itâs now ready to join your virtual fleet. â As part of Thrandaâs âDynamic Generation Seriesâ, the U206Gâs liveries, gauges and aircraft configuration can be changed on the fly without reloading the simulator. It will also feature high fidelity flight dynamics and an ultra-realistic sound environment. â The full feature list as follows: Feature-rich elegant fly-out menu with the following features: Flight dynamics and systems: Advanced FMOD-based sound system: To add the U206G to your virtual hangar, head over to the X-Plane.org store where it can be yours for $39.95.</summary>
+    <published>2022-09-19T00:00:00+00:00</published>
   </entry>
 </feed>
