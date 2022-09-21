@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-20T18:32:23.546194+00:00</updated>
+  <updated>2022-09-21T18:34:54.552526+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ixxp12</id>
-    <title>IXEG Provides Future X-Plane 12 Development Updates</title>
-    <updated>2022-09-16T00:00:00+00:00</updated>
-    <link href="/news/ixxp12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6324eff0c67f2c1fb7331486_IXEG-Iberia.jpg" rel="enclosure" type="image/jpeg" length="179905"/>
-    <summary>Sim: X-Plane. In a recent statement on the X-Pilot forums, IXEG developer Tom Kyler provided a brief insight into what the IXEG has been working on. In the post, Mr. Kyler alluded to the fact that his focus has been primarily on porting over the MU-2 into X-Plane 12 and that heâs closing in on the final stages of that. After the MU-2 project is completed, Mr. Kyler states that, â...the 733 will move back into rotation as the primary focus of development with the port to version 12 being the first priority.âÂ  Mr. Kyler continued to express that the IXEG 733 (in its current state), is âminimally operableâ in the updated simulator. Once the developer stabilizes the aircraft, Mr. Kyler expects they will set up a âvolunteer forumâ where people will be able to provide feedback to the developer regarding the behavior and bugs with the aircraft. Mr. Kyler also released a screenshot of the cockpit of the 733 in X-Plane 12. Concluding his statement, Mr. Kyler recommends keeping X-Plane 11 on your pc if you want to continue flying the IXEG aircraft in the interim.Â  As always, Threshold will keep you updated for any further updates from IXEG. </summary>
-    <published>2022-09-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msfsdu</id>
-    <title>Microsoft Flight Simulator Release Development Update</title>
-    <updated>2022-09-16T00:00:00+00:00</updated>
-    <link href="/news/msfsdu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6324f2f929529240ad2c7888_Cirrocumulus646-Forum.jpg" rel="enclosure" type="image/jpeg" length="176630"/>
-    <summary>Sim: MSFS. The development team for Microsoft Flight Simulator has posted a brief update on the flightsimulator.com blog regarding present and future updates with the sim. The short post starts out by expressing gratitude for all those who have provided the development team with valuable feedback regarding the sim update 10 beta. The MSFS team have opted not to update the marketplace this week, and instead postpone the marketplace update until next Thursday, September 22 in order to, â...align with SU10 dependencies.âÂ  The development roadmap has been updated and frequent updates will continue to be released for the SDKâwhich should have third-party developers jumping for joy. World update 11: Canada is slated for release September 28th, while the 40th Anniversary Edition and SU11 are both scheduled for release on November 11th.Â  As always, Threshold will keep you up-to-date with developments as they unfold! â</summary>
-    <published>2022-09-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/thru20</id>
     <title>Thranda Designs Previews Cessna U206G Stationair</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632a05b9889cd711b0e93059_Screenshot_2021-09-29_170109.jpg" rel="enclosure" type="image/jpeg" length="278400"/>
     <summary>Sim: MSFS. MtnFly Simulations have been developing a freeware Learjet-25A and have recently released a substantial progress update, outlining what has to be done, what is complete and even showcasing a full flight of the aircraft on their youtube channel.Â  Their update log outlining what has been done is as follows:Â  - NAV and COM radios are fully functional and will now work with the Garmin GPS even though there is no concept of a true standby frequency in the early model 35's radios. - The yaw damper has been modelled and is now functioning. - The three AC to DC power inverters are now modelled and functioning. - The FC-200 autopilot is now working as expected. - Improvements have been made to the side audio panels. - All four batteries are now connected to their respective power busses and functionÂ  - The captain's flight instruments are close to being fully functional. - The emergency brake lever has been modelled and now functions. - The cabin temperature indicator will now display a "cold-soaked" temperature on start-up. It will react to the user's set temperature setting once the engines are running and the passenger air conditioning system is turned on. - Improvements have been made to tying electrical circuits to their respective circuit breakers. - The RCA WXD weather radar has been modelled for those that prefer to fly "old school" without any GPS. - Panel lighting has been added. - Exterior Lighting has been added. - There have been many improvements to emissive lighting throughout the aircraft. - The wing to fuselage fairing has been added. - There have been numerous modelling updates. â At Threshold we will keep you updated while this project progresses. </summary>
     <published>2022-09-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfs10</id>
+    <title>MSFS Sim Update 10 Launches Sept 21st</title>
+    <updated>2022-09-20T00:00:00+00:00</updated>
+    <link href="/news/msfs10" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632a08295954ea3cea5b3bd2_FdHkgcKX0AAK9h4.jpg" rel="enclosure" type="image/jpeg" length="199970"/>
+    <summary>Sim: MSFS. Microsoft Flight Simulator have just confirmed that the long-awaited Sim Update 10 will be released tomorrow, September 21st 2022. The update will release at 8:00 AM PDT which is 1500 zulu time.  To see the official announcement you can head over to the MSFS Twitter account. </summary>
+    <published>2022-09-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbxor</id>
+    <title>Orbx Introduces New Reward System</title>
+    <updated>2022-09-21T00:00:00+00:00</updated>
+    <link href="/news/orbxor" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632b4b1a2011e902f3364e3f_5NH7H7a.png" rel="enclosure" type="image/png" length="1194465"/>
+    <summary>Sim: X-Plane. Orbx has recently announced the introduction of Orbs, their brand new in-game currency that is earnable through purchases on the Orbx Store or Volanta (by purchasing a subscription, exploring aerocaches, or completing challenges). Users can spend their coins on the Orbs Store, which offers a list of redeemable sceneries for X-Plane 11, Prepar3d, FSX, and Microsoft Flight Simulator.Â  Itâs important to highlight that Orbx has added a temporary multiplier to the Orbs reward system, granting twice as many coins for purchases on Orbx Direct and Volanta. The offer ends on the 3rd of October, at 01:00 UTC.Â  Read more about the Orbs here. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2022-09-21T00:00:00+00:00</published>
   </entry>
 </feed>

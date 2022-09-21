@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-20T18:32:22.280576+00:00</updated>
+  <updated>2022-09-21T18:34:53.824404+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/september-1st-2022-development-update/</id>
-    <title>September 1st, 2022 Development Update</title>
-    <updated>2022-09-01T22:44:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-1st-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/ExplorerJB-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="72597"/>
-    <summary>Screenshot by ExplorerJB (Forum) With August now in the rearview mirror, many of you will be returning to school for the new year or starting college. For those studying an aviation-related field, we wish you the best of luck and hope your experiences with Microsoft Flight Simulator will serve you well in your educational endeavors. … Continued</summary>
-    <published>2022-09-01T22:44:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-8th-2022-development-update/</id>
     <title>September 8th, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/DD_Sale_Sept2022_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="130909"/>
     <summary>16 Items On Sale Now in the Marketplace</summary>
     <published>2022-09-19T17:47:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/release-notes-1-27-21-0-sim-update-x-now-available/</id>
+    <title>Release Notes (1.27.21.0) Sim Update X Now Available!</title>
+    <updated>2022-09-21T15:03:41+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-1-27-21-0-sim-update-x-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_003-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="55422"/>
+    <summary>Release Notes for Version 1.27.21.0 (Sim Update 10) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2022-09-21T15:03:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
