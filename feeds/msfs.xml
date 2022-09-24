@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-23T18:34:39.584235+00:00</updated>
+  <updated>2022-09-24T18:31:51.222438+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/september-8th-2022-development-update/</id>
-    <title>September 8th, 2022 Development Update</title>
-    <updated>2022-09-08T23:46:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-8th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/FreakierCube18-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="53058"/>
-    <summary>Screenshot by FreakierCube18 (Forum) The full release of Sim Update 10 is on its way, slated for next week! While we are pinpointing the exact day of release, our team is currently adding in our final changes and updates for SU10. Beta users can expect one final test build coming shortly. We have also been … Continued</summary>
-    <published>2022-09-08T23:46:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/reno-sale-46-items-on-sale-now-in-the-marketplace/</id>
     <title>Reno Sale: 46 Items On Sale Now in the Marketplace</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_003-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="55422"/>
     <summary>Release Notes for Version 1.27.21.0 (Sim Update 10) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2022-09-21T15:03:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-22nd-2022-development-update/</id>
+    <title>September 22nd, 2022 Development Update</title>
+    <updated>2022-09-23T00:12:58+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-22nd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/ukaka5656-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="89289"/>
+    <summary>Screenshot by ukaka5656 (Twitter) The long-awaited Sim Update X has been out for a day now, and we are paying close attention to your feedback. If you missed the initial announcement, you can click here to see the release notes, and you can comment and vote in our forum polls here. Once again, we thank … Continued</summary>
+    <published>2022-09-23T00:12:58+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
