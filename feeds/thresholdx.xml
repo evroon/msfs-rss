@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-09-24T18:31:52.590192+00:00</updated>
+  <updated>2022-09-25T18:31:48.395901+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/thru20</id>
-    <title>Thranda Designs Previews Cessna U206G Stationair</title>
-    <updated>2022-09-17T00:00:00+00:00</updated>
-    <link href="/news/thru20" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6325c78a56d6f1dc9d15b4b3_xp12-thranda-u206g-stationair-aug20-2022-08.webp" rel="enclosure" type="image/webp" length="231412"/>
-    <summary>Sim: X-Plane. Thranda Designsâ recently announced, Cessna U206 Stationair has got its first video preview, where itâs shown performing a visual approach into Powwatka Ridge, Oregon.Â  â Thranda Designs has published a short video, where their recently announced Cessna U206G Stationair for X-Plane 11 and X-Plane 12 can be seen in action from inside the cockpit, landing into 03R Powwatka Ridge in Troy, Oregon.Â  â To learn more about the upcoming aircraft, check out our previous post. Stay tuned to Threshold for further information on the matter. â</summary>
-    <published>2022-09-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/shxa12</id>
-    <title>SimHeaven Release X-World America For XP12</title>
-    <updated>2022-09-17T00:00:00+00:00</updated>
-    <link href="/news/shxa12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6325ca6078d241e1048b702d_simheaven.PNG" rel="enclosure" type="image/png" length="449911"/>
-    <summary>Sim: X-Plane. SimHeaven have released their popular X-World America scenery for XP12.  The package download is 7.4 GB, extracted to 13.8 GB. Announcing it in a post on their website they have said;  The free scenery can be installed here</summary>
-    <published>2022-09-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/csc510</id>
-    <title>Cockspur releases new C510 Mustang Trailer </title>
-    <updated>2022-09-17T00:00:00+00:00</updated>
-    <link href="/news/csc510" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6325f2a7e87e89277cb389e4_C510_Promo_1.png" rel="enclosure" type="image/png" length="970411"/>
-    <summary>Sim: MSFS. A very cool corporate jet is on its way! Cockspur, an FS2020 developer of the A22 Foxbat and the SG38 Schulgleiter, has posted a recent trailer of its C510 Mustang. The project has been under development and is making significant progress. The trailer shows an accurate rendition of the Citation Mustang, a light business jet capable of seating up to four passengers with a range of about 1,100 nautical miles. Â  Cockspur's trailer also shows interior details, as well as an air ambulance variant still in beta. Navigation options include the NXi or FS2020âs stock G1000. Interactive features include an iDevice for controlling various aircraft components, controllable doors, window blinds, and more. Check out the official trailer here on Youtube. Check out Cockspur's official Discord here.Â  Expect more updates and info soon here at Threshold! â</summary>
-    <published>2022-09-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp12ea</id>
-    <title>X-Plane 12 now out on Steam!</title>
-    <updated>2022-09-17T00:00:00+00:00</updated>
-    <link href="/news/xp12ea" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6325f73fea9e2c7687a7c0c0_header.jpg" rel="enclosure" type="image/jpeg" length="23198"/>
-    <summary>Sim: X-Plane. The long-awaited flight simulator by Laminar Research is finally available on Steam for $59.99, where customers will be able to test the platform as it progresses through the early access phase.Â  According to Laminar, it should be under early access from 3 to 5 months, where developers plan to improve the volumetric clouds, tweak the lightning system, implement a fully customized Airbus MCDU, and brand new third-party interfaces for add-on developers. To read the complete feature list, please refer to this post. â â Itâs important to note that X-Plane 12 is also available directly via their website for the same price and with identical features. â</summary>
-    <published>2022-09-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/flfxvj</id>
     <title>Exclusive Update, The FlightFX Vision Jet</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/632b4b1a2011e902f3364e3f_5NH7H7a.png" rel="enclosure" type="image/png" length="1194465"/>
     <summary>Sim: X-Plane. Orbx has recently announced the introduction of Orbs, their brand new in-game currency that is earnable through purchases on the Orbx Store or Volanta (by purchasing a subscription, exploring aerocaches, or completing challenges). Users can spend their coins on the Orbs Store, which offers a list of redeemable sceneries for X-Plane 11, Prepar3d, FSX, and Microsoft Flight Simulator.Â  Itâs important to highlight that Orbx has added a temporary multiplier to the Orbs reward system, granting twice as many coins for purchases on Orbx Direct and Volanta. The offer ends on the 3rd of October, at 01:00 UTC.Â  Read more about the Orbs here. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
     <published>2022-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a35012</id>
+    <title>FlightFactor Releases A350 Beta for X-Plane 12</title>
+    <updated>2022-09-25T00:00:00+00:00</updated>
+    <link href="/news/a35012" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6330002416fb7f29f7644cc7_Screenshot%202022-09-25%20at%202.15.42%20AM.png" rel="enclosure" type="image/png" length="3492074"/>
+    <summary>Sim: X-Plane. Popular aircraft developer FlightFactor has recently announced a compatibility update for the beloved, highly in-depth A350 Advanced for X-Plane 12. Not much has been updated on the aircraft overall though the plane now works with the SimBrief flight plan downloader. It must also be mentioned that this aircraft is now in Beta for X-Plane 12. The lack of any exciting new features in this Beta update and any news for the A350âs future is expected after the recent updates of the 767 and 757. Unfortunately there is still no news on their 787 that is still in the works but keep your eyes peeled for possible sneak peaks in the future. Currently, the A350 beta can be obtained from the X-Updater for current owners of the A350. Make sure to check the BETA box to allow the aircraft to work in X-Plane 12. If you have not yet bought this A350 you can find it on the X-Plane Store. â</summary>
+    <published>2022-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fs2023</id>
+    <title>Flight Simulation Association Publishes Travel Details on FlightSimExpo 2023</title>
+    <updated>2022-09-25T00:00:00+00:00</updated>
+    <link href="/news/fs2023" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633008aa7846f12a25604181_2019_15.jpg" rel="enclosure" type="image/jpeg" length="401796"/>
+    <summary>Sim: X-Plane. Earlier this week, Flight Simulation Association published the travel details for FlightSimExpo 2023. The 3-day event is currently set to take place between June 23 - 25 in the city of Houston. Different from previous expos, FlightSImExpo 2023 will be held in two different locations. On Friday the 23rd, the event will be hosted in DoubleTree Houston Hobby where guests can participate in a reception and welcome seminars. On Saturday and Sunday, the event will move to Lone Star Flight Museum which is around a 15 minutes drive away from the hotel. Those who attend the event will receive free access to the museum for the weekend. Apart from the official events, the organizers are also working with NASA, the FAA, and other parties to arrange off-site excursions. The organizers have once again negotiated discounted prices at two hotels for attendees for FlightSimExpo. They encourage anyone who wishes to attend the event to book their hotel rooms as soon as possible in order to enjoy a special rate of $109/night at the DoubleTree and $89/night at Houston Marriott South at Hobby Airport. Guests at these two hotels will enjoy free transportation to/from Houston Hobby Airport, as well as free parking for those who are driving. Finally, the organizers have also obtained a 10% discount for those looking to purchase tickets to Houston from Delta or Southwest Airlines. More details on travel discounts can be found here. Registration for the expo will open in December; a 3-day pass can be purchased for only $50 USD. Currently, a final list of developers who will participate in the event has not been released; Threshold will keep you updated on this front. â</summary>
+    <published>2022-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsrmau</id>
+    <title>Fenix Simulations Releases Major A320 Update</title>
+    <updated>2022-09-25T00:00:00+00:00</updated>
+    <link href="/news/fsrmau" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633079f174586d275b894b32_fenix.png" rel="enclosure" type="image/png" length="659789"/>
+    <summary>Sim: MSFS. Fenix Simulations released a major update to their Airbus A320 add-on, which ensures compatibility with the newly released SU10 for Microsoft Flight Simulator, along with several other fixes and improvements that were long wished for by the customer base. Aamir Thacker, Fenixâs CEO, published an announcement on their Discord server where he describes the several things that were added and improved. A âtoo long, didnât readâ list with some of the most important changes can be found down below: Â  Check out the full changelog here. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/terstu</id>
+    <title>Terrainy Studios Release Vans RV-8</title>
+    <updated>2022-09-25T00:00:00+00:00</updated>
+    <link href="/news/terstu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633099fbf857a017e833fd61_54b8e8_d746d85cbe574e3284490bd43001af28_mv2.webp" rel="enclosure" type="image/webp" length="317782"/>
+    <summary>Sim: MSFS. Terrainy Studios have released their all-new Vans RV-8 for Microsoft flight simulator.Â  The Vans RV-8 was first introduced and flown in 1995 and has since proved to be one of Vans' most popular aircraft build packages. Those who are familiar with the Vans fleet will understand that the aircraft are experimental and often built by the owners. The American aircraft designer and Vans Aircraft founder Richard VanGrunsvenâs beautifully designed RV-8 is now available for MSFS thanks to the development team at Terrainy Studios!Â  The Aircraft includes the following features: â â The Terrainy Studios RV-8 is available now from ORBX for approximatelyÂ  Â£18.00 â â</summary>
+    <published>2022-09-25T00:00:00+00:00</published>
   </entry>
 </feed>
