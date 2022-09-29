@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-09-28T18:37:48.579199+00:00</updated>
+  <updated>2022-09-29T18:35:46.809583+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/reno-sale-46-items-on-sale-now-in-the-marketplace/</id>
-    <title>Reno Sale: 46 Items On Sale Now in the Marketplace</title>
-    <updated>2022-09-14T17:08:40+00:00</updated>
-    <link href="https://www.flightsimulator.com/reno-sale-46-items-on-sale-now-in-the-marketplace/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/MSFS_RenoSale2022_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76365"/>
-    <summary>For five days starting September 14th, save up to 50% on 46 items.</summary>
-    <published>2022-09-14T17:08:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-15th-2022-development-update/</id>
     <title>September 15th, 2022 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/ukaka5656-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="89289"/>
     <summary>Screenshot by ukaka5656 (Twitter) The long-awaited Sim Update X has been out for a day now, and we are paying close attention to your feedback. If you missed the initial announcement, you can click here to see the release notes, and you can comment and vote in our forum polls here. Once again, we thank … Continued</summary>
     <published>2022-09-23T00:12:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/world-update-xi-canada-now-available/</id>
+    <title>World Update XI: Canada Now Available!</title>
+    <updated>2022-09-29T15:06:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-xi-canada-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/MSFS_WU11_Canada_NoSnipe_Logo_NoText-1024x576.png" rel="enclosure" type="image/png" length="260752"/>
+    <summary>Canada is filled with a plethora of sights to explore from the air: magnificent urban architecture, wave-battered northern coastlines, and vast sweeps of tundra, glaciers and towering peaks. Microsoft Flight Simulator’s World Update XI invites simmers to explore this massive, diverse country, presented in the highest resolution and fidelity yet!In creating World Update XI: Canada, … Continued</summary>
+    <published>2022-09-29T15:06:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-eaa-airventure-oshkosh/</id>
