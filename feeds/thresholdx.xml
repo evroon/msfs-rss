@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-03T18:37:59.302278+00:00</updated>
+  <updated>2022-10-04T18:40:17.235897+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a35012</id>
-    <title>FlightFactor Releases A350 Beta for X-Plane 12</title>
-    <updated>2022-09-25T00:00:00+00:00</updated>
-    <link href="/news/a35012" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6330002416fb7f29f7644cc7_Screenshot%202022-09-25%20at%202.15.42%20AM.png" rel="enclosure" type="image/png" length="3492074"/>
-    <summary>Sim: X-Plane. Popular aircraft developer FlightFactor has recently announced a compatibility update for the beloved, highly in-depth A350 Advanced for X-Plane 12. Not much has been updated on the aircraft overall though the plane now works with the SimBrief flight plan downloader. It must also be mentioned that this aircraft is now in Beta for X-Plane 12. The lack of any exciting new features in this Beta update and any news for the A350âs future is expected after the recent updates of the 767 and 757. Unfortunately there is still no news on their 787 that is still in the works but keep your eyes peeled for possible sneak peaks in the future. Currently, the A350 beta can be obtained from the X-Updater for current owners of the A350. Make sure to check the BETA box to allow the aircraft to work in X-Plane 12. If you have not yet bought this A350 you can find it on the X-Plane Store. â</summary>
-    <published>2022-09-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fs2023</id>
-    <title>Flight Simulation Association Publishes Travel Details on FlightSimExpo 2023</title>
-    <updated>2022-09-25T00:00:00+00:00</updated>
-    <link href="/news/fs2023" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633008aa7846f12a25604181_2019_15.jpg" rel="enclosure" type="image/jpeg" length="401796"/>
-    <summary>Sim: X-Plane. Earlier this week, Flight Simulation Association published the travel details for FlightSimExpo 2023. The 3-day event is currently set to take place between June 23 - 25 in the city of Houston. Different from previous expos, FlightSImExpo 2023 will be held in two different locations. On Friday the 23rd, the event will be hosted in DoubleTree Houston Hobby where guests can participate in a reception and welcome seminars. On Saturday and Sunday, the event will move to Lone Star Flight Museum which is around a 15 minutes drive away from the hotel. Those who attend the event will receive free access to the museum for the weekend. Apart from the official events, the organizers are also working with NASA, the FAA, and other parties to arrange off-site excursions. The organizers have once again negotiated discounted prices at two hotels for attendees for FlightSimExpo. They encourage anyone who wishes to attend the event to book their hotel rooms as soon as possible in order to enjoy a special rate of $109/night at the DoubleTree and $89/night at Houston Marriott South at Hobby Airport. Guests at these two hotels will enjoy free transportation to/from Houston Hobby Airport, as well as free parking for those who are driving. Finally, the organizers have also obtained a 10% discount for those looking to purchase tickets to Houston from Delta or Southwest Airlines. More details on travel discounts can be found here. Registration for the expo will open in December; a 3-day pass can be purchased for only $50 USD. Currently, a final list of developers who will participate in the event has not been released; Threshold will keep you updated on this front. â</summary>
-    <published>2022-09-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsrmau</id>
     <title>Fenix Simulations Releases Major A320 Update</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633a76576bae883c21e27d7b_balloon.png" rel="enclosure" type="image/png" length="454327"/>
     <summary>Sim: MSFS. Hype Performance Group has just announced their newest add-on project, a Hot Air Balloon for Microsoft Flight Simulator, releasing this Friday (October 7th) for $15.00, exclusively on their website. Known for developing helicopters, such as the H135 mod with an impressive 534000 downloads and their payware H145, this is their first venture into the ballooning universe. The HPG Hot Air Balloon comes with a huge feature list, as seen down below: â Highly Detailed 3D Model, Textures and Animations - Professionally modeled with incredible interior and exterior details - 17 liveries included, all at 4K resolution and with PBR textures inside and out - Fully animated cockpit and animations for inflation, deflation, stall and collapse - Animated 3D humans including a hot air balloon operator and 2 passengers - Designed and optimized for VR with great FPS performance, working VR Cockpit Zoom and proper visual scaling throughout the model â Avionics &amp; Systems - Steam gauges showing barometric altitude, vertical speed and envelope thermometer - Available AI pilot that can control the hot air balloon based off terrain or altitude - EFB tablet included with maps and additional apps available - Balloonist Maps App: shows GPS speed and track - Little NavMap App: connect to LNM, the free open source flight planner, navigation tool, moving map, airport search and airport information system - Nearby Radio Stations: listen to radio stations local to the area you're currently flying in â Hot Air Balloon Flight Model - Fully integrated internal hot air balloon flight model and envelope simulation - Power Plant: 2x 12 million BTU burners with realistic visual and sound effects â Immersive Sound Pack - Realistic burner and environmental sounds Â  Bonus Features - Launch fireworks with realistic visual and audio smoke and explosion effects - Create other nearby AI flown HPG Hot Air Balloons on demand - HPG Hot Air Balloon can be set to follow a MSFS flight plan or current wind conditions Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oapaxm</id>
+    <title>Orbx Announces Pacific Aerospace 750 XSTOL for MSFS</title>
+    <updated>2022-10-04T00:00:00+00:00</updated>
+    <link href="/news/oapaxm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633bd4810705fb4286bfdab7_orbx1.jpg" rel="enclosure" type="image/jpeg" length="205104"/>
+    <summary>Sim: MSFS. Orbx has just announced the development and imminent release of their newest project, a Pacific Aerospace 750 XSTOL for Microsoft Flight Simulator, coming in four variations: skydiving, agricultural, cargo, and passenger. You can read more about them and their unique features on their forum announcement. Manufactured in New Zealand, the versatile aircraft carries up to 9 passengers or 17 parachutists (skydiving variant), powered by a Pratt &amp; Whitney Canada PT6 Turboprop engine that produces 750hp, making it plenty powerful and allowing it to take off and land in less than 244 meters!Â  As far as systems and avionics are concerned, the real-life counterpart and add-on are single-pilot IFR capable, with two COM and NAV radios, EHSI, CDI, and GPS, along with simulated circuit breakers and an accurate fuel system. They have also released a roadmap for the project where they state a post-release addition of a custom PT6 sound pack, failures, more liveries, landing challenges, bush trips, and more.Â  The airplane will be available on OrbxDirect âwithin the coming daysâ for $24.95, and on the Microsoft Flight Simulator Marketplace at a later date. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ife346</id>
+    <title>IndiaFoxtEcho Visual Simulations releases M-346 for Microsoft Flight Simulator.</title>
+    <updated>2022-10-04T00:00:00+00:00</updated>
+    <link href="/news/ife346" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633c6167bbba790b88584aad_302726521_6020609041285840_6318830664896955025_n.jpg" rel="enclosure" type="image/jpeg" length="755770"/>
+    <summary>Sim: MSFS. IndiaFoxtEcho Visual Simulations has released their M-346 for Microsoft Flight Simulator. The Leonardo M-346 is a twin-engine fighter commonly used for training in armed forces, with primary users Israeli Air Force, Italian Airforce, and the Polish Airforce, to name a few. The M-346 was also a contender to replace the T-38 in the US Airforce, being succeeded by the Boeing T-7. India Fox Echo recreated procedures based on the actual M-346 flight manuals, with a focus also on the HUD, MFD, and UFCP. Modeling and texturing details are faithful to the actual aircraft, with ten liveries included.Â  â â IndiaFoxtecho will improve and add more features to the M-346 as time progresses. Currently available for PC with an XBox version coming soon. The M-346 is available on OrbixDirect and SimMarket. Check out the well-produced trailer by the Italian Virtual Airforce here!Â  â</summary>
+    <published>2022-10-04T00:00:00+00:00</published>
   </entry>
 </feed>
