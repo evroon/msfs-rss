@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-10-06T18:36:50.691769+00:00</updated>
+  <updated>2022-10-07T18:36:58.575616+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-27-21-0-sim-update-x-now-available/</id>
-    <title>Release Notes (1.27.21.0) Sim Update X Now Available!</title>
-    <updated>2022-09-21T15:03:41+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-27-21-0-sim-update-x-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_003-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="55422"/>
-    <summary>Release Notes for Version 1.27.21.0 (Sim Update 10) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-09-21T15:03:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-22nd-2022-development-update/</id>
     <title>September 22nd, 2022 Development Update</title>
@@ -54,6 +45,23 @@
     <published>2022-09-29T23:09:26+00:00</published>
   </entry>
   <entry>
+    <id>https://www.flightsimulator.com/october-6th-2022-development-update/</id>
+    <title>October 6th, 2022 Development Update</title>
+    <updated>2022-10-06T22:57:56+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-6th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/MihamaBlend-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="93676"/>
+    <summary>Screenshot by MihamaBlend (Twitter) The Microsoft Flight Simulator team is continuing to monitor feedback related to last week’s release of World Update XI: Canada. Thank you to everyone who has shared their thoughts on the forums and posted screenshots. Your feedback and images are tremendously valuable as we identify and document problem areas in the … Continued</summary>
+    <published>2022-10-06T22:57:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/</id>
+    <title>Famous Flyer III: Beechcraft Bonanza V35</title>
+    <updated>2022-08-18T22:22:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/" rel="alternate"/>
+    <summary>The Beechcraft Bonanza V35 is one of the great classics of the world of aviation. The V35, produced from 1966 to 1967, hails from one of the most distinctive lines of airplanes in history, the Bonanza family. First flown on December 22, 1945, the Bonanza is still being manufactured, making it the longest continuously produced … Continued</summary>
+    <published>2022-08-18T22:22:37+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.flightsimulator.com/local-legend-vi-junker-f-13/</id>
     <title>Local Legend VI: Junkers F 13</title>
     <updated>2022-08-25T19:00:43+00:00</updated>
@@ -66,16 +74,8 @@
     <title>Local Legend VII: Cessna 195 Businessliner</title>
     <updated>2022-09-29T16:09:10+00:00</updated>
     <link href="https://www.flightsimulator.com/local-legend-vii-cessna-195-businessliner/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/MSFS_C195_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="225226"/>
     <summary>In conjunction with World Update XI: Canada, Microsoft Flight Simulator today released its latest aircraft in the “Local Legends” series of planes. Manufactured by Carenado, the 195 Businessliner is a single-engine, high-wing general aviation and utility airplane by American aviation manufacturer, Cessna. The aircraft is one of a small family of two consisting of the … Continued</summary>
     <published>2022-09-29T16:09:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/indiafoxtechos-alenia-aermacchi-m-346-master-comes-to-microsoft-flight-simulator/</id>
-    <title>IndiaFoxtEcho’s Alenia Aermacchi M-346 Master Comes to Microsoft Flight Simulator</title>
-    <updated>2022-10-06T15:00:11+00:00</updated>
-    <link href="https://www.flightsimulator.com/indiafoxtechos-alenia-aermacchi-m-346-master-comes-to-microsoft-flight-simulator/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/MSFS_IndiaFoxEcho_M346_10-1024x576.jpg" rel="enclosure" type="image/jpeg" length="54154"/>
-    <summary>Famed developer IndiaFoxtEcho brings new advanced military training aircraft to Microsoft Flight Simulator.</summary>
-    <published>2022-10-06T15:00:11+00:00</published>
   </entry>
 </feed>

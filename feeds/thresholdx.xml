@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-06T18:36:52.322552+00:00</updated>
+  <updated>2022-10-07T18:36:59.109908+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/terstu</id>
-    <title>Terrainy Studios Release Vans RV-8</title>
-    <updated>2022-09-25T00:00:00+00:00</updated>
-    <link href="/news/terstu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633099fbf857a017e833fd61_54b8e8_d746d85cbe574e3284490bd43001af28_mv2.webp" rel="enclosure" type="image/webp" length="317782"/>
-    <summary>Sim: MSFS. Terrainy Studios have released their all-new Vans RV-8 for Microsoft flight simulator.Â  The Vans RV-8 was first introduced and flown in 1995 and has since proved to be one of Vans' most popular aircraft build packages. Those who are familiar with the Vans fleet will understand that the aircraft are experimental and often built by the owners. The American aircraft designer and Vans Aircraft founder Richard VanGrunsvenâs beautifully designed RV-8 is now available for MSFS thanks to the development team at Terrainy Studios!Â  The Aircraft includes the following features: â â The Terrainy Studios RV-8 is available now from ORBX for approximatelyÂ  Â£18.00 â â</summary>
-    <published>2022-09-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fdream</id>
     <title>Footage Designs Releases Empuriabrava Aerodrome for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633dee8c23c51ff5b6d65c70_as3.jpg" rel="enclosure" type="image/jpeg" length="84857"/>
     <summary>Sim: MSFS. In a short video, Mathijs Kok from Aerosoft has previewed some of the functionalities of their brand new Electronic Flight Bag (EFB) for the upcoming A330 for Microsoft Flight Simulator. It covers relevant aspects such as Simbrief integration, NavDataPro/Navigraph compatibility, flight planning tools, live map, pushback, etc. There is no information about release date or pricing just yet, but you can follow the development updates on Aerosoftâs forum thread on the A330âs progress.Â  Stay tuned to Threshold for more flight sim news!Â  â</summary>
     <published>2022-10-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hpgrha</id>
+    <title>Hype Performance Group Releases Hot Air Balloon for MSFS</title>
+    <updated>2022-10-07T00:00:00+00:00</updated>
+    <link href="/news/hpgrha" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633fa905abe2687a20674e52_bal1.jpg" rel="enclosure" type="image/jpeg" length="261776"/>
+    <summary>Sim: MSFS. Hype Performance Group has released their Hot Air Balloon for Microsoft Flight Simulator. Usually known for developing helicopters such as the H135 freeware and the payware H145, they decided to try ballooning next. With a custom flight model, itâs - according to HPG - the first professionally developed hot air balloon for MSFS. The feature list follows down below: The add-on is available on HPGâs website for $15.00. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-07T00:00:00+00:00</published>
   </entry>
 </feed>
