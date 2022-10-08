@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-07T18:36:59.109908+00:00</updated>
+  <updated>2022-10-08T18:32:06.436109+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fdream</id>
-    <title>Footage Designs Releases Empuriabrava Aerodrome for MSFS</title>
-    <updated>2022-09-28T00:00:00+00:00</updated>
-    <link href="/news/fdream" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63349f1f28957df9af9a3539_leap1.jpg" rel="enclosure" type="image/jpeg" length="233171"/>
-    <summary>Sim: MSFS. Footage Designs has released their rendition of Empuriabrava Aerodrome (LEAP)Â  for Microsoft Flight Simulator. Very popular among skydivers and with a privileged location (150km from Barcelona), itâs often busy with student and private pilots landing left and right all day long, all coordinated via air-to-air frequency. The scenery was built from scratch, with custom-made buildings, dynamic lighting, and optimized for performance on all sorts of hardware. The full feature list can beÂ  found down below: â The scenery can be purchased on flightsim.to for $7.00 and requires at least 445 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-09-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aerovj</id>
     <title>Aerobask Release ViperJet For XP12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633fa905abe2687a20674e52_bal1.jpg" rel="enclosure" type="image/jpeg" length="261776"/>
     <summary>Sim: MSFS. Hype Performance Group has released their Hot Air Balloon for Microsoft Flight Simulator. Usually known for developing helicopters such as the H135 freeware and the payware H145, they decided to try ballooning next. With a custom flight model, itâs - according to HPG - the first professionally developed hot air balloon for MSFS. The feature list follows down below: The add-on is available on HPGâs website for $15.00. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inivlb</id>
+    <title>iniBuilds releases its free Venice Beach Pack for MSFS</title>
+    <updated>2022-10-08T00:00:00+00:00</updated>
+    <link href="/news/inivlb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634189cd5b23083a3a3c648a_VBC.jpg" rel="enclosure" type="image/jpeg" length="583795"/>
+    <summary>Sim: MSFS. â iniBuilds released its Venice Beach Pack for Microsoft Flight Simulator today, featuring the well-known attractions Venice offers. iniBuilds recently released its KLAX scenery, making an ideal bundle for scenery covering the Southern California Area. The pack covers the Boardwalk while adding the expected lifeguard shacks, vehicles, and a fictional beach airstrip. Scenery focusing on non-airport environments could soon reshape flight sim scenery. iniScenes is on to something with this package. The KLAX Venice Beach Pack is Free for Microsoft Flight Simulator; on the iniBuilds store.</summary>
+    <published>2022-10-08T00:00:00+00:00</published>
   </entry>
 </feed>
