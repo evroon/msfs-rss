@@ -2,12 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-10-08T18:32:04.963436+00:00</updated>
+  <updated>2022-10-09T18:32:05.724601+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
+  <entry>
+    <id>https://www.flightsimulator.com/september-22nd-2022-development-update/</id>
+    <title>September 22nd, 2022 Development Update</title>
+    <updated>2022-09-23T00:12:58+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-22nd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/ukaka5656-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="89289"/>
+    <summary>Screenshot by ukaka5656 (Twitter) The long-awaited Sim Update X has been out for a day now, and we are paying close attention to your feedback. If you missed the initial announcement, you can click here to see the release notes, and you can comment and vote in our forum polls here. Once again, we thank … Continued</summary>
+    <published>2022-09-23T00:12:58+00:00</published>
+  </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xi-canada-now-available/</id>
     <title>World Update XI: Canada Now Available!</title>
@@ -43,15 +52,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/MihamaBlend-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="93676"/>
     <summary>Screenshot by MihamaBlend (Twitter) The Microsoft Flight Simulator team is continuing to monitor feedback related to last week’s release of World Update XI: Canada. Thank you to everyone who has shared their thoughts on the forums and posted screenshots. Your feedback and images are tremendously valuable as we identify and document problem areas in the … Continued</summary>
     <published>2022-10-06T22:57:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/fsoares-sale/</id>
-    <title>FSOARES Sale</title>
-    <updated>2022-10-07T18:52:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/fsoares-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/FSoars_Sale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="86648"/>
-    <summary>8 Items On Sale Now in the Marketplace</summary>
-    <published>2022-10-07T18:52:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-iii-beechcraft-bonanza-v35/</id>

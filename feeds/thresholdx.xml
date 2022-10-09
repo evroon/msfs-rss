@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-08T18:32:06.436109+00:00</updated>
+  <updated>2022-10-09T18:32:06.264152+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aerovj</id>
-    <title>Aerobask Release ViperJet For XP12</title>
-    <updated>2022-09-28T00:00:00+00:00</updated>
-    <link href="/news/aerovj" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6334ab59349254af721e331f_viperjet3.jpeg" rel="enclosure" type="image/jpeg" length="144016"/>
-    <summary>Sim: X-Plane. Popular X-Plane aircraft developers Aerobask, best known for their Phenom 300 and upcoming Falcon 8X have just released an all-new aircraft! The ViperJet. The ViperJet is a home-built Jet aircraft which first flew toward the end of 1999. It then made its public debut at AirVenture in the year 2000. The base kit retails for around $200,000 but most complete aircraft end up being finished closer to the $350,000 range. Figures from April 2020 show that there are currently 7 ViperJet aircraft registered in the USA.Â  Thanks to Aerobask, you can now have your very own ViperJet!Â  The aircraft features include:Â  To read a complete feature list or pick up your own ViperJet, visit the X-plane.org store where you can get it for $34.95</summary>
-    <published>2022-09-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsrnah</id>
     <title>Fenix Simulations Releases New A320 Hotfix</title>
@@ -150,6 +141,15 @@
     <link href="/news/inivlb" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634189cd5b23083a3a3c648a_VBC.jpg" rel="enclosure" type="image/jpeg" length="583795"/>
     <summary>Sim: MSFS. â iniBuilds released its Venice Beach Pack for Microsoft Flight Simulator today, featuring the well-known attractions Venice offers. iniBuilds recently released its KLAX scenery, making an ideal bundle for scenery covering the Southern California Area. The pack covers the Boardwalk while adding the expected lifeguard shacks, vehicles, and a fictional beach airstrip. Scenery focusing on non-airport environments could soon reshape flight sim scenery. iniScenes is on to something with this package. The KLAX Venice Beach Pack is Free for Microsoft Flight Simulator; on the iniBuilds store.</summary>
+    <published>2022-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xenviro</id>
+    <title>xEnviro 1.17 Released</title>
+    <updated>2022-10-08T00:00:00+00:00</updated>
+    <link href="/news/xenviro" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6341d241a7d2d7f0c45ac29b_1.PNG" rel="enclosure" type="image/png" length="348608"/>
+    <summary>Sim: X-Plane. After an extended development time due to real-world circumstances, The team behind xEnviro have finally released their latest version of the product, update 1.17. Containing loads of new features and updates to the weather add-on. â â The team at behind the project have worked really hard to get this new version of xEnviro to everyone, considering what happened with some of the developers in the aftermath of the invasion of Ukraine. This update is rather major compared to the recent version 1.16, and contains an overall new look and major changes to the already robust weather plugin. The team will also continue to update this plugin as long as they deem necessary and worthwhile for the people who still use X-Plane 11. â From the extensive forum post project leader Magnus Lorvik made about the update, the post mentions the hurdles and limitations when it comes to bringing the plugin into the newly released X-Plane 12 Early Access, as well as the major updates 1.17 brings to the table. â âX-Plane 12 Sadly, there is some bad news. Laminar Research have turned down the idea of bringing xEnviro into their newly released simulator X-Plane 12 due to reasoning that the team at Threshold cannot understand and find somewhat puzzling. There have been ongoing arguments and conflict issues with Laminar Research attempting to bring xEnviro to X-Plane 12, but as the Executive states âWeâre tired of fighting and hopelessly defending long development cyclesâ. This is not just us that are having difficulties coming to terms with Laminar Research, Developers Enhanced Skyskapes, SkyMaxx and others are also experiencing the same issue.Â  â VR Compatibility Threshold has made a main change to xEnviro in version 1.17 by basing it on a spherical buffer. This has allowed them to get a much better performance for lower end machines and higher screen resolutions. Higher end machines also benefit, but not as much. VR is only compatible currently with Vulkan. â 1:1 Scale The team at Threshold have made a main objective to make a true to life representation of the environment as possible and thus we recreate the atmosphere in 1:1 scale. This differs to other clouds in MSFS and X-Plane 12 as xEnviro gives a true positioning awareness when relating to your surroundings in the sky. An example of this is when you fly between two layers of clouds that are close to each other. While in MSFS and X-Plane 12 you get claustrophobic in a 5000 feet gap, you will perceive this as a grand space in xEnviro. â Some Known Issues The 1:1 scale has its demands on performance. The main compromising issue in 1.17 is obvious when you load into the sim. Movement shimmer. This is not a huge problem when you fly slow and are gone when standing still. The artefacts are especially noticeable around the edges of the clouds. We have added a quality slider to reduce that shimmer - but at the cost of performance. This will be a continuous target to refine and improve for us going forward.Â  â â 1.17 Changelog â Added â Changed â Removed Known issues â If you are a current owner of xEnviro, this update will be free to obtain by heading over to the X-Plane.org Store or the Threshold Store and downloading the latest version. If you are still an X-Plane 11 user and would like to purchase this addon, you can purchase it through both the X-Plane Store for $69.90 or the Threshold Store for $69.69. â</summary>
     <published>2022-10-08T00:00:00+00:00</published>
   </entry>
 </feed>
