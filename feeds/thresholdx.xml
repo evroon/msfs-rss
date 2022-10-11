@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-10T18:39:25.167146+00:00</updated>
+  <updated>2022-10-11T18:36:14.023769+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/c510mu</id>
-    <title>Cockspur C510 Mustang Released </title>
-    <updated>2022-09-30T00:00:00+00:00</updated>
-    <link href="/news/c510mu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63373766a015491a7a531238_C510_Promo_1-600x312.png" rel="enclosure" type="image/png" length="167576"/>
-    <summary>Sim: MSFS. MSFS aircraft developers Cockspur have released their all-new C510 Mustang for Microsoft Flight Simulator. This release may come as a surprise to some in the community who have not been following development too closely, as initially it was due to release a little further down the road.  The C510 is a very light business jet developed and built by the Cessna aircraft company. The mustang is approved for single pilot operations and seats 4 passengers in the standard configuration. It is also used by various operators throughout the world as an air-ambulance which has been recreated by the Cockspur team! The aircraft offers the following features;  -3 different variants; Standard, High Sierra, and air ambulance -Multiple liveries -Different static elements depending on variant -Accurate flight model -Accurate systems modelling -Built from scratch for MSFS -Interactive Cabin -Visible passengers -Custom engine sounds -Extensive documentation -Developed with help from real Mustang Pilots -G1000 NXi integration The Cockspur C510 can be purchased from the Cockspur website for Euro 24.99 â</summary>
-    <published>2022-09-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msfscn</id>
     <title>MSFS World Update XI Canada Is Now Available</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63436a636a3b91068879ba22_Screenshot_640%20(1).png" rel="enclosure" type="image/png" length="748136"/>
     <summary>Sim: MSFS. After an extended period of silence, Robert Randazzo has dropped a new update detailing the final piece that complete the 737 NG family in MSFS, We know that we can expect the final aircraft from the 737 fleet, the 737-900, at some point during November unless they find more obstacles along the way. It is approaching the beta testing phase which has been hindered due to the uncovering a few issues, causing PMDG to push the Beta test date back. As part of the update, we got to take a look at the newly developed EFB for all of the Boeing fleet that should hopefully be with us soon! This new addition could massively enhance users' experience within the Simulator to make a more realistic flight. The EFB will allow for better performance computations, analysis, weight/balance, etc. It will also enable the use of Navigraph and SimBrief inside of the aircraft. Unfortunately, as it is a quick preview, weâre still in the dark with any potential roll-out of the EFB feature to be here with us to be used in MSFS. The update has also touched-base with some new updates regarding the development for the Xbox side and things are looking rather promising. The team is currently awaiting further news from Asobo/MS as they are still working on compatibility for C++/WASM projects on the Xbox platform. Once this has been completed, then PMDG will release the DC-6 for Xbox first, to ensure everything works smoothly before making the 737 fleet available on the platform. As a final note from the update, Randazzo has dropped some new information regarding their next product to be ported to MSFS. We have been told that the development of the 777 has seen a massive amount of progress since the last update and they seem to be running more ahead than they thought! Their plan is to use a more worn, mid-aged 777 cockpit to replicate rather than a brand new one as the 737âs are. This should overall give a far better unique look to the 777 and enhance the visuals for the people who will fly this aircraft. Robert stated himself âWait until you see it- it is spectacular!â. Thatâs all for the info-drop from PMDG, If you are interested in the other aircraft PMDG currently have released then head over to the PMDG website. For MSFS they currently have released the DC-6 and all the 737 aircraft apart from the -900 Variant.</summary>
     <published>2022-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rrgcba</id>
+    <title>RDPresets Releases Girona-Costa Brava Airport for MSFS</title>
+    <updated>2022-10-11T00:00:00+00:00</updated>
+    <link href="/news/rrgcba" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6345b11d86c63a50448511d4_giro1.jpg" rel="enclosure" type="image/jpeg" length="432286"/>
+    <summary>Sim: MSFS. RDPresets has just released their rendition of Girona-Costa Brava Airport (LEGE) for Microsoft Flight Simulator. The Catalonian connection to Costa Brava and the Pyrenees is visited by 2 million passengers yearly, served by airlines such as Ryanair, Jet2, Transavia, and Tui Airways. Built in 1965, the traffic figures used to be low up until the early 2000s, when Ryanair chose Girona as one of their European hubs, making the figure grow exponentially, from less than 200,000 yearly to over 5.5 million in 2008. Ryanairâs move to El Prat International (bigger airport) made the numbers drop by half in 2012, where it currently sits. â The complete feature list follows down below: â The scenery is available on FlightSim.to for $17.99 and on the RDPresets store for â¬19.99. At least 2.57GB of free disk space is required to install the product.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-11T00:00:00+00:00</published>
   </entry>
 </feed>
