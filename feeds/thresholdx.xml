@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-13T18:37:49.056490+00:00</updated>
+  <updated>2022-10-14T18:34:59.211083+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msfscn</id>
-    <title>MSFS World Update XI Canada Is Now Available</title>
-    <updated>2022-09-30T00:00:00+00:00</updated>
-    <link href="/news/msfscn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63373970708fb006caf3d578_MSFS_WU11_Canada_NoSnipe_Logo_NoText.png" rel="enclosure" type="image/png" length="931127"/>
-    <summary>Sim: MSFS. MSFS have released their all-new world update XI which focuses on Canada. One of the most stunning countries in the world, Canada is renowned for its incredible wildlife, lake districts, mountain ranges and of course Tim Hortons coffee!Â The new update from the team behind MSFS brings more focus and detail to Canada than ever seen before in a flight sim.  Asobo revealed:Â "In creating World Update XI: Canada, the Microsoft Flight Simulator team processed troves of its latest geospatial data, including digital elevation models, satellite imagery, and aerial photography. Complementing the data, models and imagery, the update highlights 12 urban regions enhanced with the latest photogrammetry data and features 87 hand-crafted points of interest" Just some of the new cities which have received an overhaul in this latest update are:Â  The update also brings 5 brand new handcrafted airports to MSFS, these are:Â  â Best of all, this new world update is completely  free!Â to read a full changelog view the MSFS website. â</summary>
-    <published>2022-09-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/urbcms</id>
     <title>UK2000 Releases Belfast City for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6345b11d86c63a50448511d4_giro1.jpg" rel="enclosure" type="image/jpeg" length="432286"/>
     <summary>Sim: MSFS. RDPresets has just released their rendition of Girona-Costa Brava Airport (LEGE) for Microsoft Flight Simulator. The Catalonian connection to Costa Brava and the Pyrenees is visited by 2 million passengers yearly, served by airlines such as Ryanair, Jet2, Transavia, and Tui Airways. Built in 1965, the traffic figures used to be low up until the early 2000s, when Ryanair chose Girona as one of their European hubs, making the figure grow exponentially, from less than 200,000 yearly to over 5.5 million in 2008. Ryanairâs move to El Prat International (bigger airport) made the numbers drop by half in 2012, where it currently sits. â The complete feature list follows down below: â The scenery is available on FlightSim.to for $17.99 and on the RDPresets store for â¬19.99. At least 2.57GB of free disk space is required to install the product.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oraams</id>
+    <title>Orbx Releases Asturias Airport for MSFS</title>
+    <updated>2022-10-14T00:00:00+00:00</updated>
+    <link href="/news/oraams" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6349449a82ef363ece098174_asturias.png" rel="enclosure" type="image/png" length="1934786"/>
+    <summary>Sim: MSFS. Orbx has just released their rendition of Asturias Airport (LEAS) for Microsoft Flight Simulator, the only International Airport of the Principality of Asturias, in Spain. Itâs a relevant domestic destination, visited by an average of 1.5 million passengers yearly and a focus city for Volotea and Vueling. Ryanair will operate international routes out of Asturias starting in early November, with destinations such as Charleroi, Dublin, London, Rome and Weeze.  Originally released for Prepar3d, the Microsoft Flight Simulator version got an enhancement on textures, new clutter, new custom animated jetways, airside traffic and optional static aircraft.  The complete feature list follows down below: The add-on is available on OrbxDirect for $15.49, requiring 1.70 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2022-10-14T00:00:00+00:00</published>
   </entry>
 </feed>
