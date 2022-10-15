@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-14T18:34:59.211083+00:00</updated>
+  <updated>2022-10-15T18:32:37.839986+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/urbcms</id>
-    <title>UK2000 Releases Belfast City for MSFS</title>
-    <updated>2022-09-30T00:00:00+00:00</updated>
-    <link href="/news/urbcms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63374a011c29c2396cf6850d_egac1.jpg" rel="enclosure" type="image/jpeg" length="451303"/>
-    <summary>Sim: MSFS. UK2000 has recently released their rendition of George Best Belfast City Airport (EGAC) for Microsoft Flight Simulator, the second airport serving the city of Belfast, located right in the heart of it and with a yearly average of 2.5 million passengers. Unlike Belfast Aldergrove, most of their routes are within the United Kingdom, with one international leg to Amsterdam with KLM, with seasonal charters to Barcelona and Bologna to begin in 2023, operated by EasyJet. The scenery uses PBR materials, including realistic ground markings, modeled interiors for both tower and pier, animated jetways, custom vegetation, and optimized for high performance. The feature list follows down below: The product is available on UK2000âs webpage for Â£14.99 or Flightsim.to for $14.99 and requires at least 121 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-09-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/asdrka</id>
-    <title>Aviation-Sim-Design Releases Kyritz Airfield for MSFS</title>
-    <updated>2022-09-30T00:00:00+00:00</updated>
-    <link href="/news/asdrka" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63374b591167780c714abe9e_edbk.jpg" rel="enclosure" type="image/jpeg" length="437983"/>
-    <summary>Sim: MSFS. Aviation-Sim-Design has just released their rendition of Kyritz Airfield (EDBK)for Microsoft Flight Simulator, a commercial airfield in a district near Berlin and close to the Baltic Sea. With two runways of one kilometer each (asphalt and grass), itâs the ideal environment for general aviation airplanes and gliders. With a modern lighting infrastructure, nocturnal flight operations are allowed, making it a jack-of-all-trades for small aircraft. The feature list follows down below: The product can be purchased on flightsim.to for $10.49 and requires at least 1.26 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-09-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msrsam</id>
-    <title>MK Studios Releases Shannon Airport for MSFS</title>
-    <updated>2022-10-01T00:00:00+00:00</updated>
-    <link href="/news/msrsam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63387c0c0ebc1cf35e918f33_shannon1.jpg" rel="enclosure" type="image/jpeg" length="353094"/>
-    <summary>Sim: MSFS. MK Studios has just released their rendition of Shannon Airport (EINN) for Microsoft Flight Simulator, the third busiest airport in Ireland, with plenty of aviation history on its back (first transatlantic proving flight, first duty-free airport shop, Europeâs first United States border preclearance facility, the list goes on). Back in the 1960s, it was a busy refueling stop for international carriers crossing the Atlantic. Nowadays, it averages around 1.7 million passengers every year (pre-pandemic).Â Itâs a focus city for Ryanair, with over 16 routes. The scenery features an updated ground layout, realistic night lighting, satellite coverage around the airport and a detailed mesh. It can be purchased for $12.78 on Orbx Direct and requires at least 2.13 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/arpsif</id>
-    <title>Axonos Releases Palm Springs International for X-Plane</title>
-    <updated>2022-10-01T00:00:00+00:00</updated>
-    <link href="/news/arpsif" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63389b24b57d0c747a0a83bd_psp.jpg" rel="enclosure" type="image/jpeg" length="329468"/>
-    <summary>Sim: X-Plane. Axonos has just released their rendition of Palm Springs International Airport (KPSP) for X-Plane, a popular tourist destination with a yearly average of 2.5 million passengers. Located in the famous Coachella Valley, it provides a challenging and visually impressive arrival, with no ILS to help out in case of bad visibility. It is an important transit airport, served by many airlines with multiple route options. The scenery features PBR materials, high-resolution textures, custom ground clutter, and weathering, performance-friendly optimization, enhanced orthophoto imagery, hand-placed vegetation, and full compatibility with both X-Plane 11 and 12. It can be purchased on Axonosâ Gumroad Store for $19.95 and requires at least 3.69 GB of free disk space to install. They have also made an MSFS version that retails for $18.88.Â  â</summary>
-    <published>2022-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inibla</id>
-    <title>iniBuilds KLAX Los Angeles release date announced!</title>
-    <updated>2022-10-03T00:00:00+00:00</updated>
-    <link href="/news/inibla" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633a335815b41b5e27e87365_26_952fa232-ddec-4761-af9f-d0fe7fa9806c.jpg" rel="enclosure" type="image/jpeg" length="500557"/>
-    <summary>Sim: MSFS. IniBuilds is excited to announce their anticipated LAX scenery scheduled for release tomorrow! Los Angeles known for its impressive travel numbers has finally been brought alive with iniBuilds' version of SoCal's mega airport. This release includes handmade ground textures and dynamic lighting including the iconic entryway sign from KLAX. Other details include modeled terminal concourses, logos, unique art details, and more! Feature list is detailed below. â â You can grab your copy tomorrow at iniBuilds's store. â</summary>
-    <published>2022-10-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msrpia</id>
     <title>MâM Simulations Releases Pristina International Airport for MSFS</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6349449a82ef363ece098174_asturias.png" rel="enclosure" type="image/png" length="1934786"/>
     <summary>Sim: MSFS. Orbx has just released their rendition of Asturias Airport (LEAS) for Microsoft Flight Simulator, the only International Airport of the Principality of Asturias, in Spain. Itâs a relevant domestic destination, visited by an average of 1.5 million passengers yearly and a focus city for Volotea and Vueling. Ryanair will operate international routes out of Asturias starting in early November, with destinations such as Charleroi, Dublin, London, Rome and Weeze.  Originally released for Prepar3d, the Microsoft Flight Simulator version got an enhancement on textures, new clutter, new custom animated jetways, airside traffic and optional static aircraft.  The complete feature list follows down below: The add-on is available on OrbxDirect for $15.49, requiring 1.70 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2022-10-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/osalhx</id>
+    <title>Origami Studios Announces London Heathrow for X-Plane 12</title>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <link href="/news/osalhx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634a0f48a4b16a5c57451dd6_lhr1.png" rel="enclosure" type="image/png" length="1596674"/>
+    <summary>Sim: X-Plane. Origami Studios has recently announced their rendition of London Heathrow (EGLL) for X-Plane 12, the home of British Airways and Virgin Atlantic. It is the 7th busiest airport in the world, averaging 80 million passengers yearly, and has a route network that covers the whole globe. According to their product page, the scenery will feature an accurate rendition with custom buildings, a modeled Terminal 5 interior, moving jetways, landmarks, and points of interest, and modern X-Plane 12 features such as snow and rain effects, reflections and 3D forests. It is said to be coming soon to the iniBuilds store. There is no information regarding the release date or pricing yet, but weâll keep you updated.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/usrsam</id>
+    <title>UK2000 Scenery Releases Spaceport America for MSFS</title>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <link href="/news/usrsam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634a3b20f3dfcb35d624a342_space1.png" rel="enclosure" type="image/png" length="2206963"/>
+    <summary>Sim: MSFS. UK2000 Scenery has recently released their rendition of Spaceport America (9NM9) for Microsoft Flight Simulator, an FAA-licensed spaceport in New Mexico (United States) for vertical and horizontal launch space vehicles, launched in 2011 and deemed ready for operations in 2019.Â  Owned and operated by the State of New Mexico, it is the first purpose-built commercial spaceport, focusing solely on commercial operations. Itâs home to companies such as HAPSMobile and SpinLaunch, and a hub for Virgin Galactic, Up Aerospace, and Exos Aerospace.Â  Its concept was first introduced in 1990 by Dr. Burton Lee, a Stanford University engineering lecturer. Responsible for writing the initial business and strategy plans, he secured 1.4 million dollars in seed funding, aided by Senator Pete Domenici. In 1992, they formed the Southwest Space Task Force, focusing on advancing New Mexicoâs space industryÂ  infrastructure and activity-wise. After lots of research, they chose a 70 square kilometer plot of state-owned land, near Las Cruces, to build the spaceport. In 2003, the Economic Development Cabinet Secretary Rick Homans presented the idea to Governor Bill Richardson, which then reached an agreement with Sir Richard Branson from Virgin to make New Mexico the headquarters for Virgin Galactic and consequently facilitate it for the state laws to be enacted and authorize the construction of the airport.Â  The scenery was built with PBR textures, accurately replicating the real-life counterpart as it looks in 2022. The complete feature list follows down below: â Itâs available for purchase on FlightSim.to for $7.49 or on UK2000âs website for Â£7.49, requiring at least 77 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffa320u</id>
+    <title>FlightFactor Releases New Update for A320</title>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <link href="/news/ffa320u" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634a5fd29bff5644bb3c7f2a_Screenshot%202022-10-15%20at%202.22.54%20AM.png" rel="enclosure" type="image/png" length="3340893"/>
+    <summary>Sim: X-Plane. Aircraft developer FlightFactor has recently released a new update to its popular A320 aircraft for X-Plane. This update brings various bug fixes and quality of life improvements to the plane, as well as an array of other misc. features. The A320 made by FlightFactor was first released for X-Plane 10 in February 2018. It was further updated to be made compatible with X-Plane 11 a short time later. The team at FlightFactor has been making constant progress at Â fixing any issues and adding new systems to the aircraft. However, there was a long period of no development to the A320 for X-Plane 11 and some users were experiencing performance issues. FlightFactor had reacted to this by releasing a major new update towards the end of 2021 which had fixed many issues users were experiencing. When X-Plane 12 was released, FlightFactor had worked hard on the constant updates with this aircraft and are still continuing to make the small little changes to enhance the users experience within the sim. The new version marks another solid step in the development of the Airbus A320, which is currently an open BETA phase for X-Plane 12. The update provides overall improvements to the flight deck such as font stylings and colors and other quality of life updates to the aircraft systems. Below, You will find the changelog for newly updated A320 v1.5.2 BETA. â Improvements: Fixes: â The update is free and now available to download for all current owners of the A320. You can do this by updating it through the X-Updater or heading over to the X-Plane.org Store. If you want to become an owner of this aircraft then you can purchase it on the X-Plane.org Store. In addition to the A320 beta, the team at Flight Factor has also been hard at work developing their upcoming 777 Professional v2. They have recently released a small development update in regards to the emergency batteries panel. Currently, no further updates have been provided in regards to the 787. Threshold will keep you updated on this front. â</summary>
+    <published>2022-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfrjpr</id>
+    <title>JustFlight Release Update on RJ Professional Development</title>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <link href="/news/jfrjpr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634abbb3a52156542b692494_4_RJ100_BA_Colum_e7EKPrRyT.webp" rel="enclosure" type="image/webp" length="93190"/>
+    <summary>Sim: MSFS. Just Flight have released a new development update on their upcoming RJ Professional series. Announced officially on the 15th of August 2022, the RJ professional line is set to be a more modern and streamlined version of their previous â146 Professionalâ addon. Differences include slightly larger and more powerful engines, but the most significant difference comes in the flight deck! The RJ professional line will boast an all-new EFIS system replacing the traditional analogue ADI, HSI and engine instruments.Â  In providing an update on the development process, JustFlight has said: âThe interior and cockpit modelling and texturing has been undergoing extensive testing in recent weeks, with every rivet, screw and label being compared to its real-life counterpart, to ensure 100% accuracy. After spending many months developing the 146, itâs been interesting to see just how much was improved and upgraded in the later RJ, and how all come together to reduce pilot workload without losing the appeal of the aircraft.â JustFlight has informed us that throughout the cockpit the majority of instruments are now âaliveâ and being fine-tuned. The other significant bit of work to take place has been the development of over 30 different true-to-life liveries which will be released with the aircraft!Â  To read more from JustFlight's latest RJ development update click here! â</summary>
+    <published>2022-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xwoneo</id>
+    <title>X-Works Release A330-900NEO Mod for X-Plane 12</title>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <link href="/news/xwoneo" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634ae17aa8b1bb7dfa7b4eb8_1.PNG" rel="enclosure" type="image/png" length="454110"/>
+    <summary>Sim: X-Plane. X-Works have released their A330-900neo mod for the Laminar Research A330-300 in X-Plane 12. They have worked hard as a team to bring this modification together for users to enjoy the newest variant of the A330. During the time this aircraft modification has been in development , the development team has given sneak peaks and modeling updates to show the progress of the A330-900neo. X-Works have also stated, âIf you are on windows: DO NOT update to beta 7! Laminar broke the A330-300 and thus our mod too.â If you want to use this modification you will have to avoid the latest X-Plane 12 BETA update until a fix has been brought out to the Laminar Research. â Features of the X-Works A330-900neo: â To obtain this modification, you can head over to X-Plane.to to download it for Free. To install, you simply duplicate the default Laminar Research A330 folder and drag the new files in, overwrite when prompted to. â If you would like to download liveries for this aircraft, then you can head over to their discord server where they have a selection of liveries. â</summary>
+    <published>2022-10-15T00:00:00+00:00</published>
   </entry>
 </feed>
