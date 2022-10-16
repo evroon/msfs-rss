@@ -2,12 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-10-15T18:32:36.613400+00:00</updated>
+  <updated>2022-10-16T18:32:52.717628+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
+  <entry>
+    <id>https://www.flightsimulator.com/world-update-xi-canada-now-available/</id>
+    <title>World Update XI: Canada Now Available!</title>
+    <updated>2022-09-29T15:06:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-xi-canada-now-available/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/09/MSFS_WU11_Canada_NoSnipe_Logo_NoText-1024x576.png" rel="enclosure" type="image/png" length="260752"/>
+    <summary>Canada is filled with a plethora of sights to explore from the air: magnificent urban architecture, wave-battered northern coastlines, and vast sweeps of tundra, glaciers and towering peaks. Microsoft Flight Simulator’s World Update XI invites simmers to explore this massive, diverse country, presented in the highest resolution and fidelity yet!In creating World Update XI: Canada, … Continued</summary>
+    <published>2022-09-29T15:06:19+00:00</published>
+  </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xi-sale/</id>
     <title>World Update XI Sale</title>
@@ -43,15 +52,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/FSoars_Sale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="86648"/>
     <summary>8 Items On Sale Now in the Marketplace</summary>
     <published>2022-10-07T18:52:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/flightbeam-sale/</id>
-    <title>FLIGHTBEAM  SALE</title>
-    <updated>2022-10-14T19:13:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightbeam-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/FlightBeam_Sale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121431"/>
-    <summary>7 Items On Sale Now in the Marketplace</summary>
-    <published>2022-10-14T19:13:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-vi-junker-f-13/</id>
