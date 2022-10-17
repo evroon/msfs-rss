@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-16T18:32:54.089987+00:00</updated>
+  <updated>2022-10-17T18:48:47.762287+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ife346</id>
-    <title>IndiaFoxtEcho Visual Simulations releases M-346 for Microsoft Flight Simulator.</title>
-    <updated>2022-10-04T00:00:00+00:00</updated>
-    <link href="/news/ife346" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633c6167bbba790b88584aad_302726521_6020609041285840_6318830664896955025_n.jpg" rel="enclosure" type="image/jpeg" length="755770"/>
-    <summary>Sim: MSFS. IndiaFoxtEcho Visual Simulations has released their M-346 for Microsoft Flight Simulator. The Leonardo M-346 is a twin-engine fighter commonly used for training in armed forces, with primary users Israeli Air Force, Italian Airforce, and the Polish Airforce, to name a few. The M-346 was also a contender to replace the T-38 in the US Airforce, being succeeded by the Boeing T-7. India Fox Echo recreated procedures based on the actual M-346 flight manuals, with a focus also on the HUD, MFD, and UFCP. Modeling and texturing details are faithful to the actual aircraft, with ten liveries included.Â  â â IndiaFoxtecho will improve and add more features to the M-346 as time progresses. Currently available for PC with an XBox version coming soon. The M-346 is available on OrbixDirect and SimMarket. Check out the well-produced trailer by the Italian Virtual Airforce here!Â  â</summary>
-    <published>2022-10-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/apaefm</id>
-    <title>Aerosoft Previews A330âs EFB for MSFS</title>
-    <updated>2022-10-05T00:00:00+00:00</updated>
-    <link href="/news/apaefm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/633dee8c23c51ff5b6d65c70_as3.jpg" rel="enclosure" type="image/jpeg" length="84857"/>
-    <summary>Sim: MSFS. In a short video, Mathijs Kok from Aerosoft has previewed some of the functionalities of their brand new Electronic Flight Bag (EFB) for the upcoming A330 for Microsoft Flight Simulator. It covers relevant aspects such as Simbrief integration, NavDataPro/Navigraph compatibility, flight planning tools, live map, pushback, etc. There is no information about release date or pricing just yet, but you can follow the development updates on Aerosoftâs forum thread on the A330âs progress.Â  Stay tuned to Threshold for more flight sim news!Â  â</summary>
-    <published>2022-10-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hpgrha</id>
     <title>Hype Performance Group Releases Hot Air Balloon for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634c2bb945464d5e2a272ea5_1.PNG" rel="enclosure" type="image/png" length="433191"/>
     <summary>Sim: MSFS. Black Square has recently released their steam gauge overhaul for the Asobo King Air 350i, the second add-on in Black Squareâs overhaul series for Microsoft Flight Simulator.Â  The new study-level remake of the Beechcraft King Air 350i, which is provided as default with the simulator, provides a completely redesigned interior and panel for the mid-range turboprop aircraft. The overhaul features a fully custom and remodelled electrical system, full 3D cockpit lighting for each gauge and panel, improved flight and turbine dynamics, panel state-saving options, crew oxygen system, checklists, flight manuals and custom failures. Users will find an increased level of detail on the various instrument panels compared to the default level which is also replicated in the cabin.Â  The Beechcraft King Air 350i is one of the world's most popular business turboprop aircraft due to its versatility. The aircraft is an updated version of Beechcraftâs very sucessful and popular B300 series and features improvements in the cabin, better performance as well as a lower operating cost compared to other models. The aircraft's Pratt &amp; Witney PT6 turboprop engines produce over 1000 horsepower each allowing the aircraft to maintain a speed of 290 knots cruising at 35,000 feet.Â  Various radio navigation systems are available from several eras of the King Airâs history, so users can pick and choose how they would like to outfit their aircraftâs avionics suite. The Black Square 350i is equipable with a Bendix KNS-80 RNAV system or they can fly with the convenience of a fully digital Garmin GTN 750, giving the user true customisation over their aircraft. The complete feature list follows down below: â Model Cockpit Systems Flight DynamicsÂ  The Black Square King Air 350i steam gauge overhaul for MSFS is available on the JustFlight store for Â£27.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ssrgaa</id>
+    <title>ST Simulations Releases Gazipasa-Alanya Airport for MSFS</title>
+    <updated>2022-10-17T00:00:00+00:00</updated>
+    <link href="/news/ssrgaa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634ccba44c7d629ec1eb6754_gazi1.png" rel="enclosure" type="image/png" length="1900712"/>
+    <summary>Sim: MSFS. ST Simulations recently released their rendition of Gazipasa-Alanya Airport (LTFG) for Microsoft Flight Simulator. Serving the city of GazipaÅa (Turkey) and its surroundings, it averages 500.000 passengers every year (pre-pandemic), visited by airlines such as AnadoluJet, Finnair, Scandinavian and Turkish.Â  The construction finished in 1999, but it only opened in 2010, after TAV Airport (Tepe Akfen Ventures) won the bid to operate the airport for 25 years. Itâs famous for being the only airport in Turkey with a highway passing right under it. With a terminal area of 6700 square meters, it has an annual capacity of 1,500,000 passengers.Â  The scenery features advanced terraforming to replicate the highway tunnel, an accurate terminal replica and taxiway layout, custom models, PBR textures, and many airport buildings. Itâs available on FlightSim.to for $12.50 and requires at least 323 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hpgrhu</id>
+    <title>Hype Performance Group Releases New H145 Update</title>
+    <updated>2022-10-17T00:00:00+00:00</updated>
+    <link href="/news/hpgrhu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634d6ebc5a810ad33e334ce9_hype2.png" rel="enclosure" type="image/png" length="2221281"/>
+    <summary>Sim: MSFS. Not long after releasing their Hot Air Balloon, Hype Performance Group has updated their Airbus H145 to version 1.0, adding brand new features to both the Base Pack and the Action Pack expansion. âAfter over 18 months of development, we are very pleased with the breadth of the product and overall fidelity, as well as the built-in activities and functionsâ, said the Lead Developer in the official update announcement on their Discord. The update adds two new variants to the Action Pack (Offshore and Cargo), four new liveries, additional missions, and variant-related features such as a functional cargo hook. The base package gets several bug fixes and the Hype Radio. The complete feature list follows down below: The base pack and expansion are available on Hype Performance Groupâs website (on sale) for $42.99 and $35.00, respectively. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-17T00:00:00+00:00</published>
   </entry>
 </feed>
