@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-18T18:41:40.658827+00:00</updated>
+  <updated>2022-10-19T18:44:57.971368+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inivlb</id>
-    <title>iniBuilds Releases its Free Venice Beach Pack for MSFS</title>
-    <updated>2022-10-08T00:00:00+00:00</updated>
-    <link href="/news/inivlb" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634189cd5b23083a3a3c648a_VBC.jpg" rel="enclosure" type="image/jpeg" length="583795"/>
-    <summary>Sim: MSFS. â iniBuilds released its Venice Beach Pack for Microsoft Flight Simulator today, featuring the well-known attractions Venice offers. iniBuilds recently released its KLAX scenery, making an ideal bundle for scenery covering the Southern California Area. The pack covers the Boardwalk while adding the expected lifeguard shacks, vehicles, and a fictional beach airstrip. Scenery focusing on non-airport environments could soon reshape flight sim scenery. iniScenes is on to something with this package. The KLAX Venice Beach Pack is Free for Microsoft Flight Simulator; on the iniBuilds store.</summary>
-    <published>2022-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xenviro</id>
-    <title>xEnviro 1.17 Released</title>
-    <updated>2022-10-08T00:00:00+00:00</updated>
-    <link href="/news/xenviro" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6341d241a7d2d7f0c45ac29b_1.PNG" rel="enclosure" type="image/png" length="348608"/>
-    <summary>Sim: X-Plane. After an extended development time due to real-world circumstances, The team behind xEnviro have finally released their latest version of the product, update 1.17. Containing loads of new features and updates to the weather add-on. â â The team at behind the project have worked really hard to get this new version of xEnviro to everyone, considering what happened with some of the developers in the aftermath of the invasion of Ukraine. This update is rather major compared to the recent version 1.16, and contains an overall new look and major changes to the already robust weather plugin. The team will also continue to update this plugin as long as they deem necessary and worthwhile for the people who still use X-Plane 11. â From the extensive forum post project leader Magnus Lorvik made about the update, the post mentions the hurdles and limitations when it comes to bringing the plugin into the newly released X-Plane 12 Early Access, as well as the major updates 1.17 brings to the table. â âX-Plane 12 Sadly, there is some bad news. Laminar Research have turned down the idea of bringing xEnviro into their newly released simulator X-Plane 12 due to reasoning that the team at Threshold cannot understand and find somewhat puzzling. There have been ongoing arguments and conflict issues with Laminar Research attempting to bring xEnviro to X-Plane 12, but as the Executive states âWeâre tired of fighting and hopelessly defending long development cyclesâ. This is not just us that are having difficulties coming to terms with Laminar Research, Developers Enhanced Skyskapes, SkyMaxx and others are also experiencing the same issue.Â  â VR Compatibility Threshold has made a main change to xEnviro in version 1.17 by basing it on a spherical buffer. This has allowed them to get a much better performance for lower end machines and higher screen resolutions. Higher end machines also benefit, but not as much. VR is only compatible currently with Vulkan. â 1:1 Scale The team at Threshold have made a main objective to make a true to life representation of the environment as possible and thus we recreate the atmosphere in 1:1 scale. This differs to other clouds in MSFS and X-Plane 12 as xEnviro gives a true positioning awareness when relating to your surroundings in the sky. An example of this is when you fly between two layers of clouds that are close to each other. While in MSFS and X-Plane 12 you get claustrophobic in a 5000 feet gap, you will perceive this as a grand space in xEnviro. â Some Known Issues The 1:1 scale has its demands on performance. The main compromising issue in 1.17 is obvious when you load into the sim. Movement shimmer. This is not a huge problem when you fly slow and are gone when standing still. The artefacts are especially noticeable around the edges of the clouds. We have added a quality slider to reduce that shimmer - but at the cost of performance. This will be a continuous target to refine and improve for us going forward.Â  â â 1.17 Changelog â Added â Changed â Removed Known issues â If you are a current owner of xEnviro, this update will be free to obtain by heading over to the X-Plane.org Store or the Threshold Store and downloading the latest version. If you are still an X-Plane 11 user and would like to purchase this addon, you can purchase it through both the X-Plane Store for $69.90 or the Threshold Store for $69.69. â</summary>
-    <published>2022-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/90t7ef</id>
-    <title>PMDG Drops New Updates on Current Projects for MSFS</title>
-    <updated>2022-10-10T00:00:00+00:00</updated>
-    <link href="/news/90t7ef" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63436a636a3b91068879ba22_Screenshot_640%20(1).png" rel="enclosure" type="image/png" length="748136"/>
-    <summary>Sim: MSFS. After an extended period of silence, Robert Randazzo has dropped a new update detailing the final piece that complete the 737 NG family in MSFS, We know that we can expect the final aircraft from the 737 fleet, the 737-900, at some point during November unless they find more obstacles along the way. It is approaching the beta testing phase which has been hindered due to the uncovering a few issues, causing PMDG to push the Beta test date back. As part of the update, we got to take a look at the newly developed EFB for all of the Boeing fleet that should hopefully be with us soon! This new addition could massively enhance users' experience within the Simulator to make a more realistic flight. The EFB will allow for better performance computations, analysis, weight/balance, etc. It will also enable the use of Navigraph and SimBrief inside of the aircraft. Unfortunately, as it is a quick preview, weâre still in the dark with any potential roll-out of the EFB feature to be here with us to be used in MSFS. The update has also touched-base with some new updates regarding the development for the Xbox side and things are looking rather promising. The team is currently awaiting further news from Asobo/MS as they are still working on compatibility for C++/WASM projects on the Xbox platform. Once this has been completed, then PMDG will release the DC-6 for Xbox first, to ensure everything works smoothly before making the 737 fleet available on the platform. As a final note from the update, Randazzo has dropped some new information regarding their next product to be ported to MSFS. We have been told that the development of the 777 has seen a massive amount of progress since the last update and they seem to be running more ahead than they thought! Their plan is to use a more worn, mid-aged 777 cockpit to replicate rather than a brand new one as the 737âs are. This should overall give a far better unique look to the 777 and enhance the visuals for the people who will fly this aircraft. Robert stated himself âWait until you see it- it is spectacular!â. Thatâs all for the info-drop from PMDG, If you are interested in the other aircraft PMDG currently have released then head over to the PMDG website. For MSFS they currently have released the DC-6 and all the 737 aircraft apart from the -900 Variant.</summary>
-    <published>2022-10-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rrgcba</id>
-    <title>RDPresets Releases Girona-Costa Brava Airport for MSFS</title>
-    <updated>2022-10-11T00:00:00+00:00</updated>
-    <link href="/news/rrgcba" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6345b11d86c63a50448511d4_giro1.jpg" rel="enclosure" type="image/jpeg" length="432286"/>
-    <summary>Sim: MSFS. RDPresets has just released their rendition of Girona-Costa Brava Airport (LEGE) for Microsoft Flight Simulator. The Catalonian connection to Costa Brava and the Pyrenees is visited by 2 million passengers yearly, served by airlines such as Ryanair, Jet2, Transavia, and Tui Airways. Built in 1965, the traffic figures used to be low up until the early 2000s, when Ryanair chose Girona as one of their European hubs, making the figure grow exponentially, from less than 200,000 yearly to over 5.5 million in 2008. Ryanairâs move to El Prat International (bigger airport) made the numbers drop by half in 2012, where it currently sits. â The complete feature list follows down below: â The scenery is available on FlightSim.to for $17.99 and on the RDPresets store for â¬19.99. At least 2.57GB of free disk space is required to install the product.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/oraams</id>
     <title>Orbx Releases Asturias Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634db8b5eb47a77682e256ef_GLF550_AKD_-_2022-10-14_11.43.23.png" rel="enclosure" type="image/png" length="1941442"/>
     <summary>Sim: X-Plane. The much anticipated AKD G550 for X-plane 11 and 12 release date has finally been announced! Rarely do jets of this type get attention in simulators, so it will come as a joy to many to find that they can soon fly their favourite business jet in XP11 and XP12.Â  We recently caught up with the developer of the upcoming G550, Antek. He provided us with details of the aircraft's release date, price and different versions which will be available.Â  â â The G550 will retail for $31.95, this price remains the same regardless of whether you purchase the XP12 or XP11 model. The good news is: For those who purchase the XP11 model, you will also receive the XP12 model! The G550 will go on sale this October 28th, 2022!Â  â Threshold will be sure to keep you up to date on the latest developments with this project!Â  â</summary>
     <published>2022-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp12ac</id>
+    <title>X-Plane 12's New ATC Features</title>
+    <updated>2022-10-19T00:00:00+00:00</updated>
+    <link href="/news/xp12ac" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd2a67c9233813e19c0cc_Screen-Shot-2022-10-17-at-3.webp" rel="enclosure" type="image/webp" length="1155566"/>
+    <summary>Sim: X-Plane. With X-Plane 12, there have come many improvements from the previous versions of X-Plane. Notably in Xplane 11, the built-in ATC function was somewhat lacking depth, this has been addressed and overhauled with an all-new system for XP12!Â  In a post on the X-plane website, Laminar Research discusses about the various ATC system improvements in their most recent version of the X-Plane series.Â Â  New features include:Â  Perhaps the most significant improvement to the ATC system however is the addition of global regions, X-Plane will now follow procedures and use voices that are suitable for different regions of the world. This is a huge improvement on the previous system which in essence treated the entire world as if it followed FAA procedures.Â  Another big improvement to the built-in ATC system is the quality of VHF communications, this will now change, taking into account your distance from the controller, relative altitude, the type of controller, and any blocking terrain that may be around you.Â  The ATC dialogue menu has also received an overhaul making it more intuitive.Â  This is a big step in the right direction to improving the overall experience with Xplane, although many agree from participating in the latest public beta, it still has a long way to go.Â  â Threshold will keep you up to date with all the latest news! </summary>
+    <published>2022-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aucnfx</id>
+    <title>AirfoilLabs Updates C172 NG for X-Plane 12</title>
+    <updated>2022-10-19T00:00:00+00:00</updated>
+    <link href="/news/aucnfx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd91e612ec12cd4a2b699_afl34.jpg" rel="enclosure" type="image/jpeg" length="955218"/>
+    <summary>Sim: X-Plane. AirfoilLabs has recently updated their C172NG for X-Plane 12, ensuring it benefits from the new additions to the platform, such as the rain effects. Featuring an accurate flight model, built with real-life flight data and recordings in mind, meaning the aircraft accurately represents effects such as crosswind, air pressures and stalls, along with Â a complete rebuild of the 3D model. The Cessna 172 is one of the most iconic aircraft in all of aviation, being one of the first airplanes many pilots will fly. It has developed a strong pedigree through the years, adopting various routes of upgradeability and future-proofing. The aircraft has several use cases, with training being one of its most important roles. The 172's 2400rpm, 175hp piston engine allows the aircraft to maintain a speed of 125 knots and a maximum altitude of 13,000 feet.Â  The AFL Cessna 172NG is equipped with Garmin G1000 Avionics, advanced maintenance and failures system and even the ability to encounter a birdstrike. The feature list follows down below: â New X-Plane 12 FeaturesÂ  â 3D Model â FMOD Sound â Flight Model â Aircraft SystemsÂ  â Electrical System â Engine Logic â Failure Management System and Scenarios SavingÂ  The AirfoilLabs Cessna 172 NG is available on the X-Plane Store for Â£49.95.  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/osrlhx</id>
+    <title>Origami Studios Releases London Heathrow for X-Plane 12</title>
+    <updated>2022-10-19T00:00:00+00:00</updated>
+    <link href="/news/osrlhx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fff2d77435c1046dfffd5_london1.png" rel="enclosure" type="image/png" length="1456939"/>
+    <summary>Sim: X-Plane. Origami Studios has worked hard to get this project released in the last two days after announcing its development for X-Plane 12. London Heathrow (EGLL) is the busiest airport in the United Kingdom and within the top 10 in the world! Founded in 1946 and originally known as London Airport, it was renamed London Heathrow in 1966. It used to have six runways, placed in a Star-Of-David pattern. As Heathrow became bigger and bigger over the years, it was decided there was no longer a need for the 3 of Heathrowâs four diagonal runways, culminating on their closure by the 1970âs, leaving one runway intact (05/23), eventually decommissioned in 2003 for an extension of an existing terminal. Itâs the hub for British Airways and Virgin Atlantic, and they cater for many other airlines that fly in and out daily from different countries. It has four passenger terminals which can see over 78 million passengers a year, according to data shown in 2017, heading to and from 185 countries around the world. Fun fact, did you know that aircraft had to be moved from the Terminal 4 remote stands when runway 23 was in use? Origami Studios have brought out a massive asset to X-Plane 12. Including custom buildings, a highly detailed rendition of Terminal 5, landmarks and moving jetways. â Key Features: Want to fly to the busiest UK airport in X-Plane 12? Head over to the iniBuilds Store to purchase Origamiâs London Heathrow Airport for Â£21.99 GBP. â</summary>
+    <published>2022-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hrdf</id>
+    <title>Fly 2 High Releases Destin-Fort Walton Beach Airport for MSFS</title>
+    <updated>2022-10-19T00:00:00+00:00</updated>
+    <link href="/news/f2hrdf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635001f6ac01b2f46c087c67_fwb1.jpg" rel="enclosure" type="image/jpeg" length="1062607"/>
+    <summary>Sim: MSFS. Fly 2 High has recently released their rendition of Destin-Fort Walton Beach Airport (KVPS) for Microsoft Flight Simulator, an airport within Eglin Air Force Base and serving the cities of Destin and Fort Walton Beach in Florida. Itâs exclusively commercial, known for being a focus city to Allegiant Air, and often visited by American, Delta, and Southwest, with Sun Country to begin seasonal operations to Minneapolis/St. Paul in April 2023. With nearly 2 million passengers between 2021-2022, itâs among the busiest airports in the state.  Formerly known as Okaloosa Regional Airport, it was renamed Northwest Florida Regional Airport in September 2008 and then given its current name in February 2015.Â  â The scenery features a fully modeled terminal exterior, PBR materials on buildings and ground, apron clutter, and animated humans.Â  â Itâs available onÂ FlightSim.toÂ for $8.99 and requires at least 2.4 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-19T00:00:00+00:00</published>
   </entry>
 </feed>
