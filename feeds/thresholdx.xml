@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-22T18:33:29.880367+00:00</updated>
+  <updated>2022-10-23T18:33:38.087276+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffa320u</id>
-    <title>FlightFactor Releases New Update for A320</title>
-    <updated>2022-10-15T00:00:00+00:00</updated>
-    <link href="/news/ffa320u" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634a5fd29bff5644bb3c7f2a_Screenshot%202022-10-15%20at%202.22.54%20AM.png" rel="enclosure" type="image/png" length="3340893"/>
-    <summary>Sim: X-Plane. Aircraft developer FlightFactor has recently released a new update to its popular A320 aircraft for X-Plane. This update brings various bug fixes and quality of life improvements to the plane, as well as an array of other misc. features. The A320 made by FlightFactor was first released for X-Plane 10 in February 2018. It was further updated to be made compatible with X-Plane 11 a short time later. The team at FlightFactor has been making constant progress at Â fixing any issues and adding new systems to the aircraft. However, there was a long period of no development to the A320 for X-Plane 11 and some users were experiencing performance issues. FlightFactor had reacted to this by releasing a major new update towards the end of 2021 which had fixed many issues users were experiencing. When X-Plane 12 was released, FlightFactor had worked hard on the constant updates with this aircraft and are still continuing to make the small little changes to enhance the users experience within the sim. The new version marks another solid step in the development of the Airbus A320, which is currently an open BETA phase for X-Plane 12. The update provides overall improvements to the flight deck such as font stylings and colors and other quality of life updates to the aircraft systems. Below, You will find the changelog for newly updated A320 v1.5.2 BETA. â Improvements: Fixes: â The update is free and now available to download for all current owners of the A320. You can do this by updating it through the X-Updater or heading over to the X-Plane.org Store. If you want to become an owner of this aircraft then you can purchase it on the X-Plane.org Store. In addition to the A320 beta, the team at Flight Factor has also been hard at work developing their upcoming 777 Professional v2. They have recently released a small development update in regards to the emergency batteries panel. Currently, no further updates have been provided in regards to the 787. Threshold will keep you updated on this front. â</summary>
-    <published>2022-10-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfrjpr</id>
-    <title>JustFlight Release Update on RJ Professional Development</title>
-    <updated>2022-10-15T00:00:00+00:00</updated>
-    <link href="/news/jfrjpr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634abbb3a52156542b692494_4_RJ100_BA_Colum_e7EKPrRyT.webp" rel="enclosure" type="image/webp" length="93190"/>
-    <summary>Sim: MSFS. Just Flight have released a new development update on their upcoming RJ Professional series. Announced officially on the 15th of August 2022, the RJ professional line is set to be a more modern and streamlined version of their previous â146 Professionalâ addon. Differences include slightly larger and more powerful engines, but the most significant difference comes in the flight deck! The RJ professional line will boast an all-new EFIS system replacing the traditional analogue ADI, HSI and engine instruments.Â  In providing an update on the development process, JustFlight has said: âThe interior and cockpit modelling and texturing has been undergoing extensive testing in recent weeks, with every rivet, screw and label being compared to its real-life counterpart, to ensure 100% accuracy. After spending many months developing the 146, itâs been interesting to see just how much was improved and upgraded in the later RJ, and how all come together to reduce pilot workload without losing the appeal of the aircraft.â JustFlight has informed us that throughout the cockpit the majority of instruments are now âaliveâ and being fine-tuned. The other significant bit of work to take place has been the development of over 30 different true-to-life liveries which will be released with the aircraft!Â  To read more from JustFlight's latest RJ development update click here! â</summary>
-    <published>2022-10-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xwoneo</id>
     <title>X-Works Release A330-900NEO Mod for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635373200837b57d55a83a96_lynch3.jpg" rel="enclosure" type="image/jpeg" length="1865944"/>
     <summary>Sim: MSFS. PILOTâS has just released their rendition of Lynchburg Regional Airport (KLYH) for Microsoft Flight Simulator, a public-use airport in Campbell County, Virginia. Mainly a General Aviation airport, it sees commercial operations through American Eagle, with daily flights to Charlotte in North Carolina.Â  It was formerly known as Preston Glenn Airport, after Lt. Preston Glenn, a WW1 hero from Lynchburg.Â Â  The scenery features an accurate and up-to-date representation of the airport in 2022, with high-quality scenery objects and textures, and a convincingly reproduced - and rather unique - single jetway. The feature list follows down below: â Itâs available on the MSFS Marketplace for roughly $14.50 (depending on region), requiring at least 6.79 GB of free disk space to install. â</summary>
     <published>2022-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vslf19</id>
+    <title>VSKYLABS Releases F-19 for X-Plane 12</title>
+    <updated>2022-10-22T00:00:00+00:00</updated>
+    <link href="/news/vslf19" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635452fc8bbb51cf21b6c9ed_vskylabs-f19-v1.0-ea-024.png" rel="enclosure" type="image/png" length="680926"/>
+    <summary>Sim: X-Plane. The all-new rendition of the F-19 Stealth fighter has been released for X-Plane 12. This release adds to the ever-increasing and vast library of military aircraft a part of the new next-generation simulator. With the ever-increasing aircraft network being moved to the new simulator, the F-19 Stealth Fighter Project is no different. Attempting to recreate the 80s aircraft to the best of their abilities, VSKYLABS has not only replicated the exterior model but also developed the systems and the interior. The developers have provided an extensive feature list. Starting off, they have replicated the flight model of the actual aircraft with XP12âs flight dynamics upgrade. Along with FMOD sounds being included, the aircraft has been developed to be compatible with VR and optimized for 2D usage. For the full feature list, you can view it on the product page. If you are interested in picking this aircraft up for yourself, you can purchase it on VSKYLABS Website. Though the developer has stated that it is not an official release, the project is under constant maintenance.</summary>
+    <published>2022-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/drxmsf</id>
+    <title>DarkSpace Releases xEnviro 2020 for MSFS</title>
+    <updated>2022-10-23T00:00:00+00:00</updated>
+    <link href="/news/drxmsf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6354924af966741e8259c926_2xE20.jpg" rel="enclosure" type="image/jpeg" length="373812"/>
+    <summary>Sim: MSFS. DarkSpace has just released xEnviro 2020, a brand new weather engine aiming to improve the weather depiction in Microsoft Flight Simulator, built upon their ten years of experience developing xEnviro for X-Plane. With a shared core code based on two decades of atmospheric studies and a sophisticated mathematical model, it aims to bring professional class weather simulation to everyone. On the announcement thread, they have also stated their long-term plans for the product, which will initially feature the engine itself and historical weather* (first weather add-on to feature historical weather), but with a - potential - addition of true-scale clouds that are already available on their version for X-Plane. They also mention that MSFS depicts weather differently due to how the clouds are scaled (twice as big), meaning some very specific METARs canât be faithfully reproduced as of yet (the announcement features an example). The complete feature list follows down below: Features Itâs available on the Threshold Store for $42, and xEnviro (X-Plane) owners get a $20 discount.Â  Stay tuned to Threshold for more flight simulation news! *Historical Weather from 16.10.2022 and beyond</summary>
+    <published>2022-10-23T00:00:00+00:00</published>
   </entry>
 </feed>
