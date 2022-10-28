@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-27T18:34:33.253127+00:00</updated>
+  <updated>2022-10-28T18:30:42.924743+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ssrgaa</id>
-    <title>ST Simulations Releases Gazipasa-Alanya Airport for MSFS</title>
-    <updated>2022-10-17T00:00:00+00:00</updated>
-    <link href="/news/ssrgaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634ccba44c7d629ec1eb6754_gazi1.png" rel="enclosure" type="image/png" length="1900712"/>
-    <summary>Sim: MSFS. ST Simulations recently released their rendition of Gazipasa-Alanya Airport (LTFG) for Microsoft Flight Simulator. Serving the city of GazipaÅa (Turkey) and its surroundings, it averages 500.000 passengers every year (pre-pandemic), visited by airlines such as AnadoluJet, Finnair, Scandinavian and Turkish.Â  The construction finished in 1999, but it only opened in 2010, after TAV Airport (Tepe Akfen Ventures) won the bid to operate the airport for 25 years. Itâs famous for being the only airport in Turkey with a highway passing right under it. With a terminal area of 6700 square meters, it has an annual capacity of 1,500,000 passengers.Â  The scenery features advanced terraforming to replicate the highway tunnel, an accurate terminal replica and taxiway layout, custom models, PBR textures, and many airport buildings. Itâs available on FlightSim.to for $12.50 and requires at least 323 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hpgrhu</id>
     <title>Hype Performance Group Releases New H145 Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635957f6b8b3a10570ebe370_IMG_2641-min.PNG" rel="enclosure" type="image/png" length="1824321"/>
     <summary>Sim: X-Plane. Known developer iniBuilds recently announced and released the v2 version of their in house software iniManager. Featuring many new additions and optimizations for users to enjoy. The iniManager is a software that eases the installation and update process for aircraft and scenery renditions. All while supporting products for both X-Plane 11 and Microsoft Flight Simulator. Recently it was announced that v2 of the software was in the works and it has now been released to the public. The update comes packed full with new features. The software now supports X-Plane 12 and P3D with products coming soon. An all new âWorld Viewâ has been added to display installed scenery packages across the globe, alongside viewing packages available for purchase on the iniBuilds Store. iniManager also now has an in-app purchasing option for those that want an all-in-one access. The software can now install liveries for MSFS aircraft, which will install directly in the Community Folder. Finally a support page for pilots has been added to give more accessibility to SimBrief. It can display your OFP, METARâs and more, all in one place. Version 2 is now available to download for free on iniBuilds Website. If you would like to view the full press release from iniBuilds you can view it on the iniBuilds Forum</summary>
     <published>2022-10-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xrfsau</id>
+    <title>X-Codr Releases Free Sedona Airport Update for X-Plane 12</title>
+    <updated>2022-10-27T00:00:00+00:00</updated>
+    <link href="/news/xrfsau" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635b10388b567383cf03bc9f_sedonacover.jpg" rel="enclosure" type="image/jpeg" length="305730"/>
+    <summary>Sim: X-Plane. X-Codr has updated their Sedona Airport (KSEZ) scenery, ensuring compatibility with X-Plane 12 and adding many new features, such as improved textures, animated 3D grass and people, and hand-sculpted 3D rock formations for the surrounding valley.Â  The revamp also includes the addition of detailed 3D interiors and optimization work to ensure the scenery runs well on a wide range of hardware. The complete feature list follows down below: â Ultra detailed rendition of KSEZ - Sedona Living Airport Custom surroundings Itâs available on the X-Plane.Org Store for $21.95, requiring at least 3GB of free disk space to install.Â Â Current owners of the X-Plane 11 version get the update for free. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-27T00:00:00+00:00</published>
   </entry>
 </feed>
