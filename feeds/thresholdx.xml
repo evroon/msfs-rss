@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-28T18:30:42.924743+00:00</updated>
+  <updated>2022-10-29T18:29:26.257570+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/hpgrhu</id>
-    <title>Hype Performance Group Releases New H145 Update</title>
-    <updated>2022-10-17T00:00:00+00:00</updated>
-    <link href="/news/hpgrhu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634d6ebc5a810ad33e334ce9_hype2.png" rel="enclosure" type="image/png" length="2221281"/>
-    <summary>Sim: MSFS. Not long after releasing their Hot Air Balloon, Hype Performance Group has updated their Airbus H145 to version 1.0, adding brand new features to both the Base Pack and the Action Pack expansion. âAfter over 18 months of development, we are very pleased with the breadth of the product and overall fidelity, as well as the built-in activities and functionsâ, said the Lead Developer in the official update announcement on their Discord. The update adds two new variants to the Action Pack (Offshore and Cargo), four new liveries, additional missions, and variant-related features such as a functional cargo hook. The base package gets several bug fixes and the Hype Radio. The complete feature list follows down below: The base pack and expansion are available on Hype Performance Groupâs website (on sale) for $42.99 and $35.00, respectively. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/akdg50</id>
-    <title>AKD Studio G550 Release Date Announced</title>
-    <updated>2022-10-17T00:00:00+00:00</updated>
-    <link href="/news/akdg50" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634db8b5eb47a77682e256ef_GLF550_AKD_-_2022-10-14_11.43.23.png" rel="enclosure" type="image/png" length="1941442"/>
-    <summary>Sim: X-Plane. The much anticipated AKD G550 for X-plane 11 and 12 release date has finally been announced! Rarely do jets of this type get attention in simulators, so it will come as a joy to many to find that they can soon fly their favourite business jet in XP11 and XP12.Â  We recently caught up with the developer of the upcoming G550, Antek. He provided us with details of the aircraft's release date, price and different versions which will be available.Â  â â The G550 will retail for $31.95, this price remains the same regardless of whether you purchase the XP12 or XP11 model. The good news is: For those who purchase the XP11 model, you will also receive the XP12 model! The G550 will go on sale this October 28th, 2022!Â  â Threshold will be sure to keep you up to date on the latest developments with this project!Â  â</summary>
-    <published>2022-10-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xp12ac</id>
     <title>X-Plane 12's New ATC Features</title>
@@ -41,7 +23,7 @@
     <updated>2022-10-19T00:00:00+00:00</updated>
     <link href="/news/aucnfx" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd91e612ec12cd4a2b699_afl34.jpg" rel="enclosure" type="image/jpeg" length="955218"/>
-    <summary>Sim: X-Plane. AirfoilLabs has recently updated their C172NG for X-Plane 12, ensuring it benefits from the new additions to the platform, such as the rain effects. Featuring an accurate flight model, built with real-life flight data and recordings in mind, meaning the aircraft accurately represents effects such as crosswind, air pressures and stalls, along with Â a complete rebuild of the 3D model. The Cessna 172 is one of the most iconic aircraft in all of aviation, being one of the first airplanes many pilots will fly. It has developed a strong pedigree through the years, adopting various routes of upgradeability and future-proofing. The aircraft has several use cases, with training being one of its most important roles. The 172's 2400rpm, 175hp piston engine allows the aircraft to maintain a speed of 125 knots and a maximum altitude of 13,000 feet.Â  The AFL Cessna 172NG is equipped with Garmin G1000 Avionics, advanced maintenance and failures system and even the ability to encounter a birdstrike. The feature list follows down below: â New X-Plane 12 FeaturesÂ  â 3D Model â FMOD Sound â Flight Model â Aircraft SystemsÂ  â Electrical System â Engine Logic â Failure Management System and Scenarios SavingÂ  The AirfoilLabs Cessna 172 NG is available on the X-Plane Store for Â£49.95.  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <summary>Sim: X-Plane</summary>
     <published>2022-10-19T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635b10388b567383cf03bc9f_sedonacover.jpg" rel="enclosure" type="image/jpeg" length="305730"/>
     <summary>Sim: X-Plane. X-Codr has updated their Sedona Airport (KSEZ) scenery, ensuring compatibility with X-Plane 12 and adding many new features, such as improved textures, animated 3D grass and people, and hand-sculpted 3D rock formations for the surrounding valley.Â  The revamp also includes the addition of detailed 3D interiors and optimization work to ensure the scenery runs well on a wide range of hardware. The complete feature list follows down below: â Ultra detailed rendition of KSEZ - Sedona Living Airport Custom surroundings Itâs available on the X-Plane.Org Store for $21.95, requiring at least 3GB of free disk space to install.Â Â Current owners of the X-Plane 11 version get the update for free. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asrgub</id>
+    <title>AKD Studios Releases GLF550 Ultimate Business Jet for X-Plane </title>
+    <updated>2022-10-28T00:00:00+00:00</updated>
+    <link href="/news/asrgub" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635c247613876cd9b791345d_akd1.jpg" rel="enclosure" type="image/jpeg" length="81802"/>
+    <summary>Sim: X-Plane. After two years and a half of development, AKD Studios has finally released their GLF550 for X-Plane 11 and 12, a business jet introduced in 2004 and primarily used by the USAF, US Navy, Israeli Air Force, and Netjets. With a capacity for 14-19 passengers and a range of 12.500 km, it is the private aircraft of choice for many governments and armies around the globe.  The add-on features many custom systems, including pressurization, oxygen, air conditioning, hydraulics, fuel, APU, and auto flight suite, along with an EFB that brings ground service controls, performance calculator, refueling and load manager, avitab integration, checklists, and aircraft options. The detailed cockpit features tridimensional switches and 4K PBR textures all over. The complete feature list follows down below: â â Aircraft Systems: Â  Custom MFDâs: Â  DU 1: Â Â â¢1/6 Top:Â  Â  â¢1/6 Bottom: Â  2/3: Â  DU 2: Â Â  1/6 Top:Â  Â  1/6 Bottom Â  Â 2/3:Â  Â  DU 3: Â 1/6 Top:Â  Â 1/6 Bottom: â¢2/3:Â  Â  DU 4: 1/6 Top:Â  1/6 Bottom: Â  Â 2/3: Â  Electronic Flight Bag(EFB): Detailed modeling and textures: Other: Itâs available on the X-Plane.Org Store for $31.95 and it requires at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/trfbnx</id>
+    <title>TearWearDesigns Releases Freeware Buffalo Niagara for X-Plane 12</title>
+    <updated>2022-10-29T00:00:00+00:00</updated>
+    <link href="/news/trfbnx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635d50105474bb42a368a006_buf1.png" rel="enclosure" type="image/png" length="1112849"/>
+    <summary>Sim: X-Plane. TearWearDesigns has released their rendition of Buffalo Niagara International (KBUF) for X-Plane 12, free of charge. The airport serves the city of Buffalo, NY, and part of Ontario, Canada. Averaging 5 million passengers every year, itâs the third busiest in the state, with over 100 flights a day from airlines such as American, Delta, Frontier, JetBlue, Southwest, and United. The scenery features tridimensional grass, custom markings, dirt and wear around the airport, hand-placed night lighting, true-to-life parking lots, orthoimagery (ZL19), and a custom terminal, tower, and hangars.Â  Itâs available for free onÂ X-Plane.Org, with a download size of 560 MB.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2022-10-29T00:00:00+00:00</published>
   </entry>
 </feed>
