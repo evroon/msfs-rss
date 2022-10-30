@@ -2,28 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-29T18:29:26.257570+00:00</updated>
+  <updated>2022-10-30T18:30:32.120678+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
   <entry>
-    <id>/news/xp12ac</id>
-    <title>X-Plane 12's New ATC Features</title>
-    <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="/news/xp12ac" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd2a67c9233813e19c0cc_Screen-Shot-2022-10-17-at-3.webp" rel="enclosure" type="image/webp" length="1155566"/>
-    <summary>Sim: X-Plane. With X-Plane 12, there have come many improvements from the previous versions of X-Plane. Notably in Xplane 11, the built-in ATC function was somewhat lacking depth, this has been addressed and overhauled with an all-new system for XP12!Â  In a post on the X-plane website, Laminar Research discusses about the various ATC system improvements in their most recent version of the X-Plane series.Â Â  New features include:Â  Perhaps the most significant improvement to the ATC system however is the addition of global regions, X-Plane will now follow procedures and use voices that are suitable for different regions of the world. This is a huge improvement on the previous system which in essence treated the entire world as if it followed FAA procedures.Â  Another big improvement to the built-in ATC system is the quality of VHF communications, this will now change, taking into account your distance from the controller, relative altitude, the type of controller, and any blocking terrain that may be around you.Â  The ATC dialogue menu has also received an overhaul making it more intuitive.Â  This is a big step in the right direction to improving the overall experience with Xplane, although many agree from participating in the latest public beta, it still has a long way to go.Â  â Threshold will keep you up to date with all the latest news! </summary>
-    <published>2022-10-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>/news/aucnfx</id>
     <title>AirfoilLabs Updates C172 NG for X-Plane 12</title>
     <updated>2022-10-19T00:00:00+00:00</updated>
     <link href="/news/aucnfx" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd91e612ec12cd4a2b699_afl34.jpg" rel="enclosure" type="image/jpeg" length="955218"/>
-    <summary>Sim: X-Plane</summary>
+    <summary>Sim: X-Plane. AirfoilLabs has recently updated their C172NG for X-Plane 12, ensuring it benefits from the new additions to the platform, such as the rain effects. Featuring an accurate flight model, built with real-life flight data and recordings in mind, meaning the aircraft accurately represents effects such as crosswind, air pressures and stalls, along with Â a complete rebuild of the 3D model. The Cessna 172 is one of the most iconic aircraft in all of aviation, being one of the first airplanes many pilots will fly. It has developed a strong pedigree through the years, adopting various routes of upgradeability and future-proofing. The aircraft has several use cases, with training being one of its most important roles. The 172's 2400rpm, 175hp piston engine allows the aircraft to maintain a speed of 125 knots and a maximum altitude of 13,000 feet.Â  The AFL Cessna 172NG is equipped with Garmin G1000 Avionics, advanced maintenance and failures system and even the ability to encounter a birdstrike. The feature list follows down below: â New X-Plane 12 FeaturesÂ  â 3D Model â FMOD Sound â Flight Model â Aircraft SystemsÂ  â Electrical System â Engine Logic â Failure Management System and Scenarios SavingÂ  The AirfoilLabs Cessna 172 NG is available on the X-Plane Store for Â£49.95.  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-10-19T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635d50105474bb42a368a006_buf1.png" rel="enclosure" type="image/png" length="1112849"/>
     <summary>Sim: X-Plane. TearWearDesigns has released their rendition of Buffalo Niagara International (KBUF) for X-Plane 12, free of charge. The airport serves the city of Buffalo, NY, and part of Ontario, Canada. Averaging 5 million passengers every year, itâs the third busiest in the state, with over 100 flights a day from airlines such as American, Delta, Frontier, JetBlue, Southwest, and United. The scenery features tridimensional grass, custom markings, dirt and wear around the airport, hand-placed night lighting, true-to-life parking lots, orthoimagery (ZL19), and a custom terminal, tower, and hangars.Â  Itâs available for free onÂ X-Plane.Org, with a download size of 560 MB.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2022-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inixp12</id>
+    <title>iniBuilds Announces Free A300V2 Compatibility Update for X-Plane 12</title>
+    <updated>2022-10-30T00:00:00+00:00</updated>
+    <link href="/news/inixp12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635e12ec8fb6acc2d668856b_A300-v2-Store_14.png.webp" rel="enclosure" type="image/webp" length="179896"/>
+    <summary>Sim: X-Plane. Earlier this week, developer iniBuilds has announced their plans of bringing their existing aircrafts to X-Plane 12, focusing exclusively on their much-popular A300. According to the developers, the A300V2 will soon receive an update that makes the plane compatible with X-Plane 12. All existing owners of the aircraft will be able to update free of charge. In addition, a significant reduction in price for the entire family is planned, though the developer didnât offer any details regarding this planned price change. However, the developers have decided to not provide a release date for the compatibility update, though they hinted that it is expected to come in early 2023. Though the date seems far in the future, the developers reasoned that their current focus is to improve and polish the A300.  Currently, the A300V2 is on sale and can be purchased on iniBuilds webstore for Â£34.99 GBP, or $40.5 USD. Threshold will keep you updated on future iniBuild news.</summary>
+    <published>2022-10-30T00:00:00+00:00</published>
   </entry>
 </feed>
