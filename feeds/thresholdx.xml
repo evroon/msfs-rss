@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-10-31T18:33:19.138632+00:00</updated>
+  <updated>2022-11-01T18:33:11.042339+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aucnfx</id>
-    <title>AirfoilLabs Updates C172 NG for X-Plane 12</title>
-    <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="/news/aucnfx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fd91e612ec12cd4a2b699_afl34.jpg" rel="enclosure" type="image/jpeg" length="955218"/>
-    <summary>Sim: X-Plane. AirfoilLabs has recently updated their C172NG for X-Plane 12, ensuring it benefits from the new additions to the platform, such as the rain effects. Featuring an accurate flight model, built with real-life flight data and recordings in mind, meaning the aircraft accurately represents effects such as crosswind, air pressures and stalls, along with Â a complete rebuild of the 3D model. The Cessna 172 is one of the most iconic aircraft in all of aviation, being one of the first airplanes many pilots will fly. It has developed a strong pedigree through the years, adopting various routes of upgradeability and future-proofing. The aircraft has several use cases, with training being one of its most important roles. The 172's 2400rpm, 175hp piston engine allows the aircraft to maintain a speed of 125 knots and a maximum altitude of 13,000 feet.Â  The AFL Cessna 172NG is equipped with Garmin G1000 Avionics, advanced maintenance and failures system and even the ability to encounter a birdstrike. The feature list follows down below: â New X-Plane 12 FeaturesÂ  â 3D Model â FMOD Sound â Flight Model â Aircraft SystemsÂ  â Electrical System â Engine Logic â Failure Management System and Scenarios SavingÂ  The AirfoilLabs Cessna 172 NG is available on the X-Plane Store for Â£49.95.  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/osrlhx</id>
     <title>Origami Studios Releases London Heathrow for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635e12ec8fb6acc2d668856b_A300-v2-Store_14.png.webp" rel="enclosure" type="image/webp" length="179896"/>
     <summary>Sim: X-Plane. Earlier this week, developer iniBuilds has announced their plans of bringing their existing aircrafts to X-Plane 12, focusing exclusively on their much-popular A300. According to the developers, the A300V2 will soon receive an update that makes the plane compatible with X-Plane 12. All existing owners of the aircraft will be able to update free of charge. In addition, a significant reduction in price for the entire family is planned, though the developer didnât offer any details regarding this planned price change. However, the developers have decided to not provide a release date for the compatibility update, though they hinted that it is expected to come in early 2023. Though the date seems far in the future, the developers reasoned that their current focus is to improve and polish the A300.  Currently, the A300V2 is on sale and can be purchased on iniBuilds webstore for Â£34.99 GBP, or $40.5 USD. Threshold will keep you updated on future iniBuild news.</summary>
     <published>2022-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/adpfkm</id>
+    <title>Aero Dynamics Previews Freeware KC-10/DC-10 for MSFS</title>
+    <updated>2022-10-31T00:00:00+00:00</updated>
+    <link href="/news/adpfkm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63604ca24006b960ce3f1ba3_dc-10-4.png" rel="enclosure" type="image/png" length="1972447"/>
+    <summary>Sim: MSFS. The Aero Dynamics team has published a new quarterly drop on theirÂ Discord server, showcasing the current state of their freeware KC-10/DC-10 for Microsoft Flight Simulator, with extensive focus on their 3D scanned cockpit. It is said to feature swappable instruments to provide both the OG experience and a modern flight suite, along with an EFB that will allow users to customize the cockpit settings, handle ground services, checklists, Navigraph and SimBrief integration, and OSM maps.   Regarding displays and systems, they have managed to integrate the fuel gauges into the aircraft, with upgrades to the font accuracy coming in the near future. Further progress with the electrical system has made viable work on a more advanced fuel system and the APU, with pneumatic and hydraulic systems to follow. They have also showcased two new models, the DC-10-30F (freighter) and the 10 Tanker. The 10F is their first DC-10 variant, featuring nine liveries, including FedEx (old and new), Aeroflot, and United. The latter is a tanker, capable of dropping fire retardant with the press of a button! â Credits to AllNaturalBlue for the news scoop.  Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2022-10-31T00:00:00+00:00</published>
   </entry>
 </feed>
