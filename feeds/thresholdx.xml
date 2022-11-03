@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-02T18:31:18.058842+00:00</updated>
+  <updated>2022-11-03T18:35:34.525574+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/osrlhx</id>
-    <title>Origami Studios Releases London Heathrow for X-Plane 12</title>
-    <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="/news/osrlhx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/634fff2d77435c1046dfffd5_london1.png" rel="enclosure" type="image/png" length="1456939"/>
-    <summary>Sim: X-Plane. Origami Studios has worked hard to get this project released in the last two days after announcing its development for X-Plane 12. London Heathrow (EGLL) is the busiest airport in the United Kingdom and within the top 10 in the world! Founded in 1946 and originally known as London Airport, it was renamed London Heathrow in 1966. It used to have six runways, placed in a Star-Of-David pattern. As Heathrow became bigger and bigger over the years, it was decided there was no longer a need for the 3 of Heathrowâs four diagonal runways, culminating on their closure by the 1970âs, leaving one runway intact (05/23), eventually decommissioned in 2003 for an extension of an existing terminal. Itâs the hub for British Airways and Virgin Atlantic, and they cater for many other airlines that fly in and out daily from different countries. It has four passenger terminals which can see over 78 million passengers a year, according to data shown in 2017, heading to and from 185 countries around the world. Fun fact, did you know that aircraft had to be moved from the Terminal 4 remote stands when runway 23 was in use? Origami Studios have brought out a massive asset to X-Plane 12. Including custom buildings, a highly detailed rendition of Terminal 5, landmarks and moving jetways. â Key Features: Want to fly to the busiest UK airport in X-Plane 12? Head over to the iniBuilds Store to purchase Origamiâs London Heathrow Airport for Â£21.99 GBP. â</summary>
-    <published>2022-10-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/f2hrdf</id>
-    <title>Fly 2 High Releases Destin-Fort Walton Beach Airport for MSFS</title>
-    <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="/news/f2hrdf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635001f6ac01b2f46c087c67_fwb1.jpg" rel="enclosure" type="image/jpeg" length="1062607"/>
-    <summary>Sim: MSFS. Fly 2 High has recently released their rendition of Destin-Fort Walton Beach Airport (KVPS) for Microsoft Flight Simulator, an airport within Eglin Air Force Base and serving the cities of Destin and Fort Walton Beach in Florida. Itâs exclusively commercial, known for being a focus city to Allegiant Air, and often visited by American, Delta, and Southwest, with Sun Country to begin seasonal operations to Minneapolis/St. Paul in April 2023. With nearly 2 million passengers between 2021-2022, itâs among the busiest airports in the state.  Formerly known as Okaloosa Regional Airport, it was renamed Northwest Florida Regional Airport in September 2008 and then given its current name in February 2015.Â  â The scenery features a fully modeled terminal exterior, PBR materials on buildings and ground, apron clutter, and animated humans.Â  â Itâs available onÂ FlightSim.toÂ for $8.99 and requires at least 2.4 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gaftam</id>
     <title>Gaffer Simulations Releases FAOR O.R. Tambo International For MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63604ca24006b960ce3f1ba3_dc-10-4.png" rel="enclosure" type="image/png" length="1972447"/>
     <summary>Sim: MSFS. The Aero Dynamics team has published a new quarterly drop on theirÂ Discord server, showcasing the current state of their freeware KC-10/DC-10 for Microsoft Flight Simulator, with extensive focus on their 3D scanned cockpit. It is said to feature swappable instruments to provide both the OG experience and a modern flight suite, along with an EFB that will allow users to customize the cockpit settings, handle ground services, checklists, Navigraph and SimBrief integration, and OSM maps.   Regarding displays and systems, they have managed to integrate the fuel gauges into the aircraft, with upgrades to the font accuracy coming in the near future. Further progress with the electrical system has made viable work on a more advanced fuel system and the APU, with pneumatic and hydraulic systems to follow. They have also showcased two new models, the DC-10-30F (freighter) and the 10 Tanker. The 10F is their first DC-10 variant, featuring nine liveries, including FedEx (old and new), Aeroflot, and United. The latter is a tanker, capable of dropping fire retardant with the press of a button! â Credits to AllNaturalBlue for the news scoop.  Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2022-10-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ssroha</id>
+    <title>Sierrasim Simulation Releases Olaya Herrera Airport for MSFS</title>
+    <updated>2022-11-02T00:00:00+00:00</updated>
+    <link href="/news/ssroha" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6362de304b448c610d1f9133_skmd1.png" rel="enclosure" type="image/png" length="2113931"/>
+    <summary>Sim: MSFS. Sierrasim Simulation has recently released their rendition of Olaya Herrera Airport (SKMD) for Microsoft Flight Simulator, serving the region of MedellÃ­n with domestic and international flights. With a yearly average of 1 million passengers, itâs the main regional airport in Colombia due to its high volume of domestic traffic in comparison with JosÃ© MarÃ­a CÃ³rdova International (SKRG), which has been theÂ de factoÂ international airport since 1985.Â  Itâs visited by airlines such as Avianca Express, EasyFly, PacÃ­fica de AviaciÃ³n, Satena, and Searca, with a route network that covers most of the country. The scenery features custom ground imagery, photorealistic PBR textures for buildings and vehicles, airport objects, texture and model improvements, terminal interiors, performance optimization, and custom night lighting.Â  Itâs available onÂ Flightsim.toÂ for $9.99, requiring at least 1 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pu7lfm</id>
+    <title>PMDG Updates 737 Lineup for MSFS</title>
+    <updated>2022-11-03T00:00:00+00:00</updated>
+    <link href="/news/pu7lfm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636349b4011f85502d5b5cb8_737-1.png" rel="enclosure" type="image/png" length="3567645"/>
+    <summary>Sim: MSFS. PMDG has recently updated their current 737 lineup (600/700/800) to version 3.00.0044 for Microsoft Flight Simulator, marking the 10th update since the original release in early May, an average of one update every 18 days. The update focuses on control law and stability, ensuring proper management of atmospheric instabilities that may occur mid-flight. The complete changelog follows down below: 0011898: [Systems - Hydraulic] EDP Low Pressure lights come on to late in start (rsrandazzo) 0012029: [AFDS - Pitch Modes] Level change down : provision for FS atmoshpere "bursts" pumping pitch up/down (emvaos) 0012002: [Virtual Cockpit - Geometry/Textures] VC Clipping and assorted finds (vscimone) 0010744: [FMS - Route/Legs Pages] Wrapping ETA and time differences around 0000z (emvaos) 0012006: [FMS/AFDS - VNAV] CRZ phase revival even within geometric descent (emvaos) 0011655: [AFDS - Thrust Modes] Provisions and refinement of A/T speed mode in SU10+ turbulence (emvaos) 0010628: [AFDS - Thrust Modes] New AT SPD mode system (emvaos) 0012005: [External Model - Geometry] Cabin lighting tone down needed after SU10? (jbrown) 0011992: [External Model - Geometry] Pilots not shown on extenral view (jbrown) 0011993: [AFDS - Pitch Modes] Oscilattions when using V/S for descent. (emvaos) 0011996: [Virtual Cockpit - Geometry/Textures] Small fap on the ceiling of VC, (vscimone) 0011976: [Virtual Cockpit - Geometry/Textures] VC Vertices cleanup (vscimone)â additiona: provisions for stability with known SU11 changes. â On theÂ update announcementÂ thread, Robert Randazzo from PMDG Â mentioned they were progressing further into the -900 development, which should enter testing a week from Friday. The long-awaited tablet enters testing next week.Â  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Pictures are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-03T00:00:00+00:00</published>
   </entry>
 </feed>
