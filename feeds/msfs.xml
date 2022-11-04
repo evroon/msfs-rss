@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-11-03T18:35:31.370627+00:00</updated>
+  <updated>2022-11-04T18:29:34.876428+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/fsoares-sale/</id>
-    <title>FSOARES Sale</title>
-    <updated>2022-10-07T18:52:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/fsoares-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/FSoars_Sale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="86648"/>
-    <summary>8 Items On Sale Now in the Marketplace</summary>
-    <published>2022-10-07T18:52:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/october-13th-2022-development-update/</id>
-    <title>October 13th, 2022 Development Update</title>
-    <updated>2022-10-13T23:59:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-13th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/SlidHydra647449-Forum-1024x387.jpg" rel="enclosure" type="image/jpeg" length="30624"/>
-    <summary>Yesterday we released the first test build for SU11. While this build does not include helicopters, gliders, or other content from the upcoming 40th Anniversary Edition, it does contain dozens of fixes and improvements.</summary>
-    <published>2022-10-13T23:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/flightbeam-sale/</id>
-    <title>FLIGHTBEAM  SALE</title>
-    <updated>2022-10-14T19:13:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightbeam-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/FlightBeam_Sale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121431"/>
-    <summary>7 Items On Sale Now in the Marketplace</summary>
-    <published>2022-10-14T19:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-20th-2022-development-update/</id>
     <title>October 20th, 2022 Development Update</title>
@@ -52,6 +25,33 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/GotFriendsSale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="42981"/>
     <summary>3 Items On Sale Now in the Marketplace</summary>
     <published>2022-10-21T16:44:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-27th-2022-development-update/</id>
+    <title>October 27th, 2022 Development Update</title>
+    <updated>2022-10-27T23:50:03+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-27th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/Parorng-Forum-1024x544.jpg" rel="enclosure" type="image/jpeg" length="76775"/>
+    <summary>Screenshot by Parorng (Forum) We are now only two weeks away from the November 11th launch of the 40th Anniversary Edition. This free update comes with a wealth of new features and content, including official support for gliders. To learn more about how we brought these unpowered aircraft to Microsoft Flight Simulator in the most realistic way … Continued</summary>
+    <published>2022-10-27T23:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/4simmers-sale/</id>
+    <title>4SIMMERS SALE</title>
+    <updated>2022-10-28T17:00:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/4simmers-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/4SimmersSale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="123848"/>
+    <summary>15 Items On Sale Now in the Marketplace!</summary>
+    <published>2022-10-28T17:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-3rd-2022-development-update/</id>
+    <title>November 3rd, 2022 Development Update</title>
+    <updated>2022-11-04T00:05:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-3rd-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/WinterBand54341-Forum-1024x640.jpg" rel="enclosure" type="image/jpeg" length="27250"/>
+    <summary>It’s the final countdown! The launch of the highly-anticipated 40th Anniversary Edition is only one week away, and we couldn’t be more excited.</summary>
+    <published>2022-11-04T00:05:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-vi-junker-f-13/</id>
