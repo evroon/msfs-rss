@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-04T18:29:36.130686+00:00</updated>
+  <updated>2022-11-05T18:27:31.946037+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gaftam</id>
-    <title>Gaffer Simulations Releases FAOR O.R. Tambo International For MSFS</title>
-    <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="/news/gaftam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63508df31d6a19bf2b6b5c39_305916_74_MSFS.jpeg" rel="enclosure" type="image/jpeg" length="1687964"/>
-    <summary>Sim: MSFS. Gaffer Simulations has released their highly anticipated O.R. Tambo International scenery for Microsoft Flight Simulator, South Africaâs biggest international airport located in Johannesburg that first opened in 1952. The airport, serves as the primary international gateway for South Africa and is home to several notable African carriers including Airlink, CemAir, FlySafair, LIFT Airline &amp; South African Airways. The airport encompasses around 4000 acres of land in Kempton Park, Gauteng, situated about 12 miles from the city of Johannesburg. The airport has two runways parallel to each other adjacent to the airportâs terminal buildings, and provides direct connections to over 75 destinations which are served by a multitude of aircraft from general aviation, cargo and commercial aircraft. originally served under the name Jan Smuts International Airport, it was renamed in 2005 after former African National Congress member Oliver Reginald Tambo. The airport has receivedÂ  numerous upgrades and expansion projects, the most notable being the major developments which took place in preparation for the 2010 FIFA World Cup. For Gaffer Simulations rendition of O.R Tambo International, the scenery comes with a standard set of features that we can expect from most airport sceneries on Microsoft Flight Simulator, in which the recreation is built with high-definition PBR textures and models that accurately represent the airport in its current form. The complete feature list follows down below: Gaffer Simulationsâ O.R. Tambo International airport for MSFS is available for purchase on the SimMarket store for â¬21.60, requiring over 6 GB of free disk space to install.</summary>
-    <published>2022-10-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbifx</id>
     <title>Orbx Releases Brisbane International for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636349b4011f85502d5b5cb8_737-1.png" rel="enclosure" type="image/png" length="3567645"/>
     <summary>Sim: MSFS. PMDG has recently updated their current 737 lineup (600/700/800) to version 3.00.0044 for Microsoft Flight Simulator, marking the 10th update since the original release in early May, an average of one update every 18 days. The update focuses on control law and stability, ensuring proper management of atmospheric instabilities that may occur mid-flight. The complete changelog follows down below: 0011898: [Systems - Hydraulic] EDP Low Pressure lights come on to late in start (rsrandazzo) 0012029: [AFDS - Pitch Modes] Level change down : provision for FS atmoshpere "bursts" pumping pitch up/down (emvaos) 0012002: [Virtual Cockpit - Geometry/Textures] VC Clipping and assorted finds (vscimone) 0010744: [FMS - Route/Legs Pages] Wrapping ETA and time differences around 0000z (emvaos) 0012006: [FMS/AFDS - VNAV] CRZ phase revival even within geometric descent (emvaos) 0011655: [AFDS - Thrust Modes] Provisions and refinement of A/T speed mode in SU10+ turbulence (emvaos) 0010628: [AFDS - Thrust Modes] New AT SPD mode system (emvaos) 0012005: [External Model - Geometry] Cabin lighting tone down needed after SU10? (jbrown) 0011992: [External Model - Geometry] Pilots not shown on extenral view (jbrown) 0011993: [AFDS - Pitch Modes] Oscilattions when using V/S for descent. (emvaos) 0011996: [Virtual Cockpit - Geometry/Textures] Small fap on the ceiling of VC, (vscimone) 0011976: [Virtual Cockpit - Geometry/Textures] VC Vertices cleanup (vscimone)â additiona: provisions for stability with known SU11 changes. â On theÂ update announcementÂ thread, Robert Randazzo from PMDG Â mentioned they were progressing further into the -900 development, which should enter testing a week from Friday. The long-awaited tablet enters testing next week.Â  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Pictures are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/agrvam</id>
+    <title>AG Sim Releases Varna Airport for MSFS</title>
+    <updated>2022-11-04T00:00:00+00:00</updated>
+    <link href="/news/agrvam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63657e365fa9f6771d7413a3_varna1.png" rel="enclosure" type="image/png" length="2829251"/>
+    <summary>Sim: MSFS. AG Sim has just released their rendition of Varna Airport (LBWN) for Microsoft Flight Simulator, the third largest airport in Bulgaria, averaging 2 million passengers per year (pre-pandemic). It serves Varna and the northeastern part of the country.  Itâs the hub for BH Air, Bulgaria Air, European Air Charter, Voyage Air, and WizzAir, and visited by Austrian, easyJet, Lufthansa, Ryanair, Volotea, and Turkish.Â   The scenery features high-detail 3D buildings, PBR texturing, improved ground textures, custom vegetation, animated radar and windsock, accurate runway slope, night lighting, and accurate ground markings.Â   Itâs available onÂ FlightSim.toÂ for $14.99, requiring at least 3.98 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-04T00:00:00+00:00</published>
   </entry>
 </feed>
