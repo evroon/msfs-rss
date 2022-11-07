@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-06T18:28:06.699895+00:00</updated>
+  <updated>2022-11-07T18:28:48.937886+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbifx</id>
-    <title>Orbx Releases Brisbane International for X-Plane 12</title>
-    <updated>2022-10-21T00:00:00+00:00</updated>
-    <link href="/news/orbifx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6353062ab8d72cd9aefcb5c5_ybbn3.png" rel="enclosure" type="image/png" length="1692460"/>
-    <summary>Sim: X-Plane. Orbx has just released their first product for X-Plane 12, aÂ  rendition of Brisbane International (YBBN), the primary international airport in Queensland, visited by 20 million passengers yearly. Itâs a hub for Alliance Airlines, Jetstar, Qantas, Toll Aviation, and Virgin Australia, totalizing around 50 domestic destinations. International-wise, itâs visited by the likes of Air Canada, Air New Zealand, Cathay Pacific, China Airlines, Emirates, Singapore Airlines, and many others, amounting to 29 international destinations. The scenery was developed by their in-house experts using the latest techniques, which include PBR texturing, custom SAM jetways (including T-Style), and VDGS integration, along with the inclusion of runway 01L/19R that opened in mid-2020. Itâs said to be their most detailed scenery yet for X-Plane. The complete feature list follows down below: â Itâs available on OrbxDirect for $18.41, requiring at least 2.11 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/prlrgm</id>
-    <title>PILOTâS Releases Lynchburg Regional Airport for MSFS</title>
-    <updated>2022-10-22T00:00:00+00:00</updated>
-    <link href="/news/prlrgm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635373200837b57d55a83a96_lynch3.jpg" rel="enclosure" type="image/jpeg" length="1865944"/>
-    <summary>Sim: MSFS. PILOTâS has just released their rendition of Lynchburg Regional Airport (KLYH) for Microsoft Flight Simulator, a public-use airport in Campbell County, Virginia. Mainly a General Aviation airport, it sees commercial operations through American Eagle, with daily flights to Charlotte in North Carolina.Â  It was formerly known as Preston Glenn Airport, after Lt. Preston Glenn, a WW1 hero from Lynchburg.Â Â  The scenery features an accurate and up-to-date representation of the airport in 2022, with high-quality scenery objects and textures, and a convincingly reproduced - and rather unique - single jetway. The feature list follows down below: â Itâs available on the MSFS Marketplace for roughly $14.50 (depending on region), requiring at least 6.79 GB of free disk space to install. â</summary>
-    <published>2022-10-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vslf19</id>
     <title>VSKYLABS Releases F-19 for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63657e365fa9f6771d7413a3_varna1.png" rel="enclosure" type="image/png" length="2829251"/>
     <summary>Sim: MSFS. AG Sim has just released their rendition of Varna Airport (LBWN) for Microsoft Flight Simulator, the third largest airport in Bulgaria, averaging 2 million passengers per year (pre-pandemic). It serves Varna and the northeastern part of the country.  Itâs the hub for BH Air, Bulgaria Air, European Air Charter, Voyage Air, and WizzAir, and visited by Austrian, easyJet, Lufthansa, Ryanair, Volotea, and Turkish.Â   The scenery features high-detail 3D buildings, PBR texturing, improved ground textures, custom vegetation, animated radar and windsock, accurate runway slope, night lighting, and accurate ground markings.Â   Itâs available onÂ FlightSim.toÂ for $14.99, requiring at least 3.98 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xplr12</id>
+    <title>Laminar Research Announces Full XP12 Release </title>
+    <updated>2022-11-06T00:00:00+00:00</updated>
+    <link href="/news/xplr12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6368422df99d0defe6c5a9e0_hj8r7lqrzwm21-3988564165.png" rel="enclosure" type="image/png" length="822964"/>
+    <summary>Sim: X-Plane. The team at Laminar Research has formally announced that the full release of X-Plane 12 will occur sometime in December. This announcement comes as a shock to many as the alpha phase of XP12 has only been in session for only a couple of months. The team at Laminar Research is confident in pushing the release of XP12 to other medians such as DVD disks, though the release of a disk will be available in early 2023. Many people are looking forward to an improved Airbus A330 with a custom MCDU instead of the default XP FMS. Laminar did provide screenshots of the MCDU to attendees, showcasing what has been worked on. Many are excited for Laminar to release the next-gen simulator fully, whilst some believe that it is a very optimistic decision on Laminarâs part. Though, it was disclosed that work will continue on the alpha version before the final release. â Threshold will keep you updated on further developments.</summary>
+    <published>2022-11-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsuafm</id>
+    <title>Fenix Simulations Updates A320 for MSFS</title>
+    <updated>2022-11-07T00:00:00+00:00</updated>
+    <link href="/news/fsuafm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63692e9dddc6233d6ba2e46a_fnx1.png" rel="enclosure" type="image/png" length="2024438"/>
+    <summary>Sim: MSFS. Fenix Simulations has recently released an update to their A320 add-on, addressing crashes, QoL stuff, brake temperature issues with the GSX pushback, and sound tweaks (including the addition of seat movement sounds!). They have recently mentioned on theirÂ DiscordÂ that work on SU11 compatibility is underway, ensuring proper behavior with the new weather system.Â  The complete changelog follows down below: A320 v1.0.6.146 â [SYSTEM] â - Fixed TOO STEEP PATH â - Fixed TCAS â - Fixed several crashes/exceptions â - LOC Capture in HDG mode improved â - Added more variables for which brake temperature modelling is disabled during GSX pushbacks â - Screen brightness set to MAX for cold and dark â - Minor VNAV calculation error fixed â [ART&amp;SOUND] â - Minor fixes and adjustments â - Particle FX reworked for improved performance â - Refactored cockpit wind further so a more noticeable change can be heard below 280knots â - Increased volume of brake fans â - N2 volume on approach increased and improved â - Cockpit wind now tied to "environment sounds" slider in MSFS, leaving it at 100% will give the most accurate experience to the real A320 â - Added seat movement sounds â - Cabin lights are now dimmed when set to OFF The update is available on their website for registered customers.  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-07T00:00:00+00:00</published>
   </entry>
 </feed>
