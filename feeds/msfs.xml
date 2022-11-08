@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-11-07T18:28:47.432788+00:00</updated>
+  <updated>2022-11-08T18:34:39.728640+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/october-20th-2022-development-update/</id>
-    <title>October 20th, 2022 Development Update</title>
-    <updated>2022-10-20T23:29:58+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-20th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/ukaka5656-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="80942"/>
-    <summary>The dev team remains hard at work preparing for the release of the upcoming 40th Anniversary Edition which is scheduled to launch on November 11.</summary>
-    <published>2022-10-20T23:29:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/got-friends-sale/</id>
     <title>GOT FRIENDS SALE</title>
@@ -52,6 +43,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/WinterBand54341-Forum-1024x640.jpg" rel="enclosure" type="image/jpeg" length="27250"/>
     <summary>It’s the final countdown! The launch of the highly-anticipated 40th Anniversary Edition is only one week away, and we couldn’t be more excited.</summary>
     <published>2022-11-04T00:05:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-global-release-times/</id>
+    <title>Microsoft Flight Simulator Global Release Times</title>
+    <updated>2022-11-07T20:28:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-global-release-times/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/40th_Global_Release_Times_V4-1024x576.png" rel="enclosure" type="image/png" length="149457"/>
+    <summary>Global Release times for Microsoft Flight Simulator 40th Anniversary Edition.November 11th: Seattle: 8:00AM (PST) New York: 11:00AM (EST) São Paulo: 1:00pm (BRT) London: 4:00pm (BST) Amsterdam: 5:00PM (CET) Cape Town: 6:00PM (SAST) November 12th: Singapore: 12:00AM (SGT) Tokyo: 1:00AM (JST) Sydney: 3:00AM (AEST) Wellington: 5:00AM (NZST)</summary>
+    <published>2022-11-07T20:28:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-vi-junker-f-13/</id>
