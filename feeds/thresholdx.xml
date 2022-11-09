@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-08T18:34:41.635131+00:00</updated>
+  <updated>2022-11-09T18:29:19.986384+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vslf19</id>
-    <title>VSKYLABS Releases F-19 for X-Plane 12</title>
-    <updated>2022-10-22T00:00:00+00:00</updated>
-    <link href="/news/vslf19" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635452fc8bbb51cf21b6c9ed_vskylabs-f19-v1.0-ea-024.png" rel="enclosure" type="image/png" length="680926"/>
-    <summary>Sim: X-Plane. The all-new rendition of the F-19 Stealth fighter has been released for X-Plane 12. This release adds to the ever-increasing and vast library of military aircraft a part of the new next-generation simulator. With the ever-increasing aircraft network being moved to the new simulator, the F-19 Stealth Fighter Project is no different. Attempting to recreate the 80s aircraft to the best of their abilities, VSKYLABS has not only replicated the exterior model but also developed the systems and the interior. The developers have provided an extensive feature list. Starting off, they have replicated the flight model of the actual aircraft with XP12âs flight dynamics upgrade. Along with FMOD sounds being included, the aircraft has been developed to be compatible with VR and optimized for 2D usage. For the full feature list, you can view it on the product page. If you are interested in picking this aircraft up for yourself, you can purchase it on VSKYLABS Website. Though the developer has stated that it is not an official release, the project is under constant maintenance.</summary>
-    <published>2022-10-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/drxmsf</id>
     <title>DarkSpace Releases xEnviro 2020 for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63692e9dddc6233d6ba2e46a_fnx1.png" rel="enclosure" type="image/png" length="2024438"/>
     <summary>Sim: MSFS. Fenix Simulations has recently released an update to their A320 add-on, addressing crashes, QoL stuff, brake temperature issues with the GSX pushback, and sound tweaks (including the addition of seat movement sounds!). They have recently mentioned on theirÂ DiscordÂ that work on SU11 compatibility is underway, ensuring proper behavior with the new weather system.Â  The complete changelog follows down below: A320 v1.0.6.146 â [SYSTEM] â - Fixed TOO STEEP PATH â - Fixed TCAS â - Fixed several crashes/exceptions â - LOC Capture in HDG mode improved â - Added more variables for which brake temperature modelling is disabled during GSX pushbacks â - Screen brightness set to MAX for cold and dark â - Minor VNAV calculation error fixed â [ART&amp;SOUND] â - Minor fixes and adjustments â - Particle FX reworked for improved performance â - Refactored cockpit wind further so a more noticeable change can be heard below 280knots â - Increased volume of brake fans â - N2 volume on approach increased and improved â - Cockpit wind now tied to "environment sounds" slider in MSFS, leaving it at 100% will give the most accurate experience to the real A320 â - Added seat movement sounds â - Cabin lights are now dimmed when set to OFF The update is available on their website for registered customers.  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xdroca</id>
+    <title>Xometry Design Releases Oklahoma City Airport for X-Plane </title>
+    <updated>2022-11-09T00:00:00+00:00</updated>
+    <link href="/news/xdroca" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636b00c74ff68363bc41ad73_kock1.png" rel="enclosure" type="image/png" length="1768262"/>
+    <summary>Sim: X-Plane. Xometry Design has just released their rendition of Oklahoma City Will Rogers Airport (KOKC) for X-Plane 11 and 12, a civil-military airport with a yearly average of 3.5 million passengers. Itâs also known as Will Rogers World Airport, named after a local comedian that died in 1935.Â  Itâs served by Alaska, Allegiant, American Airlines (and Eagle), Delta Airlines (and Connection), Frontier, Southwest, and United (and Express), encompassing most of the USA. Cargo-wise, itâs visited by FedEx, Martinaire, and UPS.Â  The scenery features a detailed rendition of the airport, with high-resolution ground textures, custom SAM jetways and marshallers, disassembled aircraft parts, realistic wear and tear, and accurately placed custom buildings and clutter. Itâs available on theÂ iniBuilds StoreÂ for roughly $21.72, requiring at least 4.32 GB of free disk space to install, and compatible with X-Plane 11.50+ or X-Plane 12.00+. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-09T00:00:00+00:00</published>
   </entry>
 </feed>
