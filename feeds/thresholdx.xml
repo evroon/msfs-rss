@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-10T18:29:35.087537+00:00</updated>
+  <updated>2022-11-11T18:31:22.577861+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/drxmsf</id>
-    <title>DarkSpace Releases xEnviro 2020 for MSFS</title>
-    <updated>2022-10-23T00:00:00+00:00</updated>
-    <link href="/news/drxmsf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6354924af966741e8259c926_2xE20.jpg" rel="enclosure" type="image/jpeg" length="373812"/>
-    <summary>Sim: MSFS. DarkSpace has just released xEnviro 2020, a brand new weather engine aiming to improve the weather depiction in Microsoft Flight Simulator, built upon their ten years of experience developing xEnviro for X-Plane. With a shared core code based on two decades of atmospheric studies and a sophisticated mathematical model, it aims to bring professional class weather simulation to everyone. On the announcement thread, they have also stated their long-term plans for the product, which will initially feature the engine itself and historical weather* (first weather add-on to feature historical weather), but with a - potential - addition of true-scale clouds that are already available on their version for X-Plane. They also mention that MSFS depicts weather differently due to how the clouds are scaled (twice as big), meaning some very specific METARs canât be faithfully reproduced as of yet (the announcement features an example). The complete feature list follows down below: Features Itâs available on the Threshold Store for $42, and xEnviro (X-Plane) owners get a $20 discount.Â  Stay tuned to Threshold for more flight simulation news! *Historical Weather from 16.10.2022 and beyond</summary>
-    <published>2022-10-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ssrsma</id>
-    <title>Skyline Simulations Releases Scandinavian Mountains Airport for MSFS</title>
-    <updated>2022-10-25T00:00:00+00:00</updated>
-    <link href="/news/ssrsma" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635756991d55c663d2b5b173_esks1.png" rel="enclosure" type="image/png" length="1867043"/>
-    <summary>Sim: MSFS. Skyline Simulations has just released their rendition of Scandinavian Mountains Airport (ESKS) for Microsoft Flight Simulator, among the most modern airports and the first in the world with a remote control tower. Opened in December 2019, the traffic figures are not yet impressive, with 14,157 passengers in 2020 and 16,236 in 2022 (until July).Â  Unlike most airports, it only gets commercial traffic during the winter, when it gets visited by airlines such as Luxair, Scandinavian, Transavia (by December 2022), and TUI fly Nordic.Â  The scenery features an updated taxiway layout, ultra-high definition textures, PBR, custom 3D vegetation, animated people and luggage, and night lighting. The complete list follows down below: â Itâs available on Flightsim.to for $18.80 and requires at least 1.22 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/brtafm</id>
-    <title>BMA Releases Trieste Airport for MSFS</title>
-    <updated>2022-10-25T00:00:00+00:00</updated>
-    <link href="/news/brtafm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6357f5fedfbed16383d175fc_trieste1.png" rel="enclosure" type="image/png" length="2060714"/>
-    <summary>Sim: MSFS. Barelli MSFS Addons has just released their rendition of Trieste Airport (LIPQ) and five POIs (Memorial of Redipuglia, Fortress of Monfalcone, Castle of Duino, Basilica of Aquileia, and the Cerje Peace Monument) for Microsoft Flight Simulator. Located in north-eastern Italy, it serves the region of Friuli-Venezia Giulia and adjacencies (Austria, Slovenia, and Croatia), with a yearly average of 800.000 passengers.Â  Itâs visited by airlines such as Air Serbia, ITA Airways, Lufthansa, Ryanair, and Volotea (seasonally), with RYR offering the most destinations (nine). The scenery features updated taxiways and ground markings, an accurate representation of the passenger terminal, and the aforementioned POIs.Â  Itâs available on FlightSim.to for $18.40 and requires at least 121.06MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsrnau</id>
-    <title>Fenix Simulations Releases New A320 Update</title>
-    <updated>2022-10-25T00:00:00+00:00</updated>
-    <link href="/news/fsrnau" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6358191032e01e7ba85063f3_fenix1.png" rel="enclosure" type="image/png" length="3158078"/>
-    <summary>Sim: MSFS. Fenix Simulations has recently updated their A320 add-on to v1.0.5.139, addressing a significant list of issues, including flare law tweaks, flap behavior, sound fixes, and the return of contrails. There is an in-depth forum postÂ regarding their findings on the landing behavior, including comparisons with real-world data and footage, which can be a worthwhile read for A320 aficionados. The complete changelog follows down below: â [SYSTEM] â - Adjusted custom low speed friction model â - Adjusted G/S mini logic â - Fixed beacon/strobe desync â - Fixed flap 2 to flap 3 excessive nose-down ballooning in manual flight and autoflight. â - Adjusted tuning for G/S hold for better tracking of G/S in autopilot modes â - Autoland told to stop mucking about and do the job properly, should flare a little more aggressively now. â - Fixed issue with loss of ILS signal in the FMS autotuner. This causes lack of yaw control during ROLLOUT, leading to grassy excursions. Please note, it's possible this issue still exists in specific sceneries that do not have their guidance beams set up properly. â - ISA fixed. â - Small tweaks to FLARE mode behaviour. â - Introduction of LIGHTER/HEAVIER sidestick option in CONTROL CONFIG, default changed to "lighter" for desktop hardware.Â  â - Changed amount of force needed to disconnect autopilot with stick pressure. Now a user needs to apply roughly 60% of travel before the AP will disconnect. This is the best way we can emulate a "control lock" which requires a fair amount of force to disconnect. â - Disabled brake temperature simulation for GSX pushbacks. â - Reduced sensitivity of yaw when nose wheel is in contact with the ground, leading to significantly smoother yaw control during crosswind landings and at high speeds. â - Minor refinements to initial VNAV descent angle calculations.Â  â - Fixed issue where the flat deceleration segment for 250kts was missing when a "at or above" altitude constraint was present. â [FM] â - Slight bump to flap full lift, aircraft should feel more responsive in flap full configurations, ergo FLARE feels slightly more energetic now as opposed to throwing elevator up into a bowl of porridge. All in, this should be more consistent, simply put. The prior the lack of lift was causing inertia issues. Please be aware of this on your next approach, some refamiliarization might be required. â - Made a small adjustment to lateral friction values â - Made a small adjustment to ground spoiler effectiveness â [ART&amp;SOUND] â - All exterior lights now volumetric â - Added back missing antennas â - #bringbackcontrails â - Volume bug resolved preventing some sounds from playing at their intended volume â - Fixed nose gear retraction sounds â - Brighter cockpit â - Sound fixes and improvements (flaps/slats/fuel-pumps/AEVC/packs) The update is available on their website for registered customers.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-10-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inima2</id>
     <title>iniBuilds Releases iniManager v2</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636b00c74ff68363bc41ad73_kock1.png" rel="enclosure" type="image/png" length="1768262"/>
     <summary>Sim: X-Plane. Xometry Design has just released their rendition of Oklahoma City Will Rogers Airport (KOKC) for X-Plane 11 and 12, a civil-military airport with a yearly average of 3.5 million passengers. Itâs also known as Will Rogers World Airport, named after a local comedian that died in 1935.Â  Itâs served by Alaska, Allegiant, American Airlines (and Eagle), Delta Airlines (and Connection), Frontier, Southwest, and United (and Express), encompassing most of the USA. Cargo-wise, itâs visited by FedEx, Martinaire, and UPS.Â  The scenery features a detailed rendition of the airport, with high-resolution ground textures, custom SAM jetways and marshallers, disassembled aircraft parts, realistic wear and tear, and accurately placed custom buildings and clutter. Itâs available on theÂ iniBuilds StoreÂ for roughly $21.72, requiring at least 4.32 GB of free disk space to install, and compatible with X-Plane 11.50+ or X-Plane 12.00+. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lrbwim</id>
+    <title>LatinVFR Releases Baltimore-Washington International for MSFS</title>
+    <updated>2022-11-11T00:00:00+00:00</updated>
+    <link href="/news/lrbwim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636dd346c1bbc346693029d1_bwi1.jpg" rel="enclosure" type="image/jpeg" length="674449"/>
+    <summary>Sim: MSFS. LatinVFR has recently released their rendition of Baltimore-Washington International Thurgood Marshall Airport (KBWI) for Microsoft Flight Simulator. With an average of 20 million passengers every year, BWI is the 22nd busiest airport in the United States and the busiest in the metropolitan area of Baltimore-Washington.Â  Itâs a hub for the low-cost carrier Southwest Airlines, with 71% of the market share between April 2021 and March 2022, with roughly 13 million passengers. Spirit, Delta, American, and United make for the rest of the traffic. LCCs comprehend 80% of the yearly average. The scenery features PBR ground markings and textures, realistic terminals and cargo buildings, realistic lighting, custom jetways, and an airport layout in accordance with real-world data. Itâs available onÂ LatinVFRâs ShopÂ for $16.99, and owners of the P3D BWI can get a discount with the following promotional code: KBWIMSFS. At least 1.3 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rreetm</id>
+    <title>RPSimulations Releases EMB-312 Embraer Tucano for MSFS</title>
+    <updated>2022-11-11T00:00:00+00:00</updated>
+    <link href="/news/rreetm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636dd9a6c1bbc3157c34933a_fab1.png" rel="enclosure" type="image/png" length="2063413"/>
+    <summary>Sim: MSFS. RPSimulations has recently released their rendition of the EMB-312 Embraer Tucano for Microsoft Flight Simulator, a low-wing single-turboprop basic trainer aircraft developed in Brazil by Embraer in partnership with the Brazilian Air Force (sponsorship). Designed in 1979, it took off for the first time in August 1980, and got its first production units in 1983. With a production span of 16 years, 664 units were built in total, operated by the Air Forces of Argentina, Brazil and Egypt. It was Embraerâs first international success. It features a highly detailed cockpit with PBR textures, an animated canopy, in-sim checklist, smoke effects, custom liveries, animated pilots, dimmable interior lights, and freedom to use either of the seats. The complete feature list follows down below: â Itâs available onÂ FlightSim.toÂ for $19.90, requiring at least 2.2 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oadmaf</id>
+    <title>Orbx Announces Detroit Metropolitan Airport for X-Plane 12 and MSFS</title>
+    <updated>2022-11-11T00:00:00+00:00</updated>
+    <link href="/news/oadmaf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636e0378385263770baab23d_dtw1.png" rel="enclosure" type="image/png" length="2149364"/>
+    <summary>Sim: X-Plane. Orbx has just announced their latest project: Detroit Metropolitan Airport (KDTW) for X-Plane 12 and Microsoft Flight Simulator, with the XP version to come first. According to theirÂ announcement post, itâs developed by a group of independent developers, using real-world drawings and exclusive access to the airport as reference.Â  With a yearly average of 35 million passengers, DTW Â is among the busiest airports in the United States, serving the city of Detroit, Toledo (Ohio), and part of Ontario in Canada. Itâs a hub for Delta Airlines, with over 50% of the market share, followed by Endeavor Air and Spirit Airlines, with 12.95% and 11.69%, respectively. Itâs DALâs gateway to Asia for the eastern US, with frequent flights to Shanghai, Seoul, and Tokyo. Popular routes to Europe include Amsterdam, Paris and Frankfurt.Â  The complete feature list follows down below: They have also stated the intent to develop a Detroit City Pack and Coleman A. Young International Airport as a complement for the Microsoft Flight Simulator version.Â  There is no information on a potential release date or pricing, but weâll keep you updated.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asrbfm</id>
+    <title>Aerosoft Releases Baden for MSFS</title>
+    <updated>2022-11-11T00:00:00+00:00</updated>
+    <link href="/news/asrbfm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636e6d2b8b7123cd5515064d_edsb_11.jpg" rel="enclosure" type="image/jpeg" length="380753"/>
+    <summary>Sim: MSFS. Aerosoft has just released their newest scenery Karlsruhe/Baden-Baden airport for Microsoft Flight Simulator 2020. Known as the international airport for Karlsruhe, Baden is a focus airport for Ryanair which operates routes over the majority of Spain and some other destinations within Europe. The airport was initially a military aerodrome in 1951 and then closed in 1994 to be turned into a regional airport as well as a business park. In 2001, the first commercial flights took place to destinations Ibiza and Palma De Mallorca by a former airline, Hapag-Lloyd Flug (now TUI fly Deutschland.) Below, you will find a list of key features Aerosoft have included in their newest scenery. Â  This scenery is available for purchase on the Aerosoft website and will cost â¬15.08. You will also need roughly 5GB of storage for the scenery to be installed.Â  Let us know your thoughts and keep your eyes peeled for future news!</summary>
+    <published>2022-11-11T00:00:00+00:00</published>
   </entry>
 </feed>
