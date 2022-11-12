@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-11-11T18:31:21.735578+00:00</updated>
+  <updated>2022-11-12T18:27:57.965031+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,6 +32,15 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/7G5A1969-1024x614.jpg" rel="enclosure" type="image/jpeg" length="133754"/>
     <summary>From the early days of flight, we often recognize common household aviator names in history such as the great Amelia Earhart, The Wright Brothers, Charles Lindbergh, and countless others. We love to spotlight as many of these incredible aviation pioneers as we can in gratitude for what they did to shape aviation into what it … Continued</summary>
     <published>2022-10-11T15:10:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/4simmers-sale/</id>
+    <title>4SIMMERS SALE</title>
+    <updated>2022-10-28T17:00:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/4simmers-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/10/4SimmersSale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="123848"/>
+    <summary>15 Items On Sale Now in the Marketplace!</summary>
+    <published>2022-10-28T17:00:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-3rd-2022-development-update/</id>
@@ -68,14 +77,5 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Flight-Simulator-40th-Anniversary-Key-Art-a35ec8afa52df3066341-1024x576.png" rel="enclosure" type="image/png" length="240515"/>
     <summary>Release Notes for Version 1.29.28.0 (Sim Update 11) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2022-11-11T16:02:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/msfs-40th-anniversary-sale/</id>
-    <title>MSFS 40th Anniversary Sale</title>
-    <updated>2022-11-11T18:10:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs-40th-anniversary-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/40th-Anniversary-900items-1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="96701"/>
-    <summary>For 4 Days starting on November 11th, save up to 83% on more than 900 items.</summary>
-    <published>2022-11-11T18:10:22+00:00</published>
   </entry>
 </feed>
