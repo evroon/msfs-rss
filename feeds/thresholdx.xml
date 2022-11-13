@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-12T18:27:58.763229+00:00</updated>
+  <updated>2022-11-13T18:28:04.648244+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/trfbnx</id>
-    <title>TearWearDesigns Releases Freeware Buffalo Niagara for X-Plane 12</title>
-    <updated>2022-10-29T00:00:00+00:00</updated>
-    <link href="/news/trfbnx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/635d50105474bb42a368a006_buf1.png" rel="enclosure" type="image/png" length="1112849"/>
-    <summary>Sim: X-Plane. TearWearDesigns has released their rendition of Buffalo Niagara International (KBUF) for X-Plane 12, free of charge. The airport serves the city of Buffalo, NY, and part of Ontario, Canada. Averaging 5 million passengers every year, itâs the third busiest in the state, with over 100 flights a day from airlines such as American, Delta, Frontier, JetBlue, Southwest, and United. The scenery features tridimensional grass, custom markings, dirt and wear around the airport, hand-placed night lighting, true-to-life parking lots, orthoimagery (ZL19), and a custom terminal, tower, and hangars.Â  Itâs available for free onÂ X-Plane.Org, with a download size of 560 MB.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2022-10-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inixp12</id>
     <title>iniBuilds Announces Free A300V2 Compatibility Update for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636f21310710dedd803ff66d_tex2.png" rel="enclosure" type="image/png" length="2482311"/>
     <summary>Sim: MSFS. UK2000 Scenery has just released their rendition of Telluride Regional Airport (KTEX) for Microsoft Flight Simulator, the highest commercial airport in the United States, and the second highest overall in the country, only behind Leadville Airport. The yearly passenger figures are around 17.000, with Denver being the most popular destination in terms of sheer volume.Â   The airport is famous for providing a challenging approach because of the surrounding geography, runway length, and steep glide path angle (3.55 on 9 and 4.0 on 27). The 2167 meters of runway feel a lot shorter because of the elevation.Â   The scenery features high-detail buildings, realistic ground markings, high-resolution ground imagery, night effects, FPS-oriented optimization, custom vegetation, PBR materials, both tower and terminal with a modeled interior, and optional static aircraft.  Itâs available onÂ FlightSim.toÂ for $9.99 and on theirÂ websiteÂ for Â£9.99, requiring at least 105 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cdrbfx</id>
+    <title>Chudoba Design Releases Bucharest for X-Plane</title>
+    <updated>2022-11-13T00:00:00+00:00</updated>
+    <link href="/news/cdrbfx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637067d70a791e53e63f04b8_31-600x338.png" rel="enclosure" type="image/png" length="62954"/>
+    <summary>Sim: X-Plane. Chudoba Design have recently released their version of Bucharest Henri CoandÄ International Airport for X-Plane 11 and X-Plane 12. Known as Romaniaâs busiest international airport, Otopeni is located North of the highly populated Bucharest city which offers a major tourist attraction to tourists all around the world due to its iconic landmarks. The airport has seen well over 14 million passengers back in 2019. However, In 2020 the airport had seen almost a 60% decrease in total passengers for that year due to the COVID pandemic. Bucharest Henri CoandÄ International Airport offers a choice of numerous airlines that fly all around Europe and some parts of Middle-East Asia. There are two runways available at Otopeni International which are parallel to each other and are of the same length of 3500m. Below, is a list of key features this scenery contains: â â This airport scenery is available to purchase on SimMarket for $16.99 and will require at least 2GB of free space to be installed into X-Plane.Â  Â  Keep your eyes peeled for future news from Threshold!</summary>
+    <published>2022-11-13T00:00:00+00:00</published>
   </entry>
 </feed>
