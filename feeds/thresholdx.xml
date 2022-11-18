@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-17T18:27:39.160625+00:00</updated>
+  <updated>2022-11-18T18:29:44.609680+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pu7lfm</id>
-    <title>PMDG Updates 737 Lineup for MSFS</title>
-    <updated>2022-11-03T00:00:00+00:00</updated>
-    <link href="/news/pu7lfm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636349b4011f85502d5b5cb8_737-1.png" rel="enclosure" type="image/png" length="3567645"/>
-    <summary>Sim: MSFS. PMDG has recently updated their current 737 lineup (600/700/800) to version 3.00.0044 for Microsoft Flight Simulator, marking the 10th update since the original release in early May, an average of one update every 18 days. The update focuses on control law and stability, ensuring proper management of atmospheric instabilities that may occur mid-flight. The complete changelog follows down below: 0011898: [Systems - Hydraulic] EDP Low Pressure lights come on to late in start (rsrandazzo) 0012029: [AFDS - Pitch Modes] Level change down : provision for FS atmoshpere "bursts" pumping pitch up/down (emvaos) 0012002: [Virtual Cockpit - Geometry/Textures] VC Clipping and assorted finds (vscimone) 0010744: [FMS - Route/Legs Pages] Wrapping ETA and time differences around 0000z (emvaos) 0012006: [FMS/AFDS - VNAV] CRZ phase revival even within geometric descent (emvaos) 0011655: [AFDS - Thrust Modes] Provisions and refinement of A/T speed mode in SU10+ turbulence (emvaos) 0010628: [AFDS - Thrust Modes] New AT SPD mode system (emvaos) 0012005: [External Model - Geometry] Cabin lighting tone down needed after SU10? (jbrown) 0011992: [External Model - Geometry] Pilots not shown on extenral view (jbrown) 0011993: [AFDS - Pitch Modes] Oscilattions when using V/S for descent. (emvaos) 0011996: [Virtual Cockpit - Geometry/Textures] Small fap on the ceiling of VC, (vscimone) 0011976: [Virtual Cockpit - Geometry/Textures] VC Vertices cleanup (vscimone)â additiona: provisions for stability with known SU11 changes. â On theÂ update announcementÂ thread, Robert Randazzo from PMDG Â mentioned they were progressing further into the -900 development, which should enter testing a week from Friday. The long-awaited tablet enters testing next week.Â  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Pictures are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/agrvam</id>
-    <title>AG Sim Releases Varna Airport for MSFS</title>
-    <updated>2022-11-04T00:00:00+00:00</updated>
-    <link href="/news/agrvam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63657e365fa9f6771d7413a3_varna1.png" rel="enclosure" type="image/png" length="2829251"/>
-    <summary>Sim: MSFS. AG Sim has just released their rendition of Varna Airport (LBWN) for Microsoft Flight Simulator, the third largest airport in Bulgaria, averaging 2 million passengers per year (pre-pandemic). It serves Varna and the northeastern part of the country.  Itâs the hub for BH Air, Bulgaria Air, European Air Charter, Voyage Air, and WizzAir, and visited by Austrian, easyJet, Lufthansa, Ryanair, Volotea, and Turkish.Â   The scenery features high-detail 3D buildings, PBR texturing, improved ground textures, custom vegetation, animated radar and windsock, accurate runway slope, night lighting, and accurate ground markings.Â   Itâs available onÂ FlightSim.toÂ for $14.99, requiring at least 3.98 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xplr12</id>
     <title>Laminar Research Announces Full XP12 Release </title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6373d0b6cca66d2d388e15a3_VJ%20Launch%20Final.jpeg" rel="enclosure" type="image/jpeg" length="164830"/>
     <summary>Sim: MSFS. Nick Sdoucos and the FlightFX team has announced the release date and pricing for their rendition of the SF50 Vision Jet for Microsoft Flight Simulator. Bringing an all-new business jet to the MSFS. The Vision Jet has been included in both XP11 and XP12 packages right out of the box, but FlightFX has taken the challenge to create one of the most notable small jets in flight simulation. Nick from FlightFX has stated in his press release: It was also stated in the press release that the team is already at work preparing additionalÂ enhancements that will come in later updates which will include the refresh of the WT G3000. In addition to the team trying to capture the experience of flying in this aircraft. The SF50 Vision Jet will be available on the Marketplace on November 22, 2022, with a price of $24.99. Pre-release streams from TwoToneMurphy and TheFlyingFabio will available for users to tune in and see the aircraft for themselves before purchasing,</summary>
     <published>2022-11-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mrnbum</id>
+    <title>Microsoft Releases New Beta Update for MSFS</title>
+    <updated>2022-11-17T00:00:00+00:00</updated>
+    <link href="/news/mrnbum" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63768baa272c5a36cf3c36cc_40th_Anniversary.png" rel="enclosure" type="image/png" length="804433"/>
+    <summary>Sim: MSFS. Microsoft has recently updated the Microsoft Flight Simulator beta branch to version 1.29.29.0, fixing specific CTDs related to missing or malformed waypoint, VOR or NDB, along with a patch for the newly released IniBuilds A310-300 that includes improvements to the electronic flight bag, sound tweaks, improved intercept calculation methodology on all SIDs/STARs, and lighting fixes. The complete changelog follows down below: â General Bug Fixes Several crashes have been fixed across the title â Fixed potential crash when requesting missing or malformed Waypoint / VOR / NDB â Guimbal Cabri G2 occluder has been improved to match the cockpit â â Airbus A310-300 Textures Parking Brake spelling fixed Some low-res textures improved on Base version EFB/IFE EFB - Added automatic METAR lookup based on To/From Airports â EFB - Auto-populate Wind, Temperature, Runway Condition and QNH from the METAR â EFB - Added manual METAR Search â EFB - Added ability to enter numbers on flight planning page, as well as sliders for PAX, cargo and fuel (Click the text) â EFB - Removed sound volume sliders â IFE - Fixed erroneous ETA to destination â Sounds Master audio control is now through in-game settings â Fixes to volume levels â Fixed AI A310 volume levels being too loud â Fixed AI A310 rolloff distance being too great â Fixed directionality of APU noise â Fixed audio at rear of cabin being too quiet â Tweaks to interior attenuation â Tweaks to engine sounds â Tweaks to engine/apu start sounds and their event cues â Tweaks to brake fan and packs system sounds â Adjustments to ground rolling audio â Tooltips Hard coded aircraft type for external applications that were showing TT: â Fixed spelling error in trivia text â Chronometer tooltip fixed â ND Brightness tooltip fixed â Switches â WX radar switch fixed â Cameras â Fixed Showcase QuickView4 under belly camera â ATC Updated default livery ATC callsigns â Lighting â Cockpit lights toggled with L key bind â Control Keybinds â AP commands can now be bound to default key commands â FMC/FMS â Xbox fixed need to press A twice to enter characters on the MCDU â Improved intercept calculation methodology on all SIDs/STARs â FO VOR gauge animation fixed â FMS Cruise Temp can now be edited â Numerous FMS crashes fixed â If you want to join the beta branch, refer to this guide. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jpnffd</id>
+    <title>Just Flight Publishes New Fokker F28 Development Update</title>
+    <updated>2022-11-17T00:00:00+00:00</updated>
+    <link href="/news/jpnffd" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637699361dace64e9e1af253_fokker1.png" rel="enclosure" type="image/png" length="2423283"/>
+    <summary>Sim: MSFS. Just Flight has recently published another Fokker F28Â development updateÂ concerning its current state. In relation to last monthâs update, they have implemented fully animated passenger and cargo doors, wheel chocks, and cones around the airplane. They also state the visual work is pretty much complete at this point.  They have also begun working on the F28 systems, which are unique to the aircraft, increasing the complexity and requiring close collaboration with their testing team of ex-F28 specialists (pilots, engineers, training crew) to ensure maximum fidelity. âYou certainly wonât be mistaking this aircraft for your typical airliner!â says the developer.  The aircraft is now in a flyable state, with all animations, cockpit instrumentation, annunciators, and basic systems. It is now undergoing testing by their team. â  Credits to DragonRuins for the news scoop. Stay tuned to Threshold for further updates on the F28 development and more! â</summary>
+    <published>2022-11-17T00:00:00+00:00</published>
   </entry>
 </feed>
