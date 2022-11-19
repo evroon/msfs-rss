@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-18T18:29:44.609680+00:00</updated>
+  <updated>2022-11-19T18:26:38.806783+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xplr12</id>
-    <title>Laminar Research Announces Full XP12 Release </title>
-    <updated>2022-11-06T00:00:00+00:00</updated>
-    <link href="/news/xplr12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6368422df99d0defe6c5a9e0_hj8r7lqrzwm21-3988564165.png" rel="enclosure" type="image/png" length="822964"/>
-    <summary>Sim: X-Plane. The team at Laminar Research has formally announced that the full release of X-Plane 12 will occur sometime in December. This announcement comes as a shock to many as the alpha phase of XP12 has only been in session for only a couple of months. The team at Laminar Research is confident in pushing the release of XP12 to other medians such as DVD disks, though the release of a disk will be available in early 2023. Many people are looking forward to an improved Airbus A330 with a custom MCDU instead of the default XP FMS. Laminar did provide screenshots of the MCDU to attendees, showcasing what has been worked on. Many are excited for Laminar to release the next-gen simulator fully, whilst some believe that it is a very optimistic decision on Laminarâs part. Though, it was disclosed that work will continue on the alpha version before the final release. â Threshold will keep you updated on further developments.</summary>
-    <published>2022-11-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsuafm</id>
-    <title>Fenix Simulations Updates A320 for MSFS</title>
-    <updated>2022-11-07T00:00:00+00:00</updated>
-    <link href="/news/fsuafm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63692e9dddc6233d6ba2e46a_fnx1.png" rel="enclosure" type="image/png" length="2024438"/>
-    <summary>Sim: MSFS. Fenix Simulations has recently released an update to their A320 add-on, addressing crashes, QoL stuff, brake temperature issues with the GSX pushback, and sound tweaks (including the addition of seat movement sounds!). They have recently mentioned on theirÂ DiscordÂ that work on SU11 compatibility is underway, ensuring proper behavior with the new weather system.Â  The complete changelog follows down below: A320 v1.0.6.146 â [SYSTEM] â - Fixed TOO STEEP PATH â - Fixed TCAS â - Fixed several crashes/exceptions â - LOC Capture in HDG mode improved â - Added more variables for which brake temperature modelling is disabled during GSX pushbacks â - Screen brightness set to MAX for cold and dark â - Minor VNAV calculation error fixed â [ART&amp;SOUND] â - Minor fixes and adjustments â - Particle FX reworked for improved performance â - Refactored cockpit wind further so a more noticeable change can be heard below 280knots â - Increased volume of brake fans â - N2 volume on approach increased and improved â - Cockpit wind now tied to "environment sounds" slider in MSFS, leaving it at 100% will give the most accurate experience to the real A320 â - Added seat movement sounds â - Cabin lights are now dimmed when set to OFF The update is available on their website for registered customers.  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xdroca</id>
     <title>Xometry Design Releases Oklahoma City Airport for X-Plane </title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637699361dace64e9e1af253_fokker1.png" rel="enclosure" type="image/png" length="2423283"/>
     <summary>Sim: MSFS. Just Flight has recently published another Fokker F28Â development updateÂ concerning its current state. In relation to last monthâs update, they have implemented fully animated passenger and cargo doors, wheel chocks, and cones around the airplane. They also state the visual work is pretty much complete at this point.  They have also begun working on the F28 systems, which are unique to the aircraft, increasing the complexity and requiring close collaboration with their testing team of ex-F28 specialists (pilots, engineers, training crew) to ensure maximum fidelity. âYou certainly wonât be mistaking this aircraft for your typical airliner!â says the developer.  The aircraft is now in a flyable state, with all animations, cockpit instrumentation, annunciators, and basic systems. It is now undergoing testing by their team. â  Credits to DragonRuins for the news scoop. Stay tuned to Threshold for further updates on the F28 development and more! â</summary>
     <published>2022-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nafscs</id>
+    <title>Navigraph Announces FlightSim Community Survey 2022</title>
+    <updated>2022-11-18T00:00:00+00:00</updated>
+    <link href="/news/nafscs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6377df8c18ecde46917dfe83_af5f7129-37ab-4c16-ab6b-a0ce866bdb76.png" rel="enclosure" type="image/png" length="423388"/>
+    <summary>Sim: X-Plane. The yearly Navigraph Survey has been released to the FlightSim community where a selection of questions will be asked based on Partnerships, Demographics, Relation to any real life aviation and much more! â The survey period lasts from today, the 18th November 2022 to the 28th November. It is a 10 day window where flight sim enthusiasts have their opinion on what they want to see in future development. â Take part in the Navigraph FlightSim Community Survey 2022 by clicking here The questions asked in the survey will be straightforward and will give you an option whether it is optional or not. You have to be honest in the survey as this is the best way developers can get an idea of what people want to see in the future. Questions can range from age, overall income and education levels to what intrigues you about FlightSim and why you spend the hours you do being part of a massive aviation community. â The 2022 survey is one of the largest surveyâs of its kind and contains a much more broad selection of simulators as well as newly arose aircraft developers. As we all know Microsoft Flight Simulator 2020 has seen a massive amount of development since it was released 2 years ago by developers such as PMDG, Fenix Simulations, FlyByWire, Orbx, Aerosoft, UK2000 and much much more. A few months ago Laminar Research had released the Early Access / Beta version of X-Plane 12 which the team at Laminar have been working incredibly hard on to provide constant Beta updates for the users of X-Plane. Again this newly released simulator has seen a massive amount of development from external developers such as X-Works, Threshold, Toliss, FlightFactor, Orbx and many more. This year should give some interesting results due to the recent development on these newly released simulators. Here is a link to last years results where we saw MSFS take the lead, who will take the lead this year? Let us know below. â Unfortunately, Threshold are not shown in the partnerships in this yearâs survey. Results will be announced on Navigraphâs blog in Mid-December, the survey is anonymous and no personally identifiable information is collected, and the results will only be presented in aggregated form. â Again, to take part in the Navigraph 2022 Survey click here! â We look forward to seeing the results!</summary>
+    <published>2022-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/prscu7</id>
+    <title>PMDG Releases SU11 Compatibility Update for 737 Lineup</title>
+    <updated>2022-11-19T00:00:00+00:00</updated>
+    <link href="/news/prscu7" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63781b919fa94377345ae198_11%20(1).png" rel="enclosure" type="image/png" length="833628"/>
+    <summary>Sim: MSFS. PMDG has just released a new update to the 737 lineup, ensuring compatibility with Sim Update 11 and its new standards, built on the latest SDK. According to Robert RandazzoâsÂ forum announcement, the main focus has been the tuning of the control law for the automatic flight control system in pitch, roll, yaw, and thrust, mitigating an issue with the previous update related to the atmospheric stability simulation that is claimed to be âsignificantly unrealisticâ and requiring the creation of additional logic into the control law. PMDG also claims the 737 control logic improvements will pave the way towards greater realism in atmospheric stability without need for changes.Â   They have been working on bringing forward new features that are now possible with SU11, such as a weather radar, but the results are not yet up to the expected standard, thus still under development. A short list of other minor fixes follows down below: 0012072: [General - Documentation] Amend Introduction document to remove Wifi Antenna FWD/AFT option (hvanrensburg) 0012051: [Virtual Cockpit - Geometry/Textures] Capt Stab trim clipping (vscimone) 0012052: [Virtual Cockpit - Geometry/Textures] MIssing pixel on Electrical Panel when using New pressurization panel option (vscimone) 0011821: [External Model - Geometry] Negative pressure relief valve text &amp; push panel mis-aligned (jbrown) 0011614: [External Model - Geometry] Paintkit Model Texture Distortion (jbrown) Work on the SU11 transition has delayed the progress on the 737-900, which they hope should be entering testing by next week. The EFB, on the other hand, is apparently well into testing and progressing well. Randazzo has mentioned that a preview will probably happen as soon as they feel itâs ready to be shown.  Regarding the marketplace addition, they claim it was submitted today to Asobo for approval, and it should become available soon.Â   The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Images are courtesy of Pineapple_Wizard. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-19T00:00:00+00:00</published>
   </entry>
 </feed>
