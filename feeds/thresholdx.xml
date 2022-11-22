@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-21T18:28:21.899872+00:00</updated>
+  <updated>2022-11-22T18:28:19.969015+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xdroca</id>
-    <title>Xometry Design Releases Oklahoma City Airport for X-Plane </title>
-    <updated>2022-11-09T00:00:00+00:00</updated>
-    <link href="/news/xdroca" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636b00c74ff68363bc41ad73_kock1.png" rel="enclosure" type="image/png" length="1768262"/>
-    <summary>Sim: X-Plane. Xometry Design has just released their rendition of Oklahoma City Will Rogers Airport (KOKC) for X-Plane 11 and 12, a civil-military airport with a yearly average of 3.5 million passengers. Itâs also known as Will Rogers World Airport, named after a local comedian that died in 1935.Â  Itâs served by Alaska, Allegiant, American Airlines (and Eagle), Delta Airlines (and Connection), Frontier, Southwest, and United (and Express), encompassing most of the USA. Cargo-wise, itâs visited by FedEx, Martinaire, and UPS.Â  The scenery features a detailed rendition of the airport, with high-resolution ground textures, custom SAM jetways and marshallers, disassembled aircraft parts, realistic wear and tear, and accurately placed custom buildings and clutter. Itâs available on theÂ iniBuilds StoreÂ for roughly $21.72, requiring at least 4.32 GB of free disk space to install, and compatible with X-Plane 11.50+ or X-Plane 12.00+. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lrbwim</id>
-    <title>LatinVFR Releases Baltimore-Washington International for MSFS</title>
-    <updated>2022-11-11T00:00:00+00:00</updated>
-    <link href="/news/lrbwim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636dd346c1bbc346693029d1_bwi1.jpg" rel="enclosure" type="image/jpeg" length="674449"/>
-    <summary>Sim: MSFS. LatinVFR has recently released their rendition of Baltimore-Washington International Thurgood Marshall Airport (KBWI) for Microsoft Flight Simulator. With an average of 20 million passengers every year, BWI is the 22nd busiest airport in the United States and the busiest in the metropolitan area of Baltimore-Washington.Â  Itâs a hub for the low-cost carrier Southwest Airlines, with 71% of the market share between April 2021 and March 2022, with roughly 13 million passengers. Spirit, Delta, American, and United make for the rest of the traffic. LCCs comprehend 80% of the yearly average. The scenery features PBR ground markings and textures, realistic terminals and cargo buildings, realistic lighting, custom jetways, and an airport layout in accordance with real-world data. Itâs available onÂ LatinVFRâs ShopÂ for $16.99, and owners of the P3D BWI can get a discount with the following promotional code: KBWIMSFS. At least 1.3 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rreetm</id>
     <title>RPSimulations Releases EMB-312 Embraer Tucano for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63781b919fa94377345ae198_11%20(1).png" rel="enclosure" type="image/png" length="833628"/>
     <summary>Sim: MSFS. PMDG has just released a new update to the 737 lineup, ensuring compatibility with Sim Update 11 and its new standards, built on the latest SDK. According to Robert RandazzoâsÂ forum announcement, the main focus has been the tuning of the control law for the automatic flight control system in pitch, roll, yaw, and thrust, mitigating an issue with the previous update related to the atmospheric stability simulation that is claimed to be âsignificantly unrealisticâ and requiring the creation of additional logic into the control law. PMDG also claims the 737 control logic improvements will pave the way towards greater realism in atmospheric stability without need for changes.Â   They have been working on bringing forward new features that are now possible with SU11, such as a weather radar, but the results are not yet up to the expected standard, thus still under development. A short list of other minor fixes follows down below: 0012072: [General - Documentation] Amend Introduction document to remove Wifi Antenna FWD/AFT option (hvanrensburg) 0012051: [Virtual Cockpit - Geometry/Textures] Capt Stab trim clipping (vscimone) 0012052: [Virtual Cockpit - Geometry/Textures] MIssing pixel on Electrical Panel when using New pressurization panel option (vscimone) 0011821: [External Model - Geometry] Negative pressure relief valve text &amp; push panel mis-aligned (jbrown) 0011614: [External Model - Geometry] Paintkit Model Texture Distortion (jbrown) Work on the SU11 transition has delayed the progress on the 737-900, which they hope should be entering testing by next week. The EFB, on the other hand, is apparently well into testing and progressing well. Randazzo has mentioned that a preview will probably happen as soon as they feel itâs ready to be shown.  Regarding the marketplace addition, they claim it was submitted today to Asobo for approval, and it should become available soon.Â   The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Images are courtesy of Pineapple_Wizard. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iadmam</id>
+    <title>iniBuilds Announces Detroit Metropolitan Airport for MSFS</title>
+    <updated>2022-11-21T00:00:00+00:00</updated>
+    <link href="/news/iadmam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637be7593237ab7a294cdf04_inidetroit1.png" rel="enclosure" type="image/png" length="2062258"/>
+    <summary>Sim: MSFS. iniBuilds hasÂ recently announcedÂ their newest project for Microsoft Flight Simulator: Detroit Metropolitan Wayne County Airport (KDTW). Itâs Michiganâs busiest airport, with an average of 35 million passengers yearly, covering a massive domestic and international network, with Delta, Endeavor, and Spirit taking a chunk of the market share.Â  â According to the developers, the development of DTW took their scenery development to the next level, with a high degree of accuracy. It features custom jetways, GSE and taxi signs, high-quality textures, an animated train in the McNamara terminal, fully animated Laminar fountain, and deicing statics. âAs part of our commitment to our customers earlier in the year, with each scenery we release, we want to push the boundaries in the features we are providingâ says the developer.  They have also previewed an iniManager feature that will allow customers to customize their sceneries to their liking, such as static aircraft, people, and winter equipment. It will also be made available for their KLAX and EGLL.  There is no information on release date or pricing yet. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2022-11-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/opsapu</id>
+    <title>Orbx Publishes Stockholm-Arlanda V2 Progress Update </title>
+    <updated>2022-11-22T00:00:00+00:00</updated>
+    <link href="/news/opsapu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637c1cb90669e17eeec5d258_essacover.jpg" rel="enclosure" type="image/jpeg" length="319919"/>
+    <summary>Sim: MSFS. Orbx has made aÂ forum postÂ with updates on the development of Stockholm-Arlanda V2 (ESSA) for Microsoft Flight Simulator. It is the largest airport in the country, with a yearly average of 26 million passengers (70% international, 30% domestic). It serves Metropolitan Stockholm and known as the gateway to most of Sweden.Â   Itâs a hub for Scandinavian Airlines and Eurowings Europe, and a focus city for Finnair, Novair, and Ryanair. London is the most popular European destination, with nearly 2 million passengers shared between Heathrow and Gatwick, followed by Copenhagen with 1,394,000. International-wise, Dubai tops the chart with 302000, followed by Doha with 284000, and the United States with 278000.  They have partnered with Jetstream Designs (creator of Paris-Orly, Toulouse, and Linate, among many others) and are âmoving forward quicklyâ, with Terminal 5 to reach completion soon. The scenery will feature custom GSE items, and high-quality ortho imagery with an updated high-res mesh, âto be showcased soonâ.Â   In regard to a potential P3D and X-Plane version, they say it will be looked at once the scenery is out, âas long as there is a market for it at that point.â  The developer made aÂ Facebook pageÂ with progress updates and screenshots.  Thereâs no information on pricing and release date yet. Stay tuned to Threshold for more flight simulation news! Thanks to Luke on our Discord for the scoop! â</summary>
+    <published>2022-11-22T00:00:00+00:00</published>
   </entry>
 </feed>
