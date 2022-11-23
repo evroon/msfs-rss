@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-22T18:28:19.969015+00:00</updated>
+  <updated>2022-11-23T18:25:50.957015+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rreetm</id>
-    <title>RPSimulations Releases EMB-312 Embraer Tucano for MSFS</title>
-    <updated>2022-11-11T00:00:00+00:00</updated>
-    <link href="/news/rreetm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636dd9a6c1bbc3157c34933a_fab1.png" rel="enclosure" type="image/png" length="2063413"/>
-    <summary>Sim: MSFS. RPSimulations has recently released their rendition of the EMB-312 Embraer Tucano for Microsoft Flight Simulator, a low-wing single-turboprop basic trainer aircraft developed in Brazil by Embraer in partnership with the Brazilian Air Force (sponsorship). Designed in 1979, it took off for the first time in August 1980, and got its first production units in 1983. With a production span of 16 years, 664 units were built in total, operated by the Air Forces of Argentina, Brazil and Egypt. It was Embraerâs first international success. It features a highly detailed cockpit with PBR textures, an animated canopy, in-sim checklist, smoke effects, custom liveries, animated pilots, dimmable interior lights, and freedom to use either of the seats. The complete feature list follows down below: â Itâs available onÂ FlightSim.toÂ for $19.90, requiring at least 2.2 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/oadmaf</id>
-    <title>Orbx Announces Detroit Metropolitan Airport for X-Plane 12 and MSFS</title>
-    <updated>2022-11-11T00:00:00+00:00</updated>
-    <link href="/news/oadmaf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636e0378385263770baab23d_dtw1.png" rel="enclosure" type="image/png" length="2149364"/>
-    <summary>Sim: X-Plane. Orbx has just announced their latest project: Detroit Metropolitan Airport (KDTW) for X-Plane 12 and Microsoft Flight Simulator, with the XP version to come first. According to theirÂ announcement post, itâs developed by a group of independent developers, using real-world drawings and exclusive access to the airport as reference.Â  With a yearly average of 35 million passengers, DTW Â is among the busiest airports in the United States, serving the city of Detroit, Toledo (Ohio), and part of Ontario in Canada. Itâs a hub for Delta Airlines, with over 50% of the market share, followed by Endeavor Air and Spirit Airlines, with 12.95% and 11.69%, respectively. Itâs DALâs gateway to Asia for the eastern US, with frequent flights to Shanghai, Seoul, and Tokyo. Popular routes to Europe include Amsterdam, Paris and Frankfurt.Â  The complete feature list follows down below: They have also stated the intent to develop a Detroit City Pack and Coleman A. Young International Airport as a complement for the Microsoft Flight Simulator version.Â  There is no information on a potential release date or pricing, but weâll keep you updated.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/asrbfm</id>
     <title>Aerosoft Releases Baden for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637c1cb90669e17eeec5d258_essacover.jpg" rel="enclosure" type="image/jpeg" length="319919"/>
     <summary>Sim: MSFS. Orbx has made aÂ forum postÂ with updates on the development of Stockholm-Arlanda V2 (ESSA) for Microsoft Flight Simulator. It is the largest airport in the country, with a yearly average of 26 million passengers (70% international, 30% domestic). It serves Metropolitan Stockholm and known as the gateway to most of Sweden.Â   Itâs a hub for Scandinavian Airlines and Eurowings Europe, and a focus city for Finnair, Novair, and Ryanair. London is the most popular European destination, with nearly 2 million passengers shared between Heathrow and Gatwick, followed by Copenhagen with 1,394,000. International-wise, Dubai tops the chart with 302000, followed by Doha with 284000, and the United States with 278000.  They have partnered with Jetstream Designs (creator of Paris-Orly, Toulouse, and Linate, among many others) and are âmoving forward quicklyâ, with Terminal 5 to reach completion soon. The scenery will feature custom GSE items, and high-quality ortho imagery with an updated high-res mesh, âto be showcased soonâ.Â   In regard to a potential P3D and X-Plane version, they say it will be looked at once the scenery is out, âas long as there is a market for it at that point.â  The developer made aÂ Facebook pageÂ with progress updates and screenshots.  Thereâs no information on pricing and release date yet. Stay tuned to Threshold for more flight simulation news! Thanks to Luke on our Discord for the scoop! â</summary>
     <published>2022-11-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/trmufx</id>
+    <title>Toliss Releases Major Update for A340-600</title>
+    <updated>2022-11-22T00:00:00+00:00</updated>
+    <link href="/news/trmufx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637d19ca14369c697e5feb80_706093809_A340-600-2021-11-0321_19_14.png.1d10b954a4a6df9706959c35682af4ec.png" rel="enclosure" type="image/png" length="1104000"/>
+    <summary>Sim: X-Plane. Toliss have been hard at work to release their newest update on the A340-600 that most people have been waiting for. We can now see a completion of their EFB, CPDLC has been introduced and now has native support for Mac M1 users. Version 1.2 of the Toliss A340 contains lots of new features to enhance the userâs experience when flying in the sim such as being able to communicate to Air Traffic Controllers via the Hoppie Network and also to calculate accurate performance data for takeoff and landing using their newly updated EFB. On the EFB, you will see an interactive checklist that you can customize to your liking by changing the XML files. You will also see that you can obtain a METAR through the EFB for any user-selectable airport. A new feature that Toliss has worked on is the compatibility for Mac users by adding M1 chip support to allow for better performance when using the aircraft. â A full changelog for Version 1.2 can be seen below: Major new features: - EFB TO performance calculator for detailed TO performance calculation considering Anti Ice, Packs, etc. - EFB LDG performance calculator including METAR retrieval (X-plane 11 and X-plane 12 built-in weather) for user-selectable airport - EFB interactive checklist page with user-customizable checklists via xml files. - CPDLC integration based on the Hoppie network - Native M1 support on Mac OS. Â  Minor new features: - Added icing model to our custom engine model - Added option to always use the simbrief wind data for wind requests (independent of x-plane WX setting) - Texture improvements - Added pilot models in external view Â  Bug fixes: - Fixed chocks logic for start with engines running - Improved anti-ice operation in XP12 - Selecting an RNP value of 0.3NM or less with an RNAV approach will make it an RNP-AR approach - Improved glide slope capture behaviour - Improvements to Direct To function with abeam points - Fixed decals on rear doors - Fixed kink in passenger window frame on left side of mid fuselage If you are looking to fly the Toliss A340 for X-Plane then why not head to the X-Plane.org Store to make the purchase for $67.49. This product is currently on sale for $67.49 which is 25% off, please be aware when this sale ends the price will go back to $89.99. Â  Keep your eyes peeled for further news made by Threshold!</summary>
+    <published>2022-11-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mrbufm</id>
+    <title>Microsoft Releases Beta Update 1.29.30.0 for MSFS</title>
+    <updated>2022-11-23T00:00:00+00:00</updated>
+    <link href="/news/mrbufm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637d741cf1312cb102f80d38_airbus1.png" rel="enclosure" type="image/png" length="545674"/>
+    <summary>Sim: MSFS. Microsoft has released another beta update (1.29.30.0) to Microsoft Flight Simulator, addressing issues with the iniBuilds A310-300 and the Software Development Kit. Most notably, the SimBrief integration (flight plan import) is back, sound improvements were made (including the GPWS), the mitigation of some FMS crashes, top of descent no longer triggering too early, and texture fixes in the cockpit (trim wheel and yoke).Â  The complete changelog follows down below: â Textures: â â EFB/IFE: â â Sounds: â â FMC/Systems: â â SDKÂ  â Please refer to thisÂ guideÂ for instructions on how to join the public beta to install the aforementioned update. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-23T00:00:00+00:00</published>
   </entry>
 </feed>
