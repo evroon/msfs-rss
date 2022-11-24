@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-23T18:25:50.957015+00:00</updated>
+  <updated>2022-11-24T18:26:43.744529+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asrbfm</id>
-    <title>Aerosoft Releases Baden for MSFS</title>
-    <updated>2022-11-11T00:00:00+00:00</updated>
-    <link href="/news/asrbfm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636e6d2b8b7123cd5515064d_edsb_11.jpg" rel="enclosure" type="image/jpeg" length="380753"/>
-    <summary>Sim: MSFS. Aerosoft has just released their newest scenery Karlsruhe/Baden-Baden airport for Microsoft Flight Simulator 2020. Known as the international airport for Karlsruhe, Baden is a focus airport for Ryanair which operates routes over the majority of Spain and some other destinations within Europe. The airport was initially a military aerodrome in 1951 and then closed in 1994 to be turned into a regional airport as well as a business park. In 2001, the first commercial flights took place to destinations Ibiza and Palma De Mallorca by a former airline, Hapag-Lloyd Flug (now TUI fly Deutschland.) Below, you will find a list of key features Aerosoft have included in their newest scenery. Â  This scenery is available for purchase on the Aerosoft website and will cost â¬15.08. You will also need roughly 5GB of storage for the scenery to be installed.Â  Let us know your thoughts and keep your eyes peeled for future news!</summary>
-    <published>2022-11-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mr4aeu</id>
     <title>Microsoft Releases 40th Anniversary Edition Update for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637d741cf1312cb102f80d38_airbus1.png" rel="enclosure" type="image/png" length="545674"/>
     <summary>Sim: MSFS. Microsoft has released another beta update (1.29.30.0) to Microsoft Flight Simulator, addressing issues with the iniBuilds A310-300 and the Software Development Kit. Most notably, the SimBrief integration (flight plan import) is back, sound improvements were made (including the GPWS), the mitigation of some FMS crashes, top of descent no longer triggering too early, and texture fixes in the cockpit (trim wheel and yoke).Â  The complete changelog follows down below: â Textures: â â EFB/IFE: â â Sounds: â â FMC/Systems: â â SDKÂ  â Please refer to thisÂ guideÂ for instructions on how to join the public beta to install the aforementioned update. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mrsafm</id>
+    <title>MK Studios Releases Sevilla Airport for MSFS</title>
+    <updated>2022-11-24T00:00:00+00:00</updated>
+    <link href="/news/mrsafm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637f811e667b8007173ffbb0_sevilla1.png" rel="enclosure" type="image/png" length="2093802"/>
+    <summary>Sim: MSFS. MK Studios has just released their rendition of Sevilla Airport (LEZL) for Microsoft Flight Simulator, the main international airport in Western Andalusia (Spain), averaging 6 million passengers per year before the pandemic. Mainly served by Vueling and Ryanair, itâs also visited by Air France, British Airways, easyJet, Iberia, Lufthansa, TAP Air Portugal, and many others, forming a significant network of domestic and intra-european routes.Â  â The scenery features high-fidelity 3D modeling, detailed apron and surrounding areas, hand-corrected orthoimagery, custom DEM mesh, PBR texturing, current ground layout, realistic night lighting, and optimized for good performance.  Itâs available onÂ Orbx DirectÂ for approximately $16.95, requiring at least 2.05GB of free disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2022-11-24T00:00:00+00:00</published>
   </entry>
 </feed>
