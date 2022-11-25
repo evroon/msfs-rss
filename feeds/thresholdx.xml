@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-24T18:26:43.744529+00:00</updated>
+  <updated>2022-11-25T18:26:11.872401+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mr4aeu</id>
-    <title>Microsoft Releases 40th Anniversary Edition Update for MSFS</title>
-    <updated>2022-11-11T00:00:00+00:00</updated>
-    <link href="/news/mr4aeu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636eace77326516cd172c5aa_a1.png" rel="enclosure" type="image/png" length="2507698"/>
-    <summary>Sim: MSFS. Microsoft has just released the long-awaited 40th Anniversary Edition update (SU11) for Microsoft Flight Simulator, bringing twelve new aircraft, four classic commercial airports, fourteen heliports and twenty-four classic missions. It is the most substantial update to date in terms of new content. âThe aircraft list includes seven classics (1903 Wright Flyer, 1915 Curtiss JN-4 Jenny, 1927 Ryan NYP Spirit of St. Louis, 1935 Douglas DC-3, 1937 Grumman G-21 Goose, 1947 Havilland DHC-2 Beaver, 1947 Hughes H-4 Hercules), two helicopters (Guimbal Cabri G2, Bell 407), two sailplanes/gliders (DG Aviation LS8-18, DG-1001E neo) and a true-to-life airliner (A310-300).  âAirport-wise, we have the addition of Hong Kong Kai Tak, Chicago Meigs Field, Princess Juliana International (St. Maarten), and First Flight Airport in Kitty Hawk. The update also includes VRAM management improvements to the DX12 version, along with the addition of AMD FSR2 and Nvidia DLSS 3 (including frame generator). â The complete feature list follows down below: 7 classic aircraft: 2 sailplanes/gliders: 1 true-to-life airliner: 4 iconic airports: 24 classic activities from previous Flight Simulator titles: 7 new tutorial missions for Gliders: New features The new update is available right now on the Microsoft Store and Steam, requiring at least 41 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ssraia</id>
     <title>ST Simulations Releases Akureyri International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637f811e667b8007173ffbb0_sevilla1.png" rel="enclosure" type="image/png" length="2093802"/>
     <summary>Sim: MSFS. MK Studios has just released their rendition of Sevilla Airport (LEZL) for Microsoft Flight Simulator, the main international airport in Western Andalusia (Spain), averaging 6 million passengers per year before the pandemic. Mainly served by Vueling and Ryanair, itâs also visited by Air France, British Airways, easyJet, Iberia, Lufthansa, TAP Air Portugal, and many others, forming a significant network of domestic and intra-european routes.Â  â The scenery features high-fidelity 3D modeling, detailed apron and surrounding areas, hand-corrected orthoimagery, custom DEM mesh, PBR texturing, current ground layout, realistic night lighting, and optimized for good performance.  Itâs available onÂ Orbx DirectÂ for approximately $16.95, requiring at least 2.05GB of free disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2022-11-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddrmdm</id>
+    <title>Digital Design Releases Moscow Domodedovo for MSFS</title>
+    <updated>2022-11-25T00:00:00+00:00</updated>
+    <link href="/news/ddrmdm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6380aa6abfcba73f6cae286c_domo1.jpg" rel="enclosure" type="image/jpeg" length="493718"/>
+    <summary>Sim: MSFS. Digital Design has recently released their rendition of Moscow Domodedovo Airport (UUDD) for Microsoft Flight Simulator, the second busiest of the four major airports in Moscow, and the eighth in Europe, with an average of 30 million passengers per year. Itâs the hub for Red Wings, S7, Smartavia, and Ural Airlines, covering the domestic market with a significant route network. It doesnât get much international action because of recent political events.Â   The scenery features highly detailed airport objects, fully modeled terminal interiors, high-resolution textures, customized ground textures for realistic winter looks, animated airport vehicles, custom jetways, animated people in the terminals, and custom aerial imagery.  Itâs available onÂ SimMarketÂ for $20.82, requiring at least 2.9 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-25T00:00:00+00:00</published>
   </entry>
 </feed>
