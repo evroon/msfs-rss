@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-27T18:24:45.013918+00:00</updated>
+  <updated>2022-11-28T18:26:39.991544+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/urtram</id>
-    <title>UK2000 Releases Telluride Regional Airport for MSFS</title>
-    <updated>2022-11-12T00:00:00+00:00</updated>
-    <link href="/news/urtram" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/636f21310710dedd803ff66d_tex2.png" rel="enclosure" type="image/png" length="2482311"/>
-    <summary>Sim: MSFS. UK2000 Scenery has just released their rendition of Telluride Regional Airport (KTEX) for Microsoft Flight Simulator, the highest commercial airport in the United States, and the second highest overall in the country, only behind Leadville Airport. The yearly passenger figures are around 17.000, with Denver being the most popular destination in terms of sheer volume.Â   The airport is famous for providing a challenging approach because of the surrounding geography, runway length, and steep glide path angle (3.55 on 9 and 4.0 on 27). The 2167 meters of runway feel a lot shorter because of the elevation.Â   The scenery features high-detail buildings, realistic ground markings, high-resolution ground imagery, night effects, FPS-oriented optimization, custom vegetation, PBR materials, both tower and terminal with a modeled interior, and optional static aircraft.  Itâs available onÂ FlightSim.toÂ for $9.99 and on theirÂ websiteÂ for Â£9.99, requiring at least 105 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cdrbfx</id>
-    <title>Chudoba Design Releases Bucharest for X-Plane</title>
-    <updated>2022-11-13T00:00:00+00:00</updated>
-    <link href="/news/cdrbfx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637067d70a791e53e63f04b8_31-600x338.png" rel="enclosure" type="image/png" length="62954"/>
-    <summary>Sim: X-Plane. Chudoba Design have recently released their version of Bucharest Henri CoandÄ International Airport for X-Plane 11 and X-Plane 12. Known as Romaniaâs busiest international airport, Otopeni is located North of the highly populated Bucharest city which offers a major tourist attraction to tourists all around the world due to its iconic landmarks. The airport has seen well over 14 million passengers back in 2019. However, In 2020 the airport had seen almost a 60% decrease in total passengers for that year due to the COVID pandemic. Bucharest Henri CoandÄ International Airport offers a choice of numerous airlines that fly all around Europe and some parts of Middle-East Asia. There are two runways available at Otopeni International which are parallel to each other and are of the same length of 3500m. Below, is a list of key features this scenery contains: â â This airport scenery is available to purchase on SimMarket for $16.99 and will require at least 2GB of free space to be installed into X-Plane.Â  Â  Keep your eyes peeled for future news from Threshold!</summary>
-    <published>2022-11-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fhrwca</id>
-    <title>Fly 2 High Releases Warsaw Chopin Airport for MSFS</title>
-    <updated>2022-11-14T00:00:00+00:00</updated>
-    <link href="/news/fhrwca" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63729ffa7bd823f6a37ed48a_wa1.png" rel="enclosure" type="image/png" length="2342725"/>
-    <summary>Sim: MSFS. Fly 2 High has recently released their rendition of Warsaw Chopin Airport (EPWA) for Microsoft Flight Simulator, the busiest airport in Poland with nearly 19 million passengers in 2019, amounting to 40% of the nationâs total traffic in that year. Itâs the central hub for LOT Polish Airlines, and focus city for Enter Air, Smartwings Poland, SprintAir, and WizzAir.Â   Warsaw is regularly served by many major airlines such as Air China, Air France, British Airways, Finnair, Lufthansa, and Scandinavian. The main destinations are London Heathrow (1 million passengers), Paris Charles de Gaulle, Kyiv-Boryspil/Kyiv-Zhuliany, Frankfurt, and Amsterdam (500.000 each).Â   The scenery features working VDGS modules (Aerosoft VDGS), a high-detail rendition of the airport, terraforming, PBR materials, custom aerial imagery, animated jetways, and custom static vehicles and objects.  Itâs available onÂ FlightSim.toÂ for $18.00, requiring at least 3.7 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ahpalm</id>
-    <title>Aeroplane Heaven Previews Avro Lancaster for MSFS</title>
-    <updated>2022-11-14T00:00:00+00:00</updated>
-    <link href="/news/ahpalm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6372a853adf43d9d13449cf9_avro1.jpg" rel="enclosure" type="image/jpeg" length="1002204"/>
-    <summary>Sim: MSFS. Shortly after publishing aÂ teaserÂ on Facebook hinting at its eventual arrival, Aeroplane Heaven published some screenshots of their upcoming Avro Lancaster for Microsoft Flight Simulator, a British WW2 heavy bomber introduced in February 1942. Powered by four Rolls-Royce Merlin engines with 1280 horse power each, an impressive wingspan of 31.09 meters and able to cruise at 282 miles per hour with a load of 63,000 lb and a range of 2530 miles, it played a significant role during the aerial offensive over Europe. â Announced inÂ JanuaryÂ with preview images of the Self-Defense turret, they have not previewed anything else since. The current preview doesnât say much, aside from the fact itâs still being developed and shaping up. Stay tuned to Threshold for more information on the Avro Lancaster and all things flight simulation! â</summary>
-    <published>2022-11-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fxsf50</id>
     <title>FlightFX Announces Release Date for SF50 Vision Jet</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63829cb4b222def75e3b76c4_oslo1.jpg" rel="enclosure" type="image/jpeg" length="708886"/>
     <summary>Sim: MSFS. JustSim has just released their rendition of Oslo Gardermoen (ENGM) for Microsoft Flight Simulator, serving the city of Oslo in Norway and boasting a network of 26 domestic and 158 international destinations, amounting to an average of 28 million passengers a year. Itâs the busiest airport in the country.  It is a hub for Flyr, Norse Atlantic, Scandinavian Airlines, and Wideroe, responsible for the busiest domestic routes, with almost 8 million passengers a year heading to Trondheim, Bergen, Stavanger, or Tromso.Â   The scenery features an accurate representation of Gardermoen as it currently stands, with an updated ground layout, custom jetways, a deicing area, and landside objects.Â   Itâs available onÂ SimMarketÂ for roughly $24.37, requiring at least 3.35 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lrmxup</id>
+    <title>Leonardo Releases Maddog X Update</title>
+    <updated>2022-11-27T00:00:00+00:00</updated>
+    <link href="/news/lrmxup" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6383f26163dc0a6168eee986_leo1.png" rel="enclosure" type="image/png" length="2051648"/>
+    <summary>Sim: MSFS. Leonardo Software House has recently released an update to their Maddog for Microsoft Flight Simulator, bringing feature parity with the P3D version by adding ACARS, CPDLC, integration with SimBrief and GSX Pro, and several bug fixes. The changelog follows down below: â ******1.1b123 - 27/11/2022****** MSFS2020 edition â &gt;&gt;&gt;&gt;[NEW] - GSX Pro integration; - Simbrief integration for automatic download of latest OFP from EFB; â &gt;&gt;&gt;&gt;[FIXED] SYSTEMS - fixed issue with autoland align mode; - fixed issue that caused FMS in descent to slow down to 250kt below FL100 even if restriction was cancelled; - fixed issue in Load Manager where in some cases routes created with the LM where not availables as coroute in the FMS; - fixed issue with cockpit flood light; - fixed issue in fms not loading approaches in certain airports; - cabin pax light now dimmed also when seat belt switch on, reduced lights when dimmed (when off ground); - improved holdings; - added all missing ACARS pages; - added weather clients for METAR/ATIS (VATSIM/IVAO) and CPDLC; - added printing of ACARS message to physical printer or Pushover app; - OFP selection in EFB is now from a sorted list of files; EFFECTS - fixed issue with effects with latest MSFS version; - reworked contrails effect; 3D MODEL - fixed hole in the upper left vc window border; - fixed issue with missing reflections in instruments glass; DOCUMENTATION - updated User Manual, Quick Guide and EFB Manual; OTHER - added tray application MDClient to overcome limitation of the sandboxed environment; - removed routes folder from the aircraft folder, the common routes folder under Maddog X Files it is now used; - moved PM calls and attendant voices to the 'VOICES' slider in MSFS; - improved first-load MSFS compile time. AsÂ previously stated,Â the integration took a while because they had to develop a âbridgeâ to interact with the sandboxed environment of Microsoft Flight Simulator, allowing it to communicate with external applications. According to their statement, the âbreakoutâ will also pave the way for future expansions and a return to normal development pace.Â  The Maddog is available onÂ SimMarketÂ for roughly $77.81, requiring at least 298 MB of free disk space to install.Â  Credits to Saffa-Jake on Discord for the scoop, and the images are courtesy of thoar. Stay tuned to Threshold for more flight simulation news! â â â</summary>
+    <published>2022-11-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orltim</id>
+    <title>Orbx Releases Lamezia Terme International for MSFS</title>
+    <updated>2022-11-28T00:00:00+00:00</updated>
+    <link href="/news/orltim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384d182003dfe5a8a21703b_lica1.png" rel="enclosure" type="image/png" length="1936494"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Lamezia Terme International Airport (LICA) for Microsoft Flight Simulator, the principal airport of Calabria, with a yearly average of 3 million passengers. Regularly visited by ITA, Ryanair, Edelweiss, easyJet, and WizzAir, the traffic peaks during the summer, where other airlines also fly down to Calabria, such as Air Transat, Austrian, Condor, Eurowings, Finnair, Smartwings and Transavia.Â   The airport opened in June 1976, with the first modernization and expansion happening in 1982. Recently, the runway was extended from the original 2,414 meters to 3,017 meters. In 2008, Engco won a competition to design a newÂ passenger terminal, aiming to expand the limited capacity of the old one, which grew unable to handle such volume. The idea was to build the new one while progressively demolishing the old terminal, keeping both functioning simultaneously until the progress was finally complete. Due to lack of funding, the plans never came to fruition.Â   The scenery features a detailed representation of the entire airport area, with an up-to-date layout (as of October 2022) featuring the new extended apron and the runway extension, custom static aircraft (an AB 412 and a Canadair CL-415 that operate at the airport), projected mesh groundpoly, custom GSE and clutter, an animated radar, and custom taxi signs and approach lighting.Â   Itâs available onÂ Orbx DirectÂ for roughly $16.49, requiring at least 2.79 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bawrcs</id>
+    <title>Boris Audio Works Releases Cirrus SR-22 Sound Set for MSFS</title>
+    <updated>2022-11-28T00:00:00+00:00</updated>
+    <link href="/news/bawrcs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384d7e6c7b43ad6ce2ddc42_boris.png" rel="enclosure" type="image/png" length="1922471"/>
+    <summary>Sim: MSFS. Known for their work on the freeware FlyByWire A32NX, and the Cirrus Sound Set for X-Plane, Boris Audio Works has released their Cirrus SR-22 sound set for Microsoft Flight Simulator, after 9 months of development and 50 hours of high fidelity recordings from a real airplane with an industry-standard microphone. Itâs only compatible with the Deluxe Edition of MSFS, which has the SR-22 among the extra aircraft lineup.Â   The feature list follows down below: -Interior and exterior engine sounds, -Avionics and ventilation fans, -Levers, buttons, and switches, -Flaps, -Ground roll, -Wind and cabin air vent whistle sounds, -Differences of sound when on ground vs. in air, -and much more.  Itâs available onÂ the Threshold Store for $15.00, and on SimMarketÂ for roughly $15.56, requiring at least 12 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/trtafm</id>
+    <title>TropicalSim Releases Trieste Airport for MSFS</title>
+    <updated>2022-11-28T00:00:00+00:00</updated>
+    <link href="/news/trtafm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384ed25f9f58a6766e0c279_trop1.png" rel="enclosure" type="image/png" length="1008795"/>
+    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Trieste Airport, also known as Aeroporto Friuli-Venezia Giulia (LIPQ), for Microsoft Flight Simulator. With nearly 800.000 passengers a year, TRS serves the city of Trieste in Italy and its surroundings, with a catchment area nearing 5 million people due to the proximity to the border with Slovenia, Austria, and Croatia.Â   Itâs frequently visited by Ryanair with 8 destinations (Bari, Cagliari, Catania, London Stansted, Malta, Naples, Palermo, and Valencia), with three more to come shortly (Barcelona, Charleroi, Â and Dublin). Lufthansa also flies to Trieste from Frankfurt and ITA Airways from Rome.Â   The founding of Trieste Airport is unknown, but the first mention of it dates back to November 1935, when it housed a wing of the Royal Italian Air Force. Commercial operations took off in December 1961.Â   The scenery features a high-detail rendition of the airport as it currently stands, with native MSFS night lighting, animated jetways, seamless integration with the default Bing imagery, usage of SDK materials and native gITF models, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $17.12, requiring at least 770 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-28T00:00:00+00:00</published>
   </entry>
 </feed>

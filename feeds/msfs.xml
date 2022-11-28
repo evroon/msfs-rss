@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-11-27T18:24:44.410996+00:00</updated>
+  <updated>2022-11-28T18:26:38.936098+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2022-11-11T23:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-10th-2022-development-update/</id>
-    <title>November 10th, 2022 Development Update</title>
-    <updated>2022-11-11T00:28:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-10th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Parorng-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="78726"/>
-    <summary>Screenshot by Parorng (Forum) Tomorrow we will be releasing the free 40th Anniversary Edition update to Microsoft Flight Simulator. This is the biggest update to MSFS since its initial release in 2020, and it has been a huge labor of love and source of pride for the development team. To our millions of loyal fans and sim pilots, from … Continued</summary>
-    <published>2022-11-11T00:28:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-for-40th-anniversary-edition-sim-update-11-1-29-27-0-now-available/</id>
-    <title>Release Notes for 40th Anniversary Edition/Sim Update 11 (1.29.28.0) Now Available</title>
-    <updated>2022-11-11T16:02:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-for-40th-anniversary-edition-sim-update-11-1-29-27-0-now-available/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Flight-Simulator-40th-Anniversary-Key-Art-a35ec8afa52df3066341-1024x576.png" rel="enclosure" type="image/png" length="240515"/>
-    <summary>Release Notes for Version 1.29.28.0 (Sim Update 11) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2022-11-11T16:02:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/msfs-40th-anniversary-sale/</id>
     <title>MSFS 40th Anniversary Sale</title>
     <updated>2022-11-11T18:10:22+00:00</updated>
@@ -77,5 +59,23 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/pommes_l-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="69243"/>
     <summary>It has been six days since the release of the 40th Anniversary Edition, and we are incredibly thrilled and humbled by the reaction from our player community! We’ve loved reading all your comments and watching your videos as you experience the helicopters, gliders, new planes, and favorite airports from the past such as Meigs and Kai Tak.</summary>
     <published>2022-11-18T00:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-24th-2022-development-update/</id>
+    <title>November 24th, 2022 Development Update</title>
+    <updated>2022-11-24T23:46:17+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-24th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/EPPRglider81-Forum-1024x410.jpg" rel="enclosure" type="image/jpeg" length="24761"/>
+    <summary>Screenshot by EPPRglider81 (Forum) To all our virtual aviators in the United States, we here at Microsoft Flight Simulator wish you a very happy Thanksgiving! As many members of our team are US-based and are currently visiting family for the holiday long weekend, this week’s Development Update Blog will be abbreviated. We’ll be back with … Continued</summary>
+    <published>2022-11-24T23:46:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/black-friday-sale/</id>
+    <title>Black Friday Sale</title>
+    <updated>2022-11-25T17:00:59+00:00</updated>
+    <link href="https://www.flightsimulator.com/black-friday-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/MSFS_BlackFridaySale2022_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122716"/>
+    <summary>For 4 Days starting on November 25th, save up to 83% on more than 900 items.</summary>
+    <published>2022-11-25T17:00:59+00:00</published>
   </entry>
 </feed>
