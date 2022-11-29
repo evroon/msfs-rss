@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-28T18:26:39.991544+00:00</updated>
+  <updated>2022-11-29T18:24:58.611113+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fxsf50</id>
-    <title>FlightFX Announces Release Date for SF50 Vision Jet</title>
-    <updated>2022-11-15T00:00:00+00:00</updated>
-    <link href="/news/fxsf50" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6373d0b6cca66d2d388e15a3_VJ%20Launch%20Final.jpeg" rel="enclosure" type="image/jpeg" length="164830"/>
-    <summary>Sim: MSFS. Nick Sdoucos and the FlightFX team has announced the release date and pricing for their rendition of the SF50 Vision Jet for Microsoft Flight Simulator. Bringing an all-new business jet to the MSFS. The Vision Jet has been included in both XP11 and XP12 packages right out of the box, but FlightFX has taken the challenge to create one of the most notable small jets in flight simulation. Nick from FlightFX has stated in his press release: It was also stated in the press release that the team is already at work preparing additionalÂ enhancements that will come in later updates which will include the refresh of the WT G3000. In addition to the team trying to capture the experience of flying in this aircraft. The SF50 Vision Jet will be available on the Marketplace on November 22, 2022, with a price of $24.99. Pre-release streams from TwoToneMurphy and TheFlyingFabio will available for users to tune in and see the aircraft for themselves before purchasing,</summary>
-    <published>2022-11-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mrnbum</id>
-    <title>Microsoft Releases New Beta Update for MSFS</title>
-    <updated>2022-11-17T00:00:00+00:00</updated>
-    <link href="/news/mrnbum" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63768baa272c5a36cf3c36cc_40th_Anniversary.png" rel="enclosure" type="image/png" length="804433"/>
-    <summary>Sim: MSFS. Microsoft has recently updated the Microsoft Flight Simulator beta branch to version 1.29.29.0, fixing specific CTDs related to missing or malformed waypoint, VOR or NDB, along with a patch for the newly released IniBuilds A310-300 that includes improvements to the electronic flight bag, sound tweaks, improved intercept calculation methodology on all SIDs/STARs, and lighting fixes. The complete changelog follows down below: â General Bug Fixes Several crashes have been fixed across the title â Fixed potential crash when requesting missing or malformed Waypoint / VOR / NDB â Guimbal Cabri G2 occluder has been improved to match the cockpit â â Airbus A310-300 Textures Parking Brake spelling fixed Some low-res textures improved on Base version EFB/IFE EFB - Added automatic METAR lookup based on To/From Airports â EFB - Auto-populate Wind, Temperature, Runway Condition and QNH from the METAR â EFB - Added manual METAR Search â EFB - Added ability to enter numbers on flight planning page, as well as sliders for PAX, cargo and fuel (Click the text) â EFB - Removed sound volume sliders â IFE - Fixed erroneous ETA to destination â Sounds Master audio control is now through in-game settings â Fixes to volume levels â Fixed AI A310 volume levels being too loud â Fixed AI A310 rolloff distance being too great â Fixed directionality of APU noise â Fixed audio at rear of cabin being too quiet â Tweaks to interior attenuation â Tweaks to engine sounds â Tweaks to engine/apu start sounds and their event cues â Tweaks to brake fan and packs system sounds â Adjustments to ground rolling audio â Tooltips Hard coded aircraft type for external applications that were showing TT: â Fixed spelling error in trivia text â Chronometer tooltip fixed â ND Brightness tooltip fixed â Switches â WX radar switch fixed â Cameras â Fixed Showcase QuickView4 under belly camera â ATC Updated default livery ATC callsigns â Lighting â Cockpit lights toggled with L key bind â Control Keybinds â AP commands can now be bound to default key commands â FMC/FMS â Xbox fixed need to press A twice to enter characters on the MCDU â Improved intercept calculation methodology on all SIDs/STARs â FO VOR gauge animation fixed â FMS Cruise Temp can now be edited â Numerous FMS crashes fixed â If you want to join the beta branch, refer to this guide. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jpnffd</id>
-    <title>Just Flight Publishes New Fokker F28 Development Update</title>
-    <updated>2022-11-17T00:00:00+00:00</updated>
-    <link href="/news/jpnffd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637699361dace64e9e1af253_fokker1.png" rel="enclosure" type="image/png" length="2423283"/>
-    <summary>Sim: MSFS. Just Flight has recently published another Fokker F28Â development updateÂ concerning its current state. In relation to last monthâs update, they have implemented fully animated passenger and cargo doors, wheel chocks, and cones around the airplane. They also state the visual work is pretty much complete at this point.  They have also begun working on the F28 systems, which are unique to the aircraft, increasing the complexity and requiring close collaboration with their testing team of ex-F28 specialists (pilots, engineers, training crew) to ensure maximum fidelity. âYou certainly wonât be mistaking this aircraft for your typical airliner!â says the developer.  The aircraft is now in a flyable state, with all animations, cockpit instrumentation, annunciators, and basic systems. It is now undergoing testing by their team. â  Credits to DragonRuins for the news scoop. Stay tuned to Threshold for further updates on the F28 development and more! â</summary>
-    <published>2022-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nafscs</id>
     <title>Navigraph Announces FlightSim Community Survey 2022</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384ed25f9f58a6766e0c279_trop1.png" rel="enclosure" type="image/png" length="1008795"/>
     <summary>Sim: MSFS. TropicalSim has recently released their rendition of Trieste Airport, also known as Aeroporto Friuli-Venezia Giulia (LIPQ), for Microsoft Flight Simulator. With nearly 800.000 passengers a year, TRS serves the city of Trieste in Italy and its surroundings, with a catchment area nearing 5 million people due to the proximity to the border with Slovenia, Austria, and Croatia.Â   Itâs frequently visited by Ryanair with 8 destinations (Bari, Cagliari, Catania, London Stansted, Malta, Naples, Palermo, and Valencia), with three more to come shortly (Barcelona, Charleroi, Â and Dublin). Lufthansa also flies to Trieste from Frankfurt and ITA Airways from Rome.Â   The founding of Trieste Airport is unknown, but the first mention of it dates back to November 1935, when it housed a wing of the Royal Italian Air Force. Commercial operations took off in December 1961.Â   The scenery features a high-detail rendition of the airport as it currently stands, with native MSFS night lighting, animated jetways, seamless integration with the default Bing imagery, usage of SDK materials and native gITF models, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $17.12, requiring at least 770 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mrpafm</id>
+    <title>Microsoft Releases Patch 1.29.30.0 for MSFS</title>
+    <updated>2022-11-28T00:00:00+00:00</updated>
+    <link href="/news/mrpafm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6385351cbb8ea76ae93ffbb1_aib2.png" rel="enclosure" type="image/png" length="724870"/>
+    <summary>Sim: MSFS. Microsoft has recently made patch 1.29.30.0 available on the normal branch of Microsoft Flight Simulator, fixing several crashes, an issue with the Guimbal Cabri G2, and a potential crash when requesting missing or malformed waypoint, VOR or NDB, along with a major update to the iniBuilds A310-300, including improvements to the EFB and overall performance, texture fixes, revamped audio (including AI), mitigation of FMS crashes, and the Top of Descent now triggers when it should.Â  The complete changelog follows down below: â General Bug Fixes â Airbus A310-300 â Known Issue Accessing the secondary flight plan without a primary flight plan entered may cause the aircraft to lock-up. Textures EFB/IFE â Sounds â FMC/Systems â â Tooltips â ATC â SDK Microsoft Flight Simulator is available on the Microsoft Store and on Steam, starting from $69.99, requiring at least 150 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2022-11-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baarst</id>
+    <title>BMWorld and AmSim Release Seattle-Tacoma for MSFS</title>
+    <updated>2022-11-29T00:00:00+00:00</updated>
+    <link href="/news/baarst" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638647698be4d403721765a1_sea1.png" rel="enclosure" type="image/png" length="1770240"/>
+    <summary>Sim: MSFS. BEAUTIFUL MODEL of the World and AmSim teamed up to build a rendition of Seattle-Tacoma International Airport (KSEA) for Microsoft Flight Simulator, released earlier today. Sea-Tac is the busiest airport in the Pacific Northwest, with over 50 million passengers per year (before the pandemic), serving both Seattle and Tacoma, situated almost equidistantly between both (23 km away from Downtown Seattle and 29 km away from Downtown Tacoma).Â Â   Itâs the hub for Alaska and Delta, with a huge domestic network covering both the west and east of the United States, along with several international routes with either Delta or the several other airlines that visit Seattle everyday, such as Air Canada, American Airlines, British Airways, Japan Airlines, Turkish Airlines, and Virgin Atlantic. It totals up to 91 domestic and 28 international destinations!  The scenery features animated jetways, custom ground markings, high-resolution ground textures and dirt, surrounding buildings, night lighting, and parallax windows.Â   Itâs available onÂ Orbx DirectÂ for $22.75, requiring at least 2.01 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tdpale</id>
+    <title>Tailstrike Designs Prague Airport Landing in Early December for MSFS</title>
+    <updated>2022-11-29T00:00:00+00:00</updated>
+    <link href="/news/tdpale" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63864d94ee4a3b1216f75c8a_prg01.jpg" rel="enclosure" type="image/jpeg" length="538436"/>
+    <summary>Sim: MSFS. Tailstrike Designs made an announcement on theirÂ DiscordÂ with a release date and further information on the upcoming VÃ¡clav Havel Airport Prague (LKPR) for Microsoft Flight Simulator, which should be landing on the 5th of December. With 85 years of history and a yearly average of 15 million passengers, PRG is the main gateway to the country, home to Czech Airlines and Smartwings.Â   Aside from CSA and TVS, itâs also a base for Eurowings Europe and Ryanair, with a significant route network both intra-european and transcontinentally. Itâs regularly visited by Aer Lingus, airBaltic, Air France, Austrian Airlines, Brussels Airlines, easyJet, Emirates, Finnair, Iberia, KLM, Korean Air, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, United Airlines, and many other. Amsterdam, Paris and Moscow are among the three busiest destinations in terms of passenger volume.  The scenery will include Aerosoft VDGS, highly detailed models with photoreal textures, custom runway, taxiway, apron, and stands layout, modeled terminal interiors, accurate taxiway signage, custom airport service road traffic, accurate terrain slope, high resolution aerial imagery, custom jetways per pier, and stands with accurate parking codes.Â   Thereâs aÂ trailerÂ for the product which is still private, but should be made available on the 5th. Thereâs no information regarding pricing and install size yet.Â  Shout out to Tang0 on Discord for the scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-11-29T00:00:00+00:00</published>
   </entry>
 </feed>
