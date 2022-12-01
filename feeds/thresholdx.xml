@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-11-30T18:27:04.194427+00:00</updated>
+  <updated>2022-12-01T18:26:33.915260+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/trmufx</id>
-    <title>Toliss Releases Major Update for A340-600</title>
-    <updated>2022-11-22T00:00:00+00:00</updated>
-    <link href="/news/trmufx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637d19ca14369c697e5feb80_706093809_A340-600-2021-11-0321_19_14.png.1d10b954a4a6df9706959c35682af4ec.png" rel="enclosure" type="image/png" length="1104000"/>
-    <summary>Sim: X-Plane. Toliss have been hard at work to release their newest update on the A340-600 that most people have been waiting for. We can now see a completion of their EFB, CPDLC has been introduced and now has native support for Mac M1 users. Version 1.2 of the Toliss A340 contains lots of new features to enhance the userâs experience when flying in the sim such as being able to communicate to Air Traffic Controllers via the Hoppie Network and also to calculate accurate performance data for takeoff and landing using their newly updated EFB. On the EFB, you will see an interactive checklist that you can customize to your liking by changing the XML files. You will also see that you can obtain a METAR through the EFB for any user-selectable airport. A new feature that Toliss has worked on is the compatibility for Mac users by adding M1 chip support to allow for better performance when using the aircraft. â A full changelog for Version 1.2 can be seen below: Major new features: - EFB TO performance calculator for detailed TO performance calculation considering Anti Ice, Packs, etc. - EFB LDG performance calculator including METAR retrieval (X-plane 11 and X-plane 12 built-in weather) for user-selectable airport - EFB interactive checklist page with user-customizable checklists via xml files. - CPDLC integration based on the Hoppie network - Native M1 support on Mac OS. Â  Minor new features: - Added icing model to our custom engine model - Added option to always use the simbrief wind data for wind requests (independent of x-plane WX setting) - Texture improvements - Added pilot models in external view Â  Bug fixes: - Fixed chocks logic for start with engines running - Improved anti-ice operation in XP12 - Selecting an RNP value of 0.3NM or less with an RNAV approach will make it an RNP-AR approach - Improved glide slope capture behaviour - Improvements to Direct To function with abeam points - Fixed decals on rear doors - Fixed kink in passenger window frame on left side of mid fuselage If you are looking to fly the Toliss A340 for X-Plane then why not head to the X-Plane.org Store to make the purchase for $67.49. This product is currently on sale for $67.49 which is 25% off, please be aware when this sale ends the price will go back to $89.99. Â  Keep your eyes peeled for further news made by Threshold!</summary>
-    <published>2022-11-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mrbufm</id>
-    <title>Microsoft Releases Beta Update 1.29.30.0 for MSFS</title>
-    <updated>2022-11-23T00:00:00+00:00</updated>
-    <link href="/news/mrbufm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637d741cf1312cb102f80d38_airbus1.png" rel="enclosure" type="image/png" length="545674"/>
-    <summary>Sim: MSFS. Microsoft has released another beta update (1.29.30.0) to Microsoft Flight Simulator, addressing issues with the iniBuilds A310-300 and the Software Development Kit. Most notably, the SimBrief integration (flight plan import) is back, sound improvements were made (including the GPWS), the mitigation of some FMS crashes, top of descent no longer triggering too early, and texture fixes in the cockpit (trim wheel and yoke).Â  The complete changelog follows down below: â Textures: â â EFB/IFE: â â Sounds: â â FMC/Systems: â â SDKÂ  â Please refer to thisÂ guideÂ for instructions on how to join the public beta to install the aforementioned update. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mrsafm</id>
-    <title>MK Studios Releases Sevilla Airport for MSFS</title>
-    <updated>2022-11-24T00:00:00+00:00</updated>
-    <link href="/news/mrsafm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/637f811e667b8007173ffbb0_sevilla1.png" rel="enclosure" type="image/png" length="2093802"/>
-    <summary>Sim: MSFS. MK Studios has just released their rendition of Sevilla Airport (LEZL) for Microsoft Flight Simulator, the main international airport in Western Andalusia (Spain), averaging 6 million passengers per year before the pandemic. Mainly served by Vueling and Ryanair, itâs also visited by Air France, British Airways, easyJet, Iberia, Lufthansa, TAP Air Portugal, and many others, forming a significant network of domestic and intra-european routes.Â  â The scenery features high-fidelity 3D modeling, detailed apron and surrounding areas, hand-corrected orthoimagery, custom DEM mesh, PBR texturing, current ground layout, realistic night lighting, and optimized for good performance.  Itâs available onÂ Orbx DirectÂ for approximately $16.95, requiring at least 2.05GB of free disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2022-11-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ddrmdm</id>
     <title>Digital Design Releases Moscow Domodedovo for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63877645b09f12d126dd36fb_brat1.jpg" rel="enclosure" type="image/jpeg" length="268524"/>
     <summary>Sim: MSFS. Aerosoft has just released their rendition of Bratislava Airport (LZIB) for Microsoft Flight Simulator, the main international airport of Slovakia, with a yearly average of 2.2 million passengers. Its slovak name (Letisko M. R. Å tefÃ¡nika) is after general Milan Rastislav Å tefÃ¡nik, victim of an airplane accident in 1919.Â   Due to its proximity to Vienna International Airport (LOWW), itâs often considered a cheaper alternative by LCCs. Itâs the hub for AirExplore and an important city for Ryanair, Smartwings, and Wizzair. Traffic gets busier during the summer, when seasonal charters take people to coastal cities like BraÄ and Antalya.Â   The scenery features aerial imagery covering the airport surroundings, optimized 3D objects, detailed passenger terminal interior, animated passengers inside the airport and in the vicinity, true-to-life logistic parks and delivery centers, and more. The complete feature list follows down below: â  Itâs available on theÂ Aerosoft ShopÂ for $16.99, requiring at least 5 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oamvou</id>
+    <title>Orbx Announces Major Volanta Update</title>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <link href="/news/oamvou" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388b90d207f340d2482fed9_vo2.png" rel="enclosure" type="image/png" length="958100"/>
+    <summary>Sim: X-Plane. Orbx has recently made aÂ forum postÂ teasing some of the features of the upcoming Volanta 1.4 update, which includes a mobile app, a new - and updated - flight schedule source, and a stream overlay. There is no information regarding a release date yet, but it is said to be coming soon. TheÂ mobile appÂ will allow premium users to track their flights remotely with statistics, route map, and the possibility to remotely pause the flight (P3D, X-Plane and FSX only). It acts as an extension of the Desktop application, and easening tasks such as taxiing, thanks to taxiway labels and gate information, specially for users with just one monitor.Â  Itâs going to be available on the App Store and Google Play once 1.4 is out.Â   TheÂ new flight schedule sourceÂ is FlightAware, increasing the quality and quantity of the data available, with reliability on the flight number, aircraft type, etc.Â  TheÂ stream overlayÂ will provide a dynamically updated and customizable overlay for streamers, with information such as callsign, departure, arrival, ETA, ground speed and vertical speed.Â   TheÂ Discord Rich PresenceÂ is also getting a revamp, with more information shown, such as simulator in use, aircraft type, and a button that takes you straight to the flight on Volantaâs website. â  The built-in roster system, introduced on Volanta 1.2, has been improved, allowing users to schedule flights outside the real-world scheduling system, making it possible to plan out your entire daily schedule or maybe that long sought after world tour. They conclude the announcement with the information that there is more to come, currently being worked on.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nssrji</id>
+    <title>Northern Sky Studio Releases Juneau International for MSFS</title>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <link href="/news/nssrji" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388ea7ba249e65c71d473c8_pajn1.png" rel="enclosure" type="image/png" length="1159915"/>
+    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Juneau International Airport (PAJN) for Microsoft Flight Simulator, serving a city with no direct road access to the outside world, making it extremely important for the townsfolk to get around. Itâs a regional hub for all air travel, ranging from tiny carriers to big players such as Alaska Airlines. According to 2020 statistics, the yearly average is around 300,000 passengers. Alaska Airlines comprehends 87% of the yearly traffic figures, transporting people to six destinations (Anchorage, Ketchikan, Petersburg, Seattle-Tacoma, Sitka, and Yakutat). The other 13% are shared between minor regional airlines such as Alaska Seaplanes and Harris Air. The scenery features a detailed replica of the airport, with custom surroundings, PBR materials, shading and occlusion on all buildings, high-resolution textures, native gITF models, and custom ortophoto for the airport and surrounding areas. Itâs available on SimMarket and OrbxDirect for roughly $17.95 and $18.11, respectively. At least 5.47 GB of free disk space is required to install the product.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tdlmps</id>
+    <title>TFDi Design Launches MD-11 Pre-Sale</title>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <link href="/news/tdlmps" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388eef3cb3c453cdfc5029b_tfdi3.png" rel="enclosure" type="image/png" length="984334"/>
+    <summary>Sim: MSFS. TFDi Design has recently announced the launch of a Collectorâs Edition of their MD-11, with a limited run of 1000 copies priced at $80 each, granting early access to the aircraft once the beta is out, an extended range variant, and a special certificate for all the early customers. The complete feature list of the limited edition follows down below:  The developers plan to release the aircraft to the public in September 2023, with early supporters able to fly it earlier and provide direct feedback to the developers. They have also made a statement on the pricing plan for the product, with the base edition coming at $70 (passenger or freighter), $10 extra to have both variants, and $5 for the extended simulation package. The Collectorâs Edition includes everything for $5 less.Â  The pre-order is available on theirÂ websiteÂ for $80. Thereâs no information on system requirements as of now. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-01T00:00:00+00:00</published>
   </entry>
 </feed>
