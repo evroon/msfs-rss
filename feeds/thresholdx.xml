@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-01T18:26:33.915260+00:00</updated>
+  <updated>2022-12-02T18:23:02.906747+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ddrmdm</id>
-    <title>Digital Design Releases Moscow Domodedovo for MSFS</title>
-    <updated>2022-11-25T00:00:00+00:00</updated>
-    <link href="/news/ddrmdm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6380aa6abfcba73f6cae286c_domo1.jpg" rel="enclosure" type="image/jpeg" length="493718"/>
-    <summary>Sim: MSFS. Digital Design has recently released their rendition of Moscow Domodedovo Airport (UUDD) for Microsoft Flight Simulator, the second busiest of the four major airports in Moscow, and the eighth in Europe, with an average of 30 million passengers per year. Itâs the hub for Red Wings, S7, Smartavia, and Ural Airlines, covering the domestic market with a significant route network. It doesnât get much international action because of recent political events.Â   The scenery features highly detailed airport objects, fully modeled terminal interiors, high-resolution textures, customized ground textures for realistic winter looks, animated airport vehicles, custom jetways, animated people in the terminals, and custom aerial imagery.  Itâs available onÂ SimMarketÂ for $20.82, requiring at least 2.9 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jrofms</id>
-    <title>JustSim Releases Oslo Gardermoen for MSFS</title>
-    <updated>2022-11-26T00:00:00+00:00</updated>
-    <link href="/news/jrofms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63829cb4b222def75e3b76c4_oslo1.jpg" rel="enclosure" type="image/jpeg" length="708886"/>
-    <summary>Sim: MSFS. JustSim has just released their rendition of Oslo Gardermoen (ENGM) for Microsoft Flight Simulator, serving the city of Oslo in Norway and boasting a network of 26 domestic and 158 international destinations, amounting to an average of 28 million passengers a year. Itâs the busiest airport in the country.  It is a hub for Flyr, Norse Atlantic, Scandinavian Airlines, and Wideroe, responsible for the busiest domestic routes, with almost 8 million passengers a year heading to Trondheim, Bergen, Stavanger, or Tromso.Â   The scenery features an accurate representation of Gardermoen as it currently stands, with an updated ground layout, custom jetways, a deicing area, and landside objects.Â   Itâs available onÂ SimMarketÂ for roughly $24.37, requiring at least 3.35 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lrmxup</id>
-    <title>Leonardo Releases Maddog X Update</title>
-    <updated>2022-11-27T00:00:00+00:00</updated>
-    <link href="/news/lrmxup" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6383f26163dc0a6168eee986_leo1.png" rel="enclosure" type="image/png" length="2051648"/>
-    <summary>Sim: MSFS. Leonardo Software House has recently released an update to their Maddog for Microsoft Flight Simulator, bringing feature parity with the P3D version by adding ACARS, CPDLC, integration with SimBrief and GSX Pro, and several bug fixes. The changelog follows down below: â ******1.1b123 - 27/11/2022****** MSFS2020 edition â &gt;&gt;&gt;&gt;[NEW] - GSX Pro integration; - Simbrief integration for automatic download of latest OFP from EFB; â &gt;&gt;&gt;&gt;[FIXED] SYSTEMS - fixed issue with autoland align mode; - fixed issue that caused FMS in descent to slow down to 250kt below FL100 even if restriction was cancelled; - fixed issue in Load Manager where in some cases routes created with the LM where not availables as coroute in the FMS; - fixed issue with cockpit flood light; - fixed issue in fms not loading approaches in certain airports; - cabin pax light now dimmed also when seat belt switch on, reduced lights when dimmed (when off ground); - improved holdings; - added all missing ACARS pages; - added weather clients for METAR/ATIS (VATSIM/IVAO) and CPDLC; - added printing of ACARS message to physical printer or Pushover app; - OFP selection in EFB is now from a sorted list of files; EFFECTS - fixed issue with effects with latest MSFS version; - reworked contrails effect; 3D MODEL - fixed hole in the upper left vc window border; - fixed issue with missing reflections in instruments glass; DOCUMENTATION - updated User Manual, Quick Guide and EFB Manual; OTHER - added tray application MDClient to overcome limitation of the sandboxed environment; - removed routes folder from the aircraft folder, the common routes folder under Maddog X Files it is now used; - moved PM calls and attendant voices to the 'VOICES' slider in MSFS; - improved first-load MSFS compile time. AsÂ previously stated,Â the integration took a while because they had to develop a âbridgeâ to interact with the sandboxed environment of Microsoft Flight Simulator, allowing it to communicate with external applications. According to their statement, the âbreakoutâ will also pave the way for future expansions and a return to normal development pace.Â  The Maddog is available onÂ SimMarketÂ for roughly $77.81, requiring at least 298 MB of free disk space to install.Â  Credits to Saffa-Jake on Discord for the scoop, and the images are courtesy of thoar. Stay tuned to Threshold for more flight simulation news! â â â</summary>
-    <published>2022-11-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orltim</id>
-    <title>Orbx Releases Lamezia Terme International for MSFS</title>
-    <updated>2022-11-28T00:00:00+00:00</updated>
-    <link href="/news/orltim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384d182003dfe5a8a21703b_lica1.png" rel="enclosure" type="image/png" length="1936494"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Lamezia Terme International Airport (LICA) for Microsoft Flight Simulator, the principal airport of Calabria, with a yearly average of 3 million passengers. Regularly visited by ITA, Ryanair, Edelweiss, easyJet, and WizzAir, the traffic peaks during the summer, where other airlines also fly down to Calabria, such as Air Transat, Austrian, Condor, Eurowings, Finnair, Smartwings and Transavia.Â   The airport opened in June 1976, with the first modernization and expansion happening in 1982. Recently, the runway was extended from the original 2,414 meters to 3,017 meters. In 2008, Engco won a competition to design a newÂ passenger terminal, aiming to expand the limited capacity of the old one, which grew unable to handle such volume. The idea was to build the new one while progressively demolishing the old terminal, keeping both functioning simultaneously until the progress was finally complete. Due to lack of funding, the plans never came to fruition.Â   The scenery features a detailed representation of the entire airport area, with an up-to-date layout (as of October 2022) featuring the new extended apron and the runway extension, custom static aircraft (an AB 412 and a Canadair CL-415 that operate at the airport), projected mesh groundpoly, custom GSE and clutter, an animated radar, and custom taxi signs and approach lighting.Â   Itâs available onÂ Orbx DirectÂ for roughly $16.49, requiring at least 2.79 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bawrcs</id>
     <title>Boris Audio Works Releases Cirrus SR-22 Sound Set for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388eef3cb3c453cdfc5029b_tfdi3.png" rel="enclosure" type="image/png" length="984334"/>
     <summary>Sim: MSFS. TFDi Design has recently announced the launch of a Collectorâs Edition of their MD-11, with a limited run of 1000 copies priced at $80 each, granting early access to the aircraft once the beta is out, an extended range variant, and a special certificate for all the early customers. The complete feature list of the limited edition follows down below:  The developers plan to release the aircraft to the public in September 2023, with early supporters able to fly it earlier and provide direct feedback to the developers. They have also made a statement on the pricing plan for the product, with the base edition coming at $70 (passenger or freighter), $10 extra to have both variants, and $5 for the extended simulation package. The Collectorâs Edition includes everything for $5 less.Â  The pre-order is available on theirÂ websiteÂ for $80. Thereâs no information on system requirements as of now. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lrcivf</id>
+    <title>LuchoDev Releases Chacalluta International V2 for MSFS</title>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <link href="/news/lrcivf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6389011d96601a72c16e2352_arica1.jpg" rel="enclosure" type="image/jpeg" length="716909"/>
+    <summary>Sim: MSFS. LuchoDev has just released the second version of their Chacalluta International Airport (SCAR) for Microsoft Flight Simulator, serving the city of Arica in Chile. Itâs visited by over 200,000 passengers yearly (according toÂ Cointer), served by JetSmart, LATAM Chile, and Sky Airline, all domestically.  The scenery aims to represent the airport as itâs going to look after the current remodeling finishes, featuring an accurate representation of the upcoming terminal, a fire station, the control tower, and the DGAC sector buildings. Version 2 improves the terminal redesign while adding new areas, building upgrades on the DGAC sector, custom jetways, improved runway lights, PBR textures, more buildings, and several bug fixes.  Itâs available onÂ SimMarketÂ for roughly $14.53, requiring at least 323 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gsrvim</id>
+    <title>Gaya Simulations Releases Vienna International v2 for MSFS</title>
+    <updated>2022-12-02T00:00:00+00:00</updated>
+    <link href="/news/gsrvim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a286685446b76caa9111e_vie1.png" rel="enclosure" type="image/png" length="2043471"/>
+    <summary>Sim: MSFS. Gaya Simulations has recently released the second version of their Vienna International Airport (LOWW) for Microsoft Flight Simulator, overhauling the airport based on customer feedback, and adding custom ground service equipment.Â   VIE is the largest and busiest Austrian airport, with over 30 million passengers in 2019. Itâs home to Austrian Airlines, with 48% of the annual figures (as of 2021), with many intra-european and intercontinental routes. Ryanair and WizzAir take another significant chunk, with 18% and 8%, respectively, and a wide network of intra-european routes to minor and major airports.Â   The updated scenery features the aforementioned overhaul, custom GSE, new true-to-life jetways, improved object placement across the airport, fixed AFCAD for AI traffic, fixed taxiway lights, static AI removal, better optimization, and more. The complete changelog/feature list follows down below:  â¢ New true-to-life jetways models for all terminals with all new billboards and advertising. â¢ New Gaya GSE: beautiful and fully custom Vienna-specific ground service equipment. â¢ Overhauled object placement throughout the airport, improving visuals and accuracy. â¢ Fixed AI traffic (FSLTL). â¢ Fixed AFCAD for AI traffic. â¢ Fixed taxiway lights, including the addition of orange and blue lights in the W area. â¢ Static AI removed. â¢ Fixed TIN/Imagery bug from World Update 6. â¢ Added Solar Farm south of RWY11/29 â¢ Added LODs to all objects. â¢ Optimized normal map sizes for Xbox compatibility. â¢ Fixed missing parking positions and improved spawn positions. â¢ Fixed vegetation to fit new satellite imagery. â¢ Fixed some terraforming issues. â¢ Many quality of life fixes, such as fence placement, jetblast fences, taxi signs, etc. â¢ Supporting an on release community-made GSX profile  The V2 upgrade is a free update to previous owners onÂ Orbx Direct, with the Marketplace and Xbox version to release soon. Itâs available on Orbx for $15.14 (48 hour v2 sale. Original price is roughly $21.65). At least 4.82 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2022-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fstefm</id>
+    <title>FlightSim Studio Teases Embraer 175 for MSFS</title>
+    <updated>2022-12-02T00:00:00+00:00</updated>
+    <link href="/news/fstefm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a30c5c78b99b09e1b8d42_aviationlads01.png" rel="enclosure" type="image/png" length="1117508"/>
+    <summary>Sim: MSFS. FlightSim Studio AG has just released a teaser video in partnership with AviationLads teasing their upcoming Embraer 175 for Microsoft Flight Simulator, a regional jet used by many airlines around the globe. There is no information other than external shots showcasing different liveries, model details, and sounds.Â   The video producer, AviationLads, made aÂ postÂ on Facebook indicating more content down the line (further showcasing the product), which is still in development.Â   The Embraer 175 is one of the four variants of the Embraer E-Jets, seating from 78 to 88 passengers in different class configurations, and with a range of 3334 kilometers on the standard variant (1800 nautical miles). Itâs operated by 12 airlines around the World, with SkyWest being the largest operator (193 aircraft). Republic Airways is the second with 163, and Envoy Air takes the third place with 98.Â   Thereâs no information regarding pricing, release date, or system depth yet. Stay tuned to Threshold for further updates on the E175 and more! â</summary>
+    <published>2022-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/drabim</id>
+    <title>DominicDesignTeam Releases Austin-Bergstrom International for MSFS</title>
+    <updated>2022-12-02T00:00:00+00:00</updated>
+    <link href="/news/drabim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a3703e1c2984fff723fe0_kaus1.png" rel="enclosure" type="image/png" length="1582742"/>
+    <summary>Sim: MSFS. DominicDesignTeam has just released their rendition of Austin-Bergstrom International (KAUS) for Microsoft Flight Simulator, serving the Greater Austin metropolitan area with a yearly average of 16 million passengers. Built on what remained of what once used to be the Bergstrom Air Force Base, it is now the third busiest airport in Texas, with over 76 destinations (domestic and international) and approximately 510 arrivals and departures on a typical weekday as of 2018.  It is an important airport for Southwest Airlines, which takes 34% of the market share as of 2021, followed by American Airlines and Delta, with 22% and 13%, respectively. Destination-wise, Los Angeles is the most popular, with 543000 passengers. Dallas and Atlanta are second and third, with 530000 and 513000, respectively.Â   The scenery features PBR textures, dynamic lighting, true-to-life ground markings, custom hand-crafted pavement with imperfections and dirt, custom jetways, custom animated objects, passengers, and airport buses.  Itâs available onÂ SimMarketÂ for roughly $19.85, requiring at least 870 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-02T00:00:00+00:00</published>
   </entry>
 </feed>

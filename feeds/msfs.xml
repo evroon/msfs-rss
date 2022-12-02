@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-12-01T18:26:33.101611+00:00</updated>
+  <updated>2022-12-02T18:23:01.559389+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/msfs-40th-anniversary-sale/</id>
-    <title>MSFS 40th Anniversary Sale</title>
-    <updated>2022-11-11T18:10:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs-40th-anniversary-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/40th-Anniversary-900items-1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="96701"/>
-    <summary>For 4 Days starting on November 11th, save up to 83% on more than 900 items.</summary>
-    <published>2022-11-11T18:10:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/ironsim-sale/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/MSFS_BlackFridaySale2022_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122716"/>
     <summary>For 4 Days starting on November 25th, save up to 83% on more than 900 items.</summary>
     <published>2022-11-25T17:00:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/december-1st-2022-development-update/</id>
+    <title>December 1st, 2022 Development Update</title>
+    <updated>2022-12-02T00:34:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-1st-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/12/ukaka5656-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="43759"/>
+    <summary>Screenshot by ukaka5656 (Twitter) This week will be the last full Development Update Blog for 2022. We will continue to bring you Marketplace Updates on December 8, 15, and 29, and the main blog will return starting January 5, 2023. Thank you for making 2022 a great year for MSFS! Looking back on the year, … Continued</summary>
+    <published>2022-12-02T00:34:42+00:00</published>
   </entry>
 </feed>
