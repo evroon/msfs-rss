@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-02T18:23:02.906747+00:00</updated>
+  <updated>2022-12-03T18:23:19.791944+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bawrcs</id>
-    <title>Boris Audio Works Releases Cirrus SR-22 Sound Set for MSFS</title>
-    <updated>2022-11-28T00:00:00+00:00</updated>
-    <link href="/news/bawrcs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384d7e6c7b43ad6ce2ddc42_boris.png" rel="enclosure" type="image/png" length="1922471"/>
-    <summary>Sim: MSFS. Known for their work on the freeware FlyByWire A32NX, and the Cirrus Sound Set for X-Plane, Boris Audio Works has released their Cirrus SR-22 sound set for Microsoft Flight Simulator, after 9 months of development and 50 hours of high fidelity recordings from a real airplane with an industry-standard microphone. Itâs only compatible with the Deluxe Edition of MSFS, which has the SR-22 among the extra aircraft lineup.Â   The feature list follows down below: -Interior and exterior engine sounds, -Avionics and ventilation fans, -Levers, buttons, and switches, -Flaps, -Ground roll, -Wind and cabin air vent whistle sounds, -Differences of sound when on ground vs. in air, -and much more.  Itâs available onÂ the Threshold Store for $15.00, and on SimMarketÂ for roughly $15.56, requiring at least 12 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/trtafm</id>
-    <title>TropicalSim Releases Trieste Airport for MSFS</title>
-    <updated>2022-11-28T00:00:00+00:00</updated>
-    <link href="/news/trtafm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6384ed25f9f58a6766e0c279_trop1.png" rel="enclosure" type="image/png" length="1008795"/>
-    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Trieste Airport, also known as Aeroporto Friuli-Venezia Giulia (LIPQ), for Microsoft Flight Simulator. With nearly 800.000 passengers a year, TRS serves the city of Trieste in Italy and its surroundings, with a catchment area nearing 5 million people due to the proximity to the border with Slovenia, Austria, and Croatia.Â   Itâs frequently visited by Ryanair with 8 destinations (Bari, Cagliari, Catania, London Stansted, Malta, Naples, Palermo, and Valencia), with three more to come shortly (Barcelona, Charleroi, Â and Dublin). Lufthansa also flies to Trieste from Frankfurt and ITA Airways from Rome.Â   The founding of Trieste Airport is unknown, but the first mention of it dates back to November 1935, when it housed a wing of the Royal Italian Air Force. Commercial operations took off in December 1961.Â   The scenery features a high-detail rendition of the airport as it currently stands, with native MSFS night lighting, animated jetways, seamless integration with the default Bing imagery, usage of SDK materials and native gITF models, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $17.12, requiring at least 770 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mrpafm</id>
     <title>Microsoft Releases Patch 1.29.30.0 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a3703e1c2984fff723fe0_kaus1.png" rel="enclosure" type="image/png" length="1582742"/>
     <summary>Sim: MSFS. DominicDesignTeam has just released their rendition of Austin-Bergstrom International (KAUS) for Microsoft Flight Simulator, serving the Greater Austin metropolitan area with a yearly average of 16 million passengers. Built on what remained of what once used to be the Bergstrom Air Force Base, it is now the third busiest airport in Texas, with over 76 destinations (domestic and international) and approximately 510 arrivals and departures on a typical weekday as of 2018.  It is an important airport for Southwest Airlines, which takes 34% of the market share as of 2021, followed by American Airlines and Delta, with 22% and 13%, respectively. Destination-wise, Los Angeles is the most popular, with 543000 passengers. Dallas and Atlanta are second and third, with 530000 and 513000, respectively.Â   The scenery features PBR textures, dynamic lighting, true-to-life ground markings, custom hand-crafted pavement with imperfections and dirt, custom jetways, custom animated objects, passengers, and airport buses.  Itâs available onÂ SimMarketÂ for roughly $19.85, requiring at least 870 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inidtw</id>
+    <title>iniBuilds Releases Detroit Metropolitan Airport for MSFS</title>
+    <updated>2022-12-02T00:00:00+00:00</updated>
+    <link href="/news/inidtw" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a5e961f68a81acfcfe77a_detroit1.png" rel="enclosure" type="image/png" length="2062251"/>
+    <summary>Sim: MSFS. iniBuilds has just released their rendition of Detroit Metropolitan Wayne County Airport (KDTW) for Microsoft Flight Simulator, Michiganâs busiest airport with a yearly average of 36 million passengers. Itâs a Major hub for Delta Airlines, with a 39 state domestic route network and serving as their gateway to Asia from the East Coast.  DTW is categorized by the FAAâs National Plan of Integrated Airport Systems as a large hub primary commercial service facility, with six runways, two terminals, and one hundred twenty nine gates, and a maintenance structure large enough to service a 747-400.Â   Along with Delta (50%), Endeavor Air (12.95%) and Spirit Airlines (11.69%) take a significant chunk of the yearly passenger figure. Atlanta (696,000), Orlando (619,000), and Las Vegas (531,000) are the most popular destinations, operated by DAL, NKS and FFT.Â   The scenery features hand-made ground textures, true-to-life airport landside recreation, animated train in the McNamara terminal, hand-placed ground service equipment, static de-icing vehicles, LOD (Level of Detail) Optimization, and more. The complete feature list follows down below: â Itâs available on theÂ iniBuilds StoreÂ for roughly $22.05, requiring at least 4.72 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msrafx</id>
+    <title>Mountain Scenery Releases ALPS for X-Plane 12</title>
+    <updated>2022-12-03T00:00:00+00:00</updated>
+    <link href="/news/msrafx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638b741fd5db463992fb990b_alps1.jpg" rel="enclosure" type="image/jpeg" length="332734"/>
+    <summary>Sim: X-Plane. Frank Dainese and Fabio Bellini have recently released the ALPS UHD package for X-Plane 12, covering 8000 square kilometers of alpine area between Italy, France, and Switzerland. It includes four main packages: Eiger Park, Matterhorn Park, Aosta, and Mont Blanc, along with the main peaks of the Alps.  The aforementioned packages feature an accurate reconstruction with 3D models and photographic textures, with all the major cities and towns with their respective custom building placement (churches, stations, monuments, public buildings, etc.) and houses that match the local architecture. All major airports and airfields are included (5 main airports, 15 airfields, and 46 heliports), with their respective characteristics. The complete feature list follows down below: Itâs available on the X-Plane.Org Store for $49.95 with a 17% discount (default price is $59.95), requiring at least 3.3 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-03T00:00:00+00:00</published>
   </entry>
 </feed>
