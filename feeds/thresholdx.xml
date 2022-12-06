@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-05T18:24:57.918423+00:00</updated>
+  <updated>2022-12-06T18:25:12.916952+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ssrana</id>
-    <title>Sierrasim Simulation Releases Antonio NariÃ±o Airport for X-Plane </title>
-    <updated>2022-11-30T00:00:00+00:00</updated>
-    <link href="/news/ssrana" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63876d7514c0205a7d922c71_pasto1.jpg" rel="enclosure" type="image/jpeg" length="1853382"/>
-    <summary>Sim: X-Plane. Sierrasim Simulation has just released their rendition of Antonio NariÃ±o Airport (SKPS) for X-Plane 11 and 12, located in ChachagÃ¼Ã­ (Colombia) and serving the city of Pasto (popularly known as Pasto Airport). With its table top runway built on a plateau and an elevation of 5,951 feet with only 2,312 meters of runway length, one of the trickiest approaches in Colombia. It is often rendered useless during certain days because of crosswinds that make takeoff and arrivals an impossible - and unsafe - task, especially in August.Â   The visitor's list includes Avianca and Latam Colombia, with routes to BogotÃ¡ and Cali, EasyFly to Cali, and Viva Air Colombia to Cartagena and MedellÃ­n. The overall figure amounts to 330,000 passengers yearly (as of 2019).Â   The scenery features textures and models based on aerial imagery, photo-realistic PBR textures for buildings and vehicles, orthophoto, sloped runway, performance-focused optimization, and more. The complete feature list follows down below:  Itâs available on SimMarket for $11.39, requiring at least 774 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/arbafm</id>
-    <title>Aerosoft Releases Bratislava Airport for MSFS</title>
-    <updated>2022-11-30T00:00:00+00:00</updated>
-    <link href="/news/arbafm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63877645b09f12d126dd36fb_brat1.jpg" rel="enclosure" type="image/jpeg" length="268524"/>
-    <summary>Sim: MSFS. Aerosoft has just released their rendition of Bratislava Airport (LZIB) for Microsoft Flight Simulator, the main international airport of Slovakia, with a yearly average of 2.2 million passengers. Its slovak name (Letisko M. R. Å tefÃ¡nika) is after general Milan Rastislav Å tefÃ¡nik, victim of an airplane accident in 1919.Â   Due to its proximity to Vienna International Airport (LOWW), itâs often considered a cheaper alternative by LCCs. Itâs the hub for AirExplore and an important city for Ryanair, Smartwings, and Wizzair. Traffic gets busier during the summer, when seasonal charters take people to coastal cities like BraÄ and Antalya.Â   The scenery features aerial imagery covering the airport surroundings, optimized 3D objects, detailed passenger terminal interior, animated passengers inside the airport and in the vicinity, true-to-life logistic parks and delivery centers, and more. The complete feature list follows down below: â  Itâs available on theÂ Aerosoft ShopÂ for $16.99, requiring at least 5 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-11-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/oamvou</id>
     <title>Orbx Announces Major Volanta Update</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638e2c2e145661f624e2e103_p401.png" rel="enclosure" type="image/png" length="1298377"/>
     <summary>Sim: MSFS. iniBuilds has just released their rendition of the Curtiss P-40F Warhawk for Microsoft Flight Simulator, a single-engined classic fighter first flown in 1938. It was the third most produced American fighter in WW2, with 13,738 units by the end of the production cycle in late 1944, playing an important role during the war, used by most allied powers.   From the hot and dry Deserts of the Middle East to the dampness of Europe, the Warhawk has been everywhere in WW2, with over 200 allied fighter pilots becoming aces flying the P-40. It remained in active use well after the War, by Brazil, Egypt, Finland, and Turkey. The Brazilian Air Force was the last to retire their fleet, in 1954. The iniBuilds P-40F features the latest in CFD (Computational Fluid Dynamics) implementation from Microsoft, including the primary flight surfaces, control surfaces, and the propeller, with an authentically modeled Merlin engine which performs close to real-life figures (with feedback from type-rated pilots), a fully modeled fuel system, an electronic flight bag with maintenance page, moving map, radios, and weather information. The complete feature list follows down below: â The airplane is available on the iniBuilds Store for roughly $18.43, requiring at least 2.99 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kausmfs</id>
+    <title>Dominic DesignTeam Releases AustinâBergstrom International Airport (KAUS) for Microsoft Flight Simulator</title>
+    <updated>2022-12-06T00:00:00+00:00</updated>
+    <link href="/news/kausmfs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638ef23655f464fbf8202b53_Screenshot%202022-12-06%20at%201.41.38%20AM.png" rel="enclosure" type="image/png" length="4150568"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Dominic DesignTeam released their rendition of AustinâBergstrom International Airport (KAUS) for Microsoft Flight Simulator. The product will bring the Texas airport to life with high quality models, customized objects such as signs and passengers, and detailed textures. 	According to the developers, the scenery will feature PBR textures, dynamic lighting, and custom jetways. Additionally, for added realism, all pavements have been âpainstakingly hand-craftedâ and ground markings have been modeled based on the real life airport. 	AustinâBergstrom International Airport, located 5 miles from Austin downtown, is one of the main international airports serving the city. It provides flights to some 75 destinations around the world. Top operators at the airport include Southwest, Delta, and American Airlines. Currently, Dominic DesignTeamâs Austin Airport can be purchased on simMarket for $18.99 USD or EUR 20.10, excluding any sales taxes that may incur. The developers recommend at least 870M of free space in order to successfully install the product.</summary>
+    <published>2022-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksrvn</id>
+    <title>MK Studios Updates Rovaniemi Airport for MSFS</title>
+    <updated>2022-12-06T00:00:00+00:00</updated>
+    <link href="/news/mksrvn" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638f7b34fdc31d1a20d021ba_efro1.png" rel="enclosure" type="image/png" length="1117127"/>
+    <summary>Sim: MSFS. MK Studios has recently released an update to their rendition of Rovaniemi Airport (EFRO) for Microsoft Flight Simulator, the third busiest airport in Finland with 500,000 passengers per year. Itâs visited by many airlines during the winter season, which includes Aer Lingus, Air France, easyJet, Eurowings, Ryanair, Transavia, and Turkish Airlines.Â   Built in 1940, featuring two grass runways, and used as a Luftwaffe air base and supply center during the Second Soviet-Finnish War between 1941 and 1944. Rebuilding work started in 1948, with regular traffic returning in the beginning of the second half of that year.Â   The current terminal building finished in 1992, with its first expansion happening in 2000 (and the inclusion of jetways). The runway underwent renovation work in 2016, with new pavement and LED lights, and 2019 marked the completion of the terminalâs third enlargement.  The scenery update added conditional visibility to the winter objects, smoke effects for cold weather, glass improvements, and general fixes. The complete feature list for the scenery follows down below: Itâs available onÂ Orbx DirectÂ for $6.69 (on sale, 50% off), requiring at least 1.23 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-06T00:00:00+00:00</published>
   </entry>
 </feed>
