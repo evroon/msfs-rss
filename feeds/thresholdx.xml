@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-06T18:25:12.916952+00:00</updated>
+  <updated>2022-12-07T18:25:07.950593+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/oamvou</id>
-    <title>Orbx Announces Major Volanta Update</title>
-    <updated>2022-12-01T00:00:00+00:00</updated>
-    <link href="/news/oamvou" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388b90d207f340d2482fed9_vo2.png" rel="enclosure" type="image/png" length="958100"/>
-    <summary>Sim: X-Plane. Orbx has recently made aÂ forum postÂ teasing some of the features of the upcoming Volanta 1.4 update, which includes a mobile app, a new - and updated - flight schedule source, and a stream overlay. There is no information regarding a release date yet, but it is said to be coming soon. TheÂ mobile appÂ will allow premium users to track their flights remotely with statistics, route map, and the possibility to remotely pause the flight (P3D, X-Plane and FSX only). It acts as an extension of the Desktop application, and easening tasks such as taxiing, thanks to taxiway labels and gate information, specially for users with just one monitor.Â  Itâs going to be available on the App Store and Google Play once 1.4 is out.Â   TheÂ new flight schedule sourceÂ is FlightAware, increasing the quality and quantity of the data available, with reliability on the flight number, aircraft type, etc.Â  TheÂ stream overlayÂ will provide a dynamically updated and customizable overlay for streamers, with information such as callsign, departure, arrival, ETA, ground speed and vertical speed.Â   TheÂ Discord Rich PresenceÂ is also getting a revamp, with more information shown, such as simulator in use, aircraft type, and a button that takes you straight to the flight on Volantaâs website. â  The built-in roster system, introduced on Volanta 1.2, has been improved, allowing users to schedule flights outside the real-world scheduling system, making it possible to plan out your entire daily schedule or maybe that long sought after world tour. They conclude the announcement with the information that there is more to come, currently being worked on.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/nssrji</id>
-    <title>Northern Sky Studio Releases Juneau International for MSFS</title>
-    <updated>2022-12-01T00:00:00+00:00</updated>
-    <link href="/news/nssrji" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388ea7ba249e65c71d473c8_pajn1.png" rel="enclosure" type="image/png" length="1159915"/>
-    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Juneau International Airport (PAJN) for Microsoft Flight Simulator, serving a city with no direct road access to the outside world, making it extremely important for the townsfolk to get around. Itâs a regional hub for all air travel, ranging from tiny carriers to big players such as Alaska Airlines. According to 2020 statistics, the yearly average is around 300,000 passengers. Alaska Airlines comprehends 87% of the yearly traffic figures, transporting people to six destinations (Anchorage, Ketchikan, Petersburg, Seattle-Tacoma, Sitka, and Yakutat). The other 13% are shared between minor regional airlines such as Alaska Seaplanes and Harris Air. The scenery features a detailed replica of the airport, with custom surroundings, PBR materials, shading and occlusion on all buildings, high-resolution textures, native gITF models, and custom ortophoto for the airport and surrounding areas. Itâs available on SimMarket and OrbxDirect for roughly $17.95 and $18.11, respectively. At least 5.47 GB of free disk space is required to install the product.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tdlmps</id>
     <title>TFDi Design Launches MD-11 Pre-Sale</title>
@@ -150,6 +132,24 @@
     <link href="/news/mksrvn" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638f7b34fdc31d1a20d021ba_efro1.png" rel="enclosure" type="image/png" length="1117127"/>
     <summary>Sim: MSFS. MK Studios has recently released an update to their rendition of Rovaniemi Airport (EFRO) for Microsoft Flight Simulator, the third busiest airport in Finland with 500,000 passengers per year. Itâs visited by many airlines during the winter season, which includes Aer Lingus, Air France, easyJet, Eurowings, Ryanair, Transavia, and Turkish Airlines.Â   Built in 1940, featuring two grass runways, and used as a Luftwaffe air base and supply center during the Second Soviet-Finnish War between 1941 and 1944. Rebuilding work started in 1948, with regular traffic returning in the beginning of the second half of that year.Â   The current terminal building finished in 1992, with its first expansion happening in 2000 (and the inclusion of jetways). The runway underwent renovation work in 2016, with new pavement and LED lights, and 2019 marked the completion of the terminalâs third enlargement.  The scenery update added conditional visibility to the winter objects, smoke effects for cold weather, glass improvements, and general fixes. The complete feature list for the scenery follows down below: Itâs available onÂ Orbx DirectÂ for $6.69 (on sale, 50% off), requiring at least 1.23 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbmyl</id>
+    <title>Orbx Announces McCall Municipal Airport for MSFS</title>
+    <updated>2022-12-06T00:00:00+00:00</updated>
+    <link href="/news/orbmyl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638fa581410b823612bbcd65_call1.jpg" rel="enclosure" type="image/jpeg" length="455971"/>
+    <summary>Sim: MSFS. Orbx has recentlyÂ announcedÂ the development and imminent release of McCall Municipal Airport (KMYL) for Microsoft Flight Simulator by an independent developer (Mark Taylor). Itâs a city-owned public-use airport in McCall, Idaho, categorized in the FAAâs National Plan of Integrated Airport Systems as a general aviation facility.Â   With 80 hectares of total area and a 1,862m long runway, McCall averages around 119 flights per day, and over 43,000 a year, with 84% of them being General Aviation flights, 16% air taxi and the remainder comprehending military traffic.Â   The scenery features realistic ground and apron texturing (including the recent apron resurfacing), true-to-life night lighting, PBR textures, extensive LOD work focusing on optimal performance, custom static aircraft, airport specific windsocks, 160+ custom objects, many custom animations, and hand placed vegetation.  Orbx plans to ensure that owners of the first version, previously released by Mark Taylor on another reseller, will be redeemable on Orbx Direct via license key.Â   The scenery landing page is availableÂ here, although itâs not available for purchase yet.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbosl</id>
+    <title>Orbx Announces Oslo Gardermoen for MSFS</title>
+    <updated>2022-12-06T00:00:00+00:00</updated>
+    <link href="/news/orbosl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638fc11ecaf33e597c68abe5_osl1.png" rel="enclosure" type="image/png" length="1758242"/>
+    <summary>Sim: MSFS. Orbx has recentlyÂ announcedÂ the development of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, the busiest airport in Norway, nearing 30 million passengers per year with almost 200 destinations. Itâs home to Flyr, Norse Atlantic Airways, and Wideroe.Â   The airportâs history dates back to 1740 when the Norwegian army used Gardermoen (then Fredericksfeldt) as a camp. It remained as such until 1860, when barracks and stalls were constructed to house more people and protect against the harsh weather. Insulated buildings were the next logical upgrade, in the early 1900s. It became an airport in 1912 when the first of many flights took off.Â   Gardermoen was taken over by the nazis during the German occupation in 1940, building the first aircraft facilities and two runways with 2,000 meters each. The Norwegian Air Force took it back as soon as WW2 ended, housing three fighter squadrons. In 1946, Braathens SAFE used the facilities as their technical base, which only lasted for two years. It was also during that period when Oslo Gardermoen became the reserve airport for Fornebu, which used to be the main airport. All the intercontinental flights were redirected to OSL because Fornebu was undergoing runway extension work. It wasnât until 1998 that Gardermoen became the main airport in Oslo.  The scenery will feature custom orthoimagery, PBR textures in 4K, interior modeling, 3 different types of animated jetways to match the real world, fully functioning VDGS on all appropriate gates, custom ground service equipment, and optimization work to warrant good performance.  It is allegedly coming in January 2023, priced at roughly $21.00. Thereâs no information on the install size yet. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-06T00:00:00+00:00</published>
   </entry>
 </feed>

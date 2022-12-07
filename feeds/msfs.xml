@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-12-06T18:25:12.382219+00:00</updated>
+  <updated>2022-12-07T18:25:07.089927+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/ironsim-sale/</id>
-    <title>IronSim Sale</title>
-    <updated>2022-11-16T19:50:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/ironsim-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/IronSimSale_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="101170"/>
-    <summary>Enjoy discounted pricing on Marketplace content from IronSim.</summary>
-    <published>2022-11-16T19:50:47+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-17th-2022-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/12/ukaka5656-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="43759"/>
     <summary>Screenshot by ukaka5656 (Twitter) This week will be the last full Development Update Blog for 2022. We will continue to bring you Marketplace Updates on December 8, 15, and 29, and the main blog will return starting January 5, 2023. Thank you for making 2022 a great year for MSFS! Looking back on the year, … Continued</summary>
     <published>2022-12-02T00:34:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-celebrates-10-million-pilots/</id>
+    <title>Microsoft Flight Simulator Celebrates 10 Million Pilots</title>
+    <updated>2022-12-07T16:24:21+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-celebrates-10-million-pilots/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/MicrosoftTeams-image-1-1024x576.png" rel="enclosure" type="image/png" length="202339"/>
+    <summary>Microsoft Flight Simulator is thrilled to mark another momentous milestone made possible by our tremendous community. Since the introduction 27 months ago of the latest version of Microsoft Flight Simulator, we have released 27 robust updates to simmers. All completely free! On 11 November, we celebrated our 40th Anniversary with the release of the Microsoft … Continued</summary>
+    <published>2022-12-07T16:24:21+00:00</published>
   </entry>
 </feed>
