@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-07T18:25:07.950593+00:00</updated>
+  <updated>2022-12-08T18:24:40.483649+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tdlmps</id>
-    <title>TFDi Design Launches MD-11 Pre-Sale</title>
-    <updated>2022-12-01T00:00:00+00:00</updated>
-    <link href="/news/tdlmps" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6388eef3cb3c453cdfc5029b_tfdi3.png" rel="enclosure" type="image/png" length="984334"/>
-    <summary>Sim: MSFS. TFDi Design has recently announced the launch of a Collectorâs Edition of their MD-11, with a limited run of 1000 copies priced at $80 each, granting early access to the aircraft once the beta is out, an extended range variant, and a special certificate for all the early customers. The complete feature list of the limited edition follows down below:  The developers plan to release the aircraft to the public in September 2023, with early supporters able to fly it earlier and provide direct feedback to the developers. They have also made a statement on the pricing plan for the product, with the base edition coming at $70 (passenger or freighter), $10 extra to have both variants, and $5 for the extended simulation package. The Collectorâs Edition includes everything for $5 less.Â  The pre-order is available on theirÂ websiteÂ for $80. Thereâs no information on system requirements as of now. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lrcivf</id>
     <title>LuchoDev Releases Chacalluta International V2 for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638fc11ecaf33e597c68abe5_osl1.png" rel="enclosure" type="image/png" length="1758242"/>
     <summary>Sim: MSFS. Orbx has recentlyÂ announcedÂ the development of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, the busiest airport in Norway, nearing 30 million passengers per year with almost 200 destinations. Itâs home to Flyr, Norse Atlantic Airways, and Wideroe.Â   The airportâs history dates back to 1740 when the Norwegian army used Gardermoen (then Fredericksfeldt) as a camp. It remained as such until 1860, when barracks and stalls were constructed to house more people and protect against the harsh weather. Insulated buildings were the next logical upgrade, in the early 1900s. It became an airport in 1912 when the first of many flights took off.Â   Gardermoen was taken over by the nazis during the German occupation in 1940, building the first aircraft facilities and two runways with 2,000 meters each. The Norwegian Air Force took it back as soon as WW2 ended, housing three fighter squadrons. In 1946, Braathens SAFE used the facilities as their technical base, which only lasted for two years. It was also during that period when Oslo Gardermoen became the reserve airport for Fornebu, which used to be the main airport. All the intercontinental flights were redirected to OSL because Fornebu was undergoing runway extension work. It wasnât until 1998 that Gardermoen became the main airport in Oslo.  The scenery will feature custom orthoimagery, PBR textures in 4K, interior modeling, 3 different types of animated jetways to match the real world, fully functioning VDGS on all appropriate gates, custom ground service equipment, and optimization work to warrant good performance.  It is allegedly coming in January 2023, priced at roughly $21.00. Thereâs no information on the install size yet. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mexfaa</id>
+    <title>Mex High Flight Releases Tahiti International for MSFS</title>
+    <updated>2022-12-08T00:00:00+00:00</updated>
+    <link href="/news/mexfaa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63913bc4204b611dbe188f28_tahiti1.png" rel="enclosure" type="image/png" length="2324223"/>
+    <summary>Sim: MSFS. Mex High Flight has recently released their rendition of Faaâa International Airport (NTAA) for Microsoft Flight Simulator, connecting Tahiti to the World. Also known as Tahiti International Airport, itâs home to Air Tahiti and Air Tahiti Nui, with domestic flights to other islands in French Polynesia and intercontinental legs to Canada, Chile, France, Japan, New Zealand, and the United States.  Aside from the local airlines, Â itâs also visited by Air France (Los Angeles and Paris), Air New Zealand (Auckland), Delta Air Lines (beginning in late December 2022, from Los Angeles), French Bee (Paris Orly and San Francisco), Hawaiian Airlines (Honolulu), and United Airlines (San Francisco). The yearly figures sit around 1.6 million passengers total. With a single, 3,420 meters long runway, Tahiti International can accommodate large aircraft such as the Boeing 747 and the Airbus A380.  The scenery features an accurate rendition of the airport, with custom ground textures, PBR texturing, realistic night lighting, hand-placed objects, realistic AFCAD, friendly framerate, and GSX compatibility.  Itâs available on SimMarket for $18.40, requiring at least 513MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-08T00:00:00+00:00</published>
   </entry>
 </feed>
