@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-08T18:24:40.483649+00:00</updated>
+  <updated>2022-12-09T18:24:39.693543+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lrcivf</id>
-    <title>LuchoDev Releases Chacalluta International V2 for MSFS</title>
-    <updated>2022-12-01T00:00:00+00:00</updated>
-    <link href="/news/lrcivf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6389011d96601a72c16e2352_arica1.jpg" rel="enclosure" type="image/jpeg" length="716909"/>
-    <summary>Sim: MSFS. LuchoDev has just released the second version of their Chacalluta International Airport (SCAR) for Microsoft Flight Simulator, serving the city of Arica in Chile. Itâs visited by over 200,000 passengers yearly (according toÂ Cointer), served by JetSmart, LATAM Chile, and Sky Airline, all domestically.  The scenery aims to represent the airport as itâs going to look after the current remodeling finishes, featuring an accurate representation of the upcoming terminal, a fire station, the control tower, and the DGAC sector buildings. Version 2 improves the terminal redesign while adding new areas, building upgrades on the DGAC sector, custom jetways, improved runway lights, PBR textures, more buildings, and several bug fixes.  Itâs available onÂ SimMarketÂ for roughly $14.53, requiring at least 323 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gsrvim</id>
     <title>Gaya Simulations Releases Vienna International v2 for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/mexfaa" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63913bc4204b611dbe188f28_tahiti1.png" rel="enclosure" type="image/png" length="2324223"/>
     <summary>Sim: MSFS. Mex High Flight has recently released their rendition of Faaâa International Airport (NTAA) for Microsoft Flight Simulator, connecting Tahiti to the World. Also known as Tahiti International Airport, itâs home to Air Tahiti and Air Tahiti Nui, with domestic flights to other islands in French Polynesia and intercontinental legs to Canada, Chile, France, Japan, New Zealand, and the United States.  Aside from the local airlines, Â itâs also visited by Air France (Los Angeles and Paris), Air New Zealand (Auckland), Delta Air Lines (beginning in late December 2022, from Los Angeles), French Bee (Paris Orly and San Francisco), Hawaiian Airlines (Honolulu), and United Airlines (San Francisco). The yearly figures sit around 1.6 million passengers total. With a single, 3,420 meters long runway, Tahiti International can accommodate large aircraft such as the Boeing 747 and the Airbus A380.  The scenery features an accurate rendition of the airport, with custom ground textures, PBR texturing, realistic night lighting, hand-placed objects, realistic AFCAD, friendly framerate, and GSX compatibility.  Itâs available on SimMarket for $18.40, requiring at least 513MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ecugal</id>
+    <title>Ecuavirtual3d Releases San CristÃ³bal City &amp; Airport for MSFS</title>
+    <updated>2022-12-08T00:00:00+00:00</updated>
+    <link href="/news/ecugal" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6392389be3fb77845d05b634_galap2.png" rel="enclosure" type="image/png" length="2256824"/>
+    <summary>Sim: MSFS. Ecuavirtual3d has just released their rendition of San CristÃ³bal de GalÃ¡pagos and its airport, San CristÃ³bal Airport (SEST), for Microsoft Flight Simulator, both in the archipelago of the GalÃ¡pagos Islands in Ecuador. The airport is served by Avianca Ecuador, Equair, and LATAM Ecuador, with flights to Guayaquil and Quito. The yearly figures sit at around 200,000 passengers.Â   With a single 1,900m long runway, the approach to both ends happens to be over the ocean, sitting just at the coast of San CristÃ³bal.Â   The scenery features a faithful replica of the airport, with accurate modeling based on original references, fully customized ground textures, custom taxiway signs, custom traffic on the avenues, a control tower with an interior, taxi routes for airplanes, and static objects, vehicles, and aircraft.  Itâs available onÂ SimMarketÂ for roughly $13.90, requiring at least 93 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-08T00:00:00+00:00</published>
   </entry>
 </feed>
