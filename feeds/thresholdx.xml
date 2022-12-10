@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-09T18:24:39.693543+00:00</updated>
+  <updated>2022-12-10T18:23:28.736887+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gsrvim</id>
-    <title>Gaya Simulations Releases Vienna International v2 for MSFS</title>
-    <updated>2022-12-02T00:00:00+00:00</updated>
-    <link href="/news/gsrvim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a286685446b76caa9111e_vie1.png" rel="enclosure" type="image/png" length="2043471"/>
-    <summary>Sim: MSFS. Gaya Simulations has recently released the second version of their Vienna International Airport (LOWW) for Microsoft Flight Simulator, overhauling the airport based on customer feedback, and adding custom ground service equipment.Â   VIE is the largest and busiest Austrian airport, with over 30 million passengers in 2019. Itâs home to Austrian Airlines, with 48% of the annual figures (as of 2021), with many intra-european and intercontinental routes. Ryanair and WizzAir take another significant chunk, with 18% and 8%, respectively, and a wide network of intra-european routes to minor and major airports.Â   The updated scenery features the aforementioned overhaul, custom GSE, new true-to-life jetways, improved object placement across the airport, fixed AFCAD for AI traffic, fixed taxiway lights, static AI removal, better optimization, and more. The complete changelog/feature list follows down below:  â¢ New true-to-life jetways models for all terminals with all new billboards and advertising. â¢ New Gaya GSE: beautiful and fully custom Vienna-specific ground service equipment. â¢ Overhauled object placement throughout the airport, improving visuals and accuracy. â¢ Fixed AI traffic (FSLTL). â¢ Fixed AFCAD for AI traffic. â¢ Fixed taxiway lights, including the addition of orange and blue lights in the W area. â¢ Static AI removed. â¢ Fixed TIN/Imagery bug from World Update 6. â¢ Added Solar Farm south of RWY11/29 â¢ Added LODs to all objects. â¢ Optimized normal map sizes for Xbox compatibility. â¢ Fixed missing parking positions and improved spawn positions. â¢ Fixed vegetation to fit new satellite imagery. â¢ Fixed some terraforming issues. â¢ Many quality of life fixes, such as fence placement, jetblast fences, taxi signs, etc. â¢ Supporting an on release community-made GSX profile  The V2 upgrade is a free update to previous owners onÂ Orbx Direct, with the Marketplace and Xbox version to release soon. Itâs available on Orbx for $15.14 (48 hour v2 sale. Original price is roughly $21.65). At least 4.82 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
-    <published>2022-12-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fstefm</id>
-    <title>FlightSim Studio Teases Embraer 175 for MSFS</title>
-    <updated>2022-12-02T00:00:00+00:00</updated>
-    <link href="/news/fstefm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a30c5c78b99b09e1b8d42_aviationlads01.png" rel="enclosure" type="image/png" length="1117508"/>
-    <summary>Sim: MSFS. FlightSim Studio AG has just released a teaser video in partnership with AviationLads teasing their upcoming Embraer 175 for Microsoft Flight Simulator, a regional jet used by many airlines around the globe. There is no information other than external shots showcasing different liveries, model details, and sounds.Â   The video producer, AviationLads, made aÂ postÂ on Facebook indicating more content down the line (further showcasing the product), which is still in development.Â   The Embraer 175 is one of the four variants of the Embraer E-Jets, seating from 78 to 88 passengers in different class configurations, and with a range of 3334 kilometers on the standard variant (1800 nautical miles). Itâs operated by 12 airlines around the World, with SkyWest being the largest operator (193 aircraft). Republic Airways is the second with 163, and Envoy Air takes the third place with 98.Â   Thereâs no information regarding pricing, release date, or system depth yet. Stay tuned to Threshold for further updates on the E175 and more! â</summary>
-    <published>2022-12-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/drabim</id>
-    <title>DominicDesignTeam Releases Austin-Bergstrom International for MSFS</title>
-    <updated>2022-12-02T00:00:00+00:00</updated>
-    <link href="/news/drabim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a3703e1c2984fff723fe0_kaus1.png" rel="enclosure" type="image/png" length="1582742"/>
-    <summary>Sim: MSFS. DominicDesignTeam has just released their rendition of Austin-Bergstrom International (KAUS) for Microsoft Flight Simulator, serving the Greater Austin metropolitan area with a yearly average of 16 million passengers. Built on what remained of what once used to be the Bergstrom Air Force Base, it is now the third busiest airport in Texas, with over 76 destinations (domestic and international) and approximately 510 arrivals and departures on a typical weekday as of 2018.  It is an important airport for Southwest Airlines, which takes 34% of the market share as of 2021, followed by American Airlines and Delta, with 22% and 13%, respectively. Destination-wise, Los Angeles is the most popular, with 543000 passengers. Dallas and Atlanta are second and third, with 530000 and 513000, respectively.Â   The scenery features PBR textures, dynamic lighting, true-to-life ground markings, custom hand-crafted pavement with imperfections and dirt, custom jetways, custom animated objects, passengers, and airport buses.  Itâs available onÂ SimMarketÂ for roughly $19.85, requiring at least 870 MB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inidtw</id>
-    <title>iniBuilds Releases Detroit Metropolitan Airport for MSFS</title>
-    <updated>2022-12-02T00:00:00+00:00</updated>
-    <link href="/news/inidtw" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638a5e961f68a81acfcfe77a_detroit1.png" rel="enclosure" type="image/png" length="2062251"/>
-    <summary>Sim: MSFS. iniBuilds has just released their rendition of Detroit Metropolitan Wayne County Airport (KDTW) for Microsoft Flight Simulator, Michiganâs busiest airport with a yearly average of 36 million passengers. Itâs a Major hub for Delta Airlines, with a 39 state domestic route network and serving as their gateway to Asia from the East Coast.  DTW is categorized by the FAAâs National Plan of Integrated Airport Systems as a large hub primary commercial service facility, with six runways, two terminals, and one hundred twenty nine gates, and a maintenance structure large enough to service a 747-400.Â   Along with Delta (50%), Endeavor Air (12.95%) and Spirit Airlines (11.69%) take a significant chunk of the yearly passenger figure. Atlanta (696,000), Orlando (619,000), and Las Vegas (531,000) are the most popular destinations, operated by DAL, NKS and FFT.Â   The scenery features hand-made ground textures, true-to-life airport landside recreation, animated train in the McNamara terminal, hand-placed ground service equipment, static de-icing vehicles, LOD (Level of Detail) Optimization, and more. The complete feature list follows down below: â Itâs available on theÂ iniBuilds StoreÂ for roughly $22.05, requiring at least 4.72 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msrafx</id>
     <title>Mountain Scenery Releases ALPS for X-Plane 12</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6392389be3fb77845d05b634_galap2.png" rel="enclosure" type="image/png" length="2256824"/>
     <summary>Sim: MSFS. Ecuavirtual3d has just released their rendition of San CristÃ³bal de GalÃ¡pagos and its airport, San CristÃ³bal Airport (SEST), for Microsoft Flight Simulator, both in the archipelago of the GalÃ¡pagos Islands in Ecuador. The airport is served by Avianca Ecuador, Equair, and LATAM Ecuador, with flights to Guayaquil and Quito. The yearly figures sit at around 200,000 passengers.Â   With a single 1,900m long runway, the approach to both ends happens to be over the ocean, sitting just at the coast of San CristÃ³bal.Â   The scenery features a faithful replica of the airport, with accurate modeling based on original references, fully customized ground textures, custom taxiway signs, custom traffic on the avenues, a control tower with an interior, taxi routes for airplanes, and static objects, vehicles, and aircraft.  Itâs available onÂ SimMarketÂ for roughly $13.90, requiring at least 93 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsgemb</id>
+    <title>FlightSim Studio Uploads New Embraer 175 Teaser Video for MSFS</title>
+    <updated>2022-12-09T00:00:00+00:00</updated>
+    <link href="/news/fsgemb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63938aabe43a3a0bf9a3da58_1756.png" rel="enclosure" type="image/png" length="1126836"/>
+    <summary>Sim: MSFS. FlightSim Studio AG, in partnership with AviationLads, has teased their Embraer 175 for Microsoft Flight Simulator again, focusing on the interior. In 44 seconds, thereâs a glimpse of the cockpit (including a cold &amp; dark power up) and the passenger cabin, with attention to interior lighting.Â   It is the second teaser so far, with the first one airingÂ last fridayÂ and showcasing the external modeling, engine sounds, and different liveries from some of the 12 real-world operators.Â   According to aÂ Facebook postÂ by AviationLads, the next teaser will be âmore technicalâ with a systems showcase, due next week.  The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   Thereâs no information regarding pricing or release date yet. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpnbr</id>
+    <title>RDPresets Announces Bergen Flesland Airport for MSFS</title>
+    <updated>2022-12-09T00:00:00+00:00</updated>
+    <link href="/news/rdpnbr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639390e458c4aa2d4c611a84_bergen1.jpg" rel="enclosure" type="image/jpeg" length="743439"/>
+    <summary>Sim: MSFS. RDPresets has recently announced their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6.5 million passengers. Itâs owned and operated by Avinor (state owned company).Â   Itâs a focus city for Bergen Air Transport, Bristow Norway, CHC Helikopter Service, Scandinavian Airlines, and Wideroe, making for a huge domestic and international network. CHC and Bristow feature an unusual type of passenger traffic, transporting people to offshore oil platforms in the North Sea. Itâs visited by many other airlines such as Air France, airBaltic, Finnair, Flyr, Icelandair, KLM, Lufthansa, and WizzAir, along with seasonal carriers.  The scenery will feature an accurate rendition of the airport, with a modeled interior, custom ground textures, and detailed landside buildings. Â  It should be available tomorrow on theÂ RDPresets Store. Thereâs no information on requirements yet. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/obxmyl</id>
+    <title>Orbx Releases McCall Municipal Airport for MSFS</title>
+    <updated>2022-12-09T00:00:00+00:00</updated>
+    <link href="/news/obxmyl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6393997608813abdd302ff66_kmyl1.png" rel="enclosure" type="image/png" length="2065484"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of McCall Municipal Airport (KMYL) for Microsoft Flight Simulator, by their newest independent developer Mark âMiloâ Taylor, which already made a rendition of MYL under MSX Creations. This new rendition is an overhaul of the previous work, with custom library objects, scenery placement and re-texturing.Â   It is a city-owned public-use airport in McCall (Idaho), categorized by the FAA as a general aviation facility. It had 43,600 aircraft operations between August 2009 and August 2010, averaging 119 flights per day, 84% of which comprehended general aviation traffic, and 16% were air taxi, with the remaining 1% being military traffic. Â   With a 1862m long runway, McCall Mun. Airport can accommodate most private jets and medium-range airliners.Â   The scenery features true-to-life ground and apron texturing (including the recent apron resurfacing), realistic night lighting, PBR texturing, level of detail work to warrant good performance, multiple custom static aircraft, airport specific windsocks, over 160 custom objects, multiple custom animations, and hand-placed vegetation.  Itâs available onÂ Orbx DirectÂ for roughly $19.06, requiring at least 3.64 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdscae</id>
+    <title>GearDown Simulations Teases SÃ£o Paulo Catarina Executive for MSFS</title>
+    <updated>2022-12-10T00:00:00+00:00</updated>
+    <link href="/news/gdscae" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394c9ab55496a9252a993a0_catarinacover.png" rel="enclosure" type="image/png" length="1999138"/>
+    <summary>Sim: MSFS. GearDown Simulations has recently teased their rendition of SÃ£o Paulo Catarina Executive International (SBJH) for Microsoft Flight Simulator, a general aviation airport serving the Metropolitan Area of SÃ£o Paulo, Brazil. Itâs the first private executive airport with International status in the country, built on 5.2 million square meters of land and situated near the main business centers of the state.  The airport development project aims to bring together characteristics from the best general aviation airports in the World, such as Teterboro and Paris Le Bourget, with help from companies such as Airport Consulting Vienna (ACV) and Ramboll, a Danish consulting engineering group. Built to accommodate up to 200,000 take-offs and landings per year, including long range jets, thanks to its 2500 meter long runway. It's the only executive airport in Brazil with authorization to operate flights to New York, London, and Paris. The scenery will feature an accurate rendition of the airport, with PBR models, a "98% accurate" terrain mesh, fully updated satellite imagery, custom objects, and models built based on projects sent by the airport administrator. Thereâs no information on install size or release date yet, but said to be coming soon (awaiting Marketplace approval).Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-10T00:00:00+00:00</published>
   </entry>
 </feed>
