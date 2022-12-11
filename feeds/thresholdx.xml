@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-10T18:23:28.736887+00:00</updated>
+  <updated>2022-12-11T18:23:53.928432+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msrafx</id>
-    <title>Mountain Scenery Releases ALPS for X-Plane 12</title>
-    <updated>2022-12-03T00:00:00+00:00</updated>
-    <link href="/news/msrafx" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638b741fd5db463992fb990b_alps1.jpg" rel="enclosure" type="image/jpeg" length="332734"/>
-    <summary>Sim: X-Plane. Frank Dainese and Fabio Bellini have recently released the ALPS UHD package for X-Plane 12, covering 8000 square kilometers of alpine area between Italy, France, and Switzerland. It includes four main packages: Eiger Park, Matterhorn Park, Aosta, and Mont Blanc, along with the main peaks of the Alps.  The aforementioned packages feature an accurate reconstruction with 3D models and photographic textures, with all the major cities and towns with their respective custom building placement (churches, stations, monuments, public buildings, etc.) and houses that match the local architecture. All major airports and airfields are included (5 main airports, 15 airfields, and 46 heliports), with their respective characteristics. The complete feature list follows down below: Itâs available on the X-Plane.Org Store for $49.95 with a 17% discount (default price is $59.95), requiring at least 3.3 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ssdtbl</id>
-    <title>SLH Sim Designs Releases Terrance B. Lettsome International for MSFS</title>
-    <updated>2022-12-04T00:00:00+00:00</updated>
-    <link href="/news/ssdtbl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638cb795ece8b2670552ddc8_tupj1-min.png" rel="enclosure" type="image/png" length="280212"/>
-    <summary>Sim: MSFS. SLH Sim Designs has just released their rendition of Terrance B. Lettsome International Airport (TUPJ) for Microsoft Flight Simulator, the main airport serving the British Virgin Islands, and previously known as Beef Island Airport. Itâs a gateway to other smaller islands in the archipelago and a bridge away from the main island (Tortola).Â   It underwent a Major renovation in 2004, which included a runway expansion to allow operation of larger airplanes. It also added a new 4300 square meter terminal building, an enlarged flight apron, a new control tower, and 150 extra parking stalls.Â   Itâs served by many regional airlines such as Air Sunshine, Cape Air, LIAT, Silver Airways, VI Airlink, and Winair. American Eagle set to begin flying to Terrance B. Lettsome in June 2023 from Miami. Curiously, there is a $20 departure tax for anyone above the age of 5.  The scenery features an accurate rendition of the airport with modeled interiors for the terminal and tower, accurate terraforming and runway slope, dynamic night lighting, animated road traffic with functional toll gates, true-to-life airport landside recreation, custom taxiway and signage lighting, and 4K PBR textures.  Itâs available onÂ SimMarketÂ for roughly $15.81, requiring at least 272 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mxioth</id>
     <title>MXI Design Releases Doha Hamad International for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/gdscae" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394c9ab55496a9252a993a0_catarinacover.png" rel="enclosure" type="image/png" length="1999138"/>
     <summary>Sim: MSFS. GearDown Simulations has recently teased their rendition of SÃ£o Paulo Catarina Executive International (SBJH) for Microsoft Flight Simulator, a general aviation airport serving the Metropolitan Area of SÃ£o Paulo, Brazil. Itâs the first private executive airport with International status in the country, built on 5.2 million square meters of land and situated near the main business centers of the state.  The airport development project aims to bring together characteristics from the best general aviation airports in the World, such as Teterboro and Paris Le Bourget, with help from companies such as Airport Consulting Vienna (ACV) and Ramboll, a Danish consulting engineering group. Built to accommodate up to 200,000 take-offs and landings per year, including long range jets, thanks to its 2500 meter long runway. It's the only executive airport in Brazil with authorization to operate flights to New York, London, and Paris. The scenery will feature an accurate rendition of the airport, with PBR models, a "98% accurate" terrain mesh, fully updated satellite imagery, custom objects, and models built based on projects sent by the airport administrator. Thereâs no information on install size or release date yet, but said to be coming soon (awaiting Marketplace approval).Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfluns</id>
+    <title>Just Flight Teases UNS-1 Custom FMS for the 146 Professional</title>
+    <updated>2022-12-10T00:00:00+00:00</updated>
+    <link href="/news/jfluns" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394db9693646f7f44a95546_ansett%20(1).png" rel="enclosure" type="image/png" length="1453796"/>
+    <summary>Sim: MSFS. Just Flight has recently published aÂ developer updateÂ covering their progress on the UNS-1 Custom FMS for theirÂ 146 Professional, an old style FMS released in 1982 and widely used until the early 2000s, providing GPS navigation with LNAV output to the autopilot and horizontal situation indicator. Users can toggle between the modern FMS, the UNS-1, or no FMS in the Electronic Flight Bag Configuration Menu, without reloading the aircraft.Â   The new UNS-1 will be capable of loading and saving MSFS flight plans, along with full SID/STAR support with transitions and approaches. It also includes advanced features such as real-time fuel monitoring, as long as the user inputs the necessary information (passenger count, cargo, fuel quantity, etc.).Â   Like the real unit, it features VNAV, but it doesnât communicate with the autopilot, making it the user has to manually manage the climbs and descents with IAS and VS, although the built-in VNAV will be able to calculate the top of descent and target vertical speed.  The developer claims it is still under extensive testing, with guidance videos to come once itâs closer to release. Cover picture is courtesy of DragonRuins. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpbea</id>
+    <title>RDPresets Releases Bergen Flesland Airport for MSFS</title>
+    <updated>2022-12-10T00:00:00+00:00</updated>
+    <link href="/news/rdpbea" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394e7f5f994d3f539c94e08_enbr1.jpg" rel="enclosure" type="image/jpeg" length="2371006"/>
+    <summary>Sim: MSFS. RDPresets has just released their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6 million passengers. It is an important Scandinavian destination, served by many airlines such as Scandinavian Airlines, Norwegian Air Shuttle, and WiderÃ¸e, with a significant intra-european route network.Â   The origin of the airport dates back to the early 1950s, when a national military communications project secured the construction of a 1460 meter long runway, and 4 million norwegian krone were provided by the municipalities of Bergen and Fana to build a terminal and a road. Additional NATO grants in 1953 warranted a longer runway (2440 meters) and better infrastructure. A DHC-3 Otter was the first aircraft to land on Bergen Flesland, on 18 June 1954, when only 800 meters of the runway were complete. The first revenue chartered flight was a leg to Oslo, transporting SK Brann to play a football match.Â   The scenery features an accurate rendition of the airport, with custom models, PBR texturing, 3D interior, more than a thousand clutter objects on the apron, realistic and functioning VDGS, custom ground textures, performance optimization, accurate night lighting, custom taxi signage, and ground traffic.  Itâs available on theÂ RDPresets StoreÂ for roughly $21.07 or onÂ SimMarketÂ for $19.00, requiring at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-10T00:00:00+00:00</published>
   </entry>
 </feed>
