@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-11T18:23:53.928432+00:00</updated>
+  <updated>2022-12-12T18:25:30.028950+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mxioth</id>
-    <title>MXI Design Releases Doha Hamad International for MSFS</title>
-    <updated>2022-12-05T00:00:00+00:00</updated>
-    <link href="/news/mxioth" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638df236bd27f82c6148bd15_doha5.jpg" rel="enclosure" type="image/jpeg" length="371489"/>
-    <summary>Sim: MSFS. MXI Design has just released their rendition of Doha Hamad International Airport (OTHH) for Microsoft Flight Simulator, the busiest airport in Qatar with a yearly average of 36 million passengers. Opened in 2014, it replaces Doha International Airport as Qatarâs main airport, built on 22 square kilometers of land and able to handle 320,000 aircraft movements and 2 million tonnes of cargo per year. DOH is the first Middle Eastern airport to get the Skytrax's World Best Airport award (2021 and 2022), ending a nearly decade-long streak of Singaporeâs Changi. â Itâs the hub for Qatar Airways, with a route network that covers most of the globe, from their next-door neighbors of Abu Dhabi to San Francisco. Such high coverage makes it so other carriers donât have much of a financially logical reason to fly to Doha, but there are still a couple of them such as Air Canada, Air India, British Airways, Conviasa, Finnair, and Malaysia Airlines. The scenery features a high-detail recreation of the airport, with an updated ground layout, high-quality ground markings and buildings, PBR textures, custom clutter objects, a basic terminal interior with the World Cup theming, 3D passengers, animated passenger train inside the terminal building, custom jetways, Qatar Airways hangar with an animated door, animated RGB road masts and flags, and support for the Aerosoft VDGS system. Itâs available on SimMarket for roughly $21.07, requiring at least 1.4 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tadprg</id>
     <title>Tailstrike Designs Releases Prague Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394e7f5f994d3f539c94e08_enbr1.jpg" rel="enclosure" type="image/jpeg" length="2371006"/>
     <summary>Sim: MSFS. RDPresets has just released their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6 million passengers. It is an important Scandinavian destination, served by many airlines such as Scandinavian Airlines, Norwegian Air Shuttle, and WiderÃ¸e, with a significant intra-european route network.Â   The origin of the airport dates back to the early 1950s, when a national military communications project secured the construction of a 1460 meter long runway, and 4 million norwegian krone were provided by the municipalities of Bergen and Fana to build a terminal and a road. Additional NATO grants in 1953 warranted a longer runway (2440 meters) and better infrastructure. A DHC-3 Otter was the first aircraft to land on Bergen Flesland, on 18 June 1954, when only 800 meters of the runway were complete. The first revenue chartered flight was a leg to Oslo, transporting SK Brann to play a football match.Â   The scenery features an accurate rendition of the airport, with custom models, PBR texturing, 3D interior, more than a thousand clutter objects on the apron, realistic and functioning VDGS, custom ground textures, performance optimization, accurate night lighting, custom taxi signage, and ground traffic.  Itâs available on theÂ RDPresets StoreÂ for roughly $21.07 or onÂ SimMarketÂ for $19.00, requiring at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dwdewr</id>
+    <title>Drzewiecki Design Teases Newark Liberty International Airport for MSFS</title>
+    <updated>2022-12-11T00:00:00+00:00</updated>
+    <link href="/news/dwdewr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63963e2f2c7c446aca562cac_kewr6.png" rel="enclosure" type="image/png" length="3572706"/>
+    <summary>Sim: MSFS. Drzewiecki Design has recently made anÂ Instagram postÂ showcasing the development progress on their rendition of Newark Liberty International Airport (KEWR) for Microsoft Flight Simulator, the second busiest airport in the New York airport system, only behind JFK, with an average of 33 million passengers a year as of 2021.  Itâs a United Airlines hub, with 66.5% of the yearly figures. JetBlue (7.6%), Spirit Airlines (5.5%), American Airlines (5.5%), and Delta Airlines (3.8%) take the rest of the share. Itâs also a cargo hub for FedEx Express.Â   The developer claims itâs already on Beta 5 and potentially becoming the first release candidate, allowing them to prepare the installer, make promotional media, and get the marketplace stuff ready. Itâs claimed to be âincomparably more detailedâ than the previous KEWR for P3D.  There is no information regarding features, installation size, pricing, or release date. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-11T00:00:00+00:00</published>
   </entry>
 </feed>
