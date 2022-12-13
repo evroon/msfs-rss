@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-12T18:25:30.028950+00:00</updated>
+  <updated>2022-12-13T18:24:44.756989+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tadprg</id>
-    <title>Tailstrike Designs Releases Prague Airport for MSFS</title>
-    <updated>2022-12-05T00:00:00+00:00</updated>
-    <link href="/news/tadprg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638dffdb883d9bfb0edf0be1_vaclav1.jpg" rel="enclosure" type="image/jpeg" length="196617"/>
-    <summary>Sim: MSFS. Tailstrike Designs has just released their rendition of VÃ¡clav Havel Airport Prague (LKPR) for Microsoft Flight Simulator, the main gateway to Czechia with 85 years of history and over 15 million passengers yearly, home to Czech Airlines and Smartwings. Formerly Prague RuzynÄ International Airport, it was renamed after the last president of Czechoslovakia and the first president of the Czech Republic (VÃ¡clav Havel) in 2012.Â   With an intricate intra-European and international route network, PRG is regularly visited by Aer Lingus, Aer Lingus, airBaltic, Air France, Austrian Airlines, Brussels Airlines, easyJet, Emirates, Finnair, Iberia, KLM, Korean Air, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, United Airlines, and many other. Eurowings Europe and Ryanair have a base in Prague, with significant summer and winter networks.  The scenery features an accurate rendition of the airport, with high-detail models of the terminal, hangars, and buildings, along with true-to-life taxiways (as of 2022), tower and terminal interior, photorealistic PBR textures, custom animated jetways, realistic night dynamic lighting, and support for the Aerosoft VDGS module.  Itâs available on theÂ Aerosoft ShopÂ for $24.99, requiring at least 5 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jflrfp</id>
-    <title>Just Flight Releases Fokker F28 Video Preview </title>
-    <updated>2022-12-05T00:00:00+00:00</updated>
-    <link href="/news/jflrfp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638e0d5e3f4e8506d7265317_fokker1.png" rel="enclosure" type="image/png" length="872414"/>
-    <summary>Sim: MSFS. Just Flight has recently published anotherÂ development updateÂ on their Fokker F28 Fellowship for Microsoft Flight Simulator, showcasing the lighting (internally and externally) in a 3 minute long video around an Air Anglia F28-4000. According to the developers, there are 50 dynamic lights covering the exterior, cabin, and cockpit.Â   The Fokker F28 Fellowship is a twin-engined regional jet developed in the late 60s, with its first flight in 1967 and introduced in 1969, with 241 units built after a 20 year run (production ended in 1987). Multiple variants were developed, with the F28-1000 seating up to 70 passengers, the F28-2000 housing 79 people, and the later revision, the F28-4000, featuring quieter engines (Rolls-Royce Spey 555-15H), a redesigned cockpit and modified wings, and increased seating (up to 85 passengers). It was then superseded by the Fokker 70 and 100.Â   As of 2019, there are no current operators of the F28 around, with Fly-SAX being the last to operate it commercially. Garuda Indonesia was the largest former operator, with 62 of them. Other Major operators include the Ansett Group (13), AirQuarius Aviation (4), and Biman Bangladesh Airlines (4). The Ansett Group was also responsible for the longest nonstop F28 route in the world, between Perth and Kununurra, roughly 2300 km apart.Â   Thereâs no information on release date or pricing yet. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
-    <published>2022-12-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inip40</id>
     <title>iniBuilds Releases P-40F Warhawk for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63963e2f2c7c446aca562cac_kewr6.png" rel="enclosure" type="image/png" length="3572706"/>
     <summary>Sim: MSFS. Drzewiecki Design has recently made anÂ Instagram postÂ showcasing the development progress on their rendition of Newark Liberty International Airport (KEWR) for Microsoft Flight Simulator, the second busiest airport in the New York airport system, only behind JFK, with an average of 33 million passengers a year as of 2021.  Itâs a United Airlines hub, with 66.5% of the yearly figures. JetBlue (7.6%), Spirit Airlines (5.5%), American Airlines (5.5%), and Delta Airlines (3.8%) take the rest of the share. Itâs also a cargo hub for FedEx Express.Â   The developer claims itâs already on Beta 5 and potentially becoming the first release candidate, allowing them to prepare the installer, make promotional media, and get the marketplace stuff ready. Itâs claimed to be âincomparably more detailedâ than the previous KEWR for P3D.  There is no information regarding features, installation size, pricing, or release date. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/snocph</id>
+    <title>SimNord Previews Copenhagen Airport for MSFS</title>
+    <updated>2022-12-13T00:00:00+00:00</updated>
+    <link href="/news/snocph" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6397ebd629334ae31cc57c3e_ekch1.jpg" rel="enclosure" type="image/jpeg" length="1624727"/>
+    <summary>Sim: MSFS. SimNord hasÂ recently previewedÂ their progress on Copenhagen Airport (EKCH) for Microsoft Flight Simulator, the second largest airport in the Nordic countries, serving Denmark and Southern Sweden with over 30 million passengers yearly. Itâs the main hub for Scandinavian Airlines, and an operating base for Sunclass Airlines and Norwegian Air Shuttle.Â   Aside from the local airlines, itâs visited by over 50 airlines from around the World such as Aegean, Air Canada, Air China, British Airways, Brussels Airlines, Emirates, Finnair, Qatar Airways, Turkish Airlines, etc. Oslo, Amsterdam, and Stockholm are the busiest European routes as of 2021, with roughly 400,000 passengers each. Dubai (105,000), Doha (104,794), and Newark (66,034) top the charts of busiest intercontinental routes.  There is no information regarding features, pricing, or release date. Threshold will keep you updated on the matter once thereâs new information. Shout out to PopFizzels for the news scoop. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyrgla</id>
+    <title>Pyreegue Dev Co. Updates Glasgow Airport for MSFS</title>
+    <updated>2022-12-13T00:00:00+00:00</updated>
+    <link href="/news/pyrgla" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6397fb1b4add32cae71a9eb2_egpf1.jpg" rel="enclosure" type="image/jpeg" length="193892"/>
+    <summary>Sim: MSFS. Pyreegue Dev Co. has recently updated their rendition of Glasgow International Airport (EGPF) for Microsoft Flight Simulator, the ninth-busiest airport in the United Kingdom with nearly 10 million passengers yearly (pre-pandemic). It is owned and operated by AGS Airports, which also own Aberdeen and Southampton.Â   Itâs a hub for EasyJet, Loganair, Jet2.com, and TUI Airways, with many domestic and intra-European routes. British Airways features three domestic routes to London City, London Heathrow, and London Gatwick. As far as transcontinental flights go, itâs visited by Air Transat with a leg to Toronto, and Emirates to Dubai. The busiest routes as of 2019 are London Heathrow (865,008), London Gatwick (641,566), and Dublin (500,441), operated by British Airways and Aer Lingus.  The scenery update features a new terminal glass, minor fixes to terminal geometry, static aircraft v2, major taxiway lighting improvements, minor changes to ATC Tower interior, GSX integration (with dynamic doors), added vehicle paths for ground service equipment, ground polygon adjustments, airline specific parking codes, static people replaced with animated ones, trees on the approach to runway 23 were removed, and other minor fixes and improvements.  Update 1.1.7 is now available onÂ Orbx Direct, for roughly $20.26 (update is free for current owners). Other storefronts will follow shortly, according to the developer. At least 2.65 GB of free disk space is required to install the product. The new GSX Profile is available onÂ FlightSim.to, free of charge. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-13T00:00:00+00:00</published>
   </entry>
 </feed>
