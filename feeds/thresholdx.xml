@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-13T18:24:44.756989+00:00</updated>
+  <updated>2022-12-14T18:24:24.051086+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inip40</id>
-    <title>iniBuilds Releases P-40F Warhawk for MSFS</title>
-    <updated>2022-12-05T00:00:00+00:00</updated>
-    <link href="/news/inip40" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638e2c2e145661f624e2e103_p401.png" rel="enclosure" type="image/png" length="1298377"/>
-    <summary>Sim: MSFS. iniBuilds has just released their rendition of the Curtiss P-40F Warhawk for Microsoft Flight Simulator, a single-engined classic fighter first flown in 1938. It was the third most produced American fighter in WW2, with 13,738 units by the end of the production cycle in late 1944, playing an important role during the war, used by most allied powers.   From the hot and dry Deserts of the Middle East to the dampness of Europe, the Warhawk has been everywhere in WW2, with over 200 allied fighter pilots becoming aces flying the P-40. It remained in active use well after the War, by Brazil, Egypt, Finland, and Turkey. The Brazilian Air Force was the last to retire their fleet, in 1954. The iniBuilds P-40F features the latest in CFD (Computational Fluid Dynamics) implementation from Microsoft, including the primary flight surfaces, control surfaces, and the propeller, with an authentically modeled Merlin engine which performs close to real-life figures (with feedback from type-rated pilots), a fully modeled fuel system, an electronic flight bag with maintenance page, moving map, radios, and weather information. The complete feature list follows down below: â The airplane is available on the iniBuilds Store for roughly $18.43, requiring at least 2.99 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kausmfs</id>
     <title>Dominic DesignTeam Releases AustinâBergstrom International Airport (KAUS) for Microsoft Flight Simulator</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6397fb1b4add32cae71a9eb2_egpf1.jpg" rel="enclosure" type="image/jpeg" length="193892"/>
     <summary>Sim: MSFS. Pyreegue Dev Co. has recently updated their rendition of Glasgow International Airport (EGPF) for Microsoft Flight Simulator, the ninth-busiest airport in the United Kingdom with nearly 10 million passengers yearly (pre-pandemic). It is owned and operated by AGS Airports, which also own Aberdeen and Southampton.Â   Itâs a hub for EasyJet, Loganair, Jet2.com, and TUI Airways, with many domestic and intra-European routes. British Airways features three domestic routes to London City, London Heathrow, and London Gatwick. As far as transcontinental flights go, itâs visited by Air Transat with a leg to Toronto, and Emirates to Dubai. The busiest routes as of 2019 are London Heathrow (865,008), London Gatwick (641,566), and Dublin (500,441), operated by British Airways and Aer Lingus.  The scenery update features a new terminal glass, minor fixes to terminal geometry, static aircraft v2, major taxiway lighting improvements, minor changes to ATC Tower interior, GSX integration (with dynamic doors), added vehicle paths for ground service equipment, ground polygon adjustments, airline specific parking codes, static people replaced with animated ones, trees on the approach to runway 23 were removed, and other minor fixes and improvements.  Update 1.1.7 is now available onÂ Orbx Direct, for roughly $20.26 (update is free for current owners). Other storefronts will follow shortly, according to the developer. At least 2.65 GB of free disk space is required to install the product. The new GSX Profile is available onÂ FlightSim.to, free of charge. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jflfst</id>
+    <title>Just Flight Previews FS Traffic for MSFS</title>
+    <updated>2022-12-14T00:00:00+00:00</updated>
+    <link href="/news/jflfst" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63992d42091a99ed93aa6418_fstraffic1.png" rel="enclosure" type="image/png" length="1981461"/>
+    <summary>Sim: MSFS. Just Flight has recently uploaded a video previewing the Regional AI Aircraft for their upcoming FS Traffic add-on. The regional set includes 12 different airplanes (A220-100, A220-200, ATR-42, ATR-72, CRJ-700, CRJ-900, CRJ-1000, Dash 8-Q400, ERJ-145, E-170, E-190, and E-195) with multiple livery combinations from around the World. The video showcases some of the new planes, the AI traffic interaction with ground service equipment, and the newly added animations and effects.Â  â  FS Traffic promises to add tens of thousands of real-life commercial flights from different periods, with worldwide coverage from a popular data source. The data covers the summer of 2022, with 2021 and 2019 to come later through a free update. The traffic will be controlled by the date and time of the day, with different densities. It also offers model-matching compatibility with platforms such as VATSIM.  On the latestÂ developer update, they claim all the core features are fully functional, with all the liveries, including additional paint jobs based on feedback from the public. Their testing team is undergoing expansion to maximize efficiency and ensure compatibility with other products.Â   There is no information on pricing and release date yet, but they claim to be aiming for an early 2023 release. Shout out to genista for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-14T00:00:00+00:00</published>
   </entry>
 </feed>
