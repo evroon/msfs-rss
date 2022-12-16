@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2022-12-15T18:22:08.821933+00:00</updated>
+  <updated>2022-12-16T18:23:16.548641+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/november-24th-2022-development-update/</id>
-    <title>November 24th, 2022 Development Update</title>
-    <updated>2022-11-24T23:46:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-24th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/EPPRglider81-Forum-1024x410.jpg" rel="enclosure" type="image/jpeg" length="24761"/>
-    <summary>Screenshot by EPPRglider81 (Forum) To all our virtual aviators in the United States, we here at Microsoft Flight Simulator wish you a very happy Thanksgiving! As many members of our team are US-based and are currently visiting family for the holiday long weekend, this week’s Development Update Blog will be abbreviated. We’ll be back with … Continued</summary>
-    <published>2022-11-24T23:46:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/black-friday-sale/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2019/11/XO_Cap10_02-1024x576.jpg" rel="enclosure" type="image/jpeg" length="108621"/>
     <summary>As a reminder, we will continue to bring Marketplace Updates on December 8, 15, and 29. The main Development Update blog will return starting January 5, 2023.</summary>
     <published>2022-12-09T00:53:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/december-15th-2022-development-update/</id>
+    <title>December 15th, 2022 Development Update</title>
+    <updated>2022-12-15T23:56:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-15th-2022-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/12/MicrosoftFlightSimulator_Evergreen_Screenshot-14_3840x2160_RGB-1024x576.png" rel="enclosure" type="image/png" length="210392"/>
+    <summary>We will be skipping next week’s Update due to the holidays. We’ll be back with another Marketplace Update on December 29th, and the main Development Update blog will return starting January 5, 2023. MSFS Team Marketplace UpdateClick here for the web-friendly version of the Marketplace Update.There are 21 new and 41 updated products in the Marketplace … Continued</summary>
+    <published>2022-12-15T23:56:44+00:00</published>
   </entry>
 </feed>

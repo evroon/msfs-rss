@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-15T18:22:10.031608+00:00</updated>
+  <updated>2022-12-16T18:23:17.733189+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kausmfs</id>
-    <title>Dominic DesignTeam Releases AustinâBergstrom International Airport (KAUS) for Microsoft Flight Simulator</title>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="/news/kausmfs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638ef23655f464fbf8202b53_Screenshot%202022-12-06%20at%201.41.38%20AM.png" rel="enclosure" type="image/png" length="4150568"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer Dominic DesignTeam released their rendition of AustinâBergstrom International Airport (KAUS) for Microsoft Flight Simulator. The product will bring the Texas airport to life with high quality models, customized objects such as signs and passengers, and detailed textures. 	According to the developers, the scenery will feature PBR textures, dynamic lighting, and custom jetways. Additionally, for added realism, all pavements have been âpainstakingly hand-craftedâ and ground markings have been modeled based on the real life airport. 	AustinâBergstrom International Airport, located 5 miles from Austin downtown, is one of the main international airports serving the city. It provides flights to some 75 destinations around the world. Top operators at the airport include Southwest, Delta, and American Airlines. Currently, Dominic DesignTeamâs Austin Airport can be purchased on simMarket for $18.99 USD or EUR 20.10, excluding any sales taxes that may incur. The developers recommend at least 870M of free space in order to successfully install the product.</summary>
-    <published>2022-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mksrvn</id>
-    <title>MK Studios Updates Rovaniemi Airport for MSFS</title>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="/news/mksrvn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638f7b34fdc31d1a20d021ba_efro1.png" rel="enclosure" type="image/png" length="1117127"/>
-    <summary>Sim: MSFS. MK Studios has recently released an update to their rendition of Rovaniemi Airport (EFRO) for Microsoft Flight Simulator, the third busiest airport in Finland with 500,000 passengers per year. Itâs visited by many airlines during the winter season, which includes Aer Lingus, Air France, easyJet, Eurowings, Ryanair, Transavia, and Turkish Airlines.Â   Built in 1940, featuring two grass runways, and used as a Luftwaffe air base and supply center during the Second Soviet-Finnish War between 1941 and 1944. Rebuilding work started in 1948, with regular traffic returning in the beginning of the second half of that year.Â   The current terminal building finished in 1992, with its first expansion happening in 2000 (and the inclusion of jetways). The runway underwent renovation work in 2016, with new pavement and LED lights, and 2019 marked the completion of the terminalâs third enlargement.  The scenery update added conditional visibility to the winter objects, smoke effects for cold weather, glass improvements, and general fixes. The complete feature list for the scenery follows down below: Itâs available onÂ Orbx DirectÂ for $6.69 (on sale, 50% off), requiring at least 1.23 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbmyl</id>
     <title>Orbx Announces McCall Municipal Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63992d42091a99ed93aa6418_fstraffic1.png" rel="enclosure" type="image/png" length="1981461"/>
     <summary>Sim: MSFS. Just Flight has recently uploaded a video previewing the Regional AI Aircraft for their upcoming FS Traffic add-on. The regional set includes 12 different airplanes (A220-100, A220-200, ATR-42, ATR-72, CRJ-700, CRJ-900, CRJ-1000, Dash 8-Q400, ERJ-145, E-170, E-190, and E-195) with multiple livery combinations from around the World. The video showcases some of the new planes, the AI traffic interaction with ground service equipment, and the newly added animations and effects.Â  â  FS Traffic promises to add tens of thousands of real-life commercial flights from different periods, with worldwide coverage from a popular data source. The data covers the summer of 2022, with 2021 and 2019 to come later through a free update. The traffic will be controlled by the date and time of the day, with different densities. It also offers model-matching compatibility with platforms such as VATSIM.  On the latestÂ developer update, they claim all the core features are fully functional, with all the liveries, including additional paint jobs based on feedback from the public. Their testing team is undergoing expansion to maximize efficiency and ensure compatibility with other products.Â   There is no information on pricing and release date yet, but they claim to be aiming for an early 2023 release. Shout out to genista for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flyams</id>
+    <title>FlyTampa Releases Amsterdam Airport Schiphol for X-Plane 11 &amp; 12</title>
+    <updated>2022-12-15T00:00:00+00:00</updated>
+    <link href="/news/flyams" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639b9017d3660fbe433258d4_eham1.jpg" rel="enclosure" type="image/jpeg" length="397934"/>
+    <summary>Sim: X-Plane. FlyTampa has recently released their rendition of Amsterdam Airport Schiphol for X-Plane 11 and 12, the worldâs third busiest airport in terms of international passenger traffic (as of 2021) and the third busiest in Europe volume-wise, with 70 million passengers yearly.Â   Schiphol is a hub for Corendon Dutch Airlines, KLM, KLM Cargo, KLM Cityhopper, Transavia, TUI fly Netherlands, and Martinair, and a base for easyJet. As previously mentioned, being the third busiest airport in international passenger traffic, the destination network is significant, covering most of the globe. Due to KLMâs extensive International coverage, the intercontinental visitorâs list is not too big, although not tiny either.Â   The airportâs origin dates back to 1916, when it opened as a military airbase for WW1, gradually losing its military role after the war, with plenty of civilian use. By the time it was captured by the Germans in 1940, it already had four runways at 45-degree angles. It wasnât long until the airport was rendered useless by multiple bombings, yet soon rebuilt and crowned the main airport of the Netherlands.Â   The scenery features an accurate rendition of the airport, with PBR materials, high-resolution ground textures with custom weather maps, detailed surrounding scenery with numerous custom buildings, tridimensional terrain including tunnels and bridges, surrounding photoscenery, animated apron and local road traffic, dynamic lighting, animated jetways, and VDGS (requires SAM).  Itâs available onÂ FlyTampaâs WebsiteÂ for $28.00, requiring at least 3.78 GB of free disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42flw</id>
+    <title>Parallel 42 Announces Flow for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/p42flw" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639bcd97d166e025c5e168ae_flow1.png" rel="enclosure" type="image/png" length="43968"/>
+    <summary>Sim: MSFS. Parallel 42 recently announced Flow, their latest project for Microsoft Flight Simulator, an easy and intuitive navigation wheel with many features and multiple customization options, for each user or aircraft. It replaces MSFSâ default toolbar with similar functions and more, including the possibility to convert units on the go. Time and weather control, cameras, door controls, server change, TOD calculator, METAR request, scripting, etc., are demonstrated in the two minute video.Â   According to the video description, the product will feature three tiers: Flow, Flow Essentials, and Flow Pro. There isnât enough information on the differences between the tiers (other than what is shown on the teaser), aside from the fact that there will be a free tier with limited features.Â   Itâs said to be coming soon toÂ Orbx Direct. Thereâs no information about install size or pricing yet.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
   </entry>
 </feed>
