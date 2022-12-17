@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-16T18:23:17.733189+00:00</updated>
+  <updated>2022-12-17T18:21:51.262817+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbmyl</id>
-    <title>Orbx Announces McCall Municipal Airport for MSFS</title>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="/news/orbmyl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638fa581410b823612bbcd65_call1.jpg" rel="enclosure" type="image/jpeg" length="455971"/>
-    <summary>Sim: MSFS. Orbx has recentlyÂ announcedÂ the development and imminent release of McCall Municipal Airport (KMYL) for Microsoft Flight Simulator by an independent developer (Mark Taylor). Itâs a city-owned public-use airport in McCall, Idaho, categorized in the FAAâs National Plan of Integrated Airport Systems as a general aviation facility.Â   With 80 hectares of total area and a 1,862m long runway, McCall averages around 119 flights per day, and over 43,000 a year, with 84% of them being General Aviation flights, 16% air taxi and the remainder comprehending military traffic.Â   The scenery features realistic ground and apron texturing (including the recent apron resurfacing), true-to-life night lighting, PBR textures, extensive LOD work focusing on optimal performance, custom static aircraft, airport specific windsocks, 160+ custom objects, many custom animations, and hand placed vegetation.  Orbx plans to ensure that owners of the first version, previously released by Mark Taylor on another reseller, will be redeemable on Orbx Direct via license key.Â   The scenery landing page is availableÂ here, although itâs not available for purchase yet.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbosl</id>
-    <title>Orbx Announces Oslo Gardermoen for MSFS</title>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="/news/orbosl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/638fc11ecaf33e597c68abe5_osl1.png" rel="enclosure" type="image/png" length="1758242"/>
-    <summary>Sim: MSFS. Orbx has recentlyÂ announcedÂ the development of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, the busiest airport in Norway, nearing 30 million passengers per year with almost 200 destinations. Itâs home to Flyr, Norse Atlantic Airways, and Wideroe.Â   The airportâs history dates back to 1740 when the Norwegian army used Gardermoen (then Fredericksfeldt) as a camp. It remained as such until 1860, when barracks and stalls were constructed to house more people and protect against the harsh weather. Insulated buildings were the next logical upgrade, in the early 1900s. It became an airport in 1912 when the first of many flights took off.Â   Gardermoen was taken over by the nazis during the German occupation in 1940, building the first aircraft facilities and two runways with 2,000 meters each. The Norwegian Air Force took it back as soon as WW2 ended, housing three fighter squadrons. In 1946, Braathens SAFE used the facilities as their technical base, which only lasted for two years. It was also during that period when Oslo Gardermoen became the reserve airport for Fornebu, which used to be the main airport. All the intercontinental flights were redirected to OSL because Fornebu was undergoing runway extension work. It wasnât until 1998 that Gardermoen became the main airport in Oslo.  The scenery will feature custom orthoimagery, PBR textures in 4K, interior modeling, 3 different types of animated jetways to match the real world, fully functioning VDGS on all appropriate gates, custom ground service equipment, and optimization work to warrant good performance.  It is allegedly coming in January 2023, priced at roughly $21.00. Thereâs no information on the install size yet. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mexfaa</id>
-    <title>Mex High Flight Releases Tahiti International for MSFS</title>
-    <updated>2022-12-08T00:00:00+00:00</updated>
-    <link href="/news/mexfaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63913bc4204b611dbe188f28_tahiti1.png" rel="enclosure" type="image/png" length="2324223"/>
-    <summary>Sim: MSFS. Mex High Flight has recently released their rendition of Faaâa International Airport (NTAA) for Microsoft Flight Simulator, connecting Tahiti to the World. Also known as Tahiti International Airport, itâs home to Air Tahiti and Air Tahiti Nui, with domestic flights to other islands in French Polynesia and intercontinental legs to Canada, Chile, France, Japan, New Zealand, and the United States.  Aside from the local airlines, Â itâs also visited by Air France (Los Angeles and Paris), Air New Zealand (Auckland), Delta Air Lines (beginning in late December 2022, from Los Angeles), French Bee (Paris Orly and San Francisco), Hawaiian Airlines (Honolulu), and United Airlines (San Francisco). The yearly figures sit around 1.6 million passengers total. With a single, 3,420 meters long runway, Tahiti International can accommodate large aircraft such as the Boeing 747 and the Airbus A380.  The scenery features an accurate rendition of the airport, with custom ground textures, PBR texturing, realistic night lighting, hand-placed objects, realistic AFCAD, friendly framerate, and GSX compatibility.  Itâs available on SimMarket for $18.40, requiring at least 513MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ecugal</id>
-    <title>Ecuavirtual3d Releases San CristÃ³bal City &amp; Airport for MSFS</title>
-    <updated>2022-12-08T00:00:00+00:00</updated>
-    <link href="/news/ecugal" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6392389be3fb77845d05b634_galap2.png" rel="enclosure" type="image/png" length="2256824"/>
-    <summary>Sim: MSFS. Ecuavirtual3d has just released their rendition of San CristÃ³bal de GalÃ¡pagos and its airport, San CristÃ³bal Airport (SEST), for Microsoft Flight Simulator, both in the archipelago of the GalÃ¡pagos Islands in Ecuador. The airport is served by Avianca Ecuador, Equair, and LATAM Ecuador, with flights to Guayaquil and Quito. The yearly figures sit at around 200,000 passengers.Â   With a single 1,900m long runway, the approach to both ends happens to be over the ocean, sitting just at the coast of San CristÃ³bal.Â   The scenery features a faithful replica of the airport, with accurate modeling based on original references, fully customized ground textures, custom taxiway signs, custom traffic on the avenues, a control tower with an interior, taxi routes for airplanes, and static objects, vehicles, and aircraft.  Itâs available onÂ SimMarketÂ for roughly $13.90, requiring at least 93 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsgemb</id>
-    <title>FlightSim Studio Uploads New Embraer 175 Teaser Video for MSFS</title>
-    <updated>2022-12-09T00:00:00+00:00</updated>
-    <link href="/news/fsgemb" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63938aabe43a3a0bf9a3da58_1756.png" rel="enclosure" type="image/png" length="1126836"/>
-    <summary>Sim: MSFS. FlightSim Studio AG, in partnership with AviationLads, has teased their Embraer 175 for Microsoft Flight Simulator again, focusing on the interior. In 44 seconds, thereâs a glimpse of the cockpit (including a cold &amp; dark power up) and the passenger cabin, with attention to interior lighting.Â   It is the second teaser so far, with the first one airingÂ last fridayÂ and showcasing the external modeling, engine sounds, and different liveries from some of the 12 real-world operators.Â   According to aÂ Facebook postÂ by AviationLads, the next teaser will be âmore technicalâ with a systems showcase, due next week.  The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   Thereâs no information regarding pricing or release date yet. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rdpnbr</id>
     <title>RDPresets Announces Bergen Flesland Airport for MSFS</title>
@@ -150,6 +105,51 @@
     <link href="/news/p42flw" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639bcd97d166e025c5e168ae_flow1.png" rel="enclosure" type="image/png" length="43968"/>
     <summary>Sim: MSFS. Parallel 42 recently announced Flow, their latest project for Microsoft Flight Simulator, an easy and intuitive navigation wheel with many features and multiple customization options, for each user or aircraft. It replaces MSFSâ default toolbar with similar functions and more, including the possibility to convert units on the go. Time and weather control, cameras, door controls, server change, TOD calculator, METAR request, scripting, etc., are demonstrated in the two minute video.Â   According to the video description, the product will feature three tiers: Flow, Flow Essentials, and Flow Pro. There isnât enough information on the differences between the tiers (other than what is shown on the teaser), aside from the fact that there will be a free tier with limited features.Â   Itâs said to be coming soon toÂ Orbx Direct. Thereâs no information about install size or pricing yet.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/impcan</id>
+    <title>Impulse Simulations Releases Canberra International Airport for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/impcan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639cc4678530475333ab3c72_canberracover.png" rel="enclosure" type="image/png" length="1775547"/>
+    <summary>Sim: MSFS. Impulse Simulations has recently released their rendition of Canberra International Airport (YSCB) for Microsoft Flight Simulator, the eight-busiest airport in Australia with a yearly average of 3 million passengers. Being the Capital city, it serves direct flights to all Australian state capitals, and regional airports from the East Coast.Â   Itâs served by FlyPelican (Newcastle, Port Macquarie), Jetstar (Brisbane, Gold Coast, Melbourne), Link Airways (Hobart, Newcastle, Sydney), Qantas (Adelaide, Brisbane, Melbourne, Perth), QantasLink (Adelaide, Brisbane, Cairns, Darwin, Hobart, Melbourne, Sunshine Coast, Sydney), Qatar Airways (Doha, resuming in April 2023), Rex Airlines (Melbourne), and Virgin Australia (Adelaide, Brisbane, Gold Coast, Melbourne). Melbourne is the busiest destination overall, with 1,175,695 passengers handled in 2018. Sydney (953,333) and Brisbane (643,328) are second and third, respectively.Â   The scenery features realistic ground and apron texturing, realistic night lighting, replicated airside terminal interior, custom jetways, VDGS system (not Xbox compatible), full PBR texturing, custom animations, improved vegetation and grass, detailed static aircraft, custom taxiway lighting and signage, over 50,000 hand placed objects, over 150 custom objects, and 20cm resolution custom imagery.  Itâs available onÂ Orbx DirectÂ for roughly $23.11, requiring at least 4.11 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jflrjp</id>
+    <title>Just Flight Previews RJ Professional for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/jflrjp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ccb3fe8cbc403ae47aa6d_rj1.png" rel="enclosure" type="image/png" length="1806703"/>
+    <summary>Sim: MSFS. Just Flight has recently released a video showcasing the RJ Professionalâs Center Console with its all-new avionics in relation to the 146, demonstrating the functionality of each panel, from the radio stack to the flight deck door controls.  It is their first development update since October, where they stated the airplane was undergoing extensive testing to ensure it was behaving just like the real-life counterpart, and the digital displays were alive with the work on the now showcased center console having just finished. The Inertial Reference System (IRS) and the fully-automatic pressurization controller were pending and yet to be demonstrated.  The Avro RJ is an improved version of the British Aerospace 146, which entered production in 1992. It is the most successful British civil jet airliner program, with 387 units (including the 146). Due to its quiet engines, it was ideal for small city-based airports such as London City. Just Flightâs rendition will include all three variants of the airliner: the RJ70 (26.2m long), the RJ85 (28.6m long), and the RJ100 (31m long), along with 25 brand new liveries covering operators from all over the World. Thereâs no information on the release date or pricing yet. Stay tuned to Threshold for further updates on the RJ Professional and more!Shout out to Petter on Discord for the news scoop! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdsspc</id>
+    <title>GearDown Simulations Releases SÃ£o Paulo Catarina Executive for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/gdsspc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639cd2f8b07e136a1cc5e679_cat1.png" rel="enclosure" type="image/png" length="2935330"/>
+    <summary>Sim: MSFS. GearDown Simulations has recently released their rendition of SÃ£o Paulo Catarina International Executive Airport (SBJH) for Microsoft Flight Simulator, the first executive airport in Brazil with international status, and only a 30 minute drive away from SÃ£o Paulo, the biggest city in the country and the nationsâ business center.Â   Designed by Sig Bergamin, a famous brazilian architect, the airport features state-of-the-art terminals and a large hangar area, both using sustainable architectural methods, aiming for ultimate comfort and privacy. The project was aided by ACV (Airport Consulting Vienna), Ramboll (Danish engineering company), ALG (spanish consultancy company), and others (not mentioned by the airport ownerâs website). The airport was built to withstand 200 thousand take-offs and landings yearly, including intercontinental executive jets. With a 2,500m long runway, it can easily take a 738 BBJ, for example.Â   It is the only executive airport in Brazil with authorization to operate flights to New York, London and Paris. It is the sole executive gateway to the country for business fliers.Â   The scenery features an accurate rendition of the airport, modeled and textured with the help of over 3000 photos sent by the airport management, with a performance-friendly approach regarding the interior modeling, bearing brazilian customers in mind. It includes updated satellite imagery, an accurate mesh, and an open hangar. The developer stated plans to update the scenery once the hangars under construction are completed, along with a new taxiway.Â   Itâs available on theÂ GearDown Simulations StoreÂ for $10.01.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbbol</id>
+    <title>Orbx Releases Bolzano Airport for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/orbbol" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ce656b9acb4125be3f1f4_lipb1.jpg" rel="enclosure" type="image/jpeg" length="2969325"/>
+    <summary>Sim: MSFS. Orbx has just released their rendition of Bolzano Airport (LIPB) for Microsoft Flight Simulator, a small regional airport in South Tyrol, Northern Italy. The yearly traffic figures sit at less than 20 thousand passengers, with regional carriers like SkyAlps and Luxwing connecting the city to Berlin, DÃ¼sseldorf, and Hamburg, 7 times a week (as of December 2022).Â   In mid-2016, there was a public poll concerning the future of the airport, because the populace was unhappy with it costing chunks of money every year, with an eventual decision to liquidate the operator company and return the license to the Italian authorities, with potential closure in case of inability to find a new operator. Over 120 million euros were spent without reaching the intended result. Three years ago, the South Tyrol government managed to sell the airport to ABD Holding for 3.8 million euros. The new holders went on to extend the runway to 1,462m in mid-2021.Â   The scenery features realistic HD textures created from on-site photography, an updated layout with the new runway extension, custom static DC-3 and helicopters, main terminal with interior modeling, and a custom ortho.  Itâs available onÂ Orbx DirectÂ for roughly $16.57, requiring at least 2.74 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fss175</id>
+    <title>FlightSim Studio Previews E175âs Systems for MSFS</title>
+    <updated>2022-12-16T00:00:00+00:00</updated>
+    <link href="/news/fss175" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ced42504128bbf622120f_systems1.png" rel="enclosure" type="image/png" length="1249685"/>
+    <summary>Sim: MSFS. FlightSim Studio AG (in cooperation with X-Crafts) and AviationLads, have recently previewed the systems on the upcoming Embraer 175 for Microsoft Flight Simulator. In one minute and fifty six seconds of footage, they showcase an APU start, followed by an engine start and an - almost - take-off roll.Â   According to an AviationLadsÂ Facebook Post, the next preview is the last one.Â   The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   There is still no information regarding system depth, pricing, or availability. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-16T00:00:00+00:00</published>
   </entry>
 </feed>
