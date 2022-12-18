@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-17T18:21:51.262817+00:00</updated>
+  <updated>2022-12-18T18:21:37.237766+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rdpnbr</id>
-    <title>RDPresets Announces Bergen Flesland Airport for MSFS</title>
-    <updated>2022-12-09T00:00:00+00:00</updated>
-    <link href="/news/rdpnbr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639390e458c4aa2d4c611a84_bergen1.jpg" rel="enclosure" type="image/jpeg" length="743439"/>
-    <summary>Sim: MSFS. RDPresets has recently announced their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6.5 million passengers. Itâs owned and operated by Avinor (state owned company).Â   Itâs a focus city for Bergen Air Transport, Bristow Norway, CHC Helikopter Service, Scandinavian Airlines, and Wideroe, making for a huge domestic and international network. CHC and Bristow feature an unusual type of passenger traffic, transporting people to offshore oil platforms in the North Sea. Itâs visited by many other airlines such as Air France, airBaltic, Finnair, Flyr, Icelandair, KLM, Lufthansa, and WizzAir, along with seasonal carriers.  The scenery will feature an accurate rendition of the airport, with a modeled interior, custom ground textures, and detailed landside buildings. Â  It should be available tomorrow on theÂ RDPresets Store. Thereâs no information on requirements yet. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/obxmyl</id>
-    <title>Orbx Releases McCall Municipal Airport for MSFS</title>
-    <updated>2022-12-09T00:00:00+00:00</updated>
-    <link href="/news/obxmyl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6393997608813abdd302ff66_kmyl1.png" rel="enclosure" type="image/png" length="2065484"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of McCall Municipal Airport (KMYL) for Microsoft Flight Simulator, by their newest independent developer Mark âMiloâ Taylor, which already made a rendition of MYL under MSX Creations. This new rendition is an overhaul of the previous work, with custom library objects, scenery placement and re-texturing.Â   It is a city-owned public-use airport in McCall (Idaho), categorized by the FAA as a general aviation facility. It had 43,600 aircraft operations between August 2009 and August 2010, averaging 119 flights per day, 84% of which comprehended general aviation traffic, and 16% were air taxi, with the remaining 1% being military traffic. Â   With a 1862m long runway, McCall Mun. Airport can accommodate most private jets and medium-range airliners.Â   The scenery features true-to-life ground and apron texturing (including the recent apron resurfacing), realistic night lighting, PBR texturing, level of detail work to warrant good performance, multiple custom static aircraft, airport specific windsocks, over 160 custom objects, multiple custom animations, and hand-placed vegetation.  Itâs available onÂ Orbx DirectÂ for roughly $19.06, requiring at least 3.64 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gdscae</id>
     <title>GearDown Simulations Teases SÃ£o Paulo Catarina Executive for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ced42504128bbf622120f_systems1.png" rel="enclosure" type="image/png" length="1249685"/>
     <summary>Sim: MSFS. FlightSim Studio AG (in cooperation with X-Crafts) and AviationLads, have recently previewed the systems on the upcoming Embraer 175 for Microsoft Flight Simulator. In one minute and fifty six seconds of footage, they showcase an APU start, followed by an engine start and an - almost - take-off roll.Â   According to an AviationLadsÂ Facebook Post, the next preview is the last one.Â   The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   There is still no information regarding system depth, pricing, or availability. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddrnwr</id>
+    <title>Drzewiecki Design Releases Newark Liberty International Airport for MSFS</title>
+    <updated>2022-12-17T00:00:00+00:00</updated>
+    <link href="/news/ddrnwr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639e3931ce64bf9f83e9fede_newark1.png" rel="enclosure" type="image/png" length="2459055"/>
+    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Newark Liberty International Airport (KEWR) for Microsoft Flight Simulator, the second busiest airport in the metropolitan area of New York, averaging 33 million passengers yearly as of 2021. Itâs a hub for United Airlines, with 66% of the passenger traffic share between 2021 and 2022, offering a variety of domestic and international routes covering Europe, Asia, and South America. American Airlines, Delta Air Lines, Spirit, and JetBlue also feature a strong presence in the airport, although with a much less significant passenger share.Â   The scenery features a high-quality and up-to-date model of EWR, with extensive details throughout the whole airport, FPS-friendly design, dynamic lighting, PBR materials, high-definition mesh, custom jetways, interior modeling at every terminal building with performance in mind, hangars and control towers, high-quality static aircraft, custom animated people, vehicles, and trains.  Itâs available onÂ Orbx DirectÂ and theÂ iniBuilds StoreÂ for roughly $23.30, requiring at least 7.37 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news!  â</summary>
+    <published>2022-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lrsx12</id>
+    <title>Laminar Research Releases X-Plane 12.00 Final</title>
+    <updated>2022-12-18T00:00:00+00:00</updated>
+    <link href="/news/lrsx12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639e6d96c0f947402d9b5f58_xp12-1.png" rel="enclosure" type="image/png" length="1334509"/>
+    <summary>Sim: X-Plane. Yesterday, Laminar Research made aÂ Twitter postÂ confirming the launch of X-Plane 12 as a final product after Release Candidate 6, meaning itâs no longer under the early access program, which started publicly in September of this year. After three months of hard work and lots of community feedback, X-Plane 12.00 is among us.  The simulator features volumetric 3D clouds, a physics-based photometric lighting model, worldwide 3D water, a full rewrite of the AI Air Traffic Control system, global 3D forests, seasonal textures, weather effects, revamped real weather data, and eight new aircraft (Airbus A330, Cessna Citation X, Lancair Evolution, Cirrus SR22, Piper PA-18 Super Cub, Vanâs RV-10, F-14 Tomcat, and the Robinson R-22 with and without floats).Â   The minimum specs require at least an i3 or AMD equivalent (Ryzen 3), 23 GB of free disk space, 2 GB of VRAM, and 8 GB of RAM. For optimal performance, you should be rocking at least an Intel i5 8600K or a Ryzen 5 3500, with a 4 GB VRAM GPU (DX12 capable) and 16 GB of RAM. Itâs good practice to try out theÂ demoÂ on the official website before making the purchase.Â   The full changelog for the RC6 follows down below:  XPD fixes: â Itâs available on theÂ official websiteÂ andÂ SteamÂ for $59.99. 747 screenshot is courtesy of AllNaturalBlue, and not part of the default aircraft roster. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-18T00:00:00+00:00</published>
   </entry>
 </feed>
