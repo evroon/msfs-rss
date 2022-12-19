@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-18T18:21:37.237766+00:00</updated>
+  <updated>2022-12-19T18:24:05.408394+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gdscae</id>
-    <title>GearDown Simulations Teases SÃ£o Paulo Catarina Executive for MSFS</title>
-    <updated>2022-12-10T00:00:00+00:00</updated>
-    <link href="/news/gdscae" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6394c9ab55496a9252a993a0_catarinacover.png" rel="enclosure" type="image/png" length="1999138"/>
-    <summary>Sim: MSFS. GearDown Simulations has recently teased their rendition of SÃ£o Paulo Catarina Executive International (SBJH) for Microsoft Flight Simulator, a general aviation airport serving the Metropolitan Area of SÃ£o Paulo, Brazil. Itâs the first private executive airport with International status in the country, built on 5.2 million square meters of land and situated near the main business centers of the state.  The airport development project aims to bring together characteristics from the best general aviation airports in the World, such as Teterboro and Paris Le Bourget, with help from companies such as Airport Consulting Vienna (ACV) and Ramboll, a Danish consulting engineering group. Built to accommodate up to 200,000 take-offs and landings per year, including long range jets, thanks to its 2500 meter long runway. It's the only executive airport in Brazil with authorization to operate flights to New York, London, and Paris. The scenery will feature an accurate rendition of the airport, with PBR models, a "98% accurate" terrain mesh, fully updated satellite imagery, custom objects, and models built based on projects sent by the airport administrator. Thereâs no information on install size or release date yet, but said to be coming soon (awaiting Marketplace approval).Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfluns</id>
     <title>Just Flight Teases UNS-1 Custom FMS for the 146 Professional</title>
@@ -150,6 +141,15 @@
     <link href="/news/lrsx12" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639e6d96c0f947402d9b5f58_xp12-1.png" rel="enclosure" type="image/png" length="1334509"/>
     <summary>Sim: X-Plane. Yesterday, Laminar Research made aÂ Twitter postÂ confirming the launch of X-Plane 12 as a final product after Release Candidate 6, meaning itâs no longer under the early access program, which started publicly in September of this year. After three months of hard work and lots of community feedback, X-Plane 12.00 is among us.  The simulator features volumetric 3D clouds, a physics-based photometric lighting model, worldwide 3D water, a full rewrite of the AI Air Traffic Control system, global 3D forests, seasonal textures, weather effects, revamped real weather data, and eight new aircraft (Airbus A330, Cessna Citation X, Lancair Evolution, Cirrus SR22, Piper PA-18 Super Cub, Vanâs RV-10, F-14 Tomcat, and the Robinson R-22 with and without floats).Â   The minimum specs require at least an i3 or AMD equivalent (Ryzen 3), 23 GB of free disk space, 2 GB of VRAM, and 8 GB of RAM. For optimal performance, you should be rocking at least an Intel i5 8600K or a Ryzen 5 3500, with a 4 GB VRAM GPU (DX12 capable) and 16 GB of RAM. Itâs good practice to try out theÂ demoÂ on the official website before making the purchase.Â   The full changelog for the RC6 follows down below:  XPD fixes: â Itâs available on theÂ official websiteÂ andÂ SteamÂ for $59.99. 747 screenshot is courtesy of AllNaturalBlue, and not part of the default aircraft roster. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tailhr</id>
+    <title>TaiModels Releases London Heathrow for X-Plane 11 &amp; 12</title>
+    <updated>2022-12-18T00:00:00+00:00</updated>
+    <link href="/news/tailhr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639f99823990992f8f0a0dc1_tai1.png" rel="enclosure" type="image/png" length="2366978"/>
+    <summary>Sim: X-Plane. TaiModels has recently released their rendition of Heathrow Airport (EGLL) for X-Plane 11 and 12, the largest airport in London and the eight-busiest in Europe by total passenger traffic, with a yearly average of 80 million passengers.Â   Itâs home to British Airways and Virgin Atlantic (international only), with a route network that impresses both domestically and internationally.Â   Edinburgh (381,994), Glasgow (369,026), and Belfast City (338,431) Â are among the top three busiest domestic destinations. International-wise, Dubai (808,620), New York JFK (615,543), and Madrid (425,759) are the hottest ones. There are 214 destinations from LHR, across 84 countries, with 89 different airlines.  The scenery features high-detail models, high-quality textures with PBR materials, an interior for T5 and T2, performance optimizations, SAM animated jetways, flat options compatible with Ortho4Xp, autogen around the airport, ground traffic plugin, and weather textures (XP12).Â   Itâs available on theÂ iniBuilds StoreÂ andÂ X-Plane.OrgÂ for roughly $28.00, requiring at least 3.16GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-18T00:00:00+00:00</published>
   </entry>
 </feed>
