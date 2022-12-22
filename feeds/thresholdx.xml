@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-21T18:23:33.768322+00:00</updated>
+  <updated>2022-12-22T18:23:51.751890+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/p42flw</id>
-    <title>Parallel 42 Announces Flow for MSFS</title>
-    <updated>2022-12-16T00:00:00+00:00</updated>
-    <link href="/news/p42flw" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639bcd97d166e025c5e168ae_flow1.png" rel="enclosure" type="image/png" length="43968"/>
-    <summary>Sim: MSFS. Parallel 42 recently announced Flow, their latest project for Microsoft Flight Simulator, an easy and intuitive navigation wheel with many features and multiple customization options, for each user or aircraft. It replaces MSFSâ default toolbar with similar functions and more, including the possibility to convert units on the go. Time and weather control, cameras, door controls, server change, TOD calculator, METAR request, scripting, etc., are demonstrated in the two minute video.Â   According to the video description, the product will feature three tiers: Flow, Flow Essentials, and Flow Pro. There isnât enough information on the differences between the tiers (other than what is shown on the teaser), aside from the fact that there will be a free tier with limited features.Â   Itâs said to be coming soon toÂ Orbx Direct. Thereâs no information about install size or pricing yet.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/impcan</id>
     <title>Impulse Simulations Releases Canberra International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a24afa78b320aee260e3fd_lfob1.png" rel="enclosure" type="image/png" length="3878891"/>
     <summary>Sim: X-Plane. Boundless has recently released their rendition of Beauvais-TillÃ© Airport (LFOB) for X-Plane 11 and 12, the tenth busiest airport in France as of 2016, with a yearly average of 4 million passengers (pre-pandemic). Itâs a popular destination for low-cost carriers such as Ryanair and WizzAir, which use it as a Parisian base.  Located only 85 km from Paris, itâs often called âParis-Beauvais Airportâ due to its proximity with the famous French city. With cheaper landing fees, less traffic and the convenience of not being in the middle of the fuss, itâs the airport of choice for many charters and LCCs. As a matter of fact, the airport has grown quite significantly after Ryanair embraced Beauvais in 1997, with the creation of a second terminal in 2010 to handle the extra traffic figures.Â   Other than WZZ and RYR with their extensive route networks to and from LFOB, the airport is also visited by Air Moldova with a single flight to Chisinau, HiSky with legs to Baia Mare and Chisinau, and EasyJet to Lisbon (flights to Milan and Nice to begin in mid-2023).Â   The scenery features an accurate rendition of the airport as it stands, with real-world airport layout, up-to-date high-definition orthoimagery, 4K photorealisitc textures, PBR textures on ground and buildings, dynamic night lighting based of real-life color tones, 3D vegetation, 3D grass, nearby houses and farms, rain and seasonal effects on ground (XP12 only), custom high-definition PBR vehicles, and fully accurate ground markings with realistic wear and tear.  Itâs available onÂ Boundless DirectÂ for roughly $17.05, requiring at least 880 MB of free disk space to install. Shout out to flightyler on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hst650</id>
+    <title>Hot Start Updates CL650 for X-Plane 11 &amp; 12 </title>
+    <updated>2022-12-21T00:00:00+00:00</updated>
+    <link href="/news/hst650" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a367517e5fd6c55ae56155_cl650.png" rel="enclosure" type="image/png" length="604525"/>
+    <summary>Sim: X-Plane. Hot Start has recently updated their popular Challenger 650 to version 1.7, adding X-Plane 12 support, a two-pilot shared cockpit, and a huge list of bug fixes and improvements. The âupdate highlightsâ follow down below: â Please refer to the updateÂ announcement post, where you can find the full changelog with all the bug fixes and new features.  The Challenger 650 is part of the Challenger 600 family of business jets, introduced in the mid-70s, with its first flight in late 1978 and eventual certification in August 1980. Since then, many variants were created, with the 650 being the newest, dating back to 2015. It features a redesigned interior cabin, Rockwell Collins Pro Line 21 avionics, and an increase in take-off thrust. In real-life, the total cost nears 33 million usd (as of 2021). The X-Plane 11/12 version, on the other hand, can be yours for roughly $115.Â   The CL650 add-on features a high fidelity rendition of the real-world aircraft, with a complex simulation of its intricacies, along with a simulated FBO and all the things that go hand in hand such as full pre-flight duties, aiming for an unparalleled level of immersion.Â   Itâs available onÂ X-AviationÂ for $114.95, requiring a minimum of an i5 (or a quad-core equivalent), GTX 970 or similar, and 16 GB of RAM to function properly. An i7 or an octa-core equivalent, RTX 2070 or equivalent is recommended for optimal performance.Â  Shout out to Vinniethegreat on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-21T00:00:00+00:00</published>
   </entry>
 </feed>
