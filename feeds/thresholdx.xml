@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-23T18:23:05.031307+00:00</updated>
+  <updated>2022-12-24T18:21:55.619482+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gdsspc</id>
-    <title>GearDown Simulations Releases SÃ£o Paulo Catarina Executive for MSFS</title>
-    <updated>2022-12-16T00:00:00+00:00</updated>
-    <link href="/news/gdsspc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639cd2f8b07e136a1cc5e679_cat1.png" rel="enclosure" type="image/png" length="2935330"/>
-    <summary>Sim: MSFS. GearDown Simulations has recently released their rendition of SÃ£o Paulo Catarina International Executive Airport (SBJH) for Microsoft Flight Simulator, the first executive airport in Brazil with international status, and only a 30 minute drive away from SÃ£o Paulo, the biggest city in the country and the nationsâ business center.Â   Designed by Sig Bergamin, a famous brazilian architect, the airport features state-of-the-art terminals and a large hangar area, both using sustainable architectural methods, aiming for ultimate comfort and privacy. The project was aided by ACV (Airport Consulting Vienna), Ramboll (Danish engineering company), ALG (spanish consultancy company), and others (not mentioned by the airport ownerâs website). The airport was built to withstand 200 thousand take-offs and landings yearly, including intercontinental executive jets. With a 2,500m long runway, it can easily take a 738 BBJ, for example.Â   It is the only executive airport in Brazil with authorization to operate flights to New York, London and Paris. It is the sole executive gateway to the country for business fliers.Â   The scenery features an accurate rendition of the airport, modeled and textured with the help of over 3000 photos sent by the airport management, with a performance-friendly approach regarding the interior modeling, bearing brazilian customers in mind. It includes updated satellite imagery, an accurate mesh, and an open hangar. The developer stated plans to update the scenery once the hangars under construction are completed, along with a new taxiway.Â   Itâs available on theÂ GearDown Simulations StoreÂ for $10.01.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbbol</id>
-    <title>Orbx Releases Bolzano Airport for MSFS</title>
-    <updated>2022-12-16T00:00:00+00:00</updated>
-    <link href="/news/orbbol" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ce656b9acb4125be3f1f4_lipb1.jpg" rel="enclosure" type="image/jpeg" length="2969325"/>
-    <summary>Sim: MSFS. Orbx has just released their rendition of Bolzano Airport (LIPB) for Microsoft Flight Simulator, a small regional airport in South Tyrol, Northern Italy. The yearly traffic figures sit at less than 20 thousand passengers, with regional carriers like SkyAlps and Luxwing connecting the city to Berlin, DÃ¼sseldorf, and Hamburg, 7 times a week (as of December 2022).Â   In mid-2016, there was a public poll concerning the future of the airport, because the populace was unhappy with it costing chunks of money every year, with an eventual decision to liquidate the operator company and return the license to the Italian authorities, with potential closure in case of inability to find a new operator. Over 120 million euros were spent without reaching the intended result. Three years ago, the South Tyrol government managed to sell the airport to ABD Holding for 3.8 million euros. The new holders went on to extend the runway to 1,462m in mid-2021.Â   The scenery features realistic HD textures created from on-site photography, an updated layout with the new runway extension, custom static DC-3 and helicopters, main terminal with interior modeling, and a custom ortho.  Itâs available onÂ Orbx DirectÂ for roughly $16.57, requiring at least 2.74 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fss175</id>
-    <title>FlightSim Studio Previews E175âs Systems for MSFS</title>
-    <updated>2022-12-16T00:00:00+00:00</updated>
-    <link href="/news/fss175" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639ced42504128bbf622120f_systems1.png" rel="enclosure" type="image/png" length="1249685"/>
-    <summary>Sim: MSFS. FlightSim Studio AG (in cooperation with X-Crafts) and AviationLads, have recently previewed the systems on the upcoming Embraer 175 for Microsoft Flight Simulator. In one minute and fifty six seconds of footage, they showcase an APU start, followed by an engine start and an - almost - take-off roll.Â   According to an AviationLadsÂ Facebook Post, the next preview is the last one.Â   The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   There is still no information regarding system depth, pricing, or availability. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ddrnwr</id>
-    <title>Drzewiecki Design Releases Newark Liberty International Airport for MSFS</title>
-    <updated>2022-12-17T00:00:00+00:00</updated>
-    <link href="/news/ddrnwr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639e3931ce64bf9f83e9fede_newark1.png" rel="enclosure" type="image/png" length="2459055"/>
-    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Newark Liberty International Airport (KEWR) for Microsoft Flight Simulator, the second busiest airport in the metropolitan area of New York, averaging 33 million passengers yearly as of 2021. Itâs a hub for United Airlines, with 66% of the passenger traffic share between 2021 and 2022, offering a variety of domestic and international routes covering Europe, Asia, and South America. American Airlines, Delta Air Lines, Spirit, and JetBlue also feature a strong presence in the airport, although with a much less significant passenger share.Â   The scenery features a high-quality and up-to-date model of EWR, with extensive details throughout the whole airport, FPS-friendly design, dynamic lighting, PBR materials, high-definition mesh, custom jetways, interior modeling at every terminal building with performance in mind, hangars and control towers, high-quality static aircraft, custom animated people, vehicles, and trains.  Itâs available onÂ Orbx DirectÂ and theÂ iniBuilds StoreÂ for roughly $23.30, requiring at least 7.37 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news!  â</summary>
-    <published>2022-12-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lrsx12</id>
-    <title>Laminar Research Releases X-Plane 12.00 Final</title>
-    <updated>2022-12-18T00:00:00+00:00</updated>
-    <link href="/news/lrsx12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639e6d96c0f947402d9b5f58_xp12-1.png" rel="enclosure" type="image/png" length="1334509"/>
-    <summary>Sim: X-Plane. Yesterday, Laminar Research made aÂ Twitter postÂ confirming the launch of X-Plane 12 as a final product after Release Candidate 6, meaning itâs no longer under the early access program, which started publicly in September of this year. After three months of hard work and lots of community feedback, X-Plane 12.00 is among us.  The simulator features volumetric 3D clouds, a physics-based photometric lighting model, worldwide 3D water, a full rewrite of the AI Air Traffic Control system, global 3D forests, seasonal textures, weather effects, revamped real weather data, and eight new aircraft (Airbus A330, Cessna Citation X, Lancair Evolution, Cirrus SR22, Piper PA-18 Super Cub, Vanâs RV-10, F-14 Tomcat, and the Robinson R-22 with and without floats).Â   The minimum specs require at least an i3 or AMD equivalent (Ryzen 3), 23 GB of free disk space, 2 GB of VRAM, and 8 GB of RAM. For optimal performance, you should be rocking at least an Intel i5 8600K or a Ryzen 5 3500, with a 4 GB VRAM GPU (DX12 capable) and 16 GB of RAM. Itâs good practice to try out theÂ demoÂ on the official website before making the purchase.Â   The full changelog for the RC6 follows down below:  XPD fixes: â Itâs available on theÂ official websiteÂ andÂ SteamÂ for $59.99. 747 screenshot is courtesy of AllNaturalBlue, and not part of the default aircraft roster. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tailhr</id>
-    <title>TaiModels Releases London Heathrow for X-Plane 11 &amp; 12</title>
-    <updated>2022-12-18T00:00:00+00:00</updated>
-    <link href="/news/tailhr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/639f99823990992f8f0a0dc1_tai1.png" rel="enclosure" type="image/png" length="2366978"/>
-    <summary>Sim: X-Plane. TaiModels has recently released their rendition of Heathrow Airport (EGLL) for X-Plane 11 and 12, the largest airport in London and the eight-busiest in Europe by total passenger traffic, with a yearly average of 80 million passengers.Â   Itâs home to British Airways and Virgin Atlantic (international only), with a route network that impresses both domestically and internationally.Â   Edinburgh (381,994), Glasgow (369,026), and Belfast City (338,431) Â are among the top three busiest domestic destinations. International-wise, Dubai (808,620), New York JFK (615,543), and Madrid (425,759) are the hottest ones. There are 214 destinations from LHR, across 84 countries, with 89 different airlines.  The scenery features high-detail models, high-quality textures with PBR materials, an interior for T5 and T2, performance optimizations, SAM animated jetways, flat options compatible with Ortho4Xp, autogen around the airport, ground traffic plugin, and weather textures (XP12).Â   Itâs available on theÂ iniBuilds StoreÂ andÂ X-Plane.OrgÂ for roughly $28.00, requiring at least 3.16GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/eghfms</id>
     <title>Burning Blue Design Releases Solent Airport (EGHF) for Microsoft Flight Simulator</title>
@@ -151,5 +97,59 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a4eecf0ad2c13a66a9d182_ibi4.png" rel="enclosure" type="image/png" length="1761747"/>
     <summary>Sim: MSFS. Sim-Wings has recently updated their rendition of Ibiza Airport (LEIB) for Microsoft Flight Simulator, adding new features such as new jetways, texture improvements, terminal interiors, and more. The update is free for previous owners.Â   The airport serves the Balearic Islands of Ibiza, sitting 7km southwest of Ibiza Town. With a yearly average of 8 million passengers (pre-pandemic), itâs among the busiest airports in Spain, with a year-round domestic network and lots of seasonal Intra-European routes (mostly during summer). Vueling offers a fixed schedule with flights to Alicante, Barcelona, Bilbao, Madrid, MÃ¡laga, Paris-Orly, Seville, and Valencia, with seven extra routes during the summer, when they temporarily base some of their aircraft there.  The update changelog follows down below:  Itâs available on theÂ Aerosoft ShopÂ for roughly $15.99, requiring at least 5 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2022-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fssmcd</id>
+    <title>FlightSim Studio Previews E175âs MCDU for MSFS</title>
+    <updated>2022-12-23T00:00:00+00:00</updated>
+    <link href="/news/fssmcd" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a63ac83eafb5b7ae8dc98b_crafts1.png" rel="enclosure" type="image/png" length="1606316"/>
+    <summary>Sim: MSFS. FlightSim Studio AG (in cooperation with X-Crafts) and AviationLads, have recently previewed the MCDU (Multi-Function Control and Display Unit) of the upcoming Embraer 175 for Microsoft Flight Simulator, showcasing a short route setup, performance initialization, and take-off data insertion. Itâs the fourth and last preview video, with the next one being the official trailer and its eventual release under an early access program.  Yesterday, X-Crafts made aÂ statementÂ on their partnership with FlightSim Studio AG in order to bring the Embraer 175 to MSFS, where they clarified both are different products, developed by different teams and with distinct objectives, with the only commonality between both product lines being the 3D model, which is the same. They have also reinforced their commitment to bring the E-Jets to X-Plane 11/12 at one point in 2023.  The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   There is no information regarding the release date or pricing yet, but Threshold will keep you informed! â</summary>
+    <published>2022-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cow206</id>
+    <title>Cowan Simulation Releases Bell 206B3 for MSFS</title>
+    <updated>2022-12-24T00:00:00+00:00</updated>
+    <link href="/news/cow206" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a642eecaf763b6416005a7_cow1-min.png" rel="enclosure" type="image/png" length="3532361"/>
+    <summary>Sim: MSFS. Cowan Simulation has recently released their rendition of the Bell 206B3 for Microsoft Flight Simulator, a popular variant of the 206 family whose production ended in 2010 (later variants were to cease production in 2017). It is their first helicopter for MSFS, after releasing eight different models for X-Plane.  The Bell 206 had its first flight in 1962, after winning a competition held by the United States Navy to develop a Light Observation Helicopter. Their D-250 design went on to become the YHO-4, where it failed to win the contract bid, and Bell found themselves trying to market it as a civil aircraft (Model 206). The first attempt didnât work well (terrible commercial success), but an eventual redesign aiming for a sleeker and aesthetic body made it a huge success. That one was launched as the Bell 206A JetRanger.Â   The first 206B JetRanger was introduced in 1971, with the 206B-3 coming in 1977 with a modified tail rotor, and improved engine. It got popular among TV channels for traffic and news reporting, armies, police departments, and private use.Â   The add-on features 4K PBR textures, realistic start up procedure, realistic flight dynamics, custom 3D instruments, virtual reality compatible, Wwise fully dynamic sound pack, detailed night lighting, and free future updates.Â   Itâs available for purchase onÂ CowanSimâs websiteÂ for $32.99, requiring at least 2 GB of free disk space to install. Shout out to Henriks1 on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ininan</id>
+    <title>iniBuilds Releases Nadi International for MSFS</title>
+    <updated>2022-12-24T00:00:00+00:00</updated>
+    <link href="/news/ininan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a64866724e8cdfd0eb8eec_nadi1.png" rel="enclosure" type="image/png" length="2708105"/>
+    <summary>Sim: MSFS. iniBuilds has just released their rendition of Nadi International Airport (NFFN) for Microsoft Flight Simulator, the main international airport of Fiji and the main hub for Fiji Airways and Fiji Link. It averages 2.5 million passengers yearly (pre-pandemic), handling 97% of the international traffic to the island, making it the gateway to Fiji.  Itâs regularly visited by Air New Zealand with a direct flight to Auckland (and two seasonal hops to Christchurch and Wellington), Air Niugini with legs to Honiara and Port Moresby, AirCalin to NoumÃ©a and Wallis Island, JetStar and Qantas with a hop to Sydney, and Virgin Australia with 3 aussie destinations: Brisbane, Melbourne, and Sydney. Fiji Airways, as the national carrier, offers a broader route network with flights to Adelaide, Apia-Faleolo, Auckland, Brisbane, Christchurch, Honiara, Honolulu, Los Angeles, Melbourne, Nukuâalofa, Port Vila, San Francisco, Singapore, Sydney, Tarawa, Vancouver, and Wellington.Â   The scenery features an accurate rendition of Nadi International as it currently stands, with hand-made high-resolution ground textures, true-to-life landside recreation with custom decals, signposts, vegetation, parking barriers, and more; accurately modeled dynamic airport lighting (with its real positioning), accurate taxi signage, high-detail models of all airport buildings and objects, hand-placed vegetation, ground clutter, vehicles, and handling objects; accurate logos, real-world decals, and advertisements scattered throughout the airport; custom built jetways with PBR texturing, custom made tropical vegetation, terminals populated with people, Level of Detail optimization with performance in mind, and surrounding areas populated with churches, mosques, jetties, and boats.  Itâs available on theÂ iniBuilds StoreÂ for $12.03 (special Christmas Extravaganza sale price, expiring in 24 hours), requiring at least 5.37 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lowinc</id>
+    <title>Low-End PC Studios Releases Inca Manco CÃ¡pac International v2 for MSFS</title>
+    <updated>2022-12-24T00:00:00+00:00</updated>
+    <link href="/news/lowinc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a65c47e100d7341a70d38a_inca1.jpg" rel="enclosure" type="image/jpeg" length="668943"/>
+    <summary>Sim: MSFS. Low-End PC Studios has recently released their updated rendition of Inca Manco CÃ¡pac International Airport (SPJL) for Microsoft Flight Simulator, one of the highest airports in the World at 12,552 feet. It serves Juliaca, the Capital of San Roman Province in Southeastern Peru, the largest city in the region with 276,110 inhabitants. If being one of the highest commercial airports in South America was not enough, it also features one of the longest runways, with 4,200 meters of length.Â   It was named after Manco CÃ¡pac, the founder of the Inca Civilization in Cuzco.Â   Itâs currently served by JetSmart PerÃº, LATAM PerÃº, and Sky Airline Peru, with scheduled flights to Lima and Cuzco (LATAM PerÃº only). Despite being an International airport, it doesnât feature a single scheduled international flight.Â   The scenery features an accurate rendition of the airport, with a 3D terminal and tower, PBR textures, and projected mesh for custom runway. The v2 update focused on correcting the windsock, adding two new city landmarks, a runway elevation profile, and runway texture improvements.Â   Itâs available onÂ SimMarketÂ for roughly $6.58 (38% off), requiring at least 167 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffa350</id>
+    <title>FlightFactor Releases A350 Beta Update for X-Plane 12</title>
+    <updated>2022-12-24T00:00:00+00:00</updated>
+    <link href="/news/ffa350" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a6646d62ebc83521138d29_ff1.png" rel="enclosure" type="image/png" length="1143321"/>
+    <summary>Sim: X-Plane. FlightFactor recently released a beta update (v1.7.01) for their A350 add-on, adding several improvements to the X-Plane 12 version, including a pitch behavior tuning for the new platform, lights and reflection compatibility, beacon light fix, and visual issues with some knobs.  The FlightFactor A350 XWB Advanced offers a high-quality rendition of the Airbus A350, with a high-resolution virtual cockpit, ground equipment, advanced systems simulation with SIDs and STARS, custom failures, Airbus electronic checklist system, fully customized ECAM monitoring system, full fly-by-wire simulation with realistic implementation of the normal laws, implementation of all Airbus autopilot modes (except for some nonâprecision approach modes), independent autopilots, custom 3D stereo engine sound system, and an interactive flight attendant helper, along with seven liveries. Itâs available on X-Plane.Org Store for $45.47 (30% off), requiring at least 800 MB of free disk space to install.Images are courtesy of AllNaturalBlue, and special thanks to Poptart on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmd737</id>
+    <title>PMDG Updates 737 Lineup for MSFS</title>
+    <updated>2022-12-24T00:00:00+00:00</updated>
+    <link href="/news/pmd737" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a6d4c34c758f9f4b666bd5_boeing1.png" rel="enclosure" type="image/png" length="2415099"/>
+    <summary>Sim: MSFS. PMDG has recently launched an update (3.00.0053) to their 737 lineup for Microsoft Flight Simulator, focusing on increasing the quality and performance of the product. The highlights of the update include further work on the aircraftâs stability and prevention of eventual disturbances caused by the simulatorâs exaggerated gusts, the addition of computationally derived stall angle of attack models for all wing configuration conditions on all of the three airplanes, reworked cabin collision models to allow native transition from cockpit to cabin, soundscape improvements (and expansion) in the cabin area, marked as a work in progress. The remainder of the changelog follows down below:  â Regarding the 737-900, Robert RandazzoâsÂ update announcement postÂ mentions good progress on the testing, with a few areas they intend to clean up before the release.Â   The Universal Flight Tablet is partially working but not quite ready yet due to the fact they plan to build an universal framework that allows the EFB to work across their entire aircraft lineup, including stuff that is yet to come like the 777, the 737 MAX, and the 747. Such universality takes development time, but itâs said to be coming soon.Â   The DC-6 update is waiting on an Asobo update for MSFS that has to do with the avionics, and when that is out, PMDG will be able to roll out theirs with a greater range of GPS options, improved trim and flight characteristics, and extra stability for the autopilot when tracking a course or an approach.Â   They claim to have âquite a bitâ going on behind the scenes, which will be revealed once the 737-900 and the EFB are out to the public. Â The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Images are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news!  â</summary>
+    <published>2022-12-24T00:00:00+00:00</published>
   </entry>
 </feed>
