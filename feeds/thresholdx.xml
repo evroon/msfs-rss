@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-27T18:22:49.390652+00:00</updated>
+  <updated>2022-12-28T18:23:01.480276+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inisat</id>
-    <title>iniBuilds Updates San Antonio International Airport for MSFS</title>
-    <updated>2022-12-20T00:00:00+00:00</updated>
-    <link href="/news/inisat" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a12669a612c58d1da437e7_inisat1.png" rel="enclosure" type="image/png" length="3243900"/>
-    <summary>Sim: MSFS. iniBuilds has recently updated their rendition of San Antonio International Airport (KSAT) for Microsoft Flight Simulator, serving the city of San Antonio, TX with an average of 260 daily departures to 53 destinations in the United States and Mexico, with more than 10 million passengers yearly.  Itâs served by AeromÃ©xico Connect (Mexico City), Alaska Airlines (Seattle-Tacoma), Allegiant Air (Las Vegas), American Airlines (Charlotte, Chicago OâHare, Dallas-Fort Worth, Los Angeles, Miami, and Phoenix-Sky Harbor), American Eagle (Chicago OâHare, Los Angeles, and Miami), Delta Air Lines (Atlanta, Detroit, Los Angeles, Minneapolis, and Salt Lake City), Frontier (Atlanta, Denver, Las Vegas, Orlando, and Philadelphia), JetBlue (Boston and New York JFK), Southwest Airlines (Atlanta, Baltimore, CancÃºn, Chicago-Midway, Dallas-Love, Denver, El Paso, Houston-Hobby, Las Vegas, Los Angeles, Nashville, New Orleans, Oklahoma City, Orlando, Phoenix-Sky Harbor, San Diego, Saint Louis, and Tampa), United Airlines (Chicago OâHare, Denver, Houston, Newark, San Francisco, and Washington-Dulles), United Express (Chicago OâHare, Houston-Intercontinental, and Washington-Dulles), Viva Aerobus (LÃ©on/Del-Bajio, Mexico City, Monterrey), and Volaris (Guadalajara and Mexico City). Â  Dallas-Fort Worth is the busiest destination with 495,000 passengers a year, followed by Atlanta and Denver at 394,000 and 352,000, respectively. Southwest tops the chart regarding passenger share as of 2021, with 39% (1,274,000), with American in 2nd with 930,000 (28,56%), and Delta with 281,000 (8,62%).Â   The scenery update features another round of performance optimizations, better LODs for 3D vegetation and parked vehicles, ground polygon rework to correct deformed taxilines and asphalt materials, addition of a hangar interior with automated doors, added missing highway overpass bridges, night lighting rework, general enhancement to visuals with steady performance balance, and compatibility with iniManager configuration options.Â   Itâs available on theÂ IniBuilds StoreÂ for roughly $15.04 (promotional price), requiring at least 6.61 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mokchi</id>
     <title>Mokui Releases Chinggis Khaan International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a9b5b0d00104be72bc3eb0_FQlvahYU.jpeg" rel="enclosure" type="image/jpeg" length="269798"/>
     <summary>Sim: X-Plane. The well-known package for X-plane that enhances forestry and tree sceneries that are automatically generated has recently received a new update which promises to provide users with an entirely new and improved experience.Â  In their latest 2.1 version update, all regions have been re-compiled to bring the latest and most accurate version possible. Along with this, the team behind Global Forests have added coverage for South American rejoins, Which were previously not included.Â  Along with the news of their latest update, the team behind Global Forests have revealed it will now be available exclusively through Orbx.Â  To read more about the announcement you can follow this link!Â  â</summary>
     <published>2022-12-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hche</id>
+    <title>Fly 2 High Releases Cheongju International Airport for MSFS</title>
+    <updated>2022-12-28T00:00:00+00:00</updated>
+    <link href="/news/f2hche" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63aba1b4aaed7110b371340f_cheo.jpg" rel="enclosure" type="image/jpeg" length="370215"/>
+    <summary>Sim: MSFS. Fly 2 High has recently released their rendition of Cheongju International Airport (RKTU) for Microsoft Flight Simulator, serving the cities of Cheongwon-Ku, Daejeon, and Sejong with an yearly average of 2 million passengers. It was built as a military airbase in 1978, with the international airport plan to begin construction in 1984 and its eventual conclusion in December 1996, opening in April 1997.  Back in the 80s, Cheongju was selected as a potential construction site for Koreaâs main international airport, but Incheon ended up being the chosen one.  The airport was built to handle the current yearly traffic (2 million people) and 196 thousand airplane operations, along with a parking lot big enough for 770 cars. It also happens to house a fighter wing of the Korean Air Force, which means taking photographs of the apron, runways, and the military facilities is strictly prohibited. Itâs served by nine airlines, with a selection of domestic routes and international legs to China, Japan, Taiwan, and Thailand. Aero K and Asiana fly from Cheongju to Jeju, Bamboo Airways operates a seasonal leg to Quy Nhon, Jeju Air flies to Guam, Jeju, Osaka-Kansai, and Taipei-Taoyuan, Jin Air and Korean Air fly to Jeju, Sky Angkor Airlines operates a seasonal hop to Siem Reap, Tâway Air flies to Da Nang, and Yakutia Airlines operates two seasonal journeys to Khabarovsk and Vladivostok. The scenery features an accurate rendition of RKTU, with custom jetways, dynamic lighting, PBR materials, animated humans, and performance friendly optimization. Itâs available on SimMarket for roughly $12.75, requiring at least 2 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-28T00:00:00+00:00</published>
   </entry>
 </feed>
