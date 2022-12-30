@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-29T18:23:12.400194+00:00</updated>
+  <updated>2022-12-30T18:22:32.171091+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/avtfra</id>
-    <title>Aviotek Simulation Software Releases Frankfurt Airport for X-Plane 11 &amp; 12</title>
-    <updated>2022-12-20T00:00:00+00:00</updated>
-    <link href="/news/avtfra" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a2431b13166c26ad4125b3_fra1.png" rel="enclosure" type="image/png" length="2260274"/>
-    <summary>Sim: X-Plane. Aviotek Simulation Software has recently released their rendition of Frankfurt International Airport (EDDF) for X-Plane 11 and 12, the busiest airport in Germany and the 4th in Europe, with a yearly average of 69 million passengers. Offering more than 300 destinations in 5 continents, it is the airport with the most direct routes in the World. It is the Main hub for Lufthansa, the national carrier of Germany, with an extensive route network both intra-european and transcontinentally. The regional sister, Lufthansa CityLine, also operates out of FRA with their fleet of regional aircraft. Itâs also a focus city for many LCCs like the Lufthansa-owned Eurowings, Eurowings Discover, Condor, and TUI fly Deutschland, with many seasonal routes to popular destinations in Spain, Greece, and Portugal.   The scenery features a high-quality rendition of the airport, with a high-detail apron and terminal buildings, an updated layout, custom animated jetways (SAM compatible), up-to-date taxiways and runway signage, more than fifteen square kilometers of hand-placed high-resolution orthoimagery, custom animated airport vehicles and highway traffic, more than 150,000 custom hand placed objects, hand-made terrain and runway profiles made with special software, realistic high dynamic range night lighting, large amounts of ground service equipment and custom airport vehicles, and accurately placed custom static aircraft. Itâs available on Orbx Direct for roughly $27.33, requiring 11.22 GB of free disk space to install. The developer warns about potential issues with X-Plane 12 because the platform is still under active development, and things might not work as expected. Customer support wonât be provided until then (only for X-Plane 11).  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/boupar</id>
     <title>Boundless Releases Paris-Beauvais Airport for X-Plane 11 &amp; 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/simrep" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ad0c13a1f81e76eda2c07f_rep1.png" rel="enclosure" type="image/png" length="1009292"/>
     <summary>Sim: X-Plane. SimCoders has recently released an expansion pack for the default Cirrus SR22 included in X-Plane 12, improving the flight dynamics, adding an interactive walkaround system, a mass and balance tool, a custom piston engine simulation, and more.Â   The Cirrus SR22 is a single-engine aircraft launched in 2001, manufactured in Duluth, Minnesota. Itâs an âupgradedâ SR20 with a more powerful engine, larger wings, and improved fuel capacity. Itâs one of the most successful general aviation airplanes of the past twenty years, topping the sale charts since 2003 with over 6149 units built in total (as of 2019). Itâs also the most produced GA aircraft of the 21st century.  TheÂ Reality Expansion Pack SR22Â improves the default SR22 with a substantial list of new features, including a custom flight model with realism in mind, an advanced walkaround system with the possibility to check lights, cockpit, control surfaces, engine cowls, pitot tubes, etc., a mass and balance tool with a variable center of gravity depending on the load, a complex damage system triggered by pilot actions and based on real world data, a simulation state saving so that every switch and lever stays where it was when you closed the simulator, an economy system fully compatible with FSEconomy, a custom piston engine simulation with many realistic features, a custom electrical and avionics system with realistic battery behavior, custom simulation of hypoxia with its common symptoms such as tunnel vision and hard breathing, and native VR support. The complete feature list follows down below:  â  Itâs available on theÂ X-Plane.Org StoreÂ for $19.99.Â  Shout out to Luke on our Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xprimu</id>
+    <title>X-Rotors Seeks Developer for AW139 Primus Flight System</title>
+    <updated>2022-12-29T00:00:00+00:00</updated>
+    <link href="/news/xprimu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ade715274c6fcf8909a727_X-Plane_Screenshot_2022.12.14_-_21.55.38.15.png" rel="enclosure" type="image/png" length="1716467"/>
+    <summary>Sim: X-Plane. X-Rotors, a leading developer of Helicopters in X-Plane, is seeking a talented developer to join their team in creating a hi-res OpenGL-designed Primus flight system for the AW139 helicopter. The AW139 is a famous aircraft for various applications, including offshore oil and gas transportation, emergency medical services, and VIP/corporate transportation. The Primus flight system is a state-of-the-art avionics suite that provides pilots with a wide range of information and capabilities, including navigation, communication, and flight management. â The successful candidate will have experience in developing flight simulation systems using OpenGL, as well as a strong understanding of avionics and aircraft systems. They will work closely with the X-Rotors team to design and implement the Primus flight system, ensuring that it meets the high standards of realism and functionality expected in a professional flight simulator. If you are a developer with the skills and experience needed to contribute to this exciting project, we encourage you to apply. This is a unique opportunity to be a part of a cutting-edge development team and make a real impact on the future of flight simulation. To apply, please contact X-Rotor on their website. â We have previously reviewed the AW109 from X-Rotors on our YouTube channel. You can see the video here. â â</summary>
     <published>2022-12-29T00:00:00+00:00</published>
   </entry>
 </feed>
