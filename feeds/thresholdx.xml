@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-30T18:22:32.171091+00:00</updated>
+  <updated>2022-12-31T18:21:41.437169+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/boupar</id>
-    <title>Boundless Releases Paris-Beauvais Airport for X-Plane 11 &amp; 12</title>
-    <updated>2022-12-20T00:00:00+00:00</updated>
-    <link href="/news/boupar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a24afa78b320aee260e3fd_lfob1.png" rel="enclosure" type="image/png" length="3878891"/>
-    <summary>Sim: X-Plane. Boundless has recently released their rendition of Beauvais-TillÃ© Airport (LFOB) for X-Plane 11 and 12, the tenth busiest airport in France as of 2016, with a yearly average of 4 million passengers (pre-pandemic). Itâs a popular destination for low-cost carriers such as Ryanair and WizzAir, which use it as a Parisian base.  Located only 85 km from Paris, itâs often called âParis-Beauvais Airportâ due to its proximity with the famous French city. With cheaper landing fees, less traffic and the convenience of not being in the middle of the fuss, itâs the airport of choice for many charters and LCCs. As a matter of fact, the airport has grown quite significantly after Ryanair embraced Beauvais in 1997, with the creation of a second terminal in 2010 to handle the extra traffic figures.Â   Other than WZZ and RYR with their extensive route networks to and from LFOB, the airport is also visited by Air Moldova with a single flight to Chisinau, HiSky with legs to Baia Mare and Chisinau, and EasyJet to Lisbon (flights to Milan and Nice to begin in mid-2023).Â   The scenery features an accurate rendition of the airport as it stands, with real-world airport layout, up-to-date high-definition orthoimagery, 4K photorealisitc textures, PBR textures on ground and buildings, dynamic night lighting based of real-life color tones, 3D vegetation, 3D grass, nearby houses and farms, rain and seasonal effects on ground (XP12 only), custom high-definition PBR vehicles, and fully accurate ground markings with realistic wear and tear.  Itâs available onÂ Boundless DirectÂ for roughly $17.05, requiring at least 880 MB of free disk space to install. Shout out to flightyler on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hst650</id>
-    <title>Hot Start Updates CL650 for X-Plane 11 &amp; 12 </title>
-    <updated>2022-12-21T00:00:00+00:00</updated>
-    <link href="/news/hst650" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a367517e5fd6c55ae56155_cl650.png" rel="enclosure" type="image/png" length="604525"/>
-    <summary>Sim: X-Plane. Hot Start has recently updated their popular Challenger 650 to version 1.7, adding X-Plane 12 support, a two-pilot shared cockpit, and a huge list of bug fixes and improvements. The âupdate highlightsâ follow down below: â Please refer to the updateÂ announcement post, where you can find the full changelog with all the bug fixes and new features.  The Challenger 650 is part of the Challenger 600 family of business jets, introduced in the mid-70s, with its first flight in late 1978 and eventual certification in August 1980. Since then, many variants were created, with the 650 being the newest, dating back to 2015. It features a redesigned interior cabin, Rockwell Collins Pro Line 21 avionics, and an increase in take-off thrust. In real-life, the total cost nears 33 million usd (as of 2021). The X-Plane 11/12 version, on the other hand, can be yours for roughly $115.Â   The CL650 add-on features a high fidelity rendition of the real-world aircraft, with a complex simulation of its intricacies, along with a simulated FBO and all the things that go hand in hand such as full pre-flight duties, aiming for an unparalleled level of immersion.Â   Itâs available onÂ X-AviationÂ for $114.95, requiring a minimum of an i5 (or a quad-core equivalent), GTX 970 or similar, and 16 GB of RAM to function properly. An i7 or an octa-core equivalent, RTX 2070 or equivalent is recommended for optimal performance.Â  Shout out to Vinniethegreat on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xdsege</id>
-    <title>Xometry Design Updates Eagle County Regional Airport for X-Plane 12</title>
-    <updated>2022-12-22T00:00:00+00:00</updated>
-    <link href="/news/xdsege" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a4e8c0f5f26b50ce2e35a5_ege1.png" rel="enclosure" type="image/png" length="2289836"/>
-    <summary>Sim: X-Plane. Xometry Design has recently updated their rendition of Eagle County Regional Airport (KEGE), adding compatibility with X-Plane 12 and extra features. EGE becomes the second busiest airport in Colorado during the ski season, because of its proximity to popular skiing resorts, and the airport offers better landing conditions overall compared to Aspen (lower minimums).  Due to its seasonality, the scheduled passenger services come and go throughout the year, but it does not let down in terms of private flights, Â featuring one of the best fixed-base private operators in the United States, the Vail Valley Jet Center, with eight heated hangars, over 30 acres of overnight storage, and planeside vehicle staging.  The new scenery update adds the aforementioned compatibility with X-Plane 12, a terminal interior, custom object rework, custom jetways, and a customized mesh with an Ortho4Xp patch, now making use of X-Plane 12âs 3D trees and bushes. Itâs available on the iniBuilds Store for roughly $13.57 (on sale), requiring at least 2.09 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/simibz</id>
-    <title>Sim-Wings Releases Ibiza Airport v2 for MSFS</title>
-    <updated>2022-12-22T00:00:00+00:00</updated>
-    <link href="/news/simibz" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a4eecf0ad2c13a66a9d182_ibi4.png" rel="enclosure" type="image/png" length="1761747"/>
-    <summary>Sim: MSFS. Sim-Wings has recently updated their rendition of Ibiza Airport (LEIB) for Microsoft Flight Simulator, adding new features such as new jetways, texture improvements, terminal interiors, and more. The update is free for previous owners.Â   The airport serves the Balearic Islands of Ibiza, sitting 7km southwest of Ibiza Town. With a yearly average of 8 million passengers (pre-pandemic), itâs among the busiest airports in Spain, with a year-round domestic network and lots of seasonal Intra-European routes (mostly during summer). Vueling offers a fixed schedule with flights to Alicante, Barcelona, Bilbao, Madrid, MÃ¡laga, Paris-Orly, Seville, and Valencia, with seven extra routes during the summer, when they temporarily base some of their aircraft there.  The update changelog follows down below:  Itâs available on theÂ Aerosoft ShopÂ for roughly $15.99, requiring at least 5 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fssmcd</id>
     <title>FlightSim Studio Previews E175âs MCDU for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ade715274c6fcf8909a727_X-Plane_Screenshot_2022.12.14_-_21.55.38.15.png" rel="enclosure" type="image/png" length="1716467"/>
     <summary>Sim: X-Plane. X-Rotors, a leading developer of Helicopters in X-Plane, is seeking a talented developer to join their team in creating a hi-res OpenGL-designed Primus flight system for the AW139 helicopter. The AW139 is a famous aircraft for various applications, including offshore oil and gas transportation, emergency medical services, and VIP/corporate transportation. The Primus flight system is a state-of-the-art avionics suite that provides pilots with a wide range of information and capabilities, including navigation, communication, and flight management. â The successful candidate will have experience in developing flight simulation systems using OpenGL, as well as a strong understanding of avionics and aircraft systems. They will work closely with the X-Rotors team to design and implement the Primus flight system, ensuring that it meets the high standards of realism and functionality expected in a professional flight simulator. If you are a developer with the skills and experience needed to contribute to this exciting project, we encourage you to apply. This is a unique opportunity to be a part of a cutting-edge development team and make a real impact on the future of flight simulation. To apply, please contact X-Rotor on their website. â We have previously reviewed the AW109 from X-Rotors on our YouTube channel. You can see the video here. â â</summary>
     <published>2022-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pr7lup</id>
+    <title>PMDG Releases 737 Lineup Update</title>
+    <updated>2022-12-30T00:00:00+00:00</updated>
+    <link href="/news/pr7lup" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63af73d41471189c580845c3_737-min.png" rel="enclosure" type="image/png" length="913368"/>
+    <summary>Sim: MSFS. PMDG has recently updated their 737 Lineup to version 3.00.0056, reducing code execution latency, virtual cockpit model improvements to improve rendering efficiency, fixing the parking brake lever lock switch keybind, and improved data display on the in-game HUD.  Regarding the 737-900, they have pushed a new beta build to the testers for data collection. Itâs still being âtidied upâ with an eventual release getting closer, although they reinforced it wonât be before 2023, as work continues on a broad array of features.  The PMDG Universal Flight Tablet will be added to the -900 testing program by next week, putting them in a good position to begin rolling out the first functions for the EFB. They plan to release one function at a time to not overload the beta testing team, aiming for an eventual continual update process that should cover the entire fleet of existing and upcoming aircraft. They also stated the tablet will be updated separately from the aircraft update channel, meaning it might evolve independently and faster than the airplane updates.  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Images are courtesy of Genista. Shout out to Geeky on the Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tsmvir</id>
+    <title>TropicalSim Releases Viru Viru International for MSFS</title>
+    <updated>2022-12-30T00:00:00+00:00</updated>
+    <link href="/news/tsmvir" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63af79106cce8065cb874015_viru1.png" rel="enclosure" type="image/png" length="951180"/>
+    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Viru Viru International (SLVR) for Microsoft Flight Simulator, serving the city of Santa Cruz de la Sierra in Bolivia. Itâs the largest airport in the country in terms of passenger density, handling traffic from the Americas and Europe.   Itâs the hub for Boliviana de AviacÃ­on, founded in 2007 and currently the biggest airline in the country, offering flights to Buenos Aires, Cochabamba, La Paz, Lima, Madrid, Miami, Oruro, SÃ£o Paulo, Sucre, Tarija, and Trinidad. The regional EcoJet, from Cochabamba, also offers a wide variety of domestic legs to Cobija, GuayaramerÃ­n, Riberalta, Sucre, Tarija, and Trinidad. As far as international visitors go, thereâs AerolÃ­neas Argentinas with a sole leg to Buenos Aires, Avianca with a leg to Bogota, Copa (Panama City), Gol (SÃ£o Paulo), Latam Chile (Santiago), and Latam PerÃº (Lima). Miami is the busiest international destination as of 2016 with 386,496 passengers, followed by SÃ£o Paulo (372,773), and Buenos Aires (358,943).  The scenery features a detailed rendition of SLVR, with custom night lighting, native MSFS dynamic lighting, seamless integration with default MSFS scenery, PBR materials, and native gITF models.  Itâs available on SimMarket for roughly $17.57, requiring at least 1.7 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2022-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/upship</id>
+    <title>Major Update To Global AI Ship Traffic For MSFS Released</title>
+    <updated>2022-12-31T00:00:00+00:00</updated>
+    <link href="/news/upship" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b031be180a5604b1d7d189_ai-boats-ships-ai-msfszip-70-screen-71.jpg" rel="enclosure" type="image/jpeg" length="1384359"/>
+    <summary>Sim: MSFS. Henrik Nielsen, the creator of a popular freeware utility add-on for Microsoft Flight Simulator, has released a major update for the product. The update, which brings the add-on to version 3.0, significantly improves the realism of the virtual world in the flight simulator by adding a wide variety of ships, boats, and ferries with realistic 3D models and authentic routes. One of the key features of the update is the addition of more than 400 new ship models from around the globe, including cruise ships, fishing boats, container ships, oil and gas tankers, and ferries. This brings the total number of unique ship models to almost 900, with a total of over 1,800 ships including repaints. The update also expands the coverage of ship routes, increasing traffic density in different regions. In addition to the new ship models, the update includes more than 100 new ferry routes and the ability to witness real-world naval exercises featuring ships from various countries. These exercises, which include full-scale NATO landing exercises on the West Coast of the Jutland Peninsula in Denmark and similar exercises by the Brazilian and Chinese navies in their respective areas, add a level of realism and immersion to the virtual world. Other features and improvements in the update include light, smoke, and wake effects on all ship models, as well as dynamic sounds for each type of ship model. The update is compatible with the latest sim update and has a minimal impact on performance, depending on the density of ship models in a given region. The download size is approximately 2.2 GB, with an installation size of 5.6 GB. To learn more about the update and how to download and install it, visit the Global AI Ship Traffic MSFS GAIST Ultra V3 page at flightsim.to. </summary>
+    <published>2022-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simsol</id>
+    <title>SimSolutions Announce Diamond DA20 For MSFS</title>
+    <updated>2022-12-31T00:00:00+00:00</updated>
+    <link href="/news/simsol" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b03bc7699a14463bc31c35_DA27.png" rel="enclosure" type="image/png" length="4183387"/>
+    <summary>Sim: X-Plane. SimSolutions, a leading aircraft design and development brand in the flight sim community, has announced its âreturn to Diamondâ with the Diamond DA20-C1 Eclipse for Microsoft Flight Simulator. This marks the company's first foray into the new simulator and represents a significant milestone in its efforts to provide users with the most accurate and detailed aircraft models possible. According to the developer, the decision to create the DA20-C1 for MSFS was inspired by a personal passion for flying the aircraft. "Being the aircraft that I currently fly, I thought it was only fitting to remodel it with as much detail as I can to give an accurate model and operation of the DA20-C1â. "I am thrilled to have made the decision to create this aircraft for MSFS, but it will take some time." While the development of the DA20-C1 for Microsoft Flight Simulator is currently the group's top priority, it has not ruled out the possibility of releasing a version for X-Plane in the future. "An X-Plane version will likely come later," the development team said. SimSolutions expressed its gratitude to its supporters and wished them a Happy New Year. "We thank you so much for the support this year and are wishing you a very Happy New Year," To find out more, visit their Discord </summary>
+    <published>2022-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
