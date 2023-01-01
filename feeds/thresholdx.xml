@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2022-12-31T18:21:41.437169+00:00</updated>
+  <updated>2023-01-01T18:21:57.597987+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fssmcd</id>
-    <title>FlightSim Studio Previews E175âs MCDU for MSFS</title>
-    <updated>2022-12-23T00:00:00+00:00</updated>
-    <link href="/news/fssmcd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a63ac83eafb5b7ae8dc98b_crafts1.png" rel="enclosure" type="image/png" length="1606316"/>
-    <summary>Sim: MSFS. FlightSim Studio AG (in cooperation with X-Crafts) and AviationLads, have recently previewed the MCDU (Multi-Function Control and Display Unit) of the upcoming Embraer 175 for Microsoft Flight Simulator, showcasing a short route setup, performance initialization, and take-off data insertion. Itâs the fourth and last preview video, with the next one being the official trailer and its eventual release under an early access program.  Yesterday, X-Crafts made aÂ statementÂ on their partnership with FlightSim Studio AG in order to bring the Embraer 175 to MSFS, where they clarified both are different products, developed by different teams and with distinct objectives, with the only commonality between both product lines being the 3D model, which is the same. They have also reinforced their commitment to bring the E-Jets to X-Plane 11/12 at one point in 2023.  The E175 is part of the Embraer E-Jets family, seating 78 to 88 passengers in different cabin configurations, with a range of 1800 nautical miles on the standard variant. There are 12 operators around the World, with SkyWest being the largest (193 aircraft).Â   There is no information regarding the release date or pricing yet, but Threshold will keep you informed! â</summary>
-    <published>2022-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cow206</id>
-    <title>Cowan Simulation Releases Bell 206B3 for MSFS</title>
-    <updated>2022-12-24T00:00:00+00:00</updated>
-    <link href="/news/cow206" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a642eecaf763b6416005a7_cow1-min.png" rel="enclosure" type="image/png" length="3532361"/>
-    <summary>Sim: MSFS. Cowan Simulation has recently released their rendition of the Bell 206B3 for Microsoft Flight Simulator, a popular variant of the 206 family whose production ended in 2010 (later variants were to cease production in 2017). It is their first helicopter for MSFS, after releasing eight different models for X-Plane.  The Bell 206 had its first flight in 1962, after winning a competition held by the United States Navy to develop a Light Observation Helicopter. Their D-250 design went on to become the YHO-4, where it failed to win the contract bid, and Bell found themselves trying to market it as a civil aircraft (Model 206). The first attempt didnât work well (terrible commercial success), but an eventual redesign aiming for a sleeker and aesthetic body made it a huge success. That one was launched as the Bell 206A JetRanger.Â   The first 206B JetRanger was introduced in 1971, with the 206B-3 coming in 1977 with a modified tail rotor, and improved engine. It got popular among TV channels for traffic and news reporting, armies, police departments, and private use.Â   The add-on features 4K PBR textures, realistic start up procedure, realistic flight dynamics, custom 3D instruments, virtual reality compatible, Wwise fully dynamic sound pack, detailed night lighting, and free future updates.Â   Itâs available for purchase onÂ CowanSimâs websiteÂ for $32.99, requiring at least 2 GB of free disk space to install. Shout out to Henriks1 on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ininan</id>
-    <title>iniBuilds Releases Nadi International for MSFS</title>
-    <updated>2022-12-24T00:00:00+00:00</updated>
-    <link href="/news/ininan" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a64866724e8cdfd0eb8eec_nadi1.png" rel="enclosure" type="image/png" length="2708105"/>
-    <summary>Sim: MSFS. iniBuilds has just released their rendition of Nadi International Airport (NFFN) for Microsoft Flight Simulator, the main international airport of Fiji and the main hub for Fiji Airways and Fiji Link. It averages 2.5 million passengers yearly (pre-pandemic), handling 97% of the international traffic to the island, making it the gateway to Fiji.  Itâs regularly visited by Air New Zealand with a direct flight to Auckland (and two seasonal hops to Christchurch and Wellington), Air Niugini with legs to Honiara and Port Moresby, AirCalin to NoumÃ©a and Wallis Island, JetStar and Qantas with a hop to Sydney, and Virgin Australia with 3 aussie destinations: Brisbane, Melbourne, and Sydney. Fiji Airways, as the national carrier, offers a broader route network with flights to Adelaide, Apia-Faleolo, Auckland, Brisbane, Christchurch, Honiara, Honolulu, Los Angeles, Melbourne, Nukuâalofa, Port Vila, San Francisco, Singapore, Sydney, Tarawa, Vancouver, and Wellington.Â   The scenery features an accurate rendition of Nadi International as it currently stands, with hand-made high-resolution ground textures, true-to-life landside recreation with custom decals, signposts, vegetation, parking barriers, and more; accurately modeled dynamic airport lighting (with its real positioning), accurate taxi signage, high-detail models of all airport buildings and objects, hand-placed vegetation, ground clutter, vehicles, and handling objects; accurate logos, real-world decals, and advertisements scattered throughout the airport; custom built jetways with PBR texturing, custom made tropical vegetation, terminals populated with people, Level of Detail optimization with performance in mind, and surrounding areas populated with churches, mosques, jetties, and boats.  Itâs available on theÂ iniBuilds StoreÂ for $12.03 (special Christmas Extravaganza sale price, expiring in 24 hours), requiring at least 5.37 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lowinc</id>
     <title>Low-End PC Studios Releases Inca Manco CÃ¡pac International v2 for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b03bc7699a14463bc31c35_DA27.png" rel="enclosure" type="image/png" length="4183387"/>
     <summary>Sim: X-Plane. SimSolutions, a leading aircraft design and development brand in the flight sim community, has announced its âreturn to Diamondâ with the Diamond DA20-C1 Eclipse for Microsoft Flight Simulator. This marks the company's first foray into the new simulator and represents a significant milestone in its efforts to provide users with the most accurate and detailed aircraft models possible. According to the developer, the decision to create the DA20-C1 for MSFS was inspired by a personal passion for flying the aircraft. "Being the aircraft that I currently fly, I thought it was only fitting to remodel it with as much detail as I can to give an accurate model and operation of the DA20-C1â. "I am thrilled to have made the decision to create this aircraft for MSFS, but it will take some time." While the development of the DA20-C1 for Microsoft Flight Simulator is currently the group's top priority, it has not ruled out the possibility of releasing a version for X-Plane in the future. "An X-Plane version will likely come later," the development team said. SimSolutions expressed its gratitude to its supporters and wished them a Happy New Year. "We thank you so much for the support this year and are wishing you a very Happy New Year," To find out more, visit their Discord </summary>
     <published>2022-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbr757</id>
+    <title>BlueBird Simulations Announce New Project and Progress Update on 757</title>
+    <updated>2022-12-31T00:00:00+00:00</updated>
+    <link href="/news/bbr757" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b0b52ec67b7de6cfd68cdc_sneak_peek4.jpg" rel="enclosure" type="image/jpeg" length="171873"/>
+    <summary>Sim: X-Plane. Bluebird Simulations has recently announced that it has a new project in the works. While details about the project are currently scarce, the company has stated that it will provide updates on the progress of the project in the coming months. Although details are being kept quiet, they have provided this teaser:Â  In the meantime, Bluebird Simulations is continuing to focus on its core project, the 757 addon for Microsoft Flight Simulator. Fans of the project can expect to see lots of updates on development progress and new features for the 757 in the coming weeks. This news is sure to be exciting for flight simulator pilots, who have come to rely on Bluebird Simulations teaser photos and development updates for their MSFS 757 fix!Â  Stay tuned for further updates from Bluebird Simulations as the team continues to work on its new project and further the 757 toward release.Â  â</summary>
+    <published>2022-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jstgir</id>
+    <title>JustSim Releases Girona-Costa Brava Airport for MSFS</title>
+    <updated>2023-01-01T00:00:00+00:00</updated>
+    <link href="/news/jstgir" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b105fde039e62ff6bf08bf_girona1.jpg" rel="enclosure" type="image/jpeg" length="513764"/>
+    <summary>Sim: MSFS. JustSim has recently released their rendition of Girona-Costa Brava Airport (LEGE) for Microsoft Flight Simulator, serving the city of Girona in north-eastern Catalonia. It averages around 2 million passengers per year, peaking during the summer when nine european airlines (Brussels Airlines, Enter Air, Jet2.com, LOT Polish Airlines, Ryanair, Smartwings, Transavia, TUI Airways, and TUI Fly Belgium) add the city to their destination list. The Irish low-cost carrier is the only one to maintain a fixed schedule throughout the year, although fairly limited (KrakÃ³w, London Stansted, Nuremberg, and Pisa).  Built in 1965, Girona had modest traffic figures up until the early 2000s, when Ryanair chose it as their âBarcelonaâ due to its proximity with the Catalan Capital, and cheaper landing fees and operating costs. The airport saw an increase from mere 275,000 passengers in 1993 to over 5 million during the âRyanair eraâ which ended in 2012 when they decided to move the operations to El Prat. Traffic figures got halved a year after, and it has been consistently around that ballpark ever since. The scenery features an accurate rendition of the airport and its facilities, with custom ground textures, landside buildings, custom clutter, and updated taxiways. Itâs available on SimMarket for roughly $9.06 (with a discount for owners of the P3D/XP11 version), requiring at least 1.67 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/essvsl</id>
+    <title>Skyline Simulations Releases Freeware Visby Airport (ESSV) for Microsoft Flight Simulator</title>
+    <updated>2023-01-01T00:00:00+00:00</updated>
+    <link href="/news/essvsl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b124d9a9c234497d169cd7_essv9-scaled.jpg" rel="enclosure" type="image/jpeg" length="373711"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer Skyline Simulations released its rendition of	 Visby Airport (ESSV) for Microsoft Flight Simulator. A freeware, the scenery brings the users into the kingdom of Sweden with its high quality textures and objects. 	Visby Airport, located in Gotland, Sweden, is the region's only commercial airport. It is served by airlines such as SAS, Finnair, Ryanair, and Norwegian Air Shuttle. In 2016, the airport saw some 460,000 passengers, mainly in the summer months. 	According to Skyline Simulations, the scenery is built using the latest layout of Visby Airport using UHD and PBR textures for the ground, decal, buildings. In addition, there is 3D vegetation and ground traffic all around the airport. Finally, custom night textures are also included to add to the immersion. Currently, Visby Airport is a freeware available to download from Skyline Simulationâs webstore. The developer recommends users to have 1.22 GB of free hard drive space to successfully install the product.</summary>
+    <published>2023-01-01T00:00:00+00:00</published>
   </entry>
 </feed>
