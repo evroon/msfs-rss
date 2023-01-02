@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-01T18:21:57.597987+00:00</updated>
+  <updated>2023-01-02T18:22:41.695246+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lowinc</id>
-    <title>Low-End PC Studios Releases Inca Manco CÃ¡pac International v2 for MSFS</title>
-    <updated>2022-12-24T00:00:00+00:00</updated>
-    <link href="/news/lowinc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a65c47e100d7341a70d38a_inca1.jpg" rel="enclosure" type="image/jpeg" length="668943"/>
-    <summary>Sim: MSFS. Low-End PC Studios has recently released their updated rendition of Inca Manco CÃ¡pac International Airport (SPJL) for Microsoft Flight Simulator, one of the highest airports in the World at 12,552 feet. It serves Juliaca, the Capital of San Roman Province in Southeastern Peru, the largest city in the region with 276,110 inhabitants. If being one of the highest commercial airports in South America was not enough, it also features one of the longest runways, with 4,200 meters of length.Â   It was named after Manco CÃ¡pac, the founder of the Inca Civilization in Cuzco.Â   Itâs currently served by JetSmart PerÃº, LATAM PerÃº, and Sky Airline Peru, with scheduled flights to Lima and Cuzco (LATAM PerÃº only). Despite being an International airport, it doesnât feature a single scheduled international flight.Â   The scenery features an accurate rendition of the airport, with a 3D terminal and tower, PBR textures, and projected mesh for custom runway. The v2 update focused on correcting the windsock, adding two new city landmarks, a runway elevation profile, and runway texture improvements.Â   Itâs available onÂ SimMarketÂ for roughly $6.58 (38% off), requiring at least 167 MB of free disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ffa350</id>
-    <title>FlightFactor Releases A350 Beta Update for X-Plane 12</title>
-    <updated>2022-12-24T00:00:00+00:00</updated>
-    <link href="/news/ffa350" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a6646d62ebc83521138d29_ff1.png" rel="enclosure" type="image/png" length="1143321"/>
-    <summary>Sim: X-Plane. FlightFactor recently released a beta update (v1.7.01) for their A350 add-on, adding several improvements to the X-Plane 12 version, including a pitch behavior tuning for the new platform, lights and reflection compatibility, beacon light fix, and visual issues with some knobs.  The FlightFactor A350 XWB Advanced offers a high-quality rendition of the Airbus A350, with a high-resolution virtual cockpit, ground equipment, advanced systems simulation with SIDs and STARS, custom failures, Airbus electronic checklist system, fully customized ECAM monitoring system, full fly-by-wire simulation with realistic implementation of the normal laws, implementation of all Airbus autopilot modes (except for some nonâprecision approach modes), independent autopilots, custom 3D stereo engine sound system, and an interactive flight attendant helper, along with seven liveries. Itâs available on X-Plane.Org Store for $45.47 (30% off), requiring at least 800 MB of free disk space to install.Images are courtesy of AllNaturalBlue, and special thanks to Poptart on Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmd737</id>
     <title>PMDG Updates 737 Lineup for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b124d9a9c234497d169cd7_essv9-scaled.jpg" rel="enclosure" type="image/jpeg" length="373711"/>
     <summary>Sim: MSFS. Earlier this week, scenery developer Skyline Simulations released its rendition of	 Visby Airport (ESSV) for Microsoft Flight Simulator. A freeware, the scenery brings the users into the kingdom of Sweden with its high quality textures and objects. 	Visby Airport, located in Gotland, Sweden, is the region's only commercial airport. It is served by airlines such as SAS, Finnair, Ryanair, and Norwegian Air Shuttle. In 2016, the airport saw some 460,000 passengers, mainly in the summer months. 	According to Skyline Simulations, the scenery is built using the latest layout of Visby Airport using UHD and PBR textures for the ground, decal, buildings. In addition, there is 3D vegetation and ground traffic all around the airport. Finally, custom night textures are also included to add to the immersion. Currently, Visby Airport is a freeware available to download from Skyline Simulationâs webstore. The developer recommends users to have 1.22 GB of free hard drive space to successfully install the product.</summary>
     <published>2023-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taismf</id>
+    <title>Taimodels Releases Sacramento International Airport for X-Plane 11 &amp; 12 </title>
+    <updated>2023-01-02T00:00:00+00:00</updated>
+    <link href="/news/taismf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b2f3829c897f5ecafea5f1_smf1.png" rel="enclosure" type="image/png" length="4061105"/>
+    <summary>Sim: X-Plane. Taimodels has recently released their rendition of Sacramento International Airport (KSMF) for X-Plane 11 and 12, the gateway to the California State Capitol. Itâs the sixth busiest airport in California, averaging 11 million passengers yearly as of November 2022.Â   Boasting 50% of the traffic market share, Southwest Airlines is the largest airline in Sacramento as of 2021, followed by American Airlines (677,052) and Delta (665,468), with 11.83% and 11.63%, respectively. The busiest domestic destination is San Diego, with 540,000 passengers per year, transported by either Southwest or Alaska Airlines. Las Vegas takes second place with 529,000 (Frontier, Southwest, and Spirit), and Denver (Frontier, Southwest, and United) is third with 458,000. The international destination list includes Vancouver (Air Canada Express), Guadalajara (AeromÃ©xico and Volaris), LeÃ³n, and Mexico City (Volaris).Â   It is also the gateway to famous attractions in Northern and Central California like Lake Tahoe, Yosemite National Park, Old Sacramento State Historic Park, Yolo Bypass Wildlife Area, Cosumnes River Preserve, Hawver Cave, and Marshall Gold Discovery State Historic Park.Â   The scenery features a high-detail rendition of KSMF, with SAM jetways, high-quality PBR textures on objects and ground, performance-oriented optimization, autogen around the airport, ground traffic plugin with cars and trucks, and weather textures for X-Plane 12.Â  â Itâs available onÂ SimMarketÂ andÂ X-Plane.Org StoreÂ for roughly $20.50, requiring at least 765 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksdub</id>
+    <title>MK Studios Previews Dublin Airport v2 for MSFS</title>
+    <updated>2023-01-02T00:00:00+00:00</updated>
+    <link href="/news/mksdub" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b2fd0d83feb76a29cbd780_dub1.jpg" rel="enclosure" type="image/jpeg" length="516993"/>
+    <summary>Sim: MSFS. MK Studios has recently uploadedÂ three preview picsÂ of their upcoming Dublin Airport v2 (EIDW) for Microsoft Flight Simulator, announced in Â August 2022. Itâs said to be a complete rework with new ground textures, Â models, and layout.Â   DUB is the busiest airport on the island of Ireland, with a yearly average of 32 million passengers. The second place, Belfast International Airport, sits at just a fraction of that amount with 6 million passengers. It is the hub for Aer Lingus, Irelandâs national carrier, with an extensive route network encompassing North America and Europe. It also hosts Ryanair, one of the largest low-cost carriers in the world, featuring a significant domestic and intra-European network.  MK Studiosâ first iteration of Dublin Airport came out in November 2020, one of the first payware airports for the then brand new simulator, featuring a fully detailed rendition of the airport, with updated ground layout and stands (not anymore), a terminal interior model, AI compatibility, and performance-friendly optimization. Itâs still available onÂ SimMarketÂ andÂ Orbx DirectÂ for roughly $10. Owners will be eligible for a discounted price once V2 is available.Â   There is no information on the release date or pricing yet, but Threshold will keep you updated! â</summary>
+    <published>2023-01-02T00:00:00+00:00</published>
   </entry>
 </feed>
