@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-05T18:24:45.406368+00:00</updated>
+  <updated>2023-01-06T18:24:02.395314+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gf2112</id>
-    <title>Global Forests Updated to Version 2.1 for XP12</title>
-    <updated>2022-12-26T00:00:00+00:00</updated>
-    <link href="/news/gf2112" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a9b5b0d00104be72bc3eb0_FQlvahYU.jpeg" rel="enclosure" type="image/jpeg" length="269798"/>
-    <summary>Sim: X-Plane. The well-known package for X-plane that enhances forestry and tree sceneries that are automatically generated has recently received a new update which promises to provide users with an entirely new and improved experience.Â  In their latest 2.1 version update, all regions have been re-compiled to bring the latest and most accurate version possible. Along with this, the team behind Global Forests have added coverage for South American rejoins, Which were previously not included.Â  Along with the news of their latest update, the team behind Global Forests have revealed it will now be available exclusively through Orbx.Â  To read more about the announcement you can follow this link!Â  â</summary>
-    <published>2022-12-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/f2hche</id>
     <title>Fly 2 High Releases Cheongju International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b3fa3c5b09f42118975625_gnx1.png" rel="enclosure" type="image/png" length="2867697"/>
     <summary>Sim: MSFS. Pyreegue has recently published aÂ roadmapÂ for 2023 with their many plans for the new year, including a couple of preview images of his upcoming East Midlands Airport (EGNX) for Microsoft Flight Simulator, developed with âincredible attention to detailâ and featuring ânumerous exciting features.â Heâs also announced an eventual update to his Edinburgh Airport (EGPH) with ânew models, textures, mesh, custom satellite imagery, and more.â The preview images show the control tower and the Rolls Royce Hangar, built by RPS Group and designed to accommodate separate heritage and corporate hangars.Â  â The hangars are connected by a central spine and feature a dedicated maintenance and workshop space for each one. Additionally, there is a shared area for conferences, offices, a seminar space, a library, crew and locker rooms, and restrooms. The design even had children and students in mind with a STEM (Science, Technology, Engineering, and Mathematics) facility where they could attend training events and seminars. The project (the real-life counterpart) was developed in close contact with Rolls Royce, with all their requirements in mind, from the concept to the space planning and detail design. â  East Midlands Airport is located in Leicestershire, England, and serves the East Midlands region of the country, including the cities of Derby, Leicester, and Nottingham. It is the largest cargo airport in the UK and the seventh busiest airport in terms of passenger numbers. In 2020, the airport handled around 5 million passengers and over 200,000 tonnes of cargo.Â   It has a single terminal and serves a variety of airlines, including budget carriers such as Ryanair and easyJet, as well as traditional carriers like British Airways and KLM. The airport has a diverse route network, with direct flights to destinations across Europe and some long-haul destinations in the Middle East and the Caribbean. Domestically, the airport has good connectivity to major cities in the UK, including London, Manchester, and Glasgow.  â Facility-wise, it has a range of amenities for passengers, including a range of shops and restaurants, as well as lounges and a business center. The airport also has good transport links, with a railway station located within the terminal building and regular bus and coach services to nearby cities and towns. In recent years, the airport has undergone several expansion projects to improve its capacity and facilities, and it is well-regarded as a modern and efficient airport.  Thereâs no information regarding the release date or pricing yet, but weâll keep you informed once thereâs new intel. Shout out to Luke on our Discord for the news scoop! â</summary>
     <published>2023-01-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fssead</id>
+    <title>FlightSim Studio Announces Release Date for Embraer 175 Add-on</title>
+    <updated>2023-01-05T00:00:00+00:00</updated>
+    <link href="/news/fssead" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b760722457ab24cdb681db_emb1.jpg" rel="enclosure" type="image/jpeg" length="538011"/>
+    <summary>Sim: MSFS. FlightSim Studio AG has recently previewed their upcoming Embraer 175 in aÂ three-hour longÂ live streamÂ where they have shown the current state of the product, planned features, and pricing, along with aÂ development roadmap.Â   The E175 is a narrow-body, twin-engine jet airliner produced by Brazilian aerospace manufacturer Embraer, designed to seat up to 78 passengers in a typical two-class configuration or a maximum of 88 passengers in a high-density layout. It has a range of up to 2,400 nautical miles, making it suitable for regional and medium-haul flights.Â   The add-on is coming out five days from now under an early access program, where users will be able to test the aircraft during its development process and provide feedback. The complete feature list follows down below:  â Itâs going to be available next Tuesday for 33 euros. Threshold will keep you updated. â</summary>
+    <published>2023-01-05T00:00:00+00:00</published>
   </entry>
 </feed>

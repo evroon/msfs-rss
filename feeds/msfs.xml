@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-01-05T18:24:44.602261+00:00</updated>
+  <updated>2023-01-06T18:24:01.232463+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale/</id>
-    <title>Black Friday Sale</title>
-    <updated>2022-11-25T17:00:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/MSFS_BlackFridaySale2022_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122716"/>
-    <summary>For 4 Days starting on November 25th, save up to 83% on more than 900 items.</summary>
-    <published>2022-11-25T17:00:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/december-1st-2022-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/12/MicrosoftFlightSimulator_Evergreen_Screenshot-14_3840x2160_RGB-1024x576.png" rel="enclosure" type="image/png" length="210392"/>
     <summary>We will be skipping next week’s Update due to the holidays. We’ll be back with another Marketplace Update on December 29th, and the main Development Update blog will return starting January 5, 2023. MSFS Team Marketplace UpdateClick here for the web-friendly version of the Marketplace Update.There are 21 new and 41 updated products in the Marketplace … Continued</summary>
     <published>2022-12-15T23:56:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-5th-2023-development-update/</id>
+    <title>January 5th, 2023 Development Update</title>
+    <updated>2023-01-06T01:42:52+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-5th-2023-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/HeKa48-Forum-1-1024x429.jpg" rel="enclosure" type="image/jpeg" length="91886"/>
+    <summary>Happy new year and welcome to 2023!</summary>
+    <published>2023-01-06T01:42:52+00:00</published>
   </entry>
 </feed>
