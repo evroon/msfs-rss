@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-06T18:24:02.395314+00:00</updated>
+  <updated>2023-01-07T18:22:13.773931+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/f2hche</id>
-    <title>Fly 2 High Releases Cheongju International Airport for MSFS</title>
-    <updated>2022-12-28T00:00:00+00:00</updated>
-    <link href="/news/f2hche" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63aba1b4aaed7110b371340f_cheo.jpg" rel="enclosure" type="image/jpeg" length="370215"/>
-    <summary>Sim: MSFS. Fly 2 High has recently released their rendition of Cheongju International Airport (RKTU) for Microsoft Flight Simulator, serving the cities of Cheongwon-Ku, Daejeon, and Sejong with an yearly average of 2 million passengers. It was built as a military airbase in 1978, with the international airport plan to begin construction in 1984 and its eventual conclusion in December 1996, opening in April 1997.  Back in the 80s, Cheongju was selected as a potential construction site for Koreaâs main international airport, but Incheon ended up being the chosen one.  The airport was built to handle the current yearly traffic (2 million people) and 196 thousand airplane operations, along with a parking lot big enough for 770 cars. It also happens to house a fighter wing of the Korean Air Force, which means taking photographs of the apron, runways, and the military facilities is strictly prohibited. Itâs served by nine airlines, with a selection of domestic routes and international legs to China, Japan, Taiwan, and Thailand. Aero K and Asiana fly from Cheongju to Jeju, Bamboo Airways operates a seasonal leg to Quy Nhon, Jeju Air flies to Guam, Jeju, Osaka-Kansai, and Taipei-Taoyuan, Jin Air and Korean Air fly to Jeju, Sky Angkor Airlines operates a seasonal hop to Siem Reap, Tâway Air flies to Da Nang, and Yakutia Airlines operates two seasonal journeys to Khabarovsk and Vladivostok. The scenery features an accurate rendition of RKTU, with custom jetways, dynamic lighting, PBR materials, animated humans, and performance friendly optimization. Itâs available on SimMarket for roughly $12.75, requiring at least 2 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pkskrg</id>
     <title>PKSIM Releases JosÃ© MarÃ­a CÃ³rdova International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b760722457ab24cdb681db_emb1.jpg" rel="enclosure" type="image/jpeg" length="538011"/>
     <summary>Sim: MSFS. FlightSim Studio AG has recently previewed their upcoming Embraer 175 in aÂ three-hour longÂ live streamÂ where they have shown the current state of the product, planned features, and pricing, along with aÂ development roadmap.Â   The E175 is a narrow-body, twin-engine jet airliner produced by Brazilian aerospace manufacturer Embraer, designed to seat up to 78 passengers in a typical two-class configuration or a maximum of 88 passengers in a high-density layout. It has a range of up to 2,400 nautical miles, making it suitable for regional and medium-haul flights.Â   The add-on is coming out five days from now under an early access program, where users will be able to test the aircraft during its development process and provide feedback. The complete feature list follows down below:  â Itâs going to be available next Tuesday for 33 euros. Threshold will keep you updated. â</summary>
     <published>2023-01-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lepaqp</id>
+    <title>Low-End PC Studios Releases RodrÃ­guez BallÃ³n International Airport v2 for MSFS</title>
+    <updated>2023-01-07T00:00:00+00:00</updated>
+    <link href="/news/lepaqp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b9ae5be1149b0fbb739931_aqp1.jpg" rel="enclosure" type="image/jpeg" length="826795"/>
+    <summary>Sim: MSFS. Low-End PC Studios has recently released their updated rendition of RodrÃ­guez BallÃ³n International Airport (SPQU) for Microsoft Flight Simulator, serving the city of Arequipa, Peruâs second-largest city. With nearly 2 million passengers yearly, itâs the third busiest airport in the country.Â   Itâs the main gateway to the Colca Canyon, among the deepest canyons in the world (3270 meters deep) and 70 kilometers in total length. The region had pre-Inca rooted folk, and many old towns founded during the Spanish colonial era, still inhabited to this day and with their ancestral traditions still going strong. The stepped terraces - their pre-Inca agricultural heritage - are still actively cultivated.Â   The airport is a hub for JetSmart PerÃº, with domestic legs to Cuzco, Lima, Piura, and Trujillo, also regularly visited by JetSmart Chile (Santiago de Chile), LATAM PerÃº (Cuzco, Lima), and Sky Airline Peru (Lima).  The scenery features default jetways, projected mesh for ground textures, PBR materials on some objects, a custom runway elevation profile, 3D objects, and two landmarks.  Itâs available onÂ SimMarketÂ for roughly $10.80, requiring at least 545 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-07T00:00:00+00:00</published>
   </entry>
 </feed>
