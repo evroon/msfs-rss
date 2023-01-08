@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-07T18:22:13.773931+00:00</updated>
+  <updated>2023-01-08T18:22:02.799188+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pkskrg</id>
-    <title>PKSIM Releases JosÃ© MarÃ­a CÃ³rdova International Airport for MSFS</title>
-    <updated>2022-12-29T00:00:00+00:00</updated>
-    <link href="/news/pkskrg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63acefed3e3fcfaa593ad1c0_skrg1-min.png" rel="enclosure" type="image/png" length="2976933"/>
-    <summary>Sim: MSFS. PKSIM has recently released their rendition of JosÃ© MarÃ­a CÃ³rdova International Airport (SKRG) for Microsoft Flight Simulator, located in Rionegro, 20 km away from MedellÃ­n, serving the entire Medellin Metropolitan Area with many destinations, both domestic and international. It is the second busiest airport in Colombia with 9 million passengers yearly.Â   Itâs a hub for Avianca Colombia, Ultra Air, and Viva Air Colombia, with a destination list that encompasses Colombia, Mexico, the United States, and some of Europe. LATAM Colombia also features a list of domestic destinations from Rionegro. Among the international visitors, thereâs Aeromexico with a hop to Mexico City, Air Europa with a long haul to Madrid, JetBlue to Fort Lauderdale, LATAM PerÃº to Lima, and Spirit Airlines with the Floridian trifecta (Fort Lauderdale, Miami, and Orlando).  The scenery features an accurate rendition of SKRG, with a detailed terminal model, custom jetways, custom ground textures, the Avianca maintenance facility, custom night lighting, realistic ground markings, and a detailed control tower interior.  Itâs available onÂ SimMarketÂ for roughly $19.12, requiring at least 1.48 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/simrep</id>
     <title>SimCoders Releases Reality Expansion Pack SR22 for X-Plane 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/lepaqp" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b9ae5be1149b0fbb739931_aqp1.jpg" rel="enclosure" type="image/jpeg" length="826795"/>
     <summary>Sim: MSFS. Low-End PC Studios has recently released their updated rendition of RodrÃ­guez BallÃ³n International Airport (SPQU) for Microsoft Flight Simulator, serving the city of Arequipa, Peruâs second-largest city. With nearly 2 million passengers yearly, itâs the third busiest airport in the country.Â   Itâs the main gateway to the Colca Canyon, among the deepest canyons in the world (3270 meters deep) and 70 kilometers in total length. The region had pre-Inca rooted folk, and many old towns founded during the Spanish colonial era, still inhabited to this day and with their ancestral traditions still going strong. The stepped terraces - their pre-Inca agricultural heritage - are still actively cultivated.Â   The airport is a hub for JetSmart PerÃº, with domestic legs to Cuzco, Lima, Piura, and Trujillo, also regularly visited by JetSmart Chile (Santiago de Chile), LATAM PerÃº (Cuzco, Lima), and Sky Airline Peru (Lima).  The scenery features default jetways, projected mesh for ground textures, PBR materials on some objects, a custom runway elevation profile, 3D objects, and two landmarks.  Itâs available onÂ SimMarketÂ for roughly $10.80, requiring at least 545 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blgpoa</id>
+    <title>Brazil Land Games Previews Salgado Filho International Airport Update for MSFS</title>
+    <updated>2023-01-07T00:00:00+00:00</updated>
+    <link href="/news/blgpoa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b9ebe0c156e97d3573a702_poa1.jpg" rel="enclosure" type="image/jpeg" length="422329"/>
+    <summary>Sim: MSFS. Brazil Land Games has recently teased the progress on the upcoming update for their Porto Alegre Salgado Filho International Airport (SBPA) scenery, serving the city of Porto Alegre in Rio Grande do Sul, Brazil. It is the ninth busiest airport in the country, with nearly 8 million passengers yearly (pre-pandemic).  Originally called SÃ£o JoÃ£o Federal Airport, it was just an air club, with its first flights dating back to 1923. It saw commercial action for the first time in 1932, when VARIG (the oldest Brazilian airline) replaced their seaplanes with land airplanes, adopting Porto Alegre as their hub. It took eight years for the commission of an actual passenger terminal. Its current name was adopted in 1952, after Joaquim Pedro Salgado Filho, a local politician who had died a year prior (air crash).  Itâs a focus city for Azul Brazilian Airlines, with a significant domestic network (fifteen destinations) and international legs to Punta del Este and Montevideo (Uruguay). The other two Brazilian giants, GOL Linhas AÃ©reas (thirteen domestic destinations) and LATAM Brasil (5 domestic destinations), are also regularly seen around POA. TAP Air Portugal is the sole European visitor, coming from Lisbon.  Not much was said other than the pictures themselves and the fact itâs still undergoing development. Threshold will keep you updated! â</summary>
     <published>2023-01-07T00:00:00+00:00</published>
   </entry>
 </feed>
