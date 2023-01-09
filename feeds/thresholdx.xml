@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-08T18:22:02.799188+00:00</updated>
+  <updated>2023-01-09T18:25:01.586115+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simrep</id>
-    <title>SimCoders Releases Reality Expansion Pack SR22 for X-Plane 12</title>
-    <updated>2022-12-29T00:00:00+00:00</updated>
-    <link href="/news/simrep" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ad0c13a1f81e76eda2c07f_rep1.png" rel="enclosure" type="image/png" length="1009292"/>
-    <summary>Sim: X-Plane. SimCoders has recently released an expansion pack for the default Cirrus SR22 included in X-Plane 12, improving the flight dynamics, adding an interactive walkaround system, a mass and balance tool, a custom piston engine simulation, and more.Â   The Cirrus SR22 is a single-engine aircraft launched in 2001, manufactured in Duluth, Minnesota. Itâs an âupgradedâ SR20 with a more powerful engine, larger wings, and improved fuel capacity. Itâs one of the most successful general aviation airplanes of the past twenty years, topping the sale charts since 2003 with over 6149 units built in total (as of 2019). Itâs also the most produced GA aircraft of the 21st century.  TheÂ Reality Expansion Pack SR22Â improves the default SR22 with a substantial list of new features, including a custom flight model with realism in mind, an advanced walkaround system with the possibility to check lights, cockpit, control surfaces, engine cowls, pitot tubes, etc., a mass and balance tool with a variable center of gravity depending on the load, a complex damage system triggered by pilot actions and based on real world data, a simulation state saving so that every switch and lever stays where it was when you closed the simulator, an economy system fully compatible with FSEconomy, a custom piston engine simulation with many realistic features, a custom electrical and avionics system with realistic battery behavior, custom simulation of hypoxia with its common symptoms such as tunnel vision and hard breathing, and native VR support. The complete feature list follows down below:  â  Itâs available on theÂ X-Plane.Org StoreÂ for $19.99.Â  Shout out to Luke on our Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xprimu</id>
     <title>X-Rotors Seeks Developer for AW139 Primus Flight System</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b9ebe0c156e97d3573a702_poa1.jpg" rel="enclosure" type="image/jpeg" length="422329"/>
     <summary>Sim: MSFS. Brazil Land Games has recently teased the progress on the upcoming update for their Porto Alegre Salgado Filho International Airport (SBPA) scenery, serving the city of Porto Alegre in Rio Grande do Sul, Brazil. It is the ninth busiest airport in the country, with nearly 8 million passengers yearly (pre-pandemic).  Originally called SÃ£o JoÃ£o Federal Airport, it was just an air club, with its first flights dating back to 1923. It saw commercial action for the first time in 1932, when VARIG (the oldest Brazilian airline) replaced their seaplanes with land airplanes, adopting Porto Alegre as their hub. It took eight years for the commission of an actual passenger terminal. Its current name was adopted in 1952, after Joaquim Pedro Salgado Filho, a local politician who had died a year prior (air crash).  Itâs a focus city for Azul Brazilian Airlines, with a significant domestic network (fifteen destinations) and international legs to Punta del Este and Montevideo (Uruguay). The other two Brazilian giants, GOL Linhas AÃ©reas (thirteen domestic destinations) and LATAM Brasil (5 domestic destinations), are also regularly seen around POA. TAP Air Portugal is the sole European visitor, coming from Lisbon.  Not much was said other than the pictures themselves and the fact itâs still undergoing development. Threshold will keep you updated! â</summary>
     <published>2023-01-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simnak</id>
+    <title>SIMMAN Releases Sakon Nakhon Airport for MSFS</title>
+    <updated>2023-01-08T00:00:00+00:00</updated>
+    <link href="/news/simnak" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bb5646c3ef98e90dc4df99_vtui1.png" rel="enclosure" type="image/png" length="3669503"/>
+    <summary>Sim: MSFS. SIMMAN has recently released their rendition of Sakon Nakhon Airport (VTUI) for Microsoft Flight Simulator, a civil-military airport serving the city of Sakon Nakhon in Thailand. Itâs visited by Nok Air and Thai AirAsia with flights to Bangkok (Don Mueang).  The airport was established in the 1970s as a small, regional airport serving the local area. In the 1980s, the airport underwent a Major expansion and upgrade, which included the construction of a new terminal building and the lengthening of the runway to accommodate larger aircraft. In the 1990s, the airport was further expanded to accommodate an increase in passenger traffic. Today, Sakon Nakhon Airport is an important transportation hub for the region, and it is used by both domestic and international travelers.  The scenery features a custom 3D model of the airport terminal with its interior, realistic taxiways and parking positions, true-to-life apron markings, custom runway with accurate markings, and taxiway lights.  Itâs available onÂ SimMarketÂ for roughly $9.45, requiring at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-08T00:00:00+00:00</published>
   </entry>
 </feed>
