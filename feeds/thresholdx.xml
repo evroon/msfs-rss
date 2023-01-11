@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-10T18:24:44.320016+00:00</updated>
+  <updated>2023-01-11T18:28:12.630742+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pr7lup</id>
-    <title>PMDG Releases 737 Lineup Update</title>
-    <updated>2022-12-30T00:00:00+00:00</updated>
-    <link href="/news/pr7lup" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63af73d41471189c580845c3_737-min.png" rel="enclosure" type="image/png" length="913368"/>
-    <summary>Sim: MSFS. PMDG has recently updated their 737 Lineup to version 3.00.0056, reducing code execution latency, virtual cockpit model improvements to improve rendering efficiency, fixing the parking brake lever lock switch keybind, and improved data display on the in-game HUD.  Regarding the 737-900, they have pushed a new beta build to the testers for data collection. Itâs still being âtidied upâ with an eventual release getting closer, although they reinforced it wonât be before 2023, as work continues on a broad array of features.  The PMDG Universal Flight Tablet will be added to the -900 testing program by next week, putting them in a good position to begin rolling out the first functions for the EFB. They plan to release one function at a time to not overload the beta testing team, aiming for an eventual continual update process that should cover the entire fleet of existing and upcoming aircraft. They also stated the tablet will be updated separately from the aircraft update channel, meaning it might evolve independently and faster than the airplane updates.  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Images are courtesy of Genista. Shout out to Geeky on the Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tsmvir</id>
-    <title>TropicalSim Releases Viru Viru International for MSFS</title>
-    <updated>2022-12-30T00:00:00+00:00</updated>
-    <link href="/news/tsmvir" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63af79106cce8065cb874015_viru1.png" rel="enclosure" type="image/png" length="951180"/>
-    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Viru Viru International (SLVR) for Microsoft Flight Simulator, serving the city of Santa Cruz de la Sierra in Bolivia. Itâs the largest airport in the country in terms of passenger density, handling traffic from the Americas and Europe.   Itâs the hub for Boliviana de AviacÃ­on, founded in 2007 and currently the biggest airline in the country, offering flights to Buenos Aires, Cochabamba, La Paz, Lima, Madrid, Miami, Oruro, SÃ£o Paulo, Sucre, Tarija, and Trinidad. The regional EcoJet, from Cochabamba, also offers a wide variety of domestic legs to Cobija, GuayaramerÃ­n, Riberalta, Sucre, Tarija, and Trinidad. As far as international visitors go, thereâs AerolÃ­neas Argentinas with a sole leg to Buenos Aires, Avianca with a leg to Bogota, Copa (Panama City), Gol (SÃ£o Paulo), Latam Chile (Santiago), and Latam PerÃº (Lima). Miami is the busiest international destination as of 2016 with 386,496 passengers, followed by SÃ£o Paulo (372,773), and Buenos Aires (358,943).  The scenery features a detailed rendition of SLVR, with custom night lighting, native MSFS dynamic lighting, seamless integration with default MSFS scenery, PBR materials, and native gITF models.  Itâs available on SimMarket for roughly $17.57, requiring at least 1.7 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2022-12-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/upship</id>
-    <title>Major Update To Global AI Ship Traffic For MSFS Released</title>
-    <updated>2022-12-31T00:00:00+00:00</updated>
-    <link href="/news/upship" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b031be180a5604b1d7d189_ai-boats-ships-ai-msfszip-70-screen-71.jpg" rel="enclosure" type="image/jpeg" length="1384359"/>
-    <summary>Sim: MSFS. Henrik Nielsen, the creator of a popular freeware utility add-on for Microsoft Flight Simulator, has released a major update for the product. The update, which brings the add-on to version 3.0, significantly improves the realism of the virtual world in the flight simulator by adding a wide variety of ships, boats, and ferries with realistic 3D models and authentic routes. One of the key features of the update is the addition of more than 400 new ship models from around the globe, including cruise ships, fishing boats, container ships, oil and gas tankers, and ferries. This brings the total number of unique ship models to almost 900, with a total of over 1,800 ships including repaints. The update also expands the coverage of ship routes, increasing traffic density in different regions. In addition to the new ship models, the update includes more than 100 new ferry routes and the ability to witness real-world naval exercises featuring ships from various countries. These exercises, which include full-scale NATO landing exercises on the West Coast of the Jutland Peninsula in Denmark and similar exercises by the Brazilian and Chinese navies in their respective areas, add a level of realism and immersion to the virtual world. Other features and improvements in the update include light, smoke, and wake effects on all ship models, as well as dynamic sounds for each type of ship model. The update is compatible with the latest sim update and has a minimal impact on performance, depending on the density of ship models in a given region. The download size is approximately 2.2 GB, with an installation size of 5.6 GB. To learn more about the update and how to download and install it, visit the Global AI Ship Traffic MSFS GAIST Ultra V3 page at flightsim.to. </summary>
-    <published>2022-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/simsol</id>
-    <title>SimSolutions Announce Diamond DA20 For MSFS</title>
-    <updated>2022-12-31T00:00:00+00:00</updated>
-    <link href="/news/simsol" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b03bc7699a14463bc31c35_DA27.png" rel="enclosure" type="image/png" length="4183387"/>
-    <summary>Sim: X-Plane. SimSolutions, a leading aircraft design and development brand in the flight sim community, has announced its âreturn to Diamondâ with the Diamond DA20-C1 Eclipse for Microsoft Flight Simulator. This marks the company's first foray into the new simulator and represents a significant milestone in its efforts to provide users with the most accurate and detailed aircraft models possible. According to the developer, the decision to create the DA20-C1 for MSFS was inspired by a personal passion for flying the aircraft. "Being the aircraft that I currently fly, I thought it was only fitting to remodel it with as much detail as I can to give an accurate model and operation of the DA20-C1â. "I am thrilled to have made the decision to create this aircraft for MSFS, but it will take some time." While the development of the DA20-C1 for Microsoft Flight Simulator is currently the group's top priority, it has not ruled out the possibility of releasing a version for X-Plane in the future. "An X-Plane version will likely come later," the development team said. SimSolutions expressed its gratitude to its supporters and wished them a Happy New Year. "We thank you so much for the support this year and are wishing you a very Happy New Year," To find out more, visit their Discord </summary>
-    <published>2022-12-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bbr757</id>
     <title>BlueBird Simulations Announce New Project and Progress Update on 757</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a17e9f6a09671055752c6a_flwbig2.jpg" rel="enclosure" type="image/jpeg" length="496765"/>
     <summary>Sim: MSFS. Parallel 42 has recently released an update to Flow, their customizable interface for Microsoft Flight Simulator, adding new features requested by the Community, and a fix for an issue brought by the latest MSFS beta update.Â  They have listed five key features added with the new update, which are:Â   â  In addition to the updates included in this release, Parallel 42 has also added several APIs for script creators, allowing them to access and customize a range of features in Flow. The complete changelog follows down below: â NEW â â IMPROVED â â FIXED â â Overall, the update to Flow aims at improving the user experience, and the company is confident that the tool will continue to evolve and improve with the input and creations of their community.  Parallel 42âs Flow is available onÂ Orbx Direct, requiring at least 10.26 MB of free disk space to install. Shout out to DragonRuins for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inilh3</id>
+    <title>iniBuilds Releases London Heathrow Airport V3 for MSFS</title>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <link href="/news/inilh3" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bdf5022b7a8bd57f6d035f_v31-min.png" rel="enclosure" type="image/png" length="1535098"/>
+    <summary>Sim: MSFS. iniBuilds has recently released their updated rendition of London Heathrow Airport (EGLL) for Microsoft Flight Simulator, adding new features and improving the overall performance within the simulator.Â   London Heathrow is the eight-busiest airport in Europe by total passenger traffic, with a yearly average of 80 million passengers, flying to over 184 destinations in 84 countries. Itâs the main gateway to England, with 94% of the traffic comprehending international travel, and the remaining 6% is strictly domestic. Itâs the Main hub for British Airways, the biggest carrier in the United Kingdom, offering a wide range of destinations from within the United Kingdom and all over the world, with more legs set to begin in mid-2023.  The V3 update adds features such as parallax interiors to all terminals, a groundpoly overhaul, an ATC tower interior, clutter on the ATC tower roof, static people added to some terminals, additional model details added to stillages and substations, barless tugs and belt loaders updated with new models, new marking details around all terminals, and the addition of airport-wide optimization and lodding. The complete changelog follows down below:  â â The update is available right now on iniManager to all current owners. New owners can find the scenery on theÂ iniBuilds StoreÂ with a 30% discount (until 17.01.23) at roughly $15.34, requiring at least 5.67 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpber</id>
+    <title>RDPresets Updates Bergen Airport for MSFS</title>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <link href="/news/rdpber" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bdfab7ea5503823ad5ad3e_ber1.jpg" rel="enclosure" type="image/jpeg" length="991128"/>
+    <summary>Sim: MSFS. RDPresets has recently released an update to their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, including improvements and bug fixes. The additions include animated jetways on both terminals, parallax on buildings, an animated tram on the new terminal, an animated helicopter, and more.Â   Bergen Flesland Airport is the second busiest airport in Norway, with a yearly average of 6 million passengers. It features a wide intra-European route network, by the wings of Scandinavian Airlines, Wideroe, Norwegian Air Shuttle (all from Scandinavia), and several visitors from around Europe such as Air France, Finnair, KLM, Lufthansa, and WizzAir.Â   Along with the new additions to the scenery, RDPresets has also changed the runway slope, removed cruise ships, and fixed the jetway colors on the old terminal. The complete changelog follows down below: â â Itâs available on theÂ RDPresets StoreÂ for roughly $21.47 or onÂ SimMarketÂ for $19.00, requiring at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/t320ne</id>
+    <title> ToLiss Announces A320 NEO as the Next Product for X-Plane</title>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <link href="/news/t320ne" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63be502dbcbd79129dfe824c_Screenshot%202023-01-11%20at%2012.59.06%20AM.png" rel="enclosure" type="image/png" length="640273"/>
+    <summary>Sim: X-Plane. Earlier this week, developer ToLiss announced the A320 NEO as their next product for X-Plane. The aircraft will mark yet another addition to the already impressive ToLiss Airbus fleet that includes the A319, A321, and A340. â From the teaser picture that accompanied the announcement, it can be seen that the exterior modeling of the aircraft has already been completed, including the brand new engines that distinguishes the NEO from the other A320 variants.  ToLiss has only released limited information regarding the NEO. Therefore, it is unclear whether the A320 NEO will receive a cockpit completely modeled from the ground up or one thatâs derived from that of the A321 and A319. It is also not known if Toliseâs NEO will feature both the CFM Leap and the PW1000G engine options. â Currently, a firm release date is yet to be disclosed but the A320 is expected to come out sometime in March of this year. Threshold will keep you updated on this front. â</summary>
+    <published>2023-01-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/acspar</id>
+    <title>AC Scenery Releases Pardubice Airport for MSFS</title>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <link href="/news/acspar" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bedf2fba56ff753f7c2747_pardu1-min.png" rel="enclosure" type="image/png" length="1905290"/>
+    <summary>Sim: MSFS. AC Scenery has recently released their rendition of Pardubice Airport (LKPD) for Microsoft Flight Simulator, a civil-military international airport serving the city of Pardubice in Czech Republic. Itâs the fourth busiest airport in the country, with a yearly average of 140 thousand passengers.Â   The airport sees most of its commercial traffic during the summer season, when Ryanair and Smartwings offer four destinations in total. Military traffic makes up most of the year-long traffic, with a NATO A332 constantly visiting from Eindhoven in the Netherlands.Â   Pardubice got a new terminal and apron expansion in 2017, increasing its passenger capacity and handling larger aircraft such as the Airbus A320 and the Boeing 737. It was named after Jan Kaspar, an icon of Czech aviation.Â   The scenery features an accurate rendition of Pardubice Airport, with orthoimagery around the whole area, optimized dynamic lighting, and performance friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $12.87, requiring at least 522 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-11T00:00:00+00:00</published>
   </entry>
 </feed>
