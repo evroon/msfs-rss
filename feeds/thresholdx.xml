@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-11T18:28:12.630742+00:00</updated>
+  <updated>2023-01-12T18:25:52.654497+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bbr757</id>
-    <title>BlueBird Simulations Announce New Project and Progress Update on 757</title>
-    <updated>2022-12-31T00:00:00+00:00</updated>
-    <link href="/news/bbr757" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b0b52ec67b7de6cfd68cdc_sneak_peek4.jpg" rel="enclosure" type="image/jpeg" length="171873"/>
-    <summary>Sim: X-Plane. Bluebird Simulations has recently announced that it has a new project in the works. While details about the project are currently scarce, the company has stated that it will provide updates on the progress of the project in the coming months. Although details are being kept quiet, they have provided this teaser:Â  In the meantime, Bluebird Simulations is continuing to focus on its core project, the 757 addon for Microsoft Flight Simulator. Fans of the project can expect to see lots of updates on development progress and new features for the 757 in the coming weeks. This news is sure to be exciting for flight simulator pilots, who have come to rely on Bluebird Simulations teaser photos and development updates for their MSFS 757 fix!Â  Stay tuned for further updates from Bluebird Simulations as the team continues to work on its new project and further the 757 toward release.Â  â</summary>
-    <published>2022-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jstgir</id>
-    <title>JustSim Releases Girona-Costa Brava Airport for MSFS</title>
-    <updated>2023-01-01T00:00:00+00:00</updated>
-    <link href="/news/jstgir" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b105fde039e62ff6bf08bf_girona1.jpg" rel="enclosure" type="image/jpeg" length="513764"/>
-    <summary>Sim: MSFS. JustSim has recently released their rendition of Girona-Costa Brava Airport (LEGE) for Microsoft Flight Simulator, serving the city of Girona in north-eastern Catalonia. It averages around 2 million passengers per year, peaking during the summer when nine european airlines (Brussels Airlines, Enter Air, Jet2.com, LOT Polish Airlines, Ryanair, Smartwings, Transavia, TUI Airways, and TUI Fly Belgium) add the city to their destination list. The Irish low-cost carrier is the only one to maintain a fixed schedule throughout the year, although fairly limited (KrakÃ³w, London Stansted, Nuremberg, and Pisa).  Built in 1965, Girona had modest traffic figures up until the early 2000s, when Ryanair chose it as their âBarcelonaâ due to its proximity with the Catalan Capital, and cheaper landing fees and operating costs. The airport saw an increase from mere 275,000 passengers in 1993 to over 5 million during the âRyanair eraâ which ended in 2012 when they decided to move the operations to El Prat. Traffic figures got halved a year after, and it has been consistently around that ballpark ever since. The scenery features an accurate rendition of the airport and its facilities, with custom ground textures, landside buildings, custom clutter, and updated taxiways. Itâs available on SimMarket for roughly $9.06 (with a discount for owners of the P3D/XP11 version), requiring at least 1.67 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/essvsl</id>
     <title>Skyline Simulations Releases Freeware Visby Airport (ESSV) for Microsoft Flight Simulator</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bedf2fba56ff753f7c2747_pardu1-min.png" rel="enclosure" type="image/png" length="1905290"/>
     <summary>Sim: MSFS. AC Scenery has recently released their rendition of Pardubice Airport (LKPD) for Microsoft Flight Simulator, a civil-military international airport serving the city of Pardubice in Czech Republic. Itâs the fourth busiest airport in the country, with a yearly average of 140 thousand passengers.Â   The airport sees most of its commercial traffic during the summer season, when Ryanair and Smartwings offer four destinations in total. Military traffic makes up most of the year-long traffic, with a NATO A332 constantly visiting from Eindhoven in the Netherlands.Â   Pardubice got a new terminal and apron expansion in 2017, increasing its passenger capacity and handling larger aircraft such as the Airbus A320 and the Boeing 737. It was named after Jan Kaspar, an icon of Czech aviation.Â   The scenery features an accurate rendition of Pardubice Airport, with orthoimagery around the whole area, optimized dynamic lighting, and performance friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $12.87, requiring at least 522 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aero10</id>
+    <title>Aerobask Celebrates 10 Years of Innovative Flight Simulation Add-Ons</title>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <link href="/news/aero10" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bf26415a30e2c380bf5a2f_2.PNG" rel="enclosure" type="image/png" length="1179983"/>
+    <summary>Sim: X-Plane. Aerobask, a leading developer of aircraft add-ons for the popular flight sim platform X-Plane, is celebrating its 10th anniversary in the industry. In the last ten years, Aerobask has established a reputation for creating high-quality, accurate, and realistic aircraft models that have been widely praised by flight simulation enthusiasts. To mark the occasion, Aerobask will be releasing an all-new Diamond DA42 aircraft for X-Plane.Â  In a Forum post earlier today, a member of the Aerobask team revealed â On this occasion, we are adding a brand new DA42 to our catalogueâ followed by a video teaser promoting the team's 10th anniversary and the new DA42 aircraft.Â  â â</summary>
+    <published>2023-01-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cows42</id>
+    <title>Experienced developers collaborate on ambitious DA42 project to advance flight simulation</title>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <link href="/news/cows42" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c01b0d807635a5cb4e424f_DA42-VI_-_2022-10-26_00.10.23_Original.png" rel="enclosure" type="image/png" length="2409126"/>
+    <summary>Sim: X-Plane. The flight simulation community has seen the emergence of a new developer group, CreatorOfWorldS (COWS). The team has generated significant interest with their first product in production, the Diamond DA42 aircraft, a highly detailed and accurate replica of the aircraft. Early previews of the product have generated excitement among enthusiasts and professionals alike when shared on social media. Their first public appearance was under another name. We covered the quartet of developers "Simmy Aircraft" for their first debut in an earlier article. COWS has stated that their primary goal is to provide products that will aid in training and simulation opportunities for students and consumers. They have put a lot of effort into replicating the flight behaviour and systems through real aircraft testing and feedback. The development team comprises four members, one of which is Mitchell, who is in charge of creating the meticulously crafted 3D model of the plane. He had direct access to a DA42 throughout the development process, which means that everything about the model has been created based on manuals, pictures, first-hand experience, and a lot of passion for the project. Another team member, Jacob, is responsible for everything under the hood. He has carefully recreated the flight model, electrics, fuel, engine control units, and de-ice system based on the aircraft's manuals and first-hand experience flying the real-life counterparts. The flight model has been tuned to match performance tables accurately, and the result is so close to the real plane that it can be handled just as it would in the real world. Boris is in charge of creating the sounds for the aircraft. He is known for his work in the flight simulation community, being in charge of audio at FlyByWire, and having created sound packs for the DA42 in Microsoft Flight Simulator and other sound packs for other aircraft. To create realistic sounds for the COWS' DA42, Boris has recorded real aircraft sounds and incorporated them into the simulator to ensure a truly immersive user experience. With Peter at the helms of reason, administrative tasks, branding and 3D work assistance, the four members sum up the current team. The COWS DA42 is equipped with a fully custom Garmin G1000NXi avionics system. This system has been created using a combination of manuals, first-hand experience, and Garmin software in order to make it as accurate as possible to the real-world version of the system. The system includes simulation of many of the features of the real Garmin, such as the GPS satellite constellation, profile saving and copying, persistent settings, and system statuses. The system also includes simulations of other systems, such as the PFD, AHRS, ADC, GTX335R, and GMU. Currently, the only features that remain to be added to the simulation are custom flight planning with custom LNAV/VNAV and maps. The system also has the capability to remember user settings. It allows for per-livery, and per-aircraft configurations, giving users the ability to customise their avionics package to their preferences.  The video is a demonstration of the fully custom G1000NXi from COWS own press release. â â The development is still ongoing, and the team is working hard to bring the DA42s to the flight simulation community. No timeline is given, but they are dedicated to ensuring no stone is left unturned and bringing the best DA42s they can offer their users. However, as the team put it, it will take them a little more time to finish everything and ensure everything is perfect. In their press release, COWS mention that their next project will be the DA40-180 XLS, after their DA42 series.  To follow their progress, you can join their discord.  â</summary>
+    <published>2023-01-12T00:00:00+00:00</published>
   </entry>
 </feed>
