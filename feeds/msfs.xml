@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-01-12T18:25:52.061185+00:00</updated>
+  <updated>2023-01-13T18:23:40.164735+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2022-11-11T23:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-celebrates-10-million-pilots/</id>
-    <title>Microsoft Flight Simulator Celebrates 10 Million Pilots</title>
-    <updated>2022-12-07T16:24:21+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-celebrates-10-million-pilots/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/MicrosoftTeams-image-1-1024x576.png" rel="enclosure" type="image/png" length="202339"/>
-    <summary>Microsoft Flight Simulator is thrilled to mark another momentous milestone made possible by our tremendous community. Since the introduction 27 months ago of the latest version of Microsoft Flight Simulator, we have released 27 robust updates to simmers. All completely free! On 11 November, we celebrated our 40th Anniversary with the release of the Microsoft … Continued</summary>
-    <published>2022-12-07T16:24:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/december-8th-2022-development-update/</id>
-    <title>December 8th, 2022 Development Update</title>
-    <updated>2022-12-09T00:53:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-8th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2019/11/XO_Cap10_02-1024x576.jpg" rel="enclosure" type="image/jpeg" length="108621"/>
-    <summary>As a reminder, we will continue to bring Marketplace Updates on December 8, 15, and 29. The main Development Update blog will return starting January 5, 2023.</summary>
-    <published>2022-12-09T00:53:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/december-15th-2022-development-update/</id>
     <title>December 15th, 2022 Development Update</title>
     <updated>2022-12-15T23:56:44+00:00</updated>
@@ -77,5 +59,23 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/Carenado_Sale_Jan2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="75713"/>
     <summary>8 Items On Sale Now in the Marketplace</summary>
     <published>2023-01-06T18:27:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-12th-2023-development-update/</id>
+    <title>January 12th, 2023 Development Update</title>
+    <updated>2023-01-13T00:50:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-12th-2023-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/MihamaBlend-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="35533"/>
+    <summary>Work on Aircraft &amp; Avionics Update 1 (AAU1) continues to go well in advance of its expected release date later this month. We released a new beta build (1.30.11.0) to testers earlier this week.</summary>
+    <published>2023-01-13T00:50:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/simulacion-extrema-sale/</id>
+    <title>Simulación Extrema Sale</title>
+    <updated>2023-01-13T18:11:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/simulacion-extrema-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/SimulacionExtremaSale_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="190286"/>
+    <summary>Enjoy discounted pricing on Marketplace content from Simulación Extrema!For seven days starting on January 13th save up to 42% on the following items: PAYA Yakutat Airport RJCW Wakkanai Airport RJFC Yakushima Airport RJKA Amami Airport RJKI Kikai Airport RORT Tarama Airport SACO Cordoba Airport SAVC Comodoro Rivadavia International Airport SAVT Trelew Airport SAWC El Calafate … Continued</summary>
+    <published>2023-01-13T18:11:39+00:00</published>
   </entry>
 </feed>
