@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-15T18:22:05.011329+00:00</updated>
+  <updated>2023-01-16T18:23:46.265409+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fssead</id>
-    <title>FlightSim Studio Announces Release Date for Embraer 175 Add-on</title>
-    <updated>2023-01-05T00:00:00+00:00</updated>
-    <link href="/news/fssead" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b760722457ab24cdb681db_emb1.jpg" rel="enclosure" type="image/jpeg" length="538011"/>
-    <summary>Sim: MSFS. FlightSim Studio AG has recently previewed their upcoming Embraer 175 in aÂ three-hour longÂ live streamÂ where they have shown the current state of the product, planned features, and pricing, along with aÂ development roadmap.Â   The E175 is a narrow-body, twin-engine jet airliner produced by Brazilian aerospace manufacturer Embraer, designed to seat up to 78 passengers in a typical two-class configuration or a maximum of 88 passengers in a high-density layout. It has a range of up to 2,400 nautical miles, making it suitable for regional and medium-haul flights.Â   The add-on is coming out five days from now under an early access program, where users will be able to test the aircraft during its development process and provide feedback. The complete feature list follows down below:  â Itâs going to be available next Tuesday for 33 euros. Threshold will keep you updated. â</summary>
-    <published>2023-01-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lepaqp</id>
-    <title>Low-End PC Studios Releases RodrÃ­guez BallÃ³n International Airport v2 for MSFS</title>
-    <updated>2023-01-07T00:00:00+00:00</updated>
-    <link href="/news/lepaqp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63b9ae5be1149b0fbb739931_aqp1.jpg" rel="enclosure" type="image/jpeg" length="826795"/>
-    <summary>Sim: MSFS. Low-End PC Studios has recently released their updated rendition of RodrÃ­guez BallÃ³n International Airport (SPQU) for Microsoft Flight Simulator, serving the city of Arequipa, Peruâs second-largest city. With nearly 2 million passengers yearly, itâs the third busiest airport in the country.Â   Itâs the main gateway to the Colca Canyon, among the deepest canyons in the world (3270 meters deep) and 70 kilometers in total length. The region had pre-Inca rooted folk, and many old towns founded during the Spanish colonial era, still inhabited to this day and with their ancestral traditions still going strong. The stepped terraces - their pre-Inca agricultural heritage - are still actively cultivated.Â   The airport is a hub for JetSmart PerÃº, with domestic legs to Cuzco, Lima, Piura, and Trujillo, also regularly visited by JetSmart Chile (Santiago de Chile), LATAM PerÃº (Cuzco, Lima), and Sky Airline Peru (Lima).  The scenery features default jetways, projected mesh for ground textures, PBR materials on some objects, a custom runway elevation profile, 3D objects, and two landmarks.  Itâs available onÂ SimMarketÂ for roughly $10.80, requiring at least 545 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/blgpoa</id>
     <title>Brazil Land Games Previews Salgado Filho International Airport Update for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c3fd3e668c5b7c461a89a7_3.PNG" rel="enclosure" type="image/png" length="3271922"/>
     <summary>Sim: X-Plane. ORBX, a leading developer of flight simulation software, has announced the release of "Landmarks Brisbane" for X-Plane 12. This highly detailed add-on package brings the Australian city of Brisbane to life in stunning realism, allowing virtual pilots to explore the city's landmarks and iconic locations in incredible detail. The package features highly detailed models of over 100 of Brisbane's most famous buildings and landmarks, including the Story Bridge, the Wheel of Brisbane, and the Queensland Cultural Centre. Additionally, the package includes high-resolution textures, custom-designed autogen, and accurate night lighting, all of which combine to create a truly immersive flying experience. According to ORBX, the package has been developed using the latest in 3D modelling and texturing techniques, ensuring that the city of Brisbane is depicted as accurately and realistically as possible. The package also includes a range of custom-designed Heliports. The package is now available for purchase on ORBX's website and is compatible with X-Plane 12. Virtual pilots can purchase the package for AUD$19.34 â</summary>
     <published>2023-01-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xdlicc</id>
+    <title>Xometry Design Previews Catania-Fontanarossa Airport for X-Plane </title>
+    <updated>2023-01-15T00:00:00+00:00</updated>
+    <link href="/news/xdlicc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c490b73071c99c6a843262_licc1.jpg" rel="enclosure" type="image/jpeg" length="278159"/>
+    <summary>Sim: X-Plane. Xometry Design has recently previewed their rendition of Catania-Fontanarossa Airport (LICC) for X-Plane 11 and 12, the busiest airport in Sicily and fourth in Italy as of 2020, with a yearly average of 10 million passengers.   Catania is a focus city for Ryanair and WizzAir, offering flights to many European destinations. It is also regularly visited by major carriers such as Air France, easyJet, KLM, Lufthansa, and Turkish, along with many other airlines on a seasonal basis.  Catania-Fontanarossa was the regionâs first airport, dating back to 1924. It was controlled by the allies during WW2 and used by the USAF as a military airfield, where it hosted the 340th Bombardment Group for a few months in 1943 and the 51st Troop Carrier Wing right after, until June 1944. Civil authorities took control not long after the end of the war. After the war, it underwent reconstruction and expansion, with commercial flights beginning to operate in the 1950s. In the following decades, the airport continued to grow in popularity and passenger traffic, becoming one of the busiest airports in Southern Italy. In recent years, there have been several modernization and expansion projects, including the construction of a new terminal, aimed at improving its facilities and capacity. The scenery will feature an accurate rendition of the airport as it currently stands, with high-quality custom buildings, high-resolution and color-corrected satellite imagery, high-resolution ground textures, SAM jetways, VDGS units, accurate ground markings, main terminal interior, custom ground clutter, and accurately placed dirt, wear, and tear. Itâs going to be compatible with X-Plane 11 and 12. Thereâs no information regarding the price or release date yet, but Threshold will keep you informed! â</summary>
+    <published>2023-01-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blu757</id>
+    <title>BlueBird Simulations Previews Interactive Checklist &amp; Lighting for Upcoming 757</title>
+    <updated>2023-01-16T00:00:00+00:00</updated>
+    <link href="/news/blu757" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c49f63a687cf2409895be5_blue1.png" rel="enclosure" type="image/png" length="1411643"/>
+    <summary>Sim: MSFS. BlueBird Simulations has recently uploaded a video showcasing their interactive checklist feature and lighting (internal and external) for their upcoming Boeing 757 add-on.  They initially go through the before engine start checklist where you can witness a start from cold &amp; dark, followed by the IRS alignment procedure and the demonstration of the lights in the cockpit and externally. The BlueBird Simulations 757 aims to be a mid-level complexity airplane, with several degrees of extra depth over default aircraft. It says to feature highly accurate 3D visuals based on reference pictures and documents, a flight model built on real-world data, and the system complexity is yet to be confirmed, according to their website. The Boeing 757 is a mid-size, narrow-body twin-engine jet airliner produced by Boeing Commercial Airplanes. It was designed to replace the 727 on short and medium-length routes, first flown in 1982. It was popular with airlines due to its efficiency and range and was used primarily for transcontinental and transatlantic flights. The 757 was also known for its advanced technology, including fly-by-wire controls and a glass cockpit. Its production ended in 2004, but many are still in service today. There is currently no information on the price and release date yet, but Threshold will keep you informed! â</summary>
+    <published>2023-01-16T00:00:00+00:00</published>
   </entry>
 </feed>
