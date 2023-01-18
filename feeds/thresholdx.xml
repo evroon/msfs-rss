@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-17T18:23:58.455829+00:00</updated>
+  <updated>2023-01-18T18:23:38.931607+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/p42flu</id>
-    <title>Parallel 42 Updates Flow for MSFS</title>
-    <updated>2023-01-09T00:00:00+00:00</updated>
-    <link href="/news/p42flu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63a17e9f6a09671055752c6a_flwbig2.jpg" rel="enclosure" type="image/jpeg" length="496765"/>
-    <summary>Sim: MSFS. Parallel 42 has recently released an update to Flow, their customizable interface for Microsoft Flight Simulator, adding new features requested by the Community, and a fix for an issue brought by the latest MSFS beta update.Â  They have listed five key features added with the new update, which are:Â   â  In addition to the updates included in this release, Parallel 42 has also added several APIs for script creators, allowing them to access and customize a range of features in Flow. The complete changelog follows down below: â NEW â â IMPROVED â â FIXED â â Overall, the update to Flow aims at improving the user experience, and the company is confident that the tool will continue to evolve and improve with the input and creations of their community.  Parallel 42âs Flow is available onÂ Orbx Direct, requiring at least 10.26 MB of free disk space to install. Shout out to DragonRuins for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inilh3</id>
-    <title>iniBuilds Releases London Heathrow Airport V3 for MSFS</title>
-    <updated>2023-01-10T00:00:00+00:00</updated>
-    <link href="/news/inilh3" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bdf5022b7a8bd57f6d035f_v31-min.png" rel="enclosure" type="image/png" length="1535098"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their updated rendition of London Heathrow Airport (EGLL) for Microsoft Flight Simulator, adding new features and improving the overall performance within the simulator.Â   London Heathrow is the eight-busiest airport in Europe by total passenger traffic, with a yearly average of 80 million passengers, flying to over 184 destinations in 84 countries. Itâs the main gateway to England, with 94% of the traffic comprehending international travel, and the remaining 6% is strictly domestic. Itâs the Main hub for British Airways, the biggest carrier in the United Kingdom, offering a wide range of destinations from within the United Kingdom and all over the world, with more legs set to begin in mid-2023.  The V3 update adds features such as parallax interiors to all terminals, a groundpoly overhaul, an ATC tower interior, clutter on the ATC tower roof, static people added to some terminals, additional model details added to stillages and substations, barless tugs and belt loaders updated with new models, new marking details around all terminals, and the addition of airport-wide optimization and lodding. The complete changelog follows down below:  â â The update is available right now on iniManager to all current owners. New owners can find the scenery on theÂ iniBuilds StoreÂ with a 30% discount (until 17.01.23) at roughly $15.34, requiring at least 5.67 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rdpber</id>
     <title>RDPresets Updates Bergen Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c5a9215f80041073b976f3_leticia1.jpg" rel="enclosure" type="image/jpeg" length="755447"/>
     <summary>Sim: MSFS. Teikof Studio recently released their rendition of Alfredo VÃ¡squez Cobo International (SKLT) for Microsoft Flight Simulator, serving the city of Leticia, Colombia's southernmost city and capital of the Amazonas Department.  Itâs visited by Avianca, LATAM Colombia, and Viva Air, with direct flights to BogotÃ¡. SATENA, a government-owned regional carrier, also operates in Leticia with routes to La Chorrera, La Pedrera, San JosÃ© del Guaviare, and TarapacÃ¡.  The airport has a relatively short history compared to other airports, as it was built in the early 21st century, beginning in the year 2000 and reaching completion in 2003. It was named after the former governor of the department of Amazonas, Alfredo VÃ¡squez Cobo. The airport serves as the main gateway to the southern region of Colombia, including the Amazon rainforest, being a hub for air transportation of regional products, such as rubber and Brazil nuts. Today, the airport handles around 100,000 passengers annually, considered an important economic and tourism engine for the region. â  The scenery features an accurate rendition of the airport as it currently stands, with PBR materials, custom terraforming, detailed apron and terminal, and framerate-friendly optimization.Â   Itâs available onÂ SimMarketÂ for roughly $15.13, requiring at least 124 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffa32u</id>
+    <title>FlightFactor A320 Receives Update </title>
+    <updated>2023-01-17T00:00:00+00:00</updated>
+    <link href="/news/ffa32u" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c703005633b15a05ee04e3_a320_15.jpg" rel="enclosure" type="image/jpeg" length="85872"/>
+    <summary>Sim: X-Plane. Flight Factor's A320, a popular and highly-regarded flight simulator add-on for X-Plane, has recently received a significant update. The update includes a variety of new features and improvements Some of the newest features to be implemented on the A320 include; the option to use sharklets and the new icing system which is said to be fully operational. Another much-anticipated feature which has been implemented is full SimBrief integration of the aircraft's EFB.Â  The full changelog includes:Â  1.5.6 Improvements: * Simbrief integration (through INIT REQUEST) * Icing effects * Anti-ice system * Sharklets * Dual input and sidestick priority logic * new cabin 3d-model * significant improvement of Flightplan calculation performance â Fixed: * incorrect prebuilt holdings pattern * Go-Around procedure issues * Overspeed protection * incorrect prebuilt hold entries * go-around procedure activation * duplicate markers on the flight path when close to the MAP * EFIS BARO knob pull for 'active mouse wheel' input â</summary>
+    <published>2023-01-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nettam</id>
+    <title>NetDesign Releases Tamanrasset Airport for MSFS</title>
+    <updated>2023-01-18T00:00:00+00:00</updated>
+    <link href="/news/nettam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c7b0795784f11efd8bac87_daat1.jpg" rel="enclosure" type="image/jpeg" length="332356"/>
+    <summary>Sim: MSFS. NetDesign has recently released their rendition of Aguenar - Hadj Bey Akhamok Airport (DAAT) for Microsoft Flight Simulator, serving the city of Tamanrasset in Algeria with an average of 70.000 passengers a year.Â   Itâs a small airport with one terminal building serving international and domestic flights, primarily used by tourists visiting the nearby Ahaggar National Park and Tassili nâAjjer National Park, which are popular destinations for their natural beauty and cultural significance. Itâs also a hub for military and cargo operations.  The scenery was created with the help of reference photos and satellite imagery, featuring the passenger terminal, tower building, and an Algerian military base with its buildings. Roads around the airport area underwent improvements to provide a realistic backdrop for pilots flying in and out, along with fencing around the airport perimeter. It also features static military aircraft, points of interest, and a nearby solar plant. The complete feature list follows down below: â - 4K PBR textures in multiple layers - Parallax windows based on real interior photos - Many details gleaned from tourist photographs - Reconstruction of the adjacent military base created using satellite imagery - Accurate Algerian Air Force Su-30MKA and Mi-8's on the tarmac featuring markings from real aircraft - SKTM solar power plant, which can cause glare for planes on runway 8 approach during sunset - POI: Tin Hinan Tomb POI not far to the west for sightseeing - ILS 8 (109.7) and ILS 20 (108.5) are functional - Runway 20 was tilted slightly to mitigate the misaligned default ILS 20 in order to preserve all navaids that came with the default airport - Redone aprons and markings matching recent satellite images - Redone taxiway system and airport/street night lighting  Itâs available onÂ SimMarketÂ for roughly $13.00, requiring at least 513 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-18T00:00:00+00:00</published>
   </entry>
 </feed>
