@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-18T18:23:38.931607+00:00</updated>
+  <updated>2023-01-19T18:24:55.429870+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rdpber</id>
-    <title>RDPresets Updates Bergen Airport for MSFS</title>
-    <updated>2023-01-10T00:00:00+00:00</updated>
-    <link href="/news/rdpber" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bdfab7ea5503823ad5ad3e_ber1.jpg" rel="enclosure" type="image/jpeg" length="991128"/>
-    <summary>Sim: MSFS. RDPresets has recently released an update to their rendition of Bergen Flesland Airport (ENBR) for Microsoft Flight Simulator, including improvements and bug fixes. The additions include animated jetways on both terminals, parallax on buildings, an animated tram on the new terminal, an animated helicopter, and more.Â   Bergen Flesland Airport is the second busiest airport in Norway, with a yearly average of 6 million passengers. It features a wide intra-European route network, by the wings of Scandinavian Airlines, Wideroe, Norwegian Air Shuttle (all from Scandinavia), and several visitors from around Europe such as Air France, Finnair, KLM, Lufthansa, and WizzAir.Â   Along with the new additions to the scenery, RDPresets has also changed the runway slope, removed cruise ships, and fixed the jetway colors on the old terminal. The complete changelog follows down below: â â Itâs available on theÂ RDPresets StoreÂ for roughly $21.47 or onÂ SimMarketÂ for $19.00, requiring at least 1 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/t320ne</id>
-    <title> ToLiss Announces A320 NEO as the Next Product for X-Plane</title>
-    <updated>2023-01-11T00:00:00+00:00</updated>
-    <link href="/news/t320ne" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63be502dbcbd79129dfe824c_Screenshot%202023-01-11%20at%2012.59.06%20AM.png" rel="enclosure" type="image/png" length="640273"/>
-    <summary>Sim: X-Plane. Earlier this week, developer ToLiss announced the A320 NEO as their next product for X-Plane. The aircraft will mark yet another addition to the already impressive ToLiss Airbus fleet that includes the A319, A321, and A340. â From the teaser picture that accompanied the announcement, it can be seen that the exterior modeling of the aircraft has already been completed, including the brand new engines that distinguishes the NEO from the other A320 variants.  ToLiss has only released limited information regarding the NEO. Therefore, it is unclear whether the A320 NEO will receive a cockpit completely modeled from the ground up or one thatâs derived from that of the A321 and A319. It is also not known if Toliseâs NEO will feature both the CFM Leap and the PW1000G engine options. â Currently, a firm release date is yet to be disclosed but the A320 is expected to come out sometime in March of this year. Threshold will keep you updated on this front. â</summary>
-    <published>2023-01-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/acspar</id>
     <title>AC Scenery Releases Pardubice Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c7b0795784f11efd8bac87_daat1.jpg" rel="enclosure" type="image/jpeg" length="332356"/>
     <summary>Sim: MSFS. NetDesign has recently released their rendition of Aguenar - Hadj Bey Akhamok Airport (DAAT) for Microsoft Flight Simulator, serving the city of Tamanrasset in Algeria with an average of 70.000 passengers a year.Â   Itâs a small airport with one terminal building serving international and domestic flights, primarily used by tourists visiting the nearby Ahaggar National Park and Tassili nâAjjer National Park, which are popular destinations for their natural beauty and cultural significance. Itâs also a hub for military and cargo operations.  The scenery was created with the help of reference photos and satellite imagery, featuring the passenger terminal, tower building, and an Algerian military base with its buildings. Roads around the airport area underwent improvements to provide a realistic backdrop for pilots flying in and out, along with fencing around the airport perimeter. It also features static military aircraft, points of interest, and a nearby solar plant. The complete feature list follows down below: â - 4K PBR textures in multiple layers - Parallax windows based on real interior photos - Many details gleaned from tourist photographs - Reconstruction of the adjacent military base created using satellite imagery - Accurate Algerian Air Force Su-30MKA and Mi-8's on the tarmac featuring markings from real aircraft - SKTM solar power plant, which can cause glare for planes on runway 8 approach during sunset - POI: Tin Hinan Tomb POI not far to the west for sightseeing - ILS 8 (109.7) and ILS 20 (108.5) are functional - Runway 20 was tilted slightly to mitigate the misaligned default ILS 20 in order to preserve all navaids that came with the default airport - Redone aprons and markings matching recent satellite images - Redone taxiway system and airport/street night lighting  Itâs available onÂ SimMarketÂ for roughly $13.00, requiring at least 513 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/airsba</id>
+    <title>Airworthy Designs Releases Saint BarthÃ©lemy Airport for MSFS</title>
+    <updated>2023-01-19T00:00:00+00:00</updated>
+    <link href="/news/airsba" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c8967143a2d42372f719b6_sb1.png" rel="enclosure" type="image/png" length="3986117"/>
+    <summary>Sim: MSFS. Airworthy Designs has recently released their rendition of Saint BarthÃ©lemy Airport (TFFJ) for Microsoft Flight Simulator, the third most dangerous airport in the world according to The History Channelâs Most Extreme Airports documentary, only behind Toncontin and Lukla.Â   With a 646-meter-long runway, itâs only served by small regional aircraft and charters, with the Dash 7 being the largest aircraft ever allowed to operate at St. Barths. It sees a steady average of 190 thousand passengers per year, on all sorts of small planes such as the Pilatus PC-12, the Cessna 208B Grand Caravan, the DHC-6 Twin Otter, and the BN-2 Islander.Â   Itâs a hub for Tradewind Aviation, with flights to Antigua, St. Thomas, and San Juan. The visitorsâ list includes Air Antilles, West Indies Helicopters, and Winair, taking people to St. Maarten, Pointe-Ã -Pitre, and Saba.Â   Cargo-wise, DHL Aviation offers a wide range of destinations between the nearby islands.Â  The scenery was developed with on-site photography, input from residents, and attention to detail to provide a very authentic experience. It features the whole island, with most of its points of interest like the Port of Gustavia, the industrial zone, and the residential areas. The mesh was corrected, fixing the final approach geometry, and matching the real-life counterpart as much as possible. It also features a fully modeled terminal with its interior, updated apron layout and markings as of 2022, night lighting, dynamic flag animations, and FPS-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $20.06, requiring at least 163 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/basmem</id>
+    <title>BMWorld and AmSim Release Memphis International Airport for MSFS</title>
+    <updated>2023-01-19T00:00:00+00:00</updated>
+    <link href="/news/basmem" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c8e01effea5d8108520c10_mem1.png" rel="enclosure" type="image/png" length="2357667"/>
+    <summary>Sim: MSFS. BEAUTIFUL MODEL of the WORLD and AmSim have teamed up once again to build and release a rendition of Memphis International Airport (KMEM) for Microsoft Flight Simulator, the primary international airport serving Memphis, covering 1,600 hectares of land, sporting four runways, and averaging 4 million passengers a year as of recent.Â   Mainly a cargo airport, known as the FedEx Superhub, it processes a significant number of packages per year, featuring many nonstop destinations all across the globe, along with a network of domestic routes all over the continental United States. For 16 years (between 1993 and 2009), MEM used to be the busiest cargo airport in the World, overtaken by Hong Kong Intl. in 2010 but remained the busiest cargo airport in the country and the entire western hemisphere until 2020, when the COVID-19 eCommerce boom made it take the first place once again, although rather briefly.Â   Passenger-wise, it averages 80 flights a day, with Delta Airlines being the market share leader with 21.33% (828,000) of the total number of passengers between 2021 and 2022. American Airlines is second, with 20.36% (790,000), and Southwest is third, with 18.47% (717,000). As far as destinations are concerned, Atlanta is the busiest, with 422,000 passengers, followed by Dallas-Fort Worth and Charlotte, with 257,000 and 190,000, respectively.Â   The scenery features an accurate rendition of the airport as it currently stands, with a fully modeled terminal interior, animated jetways, high-resolution custom ground textures, surrounding buildings fully modeled, parallax windows, airline codes assigned to each parking, and FSLTL compatibility.Â   Itâs available onÂ Orbx DirectÂ for roughly $22.73, requiring at least 2.53 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-19T00:00:00+00:00</published>
   </entry>
 </feed>
