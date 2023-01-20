@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-19T18:24:55.429870+00:00</updated>
+  <updated>2023-01-20T18:24:44.059244+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/acspar</id>
-    <title>AC Scenery Releases Pardubice Airport for MSFS</title>
-    <updated>2023-01-11T00:00:00+00:00</updated>
-    <link href="/news/acspar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63bedf2fba56ff753f7c2747_pardu1-min.png" rel="enclosure" type="image/png" length="1905290"/>
-    <summary>Sim: MSFS. AC Scenery has recently released their rendition of Pardubice Airport (LKPD) for Microsoft Flight Simulator, a civil-military international airport serving the city of Pardubice in Czech Republic. Itâs the fourth busiest airport in the country, with a yearly average of 140 thousand passengers.Â   The airport sees most of its commercial traffic during the summer season, when Ryanair and Smartwings offer four destinations in total. Military traffic makes up most of the year-long traffic, with a NATO A332 constantly visiting from Eindhoven in the Netherlands.Â   Pardubice got a new terminal and apron expansion in 2017, increasing its passenger capacity and handling larger aircraft such as the Airbus A320 and the Boeing 737. It was named after Jan Kaspar, an icon of Czech aviation.Â   The scenery features an accurate rendition of Pardubice Airport, with orthoimagery around the whole area, optimized dynamic lighting, and performance friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $12.87, requiring at least 522 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aero10</id>
     <title>Aerobask Celebrates 10 Years of Innovative Flight Simulation Add-Ons</title>
@@ -150,6 +141,15 @@
     <link href="/news/basmem" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c8e01effea5d8108520c10_mem1.png" rel="enclosure" type="image/png" length="2357667"/>
     <summary>Sim: MSFS. BEAUTIFUL MODEL of the WORLD and AmSim have teamed up once again to build and release a rendition of Memphis International Airport (KMEM) for Microsoft Flight Simulator, the primary international airport serving Memphis, covering 1,600 hectares of land, sporting four runways, and averaging 4 million passengers a year as of recent.Â   Mainly a cargo airport, known as the FedEx Superhub, it processes a significant number of packages per year, featuring many nonstop destinations all across the globe, along with a network of domestic routes all over the continental United States. For 16 years (between 1993 and 2009), MEM used to be the busiest cargo airport in the World, overtaken by Hong Kong Intl. in 2010 but remained the busiest cargo airport in the country and the entire western hemisphere until 2020, when the COVID-19 eCommerce boom made it take the first place once again, although rather briefly.Â   Passenger-wise, it averages 80 flights a day, with Delta Airlines being the market share leader with 21.33% (828,000) of the total number of passengers between 2021 and 2022. American Airlines is second, with 20.36% (790,000), and Southwest is third, with 18.47% (717,000). As far as destinations are concerned, Atlanta is the busiest, with 422,000 passengers, followed by Dallas-Fort Worth and Charlotte, with 257,000 and 190,000, respectively.Â   The scenery features an accurate rendition of the airport as it currently stands, with a fully modeled terminal interior, animated jetways, high-resolution custom ground textures, surrounding buildings fully modeled, parallax windows, airline codes assigned to each parking, and FSLTL compatibility.Â   Itâs available onÂ Orbx DirectÂ for roughly $22.73, requiring at least 2.53 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/obxlau</id>
+    <title>Orbx Releases Launceston Airport for MSFS</title>
+    <updated>2023-01-19T00:00:00+00:00</updated>
+    <link href="/news/obxlau" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c9d5f38c8a89332bff2688_launce1.jpg" rel="enclosure" type="image/jpeg" length="626040"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Launceston Airport (YMLT) for Microsoft Flight Simulator, the second-busiest airport in Tasmania after Hobart, with a yearly average of 1,500,000 passengers (pre-pandemic).  Qantas Group is the biggest operator in the airport, with their subsidiary (JetStar) offering up to six daily flights to and from Melbourne, two daily flights to and from Sydney, and one daily flight to Brisbane. Virgin Australia offers a similar selection with five daily flights to and from Melbourne, one to Sydney, and seasonal flights on select days to Brisbane. Airlines of Tasmania and Sharp Airlines offer a variety of short legs to nearby destinations. Its origins date back to the early 1930s, when it was established as a small grass runway for regional flights, then called The Western Junction Aerodrome. It was officially opened as a government aerodrome in 1931 when over 20,000 people watched Colonel Brinsmead - then controller of civil aviation - âcut the inaugural ribbon.â From 1932 and beyond, small aircraft would fly from Launceston to Flinders Island.  During WW2, it was used by the Royal Australian Air Force as a flight school, preparing pilots for combat. It was the only RAAF air base in Â Tasmania. Two of the hangars are still around to this day.  In the early 60s, plans for a Major redevelopment were approved, which included a runway extension, pavement strengthening, and a new terminal building. In 1982, the runway was once again extended to allow for the operation of Boeing 767s. The current privatization came in 1998, with joint ownership between the Launceston City Council and Australia Pacific Airports Corporation. The post-9/11 crisis and the rise of low-cost airlines made the airport grow in passenger traffic, reaching one million passengers for the first time in 2007.  Such exponential growth demanded another expansion, which doubled the size of the terminal and reached completion in November 2009, costing 20 million Australian dollars.  Developed by Ken Hall, an indie, who happens to be from the region and had exclusive access to the airport, taking hundreds of reference pictures to help with the accuracy and even allow for extra realism on the texturing side of things. It features a faithful recreation of the airport as it currently stands, with PBR texturing, static aircraft, detailed hangars, and terminal building. Itâs available on Orbx Direct for roughly $17.03, requiring at least 2.65 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-19T00:00:00+00:00</published>
   </entry>
 </feed>

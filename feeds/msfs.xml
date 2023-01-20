@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-01-19T18:24:53.588482+00:00</updated>
+  <updated>2023-01-20T18:24:42.632588+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/december-15th-2022-development-update/</id>
-    <title>December 15th, 2022 Development Update</title>
-    <updated>2022-12-15T23:56:44+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-15th-2022-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/12/MicrosoftFlightSimulator_Evergreen_Screenshot-14_3840x2160_RGB-1024x576.png" rel="enclosure" type="image/png" length="210392"/>
-    <summary>We will be skipping next week’s Update due to the holidays. We’ll be back with another Marketplace Update on December 29th.</summary>
-    <published>2022-12-15T23:56:44+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/january-5th-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/SimulacionExtremaSale_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="190286"/>
     <summary>Enjoy discounted pricing on Marketplace content from Simulación Extrema!For seven days starting on January 13th save up to 43% on the following items: PAYA Yakutat Airport RJCW Wakkanai Airport RJFC Yakushima Airport RJKA Amami Airport RJKI Kikai Airport RORT Tarama Airport SACO Cordoba Airport SAVC Comodoro Rivadavia International Airport SAVT Trelew Airport SAWC El Calafate … Continued</summary>
     <published>2023-01-13T18:11:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-19th-2023-development-update/</id>
+    <title>January 19th, 2023 Development Update</title>
+    <updated>2023-01-20T00:20:59+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-19th-2023-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/ukaka5656-Twitter-2-1024x576.jpg" rel="enclosure" type="image/jpeg" length="98330"/>
+    <summary>Beta testing of Aircraft &amp; Avionics Update 1 (AAU1) continues with the release of a new build (1.30.12.0) earlier this week.</summary>
+    <published>2023-01-20T00:20:59+00:00</published>
   </entry>
 </feed>
