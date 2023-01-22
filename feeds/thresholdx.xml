@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-21T18:22:05.745129+00:00</updated>
+  <updated>2023-01-22T18:22:23.642327+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aerda4</id>
-    <title>Aerobask Releases the Diamond DA42 NG for X-Plane 12 </title>
-    <updated>2023-01-14T00:00:00+00:00</updated>
-    <link href="/news/aerda4" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c30f4f65a10a0513f01ce3_thumbnail%20(3).jpg" rel="enclosure" type="image/jpeg" length="28228"/>
-    <summary>Sim: X-Plane. To celebrate their ten-year anniversary, X-Plane aircraft developer, Aerobask, has released the DA42 NG for X-Plane 12. This release comes ten years after their first-ever payware release, the DA42, in 2013. The release of the DA42 NG comes just after their ViperJet, which was released in September of 2022. The aircraft adds to Aerobasks' ever-growing list of Diamond aircraft, with the developer previously having released the Diamond DA50 and DA62 for X-Plane. As is expected with Aerobask products nowadays, the DA42 NG comes with a host of custom systems, such as synthetic vision, a simulated oxygen system, fully functional breakers, and much more. A complete feature list is viewable below. Feature List: Aerobask Systems Suite Advanced Flight Model and Flight Experience Superb 3D Model Custom Sounds Other features and docs Auto-Updater For those looking to purchase the aircraft, Aerobasksâ rendition of the Diamond DA42 NG is available on the X-Plane.org Store for $39.95. A trailer for the aircraft was also made available via the developerâs YouTube Channel, where the DA42 NG can be seen in action.</summary>
-    <published>2023-01-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/stsegi</id>
-    <title>ST Simulations Releases Egilsstadir Airport for MSFS</title>
-    <updated>2023-01-15T00:00:00+00:00</updated>
-    <link href="/news/stsegi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c343b07151358eecb9b697_egil1.jpg" rel="enclosure" type="image/jpeg" length="616381"/>
-    <summary>Sim: MSFS. ST Simulations has recently released their rendition of Egilsstadir Airport (BIEG) for Microsoft Flight Simulator, a single-runway international airport serving the city of Egilsstadir in Iceland, owned by Isavia. With a yearly average of 100000 passengers, itâs one of the busiest airports in the country.Â   Itâs currently served by Icelandair with daily flights to Reykjavik on a DH8B, totaling up to 17 flights a week. Itâs the only commercial airline that operates in Egilsstadir as of 2022.  Built in the 1940s as a USAF base, it was repurposed into a civilian airport after the war, with several expansions in the following decades to accommodate larger aircraft and higher passenger numbers. Today, itâs a hub for regional air travel and a popular tourist destination in the eastern part of Iceland. Itâs used as a diversion airport for flights originally headed to Keflavik, the busiest airport in Iceland.  The scenery features an accurate replica of the terminal, with custom hangars and buildings, typical Icelandic houses, the Fellabaer Bridge, realistic markings on the runway, apron and taxiways, custom objects and environment details, and high-detail textures with PBR.  Itâs available onÂ SimMarketÂ for roughly $10.80, requiring at least 221 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ffaxwb</id>
     <title>FlightFactor Releases New A350 Beta Update for X-Plane</title>
@@ -150,6 +132,24 @@
     <link href="/news/baw172" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63cba00350b9e2b761ab35e8_boris172.png" rel="enclosure" type="image/png" length="1087078"/>
     <summary>Sim: MSFS. Boris Audio Works has recently released their Cessna 172 Sound Set for Microsoft Flight Simulator, built on hours of real-life interior and exterior recordings made with industry-grade equipment. It is their second payware sound set for MSFS, released nearly two months after theÂ first one.Â   Compatible with both the G1000 and steam gauge variants (and the WBSim 172 modification), featuring different specific sounds for both, such as battery and gyro noise on the steam gauges, which is silent on the G1000, as per real life. The sound set also includes dynamic engine sounds, wind and aerodynamic drag, dynamic touchdown and ground roll, multi-stage stall horn, and more. The complete feature list follows down below:  -Dynamic engine sounds -Wind and aerodynamic drag -Buttons, switches, knobs, and levers -Fuel pump -Batteries, gyros, and avionics fans* -Dynamic touchdowns and ground rolls* -Stall horn with several stages changing intensity depending on AOA -And more! â  Itâs available on theÂ Threshold StoreÂ for $15.00 andÂ SimMarketÂ for roughly $16.24, requiring at least 37 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mldias</id>
+    <title>MLD Scenery Releases Iasi International Airport for MSFS</title>
+    <updated>2023-01-21T00:00:00+00:00</updated>
+    <link href="/news/mldias" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63cc6a2b15b51488c4e41ee1_iasi1-min.png" rel="enclosure" type="image/png" length="3268316"/>
+    <summary>Sim: MSFS. MLD Scenery has recently released their rendition of Iasi International Airport (LRIA) for Microsoft Flight Simulator, the fourth-busiest airport in Romania with a yearly average of 1.3 million passengers (pre-pandemic).  As one of the oldest accredited airports in Romania, its history dates back to almost 100 years ago (1926), when it first became a commercial airport with scheduled flights, operated by CFRNA (Compagnie Franco-Roumaine de Navigation AÃ©rienne). Almost 30 years later, it got a new runway, a modern lighting system, and a passenger terminal followed in 1969, with another upgrade in 2001 to separate domestic and international flights.  A brand new terminal (T2) was built in 2012, increasing its passenger capacity and specially designated for Schengen and domestic flights. A long-term, multi-stage upgrade program started the year after, including a new runway (finished in 2014), a new terminal building (inaugurated in 2015), and an apron extension (completed in 2021).  In early 2022, the managers signed a â¬66 million contract with an Austrian construction company to design and build a new terminal (T4) and extend the parking lot, increasing the airportâs capacity to 3.3 million passengers yearly. The estimated completion date is sometime in December 2023.  The scenery features a high-fidelity rendition of the airport, with an updated layout (as of 2022), custom ground polygons, custom approach and taxi lights, custom night lighting, parallax windows, and photorealistic textures on the airport buildings. Itâs available on SimMarket for roughly $15.16, requiring at least 1.62 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdtgs</id>
+    <title>FSDreamTeam Updates GSX Pro for MSFS</title>
+    <updated>2023-01-21T00:00:00+00:00</updated>
+    <link href="/news/fsdtgs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63cc77b9b0c560cfb0f3392e_gsxpro.jpg" rel="enclosure" type="image/jpeg" length="51362"/>
+    <summary>Sim: MSFS. FSDreamTeam has recently updated GSX Pro for Microsoft Flight Simulator, adding support for remote deicing, new menu colors, and several QoL improvements.  GSX Pro improves and expands the ground services with realistic pushback, catering, refueling, baggage loading, and marshaling, introducing unique features such as visible animated passengers, cargo loading, follow me cars, towbar pushback, de-icing, underground refueling, walk-in gates, VDGS docking systems, and more.Â   The newest update adds support for remote deicing, allowing the user to call for deicing on remote pads like in real life. FSDT claims itâs just the first step of the update, with the upcoming one featuring editing of custom deicing areas.Â   The deicing fluid simulation was also improved, with different colors per fluid type (one is yellow, two is clear, three is orange, and four is green) and varying saturation depending on concentration.Â   GSXâs in-game menu was modified, featuring a new color scheme that better matches the simâs default color palette, and new icons to help differentiate between runway starts and custom deicing areas.Â  The update also added an option to ignore departure time when using SimBrief, internal support for the Aerosoft TwinOtter and PMDG DC-6, new safedock types, exclusion patterns to prevent jetways not being recognized correctly on some third-party airports using jetway links as simobjects, and more. The complete changelog follows down below:  â Itâs available onÂ FSDreamTeamâs websiteÂ for $29.99, requiring at least 8 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-21T00:00:00+00:00</published>
   </entry>
 </feed>
