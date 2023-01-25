@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-24T18:23:40.387251+00:00</updated>
+  <updated>2023-01-25T18:22:39.961262+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffaxwb</id>
-    <title>FlightFactor Releases New A350 Beta Update for X-Plane</title>
-    <updated>2023-01-15T00:00:00+00:00</updated>
-    <link href="/news/ffaxwb" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c37858aabe58274adca310_a350-2.jpg" rel="enclosure" type="image/jpeg" length="303520"/>
-    <summary>Sim: X-Plane. FlightFactor has recently updated their A350 beta branch to version 1.7.02, fixing a sim crash on replay, the reverser animation, and graphical bugs on X-Plane 12.  The FlightFactor A350 XWB Advanced provides realism in its depiction of the Airbus A350, featuring a highly detailed virtual cockpit, ground equipment, an advanced systems simulation with SIDs and STARS, customizable failures, and a fully integrated Airbus electronic checklist system. The ECAM monitoring system is fully customized, and the fly-by-wire simulation includes a realistic implementation of normal laws. All Airbus autopilot modes are included, except for a few non-precision approach modes, and the option for independent autopilots is also available. Additionally, it features a custom 3D stereo engine sound system and an interactive flight attendant helper.  Itâs available on theÂ X-Plane.Org StoreÂ for $64.95, requiring at least 800 MB of free disk space to install. Shout out to Poptart in our Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbxbr</id>
     <title>ORBX Release Landmarks Brisbane For XP12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63cc77b9b0c560cfb0f3392e_gsxpro.jpg" rel="enclosure" type="image/jpeg" length="51362"/>
     <summary>Sim: MSFS. FSDreamTeam has recently updated GSX Pro for Microsoft Flight Simulator, adding support for remote deicing, new menu colors, and several QoL improvements.  GSX Pro improves and expands the ground services with realistic pushback, catering, refueling, baggage loading, and marshaling, introducing unique features such as visible animated passengers, cargo loading, follow me cars, towbar pushback, de-icing, underground refueling, walk-in gates, VDGS docking systems, and more.Â   The newest update adds support for remote deicing, allowing the user to call for deicing on remote pads like in real life. FSDT claims itâs just the first step of the update, with the upcoming one featuring editing of custom deicing areas.Â   The deicing fluid simulation was also improved, with different colors per fluid type (one is yellow, two is clear, three is orange, and four is green) and varying saturation depending on concentration.Â   GSXâs in-game menu was modified, featuring a new color scheme that better matches the simâs default color palette, and new icons to help differentiate between runway starts and custom deicing areas.Â  The update also added an option to ignore departure time when using SimBrief, internal support for the Aerosoft TwinOtter and PMDG DC-6, new safedock types, exclusion patterns to prevent jetways not being recognized correctly on some third-party airports using jetway links as simobjects, and more. The complete changelog follows down below:  â Itâs available onÂ FSDreamTeamâs websiteÂ for $29.99, requiring at least 8 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lun767</id>
+    <title>Lunar Simulations Announces Freeware 767 for MSFS</title>
+    <updated>2023-01-25T00:00:00+00:00</updated>
+    <link href="/news/lun767" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d115cc7306cee1fcfa2819_767-1.png" rel="enclosure" type="image/png" length="2394108"/>
+    <summary>Sim: MSFS. Lunar Simulations hasÂ recently announcedÂ the development of a freeware Boeing 767 for Microsoft Flight Simulator, set to feature integration with the Salty Simulations mod for proper autopilot behavior, a fully custom primary flight display, an EFB, cockpit animations, and more.Â   According to the developer (on the announcement post), the development started in October 2021 (1 year and three months ago), with its current progress at a state where they can finally show some of it in the form of screenshots. The feature list includes realistic flight dynamics, a high-quality 3D cockpit and exterior, realistic systems and avionics, accurate performance data, high-resolution textures, and custom sounds and effects (marked as coming soon).Â   The Boeing 767 is a mid-size, wide-body twin-aisle airliner that first entered service in 1982, designed as a technology bridge between the narrow-body 757 and the wide-body 747/777, seating from 181 to 375 passengers and with a range of 3,850nm to 6,385nm depending on the variant. It has been a popular choice for years due to its fuel efficiency and operational flexibility, suiting domestic (North America) and long-haul operations. Over 1000 767s have been built in total as of 2021.  Thereâs no information regarding the release date yet, but Threshold will keep you updated! â</summary>
+    <published>2023-01-25T00:00:00+00:00</published>
   </entry>
 </feed>
