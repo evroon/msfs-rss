@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-25T18:22:39.961262+00:00</updated>
+  <updated>2023-01-26T18:23:36.470841+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbxbr</id>
-    <title>ORBX Release Landmarks Brisbane For XP12</title>
-    <updated>2023-01-15T00:00:00+00:00</updated>
-    <link href="/news/orbxbr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c3fd3e668c5b7c461a89a7_3.PNG" rel="enclosure" type="image/png" length="3271922"/>
-    <summary>Sim: X-Plane. ORBX, a leading developer of flight simulation software, has announced the release of "Landmarks Brisbane" for X-Plane 12. This highly detailed add-on package brings the Australian city of Brisbane to life in stunning realism, allowing virtual pilots to explore the city's landmarks and iconic locations in incredible detail. The package features highly detailed models of over 100 of Brisbane's most famous buildings and landmarks, including the Story Bridge, the Wheel of Brisbane, and the Queensland Cultural Centre. Additionally, the package includes high-resolution textures, custom-designed autogen, and accurate night lighting, all of which combine to create a truly immersive flying experience. According to ORBX, the package has been developed using the latest in 3D modelling and texturing techniques, ensuring that the city of Brisbane is depicted as accurately and realistically as possible. The package also includes a range of custom-designed Heliports. The package is now available for purchase on ORBX's website and is compatible with X-Plane 12. Virtual pilots can purchase the package for AUD$19.34 â</summary>
-    <published>2023-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xdlicc</id>
-    <title>Xometry Design Previews Catania-Fontanarossa Airport for X-Plane </title>
-    <updated>2023-01-15T00:00:00+00:00</updated>
-    <link href="/news/xdlicc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63c490b73071c99c6a843262_licc1.jpg" rel="enclosure" type="image/jpeg" length="278159"/>
-    <summary>Sim: X-Plane. Xometry Design has recently previewed their rendition of Catania-Fontanarossa Airport (LICC) for X-Plane 11 and 12, the busiest airport in Sicily and fourth in Italy as of 2020, with a yearly average of 10 million passengers.   Catania is a focus city for Ryanair and WizzAir, offering flights to many European destinations. It is also regularly visited by major carriers such as Air France, easyJet, KLM, Lufthansa, and Turkish, along with many other airlines on a seasonal basis.  Catania-Fontanarossa was the regionâs first airport, dating back to 1924. It was controlled by the allies during WW2 and used by the USAF as a military airfield, where it hosted the 340th Bombardment Group for a few months in 1943 and the 51st Troop Carrier Wing right after, until June 1944. Civil authorities took control not long after the end of the war. After the war, it underwent reconstruction and expansion, with commercial flights beginning to operate in the 1950s. In the following decades, the airport continued to grow in popularity and passenger traffic, becoming one of the busiest airports in Southern Italy. In recent years, there have been several modernization and expansion projects, including the construction of a new terminal, aimed at improving its facilities and capacity. The scenery will feature an accurate rendition of the airport as it currently stands, with high-quality custom buildings, high-resolution and color-corrected satellite imagery, high-resolution ground textures, SAM jetways, VDGS units, accurate ground markings, main terminal interior, custom ground clutter, and accurately placed dirt, wear, and tear. Itâs going to be compatible with X-Plane 11 and 12. Thereâs no information regarding the price or release date yet, but Threshold will keep you informed! â</summary>
-    <published>2023-01-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/blu757</id>
     <title>BlueBird Simulations Previews Interactive Checklist &amp; Lighting for Upcoming 757</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d115cc7306cee1fcfa2819_767-1.png" rel="enclosure" type="image/png" length="2394108"/>
     <summary>Sim: MSFS. Lunar Simulations hasÂ recently announcedÂ the development of a freeware Boeing 767 for Microsoft Flight Simulator, set to feature integration with the Salty Simulations mod for proper autopilot behavior, a fully custom primary flight display, an EFB, cockpit animations, and more.Â   According to the developer (on the announcement post), the development started in October 2021 (1 year and three months ago), with its current progress at a state where they can finally show some of it in the form of screenshots. The feature list includes realistic flight dynamics, a high-quality 3D cockpit and exterior, realistic systems and avionics, accurate performance data, high-resolution textures, and custom sounds and effects (marked as coming soon).Â   The Boeing 767 is a mid-size, wide-body twin-aisle airliner that first entered service in 1982, designed as a technology bridge between the narrow-body 757 and the wide-body 747/777, seating from 181 to 375 passengers and with a range of 3,850nm to 6,385nm depending on the variant. It has been a popular choice for years due to its fuel efficiency and operational flexibility, suiting domestic (North America) and long-haul operations. Over 1000 767s have been built in total as of 2021.  Thereâs no information regarding the release date yet, but Threshold will keep you updated! â</summary>
     <published>2023-01-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/v1sbar</id>
+    <title>V1 Studio Releases Barra do GarÃ§as Airport for MSFS</title>
+    <updated>2023-01-26T00:00:00+00:00</updated>
+    <link href="/news/v1sbar" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d240b0dd107ea7e6b5bac4_bar1.jpg" rel="enclosure" type="image/jpeg" length="201025"/>
+    <summary>Sim: MSFS. V1 Studio has recently released their rendition of Barra do GarÃ§as Airport (SBBW) for Microsoft Flight Simulator, serving the northeasternmost part of the state of Mato Grosso in Brazil.Â   Built in the 1960s, its purpose was to serve as a regional hub for the transportation of agricultural products and other goods. It was not until the 2000s that it underwent significant renovations and expansions, including the construction of a new terminal and a runway upgrade. Now an important regional airport, it is served by Azul Conecta with frequent flights to Cuiaba (Mato Grosso) and GoiÃ¢nia (GoiÃ¡s).Â   The scenery features an accurate rendition of the airport as it currently stands, with hand-made ground textures, accurately modeled and positioned dynamic lights, custom-made vegetation, high-detail models of the airport buildings, and a true-to-life landside recreation with custom decals, signposts, and more.  Itâs available onÂ SimMarketÂ and on the GearDown Simulations Store for roughly $8.16, requiring at least 788 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfltfc</id>
+    <title>Just Flight Releases FS Traffic for MSFS</title>
+    <updated>2023-01-26T00:00:00+00:00</updated>
+    <link href="/news/jfltfc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d2b6d64c1519733ee93783_traffic1.jpg" rel="enclosure" type="image/jpeg" length="1074765"/>
+    <summary>Sim: MSFS. Just Flight has recently released FS Traffic for Microsoft Flight Simulator, their brand-new AI traffic plugin that injects traffic based on real-world data with matching models, liveries, and accurate scheduling.Â   FS Traffic features a fleet of native aircraft models with performance in mind, sporting high-definition textures, night lighting, custom animations, custom visual effects, compatibility with airport jetways and ground units, realistic sounds by Turbine Sounds Studios, and compatibility with online networks such as VATSIM, along with tens of thousands of real-life commercial flight plans from different periods, with data sourced from the same supplier used by real-world websites and applications.Â   Data coverage includes the summer of 2022, with 2021 and 2019 to follow as free updates in the future. The time and the day of the week you choose within the simulator will dictate the density, as it is in real life.  Users can customize their flight plans withÂ Traffic Control Centre, a tool where you can create new flight plans, add liveries, and add new third-party aircraft (as AI). Traffic density can be controlled on the fly with the in-game menu, with the possibility to regenerate it or get rid of it altogether.Â   The developers claim there is no performance impact compared to the default offline traffic because models are said to be optimized, taking full advantage of the simâs visuals without tanking the framerate.Â   Itâs available onÂ Just Flightâs StoreÂ for $39.99, requiring at least 8.6 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-26T00:00:00+00:00</published>
   </entry>
 </feed>
