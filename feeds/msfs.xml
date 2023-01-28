@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-01-27T18:23:16.010875+00:00</updated>
+  <updated>2023-01-28T18:22:01.415024+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2022-11-11T23:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/january-5th-2023-development-update/</id>
-    <title>January 5th, 2023 Development Update</title>
-    <updated>2023-01-06T01:42:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/january-5th-2023-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/HeKa48-Forum-1-1024x429.jpg" rel="enclosure" type="image/jpeg" length="91886"/>
-    <summary>Happy new year and welcome to 2023!</summary>
-    <published>2023-01-06T01:42:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/carenado-sale/</id>
-    <title>Carenado Sale</title>
-    <updated>2023-01-06T18:27:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/carenado-sale/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/Carenado_Sale_Jan2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="75713"/>
-    <summary>8 Items On Sale Now in the Marketplace</summary>
-    <published>2023-01-06T18:27:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/january-12th-2023-development-update/</id>
     <title>January 12th, 2023 Development Update</title>
     <updated>2023-01-13T00:50:27+00:00</updated>
@@ -77,5 +59,23 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/ukaka5656-Twitter-2-1024x576.jpg" rel="enclosure" type="image/jpeg" length="98330"/>
     <summary>Beta testing of Aircraft &amp; Avionics Update 1 (AAU1) continues with the release of a new build (1.30.12.0) earlier this week.</summary>
     <published>2023-01-20T00:20:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-26th-2023-development-update/</id>
+    <title>January 26th, 2023 Development Update</title>
+    <updated>2023-01-27T00:20:53+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-26th-2023-development-update/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/2525ARW-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="11594"/>
+    <summary>Beta testing for Aircraft &amp; Avionics Update 1 (AAU1) is in its final stages, and the team is planning to wrap up public testing in preparation for a full release soon.</summary>
+    <published>2023-01-27T00:20:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/dreamflight-sale/</id>
+    <title>Dreamflight Sale</title>
+    <updated>2023-01-27T18:08:54+00:00</updated>
+    <link href="https://www.flightsimulator.com/dreamflight-sale/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/Dreamflight_Sale_Jan2023__v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="131976"/>
+    <summary>4 Items On Sale Now in the Marketplace</summary>
+    <published>2023-01-27T18:08:54+00:00</published>
   </entry>
 </feed>
