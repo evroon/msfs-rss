@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-01-29T18:21:49.757353+00:00</updated>
+  <updated>2023-01-30T18:23:59.304973+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsdtgs</id>
-    <title>FSDreamTeam Updates GSX Pro for MSFS</title>
-    <updated>2023-01-21T00:00:00+00:00</updated>
-    <link href="/news/fsdtgs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63cc77b9b0c560cfb0f3392e_gsxpro.jpg" rel="enclosure" type="image/jpeg" length="51362"/>
-    <summary>Sim: MSFS. FSDreamTeam has recently updated GSX Pro for Microsoft Flight Simulator, adding support for remote deicing, new menu colors, and several QoL improvements.  GSX Pro improves and expands the ground services with realistic pushback, catering, refueling, baggage loading, and marshaling, introducing unique features such as visible animated passengers, cargo loading, follow me cars, towbar pushback, de-icing, underground refueling, walk-in gates, VDGS docking systems, and more.Â   The newest update adds support for remote deicing, allowing the user to call for deicing on remote pads like in real life. FSDT claims itâs just the first step of the update, with the upcoming one featuring editing of custom deicing areas.Â   The deicing fluid simulation was also improved, with different colors per fluid type (one is yellow, two is clear, three is orange, and four is green) and varying saturation depending on concentration.Â   GSXâs in-game menu was modified, featuring a new color scheme that better matches the simâs default color palette, and new icons to help differentiate between runway starts and custom deicing areas.Â  The update also added an option to ignore departure time when using SimBrief, internal support for the Aerosoft TwinOtter and PMDG DC-6, new safedock types, exclusion patterns to prevent jetways not being recognized correctly on some third-party airports using jetway links as simobjects, and more. The complete changelog follows down below:  â Itâs available onÂ FSDreamTeamâs websiteÂ for $29.99, requiring at least 8 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-01-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lun767</id>
     <title>Lunar Simulations Announces Freeware 767 for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d679116132057bbc7d7aaf_poznan1.png" rel="enclosure" type="image/png" length="2370061"/>
     <summary>Sim: MSFS. Fly2High has recently released their rendition of PoznaÅâÅawica Henryk Wieniawski Airport (EPPO) for Microsoft Flight Simulator, the seventh busiest airport in Poland with a yearly average of 2 million passengers. Poznan Lawica Airport has a long and rich history dating back to the early 20th century. The first airfield in PoznaÅ was established in 1912 and was used primarily for military purposes. In the 1920s and 1930s, the airport underwent expansion and modernization to accommodate commercial flights. During World War II, the airport was damaged by bombing but rebuilt after the war. In the 1950s and 1960s, the airport underwent further development, with the construction of a new terminal building and the expansion of the runway. The airport continued to grow in the following decades, with increasing numbers of passengers and flights. In recent years, the airport has undergone a major renovation program, with the construction of a new terminal and the expansion of the runway to accommodate larger aircraft. Today, it's a modern and well-equipped airport that plays an important role in the region's transportation network. Itâs served by a variety of airlines, including Ryanair, Wizz Air, Lufthansa, and LOT Polish Airlines. Ryanair and Wizz Air are low-cost airlines that offer flights to destinations throughout Europe, while Lufthansa and LOT Polish Airlines are full-service airlines that offer flights to destinations in Europe, Asia, and North America. Other airlines that operate flights to and from the airport include Enter Air, Smartwings, Sun Express, and KLM.  The scenery features an accurate replica of the airport, with correct apron layout and markings, dynamic lighting, terminal interior, PBR materials, and sporting performance-friendly optimization. Itâs available on the iniBuilds Store for roughly $16.29, requiring at least 1.41 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simhua</id>
+    <title>SiamFlight Releases Hua Hin Airport for MSFS</title>
+    <updated>2023-01-30T00:00:00+00:00</updated>
+    <link href="/news/simhua" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63d7bcd7cc3fd232e9b019dd_vtph1.jpg" rel="enclosure" type="image/jpeg" length="1038685"/>
+    <summary>Sim: MSFS. SiamFlight has recently released their rendition of Hua Hin Airport (VTPH) for Microsoft Flight Simulator, serving the Hua Hin District in Prachuap Khiri Khan, Thailand.Â   Itâs the 32nd busiest airport in the country with a yearly average of 80 thousand passengers, served by Thai AirAsia with flights to Chiang Mai on Sundays, Wednesdays, and Fridays.Â   The airport is currently undergoing heavy upgrading, the process of which started in 2018 with the national Department of Airports spending over 3.5 billion baht to improve the airport over five years, with an enlargement of the current passenger terminal (and the construction of a second one), expansion of hangar space, and runway expansion (concluded in 2022). The number of passenger traffic is expected to increase tenfold once the work is finished.  The scenery features an accurate rendition of the airport as it currently stands, with the new extended and expanded runway and its characteristic slope, custom scenery objects (including the terminal, hangars, tower, and more), moderate terminal interior details, hand-placed taxi signage, custom night lighting, many Hua Hin landmark buildings (more to come in a later update), and hand-crafted ground markings and textures.  Itâs available onÂ SimMarketÂ for roughly $13.03, requiring at least 85 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-01-30T00:00:00+00:00</published>
   </entry>
 </feed>
