@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-01-31T18:23:49.579829+00:00</updated>
+  <updated>2023-02-02T18:24:20.716036+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/january-12th-2023-development-update/</id>
-    <title>January 12th, 2023 Development Update</title>
-    <updated>2023-01-13T00:50:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/january-12th-2023-development-update/" rel="alternate"/>
-    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/MihamaBlend-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="35533"/>
-    <summary>Work on Aircraft &amp; Avionics Update 1 (AAU1) continues to go well in advance of its expected release date later this month. We released a new beta build (1.30.11.0) to testers earlier this week.</summary>
-    <published>2023-01-13T00:50:27+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/simulacion-extrema-sale/</id>
@@ -77,5 +68,14 @@
     <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2023/01/Dreamflight_Sale_Jan2023__v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="131976"/>
     <summary>4 Items On Sale Now in the Marketplace</summary>
     <published>2023-01-27T18:08:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/aircraft-avionics-i-release-notes-1-30-12-0/</id>
+    <title>Aircraft &amp; Avionics I Release Notes [1.30.12.0]</title>
+    <updated>2023-01-31T16:10:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/aircraft-avionics-i-release-notes-1-30-12-0/" rel="alternate"/>
+    <link href="https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_007-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="47433"/>
+    <summary>Release Notes for Version 1.30.12.0 (Aircraft and Avionics I) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2023-01-31T16:10:19+00:00</published>
   </entry>
 </feed>
