@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-04T18:22:16.586439+00:00</updated>
+  <updated>2023-02-05T18:22:02.784916+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pm80tn</id>
-    <title>Project MAX Releases Big T Airport for MSFS</title>
-    <updated>2023-02-02T00:00:00+00:00</updated>
-    <link href="/news/pm80tn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dc162454fc2f66c0bb6d42_80tn-cover.png" rel="enclosure" type="image/png" length="3532750"/>
-    <summary>Sim: MSFS. Project MAX has recently released their rendition of Big T Airport (80TN) for Microsoft Flight Simulator, a private-owned airport near Lenoir City in Tennessee.  Big T Airport (80TN), not to be confused with the homonymous 64GA in Georgia, features a 518x30m turf runway and four hangars, storing four aircraft according to official FAA records. Itâs 4 miles northwest of Lenoir City and 24 nautical miles east of Knoxville, TN.  The scenery features a high-detail rendition of the airport as it stands, with PBR materials, 4K textures with 2K complementary textures, a sloped runway with bumps, modeled interiors for the hangars with one spawn point in one of them, and night lighting. Itâs available on SimMarket for roughly $5.45, requiring at least 220 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dwicrj</id>
     <title>DeltaWing Simulations Previews CRJ-1000 for X-Plane</title>
@@ -150,6 +141,15 @@
     <link href="/news/wilgaf" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63de9a55853037f1b60c34ef_Marketplace_Background_PNG_PNG_PNG_1800x1800.webp" rel="enclosure" type="image/webp" length="202350"/>
     <summary>Sim: MSFS. The Wilga is a Polish short-takeoff-and-landing (STOL) aircraft and originally it was manufactured by PZL Warszawa-OkÄcie but and later by European Aeronautic Defence and Space Company (EADS), who acquired the original manufacturer in 2001. Microsoft flight sim addon developers Got-Friends have released their own version of the Wilga series aircraft which is now available on the MSFS Marketplace or through the Got-Friends website for $35.00Â  The aircraft comes with both Polish and English variants, it includes a modern avionics package and even comes with a scenery package - Forwood Farm which was hand-crafted by Emerald Scenery design in Partnership with Got-Friends. Overall there are 4 variants of the aircraft included in the package, each comes with its own unique features.Â </summary>
+    <published>2023-02-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cow500</id>
+    <title>Cowan Simulation Updates 500E for MSFS</title>
+    <updated>2023-02-04T00:00:00+00:00</updated>
+    <link href="/news/cow500" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dee87a3f35cc403e1816e9_co1-min.jpg" rel="enclosure" type="image/jpeg" length="609798"/>
+    <summary>Sim: MSFS. Cowan Simulation has recently issued the very first update to their rendition of the MD 500E, fixing issues with the flight model, adjusting the 3D model, and more.  The MD Helicopters MD 500E is part of a family of light utility civilian and military helicopters, introduced in 1967 with the Hughes 500 (which was a civilian version of the OH-6A Cayuse/Loach), and developed over time into what it is now after Hughes was acquired in the 1980s by McDonnell Douglas Helicopters.Â   The 500E variant is an executive version of the 500D with a recontoured nose, certified in 1982. Itâs powered by a Rolls-Royce Model 250-C20B turboshaft engine rated at 420 hp, with a maximum cruise speed of 135 knots and a range of 235 nautical miles at sea level, according to a 2022 chart.  The update brings many improvements to the flight model based on customer feedback. The developer mentions it still flies with a slight low left skid, and they plan to work more with the flight model in the future. The trim ball was also improved, yet they say it's not quite optimized for helicopters when using the correct code. Adjustments were made to the air intake tube in the nose, along with other small details in the 3d model. The remainder of the changelog follows down below:  The red emergency fuel cutoff valve code was fixed. There was a bug with wrong values. Now that should work properly. Pushed in is open and pulled out is closed. The ignition key needs to be on to run the starter now. Hopefully this does not trip anyone up.Â  The two cabin light switches and the lighting attached was changed. Now one is red and one is white and they are not so bright so you can use them at night. All the other lighting was gone through and optimized. Added some ambient light from the green panel lights. Fixed the skid nav lights with flex. Added some occluders to the skids and new bear paws so the grass lays/smashes down when off pavement. The two buttons above the cabin light toggles are now tied to rotor wash and engine heat blur effects. Pushing them will disable either respectively. 15 new liveries were added to the package to make a total of 63 available. Thank you Chrigel Linder for your contribution to this project. â â The 500E is available onÂ Cowan Simâs StoreÂ andÂ SimMarketÂ for $32.99 and roughly $33.33, respectively. At least 2.30 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-04T00:00:00+00:00</published>
   </entry>
 </feed>
