@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-05T18:22:02.784916+00:00</updated>
+  <updated>2023-02-06T18:24:09.704036+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dwicrj</id>
-    <title>DeltaWing Simulations Previews CRJ-1000 for X-Plane</title>
-    <updated>2023-02-02T00:00:00+00:00</updated>
-    <link href="/news/dwicrj" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dc1741a83da43cbc9c2a32_crj1000.jpg" rel="enclosure" type="image/jpeg" length="29110"/>
-    <summary>Sim: X-Plane. The team over at DeltaWing Simulations has previewed their next project. Following their CRJ-700 and -900 aircraft, the team has decided to press on with the CRJ-1000.Â  â â The Mitsubishi CRJ-1000 is the largest variant of the Mitsubishi Canadair Regional Jet Family with a capacity of 104 passengers and a range of 1,650NM. The CRJ-1000 first flew in 2009 and followed limited success with European operators with only 63 examples being built.Â  An official feature list has not been made available yet. However, users can expect similar features to the earlier products which include: â â The DeltaWing Simulations CRJ-1000 plans to be built upon their earlier 700/900 releases. No official release date has been set yet as work still continues on X-Plane 12 integration for the CRJ-700/900 products. For more updates on this work-in-progress aircraft, head over to the DeltaWing Simulations forum.Â Â Â Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inimaa</id>
-    <title>iniBuilds Releases Maasai Mara Safari Pack for MSFS</title>
-    <updated>2023-02-03T00:00:00+00:00</updated>
-    <link href="/news/inimaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dd0388ebea9e7a7b724668_maracover-min.png" rel="enclosure" type="image/png" length="1730601"/>
-    <summary>Sim: MSFS. iniBuilds has recently released the Maasai Mara Safari Pack for Microsoft Flight Simulator, featuring four airstrips, nine safari camps, multiple POIs, fauna, and more!  Maasai Mara is a large national reserve in Narok, Kenya, bordering the Serengeti National Park in Tanzania. Itâs one of the most famous and important wildlife conservation areas in Africa. Itâs also where one of the Seven Natural Wonders of Africa takes place: the Great Migration, part of USA TodayâsÂ New Seven Wonders.Â   Its original coverage upon establishment encompassed 520 square kilometers of land, later extended to 1,821 square kilometers and converted into a game reserve. In 1974, part of it was returned to local communities, which happened again in 1976. The total area has been the same since 1984, with 1,510 square kilometers of land.Â   The aforementioned local community, the Maasai people, is mostly pastoralist, relying on their land to sustain their cattle and themselves. Back in the day, before the conception of the reserve, they were often forced to move off their own land.  iniSceneâs pack brings the Maasai Mara experience into the simulator, with four enhanced airfields that include spawnable helipads (HKOA - Mara Serena, HKKH - Kichwa Tembo, HKLP - Angama Mara, and HK48 - Musiara), nine safari camps, hand-placed fauna across a wide area (including elephants, giraffes, and flamingos), and custom 3D objects including tents, campsites, clutter, and people.  Itâs available for free on the iniBuilds Store, requiring at least 0.98 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/flnieu</id>
-    <title>Flysimware Releases Nieuport 24 for MSFS</title>
-    <updated>2023-02-03T00:00:00+00:00</updated>
-    <link href="/news/flnieu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dd0a1f6dee4172423e5aa1_nieu1.jpg" rel="enclosure" type="image/jpeg" length="1715932"/>
-    <summary>Sim: MSFS. Flysimware has recently released their rendition of the Nieuport 24 for Microsoft Flight Simulator, a WW1 biplane from France. First flown in 1917, the Nieuport 24 is a development of the successful Nieuport 17, made to be small and lightweight, which granted it some nimbleness compared to most of the adversaries, that is, up until the arrival of the SPAD VII and Albatros D.III, which were larger, heavier, but also faster and with a new tactical approach which consisted on even bigger combat formations. Despite it all, they were 310 out of 754 aircraft in the French army as of November 1917.  The developers state itâs a ported product, meaning it was previously released for either FSX or P3D, but remastered with model and texture improvements, and new flight dynamics. Features like an interactive checklist, icing effects, and saved state will be absent to allow faster porting. In return, they claim to charge a lower fee, which is said to correspond to a fraction of the original price.  The aircraft add-on features an accurate model of the Nieuport 24 with 4K PBR textures, realistic flight dynamics, realistic Wwise sounds, custom-coded gauges and animations, a high-quality animated pilot, and parking mode with chocks and removable engine nacelle, along with six unique liveries. Itâs available on SimMarket for roughly $14.97, requiring at least 429 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nzacst</id>
     <title>NZA Simulations Previews Christchurch International Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dee87a3f35cc403e1816e9_co1-min.jpg" rel="enclosure" type="image/jpeg" length="609798"/>
     <summary>Sim: MSFS. Cowan Simulation has recently issued the very first update to their rendition of the MD 500E, fixing issues with the flight model, adjusting the 3D model, and more.  The MD Helicopters MD 500E is part of a family of light utility civilian and military helicopters, introduced in 1967 with the Hughes 500 (which was a civilian version of the OH-6A Cayuse/Loach), and developed over time into what it is now after Hughes was acquired in the 1980s by McDonnell Douglas Helicopters.Â   The 500E variant is an executive version of the 500D with a recontoured nose, certified in 1982. Itâs powered by a Rolls-Royce Model 250-C20B turboshaft engine rated at 420 hp, with a maximum cruise speed of 135 knots and a range of 235 nautical miles at sea level, according to a 2022 chart.  The update brings many improvements to the flight model based on customer feedback. The developer mentions it still flies with a slight low left skid, and they plan to work more with the flight model in the future. The trim ball was also improved, yet they say it's not quite optimized for helicopters when using the correct code. Adjustments were made to the air intake tube in the nose, along with other small details in the 3d model. The remainder of the changelog follows down below:  The red emergency fuel cutoff valve code was fixed. There was a bug with wrong values. Now that should work properly. Pushed in is open and pulled out is closed. The ignition key needs to be on to run the starter now. Hopefully this does not trip anyone up.Â  The two cabin light switches and the lighting attached was changed. Now one is red and one is white and they are not so bright so you can use them at night. All the other lighting was gone through and optimized. Added some ambient light from the green panel lights. Fixed the skid nav lights with flex. Added some occluders to the skids and new bear paws so the grass lays/smashes down when off pavement. The two buttons above the cabin light toggles are now tied to rotor wash and engine heat blur effects. Pushing them will disable either respectively. 15 new liveries were added to the package to make a total of 63 available. Thank you Chrigel Linder for your contribution to this project. â â The 500E is available onÂ Cowan Simâs StoreÂ andÂ SimMarketÂ for $32.99 and roughly $33.33, respectively. At least 2.30 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simpps</id>
+    <title>Simport Team Releases Porto Santo Airport for MSFS</title>
+    <updated>2023-02-05T00:00:00+00:00</updated>
+    <link href="/news/simpps" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e0126fba8407e1029446fb_sim1.png" rel="enclosure" type="image/png" length="3285822"/>
+    <summary>Sim: MSFS. Simport Team has recently released their rendition of Porto Santo Airport (LPPS) for Microsoft Flight Simulator, the oldest and first airport in the Madeira Islands, inaugurated in 1959. Â  With a yearly average of 180,000 passengers, most of the scheduled flights operate on a seasonal basis, with offerings from AlbaStar, Binter Canarias, easyJet, Eurowings Discover, TAP Air Portugal, and TUI Airways. Porto Santo has a single 3,000-meter-long runway, long enough for most airliners, and a modern terminal completed in 1995. The airport is shared with the Portuguese Air Force, with permanent detachments of Squadrons 502 and 751, whose main focus is search and rescue operations.  The scenery features an accurate rendition of the airport as it stands, with 8K baked textures, custom 3d models, custom lights, accurate terrain elevation and runway profiles, realistic night lighting, custom ground textures, detailed markings, and custom satellite imagery. Itâs available on SimMarket for roughly $13.67, requiring at least 205 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2023-02-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/spiint</id>
+    <title>Spinoza Releases Interlaken Airport for MSFS</title>
+    <updated>2023-02-05T00:00:00+00:00</updated>
+    <link href="/news/spiint" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e022ca7571b7a5b060084b_inter1.jpg" rel="enclosure" type="image/jpeg" length="1866816"/>
+    <summary>Sim: MSFS. Spinoza has recently released their rendition of Interlaken Airport (LSMI) for Microsoft Flight Simulator, a former military airbase dating back to WW2.  Built by the Swiss Army Military in 1940, it originally had two runways, with the first one made of concrete and 600m of total length, made operational in 1942. The second one, 900 meters long, was completed a year later. After the war, it was converted into a Jet Maintenance Base for the De Havilland Vampire, with an eventual runway expansion to accommodate the fighter (the original runway was extended to 920 meters), along with the construction of a control tower. Further lengthening happened in the following decades, where it ended up at 1656 meters.  Commercial service took place for the first time in 1964, with Globe-Air flying from Interlaken to London thrice a week until 1967.  The base was closed in 2003, now hosting REGA 10, a Swiss Air-Rescue service responsible for more than 1100 mountain rescue operations annually.  The scenery features an accurate rendition of the former airport as it stands, with the military hangars, a 3D model of the Jungfrau Park, and the REGA 10 - Wilderswil base.  Itâs available on SimMarket for roughly $14.11, requiring at least 223 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/avmsfs</id>
+    <title>Just Flight Announces Avro Vulcan as Next MSFS Project</title>
+    <updated>2023-02-06T00:00:00+00:00</updated>
+    <link href="/news/avmsfs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e0a35e2c0da73570befac2_328984399_653392803205798_2471093560067383555_n.jpg" rel="enclosure" type="image/jpeg" length="346707"/>
+    <summary>Sim: MSFS. Earlier this week, developer Just Flight has announced its latest project for MSFS - the Avro Vulcan. The team is working hard to bring this iconic British bomber to the community, utilizing the latest technologies the simulator has to offer. Just Flight has previously released a version of the bomber for X-Plane, P3D, and FSX, and is currently working to improve the plane and âbring it up to the very latest MSFS standardsâ. At this stage, however, it is unclear how much of the plane will be inherited from these older versions and how much of it will be built from the ground up. Alongside the announcement, a few preview photos of the plane have also been released to showcase its detailed modeling and texturing. According to the developers, the Vulcanâs basic flight model and systems are already complete and the plane is just entering an early testing phase. Though the team is quite optimistic about the bomberâs development, they stressed that their main focus is currently directed at other projects such as the F28 and RJ series. Currently, there is little information on the release date or pricing of the product. However, the developers did hint that the aircraft will also come to Xbox, provided that Microsoft fixes âthe current WASM issuesâ. Threshold will keep you updated on the progress of the Vulcan. â</summary>
+    <published>2023-02-06T00:00:00+00:00</published>
   </entry>
 </feed>
