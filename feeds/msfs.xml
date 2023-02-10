@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-02-09T18:25:32.720205+00:00</updated>
+  <updated>2023-02-10T18:25:30.002033+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2022-11-11T23:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/january-26th-2023-development-update/</id>
-    <title>January 26th, 2023 Development Update</title>
-    <updated>2023-01-27T00:20:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/january-26th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/01/2525ARW-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="11594"/>
-    <summary>Beta testing for Aircraft &amp; Avionics Update 1 (AAU1) is in its final stages, and the team is planning to wrap up public testing in preparation for a full release soon.</summary>
-    <published>2023-01-27T00:20:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/dreamflight-sale/</id>
-    <title>Dreamflight Sale</title>
-    <updated>2023-01-27T18:08:54+00:00</updated>
-    <link href="https://www.flightsimulator.com/dreamflight-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/01/Dreamflight_Sale_Jan2023__v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="131976"/>
-    <summary>4 Items On Sale Now in the Marketplace</summary>
-    <published>2023-01-27T18:08:54+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/aircraft-avionics-i-release-notes-1-30-12-0/</id>
     <title>Aircraft &amp; Avionics I Release Notes [1.30.12.0]</title>
     <updated>2023-01-31T16:10:19+00:00</updated>
@@ -77,5 +59,23 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/GearDown_Sale_Feb2023_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="141071"/>
     <summary>16 Items On Sale Now in the Marketplace</summary>
     <published>2023-02-03T17:59:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-9th-2023-development-update/</id>
+    <title>February 9th, 2023 Development Update</title>
+    <updated>2023-02-10T00:50:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-9th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/CpuGeta486-Twitter-1024x622.jpg" rel="enclosure" type="image/jpeg" length="111321"/>
+    <summary>Hot off last week’s release of Aircraft &amp; Avionics 1, the team is currently preparing for the next two major additions to Microsoft Flight Simulator: World Update 12: New Zealand and Sim Update 12.</summary>
+    <published>2023-02-10T00:50:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/big-radials-sale/</id>
+    <title>Big Radials Sale</title>
+    <updated>2023-02-10T18:01:33+00:00</updated>
+    <link href="https://www.flightsimulator.com/big-radials-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/BigRadialsSale_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="51138"/>
+    <summary>3 Items On Sale Now in the Marketplace</summary>
+    <published>2023-02-10T18:01:33+00:00</published>
   </entry>
 </feed>
