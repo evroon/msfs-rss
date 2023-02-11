@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-10T18:25:31.258799+00:00</updated>
+  <updated>2023-02-11T18:22:51.046644+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffwv27</id>
-    <title>FlightFactor Updates 757 v2 for X-Plane 12</title>
-    <updated>2023-02-03T00:00:00+00:00</updated>
-    <link href="/news/ffwv27" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dd9733dbfc9cf71dbe57f6_blu1.png" rel="enclosure" type="image/png" length="1076162"/>
-    <summary>Sim: X-Plane. FlightFactor has recently issued an update to their Boeing 757 v2 Professional for X-Plane 11 and 12, with a range of XP12-related fixes going from livery improvements to tire friction coefficient alterations.Â   The 757 Professional v2 brings the Boeing 757 experience to the X-Plane world, featuring an accurate flight model, dynamic center of gravity, VR compatibility, a fully functional FMS and EFIS system, interactive checklists, custom systems and failure model, special effects, 3D sounds, and seven default liveries.  The update brings the 757 up to version 2.6.7 and includes an assortment of fixes: the FF house livery has been fully fixed, the gears are no longer floating or underground on the 757-RF, the landing altitude display brightness was addressed, and the X-Plane 12 rain was removed from the cabin windows, improving performance on some systems, along with a reduction on the tire friction coefficient for some models. The complete changelog follows down below:  The add-on is available on theÂ X-Plane.Org StoreÂ for $79.00, requiring at least 4 GB of free disk space, and is compatible with both X-Plane 11 and 12. Images are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ffw767</id>
-    <title>FlightFactor Updates 767 Professional for X-Plane 12</title>
-    <updated>2023-02-03T00:00:00+00:00</updated>
-    <link href="/news/ffw767" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dd9c19c5fb2a718e74cc8c_azul1.png" rel="enclosure" type="image/png" length="1125774"/>
-    <summary>Sim: X-Plane. FlightFactor has recently issued an update to their 767-300 ER Professional for X-Plane 11 and 12, with a couple of XP12-related fixes concerning performance, the tire friction coefficient, and more.  The 767-300 ER Professional brings the 767 experience to the X-Plane world, featuring an accurate flight model tested by real-world pilots, a pop-out EFB with checklists, options, menus, PA announcements, and more, VR support, in-flight Navigraph charts, an electronic interactive checklist with an automatic helper, a fully functional FMS and EFIS system, custom systems and failure model, accurate 3D models with real dimensions based on external drawings provided by Boeing, high-resolution textures, spatial rain simulation, detailed passenger cabin, wingflex, and more.Â   The update brings the aircraft to version 1.6.7, bringing a similar changelog as of the latest 757 update, with tweaks on the landing alt display brightness, removal of the X-Plane 12 rain from the cabin windows (which increases performance), and a slight reduction on the tire friction coefficient. The complete changelog follows down below:   The add-on is available on theÂ X-Plane.Org StoreÂ for $79.00, requiring at least 4 GB of disk space to install, and is compatible with both X-Plane 11 and 12. Images are courtesy of AllNaturalBlue. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ukrora</id>
-    <title>UK2000 Scenery Releases Aurora Airport for MSFS</title>
-    <updated>2023-02-04T00:00:00+00:00</updated>
-    <link href="/news/ukrora" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dda1a62a273947874b8bc6_auro1.jpg" rel="enclosure" type="image/jpeg" length="222047"/>
-    <summary>Sim: MSFS. UK2000 Scenery has recently released their rendition of Chicago Aurora Municipal Airport (KARR) for Microsoft Flight Simulator, a public airport serving the city of Aurora, in Illinois. Itâs sometimes used as a reliever airport for OâHare and Midway, due to its proximity to Chicago (80 kilometers west).Â   It houses the Air Classics Museum of Aviation, which includes a collection of aircraft, vehicles, uniforms, and other aviation memorabilia from the 30s to the current day. The aircraft collection includes a Republic P-47D Thunderbolt replica, a Bayerische Flugwerke Messerschmitt BF-109 replica, a North American Aviation RF-86F Sabre, a McDonnell Douglas TA-4J Skyhawk, a Republic Aviation F-105D Thunderchief, a North American T-39 Sabreliner, a McDonnell Douglas F-4B Phantom II, a Ling-Temco-Vought A-7E Corsair II, a Bell UH-1H Iroquois, a Curtiss P-40 WarHawk replica, and a North American Aviation P-51D Mustang Replica.  As a curious fact, the Aurora Municipal Airport is one of the few airports in the United States where the FAA and IATA identifiers are not the same, because ARR was taken on the IATA by an airport in Argentina. Thus, it uses AUZ as its IATA code.Â   The traffic figures sit at 76,650 aircraft operations between April 2021 and April 2022, averaging 210 per day, with 98% corresponding to general aviation, 2% to air taxi, and 1% to military and commercial, respectively.Â   The scenery features an accurate rendition of the airport as it stands, with full-detail buildings, realistic ground markings, high-resolution ground imagery, custom night lighting, high-detail airport vehicles, full set of signs, fencing, vegetation, PBR materials, interior details and parallax internals, and optional static aircraft.  Itâs available onÂ UK2000âs StoreÂ andÂ SimMarketÂ for roughly $15.65 and $14.15, respectively. At least 24 MB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wilgaf</id>
     <title>Got-Friends Release Wilga Series For MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e5d069b5aaa7c5c9fe1e6c_piu1.png" rel="enclosure" type="image/png" length="1889256"/>
     <summary>Sim: MSFS. XSimulations has recently released their rendition of PAF Captain Guillermo Concha Iberico International (SPUR) for Microsoft Flight Simulator, serving the city of Piura in Peru.   It has a rich and dynamic history dating back several decades. The airport was built in the 1950s as a small regional airfield, serving primarily as a hub for domestic flights. In the following decades, as the region experienced significant economic growth, the airport underwent many renovations and upgrades to accommodate the increasing demand for air travel, including the addition of modern terminals, runways, and air traffic control systems, as well as the expansion of the airport's passenger and cargo facilities. Today, the airport is a gateway to the northwestern region of Peru, connecting travelers to major destinations both within the country and abroad. With its modern facilities and growing passenger traffic, the airport continues to play a critical role in regional economic development, poised for continued growth. Itâs served by JetSmart PerÃº, LATAM PerÃº, and Sky Airline Peru, with legs to Lima and Arequipa (JetSmart only), with a yearly average of 860,000 passengers in total. The scenery features an accurate rendition of the airport as it stands, with PBR texturing, a modeled terminal interior, and military static aircraft. Itâs available on SimMarket for roughly $8.61, requiring at least 1.67 GB of free disk space.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbucs</id>
+    <title>Orbx Releases Helipads LA Medical for MSFS</title>
+    <updated>2023-02-10T00:00:00+00:00</updated>
+    <link href="/news/orbucs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e69a0edb4612a72eed8e2b_ucs1.png" rel="enclosure" type="image/png" length="2444221"/>
+    <summary>Sim: MSFS. Orbx has recently released another addition to their Helipads LA lineup: nineteen medical helipads all over downtown Los Angeles and its surrounding areas, with meticulously created models and five liveries for the Bell 407 helicopter (part of base Microsoft Flight Simulator).  The complete list of helipads and their respective description follows down below: â   The pack is available onÂ OrbxDirectÂ for roughly $9.93, requiring at least 1.99 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcrfte</id>
+    <title>X-Crafts Make E175 &amp; E195 Freeware</title>
+    <updated>2023-02-11T00:00:00+00:00</updated>
+    <link href="/news/xcrfte" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e7aa1d441a2dadeb736b71_EMBRAER-E-JETS-E175-E195-X-PLANE-FREE-DOWNLOAD-main.jpg.fc7f1fec6d09d76829c5048f2ddbc0da.jpg" rel="enclosure" type="image/jpeg" length="150160"/>
+    <summary>Sim: X-Plane. X-Crafts first released their E175 and E195 to the X-plane market many years ago now and they have long been a popular product among virtual pilots. The development team have taken to the X-Plane.org Forums to announce that their original E range (175 &amp; 195) would now be free, for everyone to enjoy!Â  X-Crafts have said:Â  â You can download the aircraft on the XâPlane.org Forums now!Â  â</summary>
+    <published>2023-02-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff7772</id>
+    <title>FlightFactor tease 777 v2 Engines</title>
+    <updated>2023-02-11T00:00:00+00:00</updated>
+    <link href="/news/ff7772" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6210dcef7048187164424ef4_FLWXwyUXsAUWBtr.jpg" rel="enclosure" type="image/jpeg" length="85056"/>
+    <summary>Sim: X-Plane. FlightFactor tease 777 v2 enginesÂ  The much anticipated 777 V2 from FlightFactor have recently been increasing their output of teaser content for their upcoming aircraft! In a recent post, FlightFactor has taken to Twitter to tease the different engine sounds of the incredible GE90 engines both during spool up on the ground and in the air!Â  A brief background on the GE90:Â  The GE90 is a high bypass turbofan engine that has been designed and developed by GE Aviation primarily for the 777 aircraft family. It outputs thrust ratings anywhere from 81,000 to 115,000 lbf which is absolutely incredible. The GE90 first entered service with British Airways mounted on the 777 in November of 1995. The FlightFactor 777 V2 sure looks as though it's going to be one of the most accurate representations of both the 777 and GE90 for any flight sim to date.Â </summary>
+    <published>2023-02-11T00:00:00+00:00</published>
   </entry>
 </feed>
