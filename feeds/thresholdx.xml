@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-11T18:22:51.046644+00:00</updated>
+  <updated>2023-02-12T18:23:05.068393+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/wilgaf</id>
-    <title>Got-Friends Release Wilga Series For MSFS</title>
-    <updated>2023-02-04T00:00:00+00:00</updated>
-    <link href="/news/wilgaf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63de9a55853037f1b60c34ef_Marketplace_Background_PNG_PNG_PNG_1800x1800.webp" rel="enclosure" type="image/webp" length="202350"/>
-    <summary>Sim: MSFS. The Wilga is a Polish short-takeoff-and-landing (STOL) aircraft and originally it was manufactured by PZL Warszawa-OkÄcie but and later by European Aeronautic Defence and Space Company (EADS), who acquired the original manufacturer in 2001. Microsoft flight sim addon developers Got-Friends have released their own version of the Wilga series aircraft which is now available on the MSFS Marketplace or through the Got-Friends website for $35.00Â  The aircraft comes with both Polish and English variants, it includes a modern avionics package and even comes with a scenery package - Forwood Farm which was hand-crafted by Emerald Scenery design in Partnership with Got-Friends. Overall there are 4 variants of the aircraft included in the package, each comes with its own unique features.Â </summary>
-    <published>2023-02-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cow500</id>
-    <title>Cowan Simulation Updates 500E for MSFS</title>
-    <updated>2023-02-04T00:00:00+00:00</updated>
-    <link href="/news/cow500" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dee87a3f35cc403e1816e9_co1-min.jpg" rel="enclosure" type="image/jpeg" length="609798"/>
-    <summary>Sim: MSFS. Cowan Simulation has recently issued the very first update to their rendition of the MD 500E, fixing issues with the flight model, adjusting the 3D model, and more.  The MD Helicopters MD 500E is part of a family of light utility civilian and military helicopters, introduced in 1967 with the Hughes 500 (which was a civilian version of the OH-6A Cayuse/Loach), and developed over time into what it is now after Hughes was acquired in the 1980s by McDonnell Douglas Helicopters.Â   The 500E variant is an executive version of the 500D with a recontoured nose, certified in 1982. Itâs powered by a Rolls-Royce Model 250-C20B turboshaft engine rated at 420 hp, with a maximum cruise speed of 135 knots and a range of 235 nautical miles at sea level, according to a 2022 chart.  The update brings many improvements to the flight model based on customer feedback. The developer mentions it still flies with a slight low left skid, and they plan to work more with the flight model in the future. The trim ball was also improved, yet they say it's not quite optimized for helicopters when using the correct code. Adjustments were made to the air intake tube in the nose, along with other small details in the 3d model. The remainder of the changelog follows down below:  The red emergency fuel cutoff valve code was fixed. There was a bug with wrong values. Now that should work properly. Pushed in is open and pulled out is closed. The ignition key needs to be on to run the starter now. Hopefully this does not trip anyone up.Â  The two cabin light switches and the lighting attached was changed. Now one is red and one is white and they are not so bright so you can use them at night. All the other lighting was gone through and optimized. Added some ambient light from the green panel lights. Fixed the skid nav lights with flex. Added some occluders to the skids and new bear paws so the grass lays/smashes down when off pavement. The two buttons above the cabin light toggles are now tied to rotor wash and engine heat blur effects. Pushing them will disable either respectively. 15 new liveries were added to the package to make a total of 63 available. Thank you Chrigel Linder for your contribution to this project. â â The 500E is available onÂ Cowan Simâs StoreÂ andÂ SimMarketÂ for $32.99 and roughly $33.33, respectively. At least 2.30 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/simpps</id>
     <title>Simport Team Releases Porto Santo Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6210dcef7048187164424ef4_FLWXwyUXsAUWBtr.jpg" rel="enclosure" type="image/jpeg" length="85056"/>
     <summary>Sim: X-Plane. FlightFactor tease 777 v2 enginesÂ  The much anticipated 777 V2 from FlightFactor have recently been increasing their output of teaser content for their upcoming aircraft! In a recent post, FlightFactor has taken to Twitter to tease the different engine sounds of the incredible GE90 engines both during spool up on the ground and in the air!Â  A brief background on the GE90:Â  The GE90 is a high bypass turbofan engine that has been designed and developed by GE Aviation primarily for the 777 aircraft family. It outputs thrust ratings anywhere from 81,000 to 115,000 lbf which is absolutely incredible. The GE90 first entered service with British Airways mounted on the 777 in November of 1995. The FlightFactor 777 V2 sure looks as though it's going to be one of the most accurate representations of both the 777 and GE90 for any flight sim to date.Â </summary>
     <published>2023-02-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gfr500</id>
+    <title>Got Friends Releases Mini-500 for MSFS</title>
+    <updated>2023-02-12T00:00:00+00:00</updated>
+    <link href="/news/gfr500" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e8412b195579e079584ddc_got1.png" rel="enclosure" type="image/png" length="1932425"/>
+    <summary>Sim: MSFS. Got Friends has recently released their rendition of the Revolution Mini-500 for Microsoft Flight Simulator, a single-seat light helicopter from the 90s sold as a kit for homebuilding by Revolution Helicopter Corporation.Â   Designed to resemble a mini Hughes 500, the Mini-500 is powered by a Rotax 582 engine that produces around 64 horsepower, with a range of 225 miles and a maximum speed of 115 mph. The fuselage is made of tubular steel with a cabin made of foam and structured with glass fiber.Â   It first flew in 1992, with its official introduction in 1994, and a total of 500 kits sold until production ceased about six years later. The kits were sold for around $24,500, including the engine, the fiberglass enclosure, instruments (the basic pack), the electric starter, landing lights, and navigation lights. As most of the parts came pre-assembled at the factory, the total build time was around 40 hours.Â   The MSFS counterpart features custom MGL avionics, multiple visual effects (including downwash, combustion, heat, rain, and icing), a native flight model using the Helicopter SDK, interchangeable avionics (GTR-220 radio or GNS-530), and many custom liveries.  Itâs available on theÂ Got Friends ShopÂ for $15.00.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbche</id>
+    <title>Orbx Releases Chester Airport for MSFS</title>
+    <updated>2023-02-12T00:00:00+00:00</updated>
+    <link href="/news/orbche" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e89333228647d8209b4b65_che1.png" rel="enclosure" type="image/png" length="1660895"/>
+    <summary>Sim: X-Plane. Orbx has recently released their rendition of Chester Airport (KSNC) for Microsoft Flight Simulator, a public-use airport serving the city of Chester, Connecticut.Â Â   Categorized by the FAA as a general aviation airport, KSNC is privately owned by Whelen Aviation and features a single runway layout with 782 meters of length. 80% of its yearly traffic (2000 data) comprises general aviation aircraft and 20% of air taxi operations, with a total of 20,800 aircraft movements.Â   As a curious fact, Chester does not have an IATA identifier as âSNCâ conflicts with General Ulpiano Paez Airport in Ecuador. Â   Developed by Matteo Veneziani, an indie, the scenery features an accurate rendition of the airport as it stands, including custom groundpoly with sloped runways and taxiways, conditional display of objects depending on weather and time of the day, and 4K textures with PBR.  Itâs available onÂ OrbxDirectÂ for roughly $9.68, requiring at least 2.36 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-12T00:00:00+00:00</published>
   </entry>
 </feed>
