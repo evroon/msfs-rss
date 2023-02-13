@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-12T18:23:05.068393+00:00</updated>
+  <updated>2023-02-13T18:25:35.740045+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simpps</id>
-    <title>Simport Team Releases Porto Santo Airport for MSFS</title>
-    <updated>2023-02-05T00:00:00+00:00</updated>
-    <link href="/news/simpps" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e0126fba8407e1029446fb_sim1.png" rel="enclosure" type="image/png" length="3285822"/>
-    <summary>Sim: MSFS. Simport Team has recently released their rendition of Porto Santo Airport (LPPS) for Microsoft Flight Simulator, the oldest and first airport in the Madeira Islands, inaugurated in 1959. Â  With a yearly average of 180,000 passengers, most of the scheduled flights operate on a seasonal basis, with offerings from AlbaStar, Binter Canarias, easyJet, Eurowings Discover, TAP Air Portugal, and TUI Airways. Porto Santo has a single 3,000-meter-long runway, long enough for most airliners, and a modern terminal completed in 1995. The airport is shared with the Portuguese Air Force, with permanent detachments of Squadrons 502 and 751, whose main focus is search and rescue operations.  The scenery features an accurate rendition of the airport as it stands, with 8K baked textures, custom 3d models, custom lights, accurate terrain elevation and runway profiles, realistic night lighting, custom ground textures, detailed markings, and custom satellite imagery. Itâs available on SimMarket for roughly $13.67, requiring at least 205 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-02-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/spiint</id>
     <title>Spinoza Releases Interlaken Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e89333228647d8209b4b65_che1.png" rel="enclosure" type="image/png" length="1660895"/>
     <summary>Sim: X-Plane. Orbx has recently released their rendition of Chester Airport (KSNC) for Microsoft Flight Simulator, a public-use airport serving the city of Chester, Connecticut.Â Â   Categorized by the FAA as a general aviation airport, KSNC is privately owned by Whelen Aviation and features a single runway layout with 782 meters of length. 80% of its yearly traffic (2000 data) comprises general aviation aircraft and 20% of air taxi operations, with a total of 20,800 aircraft movements.Â   As a curious fact, Chester does not have an IATA identifier as âSNCâ conflicts with General Ulpiano Paez Airport in Ecuador. Â   Developed by Matteo Veneziani, an indie, the scenery features an accurate rendition of the airport as it stands, including custom groundpoly with sloped runways and taxiways, conditional display of objects depending on weather and time of the day, and 4K textures with PBR.  Itâs available onÂ OrbxDirectÂ for roughly $9.68, requiring at least 2.36 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/t2gpap</id>
+    <title>Taxi2gate Releases Pointe-Ã -Pitre International Airport for MSFS</title>
+    <updated>2023-02-13T00:00:00+00:00</updated>
+    <link href="/news/t2gpap" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ea7bfdff8696e1b1aaf6bf_t2g1-min%20(1).png" rel="enclosure" type="image/png" length="3902723"/>
+    <summary>Sim: MSFS. Taxi2gate has recently released their rendition of Pointe-Ã -Pitre International Airport (TFFR) for Microsoft Flight Simulator, their first scenery for the ânewâ platform, originally announcedÂ a week ago.  The airport serves the city of Pointe-Ã -Pitre on the island of Grand-Terre in Guadeloupe, a french archipelago. Itâs a hub for Air CaraÃ¯bes, the local airline, which offers fourteen destinations (as of 2022) in Central America and Europe, where they have another hub (Paris-Orly). Curiously, Air France has two A320s in TFFR for regional flights. They offer five destinations in total. â  The scenery features an accurate rendition of the airport as it stands, with custom ground textures, custom photo scenery, custom mesh, carefully detailed 3D objects, realistic ground markings, numerous static objects, night lighting, a tridimensional interior, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $21.38, requiring at least 1.01 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-13T00:00:00+00:00</published>
   </entry>
 </feed>
