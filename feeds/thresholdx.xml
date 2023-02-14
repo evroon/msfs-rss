@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-13T18:25:35.740045+00:00</updated>
+  <updated>2023-02-14T18:25:10.062472+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/spiint</id>
-    <title>Spinoza Releases Interlaken Airport for MSFS</title>
-    <updated>2023-02-05T00:00:00+00:00</updated>
-    <link href="/news/spiint" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e022ca7571b7a5b060084b_inter1.jpg" rel="enclosure" type="image/jpeg" length="1866816"/>
-    <summary>Sim: MSFS. Spinoza has recently released their rendition of Interlaken Airport (LSMI) for Microsoft Flight Simulator, a former military airbase dating back to WW2.  Built by the Swiss Army Military in 1940, it originally had two runways, with the first one made of concrete and 600m of total length, made operational in 1942. The second one, 900 meters long, was completed a year later. After the war, it was converted into a Jet Maintenance Base for the De Havilland Vampire, with an eventual runway expansion to accommodate the fighter (the original runway was extended to 920 meters), along with the construction of a control tower. Further lengthening happened in the following decades, where it ended up at 1656 meters.  Commercial service took place for the first time in 1964, with Globe-Air flying from Interlaken to London thrice a week until 1967.  The base was closed in 2003, now hosting REGA 10, a Swiss Air-Rescue service responsible for more than 1100 mountain rescue operations annually.  The scenery features an accurate rendition of the former airport as it stands, with the military hangars, a 3D model of the Jungfrau Park, and the REGA 10 - Wilderswil base.  Itâs available on SimMarket for roughly $14.11, requiring at least 223 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/avmsfs</id>
-    <title>Just Flight Announces Avro Vulcan as Next MSFS Project</title>
-    <updated>2023-02-06T00:00:00+00:00</updated>
-    <link href="/news/avmsfs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e0a35e2c0da73570befac2_328984399_653392803205798_2471093560067383555_n.jpg" rel="enclosure" type="image/jpeg" length="346707"/>
-    <summary>Sim: MSFS. Earlier this week, developer Just Flight has announced its latest project for MSFS - the Avro Vulcan. The team is working hard to bring this iconic British bomber to the community, utilizing the latest technologies the simulator has to offer. Just Flight has previously released a version of the bomber for X-Plane, P3D, and FSX, and is currently working to improve the plane and âbring it up to the very latest MSFS standardsâ. At this stage, however, it is unclear how much of the plane will be inherited from these older versions and how much of it will be built from the ground up. Alongside the announcement, a few preview photos of the plane have also been released to showcase its detailed modeling and texturing. According to the developers, the Vulcanâs basic flight model and systems are already complete and the plane is just entering an early testing phase. Though the team is quite optimistic about the bomberâs development, they stressed that their main focus is currently directed at other projects such as the F28 and RJ series. Currently, there is little information on the release date or pricing of the product. However, the developers did hint that the aircraft will also come to Xbox, provided that Microsoft fixes âthe current WASM issuesâ. Threshold will keep you updated on the progress of the Vulcan. â</summary>
-    <published>2023-02-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/slhmag</id>
     <title>SLH Sim Designs Releases Marie-Galante Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ea7bfdff8696e1b1aaf6bf_t2g1-min%20(1).png" rel="enclosure" type="image/png" length="3902723"/>
     <summary>Sim: MSFS. Taxi2gate has recently released their rendition of Pointe-Ã -Pitre International Airport (TFFR) for Microsoft Flight Simulator, their first scenery for the ânewâ platform, originally announcedÂ a week ago.  The airport serves the city of Pointe-Ã -Pitre on the island of Grand-Terre in Guadeloupe, a french archipelago. Itâs a hub for Air CaraÃ¯bes, the local airline, which offers fourteen destinations (as of 2022) in Central America and Europe, where they have another hub (Paris-Orly). Curiously, Air France has two A320s in TFFR for regional flights. They offer five destinations in total. â  The scenery features an accurate rendition of the airport as it stands, with custom ground textures, custom photo scenery, custom mesh, carefully detailed 3D objects, realistic ground markings, numerous static objects, night lighting, a tridimensional interior, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $21.38, requiring at least 1.01 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tdmeal</id>
+    <title>TDM Scenery Releases AlmerÃ­a Airport for MSFS</title>
+    <updated>2023-02-13T00:00:00+00:00</updated>
+    <link href="/news/tdmeal" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ea879e7d1cd9d170ae051c_almeria1-min.png" rel="enclosure" type="image/png" length="1917337"/>
+    <summary>Sim: MSFS. TDM Scenery has recently released their rendition of AlmerÃ­a Airport (LEAM) for Microsoft Flight Simulator, serving the province of AlmerÃ­a in Andalusia, Spain.Â   Averaging 1 million passengers yearly, itâs the 27th busiest airport in Spain, with most of its traffic being highly seasonal (summer), except for easyJet, Vueling, and Iberia, which provide flights all year long. Jet2, Luxair, Ryanair, Transavia, Tui Airways, and TUI fly Belgium also offer many destinations when the weather is just right.Â   With its convenient location, Almeria Airport is a popular choice for travelers looking to explore the stunning beaches and the region's natural beauty. Additionally, the airport is well-connected to the local transportation network, with regular shuttle buses and taxis available to take passengers to their desired destinations.  The scenery features a highly-detailed recreation of the airport, with PBR textures, custom static aircraft, custom-built airport terminal buildings, handmade ground poly, and optimized for performance.  Itâs available onÂ SimMarketÂ andÂ iniBuilds StoreÂ for roughly $12.24 and $12.16, respectively. At least 2.16 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfskci</id>
+    <title>MFSG Releases Kochi Ryoma Airport for MSFS</title>
+    <updated>2023-02-14T00:00:00+00:00</updated>
+    <link href="/news/mfskci" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63eb6ef055fc4be58b962b62_kochi1.jpg" rel="enclosure" type="image/jpeg" length="288463"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Kochi Ryoma Airport (RJOK) for Microsoft Flight Simulator, serving the city of Nankoku in Kochi Prefecture. Itâs the 21st busiest airport in Japan, averaging 1.6 million passengers a year (pre-pandemic). Built on 120 hectares of land, the airport features a single (2,500-meter-long) runway, handling small to medium size aircraft. It has a single terminal building, handling domestic flights, with a few international charters. The terminal features various shops and restaurants and an observation deck on the third floor. The airport is known for its stunning natural surroundings, with views of the nearby mountains and the Pacific Ocean. Overall, KÅchi Airport provides convenient access to the beautiful region of KÅchi and its many attractions. The airport dates back to 1944 when it was built for the Royal Japanese Navy. After WW2, the US forces took charge of the airfield for eight years, when it was then converted into a civilian airport, with operations to start two years later.  The scenery features a detailed rendition of the airport as it currently stands, with custom photorealistic terrain, custom jetways, realistic ground markings, and night lighting. Itâs available on SimMarket for roughly $13.89, requiring at least 106 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-14T00:00:00+00:00</published>
   </entry>
 </feed>
