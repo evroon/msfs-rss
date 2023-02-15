@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-14T18:25:10.062472+00:00</updated>
+  <updated>2023-02-15T18:25:16.772667+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/slhmag</id>
-    <title>SLH Sim Designs Releases Marie-Galante Airport for MSFS</title>
-    <updated>2023-02-07T00:00:00+00:00</updated>
-    <link href="/news/slhmag" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e2c818944e76412912e488_gal1-min.png" rel="enclosure" type="image/png" length="3759632"/>
-    <summary>Sim: MSFS. SLH Sim Designs has recently released their rendition of Marie-Galante Airport (TFFM) for Microsoft Flight Simulator, serving the island of Marie-Galante in Guadeloupe. Marie-Galante was the first island of the Guadeloupe archipelago to be reached by Christopher Columbus during his second expedition, back in November 1493. The island is named after his flagship, Maria Galanda. The Carib Indians called it âAichiâ and the Arawaks would refer to it as âToloukaera.â The Mills, one of the island's highlights, were built in 1664 when Madame de Boisseret handed over her rights to the Company of the West Indies, which built their first oxen-powered mills. By 1830, the island had a total of 105 mills. Nowadays, only 72 remain. The scenery features 4K PBR textures, accurate terraforming and runway slope, dynamic night lighting, and a true-to-life landside recreation. Itâs available on SimMarket for roughly $6.47, requiring at least 127 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pbo739</id>
-    <title>PMDG Releases Boeing 737-900 for MSFS</title>
-    <updated>2023-02-07T00:00:00+00:00</updated>
-    <link href="/news/pbo739" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e2d0f3b3073e56151bcb22_739-1.png" rel="enclosure" type="image/png" length="469888"/>
-    <summary>Sim: MSFS. PMDG has recently released their rendition of the Boeing 737-900 for Microsoft Flight Simulator, adding to the other - already released - three variants of their 737 lineup.Â   The 737-900 is the longest 737 variant to date, with 42.11m of total length, seating up to 189 people in a high-density layout, or 177 on two-class, whilst keeping the same MTOW and fuel capacity as of the -800. It was first flown in 2001 with Alaska Airlines. The 737-900ER, on the other hand, can seat up to 220 passengers with a single-class configuration or 180 with two classes, along with an increased range (as implied by the name), around 3,280nm (the normal -900 only has 2,800nm). Due to its limited carrying capacity and range, the -900 was unsuccessful, with only 52 orders in total. The ER variant has accumulated over 500 orders recently.  PMDGâs rendition features a fully customized system simulation for all major and minor aircraft system components, a highly sophisticated logical simulation of onboard information systems and aircraft management, a customized flight model with enhanced physics augmentation, rigid body physics for wing and tail surfaces, fully customized flight control systems, accurate resolution cockpit displays, interchangeable equipment options for cockpit instrumentation, numerous user-configurable options, native datalink simulation compatible with SimBrief, a driveable pushback tug, a custom sound package, a highly-detailed tridimensional cockpit, advanced animations, and a complete tutorial for 737 beginners.Â   The developer has also listed some features that are to come in future updates, including the custom EFB, high-resolution cabin models and gear bay interiors for the entire 737 lineup, and Asobo-dependant updates such as the weather radar, which they mention as an example.Â   The -900 ($49.99) and the rest of the lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600) and $69.99 (737-700 and 737-800, individually).Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ini108</id>
     <title>iniBuilds Announces Bf108 Taifun for Microsoft Flight Simulator</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63eb6ef055fc4be58b962b62_kochi1.jpg" rel="enclosure" type="image/jpeg" length="288463"/>
     <summary>Sim: MSFS. MFSG has recently released their rendition of Kochi Ryoma Airport (RJOK) for Microsoft Flight Simulator, serving the city of Nankoku in Kochi Prefecture. Itâs the 21st busiest airport in Japan, averaging 1.6 million passengers a year (pre-pandemic). Built on 120 hectares of land, the airport features a single (2,500-meter-long) runway, handling small to medium size aircraft. It has a single terminal building, handling domestic flights, with a few international charters. The terminal features various shops and restaurants and an observation deck on the third floor. The airport is known for its stunning natural surroundings, with views of the nearby mountains and the Pacific Ocean. Overall, KÅchi Airport provides convenient access to the beautiful region of KÅchi and its many attractions. The airport dates back to 1944 when it was built for the Royal Japanese Navy. After WW2, the US forces took charge of the airfield for eight years, when it was then converted into a civilian airport, with operations to start two years later.  The scenery features a detailed rendition of the airport as it currently stands, with custom photorealistic terrain, custom jetways, realistic ground markings, and night lighting. Itâs available on SimMarket for roughly $13.89, requiring at least 106 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vertpa</id>
+    <title>Verticalsim Releases Tampa International Airport for MSFS</title>
+    <updated>2023-02-14T00:00:00+00:00</updated>
+    <link href="/news/vertpa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ec06a25f90b7e2d650c2e2_tampa1.jpg" rel="enclosure" type="image/jpeg" length="1075288"/>
+    <summary>Sim: MSFS. Verticalsim has recently released their rendition of Tampa International Airport (KTPA) for Microsoft Flight Simulator, serving the Tampa Bay Area in Florida with more than 93 non-stop destinations throughout the globe.  Tampa is known as the birthplace of commercial airline service, when a Benoist Flying Boat took off from St. Petersburg (Florida) to Tampa Airboat Line in early 1914, consecrating itself as the first scheduled commercial flight in the world. It was a 23-mile-long flight, and the service ran for about five months. The airport itself dates back to 1928, then called Drew Field. It was heavily used during WW2 for training, where it underwent modernization and expansion.Â   Post-war, it went back to its original role of being just an airport, with its first international flights to begin a couple of years later, in 1950. A new terminal reached completion not long after, in 1952. A decade later, with the popularity of jet aircraft and many new airlines flying to Tampa, expansion became a priority, with the authorities planning a replacement terminal in an undeveloped site at the airport, whose production kicked off in 1968 and completion came three years later, increasing the capacity and consolidating Tampa as an important domestic and international destination.Â   The airport collects several quality awards, including Best Overall U.S. Airport in 2007 and 2008 by Zagat Survey, Second Best Airport in the World by CondÃ© Nas in 2008, and 6th place on CNNâsÂ Ten of the Worldâs Most Loved Airports, and itâs considered by Airports Council International as the best airport in America for its size (2020).  With an average of 20 million passengers yearly, Tampa is served by most major domestic airlines, including Southwest (27.81% of the market share), Delta Air Lines (17.52% of the market share), American Airlines (16.89% of the market share), United Airlines (10.69% of the market share), and Spirit Airlines (10.03% of the market share). The top domestic destinations list includes Atlanta (925,000 passengers), Chicago-OâHare (463,000), and Charlotte (450,000).  The scenery features an accurate rendition of the airport as it currently stands, with an updated taxiway layout, animated passengers with âhalf-interiorâ airside and terminals, proper AI routing and vehicle pathing, realistic airline codes, custom taxi signs, custom airport lighting, a blend of custom and photorealistic imagery, animated HVAC fans, flags, and trams, handcrafted mesh with taxiway bridges, high-resolution color-graded imagery, surrounding area landmarks (Raymond James, International Plaza, Grand Hyatt, etc.).  Itâs available on Verticalsimâs Shop for $21.99, requiring at least 4.12 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/navios</id>
+    <title>Navigraph Charts Beta Release for IOS and Android </title>
+    <updated>2023-02-15T00:00:00+00:00</updated>
+    <link href="/news/navios" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ecf9699462032e52b73501_navigraph.jpg" rel="enclosure" type="image/jpeg" length="274608"/>
+    <summary>Sim: MSFS. Flight sim navigation services provider Navigraph has just announced an open BETA for their charts application on mobile devices that operate using either IOS or Android. This is welcome news to many in the flight sim community who have been waiting eagerly for the announcement.Â  Instructions to sign up on IOS are as follows: press the link to Join the TestFlight beta program below. The Charts app will be installed via the TestFlight app. Links for the Android-based APK and other information surrounding the beta can be found on the Navigraph website.Â  â</summary>
+    <published>2023-02-15T00:00:00+00:00</published>
   </entry>
 </feed>
