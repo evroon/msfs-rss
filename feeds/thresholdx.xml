@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-15T18:25:16.772667+00:00</updated>
+  <updated>2023-02-16T18:24:06.054805+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini108</id>
-    <title>iniBuilds Announces Bf108 Taifun for Microsoft Flight Simulator</title>
-    <updated>2023-02-08T00:00:00+00:00</updated>
-    <link href="/news/ini108" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e3447e5680465b9e1efed0_taifun1-min.png" rel="enclosure" type="image/png" length="1467218"/>
-    <summary>Sim: MSFS. iniBuilds has recently announced the second addition to their classic lineup for Microsoft Flight Simulator: the Bf108 Taifun, a single-engine sport aircraft developed by Bayerische Flugzeugwerke in the early 1930s, with 885 units built in total. The Taifun was designed to compete in the 4th Challenge International de Tourisme, the fourth and last International Tourist Plane Contest held by the FAI (FÃ©dÃ©ration aÃ©ronautique internationale), taking place in Warsaw, Poland. It was a major aviation event in pre-war Europe, held from 1929 to 1934. The prototype, then called M34, was powered by a 247 hp Hirth HM 8U V8 engine, did not win the competition, more so, was outperformed by many other aircraft, yet managed to impress with a low fuel consumption rate, good handling, and take-off/landing characteristics. The Bf108a variant took off for the first time in 1934, powered by three different engines: the original Hirth HM 8U, the Argus As 17B with 217 hp, and later units had a Siemens-Halske Sh 14 radial, with 158hp. The Bf108b was a revised version whose prototype had a Siemens-Halske Sh 14a radial, but the production model sported an Argus As 10C instead, delivering 237 hp, or the Argus AS 10E with 266 hp.  iniBuildsâ rendition makes use of the latest CFD technology on all primary and control flight surfaces, as well as the propeller, and with specifically modeled unique characteristics of the real-life counterpart like the capability of landing as slow as 45 knots thanks to its leading edge slats. The inclusion of such details enables a realistic STOL performance.  With the help of Microsoft Flight Simulatorâs modern fuel system, the developers managed to model an authentic fuel system that closely matches the real-world behavior of the Argus As10 engine. The airplane features interactable elements that range from foldable wings to doors and storage compartments, and many EFB-controlled features such as customizable rain covers, language, units, curtain visibility, etc. On that language note, they mention it will come with two sets of gauges and panel text, with German or English texts, and either metric or imperial units.  The complete feature list follows down below: There is no information on the release date or price yet, but Threshold will keep you informed! â</summary>
-    <published>2023-02-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/t2gffr</id>
-    <title>Taxi2gate Announces Pointe-Ã -Pitre International Airport for MSFS</title>
-    <updated>2023-02-08T00:00:00+00:00</updated>
-    <link href="/news/t2gffr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e34af90031d556c2d4d273_tffr1.jpg" rel="enclosure" type="image/jpeg" length="387992"/>
-    <summary>Sim: MSFS. Taxi2gate has recently announced their first scenery for Microsoft Flight Simulator: Pointe-Ã -Pitre International Airport (TFFR), serving the city of Pointe-Ã -Pitre on the island of Grand-Terre in Guadeloupe, boasting a yearly average of 2.4 million passengers, making it the second busiest airport in the Lesser Antilles region. It is the main airport of the French West Indies and a hub for Air CaraÃ¯bes, sporting a single terminal building with modern facilities and services, including shops, restaurants, lounges, and car rental. It offers direct flights to destinations across Europe, North America, and the Caribbean, connecting Guadeloupe to the rest of the world and playing a vital role in the region's tourism industry and economic development. Nothing has been revealed in terms of features but thereâs a chance it could be similar to their Prepar3d v5 version (released in mid-2022), which features custom ground textures, custom photoscenery, carefully detailed 3d objects, realistic ground markings, night lighting, PBR textures, and a 3D terminal interior. They have also claimed to be working on Orlando (KMCO) and Paris Charles de Gaulle (LFPG), to come later. Pointe-Ã -Pitre, on the other hand, is said to be coming soon. Thereâs no information on the release date or price yet, but Threshold will keep you informed! â</summary>
-    <published>2023-02-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/flsloc</id>
-    <title>FlyLogicSoftware Releases Locarno Airport for MSFS</title>
-    <updated>2023-02-08T00:00:00+00:00</updated>
-    <link href="/news/flsloc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e3ed13f8223f3c0922ea56_loca1.jpg" rel="enclosure" type="image/jpeg" length="1181112"/>
-    <summary>Sim: MSFS. FlyLogicSoftware has recently released their rendition of Locarno Airport (LSZL) for Microsoft Flight Simulator, a mixed civilian and military airport serving the city of Locarno in Switzerland. â Opened in 1939, it was utilized by the Swiss Air Force throughout WW2 for flight training due to its generally acceptable weather conditions. Post-WW2, Locarno was among five airports in the country that underwent modernization to become regional airports.  Nowadays, the airport has three runways: a paved one and two made of grass. Most of its traffic consists of private aircraft, student pilots, or Swiss Air Force operations (mostly training). It also hosts Eliticino, a helicopter charter company, and a local glider club that makes exclusive use of the two grass runways. For nearly a decade, between 1999 and 2007, the airport underwent a major renovation plan, with a large new solar-powered hangar and a private taxiway to runway 26R.  The scenery features an accurate rendition of the airport as it stands, with lifelike lighting effects, an animated clock on the large hangar (which shows the correct time), an animated quad radar system, static airplanes and vehicles, animated people and windsocks, precise collision detection at the buildings, performance-friendly optimization, and an instruction manual in German and English. Itâs available on SimMarket for roughly $13.27, requiring at least 93 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/skycvg</id>
-    <title>Skyline Simulations Releases Cincinnati International Airport for MSFS</title>
-    <updated>2023-02-09T00:00:00+00:00</updated>
-    <link href="/news/skycvg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e51a0a878bcc3b752680c7_cvg1.jpg" rel="enclosure" type="image/jpeg" length="439703"/>
-    <summary>Sim: MSFS. Skyline Simulations has recently released their rendition of Cincinnati International Airport (KCVG) for Microsoft Flight Simulator, located in Hebron (Kentucky) and serving the Cincinnati tri-state area, averaging 9 million passengers yearly. Cincinnati/Northern Kentucky International boasts a passenger service network with over 50 destinations in North America and Europe, but its specialty is cargo: it is a global hub for Amazon Air, Atlas Air, ABX Air, Kalitta Air, and DHL Aviation. The 7th place in cargo traffic doesnât come as a surprise, and it features among the fastest-growing cargo airports in America. The airportâs roots date back to the early 1940s when Franklin Delano Roosevelt wanted to establish multiple training facilities across the country for World War 2. The congress provided 2 million USD for the construction, and Kenton County bought the 7,700 acres of land that were offered by Boone County officials as a suitable site. 2 years later, in August 1944, it was finally training B-17 bombers, even if shortly, as the war was rapidly approaching its end. By 1946, they had already built a small terminal building for passengers. As a curious fact, KCVG used to rank among the most expensive major airports in the country up until 2015, when Delta downsized their operations and more low-cost carriers showed up. Delta still leads the market share as of recent, with 24.44% of the passengers (1,735,000), followed by Allegiant with 14.52% (1,030,000), and Frontier Airlines with 11.92% (846,000). The scenery features an accurate rendition of the airport as it currently stands, with 4K custom textures, PBR ground and decals, detailed 3D models, PBR materials on buildings, thousands of custom static objects, detailed night lighting and texturing, accurate city using OpenStreetMap data, ground traffic, animated custom jetways and radar. Itâs available on Skyline Simulationsâ Website for $21.33, requiring at least 1.02 GB of free disk space to install.Shout out to Tomcat_22 for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/akdg55</id>
     <title>AKD G550 Updated to V1.10 </title>
@@ -117,15 +81,6 @@
     <published>2023-02-13T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>/news/tdmeal</id>
-    <title>TDM Scenery Releases AlmerÃ­a Airport for MSFS</title>
-    <updated>2023-02-13T00:00:00+00:00</updated>
-    <link href="/news/tdmeal" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ea879e7d1cd9d170ae051c_almeria1-min.png" rel="enclosure" type="image/png" length="1917337"/>
-    <summary>Sim: MSFS. TDM Scenery has recently released their rendition of AlmerÃ­a Airport (LEAM) for Microsoft Flight Simulator, serving the province of AlmerÃ­a in Andalusia, Spain.Â   Averaging 1 million passengers yearly, itâs the 27th busiest airport in Spain, with most of its traffic being highly seasonal (summer), except for easyJet, Vueling, and Iberia, which provide flights all year long. Jet2, Luxair, Ryanair, Transavia, Tui Airways, and TUI fly Belgium also offer many destinations when the weather is just right.Â   With its convenient location, Almeria Airport is a popular choice for travelers looking to explore the stunning beaches and the region's natural beauty. Additionally, the airport is well-connected to the local transportation network, with regular shuttle buses and taxis available to take passengers to their desired destinations.  The scenery features a highly-detailed recreation of the airport, with PBR textures, custom static aircraft, custom-built airport terminal buildings, handmade ground poly, and optimized for performance.  Itâs available onÂ SimMarketÂ andÂ iniBuilds StoreÂ for roughly $12.24 and $12.16, respectively. At least 2.16 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>/news/mfskci</id>
     <title>MFSG Releases Kochi Ryoma Airport for MSFS</title>
     <updated>2023-02-14T00:00:00+00:00</updated>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ecf9699462032e52b73501_navigraph.jpg" rel="enclosure" type="image/jpeg" length="274608"/>
     <summary>Sim: MSFS. Flight sim navigation services provider Navigraph has just announced an open BETA for their charts application on mobile devices that operate using either IOS or Android. This is welcome news to many in the flight sim community who have been waiting eagerly for the announcement.Â  Instructions to sign up on IOS are as follows: press the link to Join the TestFlight beta program below. The Charts app will be installed via the TestFlight app. Links for the Android-based APK and other information surrounding the beta can be found on the Navigraph website.Â  â</summary>
     <published>2023-02-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniokc</id>
+    <title>iniBuilds Announces Oklahoma City Airport for MSFS</title>
+    <updated>2023-02-15T00:00:00+00:00</updated>
+    <link href="/news/iniokc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed4e066624e16f8534be7d_okc1-min.png" rel="enclosure" type="image/png" length="1480883"/>
+    <summary>Sim: MSFS. iniBuilds hasÂ recently announcedÂ the development of Oklahoma City Airport (KOKC) for Microsoft Flight Simulator, the busiest commercial airport in Oklahoma with a yearly average of 4 million passengers.  Oklahoma City Airport, or Will Rogers World Airport, first opened in 1911 as Oklahoma City Municipal Airfield renamed 30 years later after Will Rogers. It served as a major training facility during WW2, with over fifteen air force groups stationed there over the course of the war. Post-war saw commercial activity in the late fifties, with over 48 daily commercial flights from different airlines.Â  â In the late 90s, expansion talks ensued from the old age of the original terminal, dating back to 1967. Plans launched not much later, in 2001, with the demolition of the twin concourses to make room for the new project: a larger terminal with high ceilings and modern facilities. One hundred and ten million dollars, and five years later, the project finally reached completion, with the third phase still pending.  The aforementioned third phase only happened in March 2019, finishing roughly two years later, substantially increasing the passenger handling capacity and the overall quality of the facilities.  iniBuildsâ rendition will feature an accurate rendition of the airport as it stands, with a fully modeled interior, up-to-date airport and terminal layout, HD textures, 3D people, detailed jetways, correct airline parking allocations, fully modeled landside, and custom taxi signs.Â   Thereâs no information regarding pricing or a release date yet, but Threshold will keep you informed! â</summary>
+    <published>2023-02-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shaazi</id>
+    <title>Shadescene Releases Sultan Abdul Aziz Shah Airport for MSFS</title>
+    <updated>2023-02-15T00:00:00+00:00</updated>
+    <link href="/news/shaazi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed59d949b58bbd48b7bfca_subcover-min.png" rel="enclosure" type="image/png" length="1394293"/>
+    <summary>Sim: MSFS. Shadescene has recently released their rendition of Sultan Abdul Aziz Shah Airport (WMSA) for Microsoft Flight Simulator, serving the township of Subang, in Petaling District (Selangor, Malaysia), with a yearly average of 2 million passengers.  It used to be Kuala Lumpurâs main airport from 1965 to 1998, before the opening of Kuala Lumpur International Airport in Sepang. Original plans suggested a conversion to a low-cost carrier base, but the residents voted against it. It was repurposed to serve general aviation and turboprop domestic and international flights.  Itâs the base for SKS Airways, Firefly, Batik Air Malaysia, and Raya Airways.Â   The scenery features an accurate rendition of the airport as it stands, with a replica of the famous old terminal 1, custom terraforming, custom scenery objects for the terminal, high-resolution textures, hand-placed taxiways, and runway light system, full day and night lighting, and hand-crafted ground markings and textures. â Itâs available onÂ SimMarketÂ for roughly $12.90 (currently on sale for 10.71), requiring at least 140 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/boulin</id>
+    <title>Boundless Publishes Further Information on Dublin Update for X-Plane 12</title>
+    <updated>2023-02-16T00:00:00+00:00</updated>
+    <link href="/news/boulin" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed89e34f9bfc9fb4a53a04_boundless1.jpg" rel="enclosure" type="image/jpeg" length="358209"/>
+    <summary>Sim: X-Plane. Boundless has recently posted on theirÂ Facebook pageÂ with new information on the upcoming update for Dublin Airport (EIDW), including pricing, upgrade fees, and more.Â   Dublin Airport is the 12th busiest airport in Europe, with a yearly average of 30 million passengers. It hosts their flag carrier Aer Lingus, the low-cost carrier beast Ryanair, and TUI Airways, with a significant route network that encompasses most of Europe and some key cities in North America.Â   AsÂ previously mentioned, the new update will include full X-Plane 12 compatibility, overhauled lighting, the integration of the new runway, Terminal 1 lighting improvements, airside traffic (X-Plane 12), new fence models, new ground textures, partially photorealistic textures based on 2023 imagery, performance improvements, general bug fixes, new ground service equipment vehicles with updated liveries, road network improvements, and more. They have now mentioned the addition of optional animated ground traffic using the Living Scenery Technology plugin, with instructions to be included with the download.Â   The base price of the Dublin package will be increased from roughly $24 to $26.47, reflecting the additional work and expenses. It will be a free upgrade for existing users. Threshold will let you know once the scenery is out! â</summary>
+    <published>2023-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fre767</id>
+    <title>Project76 B767 Updated to Version 0.6.7</title>
+    <updated>2023-02-16T00:00:00+00:00</updated>
+    <link href="/news/fre767" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee1d509d44a3a863bdbf40_144913730_B767-2023-02-1516_48_23.png.1aa56b46b2d0b983e3a255306014269c.png" rel="enclosure" type="image/png" length="1381835"/>
+    <summary>Sim: X-Plane. Freeware Boeing 767 project âproject76â has just been updated to version 0.6.7. This is a project I personally have been following for some time and it continues to impress update after update. The latest update for the aircraft brings a host of improvements, additional new features and fixes!Â  â The full changelog for version 0.6.7 (alpha) features the following:Â  - Cockpit lighting Â Â - added lighting for panel instruments, backlit marks, floodlights, and dome lights Â Â - added dimmers for cockpit lighting Â Â - added dimmers for FMS CDU panels Â Â - added dimmers for ADI, HSI, and EICAS CRT displays â - Winglets Â Â - added type-accurate winglets, including lights Â Â - added menu option to toggle winglets on and off Â Â - includes default winglet textures plus separate textures for several bundled liveries â - Panel instrument graphics Â Â - updated to 4K higher resolution graphics Â Â - fully custom ADI with FMA, dual cue FD, speed trend arrow, and other indications Â Â - improved accuracy of EICAS graphics Â Â - added screen glow to all CRT displays Â Â - altered registration placard to white letters on black â - Exterior graphics Â Â - added metal windshield frames to the base livery and several bundled liveries Â Â - updated tail surfaces to include metal leading edges â - Cockpit windows Â Â - enabled animation for opening/closing Pilot and Copilot windows, including hand cranks Â Â - added menu options for opening/closing cockpit windows â - Engine Start Â Â - improved accuracy of the engine start sequence Â Â - corrected engine fuel cut-off switch operation â - Flight Model Â Â -various tweaks to plane maker settings to improve overall drag, performance, and handling â - Autopilot Â Â - enabled LNAV functionality Â Â - used XP11 default airliner autopilot modes to create semi-realistic Boeing 767 Autopilot and Autothrottle You can pick up the latest version of the Aircraft here!Â  â</summary>
+    <published>2023-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simupd</id>
+    <title>Simbrief Receives Massive Update and OverhaulÂ </title>
+    <updated>2023-02-16T00:00:00+00:00</updated>
+    <link href="/news/simupd" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee3e38bcfb61e9a3cf71b9_Logo_SimBrief_Navigraph.png" rel="enclosure" type="image/png" length="53395"/>
+    <summary>Sim: MSFS. Simbrief is the most popular and widely used flight sim dispatch system which is offered for free by parent company Navigraph. Itâs been a considerable amount of time since anything major has changed with SimBrief after the acquisition by Navigraphâ¦ Until now that is! Simbrief has received a complete re-design and new look which streamlines the entire service and gives it a fresh, new, easy-to-use look.Â  The new SimBrief look has certainly gone down well with the flight sim community so far since its release a short time ago, many think it is a fantastic new design which not only makes it easier to use but adds more neat features such as personal flying statistics.Â  â Other new features in this update include:Â  You can check this latest version of simbrief out for yourself over at www.simbrief.com â</summary>
+    <published>2023-02-16T00:00:00+00:00</published>
   </entry>
 </feed>
