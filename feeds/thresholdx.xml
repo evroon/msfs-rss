@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-16T18:24:06.054805+00:00</updated>
+  <updated>2023-02-17T18:25:07.111368+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/akdg55</id>
-    <title>AKD G550 Updated to V1.10 </title>
-    <updated>2023-02-09T00:00:00+00:00</updated>
-    <link href="/news/akdg55" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e53f970a6f9ed17a081a9a_E3EA0446-11B3-484E-8094-A9A368472F2A.png" rel="enclosure" type="image/png" length="3816292"/>
-    <summary>Sim: X-Plane. AK Designs have released a massive update for their Gulfstream G550. The latest update to the G550 brings a host of new features and improvements that have been long awaited.Â  â The changelog included the following:Â  New features: -Added NEW Ground Handling(3D Model,Textures)(XP11/XP12) -Added 3D Cargo Door(Animations/3DÂ  Model)(XP11/XP12) -Added new Baggage Compartment 3D Model(XP11/XP12) -Added Custom HUD(XP11/XP12) -Added DC GPU(XP12/XP11) -Added WingFlex animations(XP11/XP12) -Added SmartCopilot config(XP12/XP11) -Added new external lights(XP12) -Updated SASL to 3.15.0(XP12/XP11) Bugs fixes include: -Fixed NavSource on Display Controller(XP11/XP12) -Fixed squawk page in FMS3 radio panel(XP11/XP12) -Fixed checklist for G450 instead of G550(XP11/XP12) -Fixed Loadsheet prints in kg even when lbs is selected as unit measure in EFB settings (XP12/XP11) -Fixed SASL crash âcan't load component Capt_radio_alt_testâ(XP11/XP12) -Improved external lights(XP12) -Improved Baggage Compartment Textures(XP11/XP12) -Removed Menu with pop-out windows(XP12/XP11) -Fixed Minor bugs(XP12/XP11) If you donât already own the AKD G550 you can pick it up at the Xplane.org store â</summary>
-    <published>2023-02-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xsipiu</id>
-    <title>XSimulations Releases Guillermo Concha Iberico International for MSFS</title>
-    <updated>2023-02-10T00:00:00+00:00</updated>
-    <link href="/news/xsipiu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e5d069b5aaa7c5c9fe1e6c_piu1.png" rel="enclosure" type="image/png" length="1889256"/>
-    <summary>Sim: MSFS. XSimulations has recently released their rendition of PAF Captain Guillermo Concha Iberico International (SPUR) for Microsoft Flight Simulator, serving the city of Piura in Peru.   It has a rich and dynamic history dating back several decades. The airport was built in the 1950s as a small regional airfield, serving primarily as a hub for domestic flights. In the following decades, as the region experienced significant economic growth, the airport underwent many renovations and upgrades to accommodate the increasing demand for air travel, including the addition of modern terminals, runways, and air traffic control systems, as well as the expansion of the airport's passenger and cargo facilities. Today, the airport is a gateway to the northwestern region of Peru, connecting travelers to major destinations both within the country and abroad. With its modern facilities and growing passenger traffic, the airport continues to play a critical role in regional economic development, poised for continued growth. Itâs served by JetSmart PerÃº, LATAM PerÃº, and Sky Airline Peru, with legs to Lima and Arequipa (JetSmart only), with a yearly average of 860,000 passengers in total. The scenery features an accurate rendition of the airport as it stands, with PBR texturing, a modeled terminal interior, and military static aircraft. Itâs available on SimMarket for roughly $8.61, requiring at least 1.67 GB of free disk space.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbucs</id>
     <title>Orbx Releases Helipads LA Medical for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee3e38bcfb61e9a3cf71b9_Logo_SimBrief_Navigraph.png" rel="enclosure" type="image/png" length="53395"/>
     <summary>Sim: MSFS. Simbrief is the most popular and widely used flight sim dispatch system which is offered for free by parent company Navigraph. Itâs been a considerable amount of time since anything major has changed with SimBrief after the acquisition by Navigraphâ¦ Until now that is! Simbrief has received a complete re-design and new look which streamlines the entire service and gives it a fresh, new, easy-to-use look.Â  The new SimBrief look has certainly gone down well with the flight sim community so far since its release a short time ago, many think it is a fantastic new design which not only makes it easier to use but adds more neat features such as personal flying statistics.Â  â Other new features in this update include:Â  You can check this latest version of simbrief out for yourself over at www.simbrief.com â</summary>
     <published>2023-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rfsbru</id>
+    <title>Rfscenerybuilding Releases Brussels South Charleroi Airport for MSFS</title>
+    <updated>2023-02-16T00:00:00+00:00</updated>
+    <link href="/news/rfsbru" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee9457b3a8f928620b0319_bru1.png" rel="enclosure" type="image/png" length="3260154"/>
+    <summary>Sim: MSFS. Rfscenerybuilding has recently released their rendition of Brussels South Charleroi Airport (EBCI) for Microsoft Flight Simulator, also referred to as Brussels-Charleroi Airport. It is the second busiest airport in Belgium, with a yearly average of 8 million passengers (pre-pandemic).  Charleroi is a popular low-cost alternative to Brussels Airport (EBBR), being an important hub for Ryanair, WizzAir, and TUI fly Belgium, both offering an extensive intra-European network. Itâs also home to Air Belgium, a scheduled and charter airline founded six years ago offering many holiday destinations, including Guadeloupe, Martinique, Mauritius, and South Africa. The history of Brussels-Charleroi dates back to 1919 when it used to be a flying school, with maintenance activities to start a year later. To this day, itâs still a busy general aviation airfield with three flying schools.  The airportâs traffic grew in the late 1990s when Ryanair embraced Charleroi for the first time (it went on to become one of their continental bases). Other low-cost carriers like WizzAir soon joined the trend, increasing the traffic figures and justifying the construction of a new terminal, which opened in early 2008 with a capacity for up to 5 million passengers a year. It wasnât long until it reached that limit, which led to the creation of a second terminal in 2017, accommodating up to 10 million passengers a year.  The scenery features an accurate rendition of the airport as it stands, with custom buildings around the area, custom vehicles, custom objects and clutter, navigation infrastructure, and custom lighting. Itâs available on SimMarket for roughly $19.26, requiring at least 680 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/evex12</id>
+    <title>Everest UHD Scenery For XP12 </title>
+    <updated>2023-02-17T00:00:00+00:00</updated>
+    <link href="/news/evex12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ef825ab5f56962971c7e17_A11F.jpg" rel="enclosure" type="image/jpeg" length="226719"/>
+    <summary>Sim: X-Plane. Talented scenery developers, Frank Dainese and Fabio Bellini have teased the latest project of their mountain scenery masterpieces, Everest UHD for XP12. This brings the Nepal mountain range and an area of around 7000 square Kilometers of stunning scenery to Xplane 12. The other detailed mountains included are Lhotse, Makalu, Cho Oyu, Nuptse, Pumori, Ama Dablam, Taboche and Baruntse. All were reconstructed in 3D with models derived from further modified DEM data. The scenery also includes in-depth recreations of 7 airports including the infamous Lukla and 8 heliports.Â  It is currently unclear as to when exactly this scenery will become available but we expect it won't be very long!Â  â</summary>
+    <published>2023-02-17T00:00:00+00:00</published>
   </entry>
 </feed>

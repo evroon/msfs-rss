@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-02-16T18:24:04.172096+00:00</updated>
+  <updated>2023-02-17T18:25:05.511039+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
     <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
     <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/aircraft-avionics-i-release-notes-1-30-12-0/</id>
-    <title>Aircraft &amp; Avionics I Release Notes [1.30.12.0]</title>
-    <updated>2023-01-31T16:10:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/aircraft-avionics-i-release-notes-1-30-12-0/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_007-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="47433"/>
-    <summary>Release Notes for Version 1.30.12.0 (Aircraft and Avionics I) are now available. Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2023-01-31T16:10:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-2nd-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/BigRadialsSale_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="51138"/>
     <summary>3 Items On Sale Now in the Marketplace</summary>
     <published>2023-02-10T18:01:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-16th-2023-development-update/</id>
+    <title>February 16th, 2023 Development Update</title>
+    <updated>2023-02-17T01:38:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-16th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/nin_aoironinja-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="68037"/>
+    <summary>Following-up on our update from last week, the development team continues to prepare the first Sim Update 12 beta for release to those players who have opted in to receive test builds.</summary>
+    <published>2023-02-17T01:38:16+00:00</published>
   </entry>
 </feed>
