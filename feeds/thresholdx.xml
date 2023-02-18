@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-17T18:25:07.111368+00:00</updated>
+  <updated>2023-02-18T18:23:10.246367+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbucs</id>
-    <title>Orbx Releases Helipads LA Medical for MSFS</title>
-    <updated>2023-02-10T00:00:00+00:00</updated>
-    <link href="/news/orbucs" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e69a0edb4612a72eed8e2b_ucs1.png" rel="enclosure" type="image/png" length="2444221"/>
-    <summary>Sim: MSFS. Orbx has recently released another addition to their Helipads LA lineup: nineteen medical helipads all over downtown Los Angeles and its surrounding areas, with meticulously created models and five liveries for the Bell 407 helicopter (part of base Microsoft Flight Simulator).  The complete list of helipads and their respective description follows down below: â   The pack is available onÂ OrbxDirectÂ for roughly $9.93, requiring at least 1.99 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xcrfte</id>
-    <title>X-Crafts Make E175 &amp; E195 Freeware</title>
-    <updated>2023-02-11T00:00:00+00:00</updated>
-    <link href="/news/xcrfte" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e7aa1d441a2dadeb736b71_EMBRAER-E-JETS-E175-E195-X-PLANE-FREE-DOWNLOAD-main.jpg.fc7f1fec6d09d76829c5048f2ddbc0da.jpg" rel="enclosure" type="image/jpeg" length="150160"/>
-    <summary>Sim: X-Plane. X-Crafts first released their E175 and E195 to the X-plane market many years ago now and they have long been a popular product among virtual pilots. The development team have taken to the X-Plane.org Forums to announce that their original E range (175 &amp; 195) would now be free, for everyone to enjoy!Â  X-Crafts have said:Â  â You can download the aircraft on the XâPlane.org Forums now!Â  â</summary>
-    <published>2023-02-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ff7772</id>
-    <title>FlightFactor tease 777 v2 Engines</title>
-    <updated>2023-02-11T00:00:00+00:00</updated>
-    <link href="/news/ff7772" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6210dcef7048187164424ef4_FLWXwyUXsAUWBtr.jpg" rel="enclosure" type="image/jpeg" length="85056"/>
-    <summary>Sim: X-Plane. FlightFactor tease 777 v2 enginesÂ  The much anticipated 777 V2 from FlightFactor have recently been increasing their output of teaser content for their upcoming aircraft! In a recent post, FlightFactor has taken to Twitter to tease the different engine sounds of the incredible GE90 engines both during spool up on the ground and in the air!Â  A brief background on the GE90:Â  The GE90 is a high bypass turbofan engine that has been designed and developed by GE Aviation primarily for the 777 aircraft family. It outputs thrust ratings anywhere from 81,000 to 115,000 lbf which is absolutely incredible. The GE90 first entered service with British Airways mounted on the 777 in November of 1995. The FlightFactor 777 V2 sure looks as though it's going to be one of the most accurate representations of both the 777 and GE90 for any flight sim to date.Â </summary>
-    <published>2023-02-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gfr500</id>
     <title>Got Friends Releases Mini-500 for MSFS</title>
@@ -150,6 +123,33 @@
     <link href="/news/evex12" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ef825ab5f56962971c7e17_A11F.jpg" rel="enclosure" type="image/jpeg" length="226719"/>
     <summary>Sim: X-Plane. Talented scenery developers, Frank Dainese and Fabio Bellini have teased the latest project of their mountain scenery masterpieces, Everest UHD for XP12. This brings the Nepal mountain range and an area of around 7000 square Kilometers of stunning scenery to Xplane 12. The other detailed mountains included are Lhotse, Makalu, Cho Oyu, Nuptse, Pumori, Ama Dablam, Taboche and Baruntse. All were reconstructed in 3D with models derived from further modified DEM data. The scenery also includes in-depth recreations of 7 airports including the infamous Lukla and 8 heliports.Â  It is currently unclear as to when exactly this scenery will become available but we expect it won't be very long!Â  â</summary>
+    <published>2023-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbmoe</id>
+    <title>Orbx Releases Oslo Gardermoen Airport for MSFS</title>
+    <updated>2023-02-17T00:00:00+00:00</updated>
+    <link href="/news/orbmoe" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63efeded4697640e5616d345_garden.png" rel="enclosure" type="image/png" length="2060806"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, the busiest airport in Norway with 30 million passengers per year. Opened 25 years ago, Gardermoen replaces the outdated Fornebu Airport, which used to be the main airport in Oslo from its inception in 1939 to 1998. Bigger, substantially more modern, and with better accessibility, the new airport went on to become the busiest airport in Scandinavia.  Sporting over 200 destinations (domestic and international), OSL is a hub for Norse Atlantic Airways, Norwegian Air Shuttle, Scandinavian Airlines, and Wideroe. The visitors' list includes most major european airlines, such as Air France, Austrian Airlines, British Airways, Brussels Airlines, Eurowings, Finnair, Iberia, KLM, LOT Polish Airlines, Lufthansa, Ryanair, Swiss, TAP Air Portugal, Turkish, and WizzAir. Trondheim (2,092,000), Bergen (1,987,000), and Stavanger (1,603,000) are among the top three busiest destinations from Gardermoen, further reinforcing the strength of domestic operations in the airport.  The scenery features detailed modeling and texturing of the terminal and surrounding buildings and hangars, with PBR texturing in 4K, interior modeling, three different types of animated jetways to match the real world, fully functioning VDGS for all appropriate gates, animated traffic, custom ground service equipment, and performance-friendly optimization.  Itâs available on OrbxDirect for roughly $20.62, requiring at least 6.34 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hlog</id>
+    <title>Fly2High Releases Lognes Airfield for MSFS</title>
+    <updated>2023-02-17T00:00:00+00:00</updated>
+    <link href="/news/f2hlog" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63eff582374b9224a3b7831e_lognes1.png" rel="enclosure" type="image/png" length="2427388"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Lognes-Ãmerainville aerodrome (LFPL) for Microsoft Flight Simulator, serving the community of Lognes in the suburbs of Paris (roughly 28 km east of it).  Opened to public air traffic in 1947, itâs the biggest private light aircraft aerodrome in the country, with the unusuality of being open to international traffic, unlike many other french airfields. The fact it sits close to five other aerodromes makes it extremely handy for flight schools, increasing its traffic figures. Lognes is open to light aviation under VFR, handling up to 80,568 aircraft movements back in 2014, ranking it within the top 10 in France (movement-wise).  With a 700-meter-long paved runway and a 1,100-meter-long grass runway, the airfield is ideal for small general aviation aircraft, especially trainers such as the 152, 172, etc. As a curiosity, Lognes hosts AGILE, an association created in 1983 whose focus is the management of the 25 to 30 aircraft that belong to the clubâs members.The scenery features an accurate rendition of the aerodrome, with PBR texturing based on on-site photography, detailed modeling including the tower interior, animated humans, and custom lighting.  Itâs available for free on SimMarket, requiring at least 275 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fthnas</id>
+    <title>FeelThere Releases Nashville International Airport for MSFS</title>
+    <updated>2023-02-17T00:00:00+00:00</updated>
+    <link href="/news/fthnas" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f006fabb25c11a994ce745_nash1.jpg" rel="enclosure" type="image/jpeg" length="1222254"/>
+    <summary>Sim: MSFS. FeelThere has recently released their rendition of Nashville International Airport (KBNA) for Microsoft Flight Simulator, serving the Nashville Metropolitan Area with a yearly average of 18 million passengers.  Opened in June 1937, passenger service started a month later with American Airlines and Eastern Air Lines. It originally featured three runways, a three-story passenger terminal, a control tower, two hangars, and a beacon. The yearly figures hit nearly 190,000 passengers.  It was used as the headquarters for the 4th Ferrying Command during World War 2, ferrying aircraft to Europe at the height of the war. The ferrying operations demanded a lot of space, which implied an expansion to 1,500 acres of total area.Â   Nearly a decade later, the City Aviation Department made plans to modernize and expand the airport, with a new terminal, runway expansion, and a new crosswind runway to come in 1961.  As a curiosity, Nashville Intl. was the first municipal airport in the United States with a public reading room.Â   It has seen a lot of expansion work over the following years, with its peak in the late 1980s, when American Airlines made a hub in Nashville and attracted many companies to the city, such as Nissan and Saturn Corporation. The hub eventually closed in 1995, when American couldnât afford to lose any more money (it wasnât profitable even during its heyday).Â   The airport has been recently modernized, with operations starting in 2006 and reaching its conclusion five years later, expanding the ticketing and check-in areas, renovating and constructing new bathrooms, and bringing the total size of the terminal to 1 million square feet. In 2021, the operator made a plan called âNew Horizonâ to further improve the airport, at the cost of 1.5 billion USD. Construction is set to begin in 2023 and reach completion in late 2028.  The scenery features an accurate rendition of the airport, with over a hundred custom-modeled buildings, taxi bridges, custom night lighting, custom jetways, and custom ground polygon.Â   Itâs available onÂ SimMarketÂ and onÂ FeelThereâs ShopÂ for $21.39/$19.99 (respectively), requiring at least 609 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-17T00:00:00+00:00</published>
   </entry>
 </feed>
