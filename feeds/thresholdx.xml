@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-18T18:23:10.246367+00:00</updated>
+  <updated>2023-02-19T18:23:19.738940+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gfr500</id>
-    <title>Got Friends Releases Mini-500 for MSFS</title>
-    <updated>2023-02-12T00:00:00+00:00</updated>
-    <link href="/news/gfr500" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e8412b195579e079584ddc_got1.png" rel="enclosure" type="image/png" length="1932425"/>
-    <summary>Sim: MSFS. Got Friends has recently released their rendition of the Revolution Mini-500 for Microsoft Flight Simulator, a single-seat light helicopter from the 90s sold as a kit for homebuilding by Revolution Helicopter Corporation.Â   Designed to resemble a mini Hughes 500, the Mini-500 is powered by a Rotax 582 engine that produces around 64 horsepower, with a range of 225 miles and a maximum speed of 115 mph. The fuselage is made of tubular steel with a cabin made of foam and structured with glass fiber.Â   It first flew in 1992, with its official introduction in 1994, and a total of 500 kits sold until production ceased about six years later. The kits were sold for around $24,500, including the engine, the fiberglass enclosure, instruments (the basic pack), the electric starter, landing lights, and navigation lights. As most of the parts came pre-assembled at the factory, the total build time was around 40 hours.Â   The MSFS counterpart features custom MGL avionics, multiple visual effects (including downwash, combustion, heat, rain, and icing), a native flight model using the Helicopter SDK, interchangeable avionics (GTR-220 radio or GNS-530), and many custom liveries.  Itâs available on theÂ Got Friends ShopÂ for $15.00.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbche</id>
-    <title>Orbx Releases Chester Airport for MSFS</title>
-    <updated>2023-02-12T00:00:00+00:00</updated>
-    <link href="/news/orbche" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63e89333228647d8209b4b65_che1.png" rel="enclosure" type="image/png" length="1660895"/>
-    <summary>Sim: X-Plane. Orbx has recently released their rendition of Chester Airport (KSNC) for Microsoft Flight Simulator, a public-use airport serving the city of Chester, Connecticut.Â Â   Categorized by the FAA as a general aviation airport, KSNC is privately owned by Whelen Aviation and features a single runway layout with 782 meters of length. 80% of its yearly traffic (2000 data) comprises general aviation aircraft and 20% of air taxi operations, with a total of 20,800 aircraft movements.Â   As a curious fact, Chester does not have an IATA identifier as âSNCâ conflicts with General Ulpiano Paez Airport in Ecuador. Â   Developed by Matteo Veneziani, an indie, the scenery features an accurate rendition of the airport as it stands, including custom groundpoly with sloped runways and taxiways, conditional display of objects depending on weather and time of the day, and 4K textures with PBR.  Itâs available onÂ OrbxDirectÂ for roughly $9.68, requiring at least 2.36 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/t2gpap</id>
     <title>Taxi2gate Releases Pointe-Ã -Pitre International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f006fabb25c11a994ce745_nash1.jpg" rel="enclosure" type="image/jpeg" length="1222254"/>
     <summary>Sim: MSFS. FeelThere has recently released their rendition of Nashville International Airport (KBNA) for Microsoft Flight Simulator, serving the Nashville Metropolitan Area with a yearly average of 18 million passengers.  Opened in June 1937, passenger service started a month later with American Airlines and Eastern Air Lines. It originally featured three runways, a three-story passenger terminal, a control tower, two hangars, and a beacon. The yearly figures hit nearly 190,000 passengers.  It was used as the headquarters for the 4th Ferrying Command during World War 2, ferrying aircraft to Europe at the height of the war. The ferrying operations demanded a lot of space, which implied an expansion to 1,500 acres of total area.Â   Nearly a decade later, the City Aviation Department made plans to modernize and expand the airport, with a new terminal, runway expansion, and a new crosswind runway to come in 1961.  As a curiosity, Nashville Intl. was the first municipal airport in the United States with a public reading room.Â   It has seen a lot of expansion work over the following years, with its peak in the late 1980s, when American Airlines made a hub in Nashville and attracted many companies to the city, such as Nissan and Saturn Corporation. The hub eventually closed in 1995, when American couldnât afford to lose any more money (it wasnât profitable even during its heyday).Â   The airport has been recently modernized, with operations starting in 2006 and reaching its conclusion five years later, expanding the ticketing and check-in areas, renovating and constructing new bathrooms, and bringing the total size of the terminal to 1 million square feet. In 2021, the operator made a plan called âNew Horizonâ to further improve the airport, at the cost of 1.5 billion USD. Construction is set to begin in 2023 and reach completion in late 2028.  The scenery features an accurate rendition of the airport, with over a hundred custom-modeled buildings, taxi bridges, custom night lighting, custom jetways, and custom ground polygon.Â   Itâs available onÂ SimMarketÂ and onÂ FeelThereâs ShopÂ for $21.39/$19.99 (respectively), requiring at least 609 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bb7572</id>
+    <title>BlueBird Sim 757, One-Year Development Update</title>
+    <updated>2023-02-19T00:00:00+00:00</updated>
+    <link href="/news/bb7572" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f2505d1ab2a2cf1b8707b4_fuse.PNG" rel="enclosure" type="image/png" length="931493"/>
+    <summary>Sim: MSFS. BlueBird Simulations have released a youtube video in which they celebrate the one-year anniversary of the development of their upcoming Boeing 757 aircraft for MSFS. In the update, the team thanked those who have contributed to the project, answered various questions the community has had and displayed some of the aircraft's features in flight.Â  BlueBird has confirmed the expected release date is q3/q4 of 2023. They have also confirmed that they are developing both a freighter and passenger variant of the single-isle jet, the passenger variant will come first followed by the freighter expansion. The freighter and passenger jets will be two separate packages according to the team.Â  The team have also disclosed that they are aiming for a mid-level simulation, in which every switch and system needed for normal operation will be operable. It will boast a fully custom FMS with full LNAV and VNAV capability. The team have also confirmed a full virtual cabin will be in the aircraft.Â  You can watch the video here:Â </summary>
+    <published>2023-02-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fbkden1</id>
+    <title>FlightBeam Updates KDEN to V1.1.0</title>
+    <updated>2023-02-19T00:00:00+00:00</updated>
+    <link href="/news/fbkden1" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f2539d76f9542bb9be11f7_eba5cc_996d6fd0592741c498f891efdfd19e71_mv2.webp" rel="enclosure" type="image/webp" length="710378"/>
+    <summary>Sim: MSFS. Flightbeam has updated its Denver airport scenery to version 1.1.0! The new update brings a host of new features and improvements, including the new west side expansion with new gates (concourse B) It also incorporates the new and improved gen5 jetways from Flightbeam for added immersion.Â  The update is free to those who own the airport scenery and is a massive enhancement to the original scenery, this update brings Denver to the highest possible level of accuracy.Â  Full changelog:Â  â</summary>
+    <published>2023-02-19T00:00:00+00:00</published>
   </entry>
 </feed>
