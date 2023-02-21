@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-20T18:24:40.018842+00:00</updated>
+  <updated>2023-02-21T18:25:17.682710+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/t2gpap</id>
-    <title>Taxi2gate Releases Pointe-Ã -Pitre International Airport for MSFS</title>
-    <updated>2023-02-13T00:00:00+00:00</updated>
-    <link href="/news/t2gpap" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ea7bfdff8696e1b1aaf6bf_t2g1-min%20(1).png" rel="enclosure" type="image/png" length="3902723"/>
-    <summary>Sim: MSFS. Taxi2gate has recently released their rendition of Pointe-Ã -Pitre International Airport (TFFR) for Microsoft Flight Simulator, their first scenery for the ânewâ platform, originally announcedÂ a week ago.  The airport serves the city of Pointe-Ã -Pitre on the island of Grand-Terre in Guadeloupe, a french archipelago. Itâs a hub for Air CaraÃ¯bes, the local airline, which offers fourteen destinations (as of 2022) in Central America and Europe, where they have another hub (Paris-Orly). Curiously, Air France has two A320s in TFFR for regional flights. They offer five destinations in total. â  The scenery features an accurate rendition of the airport as it stands, with custom ground textures, custom photo scenery, custom mesh, carefully detailed 3D objects, realistic ground markings, numerous static objects, night lighting, a tridimensional interior, and PBR textures.  Itâs available onÂ SimMarketÂ for roughly $21.38, requiring at least 1.01 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mfskci</id>
-    <title>MFSG Releases Kochi Ryoma Airport for MSFS</title>
-    <updated>2023-02-14T00:00:00+00:00</updated>
-    <link href="/news/mfskci" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63eb6ef055fc4be58b962b62_kochi1.jpg" rel="enclosure" type="image/jpeg" length="288463"/>
-    <summary>Sim: MSFS. MFSG has recently released their rendition of Kochi Ryoma Airport (RJOK) for Microsoft Flight Simulator, serving the city of Nankoku in Kochi Prefecture. Itâs the 21st busiest airport in Japan, averaging 1.6 million passengers a year (pre-pandemic). Built on 120 hectares of land, the airport features a single (2,500-meter-long) runway, handling small to medium size aircraft. It has a single terminal building, handling domestic flights, with a few international charters. The terminal features various shops and restaurants and an observation deck on the third floor. The airport is known for its stunning natural surroundings, with views of the nearby mountains and the Pacific Ocean. Overall, KÅchi Airport provides convenient access to the beautiful region of KÅchi and its many attractions. The airport dates back to 1944 when it was built for the Royal Japanese Navy. After WW2, the US forces took charge of the airfield for eight years, when it was then converted into a civilian airport, with operations to start two years later.  The scenery features a detailed rendition of the airport as it currently stands, with custom photorealistic terrain, custom jetways, realistic ground markings, and night lighting. Itâs available on SimMarket for roughly $13.89, requiring at least 106 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vertpa</id>
     <title>Verticalsim Releases Tampa International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f2539d76f9542bb9be11f7_eba5cc_996d6fd0592741c498f891efdfd19e71_mv2.webp" rel="enclosure" type="image/webp" length="710378"/>
     <summary>Sim: MSFS. Flightbeam has updated its Denver airport scenery to version 1.1.0! The new update brings a host of new features and improvements, including the new west side expansion with new gates (concourse B) It also incorporates the new and improved gen5 jetways from Flightbeam for added immersion.Â  The update is free to those who own the airport scenery and is a massive enhancement to the original scenery, this update brings Denver to the highest possible level of accuracy.Â  Full changelog:Â  â</summary>
     <published>2023-02-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rwsfar</id>
+    <title>Realworldscenery Releases Fairbanks International Airport for MSFS</title>
+    <updated>2023-02-20T00:00:00+00:00</updated>
+    <link href="/news/rwsfar" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f3eede681ebde1bcedc025_fair1-min.jpg" rel="enclosure" type="image/jpeg" length="1115507"/>
+    <summary>Sim: MSFS. Realworldscenery has recently released their rendition of Fairbanks International Airport (PAFA) for Microsoft Flight Simulator, serving Fairbanks (Alaska), the smallest city in the country with regularly scheduled non-stop international flights.  The airportâs history dates back to 1951, when it replaced Ladd Army Airfield as the gateway to Fairbanks, serving as Alaska Airlinesâ main hub up until 1967 when they moved to Anchorage, yet keeping the Anchorage - Fairbanks service. It was also an important stopover for Braniff International, Pan American World Airways, American Airlines, and Western Airlines in the 60s and 70s. To conform with the current TSA standards, the original terminal (from 1948) was entirely demolished and replaced by a brand new one in late 2009, featuring better design and security, an extra jetway bridge (six instead of five), handling an average of 1 million passengers per year.  Itâs the hub for Everts Air, operating scheduled and charter airline cargo all across Alaska and Canada with a fleet of classic aircraft, including the C-46, the Douglas DC-6, and the Douglas MD-83. It also hosts Warbelowâs Air Ventures and Wright Air Service. The scenery features an accurate rendition of the airport, with PBR textures, custom-made buildings, performance-friendly optimization, and a realistic taxiway layout.  Itâs available on SimMarket for roughly $18.58, requiring at least 1.3 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/salber</id>
+    <title>Salvuz Releases Bergen Airport for MSFS</title>
+    <updated>2023-02-20T00:00:00+00:00</updated>
+    <link href="/news/salber" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f3fbca8a0b4eb5c41a7929_sal1-min%20(1).png" rel="enclosure" type="image/png" length="3619390"/>
+    <summary>Sim: MSFS. Salvuz has recently released their rendition of Bergen Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6 million passengers.  Dating back to the early 1950s, Bergen Airport was partially funded by the municipalities of Bergen and Fana with 4 million Norwegian kroner, securing the construction of a terminal and a 1,460-meter-long runway. NATO funded an expansion in 1953, warranting a 2,440-meter-long runway instead. When the first flight landed at the airport in mid-1954, only 800 meters of it were complete. It was a chartered flight from Bergen to Oslo, transporting a local football team.  Itâs a hub for Norwegian Air Shuttle, Scandinavian Airlines, and WiderÃ¸e, with an extensive domestic and intra-European network. According to 2014 data, Scandinavian Airlines had 46% of the market share for domestic flights, Norwegian had 38%, and WiderÃ¸e 15%. International-wise, Norwegian led the way with 36%, SAS had 23%, and KLM with 18% (with a single route to Amsterdam).Â   The scenery features an accurate rendition of the airport, sporting handcrafted buildings and facilities with detailed interiors, PBR texturing in 2K or 4K, two custom jetway models, precise terrain markings according to the latest charts, sloped runways with accurate altitude profiles, and parking stands as per latest AIP charts.  Itâs available onÂ SimMarketÂ for roughly $21.24, requiring at least 1.6 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-20T00:00:00+00:00</published>
   </entry>
 </feed>
