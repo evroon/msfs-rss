@@ -2,37 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-02-21T18:25:17.007561+00:00</updated>
+  <updated>2023-02-22T18:25:26.656233+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-vii-cessna-195-businessliner/</id>
-    <title>Local Legend VII: Cessna 195 Businessliner</title>
-    <updated>2022-09-29T16:09:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-vii-cessna-195-businessliner/" rel="alternate"/>
-    <summary>In conjunction with World Update XI: Canada, Microsoft Flight Simulator today released its latest aircraft in the “Local Legends” series of planes. Manufactured by Carenado, the 195 Businessliner is a single-engine, high-wing general aviation and utility airplane by American aviation manufacturer, Cessna. The aircraft is one of a small family of two consisting of the … Continued</summary>
-    <published>2022-09-29T16:09:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-hispanic-and-latino-aviation-resources-you-should-know/</id>
-    <title>Community Spotlight: Hispanic and Latino Aviation Resources You Should Know</title>
-    <updated>2022-10-11T15:10:24+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-hispanic-and-latino-aviation-resources-you-should-know/" rel="alternate"/>
-    <summary>From the early days of flight, we often recognize common household aviator names in history such as the great Amelia Earhart, The Wright Brothers, Charles Lindbergh, and countless others. We love to spotlight as many of these incredible aviation pioneers as we can in gratitude for what they did to shape aviation into what it … Continued</summary>
-    <published>2022-10-11T15:10:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/40th-anniversary-stream-schedule/</id>
-    <title>40th Anniversary Stream Schedule</title>
-    <updated>2022-11-11T23:11:24+00:00</updated>
-    <link href="https://www.flightsimulator.com/40th-anniversary-stream-schedule/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2022/11/Stream_Schedule-1-1024x576.png" rel="enclosure" type="image/png" length="179003"/>
-    <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
-    <published>2022-11-11T23:11:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-2nd-2023-development-update/</id>
     <title>February 2nd, 2023 Development Update</title>
@@ -77,5 +52,30 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/nin_aoironinja-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="68037"/>
     <summary>Following-up on our update from last week, the development team continues to prepare the first Sim Update 12 beta for release to those players who have opted in to receive test builds.</summary>
     <published>2023-02-17T01:38:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-hispanic-and-latino-aviation-resources-you-should-know/</id>
+    <title>Community Spotlight: Hispanic and Latino Aviation Resources You Should Know</title>
+    <updated>2022-10-11T15:10:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-hispanic-and-latino-aviation-resources-you-should-know/" rel="alternate"/>
+    <summary>From the early days of flight, we often recognize common household aviator names in history such as the great Amelia Earhart, The Wright Brothers, Charles Lindbergh, and countless others. We love to spotlight as many of these incredible aviation pioneers as we can in gratitude for what they did to shape aviation into what it … Continued</summary>
+    <published>2022-10-11T15:10:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/40th-anniversary-stream-schedule/</id>
+    <title>40th Anniversary Stream Schedule</title>
+    <updated>2022-11-11T23:11:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/40th-anniversary-stream-schedule/" rel="alternate"/>
+    <summary>Next week we will be hosting several Anniversary streams! Each stream will take place at 2000Z / 12PM PST, with the exception of our Dev Q&amp;A which will be at 1830Z.</summary>
+    <published>2022-11-11T23:11:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/americas-first-black-astronauts/</id>
+    <title>America’s First Black Astronauts</title>
+    <updated>2023-02-21T19:07:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/americas-first-black-astronauts/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/robertlawrence1.jpg" rel="enclosure" type="image/jpeg" length="68166"/>
+    <summary>During the Cold War space race of the 1960s, there were three truths about American astronauts: Every astronaut was a major celebrity, mobbed by the media and an adoring public alike wherever they went. Every astronaut was recruited to the space program exclusively from the ranks of military test pilots. Every astronaut was a white … Continued</summary>
+    <published>2023-02-21T19:07:46+00:00</published>
   </entry>
 </feed>
