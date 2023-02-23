@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-22T18:25:33.107381+00:00</updated>
+  <updated>2023-02-23T18:26:11.968771+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vertpa</id>
-    <title>Verticalsim Releases Tampa International Airport for MSFS</title>
-    <updated>2023-02-14T00:00:00+00:00</updated>
-    <link href="/news/vertpa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ec06a25f90b7e2d650c2e2_tampa1.jpg" rel="enclosure" type="image/jpeg" length="1075288"/>
-    <summary>Sim: MSFS. Verticalsim has recently released their rendition of Tampa International Airport (KTPA) for Microsoft Flight Simulator, serving the Tampa Bay Area in Florida with more than 93 non-stop destinations throughout the globe.  Tampa is known as the birthplace of commercial airline service, when a Benoist Flying Boat took off from St. Petersburg (Florida) to Tampa Airboat Line in early 1914, consecrating itself as the first scheduled commercial flight in the world. It was a 23-mile-long flight, and the service ran for about five months. The airport itself dates back to 1928, then called Drew Field. It was heavily used during WW2 for training, where it underwent modernization and expansion.Â   Post-war, it went back to its original role of being just an airport, with its first international flights to begin a couple of years later, in 1950. A new terminal reached completion not long after, in 1952. A decade later, with the popularity of jet aircraft and many new airlines flying to Tampa, expansion became a priority, with the authorities planning a replacement terminal in an undeveloped site at the airport, whose production kicked off in 1968 and completion came three years later, increasing the capacity and consolidating Tampa as an important domestic and international destination.Â   The airport collects several quality awards, including Best Overall U.S. Airport in 2007 and 2008 by Zagat Survey, Second Best Airport in the World by CondÃ© Nas in 2008, and 6th place on CNNâsÂ Ten of the Worldâs Most Loved Airports, and itâs considered by Airports Council International as the best airport in America for its size (2020).  With an average of 20 million passengers yearly, Tampa is served by most major domestic airlines, including Southwest (27.81% of the market share), Delta Air Lines (17.52% of the market share), American Airlines (16.89% of the market share), United Airlines (10.69% of the market share), and Spirit Airlines (10.03% of the market share). The top domestic destinations list includes Atlanta (925,000 passengers), Chicago-OâHare (463,000), and Charlotte (450,000).  The scenery features an accurate rendition of the airport as it currently stands, with an updated taxiway layout, animated passengers with âhalf-interiorâ airside and terminals, proper AI routing and vehicle pathing, realistic airline codes, custom taxi signs, custom airport lighting, a blend of custom and photorealistic imagery, animated HVAC fans, flags, and trams, handcrafted mesh with taxiway bridges, high-resolution color-graded imagery, surrounding area landmarks (Raymond James, International Plaza, Grand Hyatt, etc.).  Itâs available on Verticalsimâs Shop for $21.99, requiring at least 4.12 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/navios</id>
     <title>Navigraph Charts Beta Release for IOS and Android </title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f3fbca8a0b4eb5c41a7929_sal1-min%20(1).png" rel="enclosure" type="image/png" length="3619390"/>
     <summary>Sim: MSFS. Salvuz has recently released their rendition of Bergen Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6 million passengers.  Dating back to the early 1950s, Bergen Airport was partially funded by the municipalities of Bergen and Fana with 4 million Norwegian kroner, securing the construction of a terminal and a 1,460-meter-long runway. NATO funded an expansion in 1953, warranting a 2,440-meter-long runway instead. When the first flight landed at the airport in mid-1954, only 800 meters of it were complete. It was a chartered flight from Bergen to Oslo, transporting a local football team.  Itâs a hub for Norwegian Air Shuttle, Scandinavian Airlines, and WiderÃ¸e, with an extensive domestic and intra-European network. According to 2014 data, Scandinavian Airlines had 46% of the market share for domestic flights, Norwegian had 38%, and WiderÃ¸e 15%. International-wise, Norwegian led the way with 36%, SAS had 23%, and KLM with 18% (with a single route to Amsterdam).Â   The scenery features an accurate rendition of the airport, sporting handcrafted buildings and facilities with detailed interiors, PBR texturing in 2K or 4K, two custom jetway models, precise terrain markings according to the latest charts, sloped runways with accurate altitude profiles, and parking stands as per latest AIP charts.  Itâs available onÂ SimMarketÂ for roughly $21.24, requiring at least 1.6 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inokla</id>
+    <title>iniBuilds Releases Oklahoma City Airport for MSFS</title>
+    <updated>2023-02-23T00:00:00+00:00</updated>
+    <link href="/news/inokla" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f6b84ae13839444842302f_mat1.png" rel="enclosure" type="image/png" length="1643375"/>
+    <summary>Sim: MSFS. IniBuilds has recently released the next airport in the Iniscene line, Oklahoma City Will Rogers Airport (KOKC), for Microsoft Flight Simulator. The Will Rogers airport is the busiest in the state of Oklahoma serving over 3.3 million passengers annually.Â  The airport started its life in 1911 as Oklahoma City Municipal Airport and served many squadrons of the United States Army Air Force during World War II. The airport was given its current name in 1941 in memory of Will Rogers, a famous comedian and cowboy native to Oklahoma.Â  Today the airport is home to several airlines and a few Oklahoma Air National Guard Wings. Southwest Airlines serves Will Rogers airport as a focus city serving over 10 destinations from the airport. United Airlines, American Airlines, Delta Airlines, Alaska Airlines, and Frontier all also serve the airport. Features of this scenery include: This airport can be picked up for Â£14.99 GBP ($18.15 USD) from the IniBuilds Store and will require roughly 4.87 Gb to install. Huge thanks to Tang0 on the Threshold Discord for bringing us this news scoop.Â  â</summary>
+    <published>2023-02-23T00:00:00+00:00</published>
   </entry>
 </feed>
