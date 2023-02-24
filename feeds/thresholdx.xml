@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-23T18:26:11.968771+00:00</updated>
+  <updated>2023-02-24T18:25:30.114236+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/navios</id>
-    <title>Navigraph Charts Beta Release for IOS and Android </title>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="/news/navios" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ecf9699462032e52b73501_navigraph.jpg" rel="enclosure" type="image/jpeg" length="274608"/>
-    <summary>Sim: MSFS. Flight sim navigation services provider Navigraph has just announced an open BETA for their charts application on mobile devices that operate using either IOS or Android. This is welcome news to many in the flight sim community who have been waiting eagerly for the announcement.Â  Instructions to sign up on IOS are as follows: press the link to Join the TestFlight beta program below. The Charts app will be installed via the TestFlight app. Links for the Android-based APK and other information surrounding the beta can be found on the Navigraph website.Â  â</summary>
-    <published>2023-02-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/iniokc</id>
-    <title>iniBuilds Announces Oklahoma City Airport for MSFS</title>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="/news/iniokc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed4e066624e16f8534be7d_okc1-min.png" rel="enclosure" type="image/png" length="1480883"/>
-    <summary>Sim: MSFS. iniBuilds hasÂ recently announcedÂ the development of Oklahoma City Airport (KOKC) for Microsoft Flight Simulator, the busiest commercial airport in Oklahoma with a yearly average of 4 million passengers.  Oklahoma City Airport, or Will Rogers World Airport, first opened in 1911 as Oklahoma City Municipal Airfield renamed 30 years later after Will Rogers. It served as a major training facility during WW2, with over fifteen air force groups stationed there over the course of the war. Post-war saw commercial activity in the late fifties, with over 48 daily commercial flights from different airlines.Â  â In the late 90s, expansion talks ensued from the old age of the original terminal, dating back to 1967. Plans launched not much later, in 2001, with the demolition of the twin concourses to make room for the new project: a larger terminal with high ceilings and modern facilities. One hundred and ten million dollars, and five years later, the project finally reached completion, with the third phase still pending.  The aforementioned third phase only happened in March 2019, finishing roughly two years later, substantially increasing the passenger handling capacity and the overall quality of the facilities.  iniBuildsâ rendition will feature an accurate rendition of the airport as it stands, with a fully modeled interior, up-to-date airport and terminal layout, HD textures, 3D people, detailed jetways, correct airline parking allocations, fully modeled landside, and custom taxi signs.Â   Thereâs no information regarding pricing or a release date yet, but Threshold will keep you informed! â</summary>
-    <published>2023-02-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/shaazi</id>
-    <title>Shadescene Releases Sultan Abdul Aziz Shah Airport for MSFS</title>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="/news/shaazi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed59d949b58bbd48b7bfca_subcover-min.png" rel="enclosure" type="image/png" length="1394293"/>
-    <summary>Sim: MSFS. Shadescene has recently released their rendition of Sultan Abdul Aziz Shah Airport (WMSA) for Microsoft Flight Simulator, serving the township of Subang, in Petaling District (Selangor, Malaysia), with a yearly average of 2 million passengers.  It used to be Kuala Lumpurâs main airport from 1965 to 1998, before the opening of Kuala Lumpur International Airport in Sepang. Original plans suggested a conversion to a low-cost carrier base, but the residents voted against it. It was repurposed to serve general aviation and turboprop domestic and international flights.  Itâs the base for SKS Airways, Firefly, Batik Air Malaysia, and Raya Airways.Â   The scenery features an accurate rendition of the airport as it stands, with a replica of the famous old terminal 1, custom terraforming, custom scenery objects for the terminal, high-resolution textures, hand-placed taxiways, and runway light system, full day and night lighting, and hand-crafted ground markings and textures. â Itâs available onÂ SimMarketÂ for roughly $12.90 (currently on sale for 10.71), requiring at least 140 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/boulin</id>
-    <title>Boundless Publishes Further Information on Dublin Update for X-Plane 12</title>
-    <updated>2023-02-16T00:00:00+00:00</updated>
-    <link href="/news/boulin" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ed89e34f9bfc9fb4a53a04_boundless1.jpg" rel="enclosure" type="image/jpeg" length="358209"/>
-    <summary>Sim: X-Plane. Boundless has recently posted on theirÂ Facebook pageÂ with new information on the upcoming update for Dublin Airport (EIDW), including pricing, upgrade fees, and more.Â   Dublin Airport is the 12th busiest airport in Europe, with a yearly average of 30 million passengers. It hosts their flag carrier Aer Lingus, the low-cost carrier beast Ryanair, and TUI Airways, with a significant route network that encompasses most of Europe and some key cities in North America.Â   AsÂ previously mentioned, the new update will include full X-Plane 12 compatibility, overhauled lighting, the integration of the new runway, Terminal 1 lighting improvements, airside traffic (X-Plane 12), new fence models, new ground textures, partially photorealistic textures based on 2023 imagery, performance improvements, general bug fixes, new ground service equipment vehicles with updated liveries, road network improvements, and more. They have now mentioned the addition of optional animated ground traffic using the Living Scenery Technology plugin, with instructions to be included with the download.Â   The base price of the Dublin package will be increased from roughly $24 to $26.47, reflecting the additional work and expenses. It will be a free upgrade for existing users. Threshold will let you know once the scenery is out! â</summary>
-    <published>2023-02-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fre767</id>
     <title>Project76 B767 Updated to Version 0.6.7</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f6b84ae13839444842302f_mat1.png" rel="enclosure" type="image/png" length="1643375"/>
     <summary>Sim: MSFS. IniBuilds has recently released the next airport in the Iniscene line, Oklahoma City Will Rogers Airport (KOKC), for Microsoft Flight Simulator. The Will Rogers airport is the busiest in the state of Oklahoma serving over 3.3 million passengers annually.Â  The airport started its life in 1911 as Oklahoma City Municipal Airport and served many squadrons of the United States Army Air Force during World War II. The airport was given its current name in 1941 in memory of Will Rogers, a famous comedian and cowboy native to Oklahoma.Â  Today the airport is home to several airlines and a few Oklahoma Air National Guard Wings. Southwest Airlines serves Will Rogers airport as a focus city serving over 10 destinations from the airport. United Airlines, American Airlines, Delta Airlines, Alaska Airlines, and Frontier all also serve the airport. Features of this scenery include: This airport can be picked up for Â£14.99 GBP ($18.15 USD) from the IniBuilds Store and will require roughly 4.87 Gb to install. Huge thanks to Tang0 on the Threshold Discord for bringing us this news scoop.Â  â</summary>
     <published>2023-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/navmob</id>
+    <title>Navigraph Releases Mobile Charts for Smartphones and Highly Detailed Airport Diagrams</title>
+    <updated>2023-02-23T00:00:00+00:00</updated>
+    <link href="/news/navmob" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f7cba22f3f85d204a6da43_Charts-Mobile-Screens.png" rel="enclosure" type="image/png" length="1400015"/>
+    <summary>Sim: X-Plane. Navigraph has recently released the mobile/smartphone version of their recently released Charts 8 update, offering the same feature set as the tablet version but adapted to smaller screens. Charts Cloud, their browser-based version of the application, was also made compatible with smartphone screen aspect ratios.  The Charts 8 update came out in early November 2022, adding worldwide VFR charts coverage, drag-and-drop rubber band route construction, seamless zoom down to gate level, and 3D globe projection. It was developed with an emphasis on delivering a seamless and intuitive experience, reducing the pilot workload during a simulated flight. The new mobile app will allow users to experience said update on Android and iPhone devices.  Along with the new mobile charts for smartphones, Navigraph has also updated the Charts system with highly detailed airport diagrams rendered from the Jeppesen Airport Mapping Database (AMDB), featuring over a thousand airports around the globe. Itâs said to facilitate a pilotâs situational awareness by allowing them to view essential references.  The Airport Mapping Database (AMDB) is a set of information on specific airports including their spatial layout, their geometry (taxiways, runways, buildings, etc.), and other characteristics such as runway surface type and slope, etc.  The update is available right now for Navigraph Unlimited subscribers. ClickÂ hereÂ to find out more about the Unlimited plan and its features. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nzacia</id>
+    <title>NZA Simulations Releases Christchurch International Airport for MSFS</title>
+    <updated>2023-02-24T00:00:00+00:00</updated>
+    <link href="/news/nzacia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f8109287c96cd8ec4be544_chr1.jpg" rel="enclosure" type="image/jpeg" length="1118538"/>
+    <summary>Sim: MSFS. NZA Simulations has recently released their rendition of Christchurch International Airport (NZCH) for Microsoft Flight Simulator, the third busiest airport in New Zealand with a yearly average of 6 million passengers. Opened in 1940 as RNZAF Station Harewood (the airport is located in Harewood, a suburb of Christchurch), it got its first bits of infrastructure around six years later, with the construction of a passenger terminal and hangars. The clearance for international operations came in 1950, making it New Zealandâs first international airport. Itâs the hub for Air New Zealand, with a significant domestic network covering most relevant cities within the country, including Auckland, Dunedin, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, and Wellington. The coverage also extends to Australia, with Brisbane, Gold Coast, Melbourne, and Sydney. The visitorsâ list includes Cathay Pacific (returning in November 2023), Emirates (returning in March 2023), Fiji Airways, Jetstar Airways, Qantas, and Singapore Airlines. In total, there are 18 domestic and 11 international destinations, with 1057 weekly flights as of 2015. The scenery features a high-quality rendition of the airport, with full 3D custom modeling including the surrounding business parks (roughly 300 in total), the runways and apron are built with PBR materials, realistic ground markings, realistic roads, high resolution aerial imagery, terra-formed runway, parking positions setup with correct airline codes, interiors for the main terminal, custom jetway sounds, animated jetways (custom for each gate, matching real life), animated 3D people, animated custom AI vehicles around the airport, and a working surveillance radar. Itâs available on the NZA Simulations Shop or OrbxDirect for $25.46/$25.38, respectively. At least 4.27 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wupdnz</id>
+    <title>Microsoft Releases World Update XII: New Zealand</title>
+    <updated>2023-02-24T00:00:00+00:00</updated>
+    <link href="/news/wupdnz" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f81b62f108693de8e05de7_nz1.jpg" rel="enclosure" type="image/jpeg" length="326542"/>
+    <summary>Sim: MSFS. Microsoft has recently released the 12th World Update, improving New Zealand with seven high-detail cities, multiple points of interest, nine handcrafted airports, new bush trips, discovery flights, and challenges. The new update brings together the latest geographic data, including satellite imagery, aerial photography, and digital elevation models (DEMs), with high-detail renditions of seven cities: Auckland, Christchurch, Hamilton, Nelson, Queenstown, Tauranga, and Wellington.  The complete feature list follows down below: Points of Interest â Handcrafted Airports Bush Trips â Discovery Flights Â  Landing Challenges â The World Update is available for free on the MSFS Marketplace.Â Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inbf10</id>
+    <title>iniBuilds Releases Bf108 Taifun for MSFS</title>
+    <updated>2023-02-24T00:00:00+00:00</updated>
+    <link href="/news/inbf10" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f8cf130fc60bf70eb8cad5_taif1.webp" rel="enclosure" type="image/webp" length="374950"/>
+    <summary>Sim: MSFS. iniBuilds has recently released their rendition of the Bf108 Taifun for Microsoft Flight Simulator, a single-engine sport aircraft from the early 1930s.Â   Designed to compete in the 4th Challenge International de Tourisme in 1934, a major aviation event in pre-war Europe held in Warsaw, Poland, the Taifun was then just a prototype called M34, powered by a 247 horsepower Hirth HM 8U V8 engine, which didnât manage to win the event but impressed with a low fuel consumption rate, good handling and itâs superb take-off/landing characteristics.  The Bf108a, the first variant, took off for the first time in that same year, powered by three different engines (on different airframes): the original Hirth HM 8U, the Argus As 17B with 217 hp, and later units had a Siemens-Halske Sh 14 radial, with 158hp. The Bf108b was a revision whose prototype rocked a Siemens-Halske Sh 14a radial, but the production units had either the Argus AS 10C (237hp) or the Argus AS 10E (266hp).  iniBuildsâ second classic aircraft for Microsoft Flight Simulator makes use of the latest CFD technology including the primary flight surfaces, control surfaces, and the propeller. It also simulates unique characteristics of the airplane such as the capability of landing as slow as 45 knots thanks to its advanced leading edge slats. Such slow speed allows it to operate on very short runways.  The engine is accurately reproduced with its correct performance and behavior, with a fully modeled and functional fuel system that makes use of the new fuel mechanics offered by the simulator.Â   A custom electronic flight bag allows for folding and unfolding the wings, opening storage compartments, choosing a custom rain cover, and changing the cockpit labels from German to English and from metric to imperial. It also features a moving map, weather information, a maintenance page, and other settings.  The aircraft is available on theÂ iniBuilds StoreÂ for roughly $18.01, requiring at least 2.66 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-24T00:00:00+00:00</published>
   </entry>
 </feed>
