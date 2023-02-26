@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-25T18:24:00.799667+00:00</updated>
+  <updated>2023-02-26T18:23:36.570240+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simupd</id>
-    <title>Simbrief Receives Massive Update and OverhaulÂ </title>
-    <updated>2023-02-16T00:00:00+00:00</updated>
-    <link href="/news/simupd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee3e38bcfb61e9a3cf71b9_Logo_SimBrief_Navigraph.png" rel="enclosure" type="image/png" length="53395"/>
-    <summary>Sim: MSFS. Simbrief is the most popular and widely used flight sim dispatch system which is offered for free by parent company Navigraph. Itâs been a considerable amount of time since anything major has changed with SimBrief after the acquisition by Navigraphâ¦ Until now that is! Simbrief has received a complete re-design and new look which streamlines the entire service and gives it a fresh, new, easy-to-use look.Â  The new SimBrief look has certainly gone down well with the flight sim community so far since its release a short time ago, many think it is a fantastic new design which not only makes it easier to use but adds more neat features such as personal flying statistics.Â  â Other new features in this update include:Â  You can check this latest version of simbrief out for yourself over at www.simbrief.com â</summary>
-    <published>2023-02-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rfsbru</id>
-    <title>Rfscenerybuilding Releases Brussels South Charleroi Airport for MSFS</title>
-    <updated>2023-02-16T00:00:00+00:00</updated>
-    <link href="/news/rfsbru" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ee9457b3a8f928620b0319_bru1.png" rel="enclosure" type="image/png" length="3260154"/>
-    <summary>Sim: MSFS. Rfscenerybuilding has recently released their rendition of Brussels South Charleroi Airport (EBCI) for Microsoft Flight Simulator, also referred to as Brussels-Charleroi Airport. It is the second busiest airport in Belgium, with a yearly average of 8 million passengers (pre-pandemic).  Charleroi is a popular low-cost alternative to Brussels Airport (EBBR), being an important hub for Ryanair, WizzAir, and TUI fly Belgium, both offering an extensive intra-European network. Itâs also home to Air Belgium, a scheduled and charter airline founded six years ago offering many holiday destinations, including Guadeloupe, Martinique, Mauritius, and South Africa. The history of Brussels-Charleroi dates back to 1919 when it used to be a flying school, with maintenance activities to start a year later. To this day, itâs still a busy general aviation airfield with three flying schools.  The airportâs traffic grew in the late 1990s when Ryanair embraced Charleroi for the first time (it went on to become one of their continental bases). Other low-cost carriers like WizzAir soon joined the trend, increasing the traffic figures and justifying the construction of a new terminal, which opened in early 2008 with a capacity for up to 5 million passengers a year. It wasnât long until it reached that limit, which led to the creation of a second terminal in 2017, accommodating up to 10 million passengers a year.  The scenery features an accurate rendition of the airport as it stands, with custom buildings around the area, custom vehicles, custom objects and clutter, navigation infrastructure, and custom lighting. Itâs available on SimMarket for roughly $19.26, requiring at least 680 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/evex12</id>
-    <title>Everest UHD Scenery For XP12 </title>
-    <updated>2023-02-17T00:00:00+00:00</updated>
-    <link href="/news/evex12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63ef825ab5f56962971c7e17_A11F.jpg" rel="enclosure" type="image/jpeg" length="226719"/>
-    <summary>Sim: X-Plane. Talented scenery developers, Frank Dainese and Fabio Bellini have teased the latest project of their mountain scenery masterpieces, Everest UHD for XP12. This brings the Nepal mountain range and an area of around 7000 square Kilometers of stunning scenery to Xplane 12. The other detailed mountains included are Lhotse, Makalu, Cho Oyu, Nuptse, Pumori, Ama Dablam, Taboche and Baruntse. All were reconstructed in 3D with models derived from further modified DEM data. The scenery also includes in-depth recreations of 7 airports including the infamous Lukla and 8 heliports.Â  It is currently unclear as to when exactly this scenery will become available but we expect it won't be very long!Â  â</summary>
-    <published>2023-02-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbmoe</id>
     <title>Orbx Releases Oslo Gardermoen Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f9bd57d5c4ba3c1dfad474_turku1.jpg" rel="enclosure" type="image/jpeg" length="800719"/>
     <summary>Sim: MSFS. MM Simulations has recently released their rendition of Turku Airport (EFTU) for Microsoft Flight Simulator, serving the city of Turku in Finland with a yearly average of 450,000 passengers, making it the fourth busiest airport in the country. Located in the airport district in the Maaria-Paatinen ward, which is the most sparsely populated district in Turku and includes half of the cityâs area, it was built in 1955 when it was still part of Rusko, becoming part of Turku three years later.  Turku Airport underwent a heavy renovation process in mid-2014 when Finavia spent over 14 million euros on improving Terminal One and the passenger apron. Terminal 2 was closed and demolished a year later after an oil leakage, concentrating the low-cost operations on the first floor of the main terminal. Itâs currently served by six different airlines: AirBaltic (Riga), Amapola Flyg (Mariehamn), Finnair (Helsinki), Scandinavian Airlines (Stockholm-Arlanda), Sunclass Airlines (seasonal legs to Gran Canaria and Tenerife South), and WizzAir (Gdansk and Rome Fiumicino). Gdansk is the busiest route as of 2019, with 117,261 passengers, followed by Helsinki and Stockholm, with 100,086 and 86,331, respectively. The scenery features an accurate rendition of the airport, with updated CGL data, real-world-based terraforming profile, PBR materials, ambient animated objects, custom interior modeling, and custom 3D people. Itâs available on SimMarket for roughly $15.86, requiring at least 2.44 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpgib</id>
+    <title>RDPresets Releases Gibraltar International Airport for MSFS</title>
+    <updated>2023-02-25T00:00:00+00:00</updated>
+    <link href="/news/rdpgib" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fa87ca5f80df35b501c500_gibby1.jpg" rel="enclosure" type="image/jpeg" length="2502245"/>
+    <summary>Sim: MSFS. RDPresets has recently released their rendition of Gibraltar International Airport (LXGB) for Microsoft Flight Simulator, the fifth most extreme airport in the World according to the History ChannelâsÂ Most Extreme Airports.Â Â   Dating back to early World War 2, it was built as an emergency airfield for the British Royal Navy, with runway extensions to happen later on once some of the land was reclaimed by using rocks from the Rock of Gibraltar (what remained of carving military tunnels).Â   The airport saw most of its business flourish in the early 2000s when Monarch began flying from Manchester. Iberia, easyJet, and British Airways followed suit not soon after. Nowadays, British Airways and easyJet are the only two airlines serving Gibraltar frequently with routes to London-Heathrow (BA) and Bristol, London Gatwick, and Manchester (EZY), roughing up to 400,000 passengers a year.  The scenery features an accurate rendition of the airport, with custom models, PBR texturing, a terminal interior with 3D passengers, more than a thousand clutter objects, realistic and functioning runway crossing (cars stop when turning the strobe light on), custom ground textures, performance-friendly optimization, accurate night lighting, custom taxiway signage, custom ground traffic, and over twenty animations.Â   Itâs available on theÂ RDPresets StoreÂ andÂ SimMarketÂ for roughly $21.13/$19.02, respectively. At least 1.3 GB of free disk space is required to install the product. â</summary>
+    <published>2023-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p73763</id>
+    <title>PMDG Updates 737 Lineup for MSFS</title>
+    <updated>2023-02-25T00:00:00+00:00</updated>
+    <link href="/news/p73763" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fa932fe014bebc53f436d6_pine1.png" rel="enclosure" type="image/png" length="2595376"/>
+    <summary>Sim: MSFS. PMDG has recently updated their 737 lineup to version 3.00.0063 for Microsoft Flight Simulator, bringing a range of minor fixes and improvements along with an Operations Center update.  In order to update the product, customers have to manually update the Operations Center, as the automatic update system is not working. The instructions are available on the announcement postÂ here.Â   As previously mentioned, itâs a minor update with improvements to the whole lineup with the intent to "move the quality forward", as stated by the CEO. The complete changelog follows down below:  â After the release of the -900, they claim to focus on general fixes, updates to the existing logic, and merging in the new navdata. Work also continues on the Universal Flight Tablet. They finished off with a note on the MSFS Beta Channel, especially regarding the SU12 compatibility, where it's stated they might hold off on updates until SU12 is out to the public, with an eventual beta channel on the Operations Center that would allow PMDG to push updates to both stable and beta (something for the future after the tablet is out and they are happy with all the pending improvements). Â  The 737 lineup is available on theÂ PMDG ShopÂ for $34.99 (737-600), $49.99 (737-900), and $69.99 (737-700 and 737-800, individually).Â  Pictures are courtesy of Pineapple_Wizard. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bwssan</id>
+    <title>Borneo Wonder Sceneries Releases Sandakan Airport for MSFS</title>
+    <updated>2023-02-26T00:00:00+00:00</updated>
+    <link href="/news/bwssan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fb6f9570220e8e9e9d34c1_sanda1.png" rel="enclosure" type="image/png" length="3358680"/>
+    <summary>Sim: MSFS. Borneo Wonder Sceneries has recently released their rendition of Sandakan Airport (WBKS) for Microsoft Flight Simulator, serving Sandakan, the capital of the Sandakan District in Sabah, Malaysia.Â   Sandakan Airportâs history dates back to World War 2 when the Royal Air Force picked the site to build an airfield but didnât actually get to do much other than get rid of the vegetation before the Japanese invasion of Borneo. The Japanese Army, on the other hand, needed a refueling stop between the peninsular Malaya and the Philippines, transferring over 1,500 prisoners of war from the UK and Australia to work on the construction. Work started in August 1942 and saw partial completion by December of that same year, when a bomber aircraft landed in Sandakan for the first time, opening it for service.Â   The runway was recently extended to 2,500m, with an expansion plan that goes all the way back to 2017, with operations commencing in 2019 but delayed due to the pandemic and finally reaching completion in 2022, allowing the operation of popular narrowbody aircraft like the B737, A320, and the A321. Widebody aircraft can also operate on it with payload/range restrictions.Â   Itâs served by AirAsia (Kota Kinabalu, Kuala Lumpur), Malaysia Airlines (Kota Kinabalu, Kuala Lumpur), and MASwings (Kudat, Lahad Datu, Tawau), averaging around 900,000 passengers yearly.  The scenery features an accurate rendition of the airport, with a fully modeled terminal (including interior), landside buildings, custom ground textures, custom ground markings, and a custom jetway model.  Itâs available onÂ SimMarketÂ for roughly $11.63, requiring at least 899 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-26T00:00:00+00:00</published>
   </entry>
 </feed>
