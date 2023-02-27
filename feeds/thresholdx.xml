@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-26T18:23:36.570240+00:00</updated>
+  <updated>2023-02-27T18:26:00.063498+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbmoe</id>
-    <title>Orbx Releases Oslo Gardermoen Airport for MSFS</title>
-    <updated>2023-02-17T00:00:00+00:00</updated>
-    <link href="/news/orbmoe" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63efeded4697640e5616d345_garden.png" rel="enclosure" type="image/png" length="2060806"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, the busiest airport in Norway with 30 million passengers per year. Opened 25 years ago, Gardermoen replaces the outdated Fornebu Airport, which used to be the main airport in Oslo from its inception in 1939 to 1998. Bigger, substantially more modern, and with better accessibility, the new airport went on to become the busiest airport in Scandinavia.  Sporting over 200 destinations (domestic and international), OSL is a hub for Norse Atlantic Airways, Norwegian Air Shuttle, Scandinavian Airlines, and Wideroe. The visitors' list includes most major european airlines, such as Air France, Austrian Airlines, British Airways, Brussels Airlines, Eurowings, Finnair, Iberia, KLM, LOT Polish Airlines, Lufthansa, Ryanair, Swiss, TAP Air Portugal, Turkish, and WizzAir. Trondheim (2,092,000), Bergen (1,987,000), and Stavanger (1,603,000) are among the top three busiest destinations from Gardermoen, further reinforcing the strength of domestic operations in the airport.  The scenery features detailed modeling and texturing of the terminal and surrounding buildings and hangars, with PBR texturing in 4K, interior modeling, three different types of animated jetways to match the real world, fully functioning VDGS for all appropriate gates, animated traffic, custom ground service equipment, and performance-friendly optimization.  Itâs available on OrbxDirect for roughly $20.62, requiring at least 6.34 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/f2hlog</id>
     <title>Fly2High Releases Lognes Airfield for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/bwssan" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fb6f9570220e8e9e9d34c1_sanda1.png" rel="enclosure" type="image/png" length="3358680"/>
     <summary>Sim: MSFS. Borneo Wonder Sceneries has recently released their rendition of Sandakan Airport (WBKS) for Microsoft Flight Simulator, serving Sandakan, the capital of the Sandakan District in Sabah, Malaysia.Â   Sandakan Airportâs history dates back to World War 2 when the Royal Air Force picked the site to build an airfield but didnât actually get to do much other than get rid of the vegetation before the Japanese invasion of Borneo. The Japanese Army, on the other hand, needed a refueling stop between the peninsular Malaya and the Philippines, transferring over 1,500 prisoners of war from the UK and Australia to work on the construction. Work started in August 1942 and saw partial completion by December of that same year, when a bomber aircraft landed in Sandakan for the first time, opening it for service.Â   The runway was recently extended to 2,500m, with an expansion plan that goes all the way back to 2017, with operations commencing in 2019 but delayed due to the pandemic and finally reaching completion in 2022, allowing the operation of popular narrowbody aircraft like the B737, A320, and the A321. Widebody aircraft can also operate on it with payload/range restrictions.Â   Itâs served by AirAsia (Kota Kinabalu, Kuala Lumpur), Malaysia Airlines (Kota Kinabalu, Kuala Lumpur), and MASwings (Kudat, Lahad Datu, Tawau), averaging around 900,000 passengers yearly.  The scenery features an accurate rendition of the airport, with a fully modeled terminal (including interior), landside buildings, custom ground textures, custom ground markings, and a custom jetway model.  Itâs available onÂ SimMarketÂ for roughly $11.63, requiring at least 899 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff3206</id>
+    <title>FlightFactor Updateâs A320 to Version 1.6.1</title>
+    <updated>2023-02-26T00:00:00+00:00</updated>
+    <link href="/news/ff3206" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fbb4aac649c1c142244a67_a320%20-%202022-09-05%2022.53.26.jpg" rel="enclosure" type="image/jpeg" length="255023"/>
+    <summary>Sim: X-Plane. FlightFactor's A320 has been one of the most popular and well-regarded flight simulation aircraft for some time. The latest update to the A320 includes several improvements and fixes that enhance the overall experience of flying the plane. In this news article, we will take a closer look at the improvements and fixes introduced in the update. Cabin Visual Improvements: One of the most notable improvements in this update is the enhancement of the cabin visuals. The update brings improvements to the cabin, which helps to create a more immersive experience. These improvements make the cabin feel more realistic and add to the overall realism of the aircraft. Fixes: The update also includes several fixes which address issues that were present in previous versions of the addon. Some of these fixes are: â Dimmed Cabin Floor Light Stripe: One of the issues addressed in this update is the floor light stripe. The update fixes this issue and ensures that the light stripe appears as intended. â VSW Stuck and Not Moving: Another issue addressed in this update is the VSW stuck and not moving. The VSW (Vertical Speed Wheel) is an essential component of the aircraft, and when it gets stuck, it can cause problems for the pilot. The update fixes this issue and ensures that the VSW operates correctly. â Overspeed Protection Too Aggressive: The overspeed protection in the A320 was too aggressive, which meant that the aircraft would automatically reduce its speed even when it was not necessary. This update fixes this issue and ensures that the overspeed protection operates as intended. â Missed Doors in XP11 Version: In the XP11 version of the A320, some doors were missing. The update fixes this issue and ensures that all doors are present and functioning correctly. â Missed Internal Lights in the Cockpit and Cabin in XP11 Version: Another issue in the XP11 version was the missed internal lights in the cockpit and cabin. The update fixes this issue and ensures that all internal lights are present and working correctly. â</summary>
     <published>2023-02-26T00:00:00+00:00</published>
   </entry>
 </feed>
