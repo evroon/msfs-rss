@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-27T18:26:00.063498+00:00</updated>
+  <updated>2023-02-28T18:26:06.030492+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/f2hlog</id>
-    <title>Fly2High Releases Lognes Airfield for MSFS</title>
-    <updated>2023-02-17T00:00:00+00:00</updated>
-    <link href="/news/f2hlog" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63eff582374b9224a3b7831e_lognes1.png" rel="enclosure" type="image/png" length="2427388"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of Lognes-Ãmerainville aerodrome (LFPL) for Microsoft Flight Simulator, serving the community of Lognes in the suburbs of Paris (roughly 28 km east of it).  Opened to public air traffic in 1947, itâs the biggest private light aircraft aerodrome in the country, with the unusuality of being open to international traffic, unlike many other french airfields. The fact it sits close to five other aerodromes makes it extremely handy for flight schools, increasing its traffic figures. Lognes is open to light aviation under VFR, handling up to 80,568 aircraft movements back in 2014, ranking it within the top 10 in France (movement-wise).  With a 700-meter-long paved runway and a 1,100-meter-long grass runway, the airfield is ideal for small general aviation aircraft, especially trainers such as the 152, 172, etc. As a curiosity, Lognes hosts AGILE, an association created in 1983 whose focus is the management of the 25 to 30 aircraft that belong to the clubâs members.The scenery features an accurate rendition of the aerodrome, with PBR texturing based on on-site photography, detailed modeling including the tower interior, animated humans, and custom lighting.  Itâs available for free on SimMarket, requiring at least 275 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fthnas</id>
     <title>FeelThere Releases Nashville International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fbb4aac649c1c142244a67_a320%20-%202022-09-05%2022.53.26.jpg" rel="enclosure" type="image/jpeg" length="255023"/>
     <summary>Sim: X-Plane. FlightFactor's A320 has been one of the most popular and well-regarded flight simulation aircraft for some time. The latest update to the A320 includes several improvements and fixes that enhance the overall experience of flying the plane. In this news article, we will take a closer look at the improvements and fixes introduced in the update. Cabin Visual Improvements: One of the most notable improvements in this update is the enhancement of the cabin visuals. The update brings improvements to the cabin, which helps to create a more immersive experience. These improvements make the cabin feel more realistic and add to the overall realism of the aircraft. Fixes: The update also includes several fixes which address issues that were present in previous versions of the addon. Some of these fixes are: â Dimmed Cabin Floor Light Stripe: One of the issues addressed in this update is the floor light stripe. The update fixes this issue and ensures that the light stripe appears as intended. â VSW Stuck and Not Moving: Another issue addressed in this update is the VSW stuck and not moving. The VSW (Vertical Speed Wheel) is an essential component of the aircraft, and when it gets stuck, it can cause problems for the pilot. The update fixes this issue and ensures that the VSW operates correctly. â Overspeed Protection Too Aggressive: The overspeed protection in the A320 was too aggressive, which meant that the aircraft would automatically reduce its speed even when it was not necessary. This update fixes this issue and ensures that the overspeed protection operates as intended. â Missed Doors in XP11 Version: In the XP11 version of the A320, some doors were missing. The update fixes this issue and ensures that all doors are present and functioning correctly. â Missed Internal Lights in the Cockpit and Cabin in XP11 Version: Another issue in the XP11 version was the missed internal lights in the cockpit and cabin. The update fixes this issue and ensures that all internal lights are present and working correctly. â</summary>
     <published>2023-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msf225</id>
+    <title>MSFS Antonov 225 Released</title>
+    <updated>2023-02-27T00:00:00+00:00</updated>
+    <link href="/news/msf225" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dac683833efb0722aeb239_BANNER.PNG" rel="enclosure" type="image/png" length="938152"/>
+    <summary>Sim: X-Plane. The flight sim world is abuzz with excitement following the release of the AN225 for Microsoft Flight Simulator. The AN225 Mriya, which means "Dream" in Ukrainian, is the world's largest aircraft and has a fascinating history. The INI Builds team along with Microsoft Flight sim has meticulously recreated this sorely missed behemoth of the skies in stunning detail, giving players the chance to experience what it's like to fly this iconic aircraft. The AN225 was originally designed in the Soviet Union in the 1980s as a heavy-lift transport aircraft for military and civilian use. The AN225 was used to transport the Soviet space shuttle, Buran, and was still used up until last year for heavy cargo transport, it was unfortunately destroyed in the ongoing Ukraine war. INI Builds has captured the essence of this aircraft in their simulation, from its massive wingspan to the distinctive six engines that power it. Pilots who purchase the MSFS/ INI Builds AN225 can experience the unique challenges of handling such a large and powerful machine. With great flight physics and attention to detail, the AN225 is sure to become a favourite among flight simulator pilots. MSFS have stated that 100% of the funds received from pilots who purchase the AN225 will go toward the cost of rebuilding the real aircraft.Â  You can pick up the AN225 on the MSFS store for just $19.99Â </summary>
+    <published>2023-02-27T00:00:00+00:00</published>
   </entry>
 </feed>
