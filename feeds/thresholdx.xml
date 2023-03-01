@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-02-28T18:26:06.030492+00:00</updated>
+  <updated>2023-03-01T18:25:49.483300+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fthnas</id>
-    <title>FeelThere Releases Nashville International Airport for MSFS</title>
-    <updated>2023-02-17T00:00:00+00:00</updated>
-    <link href="/news/fthnas" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f006fabb25c11a994ce745_nash1.jpg" rel="enclosure" type="image/jpeg" length="1222254"/>
-    <summary>Sim: MSFS. FeelThere has recently released their rendition of Nashville International Airport (KBNA) for Microsoft Flight Simulator, serving the Nashville Metropolitan Area with a yearly average of 18 million passengers.  Opened in June 1937, passenger service started a month later with American Airlines and Eastern Air Lines. It originally featured three runways, a three-story passenger terminal, a control tower, two hangars, and a beacon. The yearly figures hit nearly 190,000 passengers.  It was used as the headquarters for the 4th Ferrying Command during World War 2, ferrying aircraft to Europe at the height of the war. The ferrying operations demanded a lot of space, which implied an expansion to 1,500 acres of total area.Â   Nearly a decade later, the City Aviation Department made plans to modernize and expand the airport, with a new terminal, runway expansion, and a new crosswind runway to come in 1961.  As a curiosity, Nashville Intl. was the first municipal airport in the United States with a public reading room.Â   It has seen a lot of expansion work over the following years, with its peak in the late 1980s, when American Airlines made a hub in Nashville and attracted many companies to the city, such as Nissan and Saturn Corporation. The hub eventually closed in 1995, when American couldnât afford to lose any more money (it wasnât profitable even during its heyday).Â   The airport has been recently modernized, with operations starting in 2006 and reaching its conclusion five years later, expanding the ticketing and check-in areas, renovating and constructing new bathrooms, and bringing the total size of the terminal to 1 million square feet. In 2021, the operator made a plan called âNew Horizonâ to further improve the airport, at the cost of 1.5 billion USD. Construction is set to begin in 2023 and reach completion in late 2028.  The scenery features an accurate rendition of the airport, with over a hundred custom-modeled buildings, taxi bridges, custom night lighting, custom jetways, and custom ground polygon.Â   Itâs available onÂ SimMarketÂ and onÂ FeelThereâs ShopÂ for $21.39/$19.99 (respectively), requiring at least 609 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bb7572</id>
-    <title>BlueBird Sim 757, One-Year Development Update</title>
-    <updated>2023-02-19T00:00:00+00:00</updated>
-    <link href="/news/bb7572" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f2505d1ab2a2cf1b8707b4_fuse.PNG" rel="enclosure" type="image/png" length="931493"/>
-    <summary>Sim: MSFS. BlueBird Simulations have released a youtube video in which they celebrate the one-year anniversary of the development of their upcoming Boeing 757 aircraft for MSFS. In the update, the team thanked those who have contributed to the project, answered various questions the community has had and displayed some of the aircraft's features in flight.Â  BlueBird has confirmed the expected release date is q3/q4 of 2023. They have also confirmed that they are developing both a freighter and passenger variant of the single-isle jet, the passenger variant will come first followed by the freighter expansion. The freighter and passenger jets will be two separate packages according to the team.Â  The team have also disclosed that they are aiming for a mid-level simulation, in which every switch and system needed for normal operation will be operable. It will boast a fully custom FMS with full LNAV and VNAV capability. The team have also confirmed a full virtual cabin will be in the aircraft.Â  You can watch the video here:Â </summary>
-    <published>2023-02-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fbkden1</id>
-    <title>FlightBeam Updates KDEN to V1.1.0</title>
-    <updated>2023-02-19T00:00:00+00:00</updated>
-    <link href="/news/fbkden1" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f2539d76f9542bb9be11f7_eba5cc_996d6fd0592741c498f891efdfd19e71_mv2.webp" rel="enclosure" type="image/webp" length="710378"/>
-    <summary>Sim: MSFS. Flightbeam has updated its Denver airport scenery to version 1.1.0! The new update brings a host of new features and improvements, including the new west side expansion with new gates (concourse B) It also incorporates the new and improved gen5 jetways from Flightbeam for added immersion.Â  The update is free to those who own the airport scenery and is a massive enhancement to the original scenery, this update brings Denver to the highest possible level of accuracy.Â  Full changelog:Â  â</summary>
-    <published>2023-02-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rwsfar</id>
-    <title>Realworldscenery Releases Fairbanks International Airport for MSFS</title>
-    <updated>2023-02-20T00:00:00+00:00</updated>
-    <link href="/news/rwsfar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f3eede681ebde1bcedc025_fair1-min.jpg" rel="enclosure" type="image/jpeg" length="1115507"/>
-    <summary>Sim: MSFS. Realworldscenery has recently released their rendition of Fairbanks International Airport (PAFA) for Microsoft Flight Simulator, serving Fairbanks (Alaska), the smallest city in the country with regularly scheduled non-stop international flights.  The airportâs history dates back to 1951, when it replaced Ladd Army Airfield as the gateway to Fairbanks, serving as Alaska Airlinesâ main hub up until 1967 when they moved to Anchorage, yet keeping the Anchorage - Fairbanks service. It was also an important stopover for Braniff International, Pan American World Airways, American Airlines, and Western Airlines in the 60s and 70s. To conform with the current TSA standards, the original terminal (from 1948) was entirely demolished and replaced by a brand new one in late 2009, featuring better design and security, an extra jetway bridge (six instead of five), handling an average of 1 million passengers per year.  Itâs the hub for Everts Air, operating scheduled and charter airline cargo all across Alaska and Canada with a fleet of classic aircraft, including the C-46, the Douglas DC-6, and the Douglas MD-83. It also hosts Warbelowâs Air Ventures and Wright Air Service. The scenery features an accurate rendition of the airport, with PBR textures, custom-made buildings, performance-friendly optimization, and a realistic taxiway layout.  Itâs available on SimMarket for roughly $18.58, requiring at least 1.3 GB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/salber</id>
     <title>Salvuz Releases Bergen Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63dac683833efb0722aeb239_BANNER.PNG" rel="enclosure" type="image/png" length="938152"/>
     <summary>Sim: X-Plane. The flight sim world is abuzz with excitement following the release of the AN225 for Microsoft Flight Simulator. The AN225 Mriya, which means "Dream" in Ukrainian, is the world's largest aircraft and has a fascinating history. The INI Builds team along with Microsoft Flight sim has meticulously recreated this sorely missed behemoth of the skies in stunning detail, giving players the chance to experience what it's like to fly this iconic aircraft. The AN225 was originally designed in the Soviet Union in the 1980s as a heavy-lift transport aircraft for military and civilian use. The AN225 was used to transport the Soviet space shuttle, Buran, and was still used up until last year for heavy cargo transport, it was unfortunately destroyed in the ongoing Ukraine war. INI Builds has captured the essence of this aircraft in their simulation, from its massive wingspan to the distinctive six engines that power it. Pilots who purchase the MSFS/ INI Builds AN225 can experience the unique challenges of handling such a large and powerful machine. With great flight physics and attention to detail, the AN225 is sure to become a favourite among flight simulator pilots. MSFS have stated that 100% of the funds received from pilots who purchase the AN225 will go toward the cost of rebuilding the real aircraft.Â  You can pick up the AN225 on the MSFS store for just $19.99Â </summary>
     <published>2023-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmturku</id>
+    <title>MM Simulations Release Turku Airport for MSFS</title>
+    <updated>2023-02-28T00:00:00+00:00</updated>
+    <link href="/news/mmturku" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe4be8203726cd29d4475c_1.PNG" rel="enclosure" type="image/png" length="1031717"/>
+    <summary>Sim: MSFS. MM Simulations have released their latest scenery for Microsoft flight simulator. Turku airport is the oldest civil aviation airports in Finland and is currently one of the busiest commercial airports in Finland.Â  The scenery features:Â  The new scenery can be purchased from Contrail, Orbx or a host of other flight sim software retailers for $15.00 USD.Â  â</summary>
+    <published>2023-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p4dfrf</id>
+    <title>Parallel 42 Update FreedomFox </title>
+    <updated>2023-02-28T00:00:00+00:00</updated>
+    <link href="/news/p4dfrf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe4e6b798481dc75dc5325_1_Lqh07qrYDamZlcMOrcAdbw.webp" rel="enclosure" type="image/webp" length="53390"/>
+    <summary>Sim: MSFS. Parallel 42 has updated its FreedomFox, which is based on famous pilot Trent Palmer's modern bush aircraft, the MSFS version now features a brand-new realistic suspension among other impressive changes.Â  Parallel42 have said:Â  âWeâve completely revamped the suspension, and youâll finally get to feel what itâs like to taxi in a bush plane with big bad tires. Landings? You may need to refine those approach speeds, but youâll certainly be happy to do so. Itâs now ALIVEâÂ  The full changelog includes:Â  NEW IMPROVED â</summary>
+    <published>2023-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dhc4</id>
+    <title>Asobo Release Local Legend 8: DHC-4</title>
+    <updated>2023-02-28T00:00:00+00:00</updated>
+    <link href="/news/dhc4" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe533607d16d3165f860c0_MSFS_LocalLegend_Caribou_08-scaled.jpg" rel="enclosure" type="image/jpeg" length="233908"/>
+    <summary>Sim: MSFS. Asobo Studio, the developer behind Microsoft Flight Simulator (MSFS), has just released its latest update, Local Legend 8. This update includes several exciting new features, including the highly anticipated addition of the de Havilland Canada DHC-4 aircraft. The DHC-4, also known as the "Caribou," is a versatile transport aircraft that was widely used by the military and civilian operators for various missions, including transporting cargo and personnel to remote and rugged locations. With the addition of the DHC-4 to MSFS, pilots can now experience the unique flying characteristics of this classic aircraft and explore even more of the world within the simulator. The Local Legend 8 update is now available for all MSFS users to purchase through the MSFS store for â¬14.99, and pilots can start flying the DHC-4 and exploring the new features right away. Asobo Studio is committed to continually improving MSFS, and we can't wait to see what they have in store for the future. â</summary>
+    <published>2023-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbern</id>
+    <title>Orbx Announces Bern Airport for MSFS</title>
+    <updated>2023-02-28T00:00:00+00:00</updated>
+    <link href="/news/orbern" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe8daf9bc7eecf5f10aa2d_bern1.jpg" rel="enclosure" type="image/jpeg" length="450221"/>
+    <summary>Sim: MSFS. Orbx has recently announced the development of a Bern Airport (LSZB) rendition for Microsoft Flight Simulator, a regional aerodrome serving the capital of Switzerland, averaging a little under 200,000 passengers a year. It was established in 1929 by Alpar Bern Flugplatzgenossenschaft, which operated many routes out of the airfield until the war, making a brief return afterward but eventually ceasing operations in 1947 and being bought out by Swissair.  With a 1,720-meter-long paved runway dating back to 1950 (and a 650-meter-long grass runway), it's long enough for most private jets and regional airliners (and a proper glider playground).  Itâs served by four airlines: Helvetic Airways (Antalya, Heraklion, Kos, Larnaca, Palma de Mallorca, and Rhodes), LÃ¼beck Air (LÃ¼beck), Â SkyAlps (Olbia, seasonally), and Swiss Flight Services (Elba, also on a seasonal basis). The scenery is developed by an independent developer, Massimiliano Addante, an ex-FSDT scenarist, and it features an accurate representation of the airport with custom ortho and projected mesh, static helicopters and GA aircraft, and crisp 4K &amp; 2K PBR textures. â Orbx claims itâs releasing soon, with no exact date or pricing mentioned. Shout out to Poptart for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-02-28T00:00:00+00:00</published>
   </entry>
 </feed>
