@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-01T18:25:49.483300+00:00</updated>
+  <updated>2023-03-02T18:29:19.418819+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/salber</id>
-    <title>Salvuz Releases Bergen Airport for MSFS</title>
-    <updated>2023-02-20T00:00:00+00:00</updated>
-    <link href="/news/salber" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f3fbca8a0b4eb5c41a7929_sal1-min%20(1).png" rel="enclosure" type="image/png" length="3619390"/>
-    <summary>Sim: MSFS. Salvuz has recently released their rendition of Bergen Airport (ENBR) for Microsoft Flight Simulator, the second busiest airport in Norway with a yearly average of 6 million passengers.  Dating back to the early 1950s, Bergen Airport was partially funded by the municipalities of Bergen and Fana with 4 million Norwegian kroner, securing the construction of a terminal and a 1,460-meter-long runway. NATO funded an expansion in 1953, warranting a 2,440-meter-long runway instead. When the first flight landed at the airport in mid-1954, only 800 meters of it were complete. It was a chartered flight from Bergen to Oslo, transporting a local football team.  Itâs a hub for Norwegian Air Shuttle, Scandinavian Airlines, and WiderÃ¸e, with an extensive domestic and intra-European network. According to 2014 data, Scandinavian Airlines had 46% of the market share for domestic flights, Norwegian had 38%, and WiderÃ¸e 15%. International-wise, Norwegian led the way with 36%, SAS had 23%, and KLM with 18% (with a single route to Amsterdam).Â   The scenery features an accurate rendition of the airport, sporting handcrafted buildings and facilities with detailed interiors, PBR texturing in 2K or 4K, two custom jetway models, precise terrain markings according to the latest charts, sloped runways with accurate altitude profiles, and parking stands as per latest AIP charts.  Itâs available onÂ SimMarketÂ for roughly $21.24, requiring at least 1.6 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inokla</id>
     <title>iniBuilds Releases Oklahoma City Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe8daf9bc7eecf5f10aa2d_bern1.jpg" rel="enclosure" type="image/jpeg" length="450221"/>
     <summary>Sim: MSFS. Orbx has recently announced the development of a Bern Airport (LSZB) rendition for Microsoft Flight Simulator, a regional aerodrome serving the capital of Switzerland, averaging a little under 200,000 passengers a year. It was established in 1929 by Alpar Bern Flugplatzgenossenschaft, which operated many routes out of the airfield until the war, making a brief return afterward but eventually ceasing operations in 1947 and being bought out by Swissair.  With a 1,720-meter-long paved runway dating back to 1950 (and a 650-meter-long grass runway), it's long enough for most private jets and regional airliners (and a proper glider playground).  Itâs served by four airlines: Helvetic Airways (Antalya, Heraklion, Kos, Larnaca, Palma de Mallorca, and Rhodes), LÃ¼beck Air (LÃ¼beck), Â SkyAlps (Olbia, seasonally), and Swiss Flight Services (Elba, also on a seasonal basis). The scenery is developed by an independent developer, Massimiliano Addante, an ex-FSDT scenarist, and it features an accurate representation of the airport with custom ortho and projected mesh, static helicopters and GA aircraft, and crisp 4K &amp; 2K PBR textures. â Orbx claims itâs releasing soon, with no exact date or pricing mentioned. Shout out to Poptart for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hhav</id>
+    <title>Fly2High Releases Haverfordwest Airport for MSFS</title>
+    <updated>2023-03-02T00:00:00+00:00</updated>
+    <link href="/news/f2hhav" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6400d4796af601e59b4244d8_wales.jpg" rel="enclosure" type="image/jpeg" length="297253"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Haverfordwest Airport (EGFE) for Microsoft Flight Simulator, a minor airport in Rudbaxton in Pembrokeshire (southwest Wales). Itâs built on what once was RAF Haverfordwest, a WW2 airfield that operated for two years.   It has been serving as a civil airfield since the 1950s when the Pembrokeshire City Council bought the site. The airport has been CAA-licensed since 1974 (ordinary license) allowing flights for the public transport of passengers or flying instruction as authorized by the licensee (the city council).  The scenery features an accurate replica of the airport, with detailed modeling of the terminal, custom static aircraft, custom runway markings, animated flag, animated 3D passengers, and textures based on real-life reference imagery. Itâs available on SimMarket for roughly $9.60, requiring at least 692.13 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-02T00:00:00+00:00</published>
   </entry>
 </feed>
