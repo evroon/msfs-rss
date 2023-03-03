@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-03-02T18:29:17.787151+00:00</updated>
+  <updated>2023-03-03T18:25:56.236761+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/MSFS_Caribou_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="368915"/>
     <summary>One of the most capable aircraft for austere and bush flying, the DHC-4 Caribou, is the eighth in the Local Legend Series.</summary>
     <published>2023-02-24T00:00:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/february-16th-2023-development-update/</id>
-    <title>February 16th, 2023 Development Update</title>
-    <updated>2023-02-17T01:38:16+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-16th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/nin_aoironinja-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="68037"/>
-    <summary>Following-up on our update from last week, the development team continues to prepare the first Sim Update 12 beta for release to those players who have opted in to receive test builds.</summary>
-    <published>2023-02-17T01:38:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xii-new-zealand-now-available/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/02/MSFS_AN225_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="163715"/>
     <summary>As part of Microsoft Flight Simulator’s ongoing digital preservation efforts, we are pleased to introduce the world’s largest aircraft, the Ukrainian-built Antonov An-225 Mriya.</summary>
     <published>2023-02-27T16:03:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-2nd-2023-development-update/</id>
+    <title>March 2nd, 2023 Development Update</title>
+    <updated>2023-03-02T23:40:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-2nd-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/zkdos-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="69032"/>
+    <summary>Over the last week, we released World Update 12: New Zealand, Local Legend VIII: De Havilland Canada DHC-4 Caribou, and Famous Flyer IV: Antonov An-225 Mriya. We are thrilled with the community’s reaction to all three releases, and the team is carefully monitoring your feedback and bug reports.</summary>
+    <published>2023-03-02T23:40:02+00:00</published>
   </entry>
 </feed>

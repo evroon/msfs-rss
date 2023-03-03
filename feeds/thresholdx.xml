@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-02T18:29:19.418819+00:00</updated>
+  <updated>2023-03-03T18:25:57.569685+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inokla</id>
-    <title>iniBuilds Releases Oklahoma City Airport for MSFS</title>
-    <updated>2023-02-23T00:00:00+00:00</updated>
-    <link href="/news/inokla" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f6b84ae13839444842302f_mat1.png" rel="enclosure" type="image/png" length="1643375"/>
-    <summary>Sim: MSFS. IniBuilds has recently released the next airport in the Iniscene line, Oklahoma City Will Rogers Airport (KOKC), for Microsoft Flight Simulator. The Will Rogers airport is the busiest in the state of Oklahoma serving over 3.3 million passengers annually.Â  The airport started its life in 1911 as Oklahoma City Municipal Airport and served many squadrons of the United States Army Air Force during World War II. The airport was given its current name in 1941 in memory of Will Rogers, a famous comedian and cowboy native to Oklahoma.Â  Today the airport is home to several airlines and a few Oklahoma Air National Guard Wings. Southwest Airlines serves Will Rogers airport as a focus city serving over 10 destinations from the airport. United Airlines, American Airlines, Delta Airlines, Alaska Airlines, and Frontier all also serve the airport. Features of this scenery include: This airport can be picked up for Â£14.99 GBP ($18.15 USD) from the IniBuilds Store and will require roughly 4.87 Gb to install. Huge thanks to Tang0 on the Threshold Discord for bringing us this news scoop.Â  â</summary>
-    <published>2023-02-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/navmob</id>
-    <title>Navigraph Releases Mobile Charts for Smartphones and Highly Detailed Airport Diagrams</title>
-    <updated>2023-02-23T00:00:00+00:00</updated>
-    <link href="/news/navmob" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f7cba22f3f85d204a6da43_Charts-Mobile-Screens.png" rel="enclosure" type="image/png" length="1400015"/>
-    <summary>Sim: X-Plane. Navigraph has recently released the mobile/smartphone version of their recently released Charts 8 update, offering the same feature set as the tablet version but adapted to smaller screens. Charts Cloud, their browser-based version of the application, was also made compatible with smartphone screen aspect ratios.  The Charts 8 update came out in early November 2022, adding worldwide VFR charts coverage, drag-and-drop rubber band route construction, seamless zoom down to gate level, and 3D globe projection. It was developed with an emphasis on delivering a seamless and intuitive experience, reducing the pilot workload during a simulated flight. The new mobile app will allow users to experience said update on Android and iPhone devices.  Along with the new mobile charts for smartphones, Navigraph has also updated the Charts system with highly detailed airport diagrams rendered from the Jeppesen Airport Mapping Database (AMDB), featuring over a thousand airports around the globe. Itâs said to facilitate a pilotâs situational awareness by allowing them to view essential references.  The Airport Mapping Database (AMDB) is a set of information on specific airports including their spatial layout, their geometry (taxiways, runways, buildings, etc.), and other characteristics such as runway surface type and slope, etc.  The update is available right now for Navigraph Unlimited subscribers. ClickÂ hereÂ to find out more about the Unlimited plan and its features. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nzacia</id>
     <title>NZA Simulations Releases Christchurch International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6400d4796af601e59b4244d8_wales.jpg" rel="enclosure" type="image/jpeg" length="297253"/>
     <summary>Sim: MSFS. Fly2High has recently released their rendition of Haverfordwest Airport (EGFE) for Microsoft Flight Simulator, a minor airport in Rudbaxton in Pembrokeshire (southwest Wales). Itâs built on what once was RAF Haverfordwest, a WW2 airfield that operated for two years.   It has been serving as a civil airfield since the 1950s when the Pembrokeshire City Council bought the site. The airport has been CAA-licensed since 1974 (ordinary license) allowing flights for the public transport of passengers or flying instruction as authorized by the licensee (the city council).  The scenery features an accurate replica of the airport, with detailed modeling of the terminal, custom static aircraft, custom runway markings, animated flag, animated 3D passengers, and textures based on real-life reference imagery. Itâs available on SimMarket for roughly $9.60, requiring at least 692.13 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orxber</id>
+    <title>Orbx Releases Bern Airport for MSFS</title>
+    <updated>2023-03-03T00:00:00+00:00</updated>
+    <link href="/news/orxber" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6401f17f65d8087da0874eea_be1.png" rel="enclosure" type="image/png" length="1405606"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Bern Airport (LSZB) for Microsoft Flight Simulator, serving the Capital of Switzerland with an average of 200,000 passengers a year.  Established in 1929 by a local airline (Alpar Bern Flugplatzgenossenschaft), it operated a couple of routes up until World War 2, when it stopped operations on a temporary basis, returning as soon as it was over, yet closed in 1947 and the company got bought out by Swissair.  The airport has two runways, paved and grass. The paved runway is 1,720m long, making it enough for general aviation aircraft, regional airplanes, and even some narrowbodies like the 737-700 and the A319.Â   Itâs currently served by four airlines: Helvetic Airways (Antalya, Heraklion, Kos, Larnaca, Palma de Mallorca, and Rhodes), LÃ¼beck Air (LÃ¼beck), Â SkyAlps (Olbia, seasonally), and Swiss Flight Services (Elba, also seasonally).  Brought to life by one of their independent developers, Bern Airportâs rendition features detailed modeling, custom orthoimagery and mesh, static helicopters and GA aircraft, crisp 4K and 2K PBR textures, and custom ground markings.  Itâs available onÂ OrbxDirectÂ for roughly $12.81, requiring at least 1.35 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aedpwm</id>
+    <title>AeroDesigns Announces Portland International Jetport for MSFS</title>
+    <updated>2023-03-03T00:00:00+00:00</updated>
+    <link href="/news/aedpwm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640238ec2e5beb54f3f0d646_pwm.jpeg" rel="enclosure" type="image/jpeg" length="141011"/>
+    <summary>Sim: MSFS. AeroDesigns has recently announced their first product for Microsoft Flight Simulator: Portland International Jetport (KPWM), serving the city of Portland in Maine with a yearly average of 2 million passengers, making it the busiest in the state. The airportâs history dates back to the late 1920s when Dr. Clifford Strange needed somewhere to land his JN-4 âJennyâ Biplane. The first commercial service happened a few years later, in 1931, with a Boston-Maine Airways flight from Portland to Boston. The airfield was later purchased by the city and renamed to Portland-Westbrook Municipal Airport, which explains its origin code (PWM).  Nowadays, Portland benefits from low-cost carrier traffic such as JetBlue and Southwest Airlines, which helped to rank the airport among the most affordable in the region as of 2011.  Originally intended to be just a port of their KPWM for X-Plane 11, the sceneryâs assets were entirely reworked, including ground textures, ground markings, taxi layout, a complete retexturing of the terminal building (externally and internally) with extra clutter to provide even better immersion. It also includes extra work on details such as dirt, extra ground service equipment, etc. AeroDesigns claims thereâs no release date as of yet, but they hope to release it in the next few weeks, with work still going on regarding performance optimization and overall refinement. Console compatibility is still unconfirmed. Stay tuned to Threshold for more information on the scenery and all things flight simulation! â</summary>
+    <published>2023-03-03T00:00:00+00:00</published>
   </entry>
 </feed>
