@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-04T18:23:26.497484+00:00</updated>
+  <updated>2023-03-05T18:23:28.429273+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nzacia</id>
-    <title>NZA Simulations Releases Christchurch International Airport for MSFS</title>
-    <updated>2023-02-24T00:00:00+00:00</updated>
-    <link href="/news/nzacia" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f8109287c96cd8ec4be544_chr1.jpg" rel="enclosure" type="image/jpeg" length="1118538"/>
-    <summary>Sim: MSFS. NZA Simulations has recently released their rendition of Christchurch International Airport (NZCH) for Microsoft Flight Simulator, the third busiest airport in New Zealand with a yearly average of 6 million passengers. Opened in 1940 as RNZAF Station Harewood (the airport is located in Harewood, a suburb of Christchurch), it got its first bits of infrastructure around six years later, with the construction of a passenger terminal and hangars. The clearance for international operations came in 1950, making it New Zealandâs first international airport. Itâs the hub for Air New Zealand, with a significant domestic network covering most relevant cities within the country, including Auckland, Dunedin, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, and Wellington. The coverage also extends to Australia, with Brisbane, Gold Coast, Melbourne, and Sydney. The visitorsâ list includes Cathay Pacific (returning in November 2023), Emirates (returning in March 2023), Fiji Airways, Jetstar Airways, Qantas, and Singapore Airlines. In total, there are 18 domestic and 11 international destinations, with 1057 weekly flights as of 2015. The scenery features a high-quality rendition of the airport, with full 3D custom modeling including the surrounding business parks (roughly 300 in total), the runways and apron are built with PBR materials, realistic ground markings, realistic roads, high resolution aerial imagery, terra-formed runway, parking positions setup with correct airline codes, interiors for the main terminal, custom jetway sounds, animated jetways (custom for each gate, matching real life), animated 3D people, animated custom AI vehicles around the airport, and a working surveillance radar. Itâs available on the NZA Simulations Shop or OrbxDirect for $25.46/$25.38, respectively. At least 4.27 GB of free disk space is required to install the product. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wupdnz</id>
-    <title>Microsoft Releases World Update XII: New Zealand</title>
-    <updated>2023-02-24T00:00:00+00:00</updated>
-    <link href="/news/wupdnz" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f81b62f108693de8e05de7_nz1.jpg" rel="enclosure" type="image/jpeg" length="326542"/>
-    <summary>Sim: MSFS. Microsoft has recently released the 12th World Update, improving New Zealand with seven high-detail cities, multiple points of interest, nine handcrafted airports, new bush trips, discovery flights, and challenges. The new update brings together the latest geographic data, including satellite imagery, aerial photography, and digital elevation models (DEMs), with high-detail renditions of seven cities: Auckland, Christchurch, Hamilton, Nelson, Queenstown, Tauranga, and Wellington.  The complete feature list follows down below: Points of Interest â Handcrafted Airports Bush Trips â Discovery Flights Â  Landing Challenges â The World Update is available for free on the MSFS Marketplace.Â Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inbf10</id>
-    <title>iniBuilds Releases Bf108 Taifun for MSFS</title>
-    <updated>2023-02-24T00:00:00+00:00</updated>
-    <link href="/news/inbf10" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63f8cf130fc60bf70eb8cad5_taif1.webp" rel="enclosure" type="image/webp" length="374950"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of the Bf108 Taifun for Microsoft Flight Simulator, a single-engine sport aircraft from the early 1930s.Â   Designed to compete in the 4th Challenge International de Tourisme in 1934, a major aviation event in pre-war Europe held in Warsaw, Poland, the Taifun was then just a prototype called M34, powered by a 247 horsepower Hirth HM 8U V8 engine, which didnât manage to win the event but impressed with a low fuel consumption rate, good handling and itâs superb take-off/landing characteristics.  The Bf108a, the first variant, took off for the first time in that same year, powered by three different engines (on different airframes): the original Hirth HM 8U, the Argus As 17B with 217 hp, and later units had a Siemens-Halske Sh 14 radial, with 158hp. The Bf108b was a revision whose prototype rocked a Siemens-Halske Sh 14a radial, but the production units had either the Argus AS 10C (237hp) or the Argus AS 10E (266hp).  iniBuildsâ second classic aircraft for Microsoft Flight Simulator makes use of the latest CFD technology including the primary flight surfaces, control surfaces, and the propeller. It also simulates unique characteristics of the airplane such as the capability of landing as slow as 45 knots thanks to its advanced leading edge slats. Such slow speed allows it to operate on very short runways.  The engine is accurately reproduced with its correct performance and behavior, with a fully modeled and functional fuel system that makes use of the new fuel mechanics offered by the simulator.Â   A custom electronic flight bag allows for folding and unfolding the wings, opening storage compartments, choosing a custom rain cover, and changing the cockpit labels from German to English and from metric to imperial. It also features a moving map, weather information, a maintenance page, and other settings.  The aircraft is available on theÂ iniBuilds StoreÂ for roughly $18.01, requiring at least 2.66 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mturku</id>
     <title>MM Simulations Releases Turku Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640238ec2e5beb54f3f0d646_pwm.jpeg" rel="enclosure" type="image/jpeg" length="141011"/>
     <summary>Sim: MSFS. AeroDesigns has recently announced their first product for Microsoft Flight Simulator: Portland International Jetport (KPWM), serving the city of Portland in Maine with a yearly average of 2 million passengers, making it the busiest in the state. The airportâs history dates back to the late 1920s when Dr. Clifford Strange needed somewhere to land his JN-4 âJennyâ Biplane. The first commercial service happened a few years later, in 1931, with a Boston-Maine Airways flight from Portland to Boston. The airfield was later purchased by the city and renamed to Portland-Westbrook Municipal Airport, which explains its origin code (PWM).  Nowadays, Portland benefits from low-cost carrier traffic such as JetBlue and Southwest Airlines, which helped to rank the airport among the most affordable in the region as of 2011.  Originally intended to be just a port of their KPWM for X-Plane 11, the sceneryâs assets were entirely reworked, including ground textures, ground markings, taxi layout, a complete retexturing of the terminal building (externally and internally) with extra clutter to provide even better immersion. It also includes extra work on details such as dirt, extra ground service equipment, etc. AeroDesigns claims thereâs no release date as of yet, but they hope to release it in the next few weeks, with work still going on regarding performance optimization and overall refinement. Console compatibility is still unconfirmed. Stay tuned to Threshold for more information on the scenery and all things flight simulation! â</summary>
     <published>2023-03-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mig15b</id>
+    <title>Bear Studios Releases MiG-15bis for Microsoft Flight Simulator</title>
+    <updated>2023-03-05T00:00:00+00:00</updated>
+    <link href="/news/mig15b" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64043eaf0eadd548b3e1e117_314375_AC2.jpg" rel="enclosure" type="image/jpeg" length="1081447"/>
+    <summary>Sim: MSFS. Earlier this week, Bear Studios released their rendition of the MiG-15bis fighter for Microsoft Flight Simulator, bringing to the community an unique Cold War era Soviet fighter outfitted with detailed models and animations. According to the developers, the plane is created using real flight manuals of the MiG-15B, as well as reports filed by the United States Air Force. Bear Studiosâs MiG, which will be VR compatible, will feature a cockpit that is fully interactive, in depth system, high quality external/internal textures, and lighting effects. The MiG-15, developed by the Soviet Union, is one of the first jet fighters in the world to employ a swept wing design. The fighter saw great success during the Korean War and was later used as the base design for the more advanced MiG-17. The MiG-15bis was a late variant that came equipped with a better performing engine that greatly improved the planeâs Â thrust-to-weight ratio. Currently, the plane can be purchased from the JustFlight webstore or SimMarket for $29.99, excluding any sales tax that may incur. The developers recommend users to have at least 690 MB of free disk space to successfully install the product.</summary>
+    <published>2023-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p2006t2</id>
+    <title>FlightSim Studio Releases Tecnam P2006T MKII for Microsoft Flight Simulator</title>
+    <updated>2023-03-05T00:00:00+00:00</updated>
+    <link href="/news/p2006t2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640445aaadf834ff700f090b_p2006t_02.jpg" rel="enclosure" type="image/jpeg" length="185518"/>
+    <summary>Sim: MSFS. FlightSim Studio, developers of the Embraer E175 for MSFS, has released the Tecnam P2006T MKII for MSFS. The Tecnam P2006T is an Italian-designed four-seat high-wing, light twin piston aircraft popular in both the private and flight training market.  The Tecnam P2006T is an Italian Designed aircraft that has become popular in the flight training market due to its economical design. Powered by two 100Hp Rotax 912 engines, this aircraft is extremely economical to operate, and its high wing design has made this aircraft popular with both flight schools and aerial photography companies. This aircraft has also found its way into military service primarily as a pilot trainer.  The P2006T by FlightSim Studios features the Working Title Garmin G1000NXI paired with a custom STEC-55X autopilot. Other highlights include: A full list of features can also be found on the store page.  This aircraft is now available from the Aerosoft Store and will cost â¬29.37 ($31.28 USD). It will require 1.5 GB of storage and must be installed via Aerosoft One.</summary>
+    <published>2023-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/toga73</id>
+    <title>TOGA Simulations Release Roadmap for 737 and MU-2 </title>
+    <updated>2023-03-05T00:00:00+00:00</updated>
+    <link href="/news/toga73" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5c009821477c692a48d0692d_X-Plane_Screenshot_2018.11.28_-_18.53.52.13.png" rel="enclosure" type="image/png" length="2896750"/>
+    <summary>Sim: X-Plane. Toga simulations (also known as IXEG) are responsible for the IXEG 737 Classic and the Mitsubishi MU-2 for the Xplane platform. Since the release of Xplane 12, many have been keen to find out what the future of these two aircraft would hold.Â  In a recent development update posted on the X-Pilot Forums, developer Tkyler has explained that the group will unfortunately not reach their previously intended date of March 8th for the IXEG to come to XP12. But has assured eager pilots that work is progressing at âFull Boreâ Tkyler has also informed those interested to expect a more informational update in the coming week.Â  The following roadmap has been provided by the team:Â  âThe roadmap for myself (being both IXEG and TOGA) is to get this port update out, then I'll binge the MU2 for 4-ish weeks, getting it refined for V12 and then take a deep breath/short break and dive into the FMS / VNAV functionality of the 733 while also seeking out other areas to improve throughout the remainder of the yearâÂ  It surely seems like an exciting future is on the horizon for both of these much-loved aircraft, Threshold will keep you updated as it progresses!Â  â</summary>
+    <published>2023-03-05T00:00:00+00:00</published>
   </entry>
 </feed>
