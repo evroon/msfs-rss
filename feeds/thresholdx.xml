@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-10T18:24:05.472610+00:00</updated>
+  <updated>2023-03-11T18:22:29.877101+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mmturku</id>
-    <title>MM Simulations Release Turku Airport for MSFS</title>
-    <updated>2023-02-28T00:00:00+00:00</updated>
-    <link href="/news/mmturku" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe4be8203726cd29d4475c_1.PNG" rel="enclosure" type="image/png" length="1031717"/>
-    <summary>Sim: MSFS. MM Simulations have released their latest scenery for Microsoft flight simulator. Turku airport is the oldest civil aviation airports in Finland and is currently one of the busiest commercial airports in Finland.Â  The scenery features:Â  The new scenery can be purchased from Contrail, Orbx or a host of other flight sim software retailers for $15.00 USD.Â  â</summary>
-    <published>2023-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p4dfrf</id>
-    <title>Parallel 42 Update FreedomFox </title>
-    <updated>2023-02-28T00:00:00+00:00</updated>
-    <link href="/news/p4dfrf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe4e6b798481dc75dc5325_1_Lqh07qrYDamZlcMOrcAdbw.webp" rel="enclosure" type="image/webp" length="53390"/>
-    <summary>Sim: MSFS. Parallel 42 has updated its FreedomFox, which is based on famous pilot Trent Palmer's modern bush aircraft, the MSFS version now features a brand-new realistic suspension among other impressive changes.Â  Parallel42 have said:Â  âWeâve completely revamped the suspension, and youâll finally get to feel what itâs like to taxi in a bush plane with big bad tires. Landings? You may need to refine those approach speeds, but youâll certainly be happy to do so. Itâs now ALIVEâÂ  The full changelog includes:Â  NEW IMPROVED â</summary>
-    <published>2023-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dhc4</id>
-    <title>Asobo Release Local Legend 8: DHC-4</title>
-    <updated>2023-02-28T00:00:00+00:00</updated>
-    <link href="/news/dhc4" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe533607d16d3165f860c0_MSFS_LocalLegend_Caribou_08-scaled.jpg" rel="enclosure" type="image/jpeg" length="233908"/>
-    <summary>Sim: MSFS. Asobo Studio, the developer behind Microsoft Flight Simulator (MSFS), has just released its latest update, Local Legend 8. This update includes several exciting new features, including the highly anticipated addition of the de Havilland Canada DHC-4 aircraft. The DHC-4, also known as the "Caribou," is a versatile transport aircraft that was widely used by the military and civilian operators for various missions, including transporting cargo and personnel to remote and rugged locations. With the addition of the DHC-4 to MSFS, pilots can now experience the unique flying characteristics of this classic aircraft and explore even more of the world within the simulator. The Local Legend 8 update is now available for all MSFS users to purchase through the MSFS store for â¬14.99, and pilots can start flying the DHC-4 and exploring the new features right away. Asobo Studio is committed to continually improving MSFS, and we can't wait to see what they have in store for the future. â</summary>
-    <published>2023-02-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbern</id>
     <title>Orbx Announces Bern Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640a1cbd048f1d39c7ff1441_asx1.png" rel="enclosure" type="image/png" length="1287933"/>
     <summary>Sim: X-Plane. HiFi Simulation Technologies has recently published aÂ development news update where they talk about the upcoming release of Active Sky XP 12, which has now been made available for everyone under an open beta program.Â   Active Sky XP 12 is the next installment of their popular weather engine for X-Plane, making use of the new regional weather system API in X-Plane 12 to provide high levels of accuracy and realism in weather depiction, with a precise portrayal of clouds in regards to their size, height, type, coverage, precipitation, and more. Itâs all made possible thanks to the utilization of high-resolution global weather data and their cloud-based weather network system.  The new weather engine is fully integrated with X-Plane 12, providing smoother transitions, better clouds, and new lighting, resulting in an improved visual weather experience, according to HiFi.  The new features include active air effects, which enhance internal X-Plane turbulence and air effects, providing enhanced turbulence, drafts, thermals, terrain-based wind effects, surface friction, gusts, variability, wake turbulence, microbursts, and more (wake turbulence effects are XP 11 only). The weather system uses the simulatorâs internal cloud depiction to warrant maximum performance and smoothness, including compatibility with Virtual Reality (and optimization). The complete list follows down below:  Active Air Effects Â Enhances internal X-Plane turbulence and air effects, providing enhanced turbulence, drafts, thermals, terrain-based wind effects, surface friction, gusts, variability, wake turbulence, microbursts and more (XP12 includes internal wake turbulence, AS Wake turbulence enabled for XP11 only â Some effects may be limited/unavailable in XP12). High-Performance Weather DepictionÂ  Uses internal X-Plane cloud depiction for maximum performance and smoothness â VR compatible and optimized! Active Sky Weather EngineÂ  An evolved version of the Active Sky platform brings the core features that made Active Sky the leading weather engine for other platforms: Advanced weather synthesis and interpolation, high-resolution global winds aloft, realistic air and atmosphere effects, a comprehensive weather data network, integrated visual mapping and planning, and much, much more Voice Weather DeliveryÂ  Active Sky ATIS and Flightwatch are available at any time by listening on 122.00, 122.02 or 122.03 for closest station, actual/current interpolated conditions and destination weather reports, respectively Mobile Companion AppÂ  Use any device/browser to connect with Active Sky over your network and view and control the weather â  Itâs available on theÂ HiFi ShopÂ for roughly $38.06 (the XP12 product page isnât up yet, but Active Sky XP 12 is a free upgrade from Active Sky XP). The purchase page forÂ Active Sky XP 12Â is still labeled as coming soon because itâs under an open beta program. At least 500 MB of free disk space is required to install the product. Shout out to Josh M on our Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! The imagery, except for the cover, is from Active Sky XP (previous version) â</summary>
     <published>2023-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gazhos</id>
+    <title>GazSim Releases Hostomel International Airport for MSFS</title>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <link href="/news/gazhos" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640b9524f05bbe3214d7ac99_hos1.png" rel="enclosure" type="image/png" length="1687586"/>
+    <summary>Sim: MSFS. GazSim has recently released their rendition of Hostomel International Airport (UKKM) for Microsoft Flight Simulator, home to the Antonov Design Bureau and the operations base from where the now-destroyed AN-225 used to operate its special cargo flights for decades.   The airportâs history dates back to 1959 when the construction work started. It was originally built as a top-secret in-house flight testing and improvement base for Antonov. The commercial cargo operations, which itâs famous for, began in 1989, together with Antonovâs attempt to demilitarize. Antonov Airlines uses the facilities for their cargo operations, consisting of transshipping, storage, border control, and aircraft maintenance.  A year ago, the airport was heavily damaged after an intense battle, which ruined most facilities and parked aircraft, including the famous Antonov AN-225 Mriya, the former largest cargo aircraft in the world.  The scenery is an accurate recreation of what Hostomel International Airport looked like before February 2022, with all of the Antonov Aircraft based there, including the ANâ74, the AN-2, the AN22, and the AN-225. There are over fifty custom static and animated buildings (and aircraft), 2K and 4K PBR textures, the famous AN-225 hangar with an AN-225 in there that despawns if you wish to fly the AN-225 yourself, two animated hangars, a TimeShift feature allowing you to see the aftermath of the February incident by setting the date accordingly, fully recreated taxiways, a staff entrance gate (animated), and a history museum with multiple Antonov aircraft and their history. Itâs available on OrbxDirect for roughly $9.99, requiring at least 1.83 GB of free hard disk space to install. 10% of the proceeds go towards the AN-225 rebuilding effort.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hdae</id>
+    <title>Fly2High Releases Daegu International Airport for MSFS</title>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <link href="/news/f2hdae" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640ba0c30945bdf631e6d564_daegu1.jpg" rel="enclosure" type="image/jpeg" length="4166295"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Daegu International Airport (RKTN) for Microsoft Flight Simulator, the 5th busiest airport in South Korea with a yearly average of 4.6 million passengers.  The airport was established in early 1937 as Taegu Airfield when South Korea was ruled by the Japanese. In the 1950s, it was utilized by the USAF as one of their airfields, consisting solely of a dirt and gravel runway and two concrete buildings. It was upgraded for the first time in mid-1950, with a new 1,500m long runway made of PSP (pierced steel planking). Months later, it got another 200 meters of PSP, making it 1,700m long. A 2,700m long concrete runway came a year later, by the hands of the 930th Engineer Aviation Group.  Nowadays, Daegu is no longer a military airfield but it still shares its infrastructure with the South Korean Air Force, which makes it highly illegal to take pictures of the apron, runway, and military facilities. It sports a single-passenger terminal and a parking lot for 1,097 cars.  Itâs served by seven airlines: Asiana Airlines (Jeju), Jeju Air (Taipei), Jin Air (Jeju, Taipei), Tigerair Taiwan (Taipei), Tâway Air (Bangkok, Cebu, Da Nang, Fukuoka, Guam, Hanoi, Jeju, Nha Trang, Osaka-Kansai, Taipei, Tokyo-Narita, Yanji, Zhangjiajie), and VietJet Air (Da Nang).Â   The scenery features hand-made ground texture sets, a fully modeled terminal with an interior, custom-built PBR jetways with realistic variations, animated humans, animated traffic, and a custom GSX profile. Itâs available onÂ SimMarketÂ for roughly $16.88, requiring at least 1.30 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vuekia</id>
+    <title>VueloSimple Releases Kilimanjaro International Airport for MSFS</title>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <link href="/news/vuekia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640ba7b023a0a162c475125f_kili1.jpg" rel="enclosure" type="image/jpeg" length="1749805"/>
+    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Kilimanjaro International Airport (HTKJ) for Microsoft Flight Simulator, serving the cities of Arusha and Moshi in the Kilimanjaro Region (Tanzania). Itâs the largest airport in the northern part of Tanzania in both size and passenger volume. Dating back to the early 1970s, built with the help of the Italian government, responsible for helping finance the construction costs with a long-term loan. It went on to become the first privatized airport in Africa in 1998, owned by the Kilimanjaro Airport Development Company (KADCO).  It is the gateway to the Kilimanjaro, Mara, and Manyara Regions, which house the Mount Kilimanjaro National Park, Arusha National Park, Tarangire National Park, Lake Manyara National Park, the Ngorongoro Conservation Area, the Serengeti National Park, and more. Itâs often labeled as the âGateway to Africaâs Wildlife Heritage.â. Itâs served by fourteen airlines, with domestic, intra-African, and international routes. It includes Airkenya Express, Air Tanzania, Coastal Aviation, Edelweiss Air, Ethiopian Airlines, Kenya Airways, KLM, Precision Air, Qatar Airways, Regional Air Services, RwandAir, Safarilink Aviation, Turkish Airlines, and Uganda Airlines.  The scenery features an accurate rendition of the airport, with a fully modeled main terminal and control tower (with interiors), an Air Tanzania hangar, the KIA fire station, a fully operational apron with correct parking positions, custom taxiways and taxi signs, updated runway, and LOD optimization for better performance. Itâs available on SimMarket for roughly $12.65, requiring at least 304.11 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-10T00:00:00+00:00</published>
   </entry>
 </feed>
