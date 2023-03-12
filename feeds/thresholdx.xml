@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-11T18:22:29.877101+00:00</updated>
+  <updated>2023-03-12T18:22:23.305722+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbern</id>
-    <title>Orbx Announces Bern Airport for MSFS</title>
-    <updated>2023-02-28T00:00:00+00:00</updated>
-    <link href="/news/orbern" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/63fe8daf9bc7eecf5f10aa2d_bern1.jpg" rel="enclosure" type="image/jpeg" length="450221"/>
-    <summary>Sim: MSFS. Orbx has recently announced the development of a Bern Airport (LSZB) rendition for Microsoft Flight Simulator, a regional aerodrome serving the capital of Switzerland, averaging a little under 200,000 passengers a year. It was established in 1929 by Alpar Bern Flugplatzgenossenschaft, which operated many routes out of the airfield until the war, making a brief return afterward but eventually ceasing operations in 1947 and being bought out by Swissair.  With a 1,720-meter-long paved runway dating back to 1950 (and a 650-meter-long grass runway), it's long enough for most private jets and regional airliners (and a proper glider playground).  Itâs served by four airlines: Helvetic Airways (Antalya, Heraklion, Kos, Larnaca, Palma de Mallorca, and Rhodes), LÃ¼beck Air (LÃ¼beck), Â SkyAlps (Olbia, seasonally), and Swiss Flight Services (Elba, also on a seasonal basis). The scenery is developed by an independent developer, Massimiliano Addante, an ex-FSDT scenarist, and it features an accurate representation of the airport with custom ortho and projected mesh, static helicopters and GA aircraft, and crisp 4K &amp; 2K PBR textures. â Orbx claims itâs releasing soon, with no exact date or pricing mentioned. Shout out to Poptart for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/f2hhav</id>
-    <title>Fly2High Releases Haverfordwest Airport for MSFS</title>
-    <updated>2023-03-02T00:00:00+00:00</updated>
-    <link href="/news/f2hhav" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6400d4796af601e59b4244d8_wales.jpg" rel="enclosure" type="image/jpeg" length="297253"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of Haverfordwest Airport (EGFE) for Microsoft Flight Simulator, a minor airport in Rudbaxton in Pembrokeshire (southwest Wales). Itâs built on what once was RAF Haverfordwest, a WW2 airfield that operated for two years.   It has been serving as a civil airfield since the 1950s when the Pembrokeshire City Council bought the site. The airport has been CAA-licensed since 1974 (ordinary license) allowing flights for the public transport of passengers or flying instruction as authorized by the licensee (the city council).  The scenery features an accurate replica of the airport, with detailed modeling of the terminal, custom static aircraft, custom runway markings, animated flag, animated 3D passengers, and textures based on real-life reference imagery. Itâs available on SimMarket for roughly $9.60, requiring at least 692.13 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orxber</id>
-    <title>Orbx Releases Bern Airport for MSFS</title>
-    <updated>2023-03-03T00:00:00+00:00</updated>
-    <link href="/news/orxber" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6401f17f65d8087da0874eea_be1.png" rel="enclosure" type="image/png" length="1405606"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Bern Airport (LSZB) for Microsoft Flight Simulator, serving the Capital of Switzerland with an average of 200,000 passengers a year.  Established in 1929 by a local airline (Alpar Bern Flugplatzgenossenschaft), it operated a couple of routes up until World War 2, when it stopped operations on a temporary basis, returning as soon as it was over, yet closed in 1947 and the company got bought out by Swissair.  The airport has two runways, paved and grass. The paved runway is 1,720m long, making it enough for general aviation aircraft, regional airplanes, and even some narrowbodies like the 737-700 and the A319.Â   Itâs currently served by four airlines: Helvetic Airways (Antalya, Heraklion, Kos, Larnaca, Palma de Mallorca, and Rhodes), LÃ¼beck Air (LÃ¼beck), Â SkyAlps (Olbia, seasonally), and Swiss Flight Services (Elba, also seasonally).  Brought to life by one of their independent developers, Bern Airportâs rendition features detailed modeling, custom orthoimagery and mesh, static helicopters and GA aircraft, crisp 4K and 2K PBR textures, and custom ground markings.  Itâs available onÂ OrbxDirectÂ for roughly $12.81, requiring at least 1.35 GB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aedpwm</id>
     <title>AeroDesigns Announces Portland International Jetport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640ba7b023a0a162c475125f_kili1.jpg" rel="enclosure" type="image/jpeg" length="1749805"/>
     <summary>Sim: MSFS. VueloSimple has recently released their rendition of Kilimanjaro International Airport (HTKJ) for Microsoft Flight Simulator, serving the cities of Arusha and Moshi in the Kilimanjaro Region (Tanzania). Itâs the largest airport in the northern part of Tanzania in both size and passenger volume. Dating back to the early 1970s, built with the help of the Italian government, responsible for helping finance the construction costs with a long-term loan. It went on to become the first privatized airport in Africa in 1998, owned by the Kilimanjaro Airport Development Company (KADCO).  It is the gateway to the Kilimanjaro, Mara, and Manyara Regions, which house the Mount Kilimanjaro National Park, Arusha National Park, Tarangire National Park, Lake Manyara National Park, the Ngorongoro Conservation Area, the Serengeti National Park, and more. Itâs often labeled as the âGateway to Africaâs Wildlife Heritage.â. Itâs served by fourteen airlines, with domestic, intra-African, and international routes. It includes Airkenya Express, Air Tanzania, Coastal Aviation, Edelweiss Air, Ethiopian Airlines, Kenya Airways, KLM, Precision Air, Qatar Airways, Regional Air Services, RwandAir, Safarilink Aviation, Turkish Airlines, and Uganda Airlines.  The scenery features an accurate rendition of the airport, with a fully modeled main terminal and control tower (with interiors), an Air Tanzania hangar, the KIA fire station, a fully operational apron with correct parking positions, custom taxiways and taxi signs, updated runway, and LOD optimization for better performance. Itâs available on SimMarket for roughly $12.65, requiring at least 304.11 MB of free disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-03-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/winsan</id>
+    <title>WingSim Releases Santiago PÃ©rez Quiroz Airport for MSFS</title>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <link href="/news/winsan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640ce6e8e86598564c176a28_ara1.png" rel="enclosure" type="image/png" length="2556956"/>
+    <summary>Sim: MSFS. WingSim has recently released their rendition of Santiago PÃ©rez Quiroz Airport (SKUC) for Microsoft Flight Simulator, serving the city of Arauca in Colombia with a yearly average of 130,000 passengers as of 2014.  Built in 1979 and named after Santiago PÃ©rez Quiroz, a Colombian military officer and politician who governed the district of Arauca in the early 20th century, it has undergone many renovations over the years to improve its facilities and services. It currently plays an important role in the region's economic development by linking it to commercial hubs in the country.  Sitting just 2 kilometers south of the border with Venezuela, the airport is currently one of the most important in eastern Colombia, served by three different airlines: EasyFly (Bucamaranga), Satena (BogotÃ¡, Bucamaranga), and SEARCA (BogotÃ¡).Â   The scenery features an accurate rendition of the airport with its main terminal, landside buildings, realistic ground markings, custom ground clutter, and custom vegetation around the terminal.Â   Itâs available onÂ SimMarketÂ for roughly $7.41, requiring at least 100.53 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffxava</id>
+    <title>FlightFX Announces the Piaggio Avanti II for MSFS</title>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <link href="/news/ffxava" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640cee861a36d85cff22f383_ava1.jpg" rel="enclosure" type="image/jpeg" length="258570"/>
+    <summary>Sim: MSFS. FlightFX has made a surprise announcementon their Discord with external pictures of their upcoming Piaggio Avanti II for Microsoft Flight Simulator, one of the most unique private airplanes ever made. The Piaggio Avanti II is an evolution of the Piaggio Avanti, originally introduced in late 1990 after four years of flight testing. The original concept goes even further back in time, to 1979, when engineering studies started and design choices were tested in wind tunnels in the subsequent years by Professor Jan Roskam from the University of Kansas and Professor Gerald Gregorek from Ohio State University. The final design choice was finally made in 1982, with the fuselage development starting a year later. The first prototype only took off in 1986, with the Italian certification to come in early 1990. The Avanti II got certified in late 2005, featuring an uprated Pratt &amp; Whitney Canada PT6A-66B turboprop engines, flying faster and more economically, and a Â new Rockwell Collins glass cockpit set. With 70 planes ordered in the first few months after the certification, the fastest civilian turboprop twin (according to Flying Magazine) was rather successful. â Aside from the five external shots, there is no information regarding system depth, features, pricing, or a potential release date. Threshold will keep you informed on the matter! â</summary>
+    <published>2023-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pilcip</id>
+    <title>PILOTâS Releases Boeing 314 Clipper for MSFS</title>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <link href="/news/pilcip" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640cfe42fdd67b78c498a8cd_clip1.jpg" rel="enclosure" type="image/jpeg" length="1400596"/>
+    <summary>Sim: MSFS. PILOTâS has recently released their rendition of the Boeing 314 Clipper for Microsoft Flight Simulator, a long-range flying boat from the late 1930s with enough range to cross the Atlantic and Pacific.  The original conception dates back to 1936 when Pan American Airways requested a trans-Pacific flying boat that could carry twice as many passengers as the Martin M-130. Boeingâs project won the bid with an order for six aircraft. Sporting four 1,600 hp Wright Twin Cyclones, and a 45m wing from the canceled XB-15, the B-314 saw its first test session two years later, out of Elliot Bay in Seattle.Â   The 5,930km range required a tank that could fit 16,070L of gasoline, with the 314A requiring an additional 4,500L and 1,100L of engine oil for both. It could seat 68 passengers and 5 tonnes of cargo, had a total length of 36 meters, 46 meters of wingspan, 6.2 meters of height, and weighed around 22 tonnes when empty. It could cruise at 210 miles per hour at 6,200 feet.  None of the twelve Boeing 314s survived the test of time, more so, they were all cannibalized for parts, scrapped, or written off. A non-profit oceanographic organization (Underwater Admiralty Sciences) plans to survey, photograph, and recover two sunken 314s, but nothing has been done yet (probably due to the extremely high costs of such an operation).  The virtual rendition was built from the ground up for Microsoft Flight Simulator with a study-level concept in mind. It features a complete virtual cockpit with accurately simulated navigation and radio room, a Sperry Type A Gyropilot (partial implementation, with updates to come), Â authentic gauges, the inclusion of the long-range variant (314A), a custom sound package by ArezOne-Aviation Soundstudios, authentic color matching, simulated shore power when the B314 is moored, a comprehensive set of manuals, navigation aids to feed the Gyropilot, and more.  Itâs available on theÂ PILOTâS ShopÂ for roughly $31.89, requiring at least an i5 with 2.8ghz or an AMD equivalent, 8 GB of RAM, 4 GB of VRAM, and an active internet connection. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-11T00:00:00+00:00</published>
   </entry>
 </feed>
