@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-13T18:23:57.184182+00:00</updated>
+  <updated>2023-03-14T18:30:49.807345+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/toga73</id>
-    <title>TOGA Simulations Release Roadmap for 737 and MU-2 </title>
-    <updated>2023-03-05T00:00:00+00:00</updated>
-    <link href="/news/toga73" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5c009821477c692a48d0692d_X-Plane_Screenshot_2018.11.28_-_18.53.52.13.png" rel="enclosure" type="image/png" length="2896750"/>
-    <summary>Sim: X-Plane. Toga simulations (also known as IXEG) are responsible for the IXEG 737 Classic and the Mitsubishi MU-2 for the Xplane platform. Since the release of Xplane 12, many have been keen to find out what the future of these two aircraft would hold.Â  In a recent development update posted on the X-Pilot Forums, developer Tkyler has explained that the group will unfortunately not reach their previously intended date of March 8th for the IXEG to come to XP12. But has assured eager pilots that work is progressing at âFull Boreâ Tkyler has also informed those interested to expect a more informational update in the coming week.Â  The following roadmap has been provided by the team:Â  âThe roadmap for myself (being both IXEG and TOGA) is to get this port update out, then I'll binge the MU2 for 4-ish weeks, getting it refined for V12 and then take a deep breath/short break and dive into the FMS / VNAV functionality of the 733 while also seeking out other areas to improve throughout the remainder of the yearâÂ  It surely seems like an exciting future is on the horizon for both of these much-loved aircraft, Threshold will keep you updated as it progresses!Â  â</summary>
-    <published>2023-03-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fvrbsl</id>
     <title>France VFR Releases EuroAirport Basel Mulhouse Freiburg for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/bmwphx" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640eb072c700f6b04fa6bb28_phx1.png" rel="enclosure" type="image/png" length="2502340"/>
     <summary>Sim: MSFS. BEAUTIFUL MODEL of the WORLD and AmSim have partnered up again to develop a rendition of Phoenix Sky Harbor International (KPHX) for Microsoft Flight Simulator, the 8th busiest airport in the United States and 11th in the World.  Sky Harborâs history goes back to 1928, when it was built by Scenic Airways, making it the fourth airport in Phoenix. The airport was sold not much after to Acme Investment Company as a consequence of the Stock Market crash of 1929. They owned it for six years, and then the city of Phoenix purchased the whole thing for $100,000.Â   The Wall Street Journal ranked PHX as the best airport overall in the country among the 20 largest, with praises to its short screening waits, fast wi-fi, good restaurants, and cheap Uber fares to get downtown.Â   With a yearly average of 45 million passengers, Phoenix consolidates itself as one of the busiest hubs in the World. Southwest (36.21%), American Airlines (33.46%), and Delta Air Lines (7.04%) compose the top three carriers in market share, with Denver (1,087,000), Seattle-Tacoma (831,000), and Las Vegas (813,000) being the busiest domestic destinations. Internationally, three tourist destinations in Mexico take the crown, with San JosÃ© del Cabo being the busiest (352,461), followed by Puerto Vallarta and CancÃºn, with 245,749 and 215,088, respectively.  The airport has two terminals (T3 and T4), with T1 and T2 marked as âretired.â Terminal 3 has 25 gates, and Terminal 4 has 92.Â   The scenery features an accurate rendition, with high-resolution custom ground textures, landside buildings, airline codes assigned to their respective parking stands, FSLTL traffic compatibility, animated jetways, custom ground markings, and an animated Sky Train.  Itâs available onÂ OrbxDirectÂ for roughly $23.30, requiring at least 3.50 GB of free hard disk space to install. Shout out to troponaut on the Discord for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/caebol</id>
+    <title>Caelus Aerial Releases Bologna Guglielmo Marconi Airport for MSFS</title>
+    <updated>2023-03-13T00:00:00+00:00</updated>
+    <link href="/news/caebol" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640f83b4909590574abd594f_bol1.jpg" rel="enclosure" type="image/jpeg" length="969172"/>
+    <summary>Sim: MSFS. Caelus Aerial has recently released their rendition of Bologna Guglielmo Marconi Airport (LIPE) for Microsoft Flight Simulator, the 8th busiest airport in Italy with a yearly average of 9 million passengers.  The airport's history dates back to 1933, when the original airport was erected. It was in the 1970s that they built the current one, 500 meters away from the former. The old one turned out too small to handle the passenger volume increase from there onwards. The "new" terminal, recently expanded, covers an area of 36,100 square meters, with 24 departure gates and 5,500 square meters of shopping area.Â   The airport is one of the Italian hubs for Ryanair, with 53 non-seasonal destinations and 14 seasonal. WizzAir is another prominent visitor with 11 destinations in Eastern Europe. The airport is visited by multiple non-LCC European carriers such as Aegean Airlines, Air France, Austrian Airlines, British Airways, Finnair, KLM, Lufthansa, Swiss, TAP, and Turkish Airlines, along with a list of other rather popular LCCs such as Eurowings, easyJet, and Vueling.  The scenery features an accurate rendition of the airport with detailed models of all the buildings, accurate runway, apron, and taxiway markings, PBR materials, and partial interior modeling of every part of the terminal that faces the apron, an animated monorail, surface movement radar, weather radar, and runway guard lights.  It's available onÂ SimMarketÂ for roughly $16.93, requiring at least 588.82MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-03-13T00:00:00+00:00</published>
   </entry>
 </feed>
