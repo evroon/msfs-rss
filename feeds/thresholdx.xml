@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-21T18:23:27.852441+00:00</updated>
+  <updated>2023-03-22T18:23:14.474327+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/winsan</id>
-    <title>WingSim Releases Santiago PÃ©rez Quiroz Airport for MSFS</title>
-    <updated>2023-03-11T00:00:00+00:00</updated>
-    <link href="/news/winsan" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/640ce6e8e86598564c176a28_ara1.png" rel="enclosure" type="image/png" length="2556956"/>
-    <summary>Sim: MSFS. WingSim has recently released their rendition of Santiago PÃ©rez Quiroz Airport (SKUC) for Microsoft Flight Simulator, serving the city of Arauca in Colombia with a yearly average of 130,000 passengers as of 2014.  Built in 1979 and named after Santiago PÃ©rez Quiroz, a Colombian military officer and politician who governed the district of Arauca in the early 20th century, it has undergone many renovations over the years to improve its facilities and services. It currently plays an important role in the region's economic development by linking it to commercial hubs in the country.  Sitting just 2 kilometers south of the border with Venezuela, the airport is currently one of the most important in eastern Colombia, served by three different airlines: EasyFly (Bucamaranga), Satena (BogotÃ¡, Bucamaranga), and SEARCA (BogotÃ¡).Â   The scenery features an accurate rendition of the airport with its main terminal, landside buildings, realistic ground markings, custom ground clutter, and custom vegetation around the terminal.Â   Itâs available onÂ SimMarketÂ for roughly $7.41, requiring at least 100.53 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ffxava</id>
     <title>FlightFX Announces the Piaggio Avanti II for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6417b6e698a66b751ca2d5f9_5718e7_513edd9c965f4c13949932f0b7e6c1da_mv2.webp" rel="enclosure" type="image/webp" length="526478"/>
     <summary>Sim: MSFS. Canada4XPlane, who rebranded to CanadianFlightSimStudios to better represent their product line, has released Prince Rupert Airport (CYPR) for both Microsoft Flight Simulator and X-Plane 12. Prince Rupert Airport, located in the Pacific Northwest in the province of British Columbia, is an island airport that sees a plethora of general aviation traffic while also servicing various commercial airlines, such as Air Canada Express and Northern Thunderbird Air. The field contains a single runway at a length of 6000 feet, allowing for various aircraft types. The scenery contains various similar features available in both the MSFS and XP12 versions, including custom vegetation models, nearby landmarks, HDR lighting, and even a custom mesh to bring the airport surroundings to life. The MSFS and XP12 feature lists can be seen below. Microsoft Flight Simulator Feature List: X-Plane 12 Feature List: â CanadianFlightSimStudioâs rendition of Prince Rupert Airport is available for both Microsoft Flight Simulator and X-Plane 12 for CAD $13.00 via the developerâs store, or via Orbx for AUD $13.00. The stores are linked below. CanadianFlightSimStudioâs Store: X-Plane 12 Version Microsoft Flight Simulator Version Orbx Store: X-Plane 12 Version Microsoft Flight Simulator Version â</summary>
     <published>2023-03-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/320neo</id>
+    <title>Toliss Release A320 NEO For X-Plane</title>
+    <updated>2023-03-21T00:00:00+00:00</updated>
+    <link href="/news/320neo" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6419fb20501b9dfbeffb3d18_315337_ToLiss_A320_NEO_store_images_-_Picture25.png" rel="enclosure" type="image/png" length="3030524"/>
+    <summary>Sim: X-Plane. X-Plane aircraft developers Toliss have released their all-new A320 Neo for XP11 and XP12. The aircraft comes as the latest edition to their fleet of Airbus products, which includes the A319, A321 and A340. This latest release aims to simulate the NEO version of the A320 to the highest level possible with many new and improved features not seen before on Toliss aircraft.Â  Some of the featured highlights of this new aircraft include:Â  This latest edition to the Toliss fleet can be picked up from the Xplane.org store for $89.99 </summary>
+    <published>2023-03-21T00:00:00+00:00</published>
   </entry>
 </feed>
