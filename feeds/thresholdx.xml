@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-25T18:21:15.842791+00:00</updated>
+  <updated>2023-03-26T18:21:28.062194+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/alklar</id>
-    <title>Alkee Creations Releases Larestan International Airport for MSFS</title>
-    <updated>2023-03-18T00:00:00+00:00</updated>
-    <link href="/news/alklar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6416439fb87dcfda2a43c9e9_lar1.png" rel="enclosure" type="image/png" length="2183638"/>
-    <summary>Sim: MSFS. Alkee Creations has recently released their rendition of Larestan International Airport (OISL) for Microsoft Flight Simulator, serving the city of Lar, in Iran.Â   With its initial operations dating back to 1983, it was an exclusively domestic airport until the end of the Persian Gulf War, when it got its first international route to Dubai.Â   The airport is owned by the Government of Iran and operated by Iran Airports Company, featuring a single terminal that can handle up to 250,000 passengers a year. Â  The annual figures sit at 161,000 passengers annually (as of 2017). Itâs served by five airlines, including flydubai (Dubai), Iran Air (Doha, Dubai, Kuwait City, and Tehran-Mehrabad), Kish Air (Najaf, Tehran-Mehrabad), Pars Air (Tehran-Mehrabad), and Qeshm Air (Dubai, and Tehran-Mehrabad).Â   The scenery features an accurate rendition of the passenger terminal with its interior, PBR texturing on most models, accurate ground layout, taxi signs and taxiways according to real-world charts, accurate windsock positioning, and FPS-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $7.44, requiring at least 297.47 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tsskuc</id>
     <title>The Secret Studio Releases Kuching International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641f119feb63762abe961aa6_MicrosoftTeams-image-4-1536x864.png" rel="enclosure" type="image/png" length="652058"/>
     <summary>Sim: MSFS. Microsoft has released sim update 12. This update includes multiple bug fixes as well as some new features. Big features include WASM support for Xbox usersÂ and new controls for turbulence. The biggest release as a part of this update is WASM support. WASM is the core script to Microsoft Flight Simulator and is attributed to the lack of support for addons in the Xbox edition. With this script being added to the Xbox edition, we will begin to see add-ons that were only available for PC move into the Xbox edition.Â  Along with the WASM support, numerous general fixes were made, and several improvements were also made to the navigation/ traffic system. Live weather also received a big update with new controls for turbulence. The Garmin G3000 and G5000 systems received updates to improve functionality and accuracy.Â  Â Finally, several aircraft received fixes and improvements, with the A310, Cessna Citation Longitude, and the Cessna Citation CJ4 receiving the most updates.Â  â For a full list of improvements and more information on how to install this update, please visit the Microsoft Flight Simulator Forum for more details.Â  â</summary>
     <published>2023-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/azu160</id>
+    <title>AzurPoly Tease New C-160 Transall for MSFS</title>
+    <updated>2023-03-26T00:00:00+00:00</updated>
+    <link href="/news/azu160" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420481b17d5d466c7cee835_2.PNG" rel="enclosure" type="image/png" length="805228"/>
+    <summary>Sim: MSFS. Azur Poly has released a video trailer of their upcoming C-160 project for Microsoft flight simulator. Although the trailer reveals little about how far along the project is or an expected timeframe for release, we do get to see the aircraft and some of its features.Â  The Transall C-160 is a military transport aircraft developed by a combination of German and French aircraft design companies, the main ones involved being: Aerospatiale, Fokker and Messerschmitt-BÃ¶lkow-Blohm. The aircraft was first built in 1965, with production ending for the most part in 1985. Although this aircraft proved vastly popular throughout its career, it is now being phased out in favour of more modern and advanced replacements.Â  It is unclear as to when the C-160 will release for MSFS, but according to Azurpolly, it's coming soon!Â </summary>
+    <published>2023-03-26T00:00:00+00:00</published>
   </entry>
 </feed>
