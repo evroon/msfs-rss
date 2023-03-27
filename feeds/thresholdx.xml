@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-26T18:21:28.062194+00:00</updated>
+  <updated>2023-03-27T18:25:40.054471+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tsskuc</id>
-    <title>The Secret Studio Releases Kuching International Airport for MSFS</title>
-    <updated>2023-03-19T00:00:00+00:00</updated>
-    <link href="/news/tsskuc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64179473b915f1077ed78f4f_kuc1.jpg" rel="enclosure" type="image/jpeg" length="803491"/>
-    <summary>Sim: MSFS. The Secret Studio has recently released their rendition of Kuching International Airport (WBGG) for Microsoft Flight Simulator, the fourth busiest airport in Malaysia with a yearly average of 6 million passengers.  Kuching Intl serves the southwestern region of Sarawak, in Malaysia, sitting just 11 kilometers south of Kuching. The structure is partially shared with RMAF Kuching, which houses the 7th squadron of the Royal Malaysian Air Force.Â   The airport started as an airstrip in 1938, with 640 meters of total length. The first terminal building came nearly 12 years later, relatively small, âLâ shaped, and single-story. The runway then was just 1,372 meters long. With the rapid growth in the 50s, the early 1960s saw further expansion work, with a new runway lengthening and a terminal enlargement.Â   The 1970s started with plans to transform Kuching into an international airport, which demanded further runway length and terminal size expansions. It all came to fruition within that decade, with the runway reaching 2,454 meters in length, and the new terminal opened in 1983, replacing the old one with a three-story, 13,000 square meters passenger terminal.  The early 2000s brought a massive increase in traffic figures, making the now-old terminal feel cramped. They have decided to build a new terminal from the inside out and progressively replace the old bits. It was inaugurated in January 2006, with full completion in April of that same year. It increased the terminal size from 13,000 to 46,000 square meters, along with a runway extension from the former 2,454 meters to 3,780 meters.Â   KIA is served by nine airlines (AirAsia, AirAsia X, Batik Air Malaysia, Firefly, Malaysia Airlines, MASwings, MYAirline, Royal Brunei Airlines, and Scoot), sporting a significant domestic network and a couple of international destinations.Â   The scenery features custom-made buildings that match as closely as possible with reference data, a custom CAT I ILS for runway 07, a detailed rendition of the main passenger terminal with its interior, retail booths, and stores, and a custom-made VDGS system.  Itâs available onÂ SimMarketÂ for roughly $19.11, requiring at least 467.30 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/caprin</id>
-    <title>CanadianFlightSimStudios Releases Prince Rupert Airport for MSFS and XP</title>
-    <updated>2023-03-20T00:00:00+00:00</updated>
-    <link href="/news/caprin" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6417b6e698a66b751ca2d5f9_5718e7_513edd9c965f4c13949932f0b7e6c1da_mv2.webp" rel="enclosure" type="image/webp" length="526478"/>
-    <summary>Sim: MSFS. Canada4XPlane, who rebranded to CanadianFlightSimStudios to better represent their product line, has released Prince Rupert Airport (CYPR) for both Microsoft Flight Simulator and X-Plane 12. Prince Rupert Airport, located in the Pacific Northwest in the province of British Columbia, is an island airport that sees a plethora of general aviation traffic while also servicing various commercial airlines, such as Air Canada Express and Northern Thunderbird Air. The field contains a single runway at a length of 6000 feet, allowing for various aircraft types. The scenery contains various similar features available in both the MSFS and XP12 versions, including custom vegetation models, nearby landmarks, HDR lighting, and even a custom mesh to bring the airport surroundings to life. The MSFS and XP12 feature lists can be seen below. Microsoft Flight Simulator Feature List: X-Plane 12 Feature List: â CanadianFlightSimStudioâs rendition of Prince Rupert Airport is available for both Microsoft Flight Simulator and X-Plane 12 for CAD $13.00 via the developerâs store, or via Orbx for AUD $13.00. The stores are linked below. CanadianFlightSimStudioâs Store: X-Plane 12 Version Microsoft Flight Simulator Version Orbx Store: X-Plane 12 Version Microsoft Flight Simulator Version â</summary>
-    <published>2023-03-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/320neo</id>
-    <title>Toliss Release A320 NEO For X-Plane</title>
-    <updated>2023-03-21T00:00:00+00:00</updated>
-    <link href="/news/320neo" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6419fb20501b9dfbeffb3d18_315337_ToLiss_A320_NEO_store_images_-_Picture25.png" rel="enclosure" type="image/png" length="3030524"/>
-    <summary>Sim: X-Plane. X-Plane aircraft developers Toliss have released their all-new A320 Neo for XP11 and XP12. The aircraft comes as the latest edition to their fleet of Airbus products, which includes the A319, A321 and A340. This latest release aims to simulate the NEO version of the A320 to the highest level possible with many new and improved features not seen before on Toliss aircraft.Â  Some of the featured highlights of this new aircraft include:Â  This latest edition to the Toliss fleet can be picked up from the Xplane.org store for $89.99 </summary>
-    <published>2023-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmds12</id>
-    <title>PMDG Updates 737 Lineup for MSFS SU12</title>
-    <updated>2023-03-22T00:00:00+00:00</updated>
-    <link href="/news/pmds12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641b72c5f77af91b0b0a0e18_pin1.png" rel="enclosure" type="image/png" length="2801136"/>
-    <summary>Sim: MSFS. PMDG has recently issued a new update to their 737 Lineup for Microsoft Flight Simulator, adding SU12 compatibility, bug fixes, Â navdata format changes, and structural work to support the upcoming Universal Flight Tablet better.  Among the bug fixes, itâs important to mention that PMDG has addressed the parking brake bug introduced with SU12 Beta. Itâs a temporary fix that will give mostly regular operation but with some oddities if the user has high-end pedals, as the parking brake could be set or released without entirely depressing both pedals. They mention it will be reverted to the usual logic once Asobo fixes the problem.  In theÂ announcement post, PMDG briefly mentioned the status of the remainder of the 737 lineup in regards to their Marketplace availability, saying itâs still being prepared and the release date will vary according to Microsoftâs approval process, which has been sped up recently but they hesitate on setting a specific timeline. The same applies to the upcoming Xbox compatibility, with no timeframe but work being done in the meantime.Â   The Universal Flight Tablet is progressing nicely, with a functioning Operational Performance Tool and charts. Both features are soon to hit testing for validation. They also mention further work on improving the UI/UX before the testing begins, which is why they havenât shown any screenshots yet.  They finish with the NAVDATA progress, which is still underway and soon to hit testing, allowing for advanced FMS lateral path management capabilities once itâs done.  The complete changelog follows down below: â The 737 lineup is available on the PMDG Shop for $34.99 (737-600), $49.99 (737-900), and $69.99 (737-700 and 737-800, individually).Â  Pictures are courtesy of Pineapple_Wizard. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lshmd8</id>
-    <title>Leonardo Software House Updates MD-82 and Releases MD-83 &amp; MD-88 for MSFS</title>
-    <updated>2023-03-23T00:00:00+00:00</updated>
-    <link href="/news/lshmd8" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641c248fe177817d2f170b29_le1.png" rel="enclosure" type="image/png" length="997779"/>
-    <summary>Sim: MSFS. Stefano from Leonardo Software House has announced in their forum an upcoming update to the MD-82 for Microsoft Flight Simulator, along with the release of two expansions, the MD-83 and the MD-88, free for previous owners (of the P3D version).  The new update brings quality-of-life enhancements while keeping your previous settings and airframes. The fixes include MDClient CTD mitigations, SimBrief import unit mismatch (pax weight approximations), improved visual effects for engine smoke and engine fire, compatibility improvements with default jetways, and documentation changes. The full changelog follows down below:  FIXED - fixed issue when changing APPROACH while already navigating the STAR; - fixed issue in W&amp;B efb app resetting changes when reopening app (if SimBrief/PFPX option not set); - fixed issue in MDClient crashing to desktop when printing subsequent ACARS messages; - fixed approximations issues for pax weight when importing from SimBrief using lbs units; EFFECTS - improved engine smoke effect; - improved engire fire effect; MODEL - fixed wrong uv mapping of lower aft antenna; OTHER - added option to force 'norm to' in efb perf app (so it shows the same values as the speed card); - changed jetwey setup to have it properly set on defualt scenery. Many add-on scenery do not comply with ASOBO req, and the result is poor there; - elevator will always be displaced when resting or taxing very slow on a windy day, even after end of first flight; - added compatibility for MD-83/-88 extension pack; - added volume settings for BG music in Load Manager; - when realistic mode is enabled, ACARS LOAD SHEET can have small random varation with respect to OFP; DOCUMENTATION - updated Fly the Maddog X Quick Guide MSFS 2020; - updated Fly the Maddog X User Manual MSFS 2020.  The MD-83 &amp; MD-88 expansion is free for previous owners (Prepar3d version). Itâs available onÂ SimMarketÂ for roughly $26.96, requiring at least 212.95 MB of free disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cdrgot</id>
     <title>Chudoba Design Releases GÃ¶teborg Landvetter Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420481b17d5d466c7cee835_2.PNG" rel="enclosure" type="image/png" length="805228"/>
     <summary>Sim: MSFS. Azur Poly has released a video trailer of their upcoming C-160 project for Microsoft flight simulator. Although the trailer reveals little about how far along the project is or an expected timeframe for release, we do get to see the aircraft and some of its features.Â  The Transall C-160 is a military transport aircraft developed by a combination of German and French aircraft design companies, the main ones involved being: Aerospatiale, Fokker and Messerschmitt-BÃ¶lkow-Blohm. The aircraft was first built in 1965, with production ending for the most part in 1985. Although this aircraft proved vastly popular throughout its career, it is now being phased out in favour of more modern and advanced replacements.Â  It is unclear as to when the C-160 will release for MSFS, but according to Azurpolly, it's coming soon!Â </summary>
     <published>2023-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ini7we</id>
+    <title>iniBuilds Announces Spartan 7W Executive for MSFS</title>
+    <updated>2023-03-26T00:00:00+00:00</updated>
+    <link href="/news/ini7we" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420db7baddeff4f99537c14_image.thumb.png.d6f874ebd599aab7625ce4197cb563f7.png" rel="enclosure" type="image/png" length="214786"/>
+    <summary>Sim: MSFS. iniBuilds have announced the next project in their CLASSIC aircraft range, the Spartan 7W Executive. This project is still in the early stages of development so stay tuned to Threshold for further updates.Â  The Spartan 7W Executive is a late 1930s aircraft built for the fledgling executive market. The aircraft featured an all-metal construction with fabric flight controls. Production started in 1936 but was halted shortly after due to World War II. Production never resumed after the war and only 36 examples were built over several models.Â  The iniBuilds project will focus on the most popular 7W model, with 34 built. This edition of the aircraft featured a spacious cabin and was powered by a single 400Hp Pratt &amp; Whitney R-985 radial engine. Although the aircraft had a short production run, 17 examples are known to exist, with several in airworthy condition.Â  No official release date has been announced yet, but stay tuned to Threshold as development continues. You can also find more information on the iniBuilds forums.Â  â</summary>
+    <published>2023-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sivtuu</id>
+    <title>SIMMAN releases Ubon Ratchathani Airport for MSFS</title>
+    <updated>2023-03-27T00:00:00+00:00</updated>
+    <link href="/news/sivtuu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420e3c615d455af6ab503e1_315907_37.png" rel="enclosure" type="image/png" length="3061887"/>
+    <summary>Sim: MSFS. Scenery developer SIMMAN has released Ubon Ratchathani Airport (ICAO: VTUU) for MSFS. VTUU is the main airport for the Ubon Ratchathani Province in Northeastern Thailand. The airport serves both civilian and military uses.Â  The airport, which opened in 1921, was first used for humanitarian purposes during a smallpox epidemic. In 1955 the airport began its military use when it became Ubon Royal Thai Air Force Base to support operations during the Vietnam War.Â  In 1975 the airport opened for commercial traffic with flights initially operating on international routes to Vietnam. International flights from the airport did not last long, the airport now serves domestic traffic only. Airlines such as; Nok Air, Thai AirAsia, and Thai Lion Air now serve destinations throughout Thailand, with the most popular destination being the capital city of Bangkok. The airport is still home to an F-5E fighter squadron.Â  This airport can be purchased for MSFS from the iniBuilds store and will require 1.42GB of storage space to install. Stay tuned to Threshold for more news. </summary>
+    <published>2023-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rans6s</id>
+    <title>FlyBoy Simulations Releases the Rans S6S Coyote II for MSFS</title>
+    <updated>2023-03-27T00:00:00+00:00</updated>
+    <link href="/news/rans6s" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420ea0544163de37d973e95_315080_1.jpeg" rel="enclosure" type="image/jpeg" length="362552"/>
+    <summary>Sim: MSFS. FlyBoy Simulations have released its first aircraft for MSFS, the Rans S6S Coyote II. This backcountry aircraft is one that many enthusiasts may way to take a look at. The Rans S6S Coyote II is a lightweight backcountry kit plane built by the popular backcountry aircraft designer Rans. The S6S has been in production since 1988 and comes as a âkit planeâ, meaning the owner/pilot will assemble the aircraft themselves. This allows for heavy customization by the builder and the Rans kits can be built in as little as 500 man-hours.Â  The Ran S6S Coyote II also known as the âSuper Sixâ comes with a 100Hp Rotax 912 engine and two different wing options. In real life the aircraft can be configured with either a nose wheel or a tail wheel, the FlyBoy release comes on both versions of the aircraft. Other features of the aircraft include: This aircraft is available from SimMarket for $15.03 USD and will require 1.94GB of disk space to install, stay tuned to Threshold for more news.</summary>
+    <published>2023-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tdsver</id>
+    <title>Token Design Releases Vernon Regional Airport for MSFS</title>
+    <updated>2023-03-27T00:00:00+00:00</updated>
+    <link href="/news/tdsver" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64219d0178ea3358a1da4806_vernon1.jpg" rel="enclosure" type="image/jpeg" length="680681"/>
+    <summary>Sim: MSFS. Token Design has recently released their rendition of Vernon Regional Airport (CYVK) for Microsoft Flight Simulator, a non-towered airport serving the city of Vernon, in Canada.  The origin of the airport dates back to the end of WW2 when Vernon relocated their airfield from the south of the city to the farmlands of Okanagan Landing, where it initially sported a single grass field that is half todayâs length. For 20 years, the Vernon Flying Club was the sole tenant - with four aircraft - and responsible for paving the 1,200x12 runway with two inches of asphalt.  During the early 1950s, Vernon Regional got a hangar, which progressively increased the aircraft capacity and traffic at the airport, with up to eighty airplanes at one point, 20 years later down the road. Such extra traffic motivated a new runway expansion to 2,200 feet while keeping the same width.Â   For over 18 years, the airport remained unchanged until the late 1980s when The Vernon Flying Club and the Tri-Lake Flight Centre financed the construction of a new runway.Â   Itâs an important airport in the region for skydivers, as it happens to be the only airport in the Okanagan Valley that allows it, given all commercial operators have to provide written consent to the skydiving company that desires to offer such service, which makes it rather unfeasible on bigger and busier airports.  The scenery features over 30 hand-modeled 3D buildings throughout the airport, an accurate replica of the main airport building terminal, the Okanagan College Aerospace Campus hangar, a custom runway with correct aprons &amp; night lighting, multiple static aircraft parked at the right areas, hand-modeled &amp; textured fuel tanks, custom taxiway signs, 4K high-detail PBR textures, and the CYVK rose compass texture on the ground.  Itâs available onÂ SimMarketÂ for roughly $10.25, requiring at least 198.61 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdxbo</id>
+    <title>PMDG Anticipates 737 Release and DC-6 Re-Release for MSFS on Xbox</title>
+    <updated>2023-03-27T00:00:00+00:00</updated>
+    <link href="/news/pmdxbo" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6421c58ad54dbf78e2755f30_Gallery_6__16156.jpeg" rel="enclosure" type="image/jpeg" length="137882"/>
+    <summary>Sim: MSFS. After the release of sim update 12 for MSFS, many developers have announced their return to Xbox. PMDG has announced that both the 737 and DC-6 will become available on the Xbox platform soon.Â  PMDG has been able to accomplish this through the implementation of C++/WASM for Xbox. Many developers such as PMDG rely on this script for their aircraft to function, with the addition of this script to Xbox will allow developers to release aircraft for both platforms.Â  This update is a major improvement to conforming both platforms, PMDG has finalized updates for the DC-6 and expects it to become available on March 30th with the 737 expected to be complete by the end of April.Â  More information about the update can be found at the PMDG Forum, ad the updates will be available through the in-game marketplace. Stay tuned to Threshold for more news. â</summary>
+    <published>2023-03-27T00:00:00+00:00</published>
   </entry>
 </feed>
