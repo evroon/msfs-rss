@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-28T18:23:55.377464+00:00</updated>
+  <updated>2023-03-29T18:27:47.075795+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cdrgot</id>
-    <title>Chudoba Design Releases GÃ¶teborg Landvetter Airport for X-Plane 11 &amp; 12</title>
-    <updated>2023-03-23T00:00:00+00:00</updated>
-    <link href="/news/cdrgot" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641cb4889b9d510039d9c3c6_esgg1.png" rel="enclosure" type="image/png" length="3357863"/>
-    <summary>Sim: X-Plane. Chudoba Design has recently released their rendition of GÃ¶teborg Landvetter Airport (ESGG) for X-Plane 11 and 12, serving the city of Gothenburg in Sweden. Itâs the second largest airport in the country after Stockholm-Arlanda, averaging nearly 7 million passengers yearly.  The airport, built to replace the Torslanda Airport, was inaugurated in October 1977 by King Carl XVI Gustaf after five years of construction work. Itâs located in HÃ¤rryda, a municipality near Gothenburg, yet named after the neighboring administrative district (Landvetter) because it was easier to pronounce. Air traffic was launched three days later, with a SAS DC-9 being the first airplane to land on the runway. The first day of operations saw around 60 movements in total.Â   Landvetter originally had two terminals, built to handle up to 3,500,000 passengers yearly. Eventually, they merged into a single terminal with eleven air bridges and many remote stands.Â   Itâs a focus city for Norwegian Air Shuttle, Ryanair, Scandinavian Airlines, SunClass Airlines, and TUI fly Nordic, sporting a considerable inter-European route network. The visitorsâ list includes major European carriers, like Air France, Austrian Airlines, British Airways, Brussels Airlines, Finnair, KLM, Lufthansa, and Swiss.Â   The scenery features PBR textures, SAM integration, performance-oriented optimization, custom buildings and objects, custom jetways, accurate night lighting, and compatibility with X-Plane 11 and 12.  Itâs available onÂ SimMarketÂ for roughly $17.25, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dwcrjr</id>
-    <title>DeltaWing Simulations Releases CRJ-1000 for X-Plane</title>
-    <updated>2023-03-23T00:00:00+00:00</updated>
-    <link href="/news/dwcrjr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641cb781677b132bdff8ca71_DWSim-CRJ1000-001-1024x609.jpeg" rel="enclosure" type="image/jpeg" length="105681"/>
-    <summary>Sim: X-Plane. DeltaWing Simulations, the developers of the CRJ 700/900 for X-Plane, have released the next model of the CRJ family. The CRJ-1000 is the largest member of the Canadair Regional Jet Family and the final model produced.Â  The Mitsubishi CRJ-1000 was originally designed and built by Bombardier Aerospace of Canada. The CRJ-1000 was the final model of the CRJ family. The -1000 was an extension of the earlier models and featured more powerful General Electric engines. This aircraft has a seating capacity for 107 passengers in a single-class layout, which proved to make the aircraft extremely unpopular in the North American regional market. The CRJ-700 was the overwhelmingly more successful model of the family. This was due to the United States Regional Carriers being limited by scope clauses set by the larger mainline aircraft. The CRJ-1000 ended production in 2018 having only produced 63 units.Â  The DeltaWing CRJ-1000 has many features users of their CRJ 700/900 products will already be familiar with, a brief feature list is as follows: â To find the complete feature list, or to purchase the aircraft, please visit the X-Plane.org Store. This aircraft will cost $49.95 USD and is X-Plane 12 compatible only. Existing owners of the CRJ-700 or -900 can find a coupon for 30% off with the invoice for your original purchase.</summary>
-    <published>2023-03-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a1rdw1</id>
     <title>A1R Design Bureau Releases Chilton DW-1A for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6421c58ad54dbf78e2755f30_Gallery_6__16156.jpeg" rel="enclosure" type="image/jpeg" length="137882"/>
     <summary>Sim: MSFS. After the release of sim update 12 for MSFS, many developers have announced their return to Xbox. PMDG has announced that both the 737 and DC-6 will become available on the Xbox platform soon.Â  PMDG has been able to accomplish this through the implementation of C++/WASM for Xbox. Many developers such as PMDG rely on this script for their aircraft to function, with the addition of this script to Xbox will allow developers to release aircraft for both platforms.Â  This update is a major improvement to conforming both platforms, PMDG has finalized updates for the DC-6 and expects it to become available on March 30th with the 737 expected to be complete by the end of April.Â  More information about the update can be found at the PMDG Forum, ad the updates will be available through the in-game marketplace. Stay tuned to Threshold for more news. â</summary>
     <published>2023-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkudub</id>
+    <title>MK-Studios Teases Upcoming Dublin Airport v2 Release for MSFS</title>
+    <updated>2023-03-29T00:00:00+00:00</updated>
+    <link href="/news/mkudub" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64238c919961218669f047cc_d1.png" rel="enclosure" type="image/png" length="2031213"/>
+    <summary>Sim: MSFS. MK-Studios has recently teased their upcoming rendition of Dublin Airport (EIDW) v2 for Microsoft Flight Simulator with a trailer video produced by AviationLads, showcasing many of its new features.  Dublin Airport is the busiest airport in Ireland, and the 12th in Europe, averaging 30 million passengers yearly. It hosts their flag carrier Aer Lingus, the low-cost carrier beast Ryanair, and TUI Airways, with a significant route network that encompasses most of Europe and some key cities in North America.Â   The second version of their Dublin scenery will feature a high-fidelity rendition of the airport, built from the ground up, with crisp textures throughout all buildings and structures, detailed interiors on pier one, four, and on the control tower, recent and hand-corrected orthoimagery, detailed, true-to-life aprons, surfaces, lines and paint markings, the addition of runway 28R/10L, realistic VDGS implementation, landside buildings and significant points of interest near the airport, compatibility with most AI traffic plugins, and optimized for PC and Xbox.  While the pricing is not available yet, the product page for the scenery onÂ OrbxDirectÂ mentions a 2.38 GB install size.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mv2dub</id>
+    <title>MK-Studios Releases Dublin Airport v2 for MSFS</title>
+    <updated>2023-03-29T00:00:00+00:00</updated>
+    <link href="/news/mv2dub" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6424616558d57b346ba9bfd0_mks1.png" rel="enclosure" type="image/png" length="2115413"/>
+    <summary>Sim: MSFS. MK-Studios has recently released their updated version of Dublin Airport (EIDW) for Microsoft Flight Simulator, adding the new runway (28R/10L), improved models and textures, and more! â  Averaging 30 million passengers a year and holding the crown of being the busiest airport in Ireland (and 12th in Europe), Dublin Airport is the gateway to the leprechaun land, housing their flag carrier Aer Lingus with their significant international and intra-European route network, the low-cost carrier giant Ryanair, and TUI Airways. Many carriers come from all over on either fixed or seasonal basis, including Air France, American Airlines, British Airways, Emirates, Finnair, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, and United Airlines.Â   Dublin V2 features a high-fidelity rendition of the airport built from the ground up, with crisp texturing on models and ground, detailed interiors on pier 1, 4, and on the control tower, performance-friendly optimization, recent (and color-corrected) orthoimagery, detailed aprons, true-to-life ground markings, realistic VDGS implementation, landside buildings and significant points of interest, compatibility with most AI traffic plugins and the inclusion of the brand new runway 28R/10L.  Itâs available onÂ OrbxDirectÂ for roughly $16.70 (with a 30% discount for V1/P3D version owners), requiring at least 2.38 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-29T00:00:00+00:00</published>
   </entry>
 </feed>

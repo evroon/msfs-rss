@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-03-28T18:23:53.871105+00:00</updated>
+  <updated>2023-03-29T18:27:45.343106+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/march-9th-2023-development-update/</id>
-    <title>March 9th, 2023 Development Update</title>
-    <updated>2023-03-10T01:57:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-9th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/DaveBGaming-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="51940"/>
-    <summary>Public testing for Sim Update 12 continues with a new pre-release beta build (1.31.21.0) available today. You can see the change log for this version on our forums</summary>
-    <published>2023-03-10T01:57:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-16th-2023-development-update/</id>
     <title>March 16th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/vp_sim-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="131045"/>
     <summary>This week has been full of activity for the team here at Microsoft Flight Simulator. On March 21, we launched the latest major release, Sim Update 12.</summary>
     <published>2023-03-24T00:30:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/simarc-sale/</id>
+    <title>SimArc Sale</title>
+    <updated>2023-03-29T17:00:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/simarc-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/SimArcSale_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97701"/>
+    <summary>2 Items On Sale Now in the Marketplace</summary>
+    <published>2023-03-29T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/americas-first-black-astronauts/</id>
