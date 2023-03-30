@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-29T18:27:47.075795+00:00</updated>
+  <updated>2023-03-30T18:21:45.705376+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a1rdw1</id>
-    <title>A1R Design Bureau Releases Chilton DW-1A for MSFS</title>
-    <updated>2023-03-23T00:00:00+00:00</updated>
-    <link href="/news/a1rdw1" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641cbd50dd19958e4fd2347e_a1r-chilton-dw-1a_1_ss_m_230307122802.jpeg" rel="enclosure" type="image/jpeg" length="25550"/>
-    <summary>Sim: MSFS. Long-term aircraft developer A1R Design Bureau, known for creating vintage aircraft for MSFS and other simulators; such as the Ryan ST-A Special, has released its next project. The DW-1A is a Light Sport Aircraft designed in Britain in the late 1930s. It featured a 32-Hp automobile engine that had been modified for aviation use. Only 4 examples were officially built, with another 3 being built for amateur use. The DW-1A featured an all-wood construction with fabric control surfaces. This aircraft represents the pre-war recreational aircraft that vintage aircraft lovers can bring to their MSFS hangar. The A1R DW-1A can be purchased at the Just Flight Store for $21.49 USD and will require 1.42 GB of storage to install. Stay tuned to Threshold for more aircraft releases.Â  â</summary>
-    <published>2023-03-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bsbonz</id>
     <title>Black Square Releases Bonanza Steam Gauge Overhaul</title>
@@ -150,6 +141,15 @@
     <link href="/news/mv2dub" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6424616558d57b346ba9bfd0_mks1.png" rel="enclosure" type="image/png" length="2115413"/>
     <summary>Sim: MSFS. MK-Studios has recently released their updated version of Dublin Airport (EIDW) for Microsoft Flight Simulator, adding the new runway (28R/10L), improved models and textures, and more! â  Averaging 30 million passengers a year and holding the crown of being the busiest airport in Ireland (and 12th in Europe), Dublin Airport is the gateway to the leprechaun land, housing their flag carrier Aer Lingus with their significant international and intra-European route network, the low-cost carrier giant Ryanair, and TUI Airways. Many carriers come from all over on either fixed or seasonal basis, including Air France, American Airlines, British Airways, Emirates, Finnair, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, and United Airlines.Â   Dublin V2 features a high-fidelity rendition of the airport built from the ground up, with crisp texturing on models and ground, detailed interiors on pier 1, 4, and on the control tower, performance-friendly optimization, recent (and color-corrected) orthoimagery, detailed aprons, true-to-life ground markings, realistic VDGS implementation, landside buildings and significant points of interest, compatibility with most AI traffic plugins and the inclusion of the brand new runway 28R/10L.  Itâs available onÂ OrbxDirectÂ for roughly $16.70 (with a 30% discount for V1/P3D version owners), requiring at least 2.38 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inijfk</id>
+    <title>iniBuilds Announces John F. Kennedy International Airport for MSFS</title>
+    <updated>2023-03-29T00:00:00+00:00</updated>
+    <link href="/news/inijfk" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6424874e3696888342456a91_jfk1.png" rel="enclosure" type="image/png" length="3513815"/>
+    <summary>Sim: MSFS. iniBuilds hasÂ recently announcedÂ the development of their next mega-hub for Microsoft Flight Simulator: John F. Kennedy International Airport (KJFK), the primary airport serving New York City and the busiest of the lot, with over 60 million passengers per year.Â   Opened 74 years ago as New York International Airport, or Idlewild Airport, after the homonymous golf course that it displaced in the early 1940s, it originally featured a single 7,365 square meter terminal (expanded to 20,021 square meters in 1949) and six runways.Â   The current naming was only adopted after John F. Kennedyâs assassination in 1963 as a tribute. It was also back when the airport took the crown as New Yorkâs busiest, with more take-offs and landings than LaGuardia and Newark combined, and even managed to be the second busiest in the country with nearly 404,000 airline operations. With LaGuardiaâs eventual expansion, the figures evened out by the 70s, with similar flight counts.Â   As a curiosity, KJFK was the first airport in the United States ever to receive a commercial A380 flight in March 2007. The first regularly scheduled commercial flight to ever land on JFK happened a year later, by the wings of Emirates (Dubai - JFK route). The list of A380 operators with a regular schedule goes way beyond that, with Singapore Airlines, Air France, Korean Air, and Etihad Airways. It was also the first American airport to receive a commercial A350 flight in 2015.  The busiest international gateway to the United States is served and visited by over 90 airlines, covering all the inhabited continents around the globe. JetBlue tops the market share chart, with 28.8% or 15,624,961 passengers, followed by Delta Air Lines and American Airlines, with 28.4% (15,390,437) and 14.5% (7,870,971), respectively. From foreign operators, Air France leads the way with 1.9% of the total market share or 1,025,339 passengers.  The scenery will feature highly detailed models of all airport buildings, objects, and surroundings, with hand-crafted ground poly, crisp textures, accurately modeled and positioned dynamic lighting, custom static aircraft, custom jetways (10+), true-to-life airport landside recreation, realistic taxi signage, up to date airport layout, fully animated JFK AirTrain between terminals, LOD optimization for optimal performance, use of the latest MSFS SDK features, and full iniManager compatibility to configure the scenery for the best performance possible. They also highlight an accurate rendition of the TWA Hotel with an intricately detailed interior and the Constellation aircraft in TWA colors.Â   There has not been any information on the release date, pricing, or install size. Stay tuned to Threshold for further details on the matter! â</summary>
     <published>2023-03-29T00:00:00+00:00</published>
   </entry>
 </feed>
