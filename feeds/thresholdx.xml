@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-03-31T18:21:39.575417+00:00</updated>
+  <updated>2023-04-01T18:20:21.735561+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bsbarn</id>
-    <title>Black Square Releases Baron Steam Gauge Overhaul for MSFS</title>
-    <updated>2023-03-23T00:00:00+00:00</updated>
-    <link href="/news/bsbarn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641cc629ffba87c39395bd1e_steam-gauge-overhaul-analog-baron_7_ss_l_230215155954.jpeg" rel="enclosure" type="image/jpeg" length="305677"/>
-    <summary>Sim: MSFS. Black Square has released another product in its line of aircraft overhauls. Similar to their previous releases, Black Square has created a study-level remake of the Beechcraft Baron, an aircraft that is provided with the simulator. As with the previous release, this aircraft includes a completely rebuilt interior and a full overhaul of the systems.Â  This release carries over features users of the other steam gauge products will be familiar with, such as animated circuit breakers and persistent wear. As with the previous release, the aircraft comes with several avionics packages so the user can choose their level of equipment. A complete feature list can be found below:Â  â Systems â Cockpit â This addition will also include realistic normal and emergency checklists with over 500 checklist items and an improved sound set.Â Â  This addition can be purchased at the Just Flight Store for $32.99 USD. A bundle is also available which includes both the analog baron and bonanza. You must be a user of either the Deluxe or Premium Deluxe edition to use. Stay tuned to Threshold for more flight sim news.</summary>
-    <published>2023-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inichi</id>
-    <title>iniBuilds Releases Chios Island National Airport for MSFS</title>
-    <updated>2023-03-24T00:00:00+00:00</updated>
-    <link href="/news/inichi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641da9ebb4ae9324c4ab1fd6_chios1.webp" rel="enclosure" type="image/webp" length="457668"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of Chios Island National Airport (LGHI) for Microsoft Flight Simulator, the 16th busiest airport in Greece with a yearly average of 240,000 passengers. It serves Chios, the fifth-largest Greek island.  Owned by the government, Chios Airport started its operations in mid-1969 with an Olympic Airways flight from Athens. It underwent several upgrades, including a new passenger terminal in the 1980s. According to Greek Travel Pages, the airport recently received 9.6 million euros in funding from the National Strategic Reference Framework to upgrade the infrastructure and facilities, expanding the terminal to comport higher traffic figures. Deputy Minister Giorgios Karagiannis has mentioned itâs part of a broader plan to modernize the airports in the country.  With a single, 1,511-meter-long runway, it mostly gets regional traffic from either Olympic Air or Sky Expressâ ATR fleet, but it can fit up to an Airbus A320/ Boeing 738. The airlines mentioned above are the only ones currently serving the airport, with frequent flights to Athens, Thessaloniki, Lemnos, Mytilene, Rhodes, and Samos.Â   The scenery features hand-made ground textures, true-to-life landside recreation with custom ground decals, signposts, vegetation, parking barriers, and more, accurate real-world decals and advertisements, accurately placed lighting, surrounding objects including shops and boats, and hand-placed ground service equipment properly scattered around.Â   Itâs available on theÂ iniBuilds StoreÂ for roughly $8.58, requiring at least 1.84 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/chupro</id>
-    <title>Chudoba Design Announces "Project People" for X-Plane</title>
-    <updated>2023-03-24T00:00:00+00:00</updated>
-    <link href="/news/chupro" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641db020bb63c4b35f014517_pp4.png" rel="enclosure" type="image/png" length="1346999"/>
-    <summary>Sim: X-Plane. Yesterday, Chudoba Design made an announcement post on theirÂ Facebook pageÂ regarding their release of Gothenburg for X-Plane 11 &amp; 12 and a new project, temporarily named "Project People," bringing Inverse Kinematics animated 3D people into X-Plane.  The project will involve renting a motion capture studio for two weeks in April to capture a wide range of movements that can be used to create models of idle people, passengers, ramp agents, and more. These models will be imported into X-Plane as an extensive library, and the best part is that it will be free for users and freeware scenery creators. Payware scenery creators will only need to pay a small fee per airport that uses the library.Â   They have also mentioned the possibility of a potential MSFS conversion in the future "if everything goes well" while also reinforcing it's their biggest project to date.Â  â While the focus is currently on "Project People," Chudoba Design plans to bring more sceneries to X-Plane and convert some of their existing sceneries to MSFS. LBBG, HETB, and HEMM will be brought to MSFS, and they also plan to recreate some objects in LROP and completely recreate groundpoly in LKPR. With all these exciting developments, users can look forward to an even more immersive simulation experience with Chudoba Design.  There is no information on a potential release date, but the developer recommends keeping an eye on theirÂ DiscordÂ for further details.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/skycam</id>
-    <title>SkyDesigners Releases Cambrai-Ãpinoy Air Base for MSFS</title>
-    <updated>2023-03-25T00:00:00+00:00</updated>
-    <link href="/news/skycam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/641edfbbefa761c448b856f6_cambrai1.jpg" rel="enclosure" type="image/jpeg" length="1343123"/>
-    <summary>Sim: MSFS. SkyDesigners has recently released their rendition of the Cambrai-Ãpinoy Air Base (LFQI) for Microsoft Flight Simulator, a deactivated air base near Cambrai in France.  Created by the Germans during WW1, it was taken by the French air force right after the war, becoming âAir Base 103â (around 1936). It was once again occupied by the Germans during WW2, between 1940 and 1944, stationing several Luftwaffe units. The British took over briefly during the liberation of France, and it was handed back to the French in 1945.  It was renamed in 1959 after Commander RenÃ© Mouchotte, who died fighting for France in 1944.  The air base was officially closed in 2013, after many years of history and two world wars, bolstering over 1,500 personnel during its glory days.Â   In April 2017, the site was purchased. It will undergo a conversion process to become the largest e-Commerce warehouse in Europe, with 700,000 square meters of built area, costing around 300 million euros to make, and potentially generating 1,300 jobs, heavily benefitting the region: the unemployment rate at Cambrai sits at 24% (as of 2017).Â   The scenery features an accurate rendition of the air base as it was before its conversion into a warehouse, with multiple static aircraft (Mirage 2000C, 2000Bs, with their real numbers and registrations), maintenance zones and hangars as of 2010, specific service vehicles and ground crew, photorealistic buildings, accurate modeling of military installations and their squadrons, hundreds of custom objects, MIAC charts for the corresponding period, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $16.12, requiring at least 766.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbroc</id>
     <title>Orbx Releases Rockhampton Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6425e289b61fa71ecd058a34_rjff1-min.png" rel="enclosure" type="image/png" length="1088644"/>
     <summary>Sim: MSFS. Snj Sim has recently released their rendition of Fukuoka Airport (RJFF) for Microsoft Flight Simulator, the 4th busiest airport in Japan with a yearly average of 24 million passengers. It was built during late WW2 by the Imperial Japanese Army Air Force as Mushiroda Airfield and later occupied by the USAF as Itazuke Air Base from 1945 to 1972. It was the largest USAF airbase on the island of Kyushu until its closure due to budget cuts and the gradual reduction of US Army presence in Japan. The airport saw civilian air service for the first time in 1951, with a Japan Airlines service from Fukuoka to Osaka and then Tokyo. JAL followed suit ten years later with a flight from Fukuoka to Tokyo. The first international flight only happened in 1965, to Busan in South Korea. Air Siam and Air France tried to offer international services in 1975 but it didnât last long. As one of the busiest airports in the country, Fukuoka gets visited by many domestic and international airlines, including Air Busan, All Nippon Airways, Asiana Airlines, Cathay Pacific, Cebu Pacific, China Airlines, EVA Air, Hawaiian Airlines, Japan Airlines, Jeju Air, Jetstar Japan, Korean Air, Peach Aviation, Singapore Airlines, Thai Airways, United Airlines, and Vietnam Airlines.  The scenery features a detailed rendition of Fukuoka Airport, with surrounding buildings, custom autogen, animated jetway models, custom airport groundpoly, realistic night dynamic lights, custom static vehicles, and AI traffic plugin compatibility (tested with FSLTL). They mention an eventual update once the work on the second runway and taxiways reaches completion. Itâs available on SimMarket for roughly $15.73, requiring at least 1 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lvf320</id>
+    <title>Latin VFR Release A320 CEO</title>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <link href="/news/lvf320" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6427360d02503df5dbed7282_332239360_1345118569675623_4454289404156924450_n.webp" rel="enclosure" type="image/webp" length="268772"/>
+    <summary>Sim: MSFS. Popular aircraft and scenery developers LatinVFR have recently released the latest addition to their ever-growing fleet of Airbus aircraft for MSFS. The A320 ceo has an impressive 90 liveries based on real-world operators and has engine options for both the CFM and IAE variants. The aircraft also comes with the option of the Airbus Sharklets rather than the standard Airbus wing tip devices.Â  The aircraft is the first of the LatinVFR fleet to feature their new EFB which provides an easy way to control the ground handling equipment which is modelled with the aircraft. The developer has noted that this EFB will eventually be implemented on their entire fleet.Â  Although the A320 appears to lack slightly in system depth when compared to the FlyByWire or Fenix options, there seems to be a real improvement on previous aircraft., LatinVFR appear to be marketing the A320 ceo to a market more suited to the casual sim pilot and to those using MSFS on games consoles.Â  The aircraft can be purchased through the MSFS marketplace for both XBOX and PC at the price of $24.99 â</summary>
+    <published>2023-03-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/banf12</id>
+    <title>Banff National Park UHD Released for XP12</title>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <link href="/news/banf12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64273b04cb17ba373e62eeea_33.PNG" rel="enclosure" type="image/png" length="983118"/>
+    <summary>Sim: X-Plane. The talented Frank Dainese has just released his latest masterpiece for the X-Plane platform, Focusing on the Banff National Park region this stunning scenery will provide pilots with a fantastic place to fly their virtual aircraft and enjoy the stunning views that Albertaâs rocky mountains have to offer.Â  The scenery package includes over 13 airfields, water strips and helipads for pilots to fly from, along with 1500 square Kilometers of stunning 4K national park.Â  The scenery can be purchased from the Xplane.org store for $24.95 â</summary>
+    <published>2023-03-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dditnn</id>
+    <title>Drzewiecki Design Releases Tallinn Airport for MSFS</title>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <link href="/news/dditnn" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64275698381fc1e6616367af_eet1.jpg" rel="enclosure" type="image/jpeg" length="2242922"/>
+    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Tallinn Airport (EETN) for Microsoft Flight Simulator, Estoniaâs largest and busiest airport with a yearly average of 2,700,000 passengers.Â   The airportâs conception dates back to 1931 when the construction work began. Completion and the official opening happened five years later, despite being operational four years before, with LOT Polish Airlines flying a Fokker F.VIIb/3m.Â   During World War 2, the airport was first occupied by the Soviets (1940), then by Germany (1941-1944), and later under the Soviet helm again, with Aeroflot being the sole operator for 44 years. During that period, the airport got a new terminal, designed under Stalinist architecture, and finished in 1954. As the years went by and the traffic figures increased significantly, there was a need for a newer terminal, built between 1976 and 1980, just in time for the 1980 Summer Olympics sailing event held in Tallinn. The new terminal was designed by Mihhail Piskov, taking inspiration from traditional Estonian housebarn architecture, and Maile GrÃ¼nberg designed the interior. Â   Recent work included the construction of a cargo terminal in 1997 and a passenger terminal modernization in 1999, increasing the passenger capacity and improving the infrastructure. It was expanded again in 2008 to 35,000 square meters, the current standard. The expansion included 18 new gates, ten new check-in desks, a new restaurant and cafes, and separate lounges for Schengen and non-Schengen flights.Â   There are plans to expand the airport by 2035, bringing the total capacity up to 8 million passengers per year, 85,000 square meters of expanded area, and 26 gates.Â   The scenery features a high-quality rendition of the airport, with an up-to-date ground layout, custom clutter, custom ground textures, custom jetways, interiors on all terminal buildings, static aircraft, GSX Pro compatibility, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $22.86, requiring at least 1.95 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tpskit</id>
+    <title>TropicalSim Releases Robert L. Bradshaw Airport for MSFS</title>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <link href="/news/tpskit" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6427603aa6c4e3d257aadb16_kit1.png" rel="enclosure" type="image/png" length="1087999"/>
+    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Robert L. Bradshaw Airport (TKPK) for Microsoft Flight Simulator, serving the city of Basseterre on the island of Saint Kitts in the West Indies.  The airport was built in the 1940s as an airfield to serve the needs of the Royal Air Force during World War II. After the war, it was turned over to the local government and became a civilian airport. Over the years, the airport underwent several upgrades and expansions, including the construction of a new terminal building in the 1990s and a major renovation between 2004-2006, at the cost of 17 million USD.  With a yearly average of 400,000 passengers, St. Kitts Airport is served by ten airlines: Air Canada Rouge, Air Sunshine, American Airlines, British Airways, Delta Air Lines, InterCaribbean Airways, Silver Airways, Sky High, Trans Anguilla Airways, and United Airlines. Interestingly, the American Airlines service between St. Kitts and Miami/New York has been going on since 1979.Â   The scenery features a high-detail rendition of the airport, with full night illumination, native MSFS dynamic lighting, seamless integration with the default scenery, full use of the SDK, up-to-date ground layout, custom ground markings, terminal interior, and 3D passengers.  Itâs available onÂ SimMarketÂ for roughly $15.78, requiring at least 1.36 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-03-31T00:00:00+00:00</published>
   </entry>
 </feed>
