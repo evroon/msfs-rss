@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-04-05T18:25:42.433530+00:00</updated>
+  <updated>2023-04-06T18:21:29.908402+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/msk-productions-sale/</id>
-    <title>MSK Productions Sale</title>
-    <updated>2023-03-17T18:00:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/msk-productions-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/MSKSale_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="109315"/>
-    <summary>Enjoy discounted pricing on Marketplace content from MSK Productions.</summary>
-    <published>2023-03-17T18:00:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/release-notes-sim-update-12-1-31-22-0/</id>
     <title>Release Notes for Sim Update 12 [1.31.22.0] Available Now!</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/2525ARW-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="68850"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user 2525ARW, featuring a Boeing 747 touching down on a rain-slick runway. If you’re interested in participating in our weekly Screenshot Challenges, check out the contest details in the Community section below!As March comes to a close, we are happy to recognize Women’s History Month with a feature interview … Continued</summary>
     <published>2023-03-30T23:29:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-spring-sale/</id>
+    <title>Microsoft Flight Simulator Spring Sale</title>
+    <updated>2023-04-06T17:00:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-spring-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/MSFS_SpringSale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121728"/>
+    <summary>Enjoy discounted pricing during our Microsoft Flight Simulator Spring Sale!</summary>
+    <published>2023-04-06T17:00:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/americas-first-black-astronauts/</id>
