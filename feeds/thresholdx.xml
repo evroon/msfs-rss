@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-07T18:21:12.732948+00:00</updated>
+  <updated>2023-04-08T18:20:20.909457+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rans6s</id>
-    <title>FlyBoy Simulations Releases the Rans S6S Coyote II for MSFS</title>
-    <updated>2023-03-27T00:00:00+00:00</updated>
-    <link href="/news/rans6s" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6420ea0544163de37d973e95_315080_1.jpeg" rel="enclosure" type="image/jpeg" length="362552"/>
-    <summary>Sim: MSFS. FlyBoy Simulations have released its first aircraft for MSFS, the Rans S6S Coyote II. This backcountry aircraft is one that many enthusiasts may way to take a look at. The Rans S6S Coyote II is a lightweight backcountry kit plane built by the popular backcountry aircraft designer Rans. The S6S has been in production since 1988 and comes as a âkit planeâ, meaning the owner/pilot will assemble the aircraft themselves. This allows for heavy customization by the builder and the Rans kits can be built in as little as 500 man-hours.Â  The Ran S6S Coyote II also known as the âSuper Sixâ comes with a 100Hp Rotax 912 engine and two different wing options. In real life the aircraft can be configured with either a nose wheel or a tail wheel, the FlyBoy release comes on both versions of the aircraft. Other features of the aircraft include: This aircraft is available from SimMarket for $15.03 USD and will require 1.94GB of disk space to install, stay tuned to Threshold for more news.</summary>
-    <published>2023-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tdsver</id>
-    <title>Token Design Releases Vernon Regional Airport for MSFS</title>
-    <updated>2023-03-27T00:00:00+00:00</updated>
-    <link href="/news/tdsver" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64219d0178ea3358a1da4806_vernon1.jpg" rel="enclosure" type="image/jpeg" length="680681"/>
-    <summary>Sim: MSFS. Token Design has recently released their rendition of Vernon Regional Airport (CYVK) for Microsoft Flight Simulator, a non-towered airport serving the city of Vernon, in Canada.  The origin of the airport dates back to the end of WW2 when Vernon relocated their airfield from the south of the city to the farmlands of Okanagan Landing, where it initially sported a single grass field that is half todayâs length. For 20 years, the Vernon Flying Club was the sole tenant - with four aircraft - and responsible for paving the 1,200x12 runway with two inches of asphalt.  During the early 1950s, Vernon Regional got a hangar, which progressively increased the aircraft capacity and traffic at the airport, with up to eighty airplanes at one point, 20 years later down the road. Such extra traffic motivated a new runway expansion to 2,200 feet while keeping the same width.Â   For over 18 years, the airport remained unchanged until the late 1980s when The Vernon Flying Club and the Tri-Lake Flight Centre financed the construction of a new runway.Â   Itâs an important airport in the region for skydivers, as it happens to be the only airport in the Okanagan Valley that allows it, given all commercial operators have to provide written consent to the skydiving company that desires to offer such service, which makes it rather unfeasible on bigger and busier airports.  The scenery features over 30 hand-modeled 3D buildings throughout the airport, an accurate replica of the main airport building terminal, the Okanagan College Aerospace Campus hangar, a custom runway with correct aprons &amp; night lighting, multiple static aircraft parked at the right areas, hand-modeled &amp; textured fuel tanks, custom taxiway signs, 4K high-detail PBR textures, and the CYVK rose compass texture on the ground.  Itâs available onÂ SimMarketÂ for roughly $10.25, requiring at least 198.61 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmdxbo</id>
     <title>PMDG Anticipates 737 Release and DC-6 Re-Release for MSFS on Xbox</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/642f1c7de0b42f721e77b3d6_12.PNG" rel="enclosure" type="image/png" length="216959"/>
     <summary>Sim: X-Plane. SimHeaven has recently updated its X-World America and X-World Asia scenery packages for X-Plane 12. The updates bring some fixes and additional features to the packages. While both packages' main points of change are similar in the latest update, there are some small differences.Â  X-World America changelog:Â  v2.2 Fixes X-World Asia changelog:Â  V2.2 â Fixes â You can find out more about the latest updates on SimHeaven.com â</summary>
     <published>2023-04-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbgot</id>
+    <title>Orbx Teases Gothenburg Landvetter Airport Update for MSFS</title>
+    <updated>2023-04-07T00:00:00+00:00</updated>
+    <link href="/news/orbgot" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6430a09ed7ce842630c4c9cc_go1.jpg" rel="enclosure" type="image/jpeg" length="748992"/>
+    <summary>Sim: MSFS. Orbx has recentlyÂ postedÂ on âThe Arlanda Journal,â their page for reporting the development progress on their rendition of Stockholm-Arlanda for Microsoft Flight Simulator, with information on an upcoming update for their Gothenburg Landvetter Airport (ESGG) scenery, also for Microsoft Flight Simulator.Â   Gothenburg Landvetter is the second largest airport in Sweden, averaging 7 million passengers per year. It was inaugurated in 1977 by King Carl XVI Gustaf, replacing Torslanda Airport, deemed too small to handle the traffic demand.Â   Itâs a focus city for Norwegian Air Shuttle, Ryanair, Scandinavian Airlines, SunClass Airlines, and TUI fly Nordic, sporting a sizeable inter-European route network. The visitorsâ list includes major European carriers, like Air France, Austrian Airlines, British Airways, Brussels Airlines, Finnair, KLM, Lufthansa, and Swiss.Â   Orbx claims they are hoping for a quick release, with testing underway. They highlight the addition of animated airside traffic, with variable intensity according to the time of day and with smoothness in mind. Other than that, they also mention the implementation of snow banks that only appear under certain conditions. The rest of the feature list includes animated jetways, functional and correct VDGS for all parking spots that got them, ground texture enhancements, interior enhancements, custom approach light objects, snow trucks when itâs snowing, updated GSE and clutter, static business jets (optional), new Scandic hotel, the new terminal, and a GSX profile.Â   While the update is not out yet, Orbxâs Gothenburg can be found onÂ OrbxDirectÂ for roughly $12.18 (on sale for 13 days), requiring at least 5.46 GB of free hard disk space to install. The update is going to be entirely free for previous owners. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbytv</id>
+    <title>Orbx Releases Tivat Airport for MSFS</title>
+    <updated>2023-04-08T00:00:00+00:00</updated>
+    <link href="/news/orbytv" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64318d8f08ce444be36801dc_tv1.png" rel="enclosure" type="image/png" length="1691782"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Tivat Airport (LYTV) for Microsoft Flight Simulator, the busiest airport in Montenegro with a yearly average of 1.3 million passengers (pre-pandemic).Â   The airport was originally just a grass airfield in 1957, with a small apron and a terminal building. Most traffic was strictly domestic for the first decade, with DC-3s and II-14s. The first modernization began between 1968 and 1971, with an asphalt runway, a bigger apron, extended taxiways, and a substantial terminal expansion. An earthquake eight years later forced them to refurbish it again, with increased dimensions to fit widebody aircraft. After an ownership change in 2003, the airport had another major modernization, with an improved terminal.Â   In the early 2010s, the administration realized the current terminal would not hold up with the gradual increase in the yearly average, so planning and building a second terminal, inaugurated in 2018 by their Prime Minister.Â   Most of the traffic is seasonal, peaking in the summer. Many airlines from all over Europe are visiting, including Austrian Airlines, easyJet, Edelweiss, Eurowings, LOT, Lufthansa, Norwegian Air Shuttle, Transavia, and Turkish. Air Montenegro and Air Serbia are the only ones offering all-year-long coverage with a route to Belgrade. Â   Developed by one of their indies (Rasha Tucakov), the scenery features a high-detail rendition of Tivat Airport, with detailed terminal interiors, parallax windows, custom apron and runway textures, custom library objects, and many custom points of interest on approach.  Itâs available onÂ OrbxDirectÂ for roughly $16.44, requiring at least 1.83 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-08T00:00:00+00:00</published>
   </entry>
 </feed>
