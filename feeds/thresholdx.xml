@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-08T18:20:20.909457+00:00</updated>
+  <updated>2023-04-09T18:20:18.708317+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmdxbo</id>
-    <title>PMDG Anticipates 737 Release and DC-6 Re-Release for MSFS on Xbox</title>
-    <updated>2023-03-27T00:00:00+00:00</updated>
-    <link href="/news/pmdxbo" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6421c58ad54dbf78e2755f30_Gallery_6__16156.jpeg" rel="enclosure" type="image/jpeg" length="137882"/>
-    <summary>Sim: MSFS. After the release of sim update 12 for MSFS, many developers have announced their return to Xbox. PMDG has announced that both the 737 and DC-6 will become available on the Xbox platform soon.Â  PMDG has been able to accomplish this through the implementation of C++/WASM for Xbox. Many developers such as PMDG rely on this script for their aircraft to function, with the addition of this script to Xbox will allow developers to release aircraft for both platforms.Â  This update is a major improvement to conforming both platforms, PMDG has finalized updates for the DC-6 and expects it to become available on March 30th with the 737 expected to be complete by the end of April.Â  More information about the update can be found at the PMDG Forum, ad the updates will be available through the in-game marketplace. Stay tuned to Threshold for more news. â</summary>
-    <published>2023-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkudub</id>
-    <title>MK-Studios Teases Upcoming Dublin Airport v2 Release for MSFS</title>
-    <updated>2023-03-29T00:00:00+00:00</updated>
-    <link href="/news/mkudub" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64238c919961218669f047cc_d1.png" rel="enclosure" type="image/png" length="2031213"/>
-    <summary>Sim: MSFS. MK-Studios has recently teased their upcoming rendition of Dublin Airport (EIDW) v2 for Microsoft Flight Simulator with a trailer video produced by AviationLads, showcasing many of its new features.  Dublin Airport is the busiest airport in Ireland, and the 12th in Europe, averaging 30 million passengers yearly. It hosts their flag carrier Aer Lingus, the low-cost carrier beast Ryanair, and TUI Airways, with a significant route network that encompasses most of Europe and some key cities in North America.Â   The second version of their Dublin scenery will feature a high-fidelity rendition of the airport, built from the ground up, with crisp textures throughout all buildings and structures, detailed interiors on pier one, four, and on the control tower, recent and hand-corrected orthoimagery, detailed, true-to-life aprons, surfaces, lines and paint markings, the addition of runway 28R/10L, realistic VDGS implementation, landside buildings and significant points of interest near the airport, compatibility with most AI traffic plugins, and optimized for PC and Xbox.  While the pricing is not available yet, the product page for the scenery onÂ OrbxDirectÂ mentions a 2.38 GB install size.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mv2dub</id>
     <title>MK-Studios Releases Dublin Airport v2 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64318d8f08ce444be36801dc_tv1.png" rel="enclosure" type="image/png" length="1691782"/>
     <summary>Sim: MSFS. Orbx has recently released their rendition of Tivat Airport (LYTV) for Microsoft Flight Simulator, the busiest airport in Montenegro with a yearly average of 1.3 million passengers (pre-pandemic).Â   The airport was originally just a grass airfield in 1957, with a small apron and a terminal building. Most traffic was strictly domestic for the first decade, with DC-3s and II-14s. The first modernization began between 1968 and 1971, with an asphalt runway, a bigger apron, extended taxiways, and a substantial terminal expansion. An earthquake eight years later forced them to refurbish it again, with increased dimensions to fit widebody aircraft. After an ownership change in 2003, the airport had another major modernization, with an improved terminal.Â   In the early 2010s, the administration realized the current terminal would not hold up with the gradual increase in the yearly average, so planning and building a second terminal, inaugurated in 2018 by their Prime Minister.Â   Most of the traffic is seasonal, peaking in the summer. Many airlines from all over Europe are visiting, including Austrian Airlines, easyJet, Edelweiss, Eurowings, LOT, Lufthansa, Norwegian Air Shuttle, Transavia, and Turkish. Air Montenegro and Air Serbia are the only ones offering all-year-long coverage with a route to Belgrade. Â   Developed by one of their indies (Rasha Tucakov), the scenery features a high-detail rendition of Tivat Airport, with detailed terminal interiors, parallax windows, custom apron and runway textures, custom library objects, and many custom points of interest on approach.  Itâs available onÂ OrbxDirectÂ for roughly $16.44, requiring at least 1.83 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmslie</id>
+    <title>MM Simulations Teases LiÃ¨ge Airport for MSFS</title>
+    <updated>2023-04-09T00:00:00+00:00</updated>
+    <link href="/news/mmslie" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6432ec877e107c7279a261b7_lie1.jpg" rel="enclosure" type="image/jpeg" length="1013682"/>
+    <summary>Sim: MSFS. MM Simulations has recently teased the progress on their rendition of LiÃ¨ge Airport (EBLG) for Microsoft Flight Simulator, the 5th biggest cargo airport in Europe and 22nd in the World.Â   Originally a military airfield, it was used by the Germans during World War II as a base for their Luftwaffe aircraft. After the war, the Belgian Air Force used the airport until the 1960s, when it was converted into a commercial airport. In the 1980s, LiÃ¨ge Airport became known for its cargo operations and became a major European freight transport hub. Today, the airport is one of the largest cargo airports in the World, handling over 900,000 tons of goods each year and serving as a vital link in the global supply chain.  TUI fly Belgium is the only airline offering scheduled flights to and from LiÃ¨ge, with routes to Alicante, Gran Canaria, MÃ¡laga, and Tenerife-South. The traffic figures sit at less than 400,000 passengers yearly.  The developers have been showcasing the scenery on theirÂ Facebook page, with many screenshots of the terminal interior, cargo area, and some of the cargo apron. A selection of these screenshots will be posted alongside this article.  Thereâs still no pricing and release date information, but Threshold will keep you informed! â</summary>
+    <published>2023-04-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dbslan</id>
+    <title>DarkBlueScenery Releases Lanzhou-Zhongchuan International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2023-04-09T00:00:00+00:00</updated>
+    <link href="/news/dbslan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6432f2c2cd9a78d4ea506bd9_lan1.png" rel="enclosure" type="image/png" length="2695349"/>
+    <summary>Sim: X-Plane. DarkBlueScenery has recently released their rendition of Lanzhou-Zhongchuan International Airport (ZLLL) for X-Plane 11 &amp; 12, serving Lanzhou in China with a yearly average of 7 million passengers.Â   Inaugurated in 1970, Lanzhou Airport is the Chinese airport furthest from the center of the city it serves, at an incredible 71 kilometers away from downtown. Such distance is explained by the areaâs geography, which doesnât offer many options.Â   The first expansion project started in 1997, increasing the airportâs passenger handling capabilities to nearly 5 million a year. It held up well until the early 2010s when the operator finally saw the need to expand it again with a brand-new terminal. Terminal 2âs construction began that same year, opening five years later.  With traffic projections nearing the 10 million passenger ballpark shortly, they have decided to expand again with a brand new terminal currently under construction. The work started in 2019, costing 31.69 billion Yuan and a total area three times bigger than both current terminals combined. For such an ambitious goal, they had to demolish an entire town and adjacent villages, totaling up to 10.7 square kilometers of area.  The airport is served by many domestic airlines, including Air China, China Eastern Airlines, China Southern Airlines, Hainan Airlines, Shanghai Airlines, Spring Airlines, and Tianjin Airlines.Â   The scenery depicts the current stage of the airport, with Terminal 3 still under construction, featuring custom ground textures, custom models for Terminals 1 and 2, a cargo terminal, custom jetways, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $14.18, requiring at least 384.43 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-09T00:00:00+00:00</published>
   </entry>
 </feed>
