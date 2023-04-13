@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-12T18:22:11.810379+00:00</updated>
+  <updated>2023-04-13T18:22:08.429621+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/banf12</id>
-    <title>Banff National Park UHD Released for XP12</title>
-    <updated>2023-03-31T00:00:00+00:00</updated>
-    <link href="/news/banf12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64273b04cb17ba373e62eeea_33.PNG" rel="enclosure" type="image/png" length="983118"/>
-    <summary>Sim: X-Plane. The talented Frank Dainese has just released his latest masterpiece for the X-Plane platform, Focusing on the Banff National Park region this stunning scenery will provide pilots with a fantastic place to fly their virtual aircraft and enjoy the stunning views that Albertaâs rocky mountains have to offer.Â  The scenery package includes over 13 airfields, water strips and helipads for pilots to fly from, along with 1500 square Kilometers of stunning 4K national park.Â  The scenery can be purchased from the Xplane.org store for $24.95 â</summary>
-    <published>2023-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dditnn</id>
-    <title>Drzewiecki Design Releases Tallinn Airport for MSFS</title>
-    <updated>2023-03-31T00:00:00+00:00</updated>
-    <link href="/news/dditnn" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64275698381fc1e6616367af_eet1.jpg" rel="enclosure" type="image/jpeg" length="2242922"/>
-    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Tallinn Airport (EETN) for Microsoft Flight Simulator, Estoniaâs largest and busiest airport with a yearly average of 2,700,000 passengers.Â   The airportâs conception dates back to 1931 when the construction work began. Completion and the official opening happened five years later, despite being operational four years before, with LOT Polish Airlines flying a Fokker F.VIIb/3m.Â   During World War 2, the airport was first occupied by the Soviets (1940), then by Germany (1941-1944), and later under the Soviet helm again, with Aeroflot being the sole operator for 44 years. During that period, the airport got a new terminal, designed under Stalinist architecture, and finished in 1954. As the years went by and the traffic figures increased significantly, there was a need for a newer terminal, built between 1976 and 1980, just in time for the 1980 Summer Olympics sailing event held in Tallinn. The new terminal was designed by Mihhail Piskov, taking inspiration from traditional Estonian housebarn architecture, and Maile GrÃ¼nberg designed the interior. Â   Recent work included the construction of a cargo terminal in 1997 and a passenger terminal modernization in 1999, increasing the passenger capacity and improving the infrastructure. It was expanded again in 2008 to 35,000 square meters, the current standard. The expansion included 18 new gates, ten new check-in desks, a new restaurant and cafes, and separate lounges for Schengen and non-Schengen flights.Â   There are plans to expand the airport by 2035, bringing the total capacity up to 8 million passengers per year, 85,000 square meters of expanded area, and 26 gates.Â   The scenery features a high-quality rendition of the airport, with an up-to-date ground layout, custom clutter, custom ground textures, custom jetways, interiors on all terminal buildings, static aircraft, GSX Pro compatibility, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $22.86, requiring at least 1.95 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tpskit</id>
     <title>TropicalSim Releases Robert L. Bradshaw Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6435b62acc409bb9f6276a8d_owen1.png" rel="enclosure" type="image/png" length="1711808"/>
     <summary>Sim: X-Plane. Axonos has recently released their rendition of Owen Roberts International Airport (MWCR) for X-Plane 11 &amp; 12, serving the island of Grand Cayman with a yearly average of 1.2 million passengers.  The airport is named after Owen Roberts, a pioneer of aviation in the Cayman Islands, responsible for building airfields on all three of the Cayman Islands in the early 1950s at the cost of 93,000 pounds.Â   The airport has a single runway and two terminals serving international and domestic flights. In recent years, the airport has undergone significant renovations and expansions to improve its facilities and accommodate the increasing number of tourists visiting the island.Â   It is the hub for Cayman Airways, the national airline of the Cayman Islands, offering flights to Cayman Brac, Havana, Kingston, Miami, New York (JFK), and Tampa. The visitorsâ list includes Air Canada, American Airlines, British Airways, Delta Air Lines, JetBlue, Southwest Airlines, Sun Country Airlines, United Airlines, and WestJet.  The scenery features an accurate rendition of the airport, with a fully modeled terminal, custom ground textures and weather map, hand-placed dirt, 3D trees &amp; grass, custom night lighting, high-resolution PBR ground textures, animated and functional marshalers (SAM dependant), and custom ground markings.Â   Itâs available onÂ Axonosâ StoreÂ for $16.99, requiring at least 529 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aer330</id>
+    <title>Aerosoft Teases A330âs Interior &amp; EFB</title>
+    <updated>2023-04-12T00:00:00+00:00</updated>
+    <link href="/news/aer330" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6436f9b11f4f8d244861ea3d_ae1.jpg" rel="enclosure" type="image/jpeg" length="567800"/>
+    <summary>Sim: MSFS. Aerosoft hasÂ recently teasedÂ more of the A330âs cockpit details, EFB screenshots, and new information on the fully interactive user manual.Â  They begin with four shots of the cockpit (first one is the article's cover), showcasing the quality of the model and the texturing:Â   Itâs then followed up by multiple previews of the electronic flight bag, showing the many pages of the loadsheet manager, the charts application, and the operational flight plan viewer:  They finish with a preview of their eManual, an interactive manual with text, audio, video, and images covering every aspect of the A330âs operation. Checklists and cockpit flows are also included.  Mathijs Kok, Aerosoftâs Product Manager, has answered a question on their forum about a date with âcoming months sounds okay.â Â There is still no information on pricing. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbdthr</id>
+    <title>Burning Blue Design Release Thruxton for MSFS</title>
+    <updated>2023-04-13T00:00:00+00:00</updated>
+    <link href="/news/bbdthr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643847748425551b9ad4c863_12.jpg" rel="enclosure" type="image/jpeg" length="712442"/>
+    <summary>Sim: X-Plane. Established in 1917 as a military airfield for the Royal Flying Corps during World War I, Thruxton Aerodrome boasts a storied past. It played a vital role in training pilots for the war effort and later saw use in civil aviation and recreational flying. During World War II, the aerodrome was once again requisitioned for military purposes, serving as a base for the Royal Air Force's 38 Group. Following the war, the aerodrome transitioned back to civilian use and was eventually acquired by the British Automobile Racing Club (BARC) in 1950. The BARC developed the site into a racing circuit that has since hosted numerous prestigious racing series.Â  Today the Airfield is primarily used for general aviation flying.Â  Burning Blue Design have faithfully recreated Thruxton Aerodrome and the racing circuit in excruciating detail and it is now available for MSFS!Â  The feature list includes:Â   You can pick up your copy of this brilliant scenery from the Burning Blue Design website â</summary>
+    <published>2023-04-13T00:00:00+00:00</published>
   </entry>
 </feed>
