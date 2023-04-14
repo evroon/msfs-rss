@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-13T18:22:08.429621+00:00</updated>
+  <updated>2023-04-14T18:21:43.883747+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tpskit</id>
-    <title>TropicalSim Releases Robert L. Bradshaw Airport for MSFS</title>
-    <updated>2023-03-31T00:00:00+00:00</updated>
-    <link href="/news/tpskit" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6427603aa6c4e3d257aadb16_kit1.png" rel="enclosure" type="image/png" length="1087999"/>
-    <summary>Sim: MSFS. TropicalSim has recently released their rendition of Robert L. Bradshaw Airport (TKPK) for Microsoft Flight Simulator, serving the city of Basseterre on the island of Saint Kitts in the West Indies.  The airport was built in the 1940s as an airfield to serve the needs of the Royal Air Force during World War II. After the war, it was turned over to the local government and became a civilian airport. Over the years, the airport underwent several upgrades and expansions, including the construction of a new terminal building in the 1990s and a major renovation between 2004-2006, at the cost of 17 million USD.  With a yearly average of 400,000 passengers, St. Kitts Airport is served by ten airlines: Air Canada Rouge, Air Sunshine, American Airlines, British Airways, Delta Air Lines, InterCaribbean Airways, Silver Airways, Sky High, Trans Anguilla Airways, and United Airlines. Interestingly, the American Airlines service between St. Kitts and Miami/New York has been going on since 1979.Â   The scenery features a high-detail rendition of the airport, with full night illumination, native MSFS dynamic lighting, seamless integration with the default scenery, full use of the SDK, up-to-date ground layout, custom ground markings, terminal interior, and 3D passengers.  Itâs available onÂ SimMarketÂ for roughly $15.78, requiring at least 1.36 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ibydal</id>
-    <title>iBlueYonder Releases Dallas Love Field for MSFS</title>
-    <updated>2023-04-03T00:00:00+00:00</updated>
-    <link href="/news/ibydal" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/642ae9b512e1b949ff3f65b5_dal1.webp" rel="enclosure" type="image/webp" length="210390"/>
-    <summary>Sim: MSFS. iBlueYonder has recently released their rendition of Dallas Love Field (KDAL) for Microsoft Flight Simulator, the 31st busiest airport in the United States with a yearly average of 6 million passengers.  It opened 105 years ago as a training camp for WW1 pilots and then converted into a storage facility for surplus aircraft right after the war, where it barely saw any action for nearly ten years. It was then purchased by the city of Dallas in 1928 and opened for civilian use, with the first set of paved runways to come four years later.Â   The first proper terminal was built in 1940, serving 21 weekday airline departures from American, Braniff, and Delta.Â   World War 2 forced the airport to return to its training school roots, only ceasing after it was all over when it once again returned to being a civil airport.Â   With the increased passenger figures during the late 1950s came the need for a new terminal (T3), designed by Donald S. Nelson, with three concourses, 26 gates, and the worldâs first moving walkways.Â   Nowadays, the airport has a single terminal with 20 gates, with Alaska and Delta Air Lines having one each, and the remaining 18 are under Southwestâs helm. Not coincidentally, Southwest Airlines has 95.3% of the passenger market share, followed by Delta with 2.2% and Alaska with 1.7%. Houston (387,000), Denver (367,000), and Atlanta (358,000) compose the top list of busiest destinations from Love Field.  The scenery features an accurate and up-to-date rendition of Dallas Love Field, with custom ground textures, a modeled terminal interior, hand-crafted and hand-placed signage, custom night lighting, a custom Dallas cityscape with notable downtown landmarks, custom runway approach lighting, and minor details such as sculptures, fountains, etc.Â   Itâs available on theÂ iniBuilds StoreÂ for roughly $15.96, requiring at least 5.52 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rfsbri</id>
     <title>RFscenerybuilding Releases Brindisi Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643847748425551b9ad4c863_12.jpg" rel="enclosure" type="image/jpeg" length="712442"/>
     <summary>Sim: X-Plane. Established in 1917 as a military airfield for the Royal Flying Corps during World War I, Thruxton Aerodrome boasts a storied past. It played a vital role in training pilots for the war effort and later saw use in civil aviation and recreational flying. During World War II, the aerodrome was once again requisitioned for military purposes, serving as a base for the Royal Air Force's 38 Group. Following the war, the aerodrome transitioned back to civilian use and was eventually acquired by the British Automobile Racing Club (BARC) in 1950. The BARC developed the site into a racing circuit that has since hosted numerous prestigious racing series.Â  Today the Airfield is primarily used for general aviation flying.Â  Burning Blue Design have faithfully recreated Thruxton Aerodrome and the racing circuit in excruciating detail and it is now available for MSFS!Â  The feature list includes:Â   You can pick up your copy of this brilliant scenery from the Burning Blue Design website â</summary>
     <published>2023-04-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbgla</id>
+    <title>Orbx Updates Gothenburg Landvetter Airport for MSFS</title>
+    <updated>2023-04-14T00:00:00+00:00</updated>
+    <link href="/news/orbgla" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6438f398e19b0ee8e9938263_land1.png" rel="enclosure" type="image/png" length="1600104"/>
+    <summary>Sim: MSFS. Orbx has recently updated their rendition of Gothenburg Landvetter Airport (ESGG) for Microsoft Flight Simulator, adding snow banks during winter, animated jetways, a functional VDGS system, the brand new terminal extension, and more.  Gothenburg Landvetter is the second largest airport in Sweden after Arlanda, with a yearly average of 7 million passengers. It was built in 1977 to replace Torslanda Airport, considered too small for the traffic boom of the late 70s.  Itâs a focus city for Norwegian Air Shuttle, Ryanair, Scandinavian Airlines, SunClass Airlines, and TUI fly Nordic, sporting a sizeable inter-European route network. The visitorsâ list includes major European carriers, like Air France, Austrian Airlines, British Airways, Brussels Airlines, Finnair, KLM, Lufthansa, and Swiss.Â   The new update adds dynamic airside traffic, with its intensity varying according to the time of the day, realistic snow banks that appear during winter, animated jetways, functional and correct VDGS (only on stands that have it in real life), ground texture enhancements, interior enhancements, custom approach light objects, snow trucks when itâs snowing, updated GSE and clutter, static business jets (optional), new Scandic hotel, the new terminal extension, and a custom GSX profile.  Itâs available onÂ OrbxDirectÂ for roughly $12.38 (on sale), requiring at least 4.80 GB of free hard disk space to install. The update is free for previous owners. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inkjfk</id>
+    <title>iniBuilds Releases John F. Kennedy International Airport for MSFS</title>
+    <updated>2023-04-14T00:00:00+00:00</updated>
+    <link href="/news/inkjfk" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64395559cfeb69693e7b9f76_idle1.webp" rel="enclosure" type="image/webp" length="470528"/>
+    <summary>Sim: MSFS. iniBuilds has recently released their rendition of John F. Kennedy International Airport (KJFK) for Microsoft Flight Simulator, the busiest airport in New York City with a yearly average of 60 million passengers. Built on top of an old golf course 74 years ago, the then-called Idlewild Airport had a single 7,365 square meter terminal and six runways. The current name only came to be in late 1963, after John F. Kennedyâs assassination. It also marked the important leap to the busiest airport in the region, beating LaGuardia and reaching a respectable second place overall in the United States. The busiest international gateway to the United States is served and visited by over 90 airlines, covering all the inhabited continents around the globe. JetBlue tops the market share chart, with 28.8% or 15,624,961 passengers, followed by Delta Air Lines and American Airlines, with 28.4% (15,390,437) and 14.5% (7,870,971), respectively. From foreign operators, Air France leads the way with 1.9% of the total market share or 1,025,339 passengers. The scenery features hand-made ground textures, a true-to-life airport landside recreation, accurately modeled and positioned lighting, high-detail models of all airport buildings and objects (and surroundings), accurate taxi signage, an updated layout, custom-built jetways with variations as per real life, a fully animated JFK AirTrain between each terminal, a precise representation of the famous Canarsie Approach, LOD optimization for every model, custom static aircraft (optional), and full compatibility with the iniManager scenery configurator. It also includes a replica of the TWA Hotel with an intricately detailed interior and the Constellation aircraft in TWA colors.  Itâs available on the iniBuilds Store for roughly $25.04, requiring at least 4.25 GB of free hard disk space to install. The developers recommend uninstalling Asoboâs hand-crafted KJFK to avoid performance issues.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-14T00:00:00+00:00</published>
   </entry>
 </feed>
