@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-16T18:20:34.985281+00:00</updated>
+  <updated>2023-04-17T18:22:34.394759+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cvdsaa</id>
-    <title>Colombian Virtual Design Releases Santa Ana Airport for MSFS</title>
-    <updated>2023-04-05T00:00:00+00:00</updated>
-    <link href="/news/cvdsaa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/642df97730812ce69b9964e5_sta1-min.png" rel="enclosure" type="image/png" length="862850"/>
-    <summary>Sim: MSFS. Colombian Virtual Design has recently released their rendition of Santa Ana Airport (SKGO) for Microsoft Flight Simulator, serving the city of Cartago in Colombia with a yearly average of 10,000 passengers.  The airport was built in the 1940s by the Colombian Air Force and later opened to civilian air traffic. It was initially used for PPL training, known as a cradle for great pilots, but it eventually embraced the commercial airline world as the main regional airport for the Valle del Cauca department.Â   It underwent expansion work in 2011, increasing the passenger capacity at the terminal to 180 people in the boarding area and adding metal detectors.  Cartago was adopted by many airlines around the region for ideal weather conditions throughout the year, along with a runway long enough for most aircraft, which any other airport in the area doesnât offer.Â   Itâs served by EasyFly and Satena, with two daily flights to Bogota.  The scenery features an accurate rendition of the airport, with realistic ground markings, updated ground layout, performance-friendly optimization, and custom ground clutter.  Itâs available onÂ SimMarketÂ for roughly $13.08, requiring at least 37.44 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/simhea</id>
-    <title>SimHeaven Updates XP12 Scenery to V2.2</title>
-    <updated>2023-04-06T00:00:00+00:00</updated>
-    <link href="/news/simhea" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/642f1c7de0b42f721e77b3d6_12.PNG" rel="enclosure" type="image/png" length="216959"/>
-    <summary>Sim: X-Plane. SimHeaven has recently updated its X-World America and X-World Asia scenery packages for X-Plane 12. The updates bring some fixes and additional features to the packages. While both packages' main points of change are similar in the latest update, there are some small differences.Â  X-World America changelog:Â  v2.2 Fixes X-World Asia changelog:Â  V2.2 â Fixes â You can find out more about the latest updates on SimHeaven.com â</summary>
-    <published>2023-04-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbgot</id>
-    <title>Orbx Teases Gothenburg Landvetter Airport Update for MSFS</title>
-    <updated>2023-04-07T00:00:00+00:00</updated>
-    <link href="/news/orbgot" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6430a09ed7ce842630c4c9cc_go1.jpg" rel="enclosure" type="image/jpeg" length="748992"/>
-    <summary>Sim: MSFS. Orbx has recentlyÂ postedÂ on âThe Arlanda Journal,â their page for reporting the development progress on their rendition of Stockholm-Arlanda for Microsoft Flight Simulator, with information on an upcoming update for their Gothenburg Landvetter Airport (ESGG) scenery, also for Microsoft Flight Simulator.Â   Gothenburg Landvetter is the second largest airport in Sweden, averaging 7 million passengers per year. It was inaugurated in 1977 by King Carl XVI Gustaf, replacing Torslanda Airport, deemed too small to handle the traffic demand.Â   Itâs a focus city for Norwegian Air Shuttle, Ryanair, Scandinavian Airlines, SunClass Airlines, and TUI fly Nordic, sporting a sizeable inter-European route network. The visitorsâ list includes major European carriers, like Air France, Austrian Airlines, British Airways, Brussels Airlines, Finnair, KLM, Lufthansa, and Swiss.Â   Orbx claims they are hoping for a quick release, with testing underway. They highlight the addition of animated airside traffic, with variable intensity according to the time of day and with smoothness in mind. Other than that, they also mention the implementation of snow banks that only appear under certain conditions. The rest of the feature list includes animated jetways, functional and correct VDGS for all parking spots that got them, ground texture enhancements, interior enhancements, custom approach light objects, snow trucks when itâs snowing, updated GSE and clutter, static business jets (optional), new Scandic hotel, the new terminal, and a GSX profile.Â   While the update is not out yet, Orbxâs Gothenburg can be found onÂ OrbxDirectÂ for roughly $12.18 (on sale for 13 days), requiring at least 5.46 GB of free hard disk space to install. The update is going to be entirely free for previous owners. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbytv</id>
     <title>Orbx Releases Tivat Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643b1182d8e560b579a0c2e8_amir1.jpg" rel="enclosure" type="image/jpeg" length="463473"/>
     <summary>Sim: MSFS. Aeronoms has recently released their rendition of Depati Amir Airport (WIKK) for Microsoft Flight Simulator, serving the city of Pangkal Pinang with a yearly average of 2 million passengers.  The airport was built in the 1940s as a small airfield for military purposes, but in 1978 it was officially opened for commercial use. Over the years, the airport underwent several expansions and upgrades, including the extension of the runway and the construction of a new terminal building in 2014.  The new passenger terminal was inaugurated in 2017, Â increasing the passenger handling capacity from 350,000 to 1.5 million.Â   Itâs served by Batik Air (Jakarta-Soekarno-Hatta), Citilink (Jakarta-Soekarno-Hatta), Garuda Indonesia (Jakarta-Soekarno-Hatta), Lion Air (Jakarta-Soekarno-Hatta, Palembang, and Tanjung Pandan), NAM Air (Jakarta-Soekarno-Hatta, and Tanjung Pandan), Sriwijaya Air (Jakarta-Soekarno-Hatta, Palembang, and Tanjung Pandan), Susi Air (Dabo), and Wings Air (Batam and Tanjung Pandan).Â   The scenery features an accurate rendition of the airport, with custom ground textures, a terminal interior, and a custom GSX profile.Â   Itâs available onÂ SimMarketÂ for roughly $12.16, requiring at least 115.53 MB of free hard disk space. The developer alerts for a potentially longer loading time (or even CTDs) during the first load of the scenery.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-04-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmslam</id>
+    <title>MM Simulations Releases LiÃ¨ge Airport for MSFS</title>
+    <updated>2023-04-16T00:00:00+00:00</updated>
+    <link href="/news/mmslam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643c5546551f7f26e3b5e045_liege1.jpg" rel="enclosure" type="image/jpeg" length="1448356"/>
+    <summary>Sim: MSFS. MM Simulations has recently released their rendition of LiÃ¨ge Airport (EBLG) for Microsoft Flight Simulator, an important European cargo hub, ranking 5th in the continent and 22nd overall.  Like many other European airports, LiÃ¨ge started as a military airfield, becoming a commercial airport in the 1960s after decades of extensive use by the Belgian Air Force (and the Luftwaffe during WW2). It wasnât until the 1980s that it shifted its orientation toward cargo operations, eventually becoming one of the busiest in the World, with over 900,000 tons of cargo handled yearly.  Â Airline-wise, TUI fly Belgium is the sole scheduled flight operator with flights to Spain. The figures sit at 400,000 passengers yearly.  The scenery features an accurately modeled terminal and interior, with custom night lighting, custom parking positions matching real-life data, custom landside buildings, 3D people and animated objects, and PBR materials.  Itâs available onÂ ContrailÂ andÂ SimMarketÂ for roughly $19.29/$20.12 (respectively), requiring at least 5.62 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/r26nea</id>
+    <title>RWY26 Simulations Releases North Eleuthera Airport for MSFS</title>
+    <updated>2023-04-17T00:00:00+00:00</updated>
+    <link href="/news/r26nea" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643d0b5bb9bd57aa3e13c6b7_myeh1.png" rel="enclosure" type="image/png" length="2117596"/>
+    <summary>Sim: MSFS. RWY26 Simulations has recently released their rendition of North Eleuthera Airport (MYEH) for Microsoft Flight Simulator, serving the islands of Harbour Island, Spanish Wells, and the northernmost third of the Bahamas. The airport was established in the 1950s as a small airstrip to support the local fishing industry. However, with increased tourism to the island, the airport was expanded in the 1960s to accommodate larger aircraft. In the 1970s, the airport underwent further renovations and upgrades, including the construction of a new terminal building and runway extension. Today, North Eleuthera Airport is a popular entry point for tourists visiting Eleuthera and nearby islands, with several airlines offering regular flights to and from the airport. Itâs served by American Eagle (Charlotte, Miami), Bahamasair (Governorâs Harbour, Nassau, Rock Sound), Delta Connection (Atlanta), Pineapple Air (Governorâs Harbour, Nassau), Silver Airways (Fort Lauderdale), and Southern Air Charter (Nassau). The scenery features an accurate rendition of the airport, with custom models of the terminal and landside buildings, custom ground textures, custom ground clutter, static aircraft, and custom night lighting.  Itâs available on SimMarket for roughly $11.05, requiring at least 45.81 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hdsbri</id>
+    <title>Heaven Designs Releases Brive-Souillac Airport for MSFS</title>
+    <updated>2023-04-17T00:00:00+00:00</updated>
+    <link href="/news/hdsbri" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/643d1148dfe1b004a3f3ea1f_brive.png" rel="enclosure" type="image/png" length="2849671"/>
+    <summary>Sim: MSFS. Heaven Designs has recently released their rendition of Brive-Souillac Airport (LFSL) for Microsoft Flight Simulator, serving the commune of Brive-la-Gaillarde in France with a yearly average of 90,000 passengers.  The airport was inaugurated in 2010 after a decade of planning and trouble with environmental organizations regarding a colony of the large blue butterfly. It wasnât until 2005 that situation was finally out of the way, and they could begin with the earthwork. The ICAO, LFSL, used to be assigned to the Toul-RosiÃ¨res Air Base, which closed in 2004.  At the grand cost of 48.7 million euros, raised by the local Syndicate and partially helped by the government, the airport sports a modern terminal able to handle national and international passengers, a VIP building for private aviation, and a car park able to take up to 250 cars. The main runway is paved and measures around 2,100 meters, enough for regional aircraft and 738s/A320s.Â   Itâs served by Air France and Amelia International with a flight to Paris-Orly, and Ryanair offers three destinations: Charleroi, London-Stansted, and Porto.  The scenery features an accurate rendition of the airport, with custom 3D models, custom textures, functional flags, and improved default ground textures.Â   Itâs available onÂ SimMarketÂ for roughly $7.19, requiring at least 146.31 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-17T00:00:00+00:00</published>
   </entry>
 </feed>
