@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-04-20T18:21:49.517017+00:00</updated>
+  <updated>2023-04-21T18:22:13.608310+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/simarc-sale/</id>
-    <title>SimArc Sale</title>
-    <updated>2023-03-29T17:00:00+00:00</updated>
-    <link href="https://www.flightsimulator.com/simarc-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/SimArcSale_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97701"/>
-    <summary>2 Items On Sale Now in the Marketplace</summary>
-    <published>2023-03-29T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-30th-2023-development-update/</id>
     <title>March 30th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/mk89ns-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="120186"/>
     <summary>Our Spring Marketplace Sale continues until April 21. Enjoy savings of up to 93% off on over 1,100 products for both PC and Xbox.</summary>
     <published>2023-04-14T00:11:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-20th-2023-development-update/</id>
+    <title>April 20th, 2023 Development Update</title>
+    <updated>2023-04-20T23:07:47+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-20th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/pommes_l-Twitter-2-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="155153"/>
+    <summary>The team is currently hard at work preparing for the imminent launch of World Update XIII: Oceania and Expert Series I: ATR 42-600 / 72-600. Both are targeted for release next week on Tuesday, April 25.</summary>
+    <published>2023-04-20T23:07:47+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/americas-first-black-astronauts/</id>
