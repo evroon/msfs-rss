@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-04-24T18:22:32.919286+00:00</updated>
+  <updated>2023-04-25T18:22:17.066591+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/march-30th-2023-development-update/</id>
-    <title>March 30th, 2023 Development Update</title>
-    <updated>2023-03-30T23:29:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-30th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/2525ARW-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="68850"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user 2525ARW, featuring a Boeing 747 touching down on a rain-slick runway. If you’re interested in participating in our weekly Screenshot Challenges, check out the contest details in the Community section below!As March comes to a close, we are happy to recognize Women’s History Month with a feature interview … Continued</summary>
-    <published>2023-03-30T23:29:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-spring-sale/</id>
-    <title>Microsoft Flight Simulator Spring Sale</title>
-    <updated>2023-04-06T17:00:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-spring-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/MSFS_SpringSale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="121728"/>
-    <summary>Enjoy discounted pricing during our Microsoft Flight Simulator Spring Sale!</summary>
-    <published>2023-04-06T17:00:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-6th-2023-development-update/</id>
     <title>April 6th, 2023 Development Update</title>
@@ -54,12 +36,22 @@
     <published>2023-04-20T23:07:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/americas-first-black-astronauts/</id>
-    <title>America’s First Black Astronauts</title>
-    <updated>2023-02-21T19:07:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/americas-first-black-astronauts/" rel="alternate"/>
-    <summary>During the Cold War space race of the 1960s, there were three truths about American astronauts: Every astronaut was a major celebrity, mobbed by the media and an adoring public alike wherever they went. Every astronaut was recruited to the space program exclusively from the ranks of military test pilots. Every astronaut was a white … Continued</summary>
-    <published>2023-02-21T19:07:46+00:00</published>
+    <id>https://www.flightsimulator.com/world-update-xiii-oceania-now-available/</id>
+    <title>World Update XIII: Oceania Now Available</title>
+    <updated>2023-04-25T15:05:13+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-xiii-oceania-now-available/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/MSFS_WU13_Oceania_V2_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="829691"/>
+    <summary>Oceania is comprised of remote coral islands, long stretches of white sand beaches, towering volcanoes, vast interior sweeps of uninhabited rainforest, and populated cities boasting modern architectural wonders.</summary>
+    <published>2023-04-25T15:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/world-update-xiii-sale/</id>
+    <title>World Update XIII Sale</title>
+    <updated>2023-04-25T17:01:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-xiii-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/WU13_Sale_Apr2023_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="211273"/>
+    <summary>29 Items On Sale Now in the Marketplace</summary>
+    <published>2023-04-25T17:01:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-viii-dhc-4-caribou/</id>
@@ -74,8 +66,16 @@
     <title>Women’s History Month: A Conversation with Patty Wagstaff</title>
     <updated>2023-03-28T16:14:52+00:00</updated>
     <link href="https://www.flightsimulator.com/community-spotlight-patty-wagstaff/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/IMG_0465-1024x649.jpeg" rel="enclosure" type="image/jpeg" length="43720"/>
     <summary>You can’t talk about aerobatic flying without talking about Patty Wagstaff: a 3-time US National Aerobatic Champion; a 6-time members of the US Aerobatic Team; a gold, silver, and bronze medal winner in the International Aerobatic Competition; an inductee in the National Aviation Hall of Fame; and the first woman to win the title of … Continued</summary>
     <published>2023-03-28T16:14:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/</id>
+    <title>Expert Series I: ATR 42-600 / 72-600</title>
+    <updated>2023-04-25T16:01:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/MSFS_ATR_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="772786"/>
+    <summary>Microsoft Flight Simulator today released the first entry into a brand-new series of highly authentic and accurate aircraft called “Expert Series”. The ATR 42-600 and ATR 72-600 are being released together in this bundle and will provide an incredible and authentic aviation experience. ATR, short for “Regional Transport Aircraft,” in both French and Italian, was … Continued</summary>
+    <published>2023-04-25T16:01:46+00:00</published>
   </entry>
 </feed>
