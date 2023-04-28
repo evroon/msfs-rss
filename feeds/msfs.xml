@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-04-27T18:22:02.640140+00:00</updated>
+  <updated>2023-04-28T18:21:11.530038+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/april-6th-2023-development-update/</id>
-    <title>April 6th, 2023 Development Update</title>
-    <updated>2023-04-06T23:45:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-6th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/pommes_l-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="135632"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user pommes_l, featuring a Boeing 747 flying over New York City. If you’re interested in participating in our weekly Screenshot Challenges, check out the contest details in the Community section below! Earlier today, we announced the annual Spring Sale in the Marketplace. Over 1,100 products currently have reduced … Continued</summary>
-    <published>2023-04-06T23:45:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-13th-2023-development-update/</id>
     <title>April 13th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/WU13_Sale_Apr2023_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="211273"/>
     <summary>29 Items On Sale Now in the Marketplace</summary>
     <published>2023-04-25T17:01:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-27th-2023-development-update/</id>
+    <title>April 27th, 2023 Development Update</title>
+    <updated>2023-04-27T23:45:17+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-27th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/Parorng-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="130772"/>
+    <summary>We had a big day on Tuesday! To start, we released World Update XIII: Oceania and updated the sim to version 1.32.7.0.</summary>
+    <published>2023-04-27T23:45:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-viii-dhc-4-caribou/</id>
