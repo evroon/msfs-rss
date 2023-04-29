@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-04-28T18:21:12.866038+00:00</updated>
+  <updated>2023-04-29T18:20:42.043337+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmd78m</id>
-    <title>PMDG Releases 737-800 on MSFS Marketplace</title>
-    <updated>2023-04-21T00:00:00+00:00</updated>
-    <link href="/news/pmd78m" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644320aab627599e589e465e_pi1-min.png" rel="enclosure" type="image/png" length="1641159"/>
-    <summary>Sim: MSFS. PMDG recently released their Boeing 737-800 airliner on the Microsoft Flight Simulator Marketplace, nearly eight months after it was initially released on their website in August 2022.  The PMDG 737-800 is a feature-rich simulation of the Boeing 737-800, featuring all new models, textures, and sound environment. They claim itâs the âultimate realization of flight simulation.âÂ   The feature list includes a fully customized system simulation for all major and minor system components, a highly sophisticated logical simulation of onboard information systems and aircraft management, with a customized flight model bringing enhanced physics augmentation, rigid body physics for wing or tail surfaces, fully customized flight control systems, accurate resolution cockpit displays, interchangeable equipment options for cockpit instrumentation, native PMDG datalink simulation compatible with Simbrief integration, and more.  The developers also made sure to list some of the upcoming features, which are still under development: an electronic flight bag, high-resolution cabin models and landing gear bay interiors, new Asobo-reliant features such as weather radar, and more.  Itâs now available on the Marketplace for $69.99 and onÂ PMDGâs StoreÂ for the same price, along with all the other variants.Â  Images are courtesy of Pineapple_Wizard. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/nsswra</id>
-    <title>Northern Sky Studio Releases Wrangell Airport for MSFS</title>
-    <updated>2023-04-22T00:00:00+00:00</updated>
-    <link href="/news/nsswra" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64443a0b313edb3945f01e3a_wra1.jpg" rel="enclosure" type="image/jpeg" length="969865"/>
-    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Wrangell Airport (PAWG) for Microsoft Flight Simulator, serving the city of Wrangell in Alaska with a yearly average of 15,000 passengers.  In 1920, a landing field was established in Wrangell, used primarily by floatplanes. Over the next few years, improvements were made to the landing field, including installing a beacon in 1925 and constructing a small hangar in 1928.  During World War II, the U.S. Army constructed a more substantial airfield at the site, which was used to support military operations in the Aleutian Islands. After the war, the airfield was turned over to the Federal Aviation Administration (FAA), becoming a public airport.  In the 1950s and 1960s, the airport underwent significant upgrades, including extending the runway to its current length of 5,999 feet and constructing a new terminal building. These improvements helped to increase the airport's capacity and improve its safety.  In 1985, the airport received a major renovation, which included the construction of a new control tower and the installation of new navigation and communication equipment. The renovation also included improvements to the runway, taxiways, and apron and the construction of a new fueling facility.  The airport is served by Alaska Airlines daily, with routes to Ketchikan and Petersburg using the Boeing 737-700.Â   The scenery features an accurate rendition of the airport, with a detailed representation of its buildings and overall structure, full PBR materials, shading and occlusion on buildings, high-resolution textures, and custom orthophoto for the airport's surrounding areas.Â   It's available onÂ SimMarketÂ for roughly $12.08, requiring at least 2.85 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bmazan</id>
     <title>Barelli MSFS Addon Releases Zanzibar Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644bd6a6c68c7350c035891d_phl1.png" rel="enclosure" type="image/png" length="3132915"/>
     <summary>Sim: MSFS. MK Studios has recently released their rendition of Philadelphia International Airport (KPHL) for Microsoft Flight Simulator, the 21st busiest airport in the United States with a yearly average of 19.6 million passengers.  Philadelphia International started its life as a training airport back in 1925. For over 15 years, it didnât even have a terminal building built in 1940, so airlines finally abandoned Camden Central Airport for it.Â   World War 2 converted the airport into a First Air Force training airfield, organizing and training various fighter and air bomber groups throughout the war. It was returned to civil control in September 1945.Â   It was granted international status that same year and got a new terminal in 1953, with further expansion in the late 1950s. By 1957, it was served by Eastern, TWA, United, American, National, Capital, Allegheny, and Delta.  The terminals were modernized for the first time in 1970, and new terminals followed in the same decade (D in 1973, E in 1977), costing around $300 million.  Nowadays, itâs a hub for American Airlines, with 63.75% of the market share, offering a huge list of destinations, domestic and international. Frontier takes second place with 11.02%, focusing on the domestic market and Central America. Spirit, Delta, and Southwest follow with 6.59%, 6.00%, and 4.51%.  The scenery features a high-fidelity rendition of the airport, with optimized texturing, main terminal interiors modeled, custom GSE vehicles, landside buildings, compatibility with most AI plugins, and performance-friendly optimization.  Itâs available onÂ OrbxDirectÂ for roughly $18.46, requiring at least 2.03 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!   â</summary>
     <published>2023-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcrejt</id>
+    <title>X-Crafts Previews E-Jetsâ  Authentic FMS </title>
+    <updated>2023-04-29T00:00:00+00:00</updated>
+    <link href="/news/xcrejt" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644d0149b7a25c1c07098cb3_xc1.png" rel="enclosure" type="image/png" length="1357105"/>
+    <summary>Sim: X-Plane. Marko Mamula, X-Craftsâ founder, has made an eight-minute video showcasing the progress on their FMS for the upcoming E-Jets Family release for X-Plane 11 and 12. Â  The video shows a step-by-step setup of two different routes, in America (Los Angeles to San Francisco) and Europe (Glasgow to London City), showing how the FMS handles altitude restrictions, etc.Â   The E-Jets Family by X-Crafts aims to bring highly detailed and accurate models of the interior and exterior of the entire lineup, with an authentic flight management system, autopilot modes, and realistic systems, helped by real E-Jet pilots and instructors.  The E-Jets are a series of regional jet airliners manufactured by Embraer, a Brazilian aerospace company. The E-Jets were introduced in 2004 with the E170 and E190 models and have since expanded to include the E175 and E195 models. They are designed for short- to medium-haul flights and can carry between 70 and 124 passengers, depending on the model. They are known for their efficiency, comfort, and versatility, making them a popular choice for regional airlines worldwide.  Thereâs still no information on a potential release date or pricing, but you can follow the developmentÂ here. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-04-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/apasfm</id>
+    <title>Aerosoft Previews A330 Sounds for MSFS</title>
+    <updated>2023-04-29T00:00:00+00:00</updated>
+    <link href="/news/apasfm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644d0c563d5903c067e309bb_kok1.png" rel="enclosure" type="image/png" length="1371680"/>
+    <summary>Sim: MSFS. Mathijs Kok, Aerosoftâs Product Manager, has posted on their forum thread about the development progress on their upcoming Airbus A330 for Microsoft Flight Simulator with two videos showcasing the work-in-progress sounds for the airplane. They mention having listened to it on a high-end audio system (Edifier R1700BT speakers driven by a Topping DX3 DAC), recommending everyone to play it as loud as possible to experience the quality of the sound set. The first video showcases the sounds as is, internally and externally. The second video has the headphone simulation activated, trying to mimic the behavior of a real-life Bose A20 Aviation Headset and its noise-canceling capabilities. They claim 99% of the customers have never been inside a real flight deck, therefore lacking a frame of reference, but also reinstating itâs as close as what a pilot hears as it gets.  P. Astarto, presumably one of their beta testers, shared two screenshots of a community-made AirAsia livery on taxi and take-off: Thereâs still no pricing and release date information, but Threshold will keep you informed! â</summary>
+    <published>2023-04-29T00:00:00+00:00</published>
   </entry>
 </feed>
