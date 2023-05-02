@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-01T18:21:44.240996+00:00</updated>
+  <updated>2023-05-02T18:21:47.750443+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfdsfu</id>
-    <title>Short Final Design Updates San Francisco International Airport for X-Plane 11 &amp; 12</title>
-    <updated>2023-04-26T00:00:00+00:00</updated>
-    <link href="/news/sfdsfu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644898c3966e391400cd3a0b_sfo1.jpg" rel="enclosure" type="image/jpeg" length="190895"/>
-    <summary>Sim: X-Plane. Short Final Design has recently updated their rendition of San Francisco International Airport (KSFO) to version 1.1, introducing X-Plane 12 features such as weather effects, 3D trees, and custom airport vehicles with sound.Â   SFO is the second-busiest airport in California, with a yearly average of 57 million passengers, only behind Los Angeles International.Â   Itâs a hub for United Airlines (44% of the market share) and Alaska Airlines (10.66% of the market share) and is visited by multiple international carriers such as Aer Lingus, Air Canada, Air China, Air France, Air New Zealand, American Airlines, British Airways, Cathay Pacific, Emirates, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, and WestJet.  The update adds tridimensional trees (an X-Plane 12-only feature), an A380 jetway at gate B10, custom airport vehicles with animations and FMOD sounds (X-Plane 12 only), native weather effects (X-Plane 12 only), various sheds and antennas, the addressing of minor errors with ground markings, and the replacement of GroundTraffic with LST (requires installation).  Itâs available on theÂ X-Plane.Org StoreÂ for roughly $26.95. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bmwoak</id>
-    <title>BEAUTIFUL MODEL of the WORLD and AmSim Release Oakland International Airport for MSFS</title>
-    <updated>2023-04-27T00:00:00+00:00</updated>
-    <link href="/news/bmwoak" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644afa27fe28b5af1102202d_oak1-min.png" rel="enclosure" type="image/png" length="1407818"/>
-    <summary>Sim: MSFS. BEAUTIFUL MODEL of the WORLD and AmSim have teamed up to build a rendition of Oakland International Airport (KOAK) for Microsoft Flight Simulator, the 5th busiest airport in California with a yearly average of 6 million passengers.  Opened in September 1927, OAK had the longest runway at the time, at 2,140 meters of extension. It became the airport of choice for many historical flights, such as Charlie Kingsford Smithsâ US-Australia flight in 1928 and Amelia Earhardtâs world circumnavigation (gone wrong).Â   Commercial service started in late 1927 by the wings of Boeing Air Transport, followed by Trans World Airlines (TWA) in 1932.Â   During World War 2, Oakland was used by the USAF as Naval Air Station Oakland, serving as an airlift base for flights to the Pacific islands, with passenger scheduled flights being all moved to San Francisco International.  Itâs currently served by thirteen airlines: Alaska Airlines, Allegiant Air, Azores Airlines, Contour Airlines, Delta Air Lines, Delta Connection, Frontier Airlines, Hawaiian Airlines, JSX, Southwest Airlines, Spirit Airlines, Volotea, and Volaris El Salvador. Las Vegas, Los Angeles, and San Diego are the busiest destinations, with 671,000, 448,000, and 391,000 passengers.  Itâs a cargo hub for FedEx Express, with twenty-two destinations (domestic and international).  The scenery features an accurate rendition of the airport, with animated jetways, custom ground markings, high-resolution custom ground textures, landside buildings, parallax windows, animated BART train, and airline codes assigned to each parking spot.  Itâs available onÂ OrbxDirectÂ for roughly $18.56, requiring at least 2.83 GB of free hard disk space to install. Shout out to Cristian Ionescu for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/teiipi</id>
     <title>Teikof Studio Releases San Luis Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644ecc7203a3d77f3160ae0b_carenado1.jpg" rel="enclosure" type="image/jpeg" length="348570"/>
     <summary>Sim: MSFS. Carenado has recently updated some of their aircraft (PC12, C337 Skymaster, C170B, PA34 Seneca V, and PA28R Arrow III) to version 2.0 for Microsoft Flight Simulator, bringing many improvements and bug fixes. The new update aims to bring the aircraft up to the latest standard with improved integration of the custom Garmins (WT, TDS, and PMS), engine sounds, overall flight dynamics, a redesign of the electrical system, VR compatibility improvements, improved engine startup and heat effects, and minor bug fixes. The full changelog follows down below: â â The update is now available on the MSFS Marketplace, free of charge. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orblc2</id>
+    <title>Orbx Teases London City Airport V2 for MSFS</title>
+    <updated>2023-05-02T00:00:00+00:00</updated>
+    <link href="/news/orblc2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6450f5bcb024aa0b4cfa0f8c_lon1.jpg" rel="enclosure" type="image/jpeg" length="1542527"/>
+    <summary>Sim: MSFS. Orbx has recently teased an upcoming update to their now nearly three-year-old rendition of London City Airport (EGLC) for Microsoft Flight Simulator, the fifth busiest airport in London with a yearly average of 5 million passengers. The original LCY came out back when the simulator was brand new, and developers were still getting acquainted with the SDK, making it quite outdated by contemporary standards, especially considering the real-life layout also saw changes in that meantime. Version two considers the airport expansion, with its parallel taxiway, new parking stands, and the remote digital control tower. â They claim to have entirely rebuilt the airport, with an extensive rework of every detail, new textures, additional enhancements, and a custom ground poly.   â The airport is said to integrate perfectly with their Landmarks London product, ensuring a highly immersive approach.  They claim it should be available soon on OrbxDirect, and previous owners will be able to get their hands on it for a small upgrade fee.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hbli</id>
+    <title>Fly2High Releases Bellingham International Airport for MSFS</title>
+    <updated>2023-05-02T00:00:00+00:00</updated>
+    <link href="/news/f2hbli" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6451290a2e7c1f23c6674ae2_bli1.jpg" rel="enclosure" type="image/jpeg" length="1203983"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Bellingham International Airport (KBLI) for Microsoft Flight Simulator, the third largest commercial airport in Washington with a yearly average of 316,693 passengers as of 2022.  The airportâs history dates back to October 1936, when the construction work began under the supervision of the WPA (Works Progress Administration), which had previously funded the purchase of the airportâs 200 acres of land from Charles F. Larrabee. Initially, there were plans for three runways, but only one was built, with 1,100 meters of length and 46 meters of width.Â   The US Army Corps of Engineers took over the entire project in 1940, expanding the airport to three full runways and building a basic infrastructure to operate as an airport. It was opened to the public a year later and then seized by theÂ US Army not long after, following the Pearl Harbor attacks.Â   During World War 2, Bellingham International was utilized by the Fourth Air Force to provide an aerial defense to the Pacific Coast and later on for ferrying aircraft to Alaska for its subsequent transfer to the Soviet Union.  Post-war, the facility was closed and handed back to Whatcom County, slowly redeveloped as a civilian airport with a terminal designed by F. Stanley Piper. High costs led Whatcom County to sell it to the Port of Bellingham in 1957 for 1 dollar. The new owners were not fond of the high expenses either, only resurfacing one of the runways (16/34), which is still the sole runway in operation.  In 2010, the runway was resurfaced to accommodate Allegiant Airâs Boeing 757s on their nonstop service to Hawaii.Â   The terminal saw upgrades in 1980 with a two-phase project and a 38 million-dollar expansion in the early 2010s, increasing the number of gates and the general terminal area from 27,500 square feet to 104,000 square feet.Â   Bellingham is served by four airlines: Alaska Airlines (Seattle-Tacoma), Allegiant Air (Las Vegas, Los Angeles, Oakland, Palm Springs, Phoenix/Mesa, San Diego), San Juan Airlines (Eastsound, Friday Harbor, Lopez, Point Roberts), and Southwest Airlines (Las Vegas, Oakland).  The scenery features an accurate rendition of BLI, with an updated ground layout, custom ground markings, a terminal interior, and more.  Itâs available onÂ FlightSim.toÂ for roughly $10.99, requiring at least 470.91 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-02T00:00:00+00:00</published>
   </entry>
 </feed>
