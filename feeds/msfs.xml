@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-05-04T18:21:46.761022+00:00</updated>
+  <updated>2023-05-05T18:21:12.043607+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/april-13th-2023-development-update/</id>
-    <title>April 13th, 2023 Development Update</title>
-    <updated>2023-04-14T00:11:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-13th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/mk89ns-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="120186"/>
-    <summary>Our Spring Marketplace Sale continues until April 21. Enjoy savings of up to 93% off on over 1,100 products for both PC and Xbox.</summary>
-    <published>2023-04-14T00:11:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-20th-2023-development-update/</id>
     <title>April 20th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/Parorng-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="130772"/>
     <summary>We had a big day on Tuesday! To start, we released World Update XIII: Oceania and updated the sim to version 1.32.7.0.</summary>
     <published>2023-04-27T23:45:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-4th-2023-development-update/</id>
+    <title>May 4th, 2023 Development Update</title>
+    <updated>2023-05-04T23:35:06+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-4th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/ZILLNIAZI17-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="48263"/>
+    <summary>This week’s Screenshot Challenge winner is forum user ZILLNIAZI17, featuring a Daher TBM 930 over Bora Bora in French Polynesia. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! On Wednesday, May 3, we hosted the latest in our series of Developer Livestreams on Twitch. … Continued</summary>
+    <published>2023-05-04T23:35:06+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>

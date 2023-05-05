@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-04T18:21:48.539753+00:00</updated>
+  <updated>2023-05-05T18:21:12.915336+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xcrejt</id>
-    <title>X-Crafts Previews E-Jetsâ  Authentic FMS </title>
-    <updated>2023-04-29T00:00:00+00:00</updated>
-    <link href="/news/xcrejt" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644d0149b7a25c1c07098cb3_xc1.png" rel="enclosure" type="image/png" length="1357105"/>
-    <summary>Sim: X-Plane. Marko Mamula, X-Craftsâ founder, has made an eight-minute video showcasing the progress on their FMS for the upcoming E-Jets Family release for X-Plane 11 and 12. Â  The video shows a step-by-step setup of two different routes, in America (Los Angeles to San Francisco) and Europe (Glasgow to London City), showing how the FMS handles altitude restrictions, etc.Â   The E-Jets Family by X-Crafts aims to bring highly detailed and accurate models of the interior and exterior of the entire lineup, with an authentic flight management system, autopilot modes, and realistic systems, helped by real E-Jet pilots and instructors.  The E-Jets are a series of regional jet airliners manufactured by Embraer, a Brazilian aerospace company. The E-Jets were introduced in 2004 with the E170 and E190 models and have since expanded to include the E175 and E195 models. They are designed for short- to medium-haul flights and can carry between 70 and 124 passengers, depending on the model. They are known for their efficiency, comfort, and versatility, making them a popular choice for regional airlines worldwide.  Thereâs still no information on a potential release date or pricing, but you can follow the developmentÂ here. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/apasfm</id>
-    <title>Aerosoft Previews A330 Sounds for MSFS</title>
-    <updated>2023-04-29T00:00:00+00:00</updated>
-    <link href="/news/apasfm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644d0c563d5903c067e309bb_kok1.png" rel="enclosure" type="image/png" length="1371680"/>
-    <summary>Sim: MSFS. Mathijs Kok, Aerosoftâs Product Manager, has posted on their forum thread about the development progress on their upcoming Airbus A330 for Microsoft Flight Simulator with two videos showcasing the work-in-progress sounds for the airplane. They mention having listened to it on a high-end audio system (Edifier R1700BT speakers driven by a Topping DX3 DAC), recommending everyone to play it as loud as possible to experience the quality of the sound set. The first video showcases the sounds as is, internally and externally. The second video has the headphone simulation activated, trying to mimic the behavior of a real-life Bose A20 Aviation Headset and its noise-canceling capabilities. They claim 99% of the customers have never been inside a real flight deck, therefore lacking a frame of reference, but also reinstating itâs as close as what a pilot hears as it gets.  P. Astarto, presumably one of their beta testers, shared two screenshots of a community-made AirAsia livery on taxi and take-off: Thereâs still no pricing and release date information, but Threshold will keep you informed! â</summary>
-    <published>2023-04-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/uk2lcy</id>
     <title>UK2000 Scenery Announces London City Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6453f1ceec32760b1d3f19d9_rotate1.jpg" rel="enclosure" type="image/jpeg" length="110433"/>
     <summary>Sim: X-Plane. Rotate recently released their rendition of the McDonnell Douglas MD-80 for X-Plane 12 under a beta program.  The MD-80 Pro for X-Plane 12 aims to deliver a precise flight model and fine-tuned engine performance, developed with advice and counseling from real MD-80 pilots.  The features include a custom flight management system with SIDs and STARs, custom LNAV and VNAV, take-off and approach speed management, custom navigation display, complete HOLD functionality with entry pattern calculation and present POS, a detailed simulation of systems with WX/TCAS, an accurate PW-JT8D-219 model with its intricacies, advanced electrical and hydraulics systems, and realistic visuals with PBR texturing, accurate animations, rain and ice windshield effects, VR compatibility, and custom sounds.  The MD-80 is a twin-engine, medium-range jet airliner designed and manufactured by McDonnell Douglas. It was first introduced in 1980 and quickly became a popular choice for airlines worldwide due to its fuel efficiency and reliability. It was a shortened version of the earlier DC-9 airliner, which had been in production since the 1960s. McDonnell Douglas updated the design of the DC-9, incorporating more modern technology, such as advanced avionics and more efficient engines, to create the MD-80.  Despite its popularity, its production eventually ended in 1999 when Boeing acquired McDonnell Douglas. However, many MD-80s are still in service today, particularly in countries with developing aviation industries.  Itâs available onÂ X-Plane.OrgÂ for $59.95. Owners of the X-Plane 11 version are entitled to a discounted upgrade ($24.95).Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/agsbur</id>
+    <title>AG Sim Releases Burgas Airport for MSFS</title>
+    <updated>2023-05-05T00:00:00+00:00</updated>
+    <link href="/news/agsbur" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64550a051ed2d0d98d301b13_burgas1.jpg" rel="enclosure" type="image/jpeg" length="727378"/>
+    <summary>Sim: MSFS. AG Sim has recently released their rendition of Burgas Airport (LBBG) for Microsoft Flight Simulator, the 2nd busiest airport in Bulgaria with a yearly average of 2,885,000 passengers. The first landing strip was built in 1912 by the Bulgarian Army during the Balkan War. This airfield was used for military purposes during World War I and II. After the war ended, it was also used for civilian purposes. â In the 1960s, a new modern airport was built on the old airfield site, officially opened in 1970. The airport had a single runway and a small terminal building at the time. It served as an essential transportation hub for Bulgaria's Black Sea coast, and it played a significant role in the country's tourism industry. During the 1980s and 1990s, the airport underwent significant renovations and expansions, including the construction of a new terminal building, a second runway, and improved navigation and air traffic control systems. These upgrades allowed the airport to accommodate larger aircraft and more passengers, becoming a major gateway to the country for tourists from all over Europe. In the 2000s, the airport continued to expand and modernize. In 2013, a new terminal building was opened, increasing the airport's capacity to more than 2.7 million passengers annually.  The airport's traffic is primarily seasonal, with many airlines coming over to visit during the summer: Aer Lingus, airBaltic, BH Air, Bluebird Airways, Bulgaria Air, Buzz, Corendon Dutch Airlines, easyJet, Enter Air, European Air Charter, Eurowings, Freebird Airlines Europe, GetJet Airlines, Jet Time, Jet2.com, LOT Polish Airlines, Luxair, Norwegian Air Shuttle, Ryanair, SkyUp, SmartLynx Airlines, Smartwings, Sunclass Airlines, Sundair, TUI Airways, TUI fly Belgium, TUI fly Netherlands, TUI fly Nordic, Windrose Airlines, and Wizzair (the only one with a year-long route to London Luton). The scenery accurately represents the airport's terminal, runway, taxiways, and surroundings, with custom ground textures, PBR materials, dynamic apron objects, and realistic night lighting.  It's available on SimMarket for roughly $15.49, requiring at least 1.60GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sdeflo</id>
+    <title>S-Design Releases FlorÃ¸ Airport for MSFS</title>
+    <updated>2023-05-05T00:00:00+00:00</updated>
+    <link href="/news/sdeflo" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645512a778f7b09cd6542422_flo1.png" rel="enclosure" type="image/png" length="3440809"/>
+    <summary>Sim: MSFS. S-Design has recently released their rendition of FlorÃ¸ Airport (ENFL) for Microsoft Flight Simulator, serving the town of FlorÃ¸ in Vestland, Norway. The yearly average sits at around 200,000 passengers as of 2014.  The airport opened in 1971 with three other regional airports in Norway. Back then, it was served by Wideroe with de Havilland Canada Twin Otters until 1994, when Coast Air took over. Danish Air Transport took over briefly between 2003 and 2012 when Wideroe made their glorious return.Â   Avinor, the airport owner, has plans to eventually expand the airport, which still uses its first terminal from 1971, considered small by todayâs standards. They also consider a potential runway extension from 1,700m to 2,000 meters, allowing bigger aircraft to operate at the airport. The major implication, though, would be the cost: 200 million kroner, and the amount of work it would imply, as it would require lots of flattening and landfilling.Â   It is served by three airlines: Bristow Helicopters (Deepsea Stavanger, GjÃ¸a, Snorre A and B, Visund), DAT (Oslo), and WiderÃ¸e (Bergen).Â   The scenery features an accurate rendition of the airport, with high-definition hand-made ground textures, true-to-life landside recreation, 20cm aerial imagery, highly detailed models of all airport buildings, and 4K PBR texturing.  Itâs available onÂ SimMarketÂ for roughly $12.17, requiring at least 621.32MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!  Â   â</summary>
+    <published>2023-05-05T00:00:00+00:00</published>
   </entry>
 </feed>
