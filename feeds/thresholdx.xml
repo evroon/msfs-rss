@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-06T18:20:44.177428+00:00</updated>
+  <updated>2023-05-07T18:20:09.855381+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/uk2lcy</id>
-    <title>UK2000 Scenery Announces London City Airport for MSFS</title>
-    <updated>2023-04-30T00:00:00+00:00</updated>
-    <link href="/news/uk2lcy" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644dc77254ea1c0e15608174_lcy1.jpg" rel="enclosure" type="image/jpeg" length="555065"/>
-    <summary>Sim: MSFS. UK2000 Scenery has recently announced their rendition of London City Airport (EGLC) for Microsoft Flight Simulator, the fifth busiest airport in London with a yearly average of 5 million passengers. First proposed in 1981, the airport only came to be in 1987, after years of bureaucratic slowdowns. Work didnât start until 1986 when they got the permission to begin constructing. For the first couple of years of operation, the airport only had a 1,080-meter-long runway with a 7.5-degree glide path slope, limiting it to a select range of aircraft like the Dash 7 and the Dornier 228. It wasnât long until the airport submitted a request to extend the runway, making the glide path slightly less steep and thus allowing for an increased aircraft variety. Approval for the extension came in 1992, making the runway reach its current 1,508 meters of length, and the glide path was slightly reduced from 7.5 to 5.5, allowing even more aircraft to operate at the airport.  The airport is mainly served by British Airways, with many intra-European destinations such as Amsterdam, Barcelona, and ZÃ¼rich. The visitorsâ list includes ITA Airways, KLM, Loganair, LOT Polish Airlines, Lufthansa, Luxair, and Swiss International Air Lines. The scenery will feature an accurate rendition of the airport, with custom ground markings, a high-detail depiction of the airport terminal and its interior, landside details, custom ground clutter, and 3D people. It will be available on Tuesday (May 4th) for roughly $18.85 (14.99 pounds).Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-04-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ec1352</id>
-    <title>RotorSimXP EC135 for XP12 Coming May 1st </title>
-    <updated>2023-04-30T00:00:00+00:00</updated>
-    <link href="/news/ec1352" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644e3eff81c827409f00e115_1974263960_ec135-2020-11-2017_09_34.png.dd1df78173f549e52b2925aa24f92722.png" rel="enclosure" type="image/png" length="3803437"/>
-    <summary>Sim: X-Plane. HSF Design and Rotorsim's popular EC135 Creation is confirmed as coming to XP12 on May 1st 2023. The Aircraft will see a host of new features and improvements over its XP11 predecessor. Developers took to Youtube to show some of the new and improved features of the rotorcraft which include new rain effects, sharper avionics displays and automatic weight/ Centre of Gravity changes.Â  The new and improved EC135 will be available on the Rotorsim.de website from May 1st. â</summary>
-    <published>2023-04-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/swspc12</id>
     <title>SWS PC12 Development Update</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645512a778f7b09cd6542422_flo1.png" rel="enclosure" type="image/png" length="3440809"/>
     <summary>Sim: MSFS. S-Design has recently released their rendition of FlorÃ¸ Airport (ENFL) for Microsoft Flight Simulator, serving the town of FlorÃ¸ in Vestland, Norway. The yearly average sits at around 200,000 passengers as of 2014.  The airport opened in 1971 with three other regional airports in Norway. Back then, it was served by Wideroe with de Havilland Canada Twin Otters until 1994, when Coast Air took over. Danish Air Transport took over briefly between 2003 and 2012 when Wideroe made their glorious return.Â   Avinor, the airport owner, has plans to eventually expand the airport, which still uses its first terminal from 1971, considered small by todayâs standards. They also consider a potential runway extension from 1,700m to 2,000 meters, allowing bigger aircraft to operate at the airport. The major implication, though, would be the cost: 200 million kroner, and the amount of work it would imply, as it would require lots of flattening and landfilling.Â   It is served by three airlines: Bristow Helicopters (Deepsea Stavanger, GjÃ¸a, Snorre A and B, Visund), DAT (Oslo), and WiderÃ¸e (Bergen).Â   The scenery features an accurate rendition of the airport, with high-definition hand-made ground textures, true-to-life landside recreation, 20cm aerial imagery, highly detailed models of all airport buildings, and 4K PBR texturing.  Itâs available onÂ SimMarketÂ for roughly $12.17, requiring at least 621.32MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!  Â   â</summary>
     <published>2023-05-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/netgue</id>
+    <title>NetDesign Releases In Guezzam Airport for MSFS</title>
+    <updated>2023-05-06T00:00:00+00:00</updated>
+    <link href="/news/netgue" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6456a359d537e89d2831bfc9_datg1.jpg" rel="enclosure" type="image/jpeg" length="1697928"/>
+    <summary>Sim: MSFS. NetDesign has recently released their rendition of In Guezzam Airport (DATG) for Microsoft Flight Simulator, a regional civilian and military airport in Algeria, right on the border with Niger.Â   Guezzam Airport was built in the early 1970s, primarily as a military airport. However, it has also been developed to serve commercial air traffic in the years since. Today, the airport mainly serves domestic flights within Algeria but also has international connections to other African countries, such as Niger and Mali.  The airport has a single runway that measures 2,200 meters in length and is equipped with modern navigational aids. The passenger terminal building is relatively small but provides all the essential services travelers require, including check-in counters, baggage handling facilities, and a small selection of shops and restaurants.  Due to its location in the Sahara Desert, Guezzam Airport can experience extreme weather conditions, including sandstorms and high temperatures. As such, travelers need to check weather conditions and plan their trips accordingly.  In addition to its role as a transportation hub, Guezzam Airport is also strategically important for military purposes. The airport is located near Algeria's borders with Niger and Mali, which have experienced security challenges in recent years due to the presence of armed extremist groups.Â   The scenery aims to faithfully recreate the airport based on the few available photos and satellite imagery, with a basic terminal, control tower, and an Algerian military base. It features 4K PBR textures, a VOR approach with the official airport chart included, detailed sandy sidewalks, realistic night lighting, and performance-friendly optimization.  It's available onÂ SimMarketÂ for roughly $11.00, requiring at least 242.62 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fnancy</id>
+    <title>France VFR Releases Metz-Nancy-Lorraine Airport for MSFS</title>
+    <updated>2023-05-06T00:00:00+00:00</updated>
+    <link href="/news/fnancy" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6456b0500ecf7b713408630a_nan1.jpg" rel="enclosure" type="image/jpeg" length="264175"/>
+    <summary>Sim: MSFS. France VFR has recently released their rendition of Metz-Nancy-Lorraine (LFJL) for Microsoft Flight Simulator, serving the Lorraine region of France with a yearly average of 250,000 passengers. The airport opened in October 1991, replacing Nancy-Essey and Metz-Frescaty, sporting modern infrastructure and supporting the regionâs economic growth and development. In 2006, the airport underwent upgrades, with the runway being lengthened to 3,050 meters, along with refurbishing work on the terminal, built in the 90s. Itâs 7500 square meters large, with 14 check-in desks, two gates, and two luggage claim belts.  Itâs served by Air Algerie (Algiers, Constantine, Oran), TUI fly Belgium (seasonally), and Twin Jet (Marseille, Toulouse).  The scenery features an accurate rendition of the airport, with high-resolution ground textures, photo-realistic 3D buildings, realistic night lighting, multiple charts provided, and custom vegetation. Itâs available on SimMarket for roughly $9.09, requiring at least 280.75 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-06T00:00:00+00:00</published>
   </entry>
 </feed>
