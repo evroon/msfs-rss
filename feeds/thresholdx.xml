@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-08T18:20:45.659238+00:00</updated>
+  <updated>2023-05-09T18:22:20.297449+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/swspc12</id>
-    <title>SWS PC12 Development Update</title>
-    <updated>2023-04-30T00:00:00+00:00</updated>
-    <link href="/news/swspc12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644e417c05664d672f9a68a2_343985416_3459106514366992_6171065092217622345_n.jpg" rel="enclosure" type="image/jpeg" length="215830"/>
-    <summary>Sim: MSFS. SimWorks Studios have recently released a progress update on the development of their upcoming Pilatus PC12 for MSFS. The aircraft is expected to be a highly detailed recreation of the PC12 and from what we have seen so far, this looks to be holding true.Â  The progress report starts out with âThe exterior model is now complete and we are finalizing the base materials and pumping out liveries. What is left to do on the exterior is finalise the flap animations, chocks &amp; reds. We are thinking also of animating the de-icing boots, but that will also require some effects work, so it is under consideration. The last thing will be the decals pass, where we will apply the rivets and stencils to the aircraftâÂ  There has been some confusion among keen customers and members of the sim aviation community with the first part of the announcement, SimWorks studios from the beginning have pushed the upcoming pc12 as an in-depth aircraft, but in the latest post we see them debating as to whether the de-ice boots will be animated or not, many believe this is basic and should be without a doubt included for any in-depth recreation.Â  The details of the post go on to sadly explain why the project is behind schedule and that it will continue to fall behind schedule for the time being as developers need more hours in the project. We are informed that the initial release will be around the margin of $25-$35 but unfortunately will lack some features that will not be seen until subsequent updates, these features include A weather radar, 5 bladed propeller and the SWS tablet.Â  We will keep the community informed on this project as it goes through its development. </summary>
-    <published>2023-04-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xprthp</id>
-    <title>Better Rooftop Helipads for XP Released</title>
-    <updated>2023-04-30T00:00:00+00:00</updated>
-    <link href="/news/xprthp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/644e485103893dea110c7c73_Pictures-17.jpg" rel="enclosure" type="image/jpeg" length="488873"/>
-    <summary>Sim: X-Plane. Better Rooftop Helipads has been released for XP11 and XP12, this addon gives you enhanced buildings and rooftops for your helicopter operations around major cities.Â  The product features include:Â  Better Rooftop Helipads can be purchased from the Xplane.Org store for $19.95 â</summary>
-    <published>2023-04-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/parvcp</id>
     <title>Paulo Ricardo Releases Viracopos International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6456b0500ecf7b713408630a_nan1.jpg" rel="enclosure" type="image/jpeg" length="264175"/>
     <summary>Sim: MSFS. France VFR has recently released their rendition of Metz-Nancy-Lorraine (LFJL) for Microsoft Flight Simulator, serving the Lorraine region of France with a yearly average of 250,000 passengers. The airport opened in October 1991, replacing Nancy-Essey and Metz-Frescaty, sporting modern infrastructure and supporting the regionâs economic growth and development. In 2006, the airport underwent upgrades, with the runway being lengthened to 3,050 meters, along with refurbishing work on the terminal, built in the 90s. Itâs 7500 square meters large, with 14 check-in desks, two gates, and two luggage claim belts.  Itâs served by Air Algerie (Algiers, Constantine, Oran), TUI fly Belgium (seasonally), and Twin Jet (Marseille, Toulouse).  The scenery features an accurate rendition of the airport, with high-resolution ground textures, photo-realistic 3D buildings, realistic night lighting, multiple charts provided, and custom vegetation. Itâs available on SimMarket for roughly $9.09, requiring at least 280.75 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mx6bos</id>
+    <title>MisterX6 Updates Boston Logan International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2023-05-09T00:00:00+00:00</updated>
+    <link href="/news/mx6bos" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6459ce0b4e1a000ede9da7b1_bosx1-min.png" rel="enclosure" type="image/png" length="1376413"/>
+    <summary>Sim: X-Plane. MisterX6 has recently updated their rendition of General Edward Lawrence Logan International Airport (KBOS) for X-Plane 11 and 12, the busiest airport in the Northeastern United States outside the New York Metropolitan Area with a yearly average of 42 million passengers as of 2019.  Opened almost a hundred years ago in September 1923, it was mainly used by the Air National Guard of Massachusetts and the United States Army Air Corps. Scheduled passenger service started in 1927 with Colonial Air Transport, flying people between Boston and New York City.  The airport had its first expansion during the 1940s and 1950s when the rise in demand for air travel forced the operator to increase its area size through landfills in Boston Harbor. In that same decade, the terminals were expanded, with Terminals B and C being constructed in 1949, still in use in 2023.Â   Shortly after WW2, Boston became a transatlantic gateway. American Overseas Airlines offered a weekly Boston-Shannon-London service in the late 40s, Pan Amâs direct flight to Shannon and Santa Maria Island in the Azores, then to London and Lisbon. In the early 50s, BOAC started nonstop operations from Glasgow, and Air France made a multi-stop link from Paris-Orly to Boston. By 1957, there were 49 weekday departures on average.  In the 70s, with the advent of jet aircraft, the routes multiplied: Pan Am started a daily service to London Heathrow with the legendary 747-400, and the daily traffic average skyrocketed. Such a boom forced the airport to grow even further, with the newly built Terminal E (1974) becoming the second-largest international arrivals facility in the United States.Â   Nowadays, Boston Logan International Airport has four terminals with 102 gate positions in total and six runways.Â   Itâs a hub for Cape Air and Delta Air Lines, the latter holding 19% of the market share, with JetBlue taking the lead at 30.08%, and American Airlines is third with 18.54%, followed by United (10.42%) and Southwest (4.65%). Washington, DC, is the busiest national destination with 769,000 passengers, followed by Chicago-OâHare (717,000) and Orlando (678,000). The international top three comprises London Heathrow (664,886), Dublin (346,232), and Paris Charles de Gaulle (326,184).Â   The scenery features a detailed rendition of the airport, with animated airport vehicles and ship traffic, animated marshallers and jetways, custom ground textures for taxiways and runways, photoscenery for the airport and surrounding area, lots of Boston landmarks, and now compatible with X-Plane 12.  Itâs free onÂ X-Plane.org, requiring at least 495 MB of free hard disk space to install. Shout out to agonyair for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jarcop</id>
+    <title>JarDesign Teases CoPilot Addon for MSFS</title>
+    <updated>2023-05-09T00:00:00+00:00</updated>
+    <link href="/news/jarcop" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645a8e87642f0702c8abdedc_linda1.png" rel="enclosure" type="image/png" length="2315905"/>
+    <summary>Sim: MSFS. J. A. Romanov, JARDesign's owner/developer, has recently published a short video on his YouTube channel teasing his upcoming CoPilot Addon for Microsoft Flight Simulator, which aims to add a realistic First Officer model in the cabin that can execute multiple tasks. According to the developer, it consists of an animated copilot object and a WASM module, combining speech simulation, speech recognition, a systems engine based on visual avionics, and more.  The video demonstrates the copilot's behavior on multiple aircraft, executing different cabin flows, chatting with the developer, and following checklists. Due to its config file dependent nature, it should theoretically work with any aircraft as long as someone sets it up properly. They claim to be still working on it, with no information regarding pricing or availability yet.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-09T00:00:00+00:00</published>
   </entry>
 </feed>
