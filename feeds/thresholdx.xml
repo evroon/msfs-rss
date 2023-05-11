@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-10T18:26:52.395864+00:00</updated>
+  <updated>2023-05-11T18:21:20.235965+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orblc2</id>
-    <title>Orbx Teases London City Airport V2 for MSFS</title>
-    <updated>2023-05-02T00:00:00+00:00</updated>
-    <link href="/news/orblc2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6450f5bcb024aa0b4cfa0f8c_lon1.jpg" rel="enclosure" type="image/jpeg" length="1542527"/>
-    <summary>Sim: MSFS. Orbx has recently teased an upcoming update to their now nearly three-year-old rendition of London City Airport (EGLC) for Microsoft Flight Simulator, the fifth busiest airport in London with a yearly average of 5 million passengers. The original LCY came out back when the simulator was brand new, and developers were still getting acquainted with the SDK, making it quite outdated by contemporary standards, especially considering the real-life layout also saw changes in that meantime. Version two considers the airport expansion, with its parallel taxiway, new parking stands, and the remote digital control tower. â They claim to have entirely rebuilt the airport, with an extensive rework of every detail, new textures, additional enhancements, and a custom ground poly.   â The airport is said to integrate perfectly with their Landmarks London product, ensuring a highly immersive approach.  They claim it should be available soon on OrbxDirect, and previous owners will be able to get their hands on it for a small upgrade fee.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/f2hbli</id>
     <title>Fly2High Releases Bellingham International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645aad6209fbf947772f465a_sth1.png" rel="enclosure" type="image/png" length="3233889"/>
     <summary>Sim: MSFS. Orbx has recently released their rendition of St Helens Airport (YSTH) for Microsoft Flight Simulator, a small regional airport serving the town of St Helens on the northeast coast of Tasmania, Australia.Â   In 1933, a local pilot named Bill Knight began using a small airstrip in St Helens for his flying activities. This airstrip was located on private land and was only suitable for small aircraft. However, it became popular with local pilots, who began using it for recreational flying.  Nowadays, itâs primarily used for transporting fresh seafood - one of St Helensâ economic fortes - to the Australian mainland. Scenic flights also take place in St Helens occasionally, showcasing the wonders of the Tasmanian east coast to everyone interested.  The scenery is developed by Ken Hall, featuring photorealistic textures, custom vegetation, and custom edge lights.  Itâs available onÂ OrbxDirectÂ for roughly $5.41, requiring at least 744.70 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcrejet</id>
+    <title>X-Crafts Releases E-Jets Family for X-Plane </title>
+    <updated>2023-05-10T00:00:00+00:00</updated>
+    <link href="/news/xcrejet" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645c091641f287c65c43e439_E-JETS_FAMILY_BY_X-CRAFTS_E175_006.jpeg" rel="enclosure" type="image/jpeg" length="128662"/>
+    <summary>Sim: X-Plane. X-Crafts have released their updated E-Jets Family for X-Plane 11 and X-Plane 12. This release follows their older E-Jets and ERJ products. This new version of the E-Jets family covers the E170, E175, E190, and E195 models. The aircraft is a complete rebuild of its original E-Jets family featuring a new authentic FMS and all-new systems.Â  The E-Jets family is a collection of regional jets from the Brazilian aircraft manufacturer Embraer. The E170/175 has become wildly popular on short routes in the 70-seat American regional market. The E170/175 Features a range of around 2100 NM while the larger E190/195 jet features a range of 2300 NM. The larger E190/195 has become popular with many larger airlines to serve routes with medium demand.Â  The X-Crafts E-Jets family has a large feature list including an authentic FMS, systems that closely simulate the real aircraft, a custom EFB, and custom FMOD sounds. The aircraft comes compatible with both X-Plane 11 and X-Plane 12 and utilizes SkunkCrafts Auto Updater. Other features include: Systems &amp; Autopilot Avionics Flight Model FMS Electronic Flight Bag â The aircraft is available from the X-Plane Store with many options to choose from, users can purchase each model individually or as a complete package with all four models. Customers of the X-Crafts E-Jets 2.5 are eligible for a 15% discount on the full family package only. As always stay tuned to Threshold for more news. â</summary>
+    <published>2023-05-10T00:00:00+00:00</published>
   </entry>
 </feed>
