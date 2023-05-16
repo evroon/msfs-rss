@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-15T18:21:30.565779+00:00</updated>
+  <updated>2023-05-16T18:21:30.088339+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lamx12</id>
-    <title>Laminar Research Publishes Short Term Roadmap for X-Plane 12</title>
-    <updated>2023-05-09T00:00:00+00:00</updated>
-    <link href="/news/lamx12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645a93759cd41b66f42251dd_xp1.webp" rel="enclosure" type="image/webp" length="1906242"/>
-    <summary>Sim: X-Plane. Laminar Research has recently published a newÂ short-term roadmapÂ for X-Plane 12, delineating the next steps for versions 12.05 and 12.06.Â   With every 12.0X release, they aim to stabilize the product, complete or tune planned features, and improve performance. Since the early access release in late 2022, they have been working on maximizing X-Plane 12âs potential and overall experience with many bug fixes, improved AMD card performance, NOAA weather processing, and more.  For version 12.05, which is currently in Release Candidate, they plan to improve the A330 flight experience with a fully custom MCDU, autopilot, and flight systems. Based on real pilot feedback, the simulatorâs flight model was also improved, better matching the real world.Â   In the near future, 12.06 will deliver the result of three months worth of rendering engine improvements, according to their claim, with new cirrus clouds, lower VRAM use, improved cloud rendering in general, and OpenXR integration for VR folks.  It will also bring several ATC/AI improvements, with AI aircraft behaving more realistically, better conveying the experience of flying close to other aircraft.Â   Even further ahead, they have already made plans for 12.07, which should focus on improving lighting, water mixed render targets, networking fixes, atmospheric scattering, turbine engine improvements, and more.  Thereâs no release date for the updates yet, but Threshold will keep you informed! â</summary>
-    <published>2023-05-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fbw380</id>
     <title>FlyByWire Simulations Teases A380Xâs Wing Flex </title>
@@ -150,6 +141,15 @@
     <link href="/news/3dvbre" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6462001d777e1641f994a284_brest1.jpg" rel="enclosure" type="image/jpeg" length="1566690"/>
     <summary>Sim: MSFS. 3DVirtualSim has recently released their rendition of Brest Bretagne Airport (LFRB) for Microsoft Flight Simulator, serving the city of Brest in western France with a yearly average of 1 million passengers.  The airportâs origin dates back to World War I when the US Army built two airship hangars, which were abandoned right after the war until the late 1930s when it also got an airstrip. The air base, though, didnât survive World War 2, with its infrastructure being destroyed by air raids, rendering it practically useless.Â   Rebuilding efforts only took place in the early 1950s, with the airport being reopened for commercial use in 1952, connecting Brest to Ouessant and Paris by the wings of Air Inter.Â   With the popularization of air travel and the consequent increase in passenger volume, the airport underwent a huge expansion project in 1986, followed by a runway extension six years later, transforming the airport into a diversion ground for transatlantic flights. By 1989, the airport was averaging 500,000 passengers a year for the first time.  In December 2007, they inaugurated a brand new terminal, with 22,000 square meters of total area, able to accommodate up to 1.8 million passengers a year, with two wide-body jetways and fourteen stands for medium and small aircraft. Itâs shaped like a manta ray.  The scenery features an accurate rendition of the airport, with 4K PBR textures, an intricately modeled interior, dynamic jetways, reworked aerial imagery to match Bingâs colorimetry, realistic ground textures, and custom night lighting.  Itâs available onÂ SimMarketÂ for roughly $13.62, requiring at least 1.39 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/barcro</id>
+    <title>Barelli MSFS Addon Releases Crotone Airport for MSFS</title>
+    <updated>2023-05-15T00:00:00+00:00</updated>
+    <link href="/news/barcro" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6462a8074c4eafe8cc08d61f_crotone1.png" rel="enclosure" type="image/png" length="4112978"/>
+    <summary>Sim: MSFS. Barelli MSFS Addon has recently released their rendition of Crotone-SantâAnna Airport (LIBC) for Microsoft Flight Simulator, a domestic airport serving the city of Crotone in Calabria (Southern Italy) with a yearly average of 169,780 passengers.  The airport was built in 1941 to support the war industry with air transport of nitric acid and nitrates required to manufacture explosives originating from the chemical plants of Montecatini and Pertusola Sud, both close to Crotone. Two years later, in 1943, the entire airport was destroyed by 50 B.24 bombers.  Twenty years later, it became an operational base for ITAVIA, flying passengers to Ciampino and mail to Fiumicino (both are Rome airports). The advent of Lamezia Terme Airport slowly killed the flights, eventually leading to the closure of their Crotone base in 1979.  In 2012, the airport was upgraded with an ILS system, allowing for safe operation even during bad weather conditions and poor visibility. Three years later, the airportâs management company filed for bankruptcy, with the airport ceasing operations a few months after.  In 2017, Calabrese Airport Company took the helm, reopening the airport for flight operations in November, with Ryanair reactivating their scheduled flights in 2018. They are the only airline operating at Crotone, with flights to Venice, Milan, and Bologna.  The scenery features an accurate rendition of the airport, with a custom 3D model of the terminal, custom ground markings, and custom clutter.  Itâs available onÂ SimMarketÂ for roughly $12.42, requiring at least 59.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-15T00:00:00+00:00</published>
   </entry>
 </feed>
