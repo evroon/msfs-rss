@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-16T18:21:30.088339+00:00</updated>
+  <updated>2023-05-17T18:21:19.879785+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fbw380</id>
-    <title>FlyByWire Simulations Teases A380Xâs Wing Flex </title>
-    <updated>2023-05-09T00:00:00+00:00</updated>
-    <link href="/news/fbw380" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645a9a77a5d90f86407e360f_wing1.png" rel="enclosure" type="image/png" length="1193830"/>
-    <summary>Sim: MSFS. FlyByWire Simulations recently published a YouTube video showcasing the wing flex physics of their upcoming Airbus A380 for Microsoft Flight Simulator. With each wing weighing around 50 tons and up to 150 tons when loaded with fuel, itâs far from the average wing out there, meaning the developers had to develop an entirely new wing flex system from scratch, correctly simulating the bending of the wing along its entire length, with varying resonance. They also state how each fuel tank has its mass and position in the wing, affecting the physics and increasing the complexity of such simulation. The work is still in progress, and the developers aim to bring a result as close to the real thing as possible. The A380 is a double-deck, widebody commercial airliner produced by Airbus. Itâs the largest passenger airliner in the world, with a seating capacity of up to 853 passengers in a single-class configuration or 544 passengers with a typical three-class layout. It was designed to address the increasing demand for air travel while providing a fuel-efficient and eco-friendly option for long-haul journeys powered by four engines (either a Rolls-Royce Trent 900 or the General Electric GP7200), with a range of up to 8000 nm. Despite its impressive features, the A380 faced several challenges in the commercial market. Its high price tag, maintenance costs, and the increasing popularity of smaller, more fuel-efficient aircraft led to lower demand for the A380. In February 2019, Airbus announced that it would stop producing the A380 after delivering its final orders in 2021. Thereâs no information regarding a potential release date yet, but Threshold will keep you informed! â</summary>
-    <published>2023-05-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/asoat4</id>
-    <title>Asobo Studio Updates ATR 42-600/72-600 for MSFS</title>
-    <updated>2023-05-09T00:00:00+00:00</updated>
-    <link href="/news/asoat4" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/645aa804ff8b15fa42c6acc2_genista1.png" rel="enclosure" type="image/png" length="3363772"/>
-    <summary>Sim: MSFS. Asobo Studio has recently released an update to their Expert Series I: ATR 42-600/72-600 aircraft for Microsoft Flight Simulator, bringing multiple fixes and improvements. Update 1.0.8 is the first update for the ATR lineup, smoothing VNAV flight path calculation, fixing multiple CTDs, EWD Alerts Overflow behavior improvements, slight flight model tweaks, and much more. The full changelog follows down below: â The ATR 42-600 is a twin-engine, high-wing turboprop seating up to fifty passengers, introduced in late 2012. Itâs an updated ATR 42, the initial combined effort between Airbus and Leonardo in the 1980s. The â42â came from the original seat count.  The ATR 72-600 is a relatively stretched version of the ATR 42-600 with a seating configuration ranging from 70 to 78 seats, with a range of 850 miles, and cruising at 320 miles per hour. The ATR Bundle is available on the Microsoft Flight Simulator Marketplace for $19.99, with a 30% discount for deluxe/premium deluxe owners. Images are courtesy of adam and genista. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbsth</id>
     <title>Orbx Releases St Helens Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6462a8074c4eafe8cc08d61f_crotone1.png" rel="enclosure" type="image/png" length="4112978"/>
     <summary>Sim: MSFS. Barelli MSFS Addon has recently released their rendition of Crotone-SantâAnna Airport (LIBC) for Microsoft Flight Simulator, a domestic airport serving the city of Crotone in Calabria (Southern Italy) with a yearly average of 169,780 passengers.  The airport was built in 1941 to support the war industry with air transport of nitric acid and nitrates required to manufacture explosives originating from the chemical plants of Montecatini and Pertusola Sud, both close to Crotone. Two years later, in 1943, the entire airport was destroyed by 50 B.24 bombers.  Twenty years later, it became an operational base for ITAVIA, flying passengers to Ciampino and mail to Fiumicino (both are Rome airports). The advent of Lamezia Terme Airport slowly killed the flights, eventually leading to the closure of their Crotone base in 1979.  In 2012, the airport was upgraded with an ILS system, allowing for safe operation even during bad weather conditions and poor visibility. Three years later, the airportâs management company filed for bankruptcy, with the airport ceasing operations a few months after.  In 2017, Calabrese Airport Company took the helm, reopening the airport for flight operations in November, with Ryanair reactivating their scheduled flights in 2018. They are the only airline operating at Crotone, with flights to Venice, Milan, and Bologna.  The scenery features an accurate rendition of the airport, with a custom 3D model of the terminal, custom ground markings, and custom clutter.  Itâs available onÂ SimMarketÂ for roughly $12.42, requiring at least 59.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kausms</id>
+    <title>FeelThere Releases Austin-Bergstrom International Airport for Microsoft Flight Simulator</title>
+    <updated>2023-05-17T00:00:00+00:00</updated>
+    <link href="/news/kausms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/646464daa73d03d922288f23_319289_16.jpg" rel="enclosure" type="image/jpeg" length="1479017"/>
+    <summary>Sim: MSFS. Earlier this week, scenery developer FeelThere has released their rendition of Austin-Bergstrom International Airport (KAUS) for Microsoft Flight Simulator. The airport features everything from high quality PBR textures to customized lighting in the terminal and ramp areas. According to the developers, the scenery recreates in detail more than 50 buildings of its real life counterpart, including two passenger terminals furnished with animated jetways and three helipads. In addition, the product will include custom âground polygons including realistic decals, dirt, taxi lines and surfacesâ, as well as accurate signage for parking spots and taxiways across the airport. Austin-Bergstrom International Airport is the major airport for the city of Austin and is the third busiest airport in the state of Texas. It offers destinations across the U.S, Central-America, the Caribeans, and Europe, serving airlines from Southwest to Lufthansa. Currently, the scenery can be purchased on simMarket for EUR 13.99 or $15.22 USD, excluding any sale taxes that may incur. The developers recommend at least 650mb of free disk space to successfully download and install the product.</summary>
+    <published>2023-05-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/olcyv2</id>
+    <title>Orbx Releases London City Airport v2 for MSFS</title>
+    <updated>2023-05-17T00:00:00+00:00</updated>
+    <link href="/news/olcyv2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64648090e673f7710cdeb843_v21-min.png" rel="enclosure" type="image/png" length="1377229"/>
+    <summary>Sim: MSFS. Orbx has recently released their updated rendition of London City Airport (EGLC) for Microsoft Flight Simulator, bringing an updated layout, better models and textures, and more.  The first version came out during the early stages of Microsoft Flight Simulator when developers were still getting acquainted with the SDK and its potential. V2 brings the new airport layout, the parallel taxiway, new parking stands, and the remote digital control tower, along with refined 3D models, textures, and more.  London City is the fifth busiest airport in London, with a yearly average of 5 million passengers, mainly served by British Airways, with many intra-European destinations such as Amsterdam, Barcelona, and ZÃ¼rich. The visitors' list includes ITA Airways, KLM, Loganair, LOT Polish Airlines, Lufthansa, Luxair, and Swiss International Air Lines.  The scenery was rebuilt from scratch, bringing an accurate rendition of London City Airport with HD textures, PBR, crisp aerial imagery for the surroundings, an updated custom groundpoly, performance-friendly optimization, improvements on the main terminal, remote digital control tower, and more.  It's available onÂ OrbxDirectÂ for roughly $18.06, requiring at least 3.70 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-17T00:00:00+00:00</published>
   </entry>
 </feed>
