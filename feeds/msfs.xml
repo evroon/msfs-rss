@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-05-25T18:21:22.664329+00:00</updated>
+  <updated>2023-05-26T18:21:10.072886+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-xiii-sale/</id>
-    <title>World Update XIII Sale</title>
-    <updated>2023-04-25T17:01:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-xiii-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/WU13_Sale_Apr2023_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="211273"/>
-    <summary>29 Items On Sale Now in the Marketplace</summary>
-    <published>2023-04-25T17:01:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-27th-2023-development-update/</id>
     <title>April 27th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/ScenicAtol37419-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="36803"/>
     <summary>Public testing continues for Microsoft Flight Simulator’s next major release, Aircraft &amp; Avionics Update 02 (AAU_02). Earlier today, we released a new beta build, 1.33.5.0.</summary>
     <published>2023-05-18T22:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-25th-2023-development-update/</id>
+    <title>May 25th, 2023 Development Update</title>
+    <updated>2023-05-26T00:00:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-25th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/AvionChibi-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="90024"/>
+    <summary>Testing for Aircraft &amp; Avionics Update 2 (AAU_02) continues to go well. The teams at Asobo and Working Title are hard at work preparing a new beta build which we target for deployment to testers within the next few days.</summary>
+    <published>2023-05-26T00:00:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
