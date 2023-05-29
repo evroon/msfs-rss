@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-28T18:19:38.454208+00:00</updated>
+  <updated>2023-05-29T18:20:46.834346+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kausms</id>
-    <title>FeelThere Releases Austin-Bergstrom International Airport for Microsoft Flight Simulator</title>
-    <updated>2023-05-17T00:00:00+00:00</updated>
-    <link href="/news/kausms" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/646464daa73d03d922288f23_319289_16.jpg" rel="enclosure" type="image/jpeg" length="1479017"/>
-    <summary>Sim: MSFS. Earlier this week, scenery developer FeelThere has released their rendition of Austin-Bergstrom International Airport (KAUS) for Microsoft Flight Simulator. The airport features everything from high quality PBR textures to customized lighting in the terminal and ramp areas. According to the developers, the scenery recreates in detail more than 50 buildings of its real life counterpart, including two passenger terminals furnished with animated jetways and three helipads. In addition, the product will include custom âground polygons including realistic decals, dirt, taxi lines and surfacesâ, as well as accurate signage for parking spots and taxiways across the airport. Austin-Bergstrom International Airport is the major airport for the city of Austin and is the third busiest airport in the state of Texas. It offers destinations across the U.S, Central-America, the Caribeans, and Europe, serving airlines from Southwest to Lufthansa. Currently, the scenery can be purchased on simMarket for EUR 13.99 or $15.22 USD, excluding any sale taxes that may incur. The developers recommend at least 650mb of free disk space to successfully download and install the product.</summary>
-    <published>2023-05-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/olcyv2</id>
-    <title>Orbx Releases London City Airport v2 for MSFS</title>
-    <updated>2023-05-17T00:00:00+00:00</updated>
-    <link href="/news/olcyv2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64648090e673f7710cdeb843_v21-min.png" rel="enclosure" type="image/png" length="1377229"/>
-    <summary>Sim: MSFS. Orbx has recently released their updated rendition of London City Airport (EGLC) for Microsoft Flight Simulator, bringing an updated layout, better models and textures, and more.  The first version came out during the early stages of Microsoft Flight Simulator when developers were still getting acquainted with the SDK and its potential. V2 brings the new airport layout, the parallel taxiway, new parking stands, and the remote digital control tower, along with refined 3D models, textures, and more.  London City is the fifth busiest airport in London, with a yearly average of 5 million passengers, mainly served by British Airways, with many intra-European destinations such as Amsterdam, Barcelona, and ZÃ¼rich. The visitors' list includes ITA Airways, KLM, Loganair, LOT Polish Airlines, Lufthansa, Luxair, and Swiss International Air Lines.  The scenery was rebuilt from scratch, bringing an accurate rendition of London City Airport with HD textures, PBR, crisp aerial imagery for the surroundings, an updated custom groundpoly, performance-friendly optimization, improvements on the main terminal, remote digital control tower, and more.  It's available onÂ OrbxDirectÂ for roughly $18.06, requiring at least 3.70 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/navavi</id>
     <title>Navigraph Releases Avionics Plugin for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647030a10cb90011f36c86f5_kiah1.jpg" rel="enclosure" type="image/jpeg" length="289678"/>
     <summary>Sim: MSFS. FSDreamTeam has recently released their rendition of George Bush Intercontinental Airport (KIAH) for Microsoft Flight Simulator, the 12th busiest airport in the United States with a yearly average of 41 million passengers.  Inaugurated in 1969, it quickly became Houstonâs busiest airport, getting all the scheduled passenger traffic that once flew into William P. Hobby, which remained open but just for general aviation traffic. It wasnât until 1971 with Southwest Airlines that William P. Hobby Airport would also offer commercial scheduled services again.  The airport has five terminals, 161 gates, and support for jumbo jets such as the A380 and the 747 (terminal D).  Itâs a hub for United Airlines, offering multiple global destinations, truly an intercontinental operation. United Express, their regional branch, also provides a significant domestic route network. Spirit Airlines and American Airlines also serve Houston with many domestic destinations.  The scenery features an accurate rendition of the airport, with a realistic airport definition file, a customized GSX Pro integration, full dynamic lights, PBR texturing, Parallax shaders, the new terminal c modeled from scratch with full interiors, and more.  Itâs available onÂ FSDTâs websiteÂ for roughly $9.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddtphl</id>
+    <title>DominicDesignTeam Releases Philadelphia International Airport for MSFS</title>
+    <updated>2023-05-28T00:00:00+00:00</updated>
+    <link href="/news/ddtphl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6473c98f39779002f0090742_phila1.jpg" rel="enclosure" type="image/jpeg" length="619208"/>
+    <summary>Sim: MSFS. DominicDesignTeam has recently released their rendition of Philadelphia International Airport (KPHL) for Microsoft Flight Simulator, the 21st busiest airport in the United States with a yearly average of 19.6 million passengers. â Built as a training field in 1925, PHL got its first terminal building only 15 years later, in 1940, when they got their fair share of passenger traffic that once used to fly into Camden Central Airport instead because Philadelphia lacked the infrastructure. â The military personnel demands of World War 2 converted it into a First Air Force training field, organizing and preparing various fighter and air bomber groups throughout the war. It was handed back to the city as soon as the war was over. It was also when the airport was granted its international status. â In the 1950s, the airport got a newÂ  terminal and underwent heavy expansion work, lasting up until 1970, when the entire structure was modernized. Two new terminals were built in the same decade, starting with Terminal D in 1973, and Terminal E in 1977.Â  â American Airlines holds the majority of the market share with 63.75%, offering a considerable amount of destinations, domestic and international. Frontier is second with 11.02%, followed by Spirit, Delta, and Southwest, with 6.59%, 6%, and 4.51%, respectively. The scenery features an accurate rendition of the airport, with PBR textures, dynamic lighting, real ground markings, hand-crafted pavement textures, custom jetway, custom object animation, and AI airline parking codes.Â  Itâs available on SimMarket for roughly $15.99, requiring at least 704.85 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxikal</id>
+    <title>MXI Design Releases Kalamata International Airport for MSFS</title>
+    <updated>2023-05-29T00:00:00+00:00</updated>
+    <link href="/news/mxikal" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6474a687fa73925d4e31dc4f_kal1.jpg" rel="enclosure" type="image/jpeg" length="2647351"/>
+    <summary>Sim: MSFS. MXI Design has recently released their rendition of Kalamata International Airport (LGKL) for Microsoft Flight Simulator, serving the second most populous city of the Peloponnese Peninsula, Kalamata (Greece).Â   It was opened in 1959 as a military airfield, primarily serving as a base for the Hellenic Air Force. After nearly a decade of charter traffic, it converted into a dual-use facility in the 90s. A new passenger terminal was built in 1991.  The 2000s saw continuous work to upgrade and expand the airport, keeping up with the ever-rising passenger numbers, although on a seasonal basis.Â   Itâs visited by multiple airlines during the summer, including the Greek carrier Aegean Airlines, Austrian Airlines, British Airways, Condor, easyJet, Edelweiss, Eurowings, Jet2.com, Lufthansa, Neos, Olympic Air, Ryanair, Smartwings, Swiss, Transavia, and Volotea.  The scenery features an accurate rendition of the airport, with up-to-date ground markings, detailed models with PBR texturing, a basic interior on both terminals, custom taxiway signs, 3D passengers, and custom vegetation.  Itâs available onÂ SimMarketÂ for roughly $11.02, requiring at least 1.40 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-29T00:00:00+00:00</published>
   </entry>
 </feed>
