@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-05-29T18:20:46.834346+00:00</updated>
+  <updated>2023-05-30T18:21:27.276834+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/navavi</id>
-    <title>Navigraph Releases Avionics Plugin for MSFS</title>
-    <updated>2023-05-18T00:00:00+00:00</updated>
-    <link href="/news/navavi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6466a9aa449bd11e4515599e_chart1.webp" rel="enclosure" type="image/webp" length="56282"/>
-    <summary>Sim: MSFS. Navigraph has recently released their Avionics Plugin for Microsoft Flight Simulator, improving the Garmin G3000 and G5000 experience in the simulator with seamlessly displayed charts, SimBrief integration, and more.  The new chart integration aims to reduce workload and enhance situational awareness. It allows the customer to display specific sections of the chart and bring them to multiple displays within the flight deck, with lots of customization.  Although only compatible with the G3000 and G5000 for the time being (TBM 930 and Cessna Citation Longitude, respectively), Navigraph plans to integrate charts into more units in the future, like the G1000 NXi and the CJ4 Pro Line 21. Itâs also available for integration by Xbox aircraft developers and soon available on the console and PC versions of the HJet and SF50 Vision Jet from FlightFX.  Itâs available right now forÂ Navigraph UltimateÂ subscribers. Please refer to theirÂ blog postÂ for guidance on how to set everything up. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bsdxin</id>
-    <title>BRsimDesigns Releases Embraer E121A1 - Xingu II for MSFS</title>
-    <updated>2023-05-18T00:00:00+00:00</updated>
-    <link href="/news/bsdxin" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6466b0dcec2bb52a947f5e1a_xingu1.png" rel="enclosure" type="image/png" length="3817266"/>
-    <summary>Sim: MSFS. BRsimDesigns has recently released their rendition of the Embraer E121A1 Xingu II for Microsoft Flight Simulator, an upgraded version of a twin-turboprop fixed-wing aircraft developed and manufactured in Brazil by Embraer in the mid-70s.Â   The E121 was the âfirst childâ of Embraerâs 12X Project, which aimed to develop cutting-edge pressurized turboprop aircraft for civil and military use.Â   The Xingu was an upgraded EMB-110 Bandeirante, using the same Pratt &amp; Whitney PT6A engines but with a sleeker fuselage and cutting-edge technology (for the 70s/80s).  BRsimDesigns modeled the upgraded version of the Xingu, named E121A1 Xingu II, introduced in September 1981. It was slightly more silent and a bit more powerful, thanks to the pair of PT6A-135 engines, cruising at 380 km/h, with a service ceiling of 28,000ft and 660 nautical miles of total range.  Their rendition for MSFS brings a detailed model, internally and externally, making use of 4K and 8K texturing, including eight liveries, a KAP140 autopilot, WT GNS530 integration (also compatible with the PNS GTN750, payware), custom NAV/COM/DME/ADF/Transponder panels, a limited weather radar, a custom coded pressurization and AC system, an EFB, and more. The complete feature list follows down below: Visuals:- 8 Liveries (Including two Brazilian Air Force and two French Air Force liveries)- Detailed external model- Detailed cockpit model- Detailed 3D instruments- Detailed 4K and 8K textures- Detailed passenger cabin   Autopilot/Navigation:- KAP140 Autopilot- GSN530 GPS (Working Title GSN530 necessary)- PMS50 GTN750 (Externally Integrated)- Custom NAV/COM/DME/ADF/Transponder panels- Weather Radar (limited by API)   Warning System:- Custom integrated warning system   Anti-Stall system:- Stick Shaker- C.A.A (AOA Control System)   AC/Pressurization:- Custom coded AC system (With auto and manual control)- Custom coded pressurization system (With ventilation and pressurization mode)   EFB:- Controls: Chocks, GPU, doors, weight and fuel   Checklist:- MSFS checklist menu- EFB checklist page- PDF checklist   MSFS Effects:- MSFS icing effects- MSFS particle effects   Customizations (Controlled by EFB):- Airplane Registration (With the exception of Air Force liveries)- 2 glareshield options (New and Old)- 2 panel color options (Blue and Beige)- Fuel Panel Indicator (Magnetic indicator or Lights)- Shades for the cockpit side windows- Baggage objects shown according to the loaded baggage weight- Â WT GNS530 and PMS50 GTN750- Save and autoload system for customizable options   Lighting:- Custom cockpit flood light- Custom passenger cabin light- Custom glareshield light- Custom and individual spot lights for every instrument- Custom landing, taxi, nav, beacon and inspection light   Custom Sounds:- Knobs- Switches- Warning- Autopilot- Stick Shaker- Oxygen Test- Fuel Pumps- Engine Ignition   Notes:- For the engine sounds to work, it is necessary to have the Default Asobo KingAir350 installed in your Microsoft Flight Simulator- This add-on is not study level. However, normal operations are simulated.- It is recommended to start the airplane in Cold And Dark state.- It is recommended to load fuel and weight using the EFB.- Not tested for Virtual Reality (VR)  Itâs available onÂ SimMarketÂ for roughly $19.49, requiring at least 708.95 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/staphl</id>
     <title>StarSim Releases Philadelphia International Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6474a687fa73925d4e31dc4f_kal1.jpg" rel="enclosure" type="image/jpeg" length="2647351"/>
     <summary>Sim: MSFS. MXI Design has recently released their rendition of Kalamata International Airport (LGKL) for Microsoft Flight Simulator, serving the second most populous city of the Peloponnese Peninsula, Kalamata (Greece).Â   It was opened in 1959 as a military airfield, primarily serving as a base for the Hellenic Air Force. After nearly a decade of charter traffic, it converted into a dual-use facility in the 90s. A new passenger terminal was built in 1991.  The 2000s saw continuous work to upgrade and expand the airport, keeping up with the ever-rising passenger numbers, although on a seasonal basis.Â   Itâs visited by multiple airlines during the summer, including the Greek carrier Aegean Airlines, Austrian Airlines, British Airways, Condor, easyJet, Edelweiss, Eurowings, Jet2.com, Lufthansa, Neos, Olympic Air, Ryanair, Smartwings, Swiss, Transavia, and Volotea.  The scenery features an accurate rendition of the airport, with up-to-date ground markings, detailed models with PBR texturing, a basic interior on both terminals, custom taxiway signs, 3D passengers, and custom vegetation.  Itâs available onÂ SimMarketÂ for roughly $11.02, requiring at least 1.40 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inix12</id>
+    <title>iniBuilds Releases A300 &amp; Beluga ST Open Beta for X-Plane 12</title>
+    <updated>2023-05-30T00:00:00+00:00</updated>
+    <link href="/news/inix12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647559958fd4882944d76e3f_beluga1.png" rel="enclosure" type="image/png" length="2633471"/>
+    <summary>Sim: X-Plane. iniBuilds has recently made their A300-600R(F) and Beluga ST compatible with X-Plane 12 under an open beta program, allowing anyone with a copy of both products to experience their classic Airbuses on the new platform.   The A300 and Beluga, previously available on X-Plane 11 only, bring accurate flight dynamics, failures, a custom FMS, an extensively tuned flight model, PBR texturing, high-resolution cockpit displays, an electronic flight bag, interactive loading, and more. The X-Plane 12 open beta brings the following changes: â Itâs available for roughly $12.36 (temporarily) on the iniBuilds Store, requiring at least 3.5 GB of free disk space (each) to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wsslia</id>
+    <title>WorldSky Studios Releases Lombok International Airport for MSFS</title>
+    <updated>2023-05-30T00:00:00+00:00</updated>
+    <link href="/news/wsslia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64761dbb084f780d20984453_lombok1.jpg" rel="enclosure" type="image/jpeg" length="676163"/>
+    <summary>Sim: MSFS. WorldSky Studios has recently released their rendition of Lombok International Airport (WADL) for Microsoft Flight Simulator, serving the island of Lombok in Indonesia with a yearly average of 4 million passengers.  Opened in 2011 to replace Selaparang Airport, the only airport serving the island, Lombok International allowed the island to receive widebody traffic, which used to be nearly impossible with the former airport and its 2,100m long runway. Lombokâs runway is 1,200 meters longer, accommodating airplanes such as the Boeing 777 and the Airbus A330.  With a total area of 551.8 hectares, it is the second largest airport in the country after Soekarno-Hatta International, serving the metropolitan area of Jakarta.  There are expansion plans in mind for the near future (by 2028), increasing the terminal area to 28,750 square meters and adding 700 meters of runway length, along with an apron extension (from the current 63,294 square meters to 74,514).  Itâs served by Batik Air, Citilink, Garuda Indonesia, Indonesia AirAsia, Lion Air, Scoot, Super Air Jet, and WingsAir.Â   The scenery features an accurate rendition of the airport, with detailed buildings, custom ground textures, PBR texturing, custom aerial imagery, a terminal interior, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $9.75, requiring at least 735 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-05-30T00:00:00+00:00</published>
   </entry>
 </feed>
