@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-01T18:23:19.272738+00:00</updated>
+  <updated>2023-06-02T18:20:56.344650+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/april-27th-2023-development-update/</id>
-    <title>April 27th, 2023 Development Update</title>
-    <updated>2023-04-27T23:45:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-27th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/04/Parorng-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="130772"/>
-    <summary>We had a big day on Tuesday! To start, we released World Update XIII: Oceania and updated the sim to version 1.32.7.0.</summary>
-    <published>2023-04-27T23:45:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-4th-2023-development-update/</id>
     <title>May 4th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/AvionChibi-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="90024"/>
     <summary>Testing for Aircraft &amp; Avionics Update 2 (AAU_02) continues to go well. The teams at Asobo and Working Title are hard at work preparing a new beta build which we target for deployment to testers within the next few days.</summary>
     <published>2023-05-26T00:00:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-1st-2023-development-update/</id>
+    <title>June 1st, 2023 Development Update</title>
+    <updated>2023-06-01T23:17:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-1st-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/pommes_l-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="59923"/>
+    <summary>Public testing of Aircraft &amp; Avionics Update 02 (AAU_02) remains ongoing. Earlier this week, we released a new beta build (1.33.6.0) to testers. This build includes several dozen bug fixes and feature improvements.</summary>
+    <published>2023-06-01T23:17:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
