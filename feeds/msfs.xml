@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-08T18:21:18.136333+00:00</updated>
+  <updated>2023-06-09T18:21:19.613967+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/may-4th-2023-development-update/</id>
-    <title>May 4th, 2023 Development Update</title>
-    <updated>2023-05-04T23:35:06+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-4th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/ZILLNIAZI17-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="48263"/>
-    <summary>This week’s Screenshot Challenge winner is forum user ZILLNIAZI17, featuring a Daher TBM 930 over Bora Bora in French Polynesia. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! On Wednesday, May 3, we hosted the latest in our series of Developer Livestreams on Twitch. … Continued</summary>
-    <published>2023-05-04T23:35:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-11th-2023-development-update/</id>
     <title>May 11th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/pommes_l-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="59923"/>
     <summary>Public testing of Aircraft &amp; Avionics Update 02 (AAU_02) remains ongoing. Earlier this week, we released a new beta build (1.33.6.0) to testers. This build includes several dozen bug fixes and feature improvements.</summary>
     <published>2023-06-01T23:17:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-8th-2023-development-update/</id>
+    <title>June 8th, 2023 Development Update</title>
+    <updated>2023-06-08T23:03:45+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-8th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/ExplorerJB-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="71215"/>
+    <summary>Thank you to everyone who has been participating in the public beta test for Aircraft &amp; Avionics Update 02 (AAU_02). Your feedback and bug reports have been incredibly helpful to the development team as we continue preparing for a target launch date of June 23.</summary>
+    <published>2023-06-08T23:03:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
