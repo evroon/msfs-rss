@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-10T18:20:07.943641+00:00</updated>
+  <updated>2023-06-11T18:20:24.788173+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inix12</id>
-    <title>iniBuilds Releases A300 &amp; Beluga ST Open Beta for X-Plane 12</title>
-    <updated>2023-05-30T00:00:00+00:00</updated>
-    <link href="/news/inix12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647559958fd4882944d76e3f_beluga1.png" rel="enclosure" type="image/png" length="2633471"/>
-    <summary>Sim: X-Plane. iniBuilds has recently made their A300-600R(F) and Beluga ST compatible with X-Plane 12 under an open beta program, allowing anyone with a copy of both products to experience their classic Airbuses on the new platform.   The A300 and Beluga, previously available on X-Plane 11 only, bring accurate flight dynamics, failures, a custom FMS, an extensively tuned flight model, PBR texturing, high-resolution cockpit displays, an electronic flight bag, interactive loading, and more. The X-Plane 12 open beta brings the following changes: â Itâs available for roughly $12.36 (temporarily) on the iniBuilds Store, requiring at least 3.5 GB of free disk space (each) to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wsslia</id>
     <title>WorldSky Studios Releases Lombok International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64837745e1be006af07b40de_banner.JPG" rel="enclosure" type="image/jpeg" length="538225"/>
     <summary>Sim: MSFS. SimSolutions' latest creation, A Diamond DA20 for MSFS 2020 is now nearing its final stages of development. The developers behind the project have disclosed to Threshold that there are only a number of small functions remaining to be added, along with the finalisation of the sound profile for the aircraft.Â  The aircraft is based on a popular training aircraft and as such will contain a true to life avionics package, one would come to expect from a training aircraft. It will boast a GNS430 Navigation unit along with a standard transponder, the cockpit and exterior have been recreated in excruciating detail. Particular attention has also been paid to lighting both inside and outside the aircraft. Instrument panels will be accurately illuminated along with accurate flood lighting.Â  A release date and price is still yet to be confirmed by SimSolutions, but once it is we will be sure to keep you updated!Â  â</summary>
     <published>2023-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shdsen</id>
+    <title>SHADESCENE Releases Senai International Airport for MSFS</title>
+    <updated>2023-06-10T00:00:00+00:00</updated>
+    <link href="/news/shdsen" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6484faaed1c92f93178d10cd_senai1-min.png" rel="enclosure" type="image/png" length="1093606"/>
+    <summary>Sim: MSFS. SHADESCENE has recently released their rendition of Senai International Airport (WMKJ) for Microsoft Flight Simulator, serving the town of Senai in Malaysia with a yearly average of 4 million passengers.  Opened in 1974 and taken over by a private company (Senai Airport Terminal Services Sdn Bhd) in 2003, itâs the only privately managed public airport in Malaysia.Â   Its infrastructure can handle up to 4.5 million passengers and 80,000 tonnes of cargo per year, serving as a gateway for Iskandar Malaysia and its surroundings. With a 3,800-meter-long runway, it can handle small, medium, and large aircraft.  Itâs served by AirAsia (Alor Setar, Guangzhou, Ho Chi Minh City, Ipoh, Kota Bharu, Kota Kinabalu, Kuala LumpurâInternational, Kuching, Langkawi, Miri, Penang, Sibu, Tawau), Batik Air Malaysia (Kuala LumpurâInternational, Kuala LumpurâSubang), Firefly (Kuala LumpurâSubang, Penang), Indonesia AirAsia (JakartaâSoekarno-Hatta, Surabaya), Malaysia Airlines (Kuala LumpurâInternational), and Thai AirAsia (BangkokâDon Mueang).  The scenery features an accurate rendition of the airport, with custom terraforming, custom jetways, hand-placed taxiways, custom ground textures, custom night lighting, an animated radar tower, and a moderately detailed terminal interior with performance in mind.  Itâs available onÂ SimMarketÂ for roughly $9.69, requiring at least 692.20 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-06-10T00:00:00+00:00</published>
   </entry>
 </feed>
