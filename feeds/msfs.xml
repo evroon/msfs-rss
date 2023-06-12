@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-11T18:20:23.903288+00:00</updated>
+  <updated>2023-06-12T18:21:40.911467+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/may-11th-2023-development-update/</id>
-    <title>May 11th, 2023 Development Update</title>
-    <updated>2023-05-11T23:41:16+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-11th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/mk89ns-Forum-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="114713"/>
-    <summary>It’s been a very busy week for Microsoft Flight Simulator product updates!</summary>
-    <published>2023-05-11T23:41:16+00:00</published>
+    <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
+    <title>Women’s History Month: A Conversation with Patty Wagstaff</title>
+    <updated>2023-03-28T16:14:52+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-patty-wagstaff/" rel="alternate"/>
+    <summary>You can’t talk about aerobatic flying without talking about Patty Wagstaff: a 3-time US National Aerobatic Champion; a 6-time members of the US Aerobatic Team; a gold, silver, and bronze medal winner in the International Aerobatic Competition; an inductee in the National Aviation Hall of Fame; and the first woman to win the title of … Continued</summary>
+    <published>2023-03-28T16:14:52+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/may-18th-2023-development-update/</id>
-    <title>May 18th, 2023 Development Update</title>
-    <updated>2023-05-18T22:51:28+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-18th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/ScenicAtol37419-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="36803"/>
-    <summary>Public testing continues for Microsoft Flight Simulator’s next major release, Aircraft &amp; Avionics Update 02 (AAU_02). Earlier today, we released a new beta build, 1.33.5.0.</summary>
-    <published>2023-05-18T22:51:28+00:00</published>
+    <id>https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/</id>
+    <title>Expert Series I: ATR 42-600 / 72-600</title>
+    <updated>2023-04-25T16:01:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/" rel="alternate"/>
+    <summary>Microsoft Flight Simulator today released the first entry into a brand-new series of highly authentic and accurate aircraft called “Expert Series”. The ATR 42-600 and ATR 72-600 are being released together in this bundle and will provide an incredible and authentic aviation experience. ATR, short for “Regional Transport Aircraft,” in both French and Italian, was … Continued</summary>
+    <published>2023-04-25T16:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-joeybolo77/</id>
+    <title>Community Spotlight: JoeyBolo77</title>
+    <updated>2023-05-04T16:17:26+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-joeybolo77/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/20230501_124216-1024x768.jpg" rel="enclosure" type="image/jpeg" length="113760"/>
+    <summary>May is celebrated as Asian/Pacific American Heritage Month, and in recognition of the occasion, we are pleased to shine the spotlight on community member JoeyBolo77, a Filipino-American Microsoft Flight Simulator Twitch streamer. We recently caught up with Joey to ask him some questions about his experiences with flight simulation and his involvement in the community.How … Continued</summary>
+    <published>2023-05-04T16:17:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-25th-2023-development-update/</id>
@@ -54,28 +61,21 @@
     <published>2023-06-08T23:03:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
-    <title>Women’s History Month: A Conversation with Patty Wagstaff</title>
-    <updated>2023-03-28T16:14:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-patty-wagstaff/" rel="alternate"/>
-    <summary>You can’t talk about aerobatic flying without talking about Patty Wagstaff: a 3-time US National Aerobatic Champion; a 6-time members of the US Aerobatic Team; a gold, silver, and bronze medal winner in the International Aerobatic Competition; an inductee in the National Aviation Hall of Fame; and the first woman to win the title of … Continued</summary>
-    <published>2023-03-28T16:14:52+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024/</id>
+    <title>Microsoft Flight Simulator 2024: The Next Generation of the Legendary Franchise</title>
+    <updated>2023-06-11T19:18:17+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_v1_NoSnipe_Logo_NoText-1024x576.png" rel="enclosure" type="image/png" length="104193"/>
+    <summary>Pursue your dream of an aviation career with Microsoft Flight Simulator 2024. This brand-new simulator is designed to take advantage of the latest technologies in simulation, cloud, machine learning, graphics and gaming to create the most sophisticated, immersive and awe-inspiring flight simulator of all time. To achieve this unprecedented level of accuracy, Microsoft Flight Simulator 2024 is powered by the significantly evolved … Continued</summary>
+    <published>2023-06-11T19:18:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/</id>
-    <title>Expert Series I: ATR 42-600 / 72-600</title>
-    <updated>2023-04-25T16:01:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/" rel="alternate"/>
-    <summary>Microsoft Flight Simulator today released the first entry into a brand-new series of highly authentic and accurate aircraft called “Expert Series”. The ATR 42-600 and ATR 72-600 are being released together in this bundle and will provide an incredible and authentic aviation experience. ATR, short for “Regional Transport Aircraft,” in both French and Italian, was … Continued</summary>
-    <published>2023-04-25T16:01:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-joeybolo77/</id>
-    <title>Community Spotlight: JoeyBolo77</title>
-    <updated>2023-05-04T16:17:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-joeybolo77/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/20230501_124216-1024x768.jpg" rel="enclosure" type="image/jpeg" length="113760"/>
-    <summary>May is celebrated as Asian/Pacific American Heritage Month, and in recognition of the occasion, we are pleased to shine the spotlight on community member JoeyBolo77, a Filipino-American Microsoft Flight Simulator Twitch streamer. We recently caught up with Joey to ask him some questions about his experiences with flight simulation and his involvement in the community.How … Continued</summary>
-    <published>2023-05-04T16:17:26+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/</id>
+    <title>Microsoft Flight Simulator 2024 FAQ</title>
+    <updated>2023-06-12T02:56:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_11-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97456"/>
+    <summary>Top questions about the upcoming Microsoft Flight Simulator sequel.</summary>
+    <published>2023-06-12T02:56:46+00:00</published>
   </entry>
 </feed>
