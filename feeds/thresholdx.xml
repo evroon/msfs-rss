@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-12T18:21:41.646242+00:00</updated>
+  <updated>2023-06-13T18:21:26.974708+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/t2gorl</id>
-    <title>Taxi2Gate Releases Orlando International Airport for MSFS</title>
-    <updated>2023-05-31T00:00:00+00:00</updated>
-    <link href="/news/t2gorl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647749b784a7d531f0620a1f_mco1-min.png" rel="enclosure" type="image/png" length="3708726"/>
-    <summary>Sim: MSFS. Taxi2Gate has recently released their second scenery for Microsoft Flight Simulator: a rendition of Orlando International Airport (KMCO), the busiest airport in Florida and seventh in the United States with a yearly average of 50 million passengers.  Orlando International started its life as Orlando Army Air Field #2 in 1942, an auxiliary field to the Orlando Army Air Base, now known as Orlando Executive Airport. Although very briefly, it was used for aircraft testing right after the war.Â   The Korean War saw its return as a strategic air command facility, housing B-47 Stratojets and KC-97 Stratofreighters. Then, during the Cuban Missile Crisis in 1962, it became a temporary FOB for fighter bombers and reconnaissance aircraft flying over Cuba.Â   Between 1974 and 1975, control of the airport was given to the FAA, where it finally became a civil-only airport. Previously, it was a joint civil-military airport, which was back then a model for other civil joint-military airports in operation (some are still operating today). After that agreement, in 1961, many airlines shifted their operation from the old Herndon Airport to Orlando International.Â   The opening of the Magic Kingdom at Walt Disney World in 1971 transformed Orlando into a major tourist destination, attracting traffic from all over, be it nationwide, South America, Asia, and Europe.Â   In 1978, they started constructing the current Landside terminal and two airside on the west side of the terminal, which reached completion in 1981. The original international concourse opened in 1984, and Airside 4 was finished in 1990 with a new International concourse. Arside 2, completing the North Terminal complex, reached its completion in 2000.  The airport has 93 gates, divided between three terminals: A, B, and C, with two airside each on A and B.Â   Itâs a hub for Silver Airways and a focus city for Avelo Airlines, Frontier Airlines, JetBlue, Southwest Airlines, and Spirit. Southwest leads the passenger market share with 23.54% of the yearly figures, followed by Spirit, Delta, and Frontier with 15.85%, 14.05%, and 13.06%, respectively.  The scenery features an accurate rendition of the airport, with custom ground textures, custom photoscenery, a detailed custom mesh, full-detail buildings, numerous static objects, fencing, an up-to-date AFCAD, dynamic night lighting, PBR texturing, and more. The developers recommend turning off photogrammetry to avoid terraforming issues on bridges.  Itâs available onÂ SimMarketÂ for roughly $25.77, requiring at least 2.35 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-05-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/thbn2a</id>
     <title>Thranda Design Releases BN-2A Islander for X-Plane 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/swpc12" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6486a9d21e72027a7d1959e9_352579726_717504257043924_5929771581922209650_n.jpg" rel="enclosure" type="image/jpeg" length="427931"/>
     <summary>Sim: MSFS. Earlier this week, developer SimWorks has published a Facebook post detailing the groupâs progress on their much anticipated PC-12 for Microsoft Flight Simulator, providing updates on the aircraftâs avionics, interior modeling, and lighting. According to SimWorks, the team has completed the PC-12âs electrical systems, a major milestone in the plane development. They are currently working on integrating the system with the various cockpit instruments. In addition, progress is being made on the planeâs avionics where the EADI has been finished while the finishing touches are being put on the EHSI.  As for the modeling and lighting, the developer claims that the interior design of the plane is 90%, with night lighting being gradually implemented into the cabin and cockpit. Finally, the exterior lighting of the PC-12 is now fully functional, though âa couple of quirksâ still needs to be fixed, Currently, the developers have not provided a firm release date for the airplane, nor have they disclosed the PC-12âs expected price. Threshold will keep you updated on this front â</summary>
+    <published>2023-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxideu</id>
+    <title>MXI Design Releases Deauville-Normandie Airport for MSFS</title>
+    <updated>2023-06-12T00:00:00+00:00</updated>
+    <link href="/news/mxideu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6487a95f669cba770b9e4a79_nor1-min.png" rel="enclosure" type="image/png" length="865099"/>
+    <summary>Sim: MSFS. MXI Design has recently released their rendition of Deauville-Normandie Airport (LFRG) Â for Microsoft Flight Simulator, serving the commune of Deauville in France with a yearly average of 160,000 passengers.  Inaugurated in 1931 by the initiative of EugÃ¨ne Collas (the mayor of Deauville back then), it initially served as a business airport, eventually opening up for tourist charter flights as time went by.  For a short while, it used to be considered a third airport for Paris, but the distance (two-hour drive) and the lack of transportation options made it unfeasible, and they quickly ruled it out.  In 1952, they built a cement runway, allowing it to handle more aircraft types. Seven years later, a control tower was built, along with a runway extension to 1,600 meters in 1961.  In 1971, a passenger terminal was inaugurated, increasing its passenger handling capabilities and making it more suitable for commercial flights.Â   Recently, the operator has decided to build a new terminal, scheduled to reach completion in late 2023, expanding its area from 1,750 to 3,800 square meters. The state will cover 95% of the total cost; the remainder will come from Deauville. They also intend to add a photovoltaic park nearby to reach completion between 2024-2027. â It's served on a seasonal basis by Aegean Airlines and Volotea. â The scenery features an accurate rendition of the airport, with high-detailed PBR models of the terminals and their respective interiors (built with performance in mind), custom taxiway signs, 3D passengers, custom ground textures, and custom night lighting.  Itâs available onÂ SimMarketÂ for roughly $10.77, requiring at least 543.61 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-06-12T00:00:00+00:00</published>
   </entry>
 </feed>
