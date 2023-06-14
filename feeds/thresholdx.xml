@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-13T18:21:26.974708+00:00</updated>
+  <updated>2023-06-14T18:21:21.760689+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/thbn2a</id>
-    <title>Thranda Design Releases BN-2A Islander for X-Plane 12</title>
-    <updated>2023-06-02T00:00:00+00:00</updated>
-    <link href="/news/thbn2a" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/646f7513212245607aea3254_thr5.jpg" rel="enclosure" type="image/jpeg" length="84531"/>
-    <summary>Sim: X-Plane. Thranda Design has recently added a new airplane to their Dynamic Generation Series lineup: the Britten-Norman BN-2A Islander, a British light utility aircraft released in 1969. â  The BN-2A is an evolution of the Britten-Norman BN2, which took off for the first time in 1965. With aerodynamic and flight equipment improvements, along with a slightly more powerful engine, the BN-2A turned good into better. The engines and its robust construction allow the aircraft to operate from unprepared airstrips, making it a popular choice for remote and inaccessible locations where traditional runways may be limited or absent. It soon became the airplane of choice for humanitarian missions, surveillance, aerial survey, and commercial island hops.  Seating up to nine passengers and featuring an easy way to reconfigure for cargo transportation, medical evacuation, or any task at hand, the BN-2A is versatile.  Powered by two piston engines, the Lycoming 0-540 or the Textron Lycoming TIO-540, it cruises at 140 knots, with a total range of 800 nautical miles. The combination of fuel efficiency and low operating costs has made it popular worldwide. As of late 2019, 800 islanders were still flying out of the 1,280 built.  The add-on features a fully configurable 3D instrument panel, full VR compatibility, over 50 instruments to choose from, 3D lighting, a dynamic livery editor, 8K high-resolution PBR textures, individual functional circuit breakers, detailed and accurate flight dynamics, an advanced FMOD-based sound system, and more. The complete feature list follows down below:  Special features: Feature-rich elegant fly-out menu with the following features: Flight dynamics and systems: Advanced FMOD-based sound system:  Itâs available on theÂ X-Plane.Org StoreÂ for roughly $34.95, requiring at least 2.8 GB of free hard disk space to install. Shout out to Poptart for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/nibn2b</id>
-    <title>Nimbus Studio Updates BN-2B Islander for X-Plane 12</title>
-    <updated>2023-06-02T00:00:00+00:00</updated>
-    <link href="/news/nibn2b" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647a02737eb61e12abb9a49a_islander1.jpg" rel="enclosure" type="image/jpeg" length="150668"/>
-    <summary>Sim: X-Plane. Nimbus Studio has recently updated their Britten-Norman BN-2B Islander, adding compatibility with X-Plane 12.    The Britten-Norman BN-2 was developed in 1963, with its creators aiming to create a reliable, cheap, and fuel-efficient aircraft. They wanted a plane that would sacrifice cruise speed or range for a higher payload, lifting more weight than the competition ever could. With 1,280 built and over 700 in use, itâs easy to say they have succeeded.  The BN-2B Islander is an improved version of the BN-2 with better soundproofing, increased takeoff, and landing weight, and minor improvements, making it more suitable for passenger transport.Â   The BN-2 family is known for its versatility, with an easily configurable interior that can carry passengers (up to nine), cargo, or even work as a medevac airplane. On top of all that, itâs also STOL capable, allowing it to operate anywhere in the world. Itâs a British jack-of-all-trades.  The add-on features X-Plane 12 compatibility, a highly detailed 3D model, 4K textures, PBR texturing, a custom sound system, accurate handling and flight characteristics, real performance based on performance charts, and VR compatibility.  Itâs available on theÂ X-Plane.Org StoreÂ for roughly $34.95, requiring at least 1.2 GB of free hard disk space to install. Shout out to Highbrow for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/simkho</id>
     <title>SIMMAN Releases Khon Kaen International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6487a95f669cba770b9e4a79_nor1-min.png" rel="enclosure" type="image/png" length="865099"/>
     <summary>Sim: MSFS. MXI Design has recently released their rendition of Deauville-Normandie Airport (LFRG) Â for Microsoft Flight Simulator, serving the commune of Deauville in France with a yearly average of 160,000 passengers.  Inaugurated in 1931 by the initiative of EugÃ¨ne Collas (the mayor of Deauville back then), it initially served as a business airport, eventually opening up for tourist charter flights as time went by.  For a short while, it used to be considered a third airport for Paris, but the distance (two-hour drive) and the lack of transportation options made it unfeasible, and they quickly ruled it out.  In 1952, they built a cement runway, allowing it to handle more aircraft types. Seven years later, a control tower was built, along with a runway extension to 1,600 meters in 1961.  In 1971, a passenger terminal was inaugurated, increasing its passenger handling capabilities and making it more suitable for commercial flights.Â   Recently, the operator has decided to build a new terminal, scheduled to reach completion in late 2023, expanding its area from 1,750 to 3,800 square meters. The state will cover 95% of the total cost; the remainder will come from Deauville. They also intend to add a photovoltaic park nearby to reach completion between 2024-2027. â It's served on a seasonal basis by Aegean Airlines and Volotea. â The scenery features an accurate rendition of the airport, with high-detailed PBR models of the terminals and their respective interiors (built with performance in mind), custom taxiway signs, 3D passengers, custom ground textures, and custom night lighting.  Itâs available onÂ SimMarketÂ for roughly $10.77, requiring at least 543.61 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bmwdab</id>
+    <title>BMWorld and AmSim Release Daytona Beach International Airport for MSFS</title>
+    <updated>2023-06-13T00:00:00+00:00</updated>
+    <link href="/news/bmwdab" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6488fc627380a3a08f0f2408_dab1.png" rel="enclosure" type="image/png" length="4041400"/>
+    <summary>Sim: MSFS. BEAUTIFUL MODEL of the World and AmSim teamed up again to build a rendition of Daytona Beach International Airport (KDAB) for Microsoft Flight Simulator, known for headquartering the Embry-Riddle Aeronautical University.  Daytona Beach was built in the 1930s on a 299-ha piece of land featuring two grass runways. Passenger service started in the same decade with Eastern Air Lines, followed by National Airlines a year later.Â   A little before World War 2, the airport got four paved runways, allowing for the operation of DC-2s and DC-3s. WW2 had the airport taken over by the US Navy, becoming the Naval Air Station Daytona Beach, followed by an extensive military construction effort. Many of the buildings were utilized by Embry-Riddle University after their move from Miami two decades later.  In 1992, a large terminal was built, increasing its passenger handling capabilities and transforming the old terminal into an international passenger terminal, followed by a final runway extension that sticks to this day.Â   As of mid-late 2021, the airport had 364,071 aircraft operations, with 62% corresponding to general aviation. The passenger figures sit at an average of 800,000 per year.Â   Itâs served by American Airlines (Charlotte), American Eagle (Charlotte), Avelo Airlines (to begin in June 2023), and Delta Air Lines (Atlanta).Â   The scenery features an accurate rendition of the airport, with custom ground markings, high-resolution ground textures, landside buildings, a detailed terminal interior, and compatibility with FSLTL traffic.  Itâs available onÂ OrbxDirectÂ for roughly $18.26, requiring at least 2.75 GB of free hard disk space to install. Shout out to mtn_dude_ for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-06-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbhot</id>
+    <title>Orbx Releases Mount Hotham Airport for MSFS</title>
+    <updated>2023-06-13T00:00:00+00:00</updated>
+    <link href="/news/orbhot" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6489012ebe60b888ff0f62f3_hot1.png" rel="enclosure" type="image/png" length="2328170"/>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Mount Hotham Airport (YHOT) for Microsoft Flight Simulator, serving a ski resort on Mount Hotham in southeastern Australia. Itâs the countryâs highest airport.  Privately owned, the airport was opened in 2000 after a $17 million investment and four years of extensive planning.Â   Itâs served by a single charter airline, Airly, flying from Bankstown and Essendon.Â   Orbxâs rendition portrays the airport as it were during its âgolden ageâ when domestic and regional services still served it (QantasLink canceled their service in 2011 because it was losing them a lot of money). It features custom ground textures, a high-detail terminal interior, custom vegetation, custom animation, airport-specific static aircraft, over a hundred custom assets, and full PBR texturing.  Itâs available onÂ OrbxDirectÂ for roughly $16.88, requiring at least 1.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-06-13T00:00:00+00:00</published>
   </entry>
 </feed>
