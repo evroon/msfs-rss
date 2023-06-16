@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-15T18:21:24.233338+00:00</updated>
+  <updated>2023-06-16T18:21:09.763570+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/20230501_124216-1024x768.jpg" rel="enclosure" type="image/jpeg" length="113760"/>
     <summary>May is celebrated as Asian/Pacific American Heritage Month, and in recognition of the occasion, we are pleased to shine the spotlight on community member JoeyBolo77, a Filipino-American Microsoft Flight Simulator Twitch streamer. We recently caught up with Joey to ask him some questions about his experiences with flight simulation and his involvement in the community.How … Continued</summary>
     <published>2023-05-04T16:17:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/may-25th-2023-development-update/</id>
-    <title>May 25th, 2023 Development Update</title>
-    <updated>2023-05-26T00:00:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-25th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/AvionChibi-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="90024"/>
-    <summary>Testing for Aircraft &amp; Avionics Update 2 (AAU_02) continues to go well. The teams at Asobo and Working Title are hard at work preparing a new beta build which we target for deployment to testers within the next few days.</summary>
-    <published>2023-05-26T00:00:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-1st-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_11-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97456"/>
     <summary>Top questions about the upcoming Microsoft Flight Simulator sequel.</summary>
     <published>2023-06-12T02:56:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-15th-2023-development-update/</id>
+    <title>June 15th, 2023 Development Update</title>
+    <updated>2023-06-15T23:41:48+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-15th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Spook1234567890-Forum-1-1024x577.jpg" rel="enclosure" type="image/jpeg" length="88264"/>
+    <summary>Last weekend, during Sunday’s Xbox Games Showcase event, we were proud to reveal the first teaser trailer for the next generation sequel to Microsoft Flight Simulator coming next year: Microsoft Flight Simulator 2024!</summary>
+    <published>2023-06-15T23:41:48+00:00</published>
   </entry>
 </feed>
