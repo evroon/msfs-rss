@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-18T18:20:33.369256+00:00</updated>
+  <updated>2023-06-19T18:22:04.029330+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-patty-wagstaff/</id>
-    <title>Women’s History Month: A Conversation with Patty Wagstaff</title>
-    <updated>2023-03-28T16:14:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-patty-wagstaff/" rel="alternate"/>
-    <summary>You can’t talk about aerobatic flying without talking about Patty Wagstaff: a 3-time US National Aerobatic Champion; a 6-time members of the US Aerobatic Team; a gold, silver, and bronze medal winner in the International Aerobatic Competition; an inductee in the National Aviation Hall of Fame; and the first woman to win the title of … Continued</summary>
-    <published>2023-03-28T16:14:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/</id>
     <title>Expert Series I: ATR 42-600 / 72-600</title>
@@ -29,9 +21,17 @@
     <title>Community Spotlight: JoeyBolo77</title>
     <updated>2023-05-04T16:17:26+00:00</updated>
     <link href="https://www.flightsimulator.com/community-spotlight-joeybolo77/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/05/20230501_124216-1024x768.jpg" rel="enclosure" type="image/jpeg" length="113760"/>
     <summary>May is celebrated as Asian/Pacific American Heritage Month, and in recognition of the occasion, we are pleased to shine the spotlight on community member JoeyBolo77, a Filipino-American Microsoft Flight Simulator Twitch streamer. We recently caught up with Joey to ask him some questions about his experiences with flight simulation and his involvement in the community.How … Continued</summary>
     <published>2023-05-04T16:17:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/</id>
+    <title>Microsoft Flight Simulator Releases City Update II: France &amp; Local Legend 09: Latécoère 631</title>
+    <updated>2023-06-19T09:06:22+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CU02_FRANCE_Amiens_Somme-1024x576.jpg" rel="enclosure" type="image/jpeg" length="165244"/>
+    <summary>The Microsoft Flight Simulator team is delighted to introduce the free City Update II: France, which captures five beautiful cities: Amiens, Angers, Nantes, Nîmes, and Reims; and to celebrate the Paris Air Show, the update also includes the famed Paris–Le Bourget Airport (LFPB) in both standard and festival configurations.Some highlights from each city: Amiens, located … Continued</summary>
+    <published>2023-06-19T09:06:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-1st-2023-development-update/</id>
