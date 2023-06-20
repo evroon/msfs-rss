@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-19T18:22:04.029330+00:00</updated>
+  <updated>2023-06-20T18:20:44.570679+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -25,22 +25,13 @@
     <published>2023-05-04T16:17:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/</id>
-    <title>Microsoft Flight Simulator Releases City Update II: France &amp; Local Legend 09: Latécoère 631</title>
-    <updated>2023-06-19T09:06:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CU02_FRANCE_Amiens_Somme-1024x576.jpg" rel="enclosure" type="image/jpeg" length="165244"/>
-    <summary>The Microsoft Flight Simulator team is delighted to introduce the free City Update II: France, which captures five beautiful cities: Amiens, Angers, Nantes, Nîmes, and Reims; and to celebrate the Paris Air Show, the update also includes the famed Paris–Le Bourget Airport (LFPB) in both standard and festival configurations.Some highlights from each city: Amiens, located … Continued</summary>
-    <published>2023-06-19T09:06:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/june-1st-2023-development-update/</id>
-    <title>June 1st, 2023 Development Update</title>
-    <updated>2023-06-01T23:17:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-1st-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/pommes_l-Twitter-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="59923"/>
-    <summary>Public testing of Aircraft &amp; Avionics Update 02 (AAU_02) remains ongoing. Earlier this week, we released a new beta build (1.33.6.0) to testers. This build includes several dozen bug fixes and feature improvements.</summary>
-    <published>2023-06-01T23:17:31+00:00</published>
+    <id>https://www.flightsimulator.com/flightsimexpo-partner-series-thrustmaster/</id>
+    <title>FlightSimExpo Partner Series: Thrustmaster</title>
+    <updated>2023-06-19T18:21:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-thrustmaster/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/TCA-Yoke-Pack-Boeing-xbox-pc-12-1024x622.jpg" rel="enclosure" type="image/jpeg" length="70048"/>
+    <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is … Continued</summary>
+    <published>2023-06-19T18:21:29+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-8th-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Spook1234567890-Forum-1-1024x577.jpg" rel="enclosure" type="image/jpeg" length="88264"/>
     <summary>Last weekend, during Sunday’s Xbox Games Showcase event, we were proud to reveal the first teaser trailer for the next generation sequel to Microsoft Flight Simulator coming next year: Microsoft Flight Simulator 2024!</summary>
     <published>2023-06-15T23:41:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/</id>
+    <title>Microsoft Flight Simulator Releases City Update II: France &amp; Local Legend 09: Latécoère 631</title>
+    <updated>2023-06-19T09:06:22+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-ii-france-local-legend-09-latecoere-631/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CU02_FRANCE_Amiens_Somme-1024x576.jpg" rel="enclosure" type="image/jpeg" length="165244"/>
+    <summary>The Microsoft Flight Simulator team is delighted to introduce the free City Update II: France, which captures five beautiful cities: Amiens, Angers, Nantes, Nîmes, and Reims; and to celebrate the Paris Air Show, the update also includes the famed Paris–Le Bourget Airport (LFPB) in both standard and festival configurations.Some highlights from each city: Amiens, located … Continued</summary>
+    <published>2023-06-19T09:06:22+00:00</published>
   </entry>
 </feed>
