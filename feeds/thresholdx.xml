@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-20T18:20:45.407106+00:00</updated>
+  <updated>2023-06-21T18:21:34.239174+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/swpc12</id>
-    <title>SimWorks Releases PC-12 Development Update</title>
-    <updated>2023-06-12T00:00:00+00:00</updated>
-    <link href="/news/swpc12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6486a9d21e72027a7d1959e9_352579726_717504257043924_5929771581922209650_n.jpg" rel="enclosure" type="image/jpeg" length="427931"/>
-    <summary>Sim: MSFS. Earlier this week, developer SimWorks has published a Facebook post detailing the groupâs progress on their much anticipated PC-12 for Microsoft Flight Simulator, providing updates on the aircraftâs avionics, interior modeling, and lighting. According to SimWorks, the team has completed the PC-12âs electrical systems, a major milestone in the plane development. They are currently working on integrating the system with the various cockpit instruments. In addition, progress is being made on the planeâs avionics where the EADI has been finished while the finishing touches are being put on the EHSI.  As for the modeling and lighting, the developer claims that the interior design of the plane is 90%, with night lighting being gradually implemented into the cabin and cockpit. Finally, the exterior lighting of the PC-12 is now fully functional, though âa couple of quirksâ still needs to be fixed, Currently, the developers have not provided a firm release date for the airplane, nor have they disclosed the PC-12âs expected price. Threshold will keep you updated on this front â</summary>
-    <published>2023-06-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mxideu</id>
     <title>MXI Design Releases Deauville-Normandie Airport for MSFS</title>
@@ -41,7 +32,7 @@
     <updated>2023-06-13T00:00:00+00:00</updated>
     <link href="/news/orbhot" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6489012ebe60b888ff0f62f3_hot1.png" rel="enclosure" type="image/png" length="2328170"/>
-    <summary>Sim: MSFS</summary>
+    <summary>Sim: MSFS. Orbx has recently released their rendition of Mount Hotham Airport (YHOT) for Microsoft Flight Simulator, serving a ski resort on Mount Hotham in southeastern Australia. Itâs the countryâs highest airport.  Privately owned, the airport was opened in 2000 after a $17 million investment and four years of extensive planning.Â   Itâs served by a single charter airline, Airly, flying from Bankstown and Essendon.Â   Orbxâs rendition portrays the airport as it were during its âgolden ageâ when domestic and regional services still served it (QantasLink canceled their service in 2011 because it was losing them a lot of money). It features custom ground textures, a high-detail terminal interior, custom vegetation, custom animation, airport-specific static aircraft, over a hundred custom assets, and full PBR texturing.  Itâs available onÂ OrbxDirectÂ for roughly $16.88, requiring at least 1.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-06-13T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6491eae7561c512700538526_plane1.png" rel="enclosure" type="image/png" length="873302"/>
     <summary>Sim: X-Plane. After months of anticipation and hard work, the Reality Expansion Pack (REP) for the X-Plane 12 Piper Super Cub has finally arrived! This highly anticipated expansion pack is here to enhance your flying experience and take your virtual piloting skills to new heights. What's more, it is fully compatible with the existing free Super Cub mod by taildragging68. Let's take a look at some of the exciting highlights of this Reality Expansion Pack: â â For the full feature list, do check out their product page. These are just a few of the highlights that the Reality Expansion Pack for X-Plane 12 Piper Super Cub has to offer. From VR support to interactive pre/post-flight checks, a custom towing system, and much more, this pack aims to provide an unparalleled level of realism and immersion for X-Plane enthusiasts. â It is now available on the X-Plane.org store for just $19.99. â</summary>
     <published>2023-06-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sams3d</id>
+    <title>SamScene 3D Releases Tibet Lhasa Gonggar for Microsoft Flight Simulator</title>
+    <updated>2023-06-21T00:00:00+00:00</updated>
+    <link href="/news/sams3d" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649334cea89e500f0a5bbf00_image_2023-06-21_123509932.png" rel="enclosure" type="image/png" length="605992"/>
+    <summary>Sim: MSFS. SamScene has taken to their Facebook page and Youtube channel to announce the release of their latest addition to Microsoft Flight Simulator, Tibet Lhasa Gonggar Airport. â Lhasa Gonggar Airport (ZULS) is situated 11,800 feet above sea level high up in the Tibet Autonomous Region in southwestern China. Lhasa Gonggar Airport is one of the highest airports in the world. Recently the airport unveiled its brand new third terminal in 2023, offering modern amenities and an enhanced travel experience for visitors.Â  â Lhasa Gonggar Airport is very well connected to other major cities in China, notably, Beijing, Chengdu, Shanghai, Guangzhou, Hong Kong, Chongqing, Xian, Xining, Kunming, Diqing, and the Chamdo Region. â The airport features two runways, 09L and 27R. Runway 09L, although a non-ILS (Instrument Landing System) runway, provides a visually striking approach for pilots. On the other, hand Runway 27R offers the convenience of ILS navigation to allow a more convenient approach. â â Lhasa Gonggar Airport and its surrounding scenery are now available to purchase on their webstore for $14.95 at the time of writing.</summary>
+    <published>2023-06-21T00:00:00+00:00</published>
   </entry>
 </feed>
