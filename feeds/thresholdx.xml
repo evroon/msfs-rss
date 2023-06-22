@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-21T18:21:34.239174+00:00</updated>
+  <updated>2023-06-22T18:21:58.181749+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mxideu</id>
-    <title>MXI Design Releases Deauville-Normandie Airport for MSFS</title>
-    <updated>2023-06-12T00:00:00+00:00</updated>
-    <link href="/news/mxideu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6487a95f669cba770b9e4a79_nor1-min.png" rel="enclosure" type="image/png" length="865099"/>
-    <summary>Sim: MSFS. MXI Design has recently released their rendition of Deauville-Normandie Airport (LFRG) Â for Microsoft Flight Simulator, serving the commune of Deauville in France with a yearly average of 160,000 passengers.  Inaugurated in 1931 by the initiative of EugÃ¨ne Collas (the mayor of Deauville back then), it initially served as a business airport, eventually opening up for tourist charter flights as time went by.  For a short while, it used to be considered a third airport for Paris, but the distance (two-hour drive) and the lack of transportation options made it unfeasible, and they quickly ruled it out.  In 1952, they built a cement runway, allowing it to handle more aircraft types. Seven years later, a control tower was built, along with a runway extension to 1,600 meters in 1961.  In 1971, a passenger terminal was inaugurated, increasing its passenger handling capabilities and making it more suitable for commercial flights.Â   Recently, the operator has decided to build a new terminal, scheduled to reach completion in late 2023, expanding its area from 1,750 to 3,800 square meters. The state will cover 95% of the total cost; the remainder will come from Deauville. They also intend to add a photovoltaic park nearby to reach completion between 2024-2027. â It's served on a seasonal basis by Aegean Airlines and Volotea. â The scenery features an accurate rendition of the airport, with high-detailed PBR models of the terminals and their respective interiors (built with performance in mind), custom taxiway signs, 3D passengers, custom ground textures, and custom night lighting.  Itâs available onÂ SimMarketÂ for roughly $10.77, requiring at least 543.61 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bmwdab</id>
-    <title>BMWorld and AmSim Release Daytona Beach International Airport for MSFS</title>
-    <updated>2023-06-13T00:00:00+00:00</updated>
-    <link href="/news/bmwdab" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6488fc627380a3a08f0f2408_dab1.png" rel="enclosure" type="image/png" length="4041400"/>
-    <summary>Sim: MSFS. BEAUTIFUL MODEL of the World and AmSim teamed up again to build a rendition of Daytona Beach International Airport (KDAB) for Microsoft Flight Simulator, known for headquartering the Embry-Riddle Aeronautical University.  Daytona Beach was built in the 1930s on a 299-ha piece of land featuring two grass runways. Passenger service started in the same decade with Eastern Air Lines, followed by National Airlines a year later.Â   A little before World War 2, the airport got four paved runways, allowing for the operation of DC-2s and DC-3s. WW2 had the airport taken over by the US Navy, becoming the Naval Air Station Daytona Beach, followed by an extensive military construction effort. Many of the buildings were utilized by Embry-Riddle University after their move from Miami two decades later.  In 1992, a large terminal was built, increasing its passenger handling capabilities and transforming the old terminal into an international passenger terminal, followed by a final runway extension that sticks to this day.Â   As of mid-late 2021, the airport had 364,071 aircraft operations, with 62% corresponding to general aviation. The passenger figures sit at an average of 800,000 per year.Â   Itâs served by American Airlines (Charlotte), American Eagle (Charlotte), Avelo Airlines (to begin in June 2023), and Delta Air Lines (Atlanta).Â   The scenery features an accurate rendition of the airport, with custom ground markings, high-resolution ground textures, landside buildings, a detailed terminal interior, and compatibility with FSLTL traffic.  Itâs available onÂ OrbxDirectÂ for roughly $18.26, requiring at least 2.75 GB of free hard disk space to install. Shout out to mtn_dude_ for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbhot</id>
     <title>Orbx Releases Mount Hotham Airport for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/sams3d" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649334cea89e500f0a5bbf00_image_2023-06-21_123509932.png" rel="enclosure" type="image/png" length="605992"/>
     <summary>Sim: MSFS. SamScene has taken to their Facebook page and Youtube channel to announce the release of their latest addition to Microsoft Flight Simulator, Tibet Lhasa Gonggar Airport. â Lhasa Gonggar Airport (ZULS) is situated 11,800 feet above sea level high up in the Tibet Autonomous Region in southwestern China. Lhasa Gonggar Airport is one of the highest airports in the world. Recently the airport unveiled its brand new third terminal in 2023, offering modern amenities and an enhanced travel experience for visitors.Â  â Lhasa Gonggar Airport is very well connected to other major cities in China, notably, Beijing, Chengdu, Shanghai, Guangzhou, Hong Kong, Chongqing, Xian, Xining, Kunming, Diqing, and the Chamdo Region. â The airport features two runways, 09L and 27R. Runway 09L, although a non-ILS (Instrument Landing System) runway, provides a visually striking approach for pilots. On the other, hand Runway 27R offers the convenience of ILS navigation to allow a more convenient approach. â â Lhasa Gonggar Airport and its surrounding scenery are now available to purchase on their webstore for $14.95 at the time of writing.</summary>
+    <published>2023-06-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/h55nan</id>
+    <title>Hunter555 Releases Nan Nakhon Airport for MSFS</title>
+    <updated>2023-06-21T00:00:00+00:00</updated>
+    <link href="/news/h55nan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6493444c98e4d60622914d77_vtnc1.png" rel="enclosure" type="image/png" length="3983939"/>
+    <summary>Sim: MSFS. Hunter555 has recently released their rendition of Nan Nakhon Airport (VTCN) for Microsoft Flight Simulator, serving the city of Nan in Thailand with a yearly average of 380,000 passengers.  The airport was inaugurated in 1980, originally consisting of a single-story passenger terminal, a parking lot, and an administration office. It wasnât until 2014 that Nan Nakhon got a modern passenger terminal, built near the old one, with 5,750 square meters of total area, accommodating up to 300 passengers per hour and 864,000 people per year.  Itâs served by Nok Air, Thai AirAsia, and Thai Lion Air with flights to Bangkok (Don Mueang).  The scenery features an accurate rendition of the airport, with a 3D model of the passenger terminal, custom ground textures, a custom GSX profile, custom night lighting, custom autogen for the city, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $10.92, requiring at least 75.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-06-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jflab4</id>
+    <title>Just Flight Announces Airbus A300B4 for MSFS</title>
+    <updated>2023-06-21T00:00:00+00:00</updated>
+    <link href="/news/jflab4" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649364803b78a4d68ad5fa4d_a300-1.png" rel="enclosure" type="image/png" length="280375"/>
+    <summary>Sim: MSFS. Just Flight has recently uploaded a YouTube video announcing the development of an Airbus A300B4 for Microsoft Flight Simulator and teasing some of the already finished work.   The upcoming add-on will feature highly detailed exterior models with two engine variants, cargo and passenger configs, realistic animations (dynamic wingflex, flaps, and spoilers), and more.  The systems (hydraulic, electrical, fuel, and pressurization) will be custom coded based on the aircraftâs manual, and the navigation systems will include a custom INS and FMC, and options for an AFCS (Automatic Flight Control System) panel and the A300âs N1 limit computer and autothrottle.  The cockpit will feature all three positions (pilot, first officer, and flight engineer), realistically reproduced, texturized (4K and 8K), and modeled with animated and functional switches, knobs, and levers.  The A300B4 was the long-range version of the A300, which became the first ETOPS-compliant aircraft in 1977, just two years after its launch, becoming an interesting option for overwater routes and quickly becoming a favorite of many Asian airlines.  Thereâs no release date or pricing information, but Threshold will keep you informed! â</summary>
     <published>2023-06-21T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-21T18:21:33.372410+00:00</updated>
+  <updated>2023-06-22T18:21:55.916698+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/</id>
-    <title>Expert Series I: ATR 42-600 / 72-600</title>
-    <updated>2023-04-25T16:01:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/expert-series-i-atr-42-600-72-600/" rel="alternate"/>
-    <summary>Microsoft Flight Simulator today released the first entry into a brand-new series of highly authentic and accurate aircraft called “Expert Series”. The ATR 42-600 and ATR 72-600 are being released together in this bundle and will provide an incredible and authentic aviation experience. ATR, short for “Regional Transport Aircraft,” in both French and Italian, was … Continued</summary>
-    <published>2023-04-25T16:01:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-joeybolo77/</id>
     <title>Community Spotlight: JoeyBolo77</title>
@@ -29,18 +21,17 @@
     <title>FlightSimExpo Partner Series: Thrustmaster</title>
     <updated>2023-06-19T18:21:29+00:00</updated>
     <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-thrustmaster/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/TCA-Yoke-Pack-Boeing-xbox-pc-12-1024x622.jpg" rel="enclosure" type="image/jpeg" length="70048"/>
     <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is … Continued</summary>
     <published>2023-06-19T18:21:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/june-8th-2023-development-update/</id>
-    <title>June 8th, 2023 Development Update</title>
-    <updated>2023-06-08T23:03:45+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-8th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/ExplorerJB-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="71215"/>
-    <summary>Thank you to everyone who has been participating in the public beta test for Aircraft &amp; Avionics Update 02 (AAU_02). Your feedback and bug reports have been incredibly helpful to the development team as we continue preparing for a target launch date of June 23.</summary>
-    <published>2023-06-08T23:03:45+00:00</published>
+    <id>https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/</id>
+    <title>FlightSimExpo Partner Series: Tobii</title>
+    <updated>2023-06-21T17:59:53+00:00</updated>
+    <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/TOBII_MSFS_BannerWebsite@2x-1024x576.png" rel="enclosure" type="image/png" length="639833"/>
+    <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing … Continued</summary>
+    <published>2023-06-21T17:59:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CU02_FRANCE_Amiens_Somme-1024x576.jpg" rel="enclosure" type="image/jpeg" length="165244"/>
     <summary>The Microsoft Flight Simulator team is delighted to introduce the free City Update II: France, which captures five beautiful cities: Amiens, Angers, Nantes, Nîmes, and Reims; and to celebrate the Paris Air Show, the update also includes the famed Paris–Le Bourget Airport (LFPB) in both standard and festival configurations.Some highlights from each city: Amiens, located … Continued</summary>
     <published>2023-06-19T09:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/aircraft-avionics-update-02-1-33-8-0-release-notes/</id>
+    <title>Aircraft &amp; Avionics Update 02 (1.33.8.0) Release Notes</title>
+    <updated>2023-06-22T15:34:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/aircraft-avionics-update-02-1-33-8-0-release-notes/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Fe5nUukWAAEud48-1024x576.jpg" rel="enclosure" type="image/jpeg" length="83044"/>
+    <summary>In Aircraft &amp; Avionics Update 02, we added new telemetry to help investigate the “bandwidth is too low” and connection loss issues users in the community have reported. While the investigation is ongoing, thanks to data gathered during the flight we were able to narrow down the search. For example, we now understand the issues … Continued</summary>
+    <published>2023-06-22T15:34:18+00:00</published>
   </entry>
 </feed>
