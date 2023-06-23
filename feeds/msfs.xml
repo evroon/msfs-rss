@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-22T18:21:55.916698+00:00</updated>
+  <updated>2023-06-23T18:23:43.848266+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-joeybolo77/</id>
-    <title>Community Spotlight: JoeyBolo77</title>
-    <updated>2023-05-04T16:17:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-joeybolo77/" rel="alternate"/>
-    <summary>May is celebrated as Asian/Pacific American Heritage Month, and in recognition of the occasion, we are pleased to shine the spotlight on community member JoeyBolo77, a Filipino-American Microsoft Flight Simulator Twitch streamer. We recently caught up with Joey to ask him some questions about his experiences with flight simulation and his involvement in the community.How … Continued</summary>
-    <published>2023-05-04T16:17:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-thrustmaster/</id>
     <title>FlightSimExpo Partner Series: Thrustmaster</title>
@@ -29,18 +21,17 @@
     <title>FlightSimExpo Partner Series: Tobii</title>
     <updated>2023-06-21T17:59:53+00:00</updated>
     <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/TOBII_MSFS_BannerWebsite@2x-1024x576.png" rel="enclosure" type="image/png" length="639833"/>
     <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing … Continued</summary>
     <published>2023-06-21T17:59:53+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024/</id>
-    <title>Microsoft Flight Simulator 2024: The Next Generation of the Legendary Franchise</title>
-    <updated>2023-06-11T19:18:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_v1_NoSnipe_Logo_NoText-1024x576.png" rel="enclosure" type="image/png" length="104193"/>
-    <summary>Pursue your dream of an aviation career with Microsoft Flight Simulator 2024. This brand-new simulator is designed to take advantage of the latest technologies in simulation, cloud, machine learning, graphics and gaming to create the most sophisticated, immersive and awe-inspiring flight simulator of all time. To achieve this unprecedented level of accuracy, Microsoft Flight Simulator 2024 is powered by the significantly evolved … Continued</summary>
-    <published>2023-06-11T19:18:17+00:00</published>
+    <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
+    <title>FlightSimExpo Partner Series: Next Level Racing</title>
+    <updated>2023-06-22T20:01:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/flight-sim_pro_web_9-1024x683.webp" rel="enclosure" type="image/webp" length="66744"/>
+    <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing a … Continued</summary>
+    <published>2023-06-22T20:01:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Fe5nUukWAAEud48-1024x576.jpg" rel="enclosure" type="image/jpeg" length="83044"/>
     <summary>In Aircraft &amp; Avionics Update 02, we added new telemetry to help investigate the “bandwidth is too low” and connection loss issues users in the community have reported. While the investigation is ongoing, thanks to data gathered during the flight we were able to narrow down the search. For example, we now understand the issues … Continued</summary>
     <published>2023-06-22T15:34:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-22nd-2023-development-update/</id>
+    <title>June 22nd, 2023 Development Update</title>
+    <updated>2023-06-22T23:11:06+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-22nd-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CpuGeta486-Twitter-1-1024x588.jpeg" rel="enclosure" type="image/jpeg" length="63141"/>
+    <summary>This has been a full week for the Microsoft Flight Simulator team! Monday started with the release of City Update 2: France and Local Legend 09: Latécoère Model 631. You can read more about both of these on our website here.</summary>
+    <published>2023-06-22T23:11:06+00:00</published>
   </entry>
 </feed>

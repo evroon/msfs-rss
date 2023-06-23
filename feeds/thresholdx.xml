@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-06-22T18:21:58.181749+00:00</updated>
+  <updated>2023-06-23T18:23:45.614721+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbhot</id>
-    <title>Orbx Releases Mount Hotham Airport for MSFS</title>
-    <updated>2023-06-13T00:00:00+00:00</updated>
-    <link href="/news/orbhot" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6489012ebe60b888ff0f62f3_hot1.png" rel="enclosure" type="image/png" length="2328170"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Mount Hotham Airport (YHOT) for Microsoft Flight Simulator, serving a ski resort on Mount Hotham in southeastern Australia. Itâs the countryâs highest airport.  Privately owned, the airport was opened in 2000 after a $17 million investment and four years of extensive planning.Â   Itâs served by a single charter airline, Airly, flying from Bankstown and Essendon.Â   Orbxâs rendition portrays the airport as it were during its âgolden ageâ when domestic and regional services still served it (QantasLink canceled their service in 2011 because it was losing them a lot of money). It features custom ground textures, a high-detail terminal interior, custom vegetation, custom animation, airport-specific static aircraft, over a hundred custom assets, and full PBR texturing.  Itâs available onÂ OrbxDirectÂ for roughly $16.88, requiring at least 1.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dbschu</id>
     <title>DarkBlueScenery Releases Chubu Centrair International Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649364803b78a4d68ad5fa4d_a300-1.png" rel="enclosure" type="image/png" length="280375"/>
     <summary>Sim: MSFS. Just Flight has recently uploaded a YouTube video announcing the development of an Airbus A300B4 for Microsoft Flight Simulator and teasing some of the already finished work.   The upcoming add-on will feature highly detailed exterior models with two engine variants, cargo and passenger configs, realistic animations (dynamic wingflex, flaps, and spoilers), and more.  The systems (hydraulic, electrical, fuel, and pressurization) will be custom coded based on the aircraftâs manual, and the navigation systems will include a custom INS and FMC, and options for an AFCS (Automatic Flight Control System) panel and the A300âs N1 limit computer and autothrottle.  The cockpit will feature all three positions (pilot, first officer, and flight engineer), realistically reproduced, texturized (4K and 8K), and modeled with animated and functional switches, knobs, and levers.  The A300B4 was the long-range version of the A300, which became the first ETOPS-compliant aircraft in 1977, just two years after its launch, becoming an interesting option for overwater routes and quickly becoming a favorite of many Asian airlines.  Thereâs no release date or pricing information, but Threshold will keep you informed! â</summary>
     <published>2023-06-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksbol</id>
+    <title>MK Studios Releases Bologna Airport for MSFS</title>
+    <updated>2023-06-22T00:00:00+00:00</updated>
+    <link href="/news/mksbol" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6494b6f84e86849d126d6ccb_bologna1.jpg" rel="enclosure" type="image/jpeg" length="1414398"/>
+    <summary>Sim: MSFS. MK Studios has recently released their rendition of Bologna Airport (LIPE) for Microsoft Flight Simulator, serving the city of Bologna in Italy with a yearly average of 8.5 million passengers.  Opened in 1933, the original airport sat 500 meters west of the current building. With the advent of the jet age in the 1970s and the subsequent traffic boom, it was deemed too cramped and replaced by the present building soon after.  The ânewâ terminal was expanded between 2011 and 2013 to 36,100 square meters, sporting 24 departure gates, none of which have jetways.Â   Itâs a hub for Ryanair (Alghero, AmmanâQueen Alia, Athens, Barcelona, Bari, Beauvais, Berlin, Billund, Brindisi, BucharestâOtopeni, Budapest, Cagliari, Catania, Charleroi, Cologne/Bonn, Copenhagen, Crotone, Dublin, Edinburgh, Eindhoven, FÃ¨s, Fuerteventura, Gran Canaria, KrakÃ³w, Lamezia Terme, Lanzarote, Lisbon, LondonâLuton, LondonâStansted, Madrid, MÃ¡laga, Malta, Manchester, Marseille, Nuremberg, Palermo, Paphos, Porto, Prague, Santander, Santiago de Compostela, Seville, Sofia, StockholmâArlanda, Tel Aviv, TenerifeâSouth, Thessaloniki, Trapani, Valencia, Vienna, WarsawâModlin, WrocÅaw, Zaragoza) and Neos (Marsa Alam, Sharm El Sheikh, TenerifeâSouth), and visited by a comprehensive list of carriers such as Aegean, Air France, British Airways, Emirates, Eurowings, Finnair, Norwegian Air Shuttle, Scandinavian Airlines, TAP, and more.Â   The scenery features a high-fidelity rendition of the airport, with an accurately modeled terminal and its interior, landside buildings, custom GSE vehicles, performance-friendly optimization, and compatibility with most AI traffic plugins.  Itâs available onÂ SimMarketÂ for roughly $14.20, requiring at least 1.09 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-06-22T00:00:00+00:00</published>
   </entry>
 </feed>
