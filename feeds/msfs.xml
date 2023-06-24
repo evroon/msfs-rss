@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-06-23T18:23:43.848266+00:00</updated>
+  <updated>2023-06-24T18:24:02.111038+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/flight-sim_pro_web_9-1024x683.webp" rel="enclosure" type="image/webp" length="66744"/>
     <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing a … Continued</summary>
     <published>2023-06-22T20:01:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/</id>
-    <title>Microsoft Flight Simulator 2024 FAQ</title>
-    <updated>2023-06-12T02:56:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_11-1024x576.jpg" rel="enclosure" type="image/jpeg" length="97456"/>
-    <summary>Top questions about the upcoming Microsoft Flight Simulator sequel.</summary>
-    <published>2023-06-12T02:56:46+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-15th-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/CpuGeta486-Twitter-1-1024x588.jpeg" rel="enclosure" type="image/jpeg" length="63141"/>
     <summary>This has been a full week for the Microsoft Flight Simulator team! Monday started with the release of City Update 2: France and Local Legend 09: Latécoère Model 631. You can read more about both of these on our website here.</summary>
     <published>2023-06-22T23:11:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-6-ford-4-at-trimotor/</id>
+    <title>Famous Flyer #6 Ford 4-AT Trimotor – Available Now!</title>
+    <updated>2023-06-23T22:31:48+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-6-ford-4-at-trimotor/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_FordTrimotor_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="808988"/>
+    <summary>Soar through the skies in one of aviation’s most distinctive and influential aircraft, the Ford 4-AT Trimotor, Microsoft Flight Simulator’s sixth Famous Flyer release.</summary>
+    <published>2023-06-23T22:31:48+00:00</published>
   </entry>
 </feed>
