@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-06T18:24:05.756826+00:00</updated>
+  <updated>2023-07-07T18:24:43.569622+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ddrglw</id>
-    <title>Drzewiecki Design Releases GdaÅsk Lech WaÅÄsa Airport for MSFS</title>
-    <updated>2023-06-28T00:00:00+00:00</updated>
-    <link href="/news/ddrglw" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649c71826918fc19dcb4d2f2_epgd1%5D.jpg" rel="enclosure" type="image/jpeg" length="2100848"/>
-    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of GdaÅsk Lech WaÅÄsa Airport (EPGD) for Microsoft Flight Simulator, serving the Tricity metropolitan area in the Pomeranian Voivodeship in Poland. Itâs the third busiest airport in the country, with a yearly average of 5 million passengers.  The airport was built in 1973 to replace the old Gdansk airport, deemed too small and expanding was impossible because of the many neighborhoods surrounding it.Â   It has two terminals, but only one is fully functional (T2). Terminal 1 was built in 1993, currently utilized for departures to non-Schengen countries like Great Britain and Ireland and holiday destinations such as Egypt, Morocco, etc. Terminal 2, the newest one, was built in 2012 and handles all the arrivals, with an overall area of 54,000 square meters, 25 check-in desks, and five jet bridges. Itâs able to take up to 6 million passengers a year.  There are plans to expand Terminal 2 in the near future (work is underway) and add CAT3b ILS, allowing pilots to operate even when the visibility is poor and perform an autoland if need be.Â   Itâs a base for WizzAir and Ryanair, flying people all over Europe. The visitorsâ list includes Eurowings, Finnair, KLM, Norwegian Air Shuttle, Scandinavian Airlines, and Swiss International Air Lines.  The scenery features a high-quality rendition of the airport, featuring an updated layout, custom ground textures, performance-friendly optimization, fully modeled terminal buildings with their respective interior, 3D passengers, custom night lighting, animated trains, and more.  Itâs available onÂ SimMarketÂ for roughly $19.71, requiring at least 1.44 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-06-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/heatblur-and-india-fox-echo-shows-off-the-upcoming-f-14-for-microsoft-flight-simulator</id>
-    <title>Heatblur and India Fox Echo shows off the upcoming F-14 for Microsoft Flight Simulator</title>
-    <updated>2023-06-28T00:00:00+00:00</updated>
-    <link href="/news/heatblur-and-india-fox-echo-shows-off-the-upcoming-f-14-for-microsoft-flight-simulator" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649cb4b13cb42f99ca892b1e_322711352_909652780032116_7616951447470126904_n.jpg" rel="enclosure" type="image/jpeg" length="508032"/>
-    <summary>Sim: MSFS. A teaser video of the F-14 Tomcat still in development was recently released by Heatblur and India Fox Echo, known for their meticulous attention to detail in aircraft systems, flight dynamics, and visual models in Digital Combat Simulator. The team's focus on detail is now being carried over to Microsoft Flight Simulator. Although the project was announced on January 23, updates on its progress have been scarce until recently, when Heatblur uploaded a video to Facebook and YouTube showcasing their stunning cinema work, leaving fans excited for the release of the F-14 in Microsoft Flight Simulator. For those interested in learning the Tomcat, it is currently available for purchase in the DCS store and is well worth the investment despite its steep learning curve in terms of systems and flight model. Make sure to stay tune to Threshold for more information regarding progress and news for the F-14 for Microsoft Flight Simulator!  Â Â IfÂ you'reÂ curiousÂ ofÂ Heatblur'sÂ flightÂ modelÂ developmentÂ forÂ DCSÂ thisÂ isÂ wellÂ worthÂ theÂ read! Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â </summary>
-    <published>2023-06-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/erj195</id>
-    <title>Flight Procedures Simulations provides details regarding their upcoming EJET</title>
-    <updated>2023-06-29T00:00:00+00:00</updated>
-    <link href="/news/erj195" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649d78e0de75e9690e9ca348_FPSE-195%20-%20Emb195_5.png" rel="enclosure" type="image/png" length="763527"/>
-    <summary>Sim: X-Plane. Flight Procedures Simulations' Ricardo Bolognini has announced that the Embraer 195 for X-Plane 12 will be released soon. This mid-range regional jet, designed by the Brazilian aerospace company Embraer, can seat up to 124 passengers and made its first flight in December 2004. The Embraer 195 series has been wildly successful with 172 airframes built due to its low operating costs per seat mile and maintenance. The E195 also know as the (Jungle Jet) has an average range of around 2600 miles cruising around 480 knots. âThis aircraft model has detailed features including proper antennae, drains, and vents, realistic wing flex, and customized external lighting. The interior has updated graphics and redesigned panels with new buttons and knobs.ââ Custom Systems are detailed in this list from Flight Procedures Simulations. â¢Brake system with autobrake and antiskid. â¢Functional gear steers system. â¢Hydraulic system logic. â¢Electrical system logic. â¢Bleed system Logic. â¢Air Conditioning system logic. â¢Advanced Advisory System logic with more then 100 messages logic. â¢Lights switch test system. â¢Fire test system. â¢Fire dish with bottles system. â¢Display brightness. â¢Wipers with speeds and real recorded sounds.âThe flight model has been enhanced with a custom Fly By Wire System that offers protection during flight by limiting control laws based on the FMS Protection System Logic. Additionally, the improved flight model calculates various advanced flight parameters such as engine thrust, fuel consumption speeds, and flight performance. To read the entire XP-12 update change log see the X-Plane.org post here. Make sure to keep an eye on Threshold for additional news and release of this aircraft! â</summary>
-    <published>2023-06-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inistn</id>
     <title>iniBuilds Releases London Stansted Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a68466cbdb22e3c1928f60_sksp1-min.jpg" rel="enclosure" type="image/jpeg" length="1150390"/>
     <summary>Sim: MSFS. PKSIM has recently released their rendition of Gustavo Rojas Pinilla International Airport (SKSP) for Microsoft Flight Simulator, serving the archipelago of San AndrÃ©s, Providencia, and Santa Catalina, in Colombia with a yearly average of 2 million passengers.  The airport was built in the 1950s to link the airport with continental Colombia by order of President Gustavo Rojas Pinilla, whose name is now shared with the airport. Â  â  It was granted its international status in 1993, allowing it to handle international traffic and consequently helping boost the traffic figures, leading to its eventual expansion and modernization in the 2000s.  It is the sole gateway to the island and is essential to local tourism and its residents.  Itâs served by Avianca (BogotÃ¡, MedellÃ­n), Copa Airlines (Panama City), Latam Colombia (BogotÃ¡, Cartagena, and MedellÃ­n), Satena (Providencia), and Wingo (Barranquilla, Cali, and Cartagena).  The scenery features an accurate rendition of the airports (it also includes the smaller Providencia Airport), with detailed models, custom ground textures, custom GSX config, and more.  Itâs available onÂ SimMarketÂ for roughly $20.13, requiring at least 598.17 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/uk2hsh</id>
+    <title>UK2000 Scenery Releases Henderson Executive Airport for MSFS</title>
+    <updated>2023-07-07T00:00:00+00:00</updated>
+    <link href="/news/uk2hsh" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a7e14755a206e0a80a8e76_hnd1.jpg" rel="enclosure" type="image/jpeg" length="1132888"/>
+    <summary>Sim: MSFS. UK2000 Scenery has recently released their rendition of Henderson Executive Airport (KHND) for Microsoft Flight Simulator, a public-use government airport in Henderson, Nevada, categorized as a reliever airport by the FAAâs National Plan of Integrated Airport Systems.Â   It was founded in 1967, and built on 912 acres purchased from the city of Henderson, opening three years later as Sky Harbor Airport. It was bought out by Clark County in 1996 and given its current name.  According to 2015 data, the airport had 71,323 operations, with 86% corresponding to general aviation traffic, 14% air taxi, and less than 1% military.Â   The airportâs IATA (HSH) differs from its ICAO because of Tokyo Haneda (HND), forcing it to be one of the few North American airports whose IATA doesnât correspond to the last three digits of its ICAO.  The scenery features an accurate rendition of the airport with PBR texturing, full-detail buildings, high-resolution ground imagery, custom night lighting, high-detail airport vehicles, performance-friendly optimization, custom vegetation, and optional static aircraft.  Itâs available onÂ SimMarketÂ for roughly $15.25, requiring at least 37.31 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/t2goia</id>
+    <title>Taxi2Gate Updates Orlando International Airport for MSFS</title>
+    <updated>2023-07-07T00:00:00+00:00</updated>
+    <link href="/news/t2goia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647749b784a7d531f0620a1f_mco1-min.png" rel="enclosure" type="image/png" length="3708726"/>
+    <summary>Sim: MSFS. Taxi2Gate has recently released an update to their rendition of Orlando International Airport (KMCO) for Microsoft Flight Simulator, addressing the now non-existent requirement of having the photogrammetry disabled and more.  The new update adds full compatibility with photogrammetry, terminal C improvements, more details on the construction site, the removal of default Asobo buildings, the addition of the JetBlue University buildings and the B52 at the memorial park, auxiliary lines at airside four, the removal of trees around train rails, and other minor fixes.  From this update onwards, users can remove the default (hand-crafted) KMCO that was once required for some absent buildings.Â   The scenery is available onÂ SimMarketÂ for roughly $26.15, requiring at least 2.34 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jffrdc</id>
+    <title>JustFlight Fokker F28 Release Date Confirmed</title>
+    <updated>2023-07-07T00:00:00+00:00</updated>
+    <link href="/news/jffrdc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a842f6d5adcf02639dc058_347631094_654973770002877_7813962146158986907_n.jpg" rel="enclosure" type="image/jpeg" length="174872"/>
+    <summary>Sim: MSFS. After much anticipation, the wait is finally over. JustFlight, a leading developer in the industry, has officially announced that their highly awaited F28 Professional aircraft add-on for Microsoft Flight Simulator (MSFS) will be released next week for $69.99 / 52.49 GBP / 64.95 EUROS. Mark your calendars for Wednesday 12th july. In the days leading up to the release, JustFlight has promised a treat for the community. They will be showcasing the F28 Professional through a series of preview streams and in-house videos, giving us all a sneak peek into the aircraft's features and capabilities. Already, preview videos have started appearing on popular platforms like YouTube and Twitch, offering a glimpse of what's to come. Keep an eye out for more content in the coming days as well. Similar to the previously released 146 Professional, the F28 Professional is a complex and sophisticated aircraft from a bygone era. JustFlight's team has invested extensive time and effort into conducting in-depth research, coding, testing, and fine-tuning to ensure an exceptional and true-to-life simulation experience. They extend their gratitude to the community for their patience throughout the development process and assure users that the F28 Professional will be another vintage aircraft masterpiece, meticulously crafted in every department. To assist users in getting acquainted with the aircraft, JustFlight will provide comprehensive tutorials, a comprehensive manual, and a plethora of customization options. This will enable virtual pilots to fully immerse themselves in the F28 Professional's intricacies and explore its capabilities. The excitement is building as the release date approaches. All the necessary product details and manuals can be found on the dedicated F28 Professional product page. In the meantime, JustFlight has treated the community to a selection of screenshots. Feel free to take a peek at our previous article on the F28 for some more information ! â Threshold will keep you informed with future updates and the release !</summary>
+    <published>2023-07-07T00:00:00+00:00</published>
   </entry>
 </feed>
