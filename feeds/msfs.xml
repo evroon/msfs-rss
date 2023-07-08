@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-07-07T18:24:42.104059+00:00</updated>
+  <updated>2023-07-08T18:23:03.918634+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-6-ford-4-at-trimotor/</id>
-    <title>Famous Flyer #6 Ford 4-AT Trimotor – Available Now!</title>
-    <updated>2023-06-23T22:31:48+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-6-ford-4-at-trimotor/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_FordTrimotor_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="808988"/>
-    <summary>Soar through the skies in one of aviation’s most distinctive and influential aircraft, the Ford 4-AT Trimotor, Microsoft Flight Simulator’s sixth Famous Flyer release.</summary>
-    <published>2023-06-23T22:31:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-iii-texas/</id>
     <title>Microsoft Flight Simulator Releases City Update III: Texas</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/CpuGeta486-Twitter-1024x543.jpg" rel="enclosure" type="image/jpeg" length="22869"/>
     <summary>We have a new Development Roadmap available! You can check it out below.</summary>
     <published>2023-07-06T23:47:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/burning-blue-design-and-sierrasim-simulation-sale/</id>
+    <title>Burning Blue Design and Sierrasim Simulation Sale</title>
+    <updated>2023-07-07T17:01:55+00:00</updated>
+    <link href="https://www.flightsimulator.com/burning-blue-design-and-sierrasim-simulation-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/BurningBlueSierrasSim-1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="110017"/>
+    <summary>39 Items On Sale Now in the Marketplace</summary>
+    <published>2023-07-07T17:01:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/</id>
