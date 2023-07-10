@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-09T18:22:57.511231+00:00</updated>
+  <updated>2023-07-10T18:24:54.353739+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ae3302</id>
-    <title>Aerosoft A330 Trailer Released</title>
-    <updated>2023-06-30T00:00:00+00:00</updated>
-    <link href="/news/ae3302" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649dcdc5b9760918c8461994_aerosoft%20330.PNG" rel="enclosure" type="image/png" length="618639"/>
-    <summary>Sim: MSFS. Aerosoft, a popular development group for most major flight simulators since FSX, has sent ripples of excitement through the sim aviation community by releasing an exciting trailer showcasing their much-anticipated Airbus A330 for MSFS. The trailer, unveiled yesterday on the group's youtube channel, offers an exciting glimpse into the immersive experience that awaits flight sim pilots.Â  The trailer boasts some of the features we can expect. This includes; Accurate sounds, stunning exterior visuals and the much-anticipated EFB that Aerosoft has developed. The trailer shows that an effort has not been spared throughout the internal and external models.Â  â Although no release date was provided in the trailer, the flight sim community is informed that the aircraft will release âsoonâ This is certainly an exciting time for Long Haul sim pilots who have been eagerly awaiting a new wide-body jet to traverse the globe in.  Threshold Will keep you informed on developments around the A330 and possible release dates, but for nowâ¦ enjoy the trailer below!Â </summary>
-    <published>2023-06-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vsmpbi</id>
-    <title>Verticalsim Announces Palm Beach International Airport for MSFS</title>
-    <updated>2023-06-30T00:00:00+00:00</updated>
-    <link href="/news/vsmpbi" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649f3a504646220360145673_pb1.jpg" rel="enclosure" type="image/jpeg" length="240981"/>
-    <summary>Sim: MSFS. Verticalsim has recently announced the development of Palm Beach International Airport (KPBI) for Microsoft Flight Simulator, serving the Miami metropolitan area and Port St. Lucie metro area with a yearly average of 6.6 million passengers.Â  â It was opened in 1936 as Morrison Field, eventually becoming an important training airfield during World War 2 and operating as a staging base for the Allied invasion of France in 1944, with aircraft departing Palm Beach towards England in preparation for the D-Day.Â  â After a brief return to being a civil airport, the airport was once again utilized for military purposes in the early 1950s as Palm Beach Air Force Base, training nearly 23,000 airmen during the Korean War. â The Air Force Base was closed in 1962, and Palm Beach was back to being just a civilian airport.Â  â Currently, the airport has 32 gates and three concourses. Concourse A houses Bahamasair and Silver Airways; B houses Air Canada, American Airlines, Southwest Airlines, Sun Country Airlines, and United Airlines; C, on the other hand, holds Delta, Frontier, JetBlue, and Spirit. â Thereâs no information regarding features, pricing, or availability yet, but Threshold will keep you informed! â</summary>
-    <published>2023-06-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbsmf</id>
-    <title>Orbx Announces Sacramento International Airport for MSFS</title>
-    <updated>2023-07-01T00:00:00+00:00</updated>
-    <link href="/news/orbsmf" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649fa68662f546d6e10b3ff5_sm1.jpg" rel="enclosure" type="image/jpeg" length="643152"/>
-    <summary>Sim: MSFS. Orbx has recently announced the development and imminent release of Sacramento International Airport (KSMF) for Microsoft Flight Simulator, one of the busiest airports in California with a yearly average of 12 million passengers. â The airport opened in 1967 as Sacramento Municipal Airport, with an 8,600 ft runway. It was the first purpose-built public-use airport west of the Mississippi. â In 1998, a new terminal - Terminal A - was built, followed by its subsequent renaming to Sacramento International Airport. The first international flight happened in 2002 when Mexicana started a nonstop route from Guadalajara.Â  â The current layout consists of two terminals with 32 gates in total. Air Canada, American, Delta, and United operate out of Terminal A, and Aeromexico, Alaska, Frontier, Hawaiian, JetBlue, Southwest, Spirit, and Volaris operate out of Terminal B. â Developed by Orbxâs indie Matteo Veneziani, the upcoming SMF will feature detailed ground markings and textures, animated jetways with sounds, dynamic airport lighting, custom airport clutter, custom ground service equipment, an animated train, basic terminal interiors, and orthoimagery of the airport area. â There is no release date or pricing information yet, but Threshold will keep you informed! â</summary>
-    <published>2023-07-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pacslc</id>
     <title>PACSIM Releases Salt Lake City International Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/649fa70fa27e0134453aa45f_s4.jpg" rel="enclosure" type="image/jpeg" length="644588"/>
     <summary>Sim: MSFS. Orbx has recently released their rendition of Sacramento International Airport (KSMF) for Microsoft Flight Simulator, among the busiest airports in California with a yearly average of 12 million passengers.  The first purpose-built public-use airport west of the Mississippi was inaugurated as Sacramento Municipal Airport in 1967.  In 1998, a new terminal - Terminal A - was built, followed by its subsequent renaming to Sacramento International Airport. The first international flight happened in 2002 when Mexicana started a nonstop route from Guadalajara.Â   There are plans to expand the airport with more gates or a new terminal in the near future.  The current layout consists of two terminals with 32 gates in total. Air Canada, American, Delta, and United operate out of Terminal A, and Aeromexico, Alaska, Frontier, Hawaiian, JetBlue, Southwest, Spirit, and Volaris operate out of Terminal B.  Developed by Matteo Veneziani, an independent developer, the scenery features detailed ground markings and textures, animated jetways, dynamic airport lighting, custom ground clutter, custom ground service equipment, custom taxiway signage, an animated train, basic terminal interiors, and orthoimagery of the airport area.  Itâs available onÂ OrbxDirectÂ for roughly $20.06, requiring at least 2.86 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bounwa</id>
+    <title>Boundless Announces North Weald Airfield for X-Plane 11 &amp; 12</title>
+    <updated>2023-07-10T00:00:00+00:00</updated>
+    <link href="/news/bounwa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ab92d33efd4718e98a5c86_nwa1.jpg" rel="enclosure" type="image/jpeg" length="93871"/>
+    <summary>Sim: X-Plane. Boundless has recently announced the development of North Weald Airfield (EGSX) for X-Plane 11 and 12, a general aviation aerodrome in Essex, England.  The aerodrome was built during World War I by the Royal Flying Corps (which became the Royal Air Force two years later). The end of WWI saw the airport develop further with large hangars, accommodations for the pilots and personnel, and eventually becoming an important part of the British air defense during the Second World War. The control tower was built during the early Cold War modernization in 1952, currently one of the few Grade 2 listed buildings of the type in the country, and in very good condition. For the unfamiliar, a listed building is a structure of architectural or historic interest that deserves special protection. They canât be altered, demolished, or expanded without special authorization. The Officers Mess building from back then is also still around and classified as a Grade 2 listed building, along with an original hangar from 1927, dating back to the interwar development. Nowadays, itâs a general aviation airfield with over 40,000 annual movements, and it also houses the North Weald Airfield Museum with its impressive collection of vintage and veteran aircraft. Itâs home to Academy Aviation, North Weald Flight Training, and the North Weald Flying Group, offering pilot training, aircraft rental, and pleasure flights on aircraft like the Cessna 172 and the Piper PA28. Part of the field is also used to host community events, supercar driving experiences, and more. The developers have shared four preview images of the airfield on Facebook, with no information yet on features or pricing.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shasah</id>
+    <title>Shadescene Releases Sultan Abdul Halim Airport for MSFS</title>
+    <updated>2023-07-10T00:00:00+00:00</updated>
+    <link href="/news/shasah" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ab99225dd5c7048687677d_sul1-min.png" rel="enclosure" type="image/png" length="1124070"/>
+    <summary>Sim: MSFS. Shadescene has recently released their rendition of Sultan Abdul Halim Airport (WMKA) for Microsoft Flight Simulator, serving the city of Alor Setar in Malaysia with a yearly average of 817,253 passengers.  It was established as an airfield in the early 1930s known as Lapangan Terbang Kepala Batas, becoming a military airbase soon after WW2 for the Japanese during their occupation of Malaysia.Â   The post-war period saw the ownership change to the Royal Air Force, which controlled the airfield until Malaysia gained independence in 1957.  Two years later, the airport was heavily upgraded to accommodate commercial operations, being re-inaugurated in 1965 as Alor Setar Airport. It was a domestic airport with flights to Kuala Lumpur and other major cities.  The current name was given during its redevelopment project in 2006, featuring a much larger passenger capacity, modern amenities, and more.  Itâs served by AirAsia, Batik Air Malaysia, Firefly, and Malaysia Airlines, with flights to Kuala Lumpur and Johor Bahru (AirAsia only).  The scenery features an accurate rendition of the airport, with custom terraforming, custom scenery objects, a terminal interior, hand-placed taxiways, full day and night cycle, hand-crafted ground markings and textures, and more.  Itâs available onÂ SimMarketÂ for roughly $9.79, requiring at least 180.42 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxikuk</id>
+    <title>MXI Design Releases KukÃ«s International Airport Zayed for MSFS</title>
+    <updated>2023-07-10T00:00:00+00:00</updated>
+    <link href="/news/mxikuk" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ab9e6fdaaa7dd819558b00_kuk1.jpg" rel="enclosure" type="image/jpeg" length="3023955"/>
+    <summary>Sim: MSFS. MXI Design has recently released their rendition of KukÃ«s International Airport Zayed (LAKU) for Microsoft Flight Simulator, serving the city of KukÃ«s in Albania with a yearly average of 40,000 passengers.  The airport was built in 1929 as a domestic airfield offering an air connection to Tirana, which operated for 15 years until it was turned into a military airport.Â   Civil service was only reactivated in the late 90s, during the Kosovo War, when the United Arab Emirates organized a refugee camp in KukÃ«s, which also required an airfield for supplies. It didnât take long until they had the idea to develop a civil airport instead as a gift to the population. Two years later, an understanding was reached, and the construction work got the green light.  Construction started in 2003, reaching completion in 2005, generating more than 200 jobs, and opening more tourist opportunities for the region. On the other hand, the opening only happened very recently, in 2021, when the first-ever commercial flight took place.  The airport is served on a seasonal basis by Air Albania and Wizz Air, with five destinations in total.  The scenery features an accurate rendition of the airport, with an up-to-date ground layout, high-detailed ground textures, PBR materials, a terminal interior, 3D passengers, and more.  Itâs available onÂ SimMarketÂ for roughly $10.88, requiring at least 449.77 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-10T00:00:00+00:00</published>
   </entry>
 </feed>
