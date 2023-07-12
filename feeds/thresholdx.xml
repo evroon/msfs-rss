@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-11T18:24:47.660134+00:00</updated>
+  <updated>2023-07-12T18:24:43.157164+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/katefb</id>
-    <title>KatiePilot Announces efbPro, an Innovative Standalone EFB</title>
-    <updated>2023-07-03T00:00:00+00:00</updated>
-    <link href="/news/katefb" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a335c131e338850d3e01f6_katiecover-min.png" rel="enclosure" type="image/png" length="908994"/>
-    <summary>Sim: OTHER. KatiePilot, the real-world Airbus pilot Twitch streamer and creator of the highly acclaimed Fenix Simulations Electronic Flight Bag (EFB), is now introducing efbPro, an innovative standalone EFB that goes beyond being a mere tool. With its ecosystem and customizability, it aims to provide a truly immersive and realistic flight simulation experience. The upcoming EFB will be fully customizable, based on real-world units, with the ability to change the background and accessibility settings and even manage its apps (efbPro will have an app store). It will also feature full SimBrief integration, weather monitoring and visualization for situational awareness, aircraft performance calculation, a built-in PDF reader for FCOMs, etc. efbPro is claimed to be entirely standalone, compatible with any sim or device, whether a tablet, a laptop, or a second monitor. Some of the apps will feature direct integration with MSFS, though. The app will be free, but developers may charge for specific apps on efbProâs app store. Thereâs no release date yet, but Threshold will keep you informed! â</summary>
-    <published>2023-07-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/emb195</id>
-    <title>Flight Procedures Simulation releases their Embraer 195 </title>
-    <updated>2023-07-06T00:00:00+00:00</updated>
-    <link href="/news/emb195" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a6182a4cda3361ad488d9e_Screenshot%202023-07-05%20201651.png" rel="enclosure" type="image/png" length="1222305"/>
-    <summary>Sim: X-Plane. Flight Procedures Simulation has released an updated version of the Embraer 195 for X-Plane. In a post last week, the aircraft was described in detail. Interested buyers can purchase it for $55.00 USD at the X-Plane.org store. For previous owners, there is a discount of $11, bringing the price down to $44.00 USD. It is worth noting that Flight Procedures Simulation used to be known as SSG Supercritical Simulations Group, which was established in 2011. Ricardo Bolognini announced the new name of Flight Procedures Simulation in the original update post. â Here is a snapshot of a few features from the X-Plane.org store page.  "This model is a complete X-Plane 12 upgrade from the iconic Ejets Evolution Series from SSG. Custom Systems description Check out the full list here on FPS's website. FPS has also addressed further updates to the E195 here in the support forum. â As always keep an eye on Threshold for more updates regarding the Embraer 195 from FPS!  Thanks Airbus 737 from our Discord for the updated news scoop! â â</summary>
-    <published>2023-07-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sssjjo</id>
     <title> Sierrasim Simulation Releases JosÃ© JoaquÃ­n de Olmedo International Airport v2 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ad2a697200fb9b5f6a5d6b_gaborone.jpg" rel="enclosure" type="image/jpeg" length="599838"/>
     <summary>Sim: MSFS.  Barelli MSFS Addon has recently released their rendition of Sir Seretse Khama International Airport (FBSK) for Microsoft Flight Simulator, serving the city of Gaborone in Botswana with a yearly average of 1.5 million passengers.  It was established in the 1950s as a small airstrip, serving as a military airfield for the British colonial administration until its independence in the mid-60s.  With the long-sought-after independence came the need for an international airport to serve the capital city. The construction started in 1980, reaching its completion and inauguration in 1984.  Itâs served by Air Botswana (Cape Town, Francistown, Harare, JohannesburgâO. R. Tambo, Kasane, Lusaka, Maun) - the local carrier -, Airlink (Johannesburg), and Ethiopian Airlines (Addis Ababa).  The scenery features an accurate rendition of the airport, with custom ground markings, landside buildings, and more.  Itâs available onÂ SimMarketÂ for roughly $13.37, requiring at least 56.07 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfpf28</id>
+    <title>Just Flight Publishes F28 Professionalâs Product Overview and Tutorials</title>
+    <updated>2023-07-12T00:00:00+00:00</updated>
+    <link href="/news/jfpf28" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ae74356b5fa40322ba6763_fokker1.png" rel="enclosure" type="image/png" length="726648"/>
+    <summary>Sim: MSFS. Just Flight has recently uploaded a series of videos to their YouTube channel, further showcasing the upcoming F28 Professional, starting with a product overview video and four tutorials ranging from startup to landing. The Fokker F28 is a twin-engined regional jet developed in the late 1960s, first flown in 1967, and introduced two years later. Multiple variants were built, ranging from 70 seats to 89 seats in various fuselage lengths.  As of 2019, there are no current operators of the F28 around, with Fly-SAX being the last to operate it commercially. Garuda Indonesia was the largest former operator, with 62 of them. Other Major operators include the Ansett Group (13), AirQuarius Aviation (4), and Biman Bangladesh Airlines (4). The Ansett Group was also responsible for the longest nonstop F28 route in the world, between Perth and Kununurra, roughly 2300 km apart.  The first video goes through some of the main features and functionalities, variants, and their respective livery list. The subsequent videos are tutorials on operating the aircraft from cold and dark to landing. â The aircraft is set to release later today for roughly $69.99. â â â â â</summary>
+    <published>2023-07-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baremg</id>
+    <title>Barelli MSFS Addon Releases MÃ¡laga Airport for MSFS</title>
+    <updated>2023-07-12T00:00:00+00:00</updated>
+    <link href="/news/baremg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ae79b0345edd638b583993_lemg1.jpg" rel="enclosure" type="image/jpeg" length="258384"/>
+    <summary>Sim: MSFS. Barelli MSFS Addon has recently released their rendition of MÃ¡laga Airport (LEMG) for Microsoft Flight Simulator, the fourth busiest airport in Spain after Madrid, Barcelona, and Palma de Mallorca, averaging 18.4 million passengers per year.  Itâs one of the oldest Spanish airports, opened in 1919, with scheduled air service starting that same year with Didier Daurat flying passengers to Barcelona, Toulouse, Alicante, Tangier, and Casablanca.  The runway had its first extension work in 1960, followed by the construction of a new passenger terminal at the very center of the site.  In 1991, a new passenger terminal (now Terminal 2) was opened, designed by Ricardo Boffil. The old terminal was transformed into a general aviation terminal four years later.  Terminal 3 was opened by King Juan Carlos in March 2010, starting operations the day after.  Only two of the three terminals are currently operating (Terminals 2 and 3). Terminal 2 is low-cost oriented, and hosts EasyJet, EasyJet Switzerland, and Ryanair, and Terminal 3 is used by the other airlines.  Being one of the busiest airports in Spain, the list of operators is substantial: itâs a focus city for EasyJet, Norwegian Air Shuttle, Ryanair, and Vueling, and most European carriers regularly visit it. London Gatwick is the busiest destination, with an average of 885,608 passengers, and Barcelona is a close second with 778,527.  The scenery features an accurate rendition of the airport, with custom ground textures, landside buildings, custom ground clutter, custom night lighting, and an up-to-date ground layout.  Itâs available onÂ SimMarketÂ for roughly $19.23, requiring at least 261.01 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-12T00:00:00+00:00</published>
   </entry>
 </feed>
