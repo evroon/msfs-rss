@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-14T18:24:10.116408+00:00</updated>
+  <updated>2023-07-15T18:22:55.580869+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pksgrp</id>
-    <title>PKSIM Releases Gustavo Rojas Pinilla International Airport for MSFS</title>
-    <updated>2023-07-06T00:00:00+00:00</updated>
-    <link href="/news/pksgrp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a68466cbdb22e3c1928f60_sksp1-min.jpg" rel="enclosure" type="image/jpeg" length="1150390"/>
-    <summary>Sim: MSFS. PKSIM has recently released their rendition of Gustavo Rojas Pinilla International Airport (SKSP) for Microsoft Flight Simulator, serving the archipelago of San AndrÃ©s, Providencia, and Santa Catalina, in Colombia with a yearly average of 2 million passengers.  The airport was built in the 1950s to link the airport with continental Colombia by order of President Gustavo Rojas Pinilla, whose name is now shared with the airport. Â  â  It was granted its international status in 1993, allowing it to handle international traffic and consequently helping boost the traffic figures, leading to its eventual expansion and modernization in the 2000s.  It is the sole gateway to the island and is essential to local tourism and its residents.  Itâs served by Avianca (BogotÃ¡, MedellÃ­n), Copa Airlines (Panama City), Latam Colombia (BogotÃ¡, Cartagena, and MedellÃ­n), Satena (Providencia), and Wingo (Barranquilla, Cali, and Cartagena).  The scenery features an accurate rendition of the airports (it also includes the smaller Providencia Airport), with detailed models, custom ground textures, custom GSX config, and more.  Itâs available onÂ SimMarketÂ for roughly $20.13, requiring at least 598.17 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/uk2hsh</id>
-    <title>UK2000 Scenery Releases Henderson Executive Airport for MSFS</title>
-    <updated>2023-07-07T00:00:00+00:00</updated>
-    <link href="/news/uk2hsh" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a7e14755a206e0a80a8e76_hnd1.jpg" rel="enclosure" type="image/jpeg" length="1132888"/>
-    <summary>Sim: MSFS. UK2000 Scenery has recently released their rendition of Henderson Executive Airport (KHND) for Microsoft Flight Simulator, a public-use government airport in Henderson, Nevada, categorized as a reliever airport by the FAAâs National Plan of Integrated Airport Systems.Â   It was founded in 1967, and built on 912 acres purchased from the city of Henderson, opening three years later as Sky Harbor Airport. It was bought out by Clark County in 1996 and given its current name.  According to 2015 data, the airport had 71,323 operations, with 86% corresponding to general aviation traffic, 14% air taxi, and less than 1% military.Â   The airportâs IATA (HSH) differs from its ICAO because of Tokyo Haneda (HND), forcing it to be one of the few North American airports whose IATA doesnât correspond to the last three digits of its ICAO.  The scenery features an accurate rendition of the airport with PBR texturing, full-detail buildings, high-resolution ground imagery, custom night lighting, high-detail airport vehicles, performance-friendly optimization, custom vegetation, and optional static aircraft.  Itâs available onÂ SimMarketÂ for roughly $15.25, requiring at least 37.31 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/t2goia</id>
-    <title>Taxi2Gate Updates Orlando International Airport for MSFS</title>
-    <updated>2023-07-07T00:00:00+00:00</updated>
-    <link href="/news/t2goia" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/647749b784a7d531f0620a1f_mco1-min.png" rel="enclosure" type="image/png" length="3708726"/>
-    <summary>Sim: MSFS. Taxi2Gate has recently released an update to their rendition of Orlando International Airport (KMCO) for Microsoft Flight Simulator, addressing the now non-existent requirement of having the photogrammetry disabled and more.  The new update adds full compatibility with photogrammetry, terminal C improvements, more details on the construction site, the removal of default Asobo buildings, the addition of the JetBlue University buildings and the B52 at the memorial park, auxiliary lines at airside four, the removal of trees around train rails, and other minor fixes.  From this update onwards, users can remove the default (hand-crafted) KMCO that was once required for some absent buildings.Â   The scenery is available onÂ SimMarketÂ for roughly $26.15, requiring at least 2.34 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jffrdc</id>
-    <title>JustFlight Fokker F28 Release Date Confirmed</title>
-    <updated>2023-07-07T00:00:00+00:00</updated>
-    <link href="/news/jffrdc" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64a842f6d5adcf02639dc058_347631094_654973770002877_7813962146158986907_n.jpg" rel="enclosure" type="image/jpeg" length="174872"/>
-    <summary>Sim: MSFS. After much anticipation, the wait is finally over. JustFlight, a leading developer in the industry, has officially announced that their highly awaited F28 Professional aircraft add-on for Microsoft Flight Simulator (MSFS) will be released next week for $69.99 / 52.49 GBP / 64.95 EUROS. Mark your calendars for Wednesday 12th july. In the days leading up to the release, JustFlight has promised a treat for the community. They will be showcasing the F28 Professional through a series of preview streams and in-house videos, giving us all a sneak peek into the aircraft's features and capabilities. Already, preview videos have started appearing on popular platforms like YouTube and Twitch, offering a glimpse of what's to come. Keep an eye out for more content in the coming days as well. Similar to the previously released 146 Professional, the F28 Professional is a complex and sophisticated aircraft from a bygone era. JustFlight's team has invested extensive time and effort into conducting in-depth research, coding, testing, and fine-tuning to ensure an exceptional and true-to-life simulation experience. They extend their gratitude to the community for their patience throughout the development process and assure users that the F28 Professional will be another vintage aircraft masterpiece, meticulously crafted in every department. To assist users in getting acquainted with the aircraft, JustFlight will provide comprehensive tutorials, a comprehensive manual, and a plethora of customization options. This will enable virtual pilots to fully immerse themselves in the F28 Professional's intricacies and explore its capabilities. The excitement is building as the release date approaches. All the necessary product details and manuals can be found on the dedicated F28 Professional product page. In the meantime, JustFlight has treated the community to a selection of screenshots. Feel free to take a peek at our previous article on the F28 for some more information ! â Threshold will keep you informed with future updates and the release !</summary>
-    <published>2023-07-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mfsytn</id>
     <title>MFSG Releases Townsville International Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64af022dd1db9c4f5979e124_f28-professional_5_ss_l_230703100258.jpeg" rel="enclosure" type="image/jpeg" length="808925"/>
     <summary>Sim: MSFS. Following the release of the highly popular BAE 146 Professional, Just Flight have released the next aircraft in their Professional Series of aircraft. The Fokker F28 is a 1960s-designed short-range airliner popular with European carriers of the time.Â  The Fokker F28 flew in 1967 and entered into service in 1969 with Braathens SAFE of Norway. The type was produced until 1987 among several models before being phased out in favor of the newer Fokker F70/F100 series. The 65 to 85-seat jet remained in service worldwide until as recently as 2019. The type also entered into military service with a handful of jets remaining in military service.Â  The Just Flight rendition of this aircraft covers several variants of the aircraft with the Mk. 1000 Mk. 2000, Mk. 3000, and Mk. 4000 all being covered. Just Flight used real plans from the aircraft and extensive study of a museum aircraft to ensure model accuracy. Just Flight has also utilized many newer features in MSFS to create an accurate addon.Â  Features of this new airplane include: Â And many more.Â  To purchase a copy of this aircraft please visit the Just Flight Store. Stay tuned to Threshold to stay up to date on all flight sim news.Â  â</summary>
     <published>2023-07-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/eaa2023</id>
+    <title>SimVenture 2023, fly EAA AirVenture Oshkosh from your home flight simulator! </title>
+    <updated>2023-07-13T00:00:00+00:00</updated>
+    <link href="/news/eaa2023" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b07099f6e7f65a27eec659_simventure-2023-oshkosh.jpg" rel="enclosure" type="image/jpeg" length="85272"/>
+    <summary>Sim: OTHER. Last year was a record-setting year with approximately 650,000 attendees, seven percent more than 2021âs attendance. With less than 10 days remaining, the show will be filled with exciting exhibits and events! Pilot Edge is hosting Sim Venture 2023, providing you the opportunity to utilize your preferred flight sim to experience the exhilaration of flying into EAA! Pilot Edge's Sim Venture will simulate flight procedures with virtual airspace controlled by Oshkosh experienced controllers immersing you in the hustle and bustle of the world's busiest airspace during the remaining seven days of July! This time of year, Wittman Regional Airport aka Oshkosh will be filled with tens of thousands of aircraft during the fly-in! EAA Air Venture hosts exhibits of a wide range of aircraft, from iconic WW2 warplanes to unique experimental ultralights, rotorcraft fighters, and commercial airliners. From air shows to flight experiences and learning events! If you're a vintage aviation enthusiast or a modern aviation lover, EAA AirVenture Oshkosh offers something for all aviation enthusiasts at this mega fly-in. Flying into the event is tricky; managing the influx of air traffic requires impeccable coordination and robust logistical support. Such procedures are crucial to ensuring smooth operations, akin to a finely tuned machine. These procedures are published for those wishing to fly into EAA. The flight into Oshkosh requires special nonstandard maneuvers and approaches to make specific landing zones aka spots. Your timing, precision, and coordination with the traffic flow are a must for a safe landing. Pilots must monitor ATC frequencies due to the high rate of instructions given to individual aircraft, requiring pilots to listen for their call signs and instructions, which is the utmost challenge. It takes incredible planning, patience, and airmanship to pull it off, and it is well worth it when mastered.  The EAA is also providing a $10 discount of the latest version of Microsoft Flights Simulator EAA members here! More info from the EAA Sim Venture subpage Useful links to get you started flying!  PilotEdgeâs SimVenture event Join Pilot Edge here  Pilotedgeâs Discord  Prizes! https://www.pilotedge.net/pages/simventure2023-prizes â And finally a great pilot Briefing video posted by The Flight Simulation Association!</summary>
+    <published>2023-07-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsfpen</id>
+    <title>FS Formosa Releases Penghu Airport for MSFS</title>
+    <updated>2023-07-14T00:00:00+00:00</updated>
+    <link href="/news/fsfpen" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b1a2b35bf98c52628b39d7_penghu1.jpg" rel="enclosure" type="image/jpeg" length="467067"/>
+    <summary>Sim: MSFS. FS Formosa Project has recently released their rendition of Penghu Airport (RCQC) for Microsoft Flight Simulator, the fifth busiest airport in Taiwan with a yearly average of 2.3 million passengers.  Built in 1957 as a military airport, Penghu got a proper passenger terminal only nine years later, mainly serving as an alternate airport to Kaohsiung Airport.Â   The airport was last upgraded in 2004, with a new - and larger - terminal building to deal with the increased demand for air travel in the region.Â   The authorities have been considering a new expansion project in the future, making the terminal larger and extending the runway to accommodate larger aircraft.Â  It's served by Daily Air, Mandarin Airlines, and Uni Air.  The scenery features an accurate rendition of the airport, with custom ground textures, PBR texture mapping, custom ground service equipment, custom night lighting, performance-friendly optimization, and custom landmarks in the city, including the Mudouyu Lighthouse, the Penghu Great Bridge, the Tongpanyu Geopark, and more.  Itâs available onÂ SimMarketÂ for roughly $20.02, requiring at least 1.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vpdyam</id>
+    <title>V Pilot Designs Releases Yampa Valley Airport for MSFS</title>
+    <updated>2023-07-14T00:00:00+00:00</updated>
+    <link href="/news/vpdyam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b1a91ee818e2f26371929d_yampa1.jpg" rel="enclosure" type="image/jpeg" length="775999"/>
+    <summary>Sim: MSFS. V Pilot Designs has recently released their rendition of Yampa Valley Airport (KHDN) for Microsoft Flight Simulator, serving Steamboat Springs, Hayden, and Craig, with a yearly average of 160,000 passengers. The airport was built on a 435-acre parcel of land in Hayden, Colorado, acquired by the Rott County Board of Commissioners in 1946. It opened to the public in 1950, with a single grass runway and basic facilities. It was then called Rott County Airport. The runway was paved 14 years later, in 1964, allowing more aircraft to fly into the airport. Then, in 1996, the airport underwent a major transformation by constructing a new, state-of-the-art terminal that made Yampa Valley more efficient and passenger-friendly. Itâs currently a gateway to the Yampa Valley Region and its world-renowned ski resorts, natural beauty, and parks. It recently underwent a two-stage expansion project, with an apron expansion adding a new parking position in 2018 and a terminal expansion in 2020 with a seventh gate to match the seven parking positions.  As a curiosity, the airport has no control tower, and pilots must coordinate their actions via CTAF or UNICOM. Itâs served on a seasonal basis by Alaska Airlines, American Airlines, Delta Air Lines, JetBlue, Southwest Airlines, United Airlines, and United Express. The scenery features an accurate rendition of the airport, with custom ground markings, custom textures, custom night lighting, and more. Itâs available on the MSFS Marketplace for $14.99.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aermjs</id>
+    <title>Aerosoft Publishes Statement on A330 Projectâs Future</title>
+    <updated>2023-07-14T00:00:00+00:00</updated>
+    <link href="/news/aermjs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b1b094f0a862ac3cc37043_a330-1.png" rel="enclosure" type="image/png" length="1880414"/>
+    <summary>Sim: MSFS. Mathijs Kokâs surprise resignation earlier this month after 20 years of Aerosoft raised many questions regarding the future of the A330 Project, formerly managed by him. Yesterday, Aerosoft made a public statement on their forum with answers.  They claim to have seamlessly staffed the project with a new head and complimentary team members (Mathijs wasnât the only one who left), and they announced aÂ new landing pageÂ for the project, releasing next Friday and featuring information, media, and development updates.Â   Thereâs still no information regarding a potential release date or pricing, but Threshold will keep you informed! â</summary>
+    <published>2023-07-14T00:00:00+00:00</published>
   </entry>
 </feed>
