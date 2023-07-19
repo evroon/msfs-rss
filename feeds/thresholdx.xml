@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-18T18:24:01.385059+00:00</updated>
+  <updated>2023-07-19T18:21:51.199560+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/swsp12</id>
-    <title>SimWorks Shares Exclusive Previews of Upcoming PC-12</title>
-    <updated>2023-07-11T00:00:00+00:00</updated>
-    <link href="/news/swsp12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64acf60bf7040bec03cf4cc7_Microsoft_Flight_Simulator_Screenshot_2023.07.08_-_16.01.15.18.png" rel="enclosure" type="image/png" length="3710215"/>
-    <summary>Sim: MSFS. Earlier this week, SimWorks shared a few exclusive previews of their upcoming PC-12 aircraft for Microsoft Flight Simulator, showcasing the planeâs detailed exterior modeling and texturing in various liveries and weather conditions. From the pictures provided by SimWorks, we can see that the PC-12âs exterior has been meticulously recreated. Everything from the propellers (4 blades and 5 blades options are available) to the landing gear and cabin door have been modeled and textured in great detail. As for the interior of the aircraft, the developer claimed that it is almost complete with the team putting on the final touches in the cockpit. In addition to the new images of the plane, the developers also shared a roadmap for the PC-12. The roadmap provides an overview of the various systems that are currently being worked on for the aircraft. We can see that SimWorks has already completed the engine stimulation and is around 50% done with the avionics system. Currently, SimWorks has not revealed the release date and pricing of the much anticipated PC-12. Threshold will keep you updated on this front. â</summary>
-    <published>2023-07-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ttrnnw</id>
     <title>Double T Releases Newport News/Williamsburg International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/rfspes" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b69deadd74108f59130ab7_pesc1.png" rel="enclosure" type="image/png" length="3164741"/>
     <summary>Sim: MSFS. Rfscenerybuilding has recently released their rendition of Abruzzo Airport (LIBP) for Microsoft Flight Simulator, serving the city of Pescara, Italy, with a yearly average of 700,000 passengers.  It was built in 1917 by the Regio Esercito (Royal Italian Army), initially with their fleet of two Farman 14s. A year later, it hosted the 302Â° Squadron and their Ansaldo SVA Biplanes, among the best fighter bombers of the time.  After World War I, it was renamed Pasquale Liberi after a local aviator. Then, in 1927 it was expanded to 50 hectares and modernized.  With the advent of commercial aviation in the 1930s, Abruzzo was served by SocietÃ  Area Mediterranea (SAM) with a tri-weekly service from Pescara to Rome Urbe Airport with a single stop.  World War 2 stopped commercial aviation in Pescara, which only resumed two years after the war with Transadriatica and their Douglas DC-3s. Avio Linee Italiane soon joined with a route between Milan to Brindisi, with stops in Pescara, Foggia, and Bari. â Most commercial operations were suspended in 1979 after a revision of the minimum landing requirements by the ANPAC, a national association of civil aviation pilots. Pescara did not have the required ILS instruments, which made airlines like Itavia shy away from operating at the airport.Â   Things only improved in the early 1980s, after the arrival of Aermediterranea, a little airline controlled by Alitalia, and eventually Aero Transporti Italiani in 1984, also controlled by Alitalia.Â   The current terminal was opened in 1996, and the old building was reutilized for logistical and technical support. That terminal underwent multiple improvements between 2008 and 2018, including its expansion, modernization, and renovation, costing 33 million euros.  Itâs currently served by ITA Airways (Milano Linate), Luxair (Luxembourg), Ryanair (Bergamo, BucharestâOtopeni, Catania, Charleroi, LondonâStansted, Turin), and Wizz Air (Tirana).  The scenery features an accurate rendition of the airport, with custom ground textures, custom ground service equipment, custom night lighting, realistic windows, an up-to-date ground layout, and more. Itâs available onÂ SimMarketÂ for roughly $16.28, requiring at least 72.82 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simper</id>
+    <title>SimulaciÃ³n Extrema Releases Presidente PerÃ³n International Airport for MSFS</title>
+    <updated>2023-07-18T00:00:00+00:00</updated>
+    <link href="/news/simper" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b6d9658d7f99ba614b6264_peron1.jpg" rel="enclosure" type="image/jpeg" length="2261705"/>
+    <summary>Sim: MSFS. SimulaciÃ³n Extrema has recently released their rendition of Presidente PerÃ³n International Airport (SAZN) for Microsoft Flight Simulator, serving the cities of NeuquÃ©n, Cipolletti, Plottier, Centenario, and General Roca, in Argentina, with a yearly average of 800,000 passengers.  The airport was built in 1936 as Aero Club NeuquÃ©n, with a single gravel runway. Its paving and modernization only happened in 1951, when Argentina planned to pioneer air transport in Latin America.Â   Eight years later, the surrounding terrain was expropriated so they could build an International Airport with a longer runway, a proper passenger terminal, and proper general infrastructure.  The airport was renovated in 2013 and expanded in 2019, with the construction of a domestic and international pre-boarding area, with 1500 square meters for the first one and 630 for the latter. They have also built a new security area, two commercial lots with 80 square meters each, bathrooms totaling up to 140 square meters, and 18 check-in gates.  AerolÃ­neas Argentinas, Flybondi, JetSmart Argentina, American Jet, LADE, and Latam Argentina currently serve it.  The scenery features an accurate rendition of the airport, with custom jetways, custom ground textures, 4K PBR textures, and more.  Itâs available onÂ SimMarketÂ for roughly $14.60, requiring at least 957.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-18T00:00:00+00:00</published>
   </entry>
 </feed>
