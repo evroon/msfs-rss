@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-20T18:22:44.982289+00:00</updated>
+  <updated>2023-07-21T18:22:42.984224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jf28r</id>
-    <title>Just Flight Releases the Fokker F28 Professional for MSFSâ</title>
-    <updated>2023-07-12T00:00:00+00:00</updated>
-    <link href="/news/jf28r" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64af022dd1db9c4f5979e124_f28-professional_5_ss_l_230703100258.jpeg" rel="enclosure" type="image/jpeg" length="808925"/>
-    <summary>Sim: MSFS. Following the release of the highly popular BAE 146 Professional, Just Flight have released the next aircraft in their Professional Series of aircraft. The Fokker F28 is a 1960s-designed short-range airliner popular with European carriers of the time.Â  The Fokker F28 flew in 1967 and entered into service in 1969 with Braathens SAFE of Norway. The type was produced until 1987 among several models before being phased out in favor of the newer Fokker F70/F100 series. The 65 to 85-seat jet remained in service worldwide until as recently as 2019. The type also entered into military service with a handful of jets remaining in military service.Â  The Just Flight rendition of this aircraft covers several variants of the aircraft with the Mk. 1000 Mk. 2000, Mk. 3000, and Mk. 4000 all being covered. Just Flight used real plans from the aircraft and extensive study of a museum aircraft to ensure model accuracy. Just Flight has also utilized many newer features in MSFS to create an accurate addon.Â  Features of this new airplane include: Â And many more.Â  To purchase a copy of this aircraft please visit the Just Flight Store. Stay tuned to Threshold to stay up to date on all flight sim news.Â  â</summary>
-    <published>2023-07-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/eaa2023</id>
-    <title>SimVenture 2023, fly EAA AirVenture Oshkosh from your home flight simulator! </title>
-    <updated>2023-07-13T00:00:00+00:00</updated>
-    <link href="/news/eaa2023" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b07099f6e7f65a27eec659_simventure-2023-oshkosh.jpg" rel="enclosure" type="image/jpeg" length="85272"/>
-    <summary>Sim: OTHER. Last year was a record-setting year with approximately 650,000 attendees, seven percent more than 2021âs attendance. With less than 10 days remaining, the show will be filled with exciting exhibits and events! Pilot Edge is hosting Sim Venture 2023, providing you the opportunity to utilize your preferred flight sim to experience the exhilaration of flying into EAA! Pilot Edge's Sim Venture will simulate flight procedures with virtual airspace controlled by Oshkosh experienced controllers immersing you in the hustle and bustle of the world's busiest airspace during the remaining seven days of July! This time of year, Wittman Regional Airport aka Oshkosh will be filled with tens of thousands of aircraft during the fly-in! EAA Air Venture hosts exhibits of a wide range of aircraft, from iconic WW2 warplanes to unique experimental ultralights, rotorcraft fighters, and commercial airliners. From air shows to flight experiences and learning events! If you're a vintage aviation enthusiast or a modern aviation lover, EAA AirVenture Oshkosh offers something for all aviation enthusiasts at this mega fly-in. Flying into the event is tricky; managing the influx of air traffic requires impeccable coordination and robust logistical support. Such procedures are crucial to ensuring smooth operations, akin to a finely tuned machine. These procedures are published for those wishing to fly into EAA. The flight into Oshkosh requires special nonstandard maneuvers and approaches to make specific landing zones aka spots. Your timing, precision, and coordination with the traffic flow are a must for a safe landing. Pilots must monitor ATC frequencies due to the high rate of instructions given to individual aircraft, requiring pilots to listen for their call signs and instructions, which is the utmost challenge. It takes incredible planning, patience, and airmanship to pull it off, and it is well worth it when mastered.  The EAA is also providing a $10 discount of the latest version of Microsoft Flights Simulator EAA members here! More info from the EAA Sim Venture subpage Useful links to get you started flying!  PilotEdgeâs SimVenture event Join Pilot Edge here  Pilotedgeâs Discord  Prizes! https://www.pilotedge.net/pages/simventure2023-prizes â And finally a great pilot Briefing video posted by The Flight Simulation Association!</summary>
-    <published>2023-07-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsfpen</id>
     <title>FS Formosa Releases Penghu Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b85a367e7bab97314d77b0_rivera1.jpg" rel="enclosure" type="image/jpeg" length="3248140"/>
     <summary>Sim: MSFS. SXAirportDesign has recently released their rendition of Antonio Rivera RodrÃ­guez Airport (TJVQ) for Microsoft Flight Simulator, serving the island of Vieques in Puerto Rico with a yearly average of 100,000 passengers.  It was built by the United States Navy in the mid-20th century as a small airstrip to support their military operations, only becoming a proper passenger airport after the army ceased training operations on the island in 2001.Â   It was renamed Antonio Rivera Rodriguez Airport in 2004 after a prominent Puerto Rican politician and former Mayor of Vieques.  Â There were plans to extend the runway in 2005 so smaller jets could fly into the airport, but it didnât work out. The current length (1,311 meters) only comports small regional aircraft.  Air Sunshine, Cape Air, M&amp;N Aviation, Silver Airways, and Vieques Air Link serve the airport.  The scenery features an accurate rendition of the airport, with an up-to-date ground layout, high-resolution aerial imagery, custom PBR ground polygons, custom night lighting, and custom 3D vegetation.  Itâs available onÂ SimMarketÂ for roughly $11.25, requiring at least 257.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdssdm</id>
+    <title>GearDown Simulations Releases 14-bis for MSFS</title>
+    <updated>2023-07-20T00:00:00+00:00</updated>
+    <link href="/news/gdssdm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b9aee76558999ded1a81ab_14bis.webp" rel="enclosure" type="image/webp" length="30986"/>
+    <summary>Sim: MSFS. GearDown Simulations, in partnership with RPSimulations and a popular aviation channel from Brazil (AviÃµes &amp; MÃºsicas), has recently released a 14-bis for Microsoft Flight Simulator, first flown in 1906 and known (although not worldwide) as the worldâs first airplane.  Inspired by Gabriel Voisinâs glider, Santos Dumontâs 14-bis was made of a Hargrave-cell and powered by a 50 horsepower fuel-injected V8 engine, making it able to fly for a few hundred meters at a time at an impressive (by the early 1900s standards) 40 km/h.  It won the second prize in November 1906 at the Chateau de Bagatelle after flying for 220 meters, earning Santos Dumont a monument at the place, which is still up to this day.  The add-on accurately simulates the aircraftâs performance and flight dynamics based on its original documents.Â   Itâs available on theÂ GearDown Simulations StoreÂ for roughly $2.51 (limited-time offer). Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asf330</id>
+    <title>Aerosoft Releases A330 Project's Website</title>
+    <updated>2023-07-21T00:00:00+00:00</updated>
+    <link href="/news/asf330" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bab87e06f5355d8ded615d_as1.jpg" rel="enclosure" type="image/jpeg" length="903327"/>
+    <summary>Sim: MSFS. Aerosoft released the A330 Project's website following their statement post Mathijs Kok's resignation a week ago. The new portal will update customers on the development progress, screenshots, upcoming features, and frequently asked questions.  Along with the brand new website, they have also published an update on the project's current status, covering their extensive effort in rebuilding the 3D model for Microsoft Flight Simulator and rewriting some of the systems.  Furthermore, they have mentioned it can now fly from A to B safely, with most systems working decently but with odd behavior still happening during testing because the flight management system and the autopilot were coded from scratch. Aerosoft has made a list with a few examples:   They are currently working on the soundscape, cockpit usability, and documentation.  There's yet to be any information on the release date or pricing, but Threshold will keep you informed!Â  â</summary>
+    <published>2023-07-21T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-07-20T18:22:43.020748+00:00</updated>
+  <updated>2023-07-21T18:22:41.694759+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-10-boeing-307-stratoliner/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 10: Boeing 307 Stratoliner</title>
-    <updated>2023-06-30T15:11:48+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-10-boeing-307-stratoliner/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_307Stratoliner_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="477353"/>
-    <summary>Experience the legendary Model 307 that set the standard for airliner technology, comfort, and class.</summary>
-    <published>2023-06-30T15:11:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-6th-2023-development-update/</id>
     <title>July 6th, 2023 Development Update</title>
@@ -54,12 +45,13 @@
     <published>2023-07-14T17:00:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/</id>
-    <title>FlightSimExpo Partner Series: Tobii</title>
-    <updated>2023-06-21T17:59:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-tobii/" rel="alternate"/>
-    <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing … Continued</summary>
-    <published>2023-06-21T17:59:53+00:00</published>
+    <id>https://www.flightsimulator.com/july-20th-2023-development-update/</id>
+    <title>July 20th, 2023 Development Update</title>
+    <updated>2023-07-20T23:27:26+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-20th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/mrjmt2625-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="28152"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user mrjmt2625. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! Earlier today, we released updates to two aircraft: Local Legend IX: Latécoère Model 631 and Famous Flyer VI: Ford AT-4 Trimotor. You can read the release notes for these plane updates here. Additionally, … Continued</summary>
+    <published>2023-07-20T23:27:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
@@ -74,8 +66,16 @@
     <title>FlightSimExpo 2023: A Reflection on Our First Expo</title>
     <updated>2023-06-29T17:59:49+00:00</updated>
     <link href="https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/353900089_803495858147809_1830717896298944858_n-e1688062658161-1024x566.jpg" rel="enclosure" type="image/jpeg" length="172069"/>
     <summary>Last Friday a group of more than 20 members of the Microsoft Flight Simulator team arrived at the Lone Star Museum to begin setup of our booth with both enthusiasm and a twinge of apprehension as we embarked on our first ever FlightSimExpo experience. Some of us shook hands for the first time, as our … Continued</summary>
     <published>2023-06-29T17:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
+    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
+    <updated>2023-07-20T22:52:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/Eagle4-1024x575.jpg" rel="enclosure" type="image/jpeg" length="131806"/>
+    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
+    <published>2023-07-20T22:52:18+00:00</published>
   </entry>
 </feed>
