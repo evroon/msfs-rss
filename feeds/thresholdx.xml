@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-22T18:20:21.368852+00:00</updated>
+  <updated>2023-07-23T18:20:05.865148+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsfpen</id>
-    <title>FS Formosa Releases Penghu Airport for MSFS</title>
-    <updated>2023-07-14T00:00:00+00:00</updated>
-    <link href="/news/fsfpen" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b1a2b35bf98c52628b39d7_penghu1.jpg" rel="enclosure" type="image/jpeg" length="467067"/>
-    <summary>Sim: MSFS. FS Formosa Project has recently released their rendition of Penghu Airport (RCQC) for Microsoft Flight Simulator, the fifth busiest airport in Taiwan with a yearly average of 2.3 million passengers.  Built in 1957 as a military airport, Penghu got a proper passenger terminal only nine years later, mainly serving as an alternate airport to Kaohsiung Airport.Â   The airport was last upgraded in 2004, with a new - and larger - terminal building to deal with the increased demand for air travel in the region.Â   The authorities have been considering a new expansion project in the future, making the terminal larger and extending the runway to accommodate larger aircraft.Â  It's served by Daily Air, Mandarin Airlines, and Uni Air.  The scenery features an accurate rendition of the airport, with custom ground textures, PBR texture mapping, custom ground service equipment, custom night lighting, performance-friendly optimization, and custom landmarks in the city, including the Mudouyu Lighthouse, the Penghu Great Bridge, the Tongpanyu Geopark, and more.  Itâs available onÂ SimMarketÂ for roughly $20.02, requiring at least 1.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vpdyam</id>
     <title>V Pilot Designs Releases Yampa Valley Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bab87e06f5355d8ded615d_as1.jpg" rel="enclosure" type="image/jpeg" length="903327"/>
     <summary>Sim: MSFS. Aerosoft released the A330 Project's website following their statement post Mathijs Kok's resignation a week ago. The new portal will update customers on the development progress, screenshots, upcoming features, and frequently asked questions.  Along with the brand new website, they have also published an update on the project's current status, covering their extensive effort in rebuilding the 3D model for Microsoft Flight Simulator and rewriting some of the systems.  Furthermore, they have mentioned it can now fly from A to B safely, with most systems working decently but with odd behavior still happening during testing because the flight management system and the autopilot were coded from scratch. Aerosoft has made a list with a few examples:   They are currently working on the soundscape, cockpit usability, and documentation.  There's yet to be any information on the release date or pricing, but Threshold will keep you informed!Â  â</summary>
     <published>2023-07-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyrgne</id>
+    <title>Pyreegue Dev Co. Releases East Midlands Airport for MSFS</title>
+    <updated>2023-07-22T00:00:00+00:00</updated>
+    <link href="/news/pyrgne" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bc65ad815d64a96071b3ae_ema1.webp" rel="enclosure" type="image/webp" length="222970"/>
+    <summary>Sim: MSFS. Pyreegue Dev Co. has recently released their rendition of East Midlands Airport for Microsoft Flight Simulator (EGNX), serving the entire East Midlands region with a yearly average of 3 million passengers.  The airport started as RAF Castle Donington in 1943, sporting three concrete runways and two hangars, and it hosted the 28 Operational Training Unit and the 108 Operational Training Unit during the short WW2 stint. It was closed and decommissioned three years later, in 1946.  Then, in 1964, a group of local government agencies bought the former airfield, investing heavily in transforming it into a commercial airport. It was then renamed East Midlands Airport and got ready for passenger traffic in early 1965.  The airport saw heavy upgrade work in the early 2000s when the traffic figures increased significantly. It included an extension of the passenger terminal, new car parks, and a new pier.  Itâs an important cargo hub for DHL and UPS, which collaborate significantly to its second position in cargo traffic in the UK.  Airline-wise, itâs mostly an LCC airport, with the likes of Jet2.com (Alicante, Antalya, Faro, Fuerteventura, Funchal, Gran Canaria, Lanzarote, MÃ¡laga, TenerifeâSouth), TUI (Alicante, Hurghada, Lanzarote, MÃ¡laga, Sharm El Sheikh, TenerifeâSouth), and Ryanair (Alicante, Barcelona, BelfastâInternational, Bergamo, Berlin, Budapest, Cork, Dublin, Faro, Fuerteventura, Gran Canaria, Knock, KrakÃ³w, Lanzarote, Limoges, MÃ¡laga, Malta, Riga, RomeâCiampino, RzeszÃ³w, TenerifeâSouth, WrocÅaw).  The scenery features an accurate rendition of the airport, with LiDAR elevation data, up-to-date satellite imagery, custom ground polygons with accurate weathering, an up-to-date airport layout, ATC/AI traffic integration, animated Skylink buses, dynamic gate doors (GSX is required), a custom GSX profile, a custom terminal interior, landside buildings, and more.  Itâs available onÂ ContrailÂ for roughly $22, requiring at least 3.56 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-22T00:00:00+00:00</published>
   </entry>
 </feed>
