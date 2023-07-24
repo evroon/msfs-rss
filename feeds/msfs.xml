@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-07-23T18:20:05.112919+00:00</updated>
+  <updated>2023-07-24T18:23:45.098108+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/july-6th-2023-development-update/</id>
-    <title>July 6th, 2023 Development Update</title>
-    <updated>2023-07-06T23:47:02+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-6th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/CpuGeta486-Twitter-1024x543.jpg" rel="enclosure" type="image/jpeg" length="22869"/>
-    <summary>We have a new Development Roadmap available! You can check it out below.</summary>
-    <published>2023-07-06T23:47:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/burning-blue-design-and-sierrasim-simulation-sale/</id>
     <title>Burning Blue Design and Sierrasim Simulation Sale</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/mrjmt2625-Forum-1024x576.jpg" rel="enclosure" type="image/jpeg" length="28152"/>
     <summary>This week’s Screenshot Challenge winner is Forum user mrjmt2625. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! Earlier today, we released updates to two aircraft: Local Legend IX: Latécoère Model 631 and Famous Flyer VI: Ford AT-4 Trimotor. You can read the release notes for these plane updates here. Additionally, … Continued</summary>
     <published>2023-07-20T23:27:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/bullseye-landing-challenge/</id>
+    <title>Red Bull ‘Bullseye Landing’ Challenge: Available Now in Microsoft Flight Simulator</title>
+    <updated>2023-07-24T15:35:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/bullseye-landing-challenge/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/RedBullChallenge_Graphic_1072x596-1024x569.jpg" rel="enclosure" type="image/jpeg" length="119873"/>
+    <summary>In March 2023, Red Bull aerobatic pilot Luke Czepiela successfully completed a one-of-a-kind demonstration of aviation mastery: landing a Carbon Cub on the helipad of Dubai’s Burj Al Arab Jumeriah hotel, 212 meters (689 feet) above the ground. In Bullseye Landing, a new landing challenge available now, sim pilots in Microsoft Flight Simulator can attempt … Continued</summary>
+    <published>2023-07-24T15:35:29+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
