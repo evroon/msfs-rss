@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-07-24T18:23:45.098108+00:00</updated>
+  <updated>2023-07-25T18:20:57.481194+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/burning-blue-design-and-sierrasim-simulation-sale/</id>
-    <title>Burning Blue Design and Sierrasim Simulation Sale</title>
-    <updated>2023-07-07T17:01:55+00:00</updated>
-    <link href="https://www.flightsimulator.com/burning-blue-design-and-sierrasim-simulation-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/BurningBlueSierrasSim-1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="110017"/>
-    <summary>39 Items On Sale Now in the Marketplace</summary>
-    <published>2023-07-07T17:01:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-13th-2023-development-update/</id>
-    <title>July 13th, 2023 Development Update</title>
-    <updated>2023-07-13T22:48:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-13th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/pommes_l-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="93641"/>
-    <summary>For those living in the Northern Hemisphere, we are now fully in the summer months. For many people, this is a time for vacations, relaxation, and spending time with family and friends.</summary>
-    <published>2023-07-13T22:48:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-summer-sale-2023/</id>
     <title>Summer Sale: 1450+ Items On Sale Now in the Marketplace</title>
@@ -52,6 +34,24 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/RedBullChallenge_Graphic_1072x596-1024x569.jpg" rel="enclosure" type="image/jpeg" length="119873"/>
     <summary>In March 2023, Red Bull aerobatic pilot Luke Czepiela successfully completed a one-of-a-kind demonstration of aviation mastery: landing a Carbon Cub on the helipad of Dubai’s Burj Al Arab Jumeriah hotel, 212 meters (689 feet) above the ground. In Bullseye Landing, a new landing challenge available now, sim pilots in Microsoft Flight Simulator can attempt … Continued</summary>
     <published>2023-07-24T15:35:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xiv-central-eastern-europe/</id>
+    <title>Microsoft Flight Simulator Releases World Update XIV: Central Eastern Europe</title>
+    <updated>2023-07-25T17:21:08+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xiv-central-eastern-europe/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/MSFS_WU14_EasternEurope_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="299755"/>
+    <summary>Microsoft Flight Simulator World Update XIV: Central Eastern Europe captures the majesty, charm and allure of Czechia, Slovakia, Hungary, Slovenia, Croatia, and Bosnia-Herzegovina. The region bristles with history, architectural wonders, and stunning scenery. The Central Eastern Europe countries beckon exploration from above with never-before-seen fidelity.  Microsoft Flight Simulator assembled fresh, full-coverage aerial imagery, digital elevation … Continued</summary>
+    <published>2023-07-25T17:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-unveils-local-legend-11-the-aero-vodochody-ae-45-and-ae-145/</id>
+    <title>Microsoft Flight Simulator Unveils Local Legend 11: The Aero Vodochody Ae-45 and Ae-145</title>
+    <updated>2023-07-25T17:21:21+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-unveils-local-legend-11-the-aero-vodochody-ae-45-and-ae-145/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/MSFS_AE45_145_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="294743"/>
+    <summary>Aero Vodochody of Czechoslovakia created one of the most distinctive airframes in aviation history in the late 1940s with the Ae-45, and now the prototype Ae-45 and the supercharged variant, the Ae-145, are coming to Microsoft Flight Simulator!The Aero Vodochody Ae-45 “Aero” FamilyThe unveiling of Local Legend 11 coincides with the release of Microsoft Flight … Continued</summary>
+    <published>2023-07-25T17:21:21+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>

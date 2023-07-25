@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-24T18:23:46.142238+00:00</updated>
+  <updated>2023-07-25T18:20:58.642942+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sqanad</id>
-    <title>Squawk Ident Releases Hang Nadim International Airport for MSFS</title>
-    <updated>2023-07-16T00:00:00+00:00</updated>
-    <link href="/news/sqanad" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b401c43cc89d698b9fa60a_nadim1.jpg" rel="enclosure" type="image/jpeg" length="1410690"/>
-    <summary>Sim: MSFS. Squawk Ident has recently released their rendition of Hang Nadim International Airport (WIDD), serving the city of Batam, Indonesia, with a yearly average of 6.5 million passengers.  Officially opened in 1965 as Batam Island International Airport, it was later renamed Hang Nadim International Airport after Laksamana Hang Nadim Pahlawan Kechik, a legendary warrior from the Batam region.Â   The airport was very important to the industrial growth of Batam, which was designated as a free trade zone in 1971. Its proximity to Singapore made it a gateway for foreign investments and trading.  A new passenger terminal was built in 2002, increasing its passenger handling capabilities and focusing heavily on attracting more international flights and promoting regional tourism.  Five years later, the airport underwent a major upgrade program, with the construction of a new runway, taxiways, aprons, and the extension of the passenger terminal. The new infrastructure attracted airlines from various countries, becoming a low-cost alternative to Singapore Changi.  It has the longest runway in Indonesia at 4,028 meters, making it the perfect diversion airport for Singapore Changi, easily accommodating Boeing 777s, 747s, Airbus A380s, etc.  Batik Air, Batik Air Malaysia, Citilink, Garuda Indonesia, Jeju Air, Lion Air, Nam Air, Saudia, Super Air Jet, Susi Air, and Wings Air serve it.  The scenery features an accurate rendition of the airport, with custom ground textures, cargo hangars, a basic terminal interior, an up-to-date ground layout, and more.  Itâs available onÂ SimMarketÂ for roughly $11.21, requiring at least 165.27 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/peddev</id>
     <title>PMDG Publishes MSFS Development Update </title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bdb3e173a9fad5ca6cb797_da1.jpg" rel="enclosure" type="image/jpeg" length="119963"/>
     <summary>Sim: X-Plane. SimSolutions has recently released their DA20-C1 Eclipse for X-Plane 12, a two-seat, single-engine airplane manufactured by Diamond.  The Eclipse is the âfancyâ variant of the DA20 Katana, a light aircraft introduced by Diamond in 1993, ideal for flight schools and private pilots on a budget. On the other hand, the fancy Eclipse only came to be in 1999, featuring rear windows, better visibility, and a complete set of equipment.  Itâs powered by a 125 hp Continental IO-240-B, cruising at up to 138 knots with a range of 629 nautical miles with a 30-minute reserve.  The add-on features an accurate rendition of the aircraft, with high-resolution textures, user-friendly systems, and more. The complete feature list follows down below:Â   Features Liveries  Itâs available on theÂ X-Plane.Org StoreÂ for $24.99, requiring at least 476 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lr1212</id>
+    <title>Laminar Research Updates X-Plane 12</title>
+    <updated>2023-07-25T00:00:00+00:00</updated>
+    <link href="/news/lr1212" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bfe8ede88eaaf5cf5ad8a4_Screenshot-2022-11-15-at-11.44.40.png" rel="enclosure" type="image/png" length="2193773"/>
+    <summary>Sim: X-Plane. Laminar Research has released an early public beta for X-Plane 12.06. Users can expect a long list of bug fixes including fixes for users experiencing CTD crashes when landing at non towered airports and fixes to the Vulkan graphics API. The update also comes with a short list of known bugs including abnormal cloud shapes while using real world weather; Laminar has stated they aim to fix this in version 12.06b2.Â  Some of the more noticable bug fixes in the new beta include: The new beta comes just 12 weeks after the last update which focused mainly on fixes for the Laminar Research A330.Â </summary>
+    <published>2023-07-25T00:00:00+00:00</published>
   </entry>
 </feed>
