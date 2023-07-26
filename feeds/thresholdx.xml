@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-25T18:20:58.642942+00:00</updated>
+  <updated>2023-07-26T18:21:24.978556+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/peddev</id>
-    <title>PMDG Publishes MSFS Development Update </title>
-    <updated>2023-07-16T00:00:00+00:00</updated>
-    <link href="/news/peddev" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b4279b4c1fbeea9727d61b_pmdg1-min.png" rel="enclosure" type="image/png" length="1880921"/>
-    <summary>Sim: MSFS. PMDG has recently published theÂ second development updateÂ of this month, with information on future 737 updates, console liveries, new marketplace arrivals, UFT, 777, and more.  Randazzo begins with information on the 737 Lineup updates for Microsoft Flight Simulator, which have been sent to the beta team, including changes to prepare the aircraft for the Universal Flight Tablet.Â   The Xbox liveries for the 737 are going through marketplace intake and should be made available soon. They are still exploring manners to minimize user costs for liveries.  They have also begun pushing the 737-600 and 737-900 to the Marketplace along with their liveries, with their prediction pointing to an end of July release.  The Universal Flight Tablet is being moved into its final leg of testing. It has been tested on a single airframe so far (the 737-700) to minimize developmental hassles. No previews are available yet.  The 777 has progressed significantly since FSExpo, with PMDG looking into previewing it soon.Â   They finish with a quick note on the DC-6, which should be getting an update in August.  Their product lineup for MSFS is available on theirÂ websiteÂ and in the Marketplace, although only partially. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2acom</id>
-    <title>A2A Simulations Releases Accu-Sim Comanche for MSFS</title>
-    <updated>2023-07-18T00:00:00+00:00</updated>
-    <link href="/news/a2acom" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b6746774c1b65fbb19f3d3_comanche1.jpg" rel="enclosure" type="image/jpeg" length="240459"/>
-    <summary>Sim: MSFS. A2A Simulations has recently released their first airplane for Microsoft Flight Simulator: the Accu-Sim Comanche, based on a real Piper Comanche 250 they have owned and operated for a decade. The first of the Comanches, the PA-24, had its prototype built in 1956, sporting a semi-monocoque construction with retractable landing gear and powered by a 180 hp Lycoming engine. Production started a year later and continued until 1972, ended by a flood that compromised the entire production line beyond recovery. The Comanche 250, the one A2A simulates, came two years after the 180hp variant, with a 250 hp engine (hence the 250). Early models had manually operated flaps and up to 230L of fuel. At the same time, future units (post-1961) could carry up to 340L total on auxiliary tanks, and electrically actuated flaps were made standard in 1962.  A2Aâs rendition is their first AccuSim 2.0 product, which is a culmination of years of experience with aircraft simulation, featuring a brand new aerodynamics system that accurately models how an airplane flies through the air. The aircraft features the aforementioned aerodynamics system, accurate engine performance based on their own Comanche 250, realistic handling characteristics and trim behavior, a physics-based per-cylinder simulation of the engine, dynamic ground physics, an advanced turbulence system, airframe vibration physics, authentic fuel simulation, a custom oil system with dynamic viscosity, advanced engine starter simulation, a physics-driven sound environment, a detailed JPI EDM 830 engine monitor, custom-coded Narco avionics, further integration options for third-party GPSs, and much more. The complete feature list follows down below: Itâs available at the A2A Simulations Store for $49.99.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rfspes</id>
     <title>Rfscenerybuilding Releases Abruzzo Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bfe8ede88eaaf5cf5ad8a4_Screenshot-2022-11-15-at-11.44.40.png" rel="enclosure" type="image/png" length="2193773"/>
     <summary>Sim: X-Plane. Laminar Research has released an early public beta for X-Plane 12.06. Users can expect a long list of bug fixes including fixes for users experiencing CTD crashes when landing at non towered airports and fixes to the Vulkan graphics API. The update also comes with a short list of known bugs including abnormal cloud shapes while using real world weather; Laminar has stated they aim to fix this in version 12.06b2.Â  Some of the more noticable bug fixes in the new beta include: The new beta comes just 12 weeks after the last update which focused mainly on fixes for the Laminar Research A330.Â </summary>
     <published>2023-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mrwcee</id>
+    <title>Microsoft Releases World Update XIV: Central Eastern Europe</title>
+    <updated>2023-07-25T00:00:00+00:00</updated>
+    <link href="/news/mrwcee" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c024d24c470ee4cb573993_cee1.png" rel="enclosure" type="image/png" length="1065093"/>
+    <summary>Sim: MSFS. Microsoft has recently released the fourteenth world update for Microsoft Flight Simulator, improving Czechia, Slovakia, Hungary, Slovenia, Croatia, and Bosnia-Herzegovina with fresh satellite imagery, better DEM data, and six hand-crafted airports developed in partnership with Gaya Simulations.  With 103 points of interest across the six countries (18 in Czechia, 15 in Slovakia, 19 in Hungary, 15 in Slovenia, 23 in Croatia, and 13 in Bosnia-Herzegovina), including castles, towers, churches, and other landmarks, it greatly improves the eastern european experience in the simulator.  They have also included six hand-crafted airports, one for each country:   Microsoft Maps &amp; Local, in collaboration with Vexcel, created ten cities throughout the region: Prague, Brno, and PlzeÅ in Czechia; Budapest in Hungary; Ljubljana and Maribor in Slovenia; Split and Dubrovnik in Croatia; and Sarajevo and Banja Luka in Bosnia-Herzegovina.Â   It also features three discovery flights, three landing challenges, and four bush trips.Â   The update is available right now in the MSFS Marketplace. Stay tuned to Threshold for more flight simulation news!  â</summary>
+    <published>2023-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbhar</id>
+    <title>Orbx Announces S43 Harvey Field &amp; W16 Monroe First Air Field for MSFS</title>
+    <updated>2023-07-26T00:00:00+00:00</updated>
+    <link href="/news/orbhar" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c0b6d2fdb4085340f9ecea_harvey1.jpg" rel="enclosure" type="image/jpeg" length="662865"/>
+    <summary>Sim: MSFS. Orbx hasÂ recently announcedÂ the development of two general aviation airfields, minutes apart from each other: S43 Harvey Field &amp; W16 Monroe First Air Field, both in Washington, United States.  Harvey Airfield is a privately-owned public-use airport in Sonomish (WA), categorized on the FAA's National Plan of Integrated Airport Systems as a regional reliever facility. It was established in 1944 by the Harvey Family, getting a restaurant, an administration building, and a maintenance shop in 1947.Â   It is mainly used for flight training in general aviation airplanes and helicopters but also offers fuel and aircraft maintenance.  Monroe First Air Field is a public-use airport owned by the Washington State Department of Transportation. It opened in 1930 as a private airfield for Monroe Aircraft Corporation and was utilized in the following decade as a training base for the US Army.Â   The post-war saw the airfield become a general aviation facility, which continues to this day, even after its acquisition by the Washington State Department of Transportation in 1980.  Despite being small, it's considered a very important part of the state's history for its many purposes over its nearly 100 years of existence. The scenery will feature an accurate rendition of both airfields, with custom dynamic lighting, full PBR 4K texturing, photo-realistic textures created with on-site photography, and more. â There is no release date or pricing information. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-26T00:00:00+00:00</published>
   </entry>
 </feed>
