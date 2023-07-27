@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-26T18:21:24.978556+00:00</updated>
+  <updated>2023-07-27T18:21:19.067734+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rfspes</id>
-    <title>Rfscenerybuilding Releases Abruzzo Airport for MSFS</title>
-    <updated>2023-07-18T00:00:00+00:00</updated>
-    <link href="/news/rfspes" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b69deadd74108f59130ab7_pesc1.png" rel="enclosure" type="image/png" length="3164741"/>
-    <summary>Sim: MSFS. Rfscenerybuilding has recently released their rendition of Abruzzo Airport (LIBP) for Microsoft Flight Simulator, serving the city of Pescara, Italy, with a yearly average of 700,000 passengers.  It was built in 1917 by the Regio Esercito (Royal Italian Army), initially with their fleet of two Farman 14s. A year later, it hosted the 302Â° Squadron and their Ansaldo SVA Biplanes, among the best fighter bombers of the time.  After World War I, it was renamed Pasquale Liberi after a local aviator. Then, in 1927 it was expanded to 50 hectares and modernized.  With the advent of commercial aviation in the 1930s, Abruzzo was served by SocietÃ  Area Mediterranea (SAM) with a tri-weekly service from Pescara to Rome Urbe Airport with a single stop.  World War 2 stopped commercial aviation in Pescara, which only resumed two years after the war with Transadriatica and their Douglas DC-3s. Avio Linee Italiane soon joined with a route between Milan to Brindisi, with stops in Pescara, Foggia, and Bari. â Most commercial operations were suspended in 1979 after a revision of the minimum landing requirements by the ANPAC, a national association of civil aviation pilots. Pescara did not have the required ILS instruments, which made airlines like Itavia shy away from operating at the airport.Â   Things only improved in the early 1980s, after the arrival of Aermediterranea, a little airline controlled by Alitalia, and eventually Aero Transporti Italiani in 1984, also controlled by Alitalia.Â   The current terminal was opened in 1996, and the old building was reutilized for logistical and technical support. That terminal underwent multiple improvements between 2008 and 2018, including its expansion, modernization, and renovation, costing 33 million euros.  Itâs currently served by ITA Airways (Milano Linate), Luxair (Luxembourg), Ryanair (Bergamo, BucharestâOtopeni, Catania, Charleroi, LondonâStansted, Turin), and Wizz Air (Tirana).  The scenery features an accurate rendition of the airport, with custom ground textures, custom ground service equipment, custom night lighting, realistic windows, an up-to-date ground layout, and more. Itâs available onÂ SimMarketÂ for roughly $16.28, requiring at least 72.82 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/simper</id>
     <title>SimulaciÃ³n Extrema Releases Presidente PerÃ³n International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/orbhar" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c0b6d2fdb4085340f9ecea_harvey1.jpg" rel="enclosure" type="image/jpeg" length="662865"/>
     <summary>Sim: MSFS. Orbx hasÂ recently announcedÂ the development of two general aviation airfields, minutes apart from each other: S43 Harvey Field &amp; W16 Monroe First Air Field, both in Washington, United States.  Harvey Airfield is a privately-owned public-use airport in Sonomish (WA), categorized on the FAA's National Plan of Integrated Airport Systems as a regional reliever facility. It was established in 1944 by the Harvey Family, getting a restaurant, an administration building, and a maintenance shop in 1947.Â   It is mainly used for flight training in general aviation airplanes and helicopters but also offers fuel and aircraft maintenance.  Monroe First Air Field is a public-use airport owned by the Washington State Department of Transportation. It opened in 1930 as a private airfield for Monroe Aircraft Corporation and was utilized in the following decade as a training base for the US Army.Â   The post-war saw the airfield become a general aviation facility, which continues to this day, even after its acquisition by the Washington State Department of Transportation in 1980.  Despite being small, it's considered a very important part of the state's history for its many purposes over its nearly 100 years of existence. The scenery will feature an accurate rendition of both airfields, with custom dynamic lighting, full PBR 4K texturing, photo-realistic textures created with on-site photography, and more. â There is no release date or pricing information. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyremm</id>
+    <title>Pyreegue Dev Co. Updates East Midlands Airport for MSFS</title>
+    <updated>2023-07-26T00:00:00+00:00</updated>
+    <link href="/news/pyremm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c1ab29dec58e0f24f6b460_mid1.jpg" rel="enclosure" type="image/jpeg" length="79127"/>
+    <summary>Sim: MSFS. Pyreegue Dev Co. has recently released an update to their newly released rendition of East Midlands Airport (EGNX) with quality-of-life fixes and improvements.  The developer also claims itâs ready for submission to Microsoft for the marketplace intake on PC and Xbox. â  The list of changes includes the addition of Bus stops down the DHL road, reflection issues, snow coverage improvements, addressing of a terrain bump, and more. The complete changelog follows down below:  - Catering truck going through fence near baggage bay 1 - Taxiway M terrain bump - GT3 missing rear quarter window - Barrier reflections (Texaco Fuel Depot) - Bitumen Reflections (Old ATC Tower Wall) - Light Day/Night Cycles (PAX Terminal) - AI Not taking off Runway 09 - Skylink Bus does not have lights for LOD02 - Static 767 Nose Cone Shading issue - Snow Coverage issues - GSE Clutter at Stand 42 clipping through GSX stairs - Stand 12R spawn heading - Windsocks showing opposite wind - SEGRO Park Sign missing logos - Some PAX had snow on their heads Improvements: - Added missing Bus Stops down the DHL Road - Added parked vehicles to Diseworth Rd east of Aeropark - Terraforming improvements and adjustments   The product is available onÂ ContrailÂ for roughly $22, requiring at least 3.6 GB of free hard disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-26T00:00:00+00:00</published>
   </entry>
 </feed>
