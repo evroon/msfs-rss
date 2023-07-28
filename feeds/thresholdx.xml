@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-27T18:21:19.067734+00:00</updated>
+  <updated>2023-07-28T18:19:59.475111+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simper</id>
-    <title>SimulaciÃ³n Extrema Releases Presidente PerÃ³n International Airport for MSFS</title>
-    <updated>2023-07-18T00:00:00+00:00</updated>
-    <link href="/news/simper" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b6d9658d7f99ba614b6264_peron1.jpg" rel="enclosure" type="image/jpeg" length="2261705"/>
-    <summary>Sim: MSFS. SimulaciÃ³n Extrema has recently released their rendition of Presidente PerÃ³n International Airport (SAZN) for Microsoft Flight Simulator, serving the cities of NeuquÃ©n, Cipolletti, Plottier, Centenario, and General Roca, in Argentina, with a yearly average of 800,000 passengers.  The airport was built in 1936 as Aero Club NeuquÃ©n, with a single gravel runway. Its paving and modernization only happened in 1951, when Argentina planned to pioneer air transport in Latin America.Â   Eight years later, the surrounding terrain was expropriated so they could build an International Airport with a longer runway, a proper passenger terminal, and proper general infrastructure.  The airport was renovated in 2013 and expanded in 2019, with the construction of a domestic and international pre-boarding area, with 1500 square meters for the first one and 630 for the latter. They have also built a new security area, two commercial lots with 80 square meters each, bathrooms totaling up to 140 square meters, and 18 check-in gates.  AerolÃ­neas Argentinas, Flybondi, JetSmart Argentina, American Jet, LADE, and Latam Argentina currently serve it.  The scenery features an accurate rendition of the airport, with custom jetways, custom ground textures, 4K PBR textures, and more.  Itâs available onÂ SimMarketÂ for roughly $14.60, requiring at least 957.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/gds14b</id>
-    <title>GearDown Simulations Announces 14-bis for MSFS</title>
-    <updated>2023-07-19T00:00:00+00:00</updated>
-    <link href="/news/gds14b" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b83fb291aa874b929a8135_14bis2.jpg" rel="enclosure" type="image/jpeg" length="171603"/>
-    <summary>Sim: MSFS. GearDown Simulations, in partnership with RPSimulations and a popular aviation channel from Brazil (AviÃµes &amp; MÃºsicas), has recently announced the development of a 14-bis for Microsoft Flight Simulator, first flown in 1906 and known (although not worldwide) as the worldâs first airplane.  Inspired by Gabriel Voisinâs glider, Santos Dumontâs 14-bis was made of a Hargrave-cell and powered by a 50 horsepower fuel-injected V8 engine, making it able to fly for a few hundred meters at a time at an impressive (by the early 1900s standards) 40 km/h. It won the second prize in November 1096 at the Chateau de Bagatelle after flying for 220 meters, earning Santos Dumont a monument at the place, which is still up to this day. Thereâs no information about features, pricing, or a release date, but Threshold will keep you informed! â</summary>
-    <published>2023-07-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/shapen</id>
     <title>SHADESCENE Releases Penang International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c1ab29dec58e0f24f6b460_mid1.jpg" rel="enclosure" type="image/jpeg" length="79127"/>
     <summary>Sim: MSFS. Pyreegue Dev Co. has recently released an update to their newly released rendition of East Midlands Airport (EGNX) with quality-of-life fixes and improvements.  The developer also claims itâs ready for submission to Microsoft for the marketplace intake on PC and Xbox. â  The list of changes includes the addition of Bus stops down the DHL road, reflection issues, snow coverage improvements, addressing of a terrain bump, and more. The complete changelog follows down below:  - Catering truck going through fence near baggage bay 1 - Taxiway M terrain bump - GT3 missing rear quarter window - Barrier reflections (Texaco Fuel Depot) - Bitumen Reflections (Old ATC Tower Wall) - Light Day/Night Cycles (PAX Terminal) - AI Not taking off Runway 09 - Skylink Bus does not have lights for LOD02 - Static 767 Nose Cone Shading issue - Snow Coverage issues - GSE Clutter at Stand 42 clipping through GSX stairs - Stand 12R spawn heading - Windsocks showing opposite wind - SEGRO Park Sign missing logos - Some PAX had snow on their heads Improvements: - Added missing Bus Stops down the DHL Road - Added parked vehicles to Diseworth Rd east of Aeropark - Terraforming improvements and adjustments   The product is available onÂ ContrailÂ for roughly $22, requiring at least 3.6 GB of free hard disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbswm</id>
+    <title>Orbx Releases S43 Harvey Field and W16 Monroe Firstair for MSFS</title>
+    <updated>2023-07-28T00:00:00+00:00</updated>
+    <link href="/news/orbswm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c0b70082ebe960cd8307f1_harvey8.jpg" rel="enclosure" type="image/jpeg" length="484819"/>
+    <summary>Sim: MSFS. Orbx has recently launched their rendition of Harvey Field (S43) and Monroe Firstair (W16) for Microsoft Flight Simulator, both in Washington (United States) and only minutes apart from each other.Â   Harvey AirfieldÂ is a privately-owned public-use airport in Sonomish (WA), categorized on the FAA's National Plan of Integrated Airport Systems as a regional reliever facility. It was established in 1944 by the Harvey Family, getting a restaurant, an administration building, and a maintenance shop in 1947.Â   It is mainly used for flight training in general aviation airplanes and helicopters but also offers fuel and aircraft maintenance.  Monroe First Air FieldÂ is a public-use airport owned by the Washington State Department of Transportation. It opened in 1930 as a private airfield for Monroe Aircraft Corporation and was utilized in the following decade as a training base for the US Army.Â   The post-war saw the airfield become a general aviation facility, which continues to this day, even after its acquisition by the Washington State Department of Transportation in 1980.  Despite being small, it's considered a very important part of the state's history for its many purposes over its nearly 100 years of existence.  The scenery features a reedition of two classics for FSX and Prepar3d, with meticulously crafted buildings based on on-site photography, 4K PBR textures, custom dynamic lighting, and more.  It's available onÂ OrbxDirectÂ for roughly $16.48, requiring at least 4.62 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2auco</id>
+    <title>A2A Simulations Updates Accu-Sim Comanche for MSFS</title>
+    <updated>2023-07-28T00:00:00+00:00</updated>
+    <link href="/news/a2auco" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c3fb66ce14663b7ea9d15b_a2a-5.jpg" rel="enclosure" type="image/jpeg" length="565164"/>
+    <summary>Sim: MSFS. A2A Simulations has recently released the first update for their newly released Accu-Sim Comanche, bringing a series of fixes and improvements. Update 1.1 restores missing engine cooldown sounds, fixes the issue with the B78XH add-on making the tablet not work correctly (unclickable), adds a series of flight model adjustments, and more. The complete changelog follows down below:  The official update announcement can be foundÂ here, along with the changelog.  Itâs available for $49.99 on theÂ A2A Simulations Store. â</summary>
+    <published>2023-07-28T00:00:00+00:00</published>
   </entry>
 </feed>
