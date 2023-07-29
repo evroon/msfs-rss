@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-28T18:19:59.475111+00:00</updated>
+  <updated>2023-07-29T18:19:26.157307+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/shapen</id>
-    <title>SHADESCENE Releases Penang International Airport for MSFS</title>
-    <updated>2023-07-19T00:00:00+00:00</updated>
-    <link href="/news/shapen" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b84b81f8dd6ff40ba6521f_pen1.png" rel="enclosure" type="image/png" length="1145312"/>
-    <summary>Sim: MSFS. SHADESCENE has recently released their rendition of Penang International Airport (WMKP) for Microsoft Flight Simulator, the third busiest airport in Malaysia with a yearly average of 7.23 million passengers.  The airport was built in 1935 as Bayan Lepas International Airport when Penang was still a British colony.  It was heavily expanded in the 1970s, with a new terminal and a longer runway to accommodate the Boeing 747.Â   The administration has recently announced a 4-phase expansion plan, which started in 2020 and should reach completion by 2024, doubling its passenger handling capabilities.  Itâs currently served by AirAsia, Batik Air, Batik Air Malaysia, Cathay Pacific, China Airlines, China Southern Airlines, Citilink, Firefly, Firefly, Indonesia AirAsia, Jetstar Asia, Lion Air, Malaysia Airlines, MYAirline, Scoot, Singapore Airlines, Starlux Airlines, Thai AirAsia, and Thai Smile.  The scenery features an accurate rendition of the airport, with a custom-modeled terminal, custom terraforming, custom jetways, high-resolution textures, custom objects, a terminal interior, custom night lighting, custom ground markings, and more.  Itâs available onÂ SimMarketÂ for roughly $13.49, requiring at least 370.23 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mfspen</id>
     <title>MFSG Releases Penang International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/a2auco" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c3fb66ce14663b7ea9d15b_a2a-5.jpg" rel="enclosure" type="image/jpeg" length="565164"/>
     <summary>Sim: MSFS. A2A Simulations has recently released the first update for their newly released Accu-Sim Comanche, bringing a series of fixes and improvements. Update 1.1 restores missing engine cooldown sounds, fixes the issue with the B78XH add-on making the tablet not work correctly (unclickable), adds a series of flight model adjustments, and more. The complete changelog follows down below:  The official update announcement can be foundÂ here, along with the changelog.  Itâs available for $49.99 on theÂ A2A Simulations Store. â</summary>
+    <published>2023-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdpduf</id>
+    <title>Grinelli Designs Publishes Development Update on F-100D Super Sabre Module for DCS</title>
+    <updated>2023-07-28T00:00:00+00:00</updated>
+    <link href="/news/gdpduf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c406be2159fa97ea3baa2c_sabre1.jpg" rel="enclosure" type="image/jpeg" length="177855"/>
+    <summary>Sim: DCS. Grinelli Designs has recently published a new development update on their upcoming F-100D Super Sabre Module for DCS concerning its current 3D modeling progress, sound design, and future development plans.Â   They have used advanced 3D scanning techniques and photogrammetry to obtain precise measurements, shapes, and textures of the exterior and cockpit, which were then sent to their modeling team to be used as a reference for their work.  Grinelli Designs has also recorded many cockpit sounds to enhance the productâs audio experience.  The current development progress is said to be steadily moving forward, with the airplane in a flyable state and with many advancements in the flight model, engine, fuel, and hydraulic systems, while also actively testing and refining the core systems of the aircraft.  Even though the addition of the 3D scans has improved the accuracy and fidelity of their upcoming product, they claim thereâs more work to be done: continuous refinement of the exterior and interior, flight model tweaks, the implementation of a weapon system, and adding more liveries and customization options. They also claim they have been collaborating with real-world F-100D pilots and experts and actively listening to their insights and knowledge.  They finish the development update with a link to theirÂ progress tracker, where people can see how far they have come with the development so far. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-28T00:00:00+00:00</published>
   </entry>
 </feed>
