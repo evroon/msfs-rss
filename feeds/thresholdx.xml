@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-07-31T18:21:43.872002+00:00</updated>
+  <updated>2023-08-01T18:21:23.280870+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pyrgne</id>
-    <title>Pyreegue Dev Co. Releases East Midlands Airport for MSFS</title>
-    <updated>2023-07-22T00:00:00+00:00</updated>
-    <link href="/news/pyrgne" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bc65ad815d64a96071b3ae_ema1.webp" rel="enclosure" type="image/webp" length="222970"/>
-    <summary>Sim: MSFS. Pyreegue Dev Co. has recently released their rendition of East Midlands Airport for Microsoft Flight Simulator (EGNX), serving the entire East Midlands region with a yearly average of 3 million passengers.  The airport started as RAF Castle Donington in 1943, sporting three concrete runways and two hangars, and it hosted the 28 Operational Training Unit and the 108 Operational Training Unit during the short WW2 stint. It was closed and decommissioned three years later, in 1946.  Then, in 1964, a group of local government agencies bought the former airfield, investing heavily in transforming it into a commercial airport. It was then renamed East Midlands Airport and got ready for passenger traffic in early 1965.  The airport saw heavy upgrade work in the early 2000s when the traffic figures increased significantly. It included an extension of the passenger terminal, new car parks, and a new pier.  Itâs an important cargo hub for DHL and UPS, which collaborate significantly to its second position in cargo traffic in the UK.  Airline-wise, itâs mostly an LCC airport, with the likes of Jet2.com (Alicante, Antalya, Faro, Fuerteventura, Funchal, Gran Canaria, Lanzarote, MÃ¡laga, TenerifeâSouth), TUI (Alicante, Hurghada, Lanzarote, MÃ¡laga, Sharm El Sheikh, TenerifeâSouth), and Ryanair (Alicante, Barcelona, BelfastâInternational, Bergamo, Berlin, Budapest, Cork, Dublin, Faro, Fuerteventura, Gran Canaria, Knock, KrakÃ³w, Lanzarote, Limoges, MÃ¡laga, Malta, Riga, RomeâCiampino, RzeszÃ³w, TenerifeâSouth, WrocÅaw).  The scenery features an accurate rendition of the airport, with LiDAR elevation data, up-to-date satellite imagery, custom ground polygons with accurate weathering, an up-to-date airport layout, ATC/AI traffic integration, animated Skylink buses, dynamic gate doors (GSX is required), a custom GSX profile, a custom terminal interior, landside buildings, and more.  Itâs available onÂ ContrailÂ for roughly $22, requiring at least 3.56 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/samjej</id>
-    <title>SamScene Releases Jeju International Airport for MSFS</title>
-    <updated>2023-07-23T00:00:00+00:00</updated>
-    <link href="/news/samjej" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bda78afb12cff56096a3b8_jeju1.jpg" rel="enclosure" type="image/jpeg" length="1423378"/>
-    <summary>Sim: MSFS. SamScene has recently released their rendition of Jeju International Airport (RKPC) for Microsoft Flight Simulator, the second busiest airport in South Korea with a yearly average of 31 million passengers.  The airport was built as a military airfield in 1946 and only converted to civilian use in 1963. The first international flight to Osaka, Japan, only happened a year later.  In the early 90s, due to the constantly rising passenger volume, the government decided to build a much larger terminal, reaching completion in 1997. It has been one of the busiest airports in the country ever since.  Jeju International Airport is a major hub for Korean Air and Asiana Airlines, and it also serves many other airlines, including Air China, China Eastern Airlines, China Southern Airlines, Delta Air Lines, EVA Air, Japan Airlines, Singapore Airlines, and Thai Airways.  The airport is currently operating at its capacity, so they are constructing a new one near the city of Seogwipo, expected to reach completion by 2025.  The scenery features an accurate rendition of the airport, with a detailed terminal interior, custom night lighting, a detailed city center, iconic points of interest, custom ground markings, custom jetways, and more.  Itâs available onÂ SimMarketÂ for roughly $14.45, requiring at least 1.33 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/winyop</id>
-    <title>WingSim Releases El AlcaravÃ¡n Airport for MSFS</title>
-    <updated>2023-07-23T00:00:00+00:00</updated>
-    <link href="/news/winyop" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bdabb6299243be7de1f2c8_yop1.png" rel="enclosure" type="image/png" length="1077617"/>
-    <summary>Sim: MSFS. WingSim has recently released their rendition of El AlcaravÃ¡n Airport (SKYP) for Microsoft Flight Simulator, serving the city of Yopal, Colombia.  It was built in the 1960s to serve the oil industry in the state, with Aerotaxi Casanare S/A handling most of the passenger traffic.Â   In the late 90s, petrol companies worldwide gathered together to improve the airportâs conditions so it could accommodate larger aircraft. The president landed with a Boeing 707 to inaugurate the improvements in late 1996.  Ten years later, the Camera de Comercio de Casanare (their Chamber of Commerce) asked the Ministry of Transport to make it an international airport, which was only granted many years later. Despite being classified as an international airport and having an immigration facility, it has no international flights.  Itâs currently served by Avianca, EasyFly, Latam Colombia, and Satena, with flights to BogotÃ¡ and Bucaramanga.  The scenery features an accurate rendition of the airport, with custom ground textures, custom night lighting, a terminal interior, hangars, and more.  Itâs available onÂ SimMarketÂ for roughly $13.35, requiring at least 2.59 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mskmum</id>
-    <title>MSK Productions Releases Mumbai Airport for MSFS</title>
-    <updated>2023-07-23T00:00:00+00:00</updated>
-    <link href="/news/mskmum" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bdb07af02f056f360a427e_mumbai1.jpg" rel="enclosure" type="image/jpeg" length="2248887"/>
-    <summary>Sim: MSFS. MSK Productions has recently released their rendition of Chhatrapati Shivaji Maharaj International Airport (VABB) for Microsoft Flight Simulator, serving the Mumbai Metropolitan Region with a yearly average of 43 million passengers.  The airport started as a Royal Air Force airfield in the 1930s, housing multiple RAF squadrons during WW2, and was eventually handed over to the government to be converted into a civilian airport once the conflict had ceased.  The first expansion started in the 50s, with further work planned in the 60s but only executed in the late 70s, causing a lot of drama back then. Time magazine said the terminal was a âblack holeâ of sorts, and then a terminal building fire killed three passengers in 1979. It was overcrowded and unsafe.  The new terminal reached completion in 1980, costing 110 million rupees and temporarily solving the overcrowding. It was then modernized in the early 2000s, bringing it up to international standards.  It is currently the second busiest airport in India, after Indira Gandhi International Airport in New Delhi. Several airlines serve it, including Air India, IndiGo, Jet Airways, and SpiceJet.  The scenery features an accurate rendition of the airport, with PBR textures, custom buildings, dynamic lighting, animated jetways, terminal 1 and 2 interiors, custom terraforming, and more.  Itâs available onÂ SimMarketÂ for roughly $22.23, requiring at least 380.25 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/simda2</id>
-    <title>SimSolutions Releases DA20-C1 Eclipse for X-Plane 12</title>
-    <updated>2023-07-23T00:00:00+00:00</updated>
-    <link href="/news/simda2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bdb3e173a9fad5ca6cb797_da1.jpg" rel="enclosure" type="image/jpeg" length="119963"/>
-    <summary>Sim: X-Plane. SimSolutions has recently released their DA20-C1 Eclipse for X-Plane 12, a two-seat, single-engine airplane manufactured by Diamond.  The Eclipse is the âfancyâ variant of the DA20 Katana, a light aircraft introduced by Diamond in 1993, ideal for flight schools and private pilots on a budget. On the other hand, the fancy Eclipse only came to be in 1999, featuring rear windows, better visibility, and a complete set of equipment.  Itâs powered by a 125 hp Continental IO-240-B, cruising at up to 138 knots with a range of 629 nautical miles with a 30-minute reserve.  The add-on features an accurate rendition of the aircraft, with high-resolution textures, user-friendly systems, and more. The complete feature list follows down below:Â   Features Liveries  Itâs available on theÂ X-Plane.Org StoreÂ for $24.99, requiring at least 476 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lr1212</id>
     <title>Laminar Research Updates X-Plane 12</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c77424491eb63b3fd8f222_yul1.jpg" rel="enclosure" type="image/jpeg" length="528007"/>
     <summary>Sim: MSFS. MK Studios has recently released their rendition of MontrÃ©al-Trudeau International Airport (CYUL) for Microsoft Flight Simulator, serving greater Montreal and eastern Ontario with a yearly average of 16 million passengers.  It opened in 1941, replacing Saint-Hubert Airport - Montrealâs former airport - considered inadequate for the cityâs needs into the 40s and beyond. It was constructed on land that once was a race track, chosen for its size and generally good weather conditions throughout the year. It also doubled as a military airport for almost twenty years.  In the 70s, the government planned on replacing it with a new, much larger airport - Montreal Mirabel -, then the largest in the world, repurposing YUL as a domestic airport. The whole project was centered around traffic growth that never happened for many reasons, which consequently caused the decline of both Montreal airports over the following decades.  The inconvenience of Mirabel grew larger and larger, to the point they decided to resume international operations in Montreal-Trudeau again in 1997 and charter flights in 2004 (and Mirabel ceased passenger operations entirely in 2004).Â   Itâs a hub for Air Canada (Barcelona, BogotÃ¡, Brussels, Calgary, Casablanca, Delhi, Denver, Edmonton, Fort-de-France, Frankfurt, Geneva, Halifax, HoustonâIntercontinental, Lisbon, LondonâHeathrow, Los Angeles, Lyon, Mexico City, Miami, MilanâMalpensa, ParisâCharles de Gaulle, Pointe-Ã -Pitre, Providenciales, RomeâFiumicino, San Francisco, San JosÃ© de Costa RicaâJuan SantamarÃ­a, SÃ£o PauloâGuarulhos, Tampa, TokyoâNarita, TorontoâPearson, Toulouse, Vancouver, Winnipeg), Air Transat (CancÃºn, Cayo Coco, Fort Lauderdale, HolguÃ­n, Lisbon, LondonâGatwick, Lyon, MÃ¡laga, Marseille, Miami, Montego Bay, Orlando, ParisâCharles de Gaulle, Port-au-Prince, Puerto Plata, Puerto Vallarta, Punta Cana, SamanÃ¡, Santa Clara, TorontoâPearson, Varadero), and OWG (Cayo Coco, HolguÃ­n, Santa Clara, Varadero), flying passengers all over the globe.Â   The scenery features an accurate rendition of the airport, with LiDAR airport elevation data, custom satellite imagery covering the airport and its surroundings, custom ground polygons, handcrafted 3D models of buildings, jetways, and facilities, realistic night lighting, and more.  Itâs available onÂ OrbxDirectÂ for roughly $18.70, requiring at least 5.09 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/eglcxp</id>
+    <title>Orbx Announces London City Airport (EGLC) for X-Plane 12</title>
+    <updated>2023-07-31T00:00:00+00:00</updated>
+    <link href="/news/eglcxp" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8e391f415511f7567c927_orbx.jpg" rel="enclosure" type="image/jpeg" length="515869"/>
+    <summary>Sim: X-Plane. Earlier, developer Orbx has announced on their social media platforms that they will be bringing their London City (EGLC) scenery to X-Plane 12.  London City Airport is located 6 miles east of the city of London in the Borough of Newham and sees on average 4 million passengers each year. The airport features just one runway, which also acts as the main taxiway. The short runway, steep approach angles, and strict noise abatement rules mean that the list of aircraft that service the airport is quite limited. Currently, the airport has flights offered by British Airways, ITA Airways, KLM, Loganair, LOT, Lufthansa, Luxair, and Swiss International.  Orbx included preview images of the scenery that highlighted the airportâs terminal and some recognisable buildings that can be seen around the airport. Orbx originally released the current version of EGLC for Microsoft Flight Simulator earlier this year. While no release date has been announced be sure to keep an eye on Threshold for any updates that may come.</summary>
+    <published>2023-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksmon</id>
+    <title>MK Studios Updates MontrÃ©al International Airport for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/mksmon" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8de05db454aa3f2ad1bb9_montreal1.webp" rel="enclosure" type="image/webp" length="167646"/>
+    <summary>Sim: MSFS. MK Studios has recently updated their newly released rendition of MontrÃ©al International Airport (CYUL) for Microsoft Flight Simulator, adding improvements and fixes based on customer feedback.  Update v1.0.1 includes the removal of wrongly placed objects, night lighting improvements, the addition of missing apron lines, fixes on the spotting area, 3D snow model tweaks, and jetway animation improvements. â  They have already revealed their plans for v1.0.2, which will include the removal of HSBC logos, a new logo on the Air Canada hangar, terminal glass opacity and brightness tweaks, the addition of lights on the MontrÃ©al sign at night, LOD improvements, and RAM usage reduction. â  The full changelog is available on their originalÂ update announcementÂ on Facebook. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/razmig</id>
+    <title>RAZBAM Show New MiG-23MLA Images for DCS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/razmig" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8e98338dbe525785fa638_cover.jpg" rel="enclosure" type="image/jpeg" length="215048"/>
+    <summary>Sim: DCS. Renowned DCS World developer, RAZBAM who have recently released their F-15E Strike Eagle has been so focused on providing updates and patches that news on their other projects has gone quiet until recently. Ron Zambrano, the CEO of RAZBAM has recently shared new pictures of their MiG-23MLA. This project has been in development for a while now however not much news has surfaced regarding it. These latest images clearly show that the MiG-23MLA is very much in active development and that great progress is being made. The Images released show the 3D modelling of the cockpit and an external view of the aircraft. As of yet, there is no indication as to when we can expect this aircraft to release, there is also no pricing information however Threshold will keep you updated with all the news to come so stay tuned! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cacrcw</id>
+    <title>Cockspur Announces C162 Release in Coming Weeks for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/cacrcw" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8ebebd9b2024f75761ac5_coverCockspur.jpg" rel="enclosure" type="image/jpeg" length="183675"/>
+    <summary>Sim: MSFS. Cockspur has taken to Facebook to announce that their Cessna 162 Skycatcher will release within the next few weeks! â This aircraft has been a side project, allowing the developers to experiment and tinker without any predefined commitments. Despite being kept secret, the 162 Skycatcher is now completed, with final packaging underway. The developers have collaborated closely with SparkyPilot86, an experienced real-life pilot who flies the 162, ensuring accurate systems and flight modelling. Additionally, partnerships with Rainier Flight Service will provide the liveries of their entire fleet of 12 162s as defaults within the package. The 162 Skycatcher package will offer two variants - with or without wheel fairings - providing flexibility to pilots. Priced at $19.99, this aircraft will be accessible on both PC and Xbox platforms. Stay tuned for its official release and prepare to embark on a thrilling flight adventure in the 162 Skycatcher! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42rbh</id>
+    <title>Parallel42 Released Bluffers Hill Scene for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/p42rbh" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8ef139a9321239286dcc5_P42-BLUFFERS-HILL-42BH-MSFS-2.png" rel="enclosure" type="image/png" length="1821186"/>
+    <summary>Sim: MSFS. Parallel42 has announced the release of Bluffers Hill after seeing the popularity of Sharktooth Ridge. Bluffers Hill is located near Red Bluff, CA and is completely surrounded by bluffs and nearby sandbars. Parallel42 has used a 3D library of ground assets along with their own custom terraforming which overwrites the default MSFS terrain which in turn produces a better more realistic terrain for pilots. Bluffers Hill dares pilots to attempt its challenging approach, dangerous sloped runway and no safe option for a go-around. This brings a challenge to even the best pilots out there. Bluffers Hill is suited best to STOLÂ aircraft and any bush planes you have in your hangar. Included is a whole host of features which really bring this area to life when you fly here.  As always, Threshold will keep you informed with the latest news in Flight Simulation, stay tuned for more ! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
   </entry>
 </feed>
