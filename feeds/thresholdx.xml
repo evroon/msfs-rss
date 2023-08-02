@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-01T18:21:23.280870+00:00</updated>
+  <updated>2023-08-02T18:21:11.054450+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lr1212</id>
-    <title>Laminar Research Updates X-Plane 12</title>
-    <updated>2023-07-25T00:00:00+00:00</updated>
-    <link href="/news/lr1212" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64bfe8ede88eaaf5cf5ad8a4_Screenshot-2022-11-15-at-11.44.40.png" rel="enclosure" type="image/png" length="2193773"/>
-    <summary>Sim: X-Plane. Laminar Research has released an early public beta for X-Plane 12.06. Users can expect a long list of bug fixes including fixes for users experiencing CTD crashes when landing at non towered airports and fixes to the Vulkan graphics API. The update also comes with a short list of known bugs including abnormal cloud shapes while using real world weather; Laminar has stated they aim to fix this in version 12.06b2.Â  Some of the more noticable bug fixes in the new beta include: The new beta comes just 12 weeks after the last update which focused mainly on fixes for the Laminar Research A330.Â </summary>
-    <published>2023-07-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mrwcee</id>
-    <title>Microsoft Releases World Update XIV: Central Eastern Europe</title>
-    <updated>2023-07-25T00:00:00+00:00</updated>
-    <link href="/news/mrwcee" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c024d24c470ee4cb573993_cee1.png" rel="enclosure" type="image/png" length="1065093"/>
-    <summary>Sim: MSFS. Microsoft has recently released the fourteenth world update for Microsoft Flight Simulator, improving Czechia, Slovakia, Hungary, Slovenia, Croatia, and Bosnia-Herzegovina with fresh satellite imagery, better DEM data, and six hand-crafted airports developed in partnership with Gaya Simulations.  With 103 points of interest across the six countries (18 in Czechia, 15 in Slovakia, 19 in Hungary, 15 in Slovenia, 23 in Croatia, and 13 in Bosnia-Herzegovina), including castles, towers, churches, and other landmarks, it greatly improves the eastern european experience in the simulator.  They have also included six hand-crafted airports, one for each country:   Microsoft Maps &amp; Local, in collaboration with Vexcel, created ten cities throughout the region: Prague, Brno, and PlzeÅ in Czechia; Budapest in Hungary; Ljubljana and Maribor in Slovenia; Split and Dubrovnik in Croatia; and Sarajevo and Banja Luka in Bosnia-Herzegovina.Â   It also features three discovery flights, three landing challenges, and four bush trips.Â   The update is available right now in the MSFS Marketplace. Stay tuned to Threshold for more flight simulation news!  â</summary>
-    <published>2023-07-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbhar</id>
-    <title>Orbx Announces S43 Harvey Field &amp; W16 Monroe First Air Field for MSFS</title>
-    <updated>2023-07-26T00:00:00+00:00</updated>
-    <link href="/news/orbhar" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c0b6d2fdb4085340f9ecea_harvey1.jpg" rel="enclosure" type="image/jpeg" length="662865"/>
-    <summary>Sim: MSFS. Orbx hasÂ recently announcedÂ the development of two general aviation airfields, minutes apart from each other: S43 Harvey Field &amp; W16 Monroe First Air Field, both in Washington, United States.  Harvey Airfield is a privately-owned public-use airport in Sonomish (WA), categorized on the FAA's National Plan of Integrated Airport Systems as a regional reliever facility. It was established in 1944 by the Harvey Family, getting a restaurant, an administration building, and a maintenance shop in 1947.Â   It is mainly used for flight training in general aviation airplanes and helicopters but also offers fuel and aircraft maintenance.  Monroe First Air Field is a public-use airport owned by the Washington State Department of Transportation. It opened in 1930 as a private airfield for Monroe Aircraft Corporation and was utilized in the following decade as a training base for the US Army.Â   The post-war saw the airfield become a general aviation facility, which continues to this day, even after its acquisition by the Washington State Department of Transportation in 1980.  Despite being small, it's considered a very important part of the state's history for its many purposes over its nearly 100 years of existence. The scenery will feature an accurate rendition of both airfields, with custom dynamic lighting, full PBR 4K texturing, photo-realistic textures created with on-site photography, and more. â There is no release date or pricing information. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-07-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pyremm</id>
     <title>Pyreegue Dev Co. Updates East Midlands Airport for MSFS</title>
@@ -150,6 +123,33 @@
     <link href="/news/p42rbh" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8ef139a9321239286dcc5_P42-BLUFFERS-HILL-42BH-MSFS-2.png" rel="enclosure" type="image/png" length="1821186"/>
     <summary>Sim: MSFS. Parallel42 has announced the release of Bluffers Hill after seeing the popularity of Sharktooth Ridge. Bluffers Hill is located near Red Bluff, CA and is completely surrounded by bluffs and nearby sandbars. Parallel42 has used a 3D library of ground assets along with their own custom terraforming which overwrites the default MSFS terrain which in turn produces a better more realistic terrain for pilots. Bluffers Hill dares pilots to attempt its challenging approach, dangerous sloped runway and no safe option for a go-around. This brings a challenge to even the best pilots out there. Bluffers Hill is suited best to STOLÂ aircraft and any bush planes you have in your hangar. Included is a whole host of features which really bring this area to life when you fly here.  As always, Threshold will keep you informed with the latest news in Flight Simulation, stay tuned for more ! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ngmshk</id>
+    <title>NMG Simulations Releases King Shaka International Airport for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/ngmshk" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c96c2a63fb0718e10169ba_shaka1.jpg" rel="enclosure" type="image/jpeg" length="421143"/>
+    <summary>Sim: MSFS.  NMG Simulations has recently released their rendition of King Shaka International Airport (FALE) for Microsoft Flight Simulator, serving the South African city of Durban with a yearly average of 4.3 million passengers.  The airport was idealized in the 1970s, but its opening only happened in 2010 due to a multitude of reasons. When the original construction work started in the mid-1970s, the project was halted due to economic reasons, with only the earthworks and its drainage system reaching completion. There was a revival attempt in the late 1990s, but new operational challenges appeared, such as its original 2700m runway, which was deemed too short.  After much deliberation and environmental impact studies, the airportâs construction resumed in 2007, with completion achieved by late 2009, when operational testing began.Â   It ultimately replaces Durban International Airport - now a military-only airport - as Durbanâs main airport, served by Airlink, CemAir, Emirates, Eswatini Air, FlySafair, LIFT, Proflight Zambia, Qatar Airways, South African Airways, TAAG Angola Airlines, and Turkish Airlines.  The scenery features an accurate rendition of the airport, with high-detail buildings, custom-made lighting, AI traffic compatibility, custom ground textures, and more.  Itâs available onÂ SimMarketÂ for roughly $19.84, requiring at least 104.63 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfslan</id>
+    <title>MFSG Releases Langkawi International Airport for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/mfslan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c970bafaeb8e186e4a4fa0_mfs1.jpg" rel="enclosure" type="image/jpeg" length="321285"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Langkawi International Airport (WMKL) for Microsoft Flight Simulator, serving Langwaki and Peris in Malaysia with a yearly average of 3 million passengers.  It started as an airfield for the Japanese Army in 1945, only becoming a passenger airport in the late 80s after a huge effort by the Malaysian government to develop Langkawi as a major tourist destination.  It was then upgraded to international standards in 1991 and expanded in 2018 to accommodate up to 4 million passengers annually.  AirAsia (Johor Bahru, Kuala LumpurâInternational, Penang, Singapore), Batik Air Malaysia (Kuala LumpurâSubang, Kuala LumpurâInternational), Firefly (Kuala LumpurâSubang, Penang), Malaysia Airlines (Kuala LumpurâInternational), MYAirline Â (Kuala LumpurâInternational), and Scoot (Singapore) serve it.  The scenery features an accurate rendition of the airport, with an up-to-date layout, custom ground textures, a 3D model of the Maha Tower, and custom night lighting.  Itâs available onÂ SimMarketÂ for roughly $12.68, requiring at least 37.82 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fetdal</id>
+    <title>FeelThere Releases Dallas Love Field for MSFS</title>
+    <updated>2023-08-01T00:00:00+00:00</updated>
+    <link href="/news/fetdal" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c98aafa8fe50b3f8f063f1_dal1.jpg" rel="enclosure" type="image/jpeg" length="246802"/>
+    <summary>Sim: MSFS.  FeelThere has recently released their rendition of Dallas Love Field (KDAL) for Microsoft Flight Simulator, serving the Dallas-Fort Worth metropolitan area with a yearly average of 16 million passengers.  It opened 105 years ago as a training camp for World War 1 pilots and then converted into a storage facility for surplus aircraft after the war, with traffic reducing massively through that period.  It was purchased by the city of Dallas in 1928 and opened for civilian use, with its first set of paved runways coming four years after its grand reopening.  The first passenger terminal was built in 1940, serving over 21 weekday departures from American, Braniff, and Delta.  World War 2 saw the airport become a training school for army pilots, returning to its civil applications after the war.  The increased demand for air travel in the 1950s led to an expansion, with a new terminal (T3) designed by Donald S. Nelson, sporting three concourses, 26 gates, and the worldâs first moving walkways.  Currently, the airport has a single terminal with 20 gates, with Alaska and Delta Air Lines having one each and Southwest Airlines having full control over the remaining 18. Unsurprisingly, Southwest has 95.3% of the passenger market share, while Delta and Alaska have 2.2% and 1.7%, respectively.  The scenery features an accurate rendition of the airport, with highly-detailed PBR models, custom ground poly, custom ground textures, custom animated jetways, custom night lighting, and an updated AFCAD.  Itâs available onÂ SimMarketÂ for roughly $12.11, requiring at least 715.23 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-01T00:00:00+00:00</published>
   </entry>
 </feed>
