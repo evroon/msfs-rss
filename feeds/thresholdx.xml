@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-04T18:21:16.472304+00:00</updated>
+  <updated>2023-08-05T18:19:09.425104+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/eglcxp</id>
-    <title>Orbx Announces London City Airport (EGLC) for X-Plane 12</title>
-    <updated>2023-07-31T00:00:00+00:00</updated>
-    <link href="/news/eglcxp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8e391f415511f7567c927_orbx.jpg" rel="enclosure" type="image/jpeg" length="515869"/>
-    <summary>Sim: X-Plane. Earlier, developer Orbx has announced on their social media platforms that they will be bringing their London City (EGLC) scenery to X-Plane 12.  London City Airport is located 6 miles east of the city of London in the Borough of Newham and sees on average 4 million passengers each year. The airport features just one runway, which also acts as the main taxiway. The short runway, steep approach angles, and strict noise abatement rules mean that the list of aircraft that service the airport is quite limited. Currently, the airport has flights offered by British Airways, ITA Airways, KLM, Loganair, LOT, Lufthansa, Luxair, and Swiss International.  Orbx included preview images of the scenery that highlighted the airportâs terminal and some recognisable buildings that can be seen around the airport. Orbx originally released the current version of EGLC for Microsoft Flight Simulator earlier this year. While no release date has been announced be sure to keep an eye on Threshold for any updates that may come.</summary>
-    <published>2023-07-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mksmon</id>
     <title>MK Studios Updates MontrÃ©al International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/faaams" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cd3cbd00081cedd6d21b20_fenix_back.jpg" rel="enclosure" type="image/jpeg" length="1303835"/>
     <summary>Sim: MSFS. This is the second part of a two part announcement from Fenix, you can see the other announcement here. âIn the world of flight simulation, secrets are hard to keep. Speculations have been brewing, and the big reveal is finally here. While working on revamping the A320 with V2, Fenix has simultaneously been developing the A321 and A319. The improvements made with the rollout of V2 have laid a robust foundation upon which these new aircraft models have been built. Fenix has announced plans to release these new models by the end of the year as a single expansion package, priced at Â£39.99. As with the A320, sharklets will follow at no additional cost to the customers. With the release of Block 2 scheduled for September, the end of the year will witness the debut of the A321 and A319. As Fenix moves into 2024, it plans to update all its product lines with sharklets for free. Timelines are often tricky and met with apprehension. Nevertheless, Fenix believes in the importance of transparency with their customers. It is crucial for them to provide a clear roadmap of their plans and timelines, alleviating the anxiety that can come with uncertainty.A question that might arise is why the A321 and A319 are prioritized over the A320 sharklets. Fenix said the simple answer is financial stability. The new aircraft models' release will ensure the company's steady financial standing, crucial to support continued product line development and future offerings. For the time being, customers are encouraged to enjoy the revised displays, enhanced performance, and improved handling and behaviour of the aircraft. While the next month might seem like a long wait, the company assures its customers that they are diligently preparing the rest of V2. Over the weekend, Fenix will share performance benchmarks for V2 Block 1, detailing the improvements over the .146 version. In a few days, they will provide a changelog and a new build, continuing to keep their customers in the loop of this exciting journey. â</summary>
+    <published>2023-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fssyul</id>
+    <title>FSimStudios Teases Progress on MontrÃ©al-Trudeau International Airport for MSFS</title>
+    <updated>2023-08-04T00:00:00+00:00</updated>
+    <link href="/news/fssyul" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cd74ac80d7f92f46f479a5_yul1.jpg" rel="enclosure" type="image/jpeg" length="210510"/>
+    <summary>Sim: MSFS. FSimStudios has recently teased the development progress of their MontrÃ©al-Trudeau International Airport (CYUL) rendition for Microsoft Flight Simulator, which appears to be nearing completion. The developers claim itâs set to become their best product yet, emphasizing detail and quality (and custom interiors!). They have been working with locals to get the best fidelity on signs, boards, etc. There is no release date yet, but they expect it to be around the end of August/beginning of September. Upon release, Customers who own at least two FSimStudios products will also get a copy of Mont Tremblant Airport (CYFJ). Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-04T00:00:00+00:00</published>
   </entry>
 </feed>

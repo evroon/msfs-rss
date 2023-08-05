@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-08-04T18:21:14.652353+00:00</updated>
+  <updated>2023-08-05T18:19:07.859989+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/bullseye-landing-challenge/</id>
-    <title>Red Bull ‘Bullseye Landing’ Challenge: Available Now in Microsoft Flight Simulator</title>
-    <updated>2023-07-24T15:35:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/bullseye-landing-challenge/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/RedBullChallenge_Graphic_1072x596-1024x569.jpg" rel="enclosure" type="image/jpeg" length="119873"/>
-    <summary>In March 2023, Red Bull aerobatic pilot Luke Czepiela successfully completed a one-of-a-kind demonstration of aviation mastery: landing a Carbon Cub on the helipad of Dubai’s Burj Al Arab Jumeriah hotel, 212 meters (689 feet) above the ground. In Bullseye Landing, a new landing challenge available now, sim pilots in Microsoft Flight Simulator can attempt … Continued</summary>
-    <published>2023-07-24T15:35:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xiv-central-eastern-europe/</id>
     <title>Microsoft Flight Simulator Releases World Update XIV: Central Eastern Europe</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/2525ARW-Twitter-1024x576.jpg" rel="enclosure" type="image/jpeg" length="88612"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user 2525ARW, taken flying above the Assumption of Maria Church in Slovenia. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! The development team is currently hard at work preparing the first beta build of Sim Update 13 … Continued</summary>
     <published>2023-08-03T23:39:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/fsim-studios-miltech-simulations-and-simultech-sale/</id>
+    <title>FSim Studios, Miltech Simulations and Simultech Sale</title>
+    <updated>2023-08-04T19:38:59+00:00</updated>
+    <link href="https://www.flightsimulator.com/fsim-studios-miltech-simulations-and-simultech-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/MSFS_PartnerSale_Aug4-11_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="116203"/>
+    <summary>Enjoy discounted pricing on Marketplace content from FSim Studios, Miltech Simulations and Simultech.</summary>
+    <published>2023-08-04T19:38:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
