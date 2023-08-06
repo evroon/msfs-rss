@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-05T18:19:09.425104+00:00</updated>
+  <updated>2023-08-06T18:19:04.262389+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mksmon</id>
-    <title>MK Studios Updates MontrÃ©al International Airport for MSFS</title>
-    <updated>2023-08-01T00:00:00+00:00</updated>
-    <link href="/news/mksmon" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8de05db454aa3f2ad1bb9_montreal1.webp" rel="enclosure" type="image/webp" length="167646"/>
-    <summary>Sim: MSFS. MK Studios has recently updated their newly released rendition of MontrÃ©al International Airport (CYUL) for Microsoft Flight Simulator, adding improvements and fixes based on customer feedback.  Update v1.0.1 includes the removal of wrongly placed objects, night lighting improvements, the addition of missing apron lines, fixes on the spotting area, 3D snow model tweaks, and jetway animation improvements. â  They have already revealed their plans for v1.0.2, which will include the removal of HSBC logos, a new logo on the Air Canada hangar, terminal glass opacity and brightness tweaks, the addition of lights on the MontrÃ©al sign at night, LOD improvements, and RAM usage reduction. â  The full changelog is available on their originalÂ update announcementÂ on Facebook. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/razmig</id>
-    <title>RAZBAM Show New MiG-23MLA Images for DCS</title>
-    <updated>2023-08-01T00:00:00+00:00</updated>
-    <link href="/news/razmig" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8e98338dbe525785fa638_cover.jpg" rel="enclosure" type="image/jpeg" length="215048"/>
-    <summary>Sim: DCS. Renowned DCS World developer, RAZBAM who have recently released their F-15E Strike Eagle has been so focused on providing updates and patches that news on their other projects has gone quiet until recently. Ron Zambrano, the CEO of RAZBAM has recently shared new pictures of their MiG-23MLA. This project has been in development for a while now however not much news has surfaced regarding it. These latest images clearly show that the MiG-23MLA is very much in active development and that great progress is being made. The Images released show the 3D modelling of the cockpit and an external view of the aircraft. As of yet, there is no indication as to when we can expect this aircraft to release, there is also no pricing information however Threshold will keep you updated with all the news to come so stay tuned! â</summary>
-    <published>2023-08-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cacrcw</id>
     <title>Cockspur Announces C162 Release in Coming Weeks for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cd74ac80d7f92f46f479a5_yul1.jpg" rel="enclosure" type="image/jpeg" length="210510"/>
     <summary>Sim: MSFS. FSimStudios has recently teased the development progress of their MontrÃ©al-Trudeau International Airport (CYUL) rendition for Microsoft Flight Simulator, which appears to be nearing completion. The developers claim itâs set to become their best product yet, emphasizing detail and quality (and custom interiors!). They have been working with locals to get the best fidelity on signs, boards, etc. There is no release date yet, but they expect it to be around the end of August/beginning of September. Upon release, Customers who own at least two FSimStudios products will also get a copy of Mont Tremblant Airport (CYFJ). Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/coc162</id>
+    <title>Cockspur Releases Cessna C162 Skycatcher for MSFS</title>
+    <updated>2023-08-06T00:00:00+00:00</updated>
+    <link href="/news/coc162" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cf72d041ee40d8682214bc_cock1.jpg" rel="enclosure" type="image/jpeg" length="221142"/>
+    <summary>Sim: MSFS. Cockspur has recently released their C162 Skycatcher for Microsoft Flight Simulator, a high-wing tricycle gear light-sport aircraft designed and produced by Cessna between 2009 and 2013.  Its design was unveiled in 2006 during EAA AirVenture Oshkosh, back when they were testing the waters of the commercial feasibility of a light sport aircraft. The development program was launched a year later, kickstarting the development of a production version.  After carrying out all the required testing and passing the ASTM Light Sport Aircraft requirements with flying colors, it was ready to roll out of the factory. In December 2009, the first production Skycatcher had finally been delivered, and the order list was sitting at a thousand units by then.  The plans for 2010 included a 300-400 unit production rate which never came to be, with only 30 deliveries that year, followed by many cancellations in the subsequent years because the aircraft was deemed too expensive for what it was. By 2014, the sales had been halted, and unsold units were scrapped for parts.  Reviews criticized the aircraftâs high empty weight, fragility, and lack of tall-friendliness, feeling even more cramped than a little 152. Many considered it a failed attempt at creating a Light Sport Aircraft, yielding nothing but a miniaturized 152.  Cockspurâs rendition aims to deliver an accurate rendition of the Skycatcher, developed in close connection with real-world pilots. It includes a full glass cockpit, twelve liveries, and more.  Itâs available onÂ Cockspurâs websiteÂ for $22.04 and on the MSFS Marketplace for $19.99. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fenben</id>
+    <title>Fenix Simulations Publishes V2 Stage 1's Performance Benchmark Figures</title>
+    <updated>2023-08-06T00:00:00+00:00</updated>
+    <link href="/news/fenben" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cf7a05368d5eeb7c4eabb7_perf1.jpg" rel="enclosure" type="image/jpeg" length="184238"/>
+    <summary>Sim: MSFS. Fenix Simulations has recently announced their gradual V2 rollout, with stage one bringing a new fly-by-wire, an improved flight model, new display rendering technology, and code optimizations that would increase the add-onâs performance. It made people wonder: how much does it improve it? TheirÂ latest blog postÂ is all about that. â They have been working hard at making the software run more efficiently, investing over a thousand hours of manhours into rebuilding their display render pipeline, auditing the 3D model and overall code to make it perform great, and balancing VRAM usage.Â  â  Then, they showcase a series of benchmarks, showing the before and after of the framerate, system specs, and resolution while comparing them with V1 and other popular aircraft add-ons. â â  Fenix finishes with a sneak peek at the Navigraph moving map integration and the new 180-pax layout accompanying V2âs first rollout. â  The aircraft is available for roughly $63.73 onÂ Fenix SimulationsâÂ official website. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-06T00:00:00+00:00</published>
   </entry>
 </feed>
