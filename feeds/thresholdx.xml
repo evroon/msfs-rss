@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-06T18:19:04.262389+00:00</updated>
+  <updated>2023-08-07T18:20:46.883224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cacrcw</id>
-    <title>Cockspur Announces C162 Release in Coming Weeks for MSFS</title>
-    <updated>2023-08-01T00:00:00+00:00</updated>
-    <link href="/news/cacrcw" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8ebebd9b2024f75761ac5_coverCockspur.jpg" rel="enclosure" type="image/jpeg" length="183675"/>
-    <summary>Sim: MSFS. Cockspur has taken to Facebook to announce that their Cessna 162 Skycatcher will release within the next few weeks! â This aircraft has been a side project, allowing the developers to experiment and tinker without any predefined commitments. Despite being kept secret, the 162 Skycatcher is now completed, with final packaging underway. The developers have collaborated closely with SparkyPilot86, an experienced real-life pilot who flies the 162, ensuring accurate systems and flight modelling. Additionally, partnerships with Rainier Flight Service will provide the liveries of their entire fleet of 12 162s as defaults within the package. The 162 Skycatcher package will offer two variants - with or without wheel fairings - providing flexibility to pilots. Priced at $19.99, this aircraft will be accessible on both PC and Xbox platforms. Stay tuned for its official release and prepare to embark on a thrilling flight adventure in the 162 Skycatcher! â</summary>
-    <published>2023-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p42rbh</id>
-    <title>Parallel42 Released Bluffers Hill Scene for MSFS</title>
-    <updated>2023-08-01T00:00:00+00:00</updated>
-    <link href="/news/p42rbh" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c8ef139a9321239286dcc5_P42-BLUFFERS-HILL-42BH-MSFS-2.png" rel="enclosure" type="image/png" length="1821186"/>
-    <summary>Sim: MSFS. Parallel42 has announced the release of Bluffers Hill after seeing the popularity of Sharktooth Ridge. Bluffers Hill is located near Red Bluff, CA and is completely surrounded by bluffs and nearby sandbars. Parallel42 has used a 3D library of ground assets along with their own custom terraforming which overwrites the default MSFS terrain which in turn produces a better more realistic terrain for pilots. Bluffers Hill dares pilots to attempt its challenging approach, dangerous sloped runway and no safe option for a go-around. This brings a challenge to even the best pilots out there. Bluffers Hill is suited best to STOLÂ aircraft and any bush planes you have in your hangar. Included is a whole host of features which really bring this area to life when you fly here.  As always, Threshold will keep you informed with the latest news in Flight Simulation, stay tuned for more ! â</summary>
-    <published>2023-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ngmshk</id>
-    <title>NMG Simulations Releases King Shaka International Airport for MSFS</title>
-    <updated>2023-08-01T00:00:00+00:00</updated>
-    <link href="/news/ngmshk" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c96c2a63fb0718e10169ba_shaka1.jpg" rel="enclosure" type="image/jpeg" length="421143"/>
-    <summary>Sim: MSFS.  NMG Simulations has recently released their rendition of King Shaka International Airport (FALE) for Microsoft Flight Simulator, serving the South African city of Durban with a yearly average of 4.3 million passengers.  The airport was idealized in the 1970s, but its opening only happened in 2010 due to a multitude of reasons. When the original construction work started in the mid-1970s, the project was halted due to economic reasons, with only the earthworks and its drainage system reaching completion. There was a revival attempt in the late 1990s, but new operational challenges appeared, such as its original 2700m runway, which was deemed too short.  After much deliberation and environmental impact studies, the airportâs construction resumed in 2007, with completion achieved by late 2009, when operational testing began.Â   It ultimately replaces Durban International Airport - now a military-only airport - as Durbanâs main airport, served by Airlink, CemAir, Emirates, Eswatini Air, FlySafair, LIFT, Proflight Zambia, Qatar Airways, South African Airways, TAAG Angola Airlines, and Turkish Airlines.  The scenery features an accurate rendition of the airport, with high-detail buildings, custom-made lighting, AI traffic compatibility, custom ground textures, and more.  Itâs available onÂ SimMarketÂ for roughly $19.84, requiring at least 104.63 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mfslan</id>
     <title>MFSG Releases Langkawi International Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cf7a05368d5eeb7c4eabb7_perf1.jpg" rel="enclosure" type="image/jpeg" length="184238"/>
     <summary>Sim: MSFS. Fenix Simulations has recently announced their gradual V2 rollout, with stage one bringing a new fly-by-wire, an improved flight model, new display rendering technology, and code optimizations that would increase the add-onâs performance. It made people wonder: how much does it improve it? TheirÂ latest blog postÂ is all about that. â They have been working hard at making the software run more efficiently, investing over a thousand hours of manhours into rebuilding their display render pipeline, auditing the 3D model and overall code to make it perform great, and balancing VRAM usage.Â  â  Then, they showcase a series of benchmarks, showing the before and after of the framerate, system specs, and resolution while comparing them with V1 and other popular aircraft add-ons. â â  Fenix finishes with a sneak peek at the Navigraph moving map integration and the new 180-pax layout accompanying V2âs first rollout. â  The aircraft is available for roughly $63.73 onÂ Fenix SimulationsâÂ official website. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nsssit</id>
+    <title>Northern Sky Studio Releases Sitka Rocky Gutierrez Airport for MSFS</title>
+    <updated>2023-08-07T00:00:00+00:00</updated>
+    <link href="/news/nsssit" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0b8c2a13cc26ac3844311_sitka.jpg" rel="enclosure" type="image/jpeg" length="576832"/>
+    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Sitka Rocky Gutierrez Airport (PASI) for Microsoft Flight Simulator, serving the city of Sitka in Alaska with a yearly average of 38,000 passengers. â The airport was built in 1942 as a military airfield during World War 2, then turned over to the city of Sitka right after it was over and converted into a civilian airport. Scheduled airline service only started a decade later with Pacific Northern Airlines. â The jet age only arrived at Sitka in March 1967, when an Alaska Airlines Boeing 727-90C Golden Nugget touched its then gravel runway with 70 passengers. Gravel runway operations were still brand new to jet operators, and the 727 required a specific FAA certification before such a feat.Â  â Historical records say the âwholeâ city came to the airport to watch the landing, including the mayor, governor, and even a high school marching band. One of the employees shot an 8mm film of the landing that the local historical society preserved afterward. â The airport currently has a single terminal with a single jetway, operated mainly by Alaska Airlines, which serves the airport all year long with routes to Juneau and Ketchikan. Delta Connection runs a seasonal leg to Seattle-Tacoma. â The scenery features an accurate rendition of the airport, with a detailed replica of its buildings and vehicles, full PBR materials, texture baking effects on all buildings, high-resolution textures, and custom orthophoto for the airport and surroundings. â â â Itâs available onÂ SimMarketÂ for roughly $15.00, requiring at least 1.47 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mldtim</id>
+    <title>MLD Scenery Releases Timisoara International Airport for MSFS</title>
+    <updated>2023-08-07T00:00:00+00:00</updated>
+    <link href="/news/mldtim" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0c6b5a25e7c26e512795d_timi.png" rel="enclosure" type="image/png" length="4107280"/>
+    <summary>Sim: MSFS. MLD Scenery has recently released their rendition of TimiÈoara Traian Vuia International Airport (LRTR) for Microsoft Flight Simulator, the fourth busiest airport in Romania with a yearly average of 1.1 million passengers.  The airport was built in 1942 on a 91-hectare plot of land, originally sporting a 1,200x600m runway, a 9x5m plank cabin with offices, and a 20x8m shed.Â   A decade later, the airport received several upgrades to fit the needs of the Romanian Army, including a runway extension, bringing its length from 1,200 to 2,000 meters.Â   In the 60s, with Timisoaraâs growth becoming more and more evident and transforming the city into an economic center, the government decided to build a proper civil airport on its location, with a big passenger terminal and a 2,500m runway.  It was then modernized in the mid-1970s to meet the new demand for passenger traffic while also getting yet another runway extension. Arad International Airport took all of the Timisoara traffic during the works from 1977 to late 1979 as it only had one runway.  A new terminal for international arrivals was built between 2019 and 2021, further increasing the airportâs passenger handling capabilities.  AirConnect, Corendon Airlines, Eurowings, HiSky, Lufthansa, Sky Express, TAROM, and WizzAir serve it.  The scenery features an accurate rendition of the airport, with PBR textures, custom ground polygons, an up-to-date layout, custom night lighting, and a custom GSX profile. â Itâs available onÂ SimMarketÂ for roughly $15.32, requiring at least 1.21 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inippd</id>
+    <title>iniBuilds Announces Ponta Delgada - JoÃ£o Paulo II Airport for MSFS</title>
+    <updated>2023-08-07T00:00:00+00:00</updated>
+    <link href="/news/inippd" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0f22877068fbd7a300fc8_inippd.png" rel="enclosure" type="image/png" length="1345317"/>
+    <summary>Sim: MSFS. iniBuilds has recently announced the development of Ponta Delgada - JoÃ£o Paulo II Airport (LPPD) for Microsoft Flight Simulator, serving the municipality of Ponta Delgada on SÃ£o Miguel Island in the Archipelago of the Azores with a yearly average of 2 million passengers. The airport's construction started in 1963, with the official inauguration only happening six years later in 1969 by President AmÃ©rico TomÃ¡s. Its primary purpose was serving inter-island connections and Europe, with regular flights to Lisbon beginning a year later. A new passenger terminal was inaugurated in 1995 when the airport also got its current name after the Pope's visit to the Azores four years prior. â The following decade post-new terminal brought massive growth in passenger traffic, which has been steadily growing, connecting the Azores to the world.  It's also the most important cargo airport in the Azores, handling over 10,000 tonnes yearly. Azores Airlines, Binter Canarias, British Airways, Edelweiss Air, Iberia, Lufthansa, Ryanair, SATA Air AÃ§ores, Smartwings, Swiss, TAP, Transavia, TUI fly Belgium, TUI fly Netherlands, and United Airlines all serve it, with most of them only offering their services during summer. iniBuilds' rendition is said to bring exceptional detail and immersion, with full interiors, points of interest, and more. They have also announced the "Summer Surprises" event, starting later this month with new product launches and announcements.  There's no information on the pricing or a release date, but Threshold will keep you informed! â</summary>
+    <published>2023-08-07T00:00:00+00:00</published>
   </entry>
 </feed>
