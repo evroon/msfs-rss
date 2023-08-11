@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-10T18:21:14.083074+00:00</updated>
+  <updated>2023-08-11T18:20:11.612220+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fssyul</id>
-    <title>FSimStudios Teases Progress on MontrÃ©al-Trudeau International Airport for MSFS</title>
-    <updated>2023-08-04T00:00:00+00:00</updated>
-    <link href="/news/fssyul" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cd74ac80d7f92f46f479a5_yul1.jpg" rel="enclosure" type="image/jpeg" length="210510"/>
-    <summary>Sim: MSFS. FSimStudios has recently teased the development progress of their MontrÃ©al-Trudeau International Airport (CYUL) rendition for Microsoft Flight Simulator, which appears to be nearing completion. The developers claim itâs set to become their best product yet, emphasizing detail and quality (and custom interiors!). They have been working with locals to get the best fidelity on signs, boards, etc. There is no release date yet, but they expect it to be around the end of August/beginning of September. Upon release, Customers who own at least two FSimStudios products will also get a copy of Mont Tremblant Airport (CYFJ). Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/coc162</id>
-    <title>Cockspur Releases Cessna C162 Skycatcher for MSFS</title>
-    <updated>2023-08-06T00:00:00+00:00</updated>
-    <link href="/news/coc162" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cf72d041ee40d8682214bc_cock1.jpg" rel="enclosure" type="image/jpeg" length="221142"/>
-    <summary>Sim: MSFS. Cockspur has recently released their C162 Skycatcher for Microsoft Flight Simulator, a high-wing tricycle gear light-sport aircraft designed and produced by Cessna between 2009 and 2013.  Its design was unveiled in 2006 during EAA AirVenture Oshkosh, back when they were testing the waters of the commercial feasibility of a light sport aircraft. The development program was launched a year later, kickstarting the development of a production version.  After carrying out all the required testing and passing the ASTM Light Sport Aircraft requirements with flying colors, it was ready to roll out of the factory. In December 2009, the first production Skycatcher had finally been delivered, and the order list was sitting at a thousand units by then.  The plans for 2010 included a 300-400 unit production rate which never came to be, with only 30 deliveries that year, followed by many cancellations in the subsequent years because the aircraft was deemed too expensive for what it was. By 2014, the sales had been halted, and unsold units were scrapped for parts.  Reviews criticized the aircraftâs high empty weight, fragility, and lack of tall-friendliness, feeling even more cramped than a little 152. Many considered it a failed attempt at creating a Light Sport Aircraft, yielding nothing but a miniaturized 152.  Cockspurâs rendition aims to deliver an accurate rendition of the Skycatcher, developed in close connection with real-world pilots. It includes a full glass cockpit, twelve liveries, and more.  Itâs available onÂ Cockspurâs websiteÂ for $22.04 and on the MSFS Marketplace for $19.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fenben</id>
     <title>Fenix Simulations Publishes V2 Stage 1's Performance Benchmark Figures</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d5279471883bb3ca9c9dae_val1.jpg" rel="enclosure" type="image/jpeg" length="1449461"/>
     <summary>Sim: MSFS. FeelThere has recently released their rendition of Licenciado Gustavo DÃ­az Ordaz International Airport (MMPR) for Microsoft Flight Simulator, serving the city of Puerto Vallarta in Mexico with a yearly average of 6 million passengers. â The airportâs history dates back to the early 20th century when it started as a small airstrip serving the then small fishing village of Puerto Vallarta. In the 1960s, with Puerto Vallartaâs tourist boom, the government decided to invest in its potential and build a proper airport, which only started in the early 1970s, inaugurated in 1974. â The airport has been upgraded and expanded multiple times ever since, with the most recent one starting in 2022, allowing for 65% more operations a year. â Itâs served by multiple airlines, including AeromÃ©xico, AeromÃ©xico Connect, Air Canada, Air Transat, Alaska Airlines, American Airlines, American Eagle, Delta Air Lines, Finnair, Flair Airlines, Frontier Airlines, Magnicharters, Southwest Airlines, Spirit Airlines, Sun Country Airlines, Sunwing Airlines, Swoop, TAR, TUI Airways, United Airlines, United Express, Viva Aerobus, Volaris, and WestJet. â The scenery features an accurate rendition of the airport, with high-detail buildings, PBR texturing, custom animated jetways, custom ground poly, improved taxiway and runway lighting, hand-placed objects and clutter, and custom night lighting.  â Itâs available onÂ SimMarketÂ for roughly $19.73, requiring at least 339.26 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2023-08-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cssdvu</id>
+    <title> Crosstail Studios' A-1H Skyraider Dev Update</title>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <link href="/news/cssdvu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d650eb3a496e72855c8eb9_366375757_666912625484279_6941976853579164448_n.jpg" rel="enclosure" type="image/jpeg" length="265516"/>
+    <summary>Sim: DCS. Crosstail Studios has made amazing progress in their A-1H Skyraider module for DCS World. They have all been working day and night in order to produce a realistic rendition of this magnificent aircraft. There are multiple areas which are touched on in this article ranging from Flight Model changes to their Future development plans. â The journey has just begun! With plans to infuse life-like animations and intricate textures. Stay tuned, as they continue to develop this amazing aircraft and more updates come to light. In conclusion, Crosstail Studios continues to provide development updates to this module and although no pricing information or release date has been confirmed, Threshold will keep you informed as more news comes to light. â</summary>
+    <published>2023-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2a120</id>
+    <title>A2A Simulations Updates Accu-Sim Comanche for MSFS</title>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <link href="/news/a2a120" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d65769ea6688dd6d79da83_comanche45.jpg" rel="enclosure" type="image/jpeg" length="714985"/>
+    <summary>Sim: MSFS.  A2A Simulations has recently updated their Accu-Sim Comanche to version 1.2.0, improving animations, ground physics tweaks, auto-rudder support, and more.  Itâs the second update since its release in mid-July, bringing 40 changes. The complete changelog follows down below: â â They finish theÂ update announcementÂ with a note saying they are still investigating an issue where the tablet is unclickable on SU13 Beta for VR users.  The add-on is available on theirÂ storeÂ for $49.99, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-11T00:00:00+00:00</published>
   </entry>
 </feed>
