@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-11T18:20:11.612220+00:00</updated>
+  <updated>2023-08-12T18:18:44.308721+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fenben</id>
-    <title>Fenix Simulations Publishes V2 Stage 1's Performance Benchmark Figures</title>
-    <updated>2023-08-06T00:00:00+00:00</updated>
-    <link href="/news/fenben" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64cf7a05368d5eeb7c4eabb7_perf1.jpg" rel="enclosure" type="image/jpeg" length="184238"/>
-    <summary>Sim: MSFS. Fenix Simulations has recently announced their gradual V2 rollout, with stage one bringing a new fly-by-wire, an improved flight model, new display rendering technology, and code optimizations that would increase the add-onâs performance. It made people wonder: how much does it improve it? TheirÂ latest blog postÂ is all about that. â They have been working hard at making the software run more efficiently, investing over a thousand hours of manhours into rebuilding their display render pipeline, auditing the 3D model and overall code to make it perform great, and balancing VRAM usage.Â  â  Then, they showcase a series of benchmarks, showing the before and after of the framerate, system specs, and resolution while comparing them with V1 and other popular aircraft add-ons. â â  Fenix finishes with a sneak peek at the Navigraph moving map integration and the new 180-pax layout accompanying V2âs first rollout. â  The aircraft is available for roughly $63.73 onÂ Fenix SimulationsâÂ official website. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/nsssit</id>
-    <title>Northern Sky Studio Releases Sitka Rocky Gutierrez Airport for MSFS</title>
-    <updated>2023-08-07T00:00:00+00:00</updated>
-    <link href="/news/nsssit" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0b8c2a13cc26ac3844311_sitka.jpg" rel="enclosure" type="image/jpeg" length="576832"/>
-    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Sitka Rocky Gutierrez Airport (PASI) for Microsoft Flight Simulator, serving the city of Sitka in Alaska with a yearly average of 38,000 passengers. â The airport was built in 1942 as a military airfield during World War 2, then turned over to the city of Sitka right after it was over and converted into a civilian airport. Scheduled airline service only started a decade later with Pacific Northern Airlines. â The jet age only arrived at Sitka in March 1967, when an Alaska Airlines Boeing 727-90C Golden Nugget touched its then gravel runway with 70 passengers. Gravel runway operations were still brand new to jet operators, and the 727 required a specific FAA certification before such a feat.Â  â Historical records say the âwholeâ city came to the airport to watch the landing, including the mayor, governor, and even a high school marching band. One of the employees shot an 8mm film of the landing that the local historical society preserved afterward. â The airport currently has a single terminal with a single jetway, operated mainly by Alaska Airlines, which serves the airport all year long with routes to Juneau and Ketchikan. Delta Connection runs a seasonal leg to Seattle-Tacoma. â The scenery features an accurate rendition of the airport, with a detailed replica of its buildings and vehicles, full PBR materials, texture baking effects on all buildings, high-resolution textures, and custom orthophoto for the airport and surroundings. â â â Itâs available onÂ SimMarketÂ for roughly $15.00, requiring at least 1.47 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mldtim</id>
-    <title>MLD Scenery Releases Timisoara International Airport for MSFS</title>
-    <updated>2023-08-07T00:00:00+00:00</updated>
-    <link href="/news/mldtim" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0c6b5a25e7c26e512795d_timi.png" rel="enclosure" type="image/png" length="4107280"/>
-    <summary>Sim: MSFS. MLD Scenery has recently released their rendition of TimiÈoara Traian Vuia International Airport (LRTR) for Microsoft Flight Simulator, the fourth busiest airport in Romania with a yearly average of 1.1 million passengers.  The airport was built in 1942 on a 91-hectare plot of land, originally sporting a 1,200x600m runway, a 9x5m plank cabin with offices, and a 20x8m shed.Â   A decade later, the airport received several upgrades to fit the needs of the Romanian Army, including a runway extension, bringing its length from 1,200 to 2,000 meters.Â   In the 60s, with Timisoaraâs growth becoming more and more evident and transforming the city into an economic center, the government decided to build a proper civil airport on its location, with a big passenger terminal and a 2,500m runway.  It was then modernized in the mid-1970s to meet the new demand for passenger traffic while also getting yet another runway extension. Arad International Airport took all of the Timisoara traffic during the works from 1977 to late 1979 as it only had one runway.  A new terminal for international arrivals was built between 2019 and 2021, further increasing the airportâs passenger handling capabilities.  AirConnect, Corendon Airlines, Eurowings, HiSky, Lufthansa, Sky Express, TAROM, and WizzAir serve it.  The scenery features an accurate rendition of the airport, with PBR textures, custom ground polygons, an up-to-date layout, custom night lighting, and a custom GSX profile. â Itâs available onÂ SimMarketÂ for roughly $15.32, requiring at least 1.21 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inippd</id>
-    <title>iniBuilds Announces Ponta Delgada - JoÃ£o Paulo II Airport for MSFS</title>
-    <updated>2023-08-07T00:00:00+00:00</updated>
-    <link href="/news/inippd" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d0f22877068fbd7a300fc8_inippd.png" rel="enclosure" type="image/png" length="1345317"/>
-    <summary>Sim: MSFS. iniBuilds has recently announced the development of Ponta Delgada - JoÃ£o Paulo II Airport (LPPD) for Microsoft Flight Simulator, serving the municipality of Ponta Delgada on SÃ£o Miguel Island in the Archipelago of the Azores with a yearly average of 2 million passengers. The airport's construction started in 1963, with the official inauguration only happening six years later in 1969 by President AmÃ©rico TomÃ¡s. Its primary purpose was serving inter-island connections and Europe, with regular flights to Lisbon beginning a year later. A new passenger terminal was inaugurated in 1995 when the airport also got its current name after the Pope's visit to the Azores four years prior. â The following decade post-new terminal brought massive growth in passenger traffic, which has been steadily growing, connecting the Azores to the world.  It's also the most important cargo airport in the Azores, handling over 10,000 tonnes yearly. Azores Airlines, Binter Canarias, British Airways, Edelweiss Air, Iberia, Lufthansa, Ryanair, SATA Air AÃ§ores, Smartwings, Swiss, TAP, Transavia, TUI fly Belgium, TUI fly Netherlands, and United Airlines all serve it, with most of them only offering their services during summer. iniBuilds' rendition is said to bring exceptional detail and immersion, with full interiors, points of interest, and more. They have also announced the "Summer Surprises" event, starting later this month with new product launches and announcements.  There's no information on the pricing or a release date, but Threshold will keep you informed! â</summary>
-    <published>2023-08-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/silkun</id>
     <title>Silvercrest Creations Releases Kumasi International Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d65769ea6688dd6d79da83_comanche45.jpg" rel="enclosure" type="image/jpeg" length="714985"/>
     <summary>Sim: MSFS.  A2A Simulations has recently updated their Accu-Sim Comanche to version 1.2.0, improving animations, ground physics tweaks, auto-rudder support, and more.  Itâs the second update since its release in mid-July, bringing 40 changes. The complete changelog follows down below: â â They finish theÂ update announcementÂ with a note saying they are still investigating an issue where the tablet is unclickable on SU13 Beta for VR users.  The add-on is available on theirÂ storeÂ for $49.99, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wfshou</id>
+    <title>Windsock Simulations Bringing Houston Hobby to X-Plane 12!</title>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <link href="/news/wfshou" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d67b17ef330ca4edb342d6_364801211_615774600538721_677912053120229073_n.jpg" rel="enclosure" type="image/jpeg" length="230414"/>
+    <summary>Sim: X-Plane. Windsock Simulations has announced a partnership with FSim Studios which will bring their rendition of Houston's William P. Hobby airport for Microsoft Flight Simulator and X-Plane 12.Â  William P. Hobby Airport (KHOU) is located 7 miles from downtown Houston and is the oldest operating airport in the area. Houston Hobby as it's referred to features 4 runways and acts as a main operating base for Southwest Airlines. The airport sees over 13 million passengers each year and has flights operating to most parts of the United States as well as international service to many Central and South American destinations. Windsock stated in their announcement that the project is still in its early stages but is progressing quickly. They have not announced a release date, yet but have said "we don't expect it to be longâ¦" Threshold is excited to bring you future updates on this and many other projects! â</summary>
+    <published>2023-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pu7071</id>
+    <title>PMDG Updates 737 Lineup for MSFS</title>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <link href="/news/pu7071" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d6c38610115e25ed35735c_1250410_20230529191347_1.png" rel="enclosure" type="image/png" length="2156550"/>
+    <summary>Sim: MSFS. PMDG has recently updated their 737 Lineup to version 3.00.0071, improving its stability, performance, and functionality on PC and Xbox. The new update focuses on performance improvements for lower-end machines and the Xbox Series S, improving memory usage. They have also fixed the engine spool behavior in low RPM ranges and made some AFDS roll control mode law adjustments, initialization sequence improvements, and back-end changes for future EFT compatibility. The complete changelog follows down below:   Robert Randazzo has also informed us about a delay on the 737-700 and -800's 3.00.0070 update on Marketplace (a version behind), which should match the other members of the lineup on 3.00.0071.Â   The EFB is still undergoing testing, with them recently pushing a build to their beta team with changes based on their feedback. They are already discussing a potential release date.  The 737 Lineup is available onÂ PMDG's StoreÂ for $69.99 (737-700 and 737-800), $49.99 (737-900), and $34.99 (737-600). Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/teaneo</id>
+    <title>Threshold Exclusive: Aerosoft Developing A321neo Alongside A330neo for MSFS</title>
+    <updated>2023-08-12T00:00:00+00:00</updated>
+    <link href="/news/teaneo" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d6ec3b8a303ebccfee5d41_Airbus%20Neo.jpg" rel="enclosure" type="image/jpeg" length="514500"/>
+    <summary>Sim: MSFS. German flight sim developer Aerosoft is planning to develop an Airbus A321neo alongside the previously announced A330neo for Microsoft Flight Simulator.Â  â According to a post on the website of the German Ministry of Economic Affairs and Climate Action, Aerosoft has received â¬459,000 from a grant to partially fund their development of the âAirbusNEO seriesâ, which includes the A330neo and A321neo.Â  â â The grant was set up by the German government in 2019 to help boost the games sector within Germany, and to make Germany a hub for game development in Europe. The German government has provided up to â¬50 million each year in grants, and has funded over 400 different video game projects. â Currently, Aerosoft has been hard at work on their highly anticipated A330ceo project for Microsoft Flight Simulator, which has come under new management after their previous product manager of more than twenty years, Mathijs Kok, left Aerosoft for the PMDG team. As of the time of writing, Kokâs new position at PMDG has not been revealed to the public yet.As for the A321neo and A330neo, there are a lot of unknowns about their respective projects. The posting on the website says that, âNumerous functions, animations and sound effects are to be developed using state-of-the-art tools that have not yet been implemented in Microsoft Flight Simulatorâ, suggesting that the complexity of these two aircraft will be something unlike their previous work in MSFS. We do not know when an intended release date would be, which aircraft will be released first, or if Aerosoft plans on releasing them as a bundle, as suggested by the post.Â  â At this point in time, much about both aircraft are up to speculation, but what we do know for certain is that they are planned, and they are coming in the near future.Threshold will keep you updated on all the developments regarding the upcoming Aerosoft airliners, so stay tuned! â</summary>
+    <published>2023-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mwitmg</id>
+    <title>Matt Wagner Interviewed on 'The Mover and Gonky Show'</title>
+    <updated>2023-08-12T00:00:00+00:00</updated>
+    <link href="/news/mwitmg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b327f6678e65e8f3e4d339_DCS_2.8_World_Combat_Flight_Simulator-04.jpg" rel="enclosure" type="image/jpeg" length="1140902"/>
+    <summary>Sim: DCS. Matt Wagner was recently Interviewed on 'The Mover and Gonky Show'. This was a two hour long video which included a DCS World Q&amp;A. There are some interesting points made in the video so IÂ encourage you to watch the video aswell.  A Broader Scope:The grand vision is to have a battlefield where ground units can operate seamlessly alongside helicopters and jets. This would mean an immersive experience where users could transition between different theaters of war, each detailed and realistic. â Ground Movement Animation:One of the focal areas for the Eagle Dynamics team currently is the ground movement for infantry. The older animations have stood the test of time but are now due for a refresh. An updated animation is in the works, promising more fluid and realistic movements, in sync with the advancements in game development technology. â New Additions and Updates:While some might be disappointed about the absence of Ukraine and Taiwan maps due to their sensitive nature, the future holds promise: Media Influence:The recent release of Top Gun 2 has spurred an interest in DCS modules. The movie's success resulted in a surge of sales for DCS modules, prompting Eagle Dynamics to release the special 'Be a Maverick' pack, which bundled the F-14, F/A-18, and Supercarrier. â Challenges and Solutions:It's not just about adding new content, but also about refining existing modules: â Potential Future Additions:Questions have arisen regarding the addition of certain aircraft like the SAAB Gripen or the Rafael. The challenge in adding 4+ gen aircraft is the acquisition of necessary resources. However, with partnerships and introductions, nothing is off the table. There's even been talk about the Flanker being introduced as a full-fidelity DCS module, though data acquisition remains a significant hurdle. â</summary>
+    <published>2023-08-12T00:00:00+00:00</published>
   </entry>
 </feed>
