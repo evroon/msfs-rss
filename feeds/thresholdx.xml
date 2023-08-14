@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-13T18:18:44.011661+00:00</updated>
+  <updated>2023-08-14T18:20:28.992448+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/silkun</id>
-    <title>Silvercrest Creations Releases Kumasi International Airport for MSFS</title>
-    <updated>2023-08-08T00:00:00+00:00</updated>
-    <link href="/news/silkun" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d1e6dc477a92b0d753132a_kum.jpg" rel="enclosure" type="image/jpeg" length="3095999"/>
-    <summary>Sim: MSFS. Silvercrest Creations has recently released their rendition of Kumasi International Airport (DGSI) for Microsoft Flight Simulator, serving the city of Kumasi in Ghana with a yearly average of 500,000 passengers.  The Royal Air Force built the airport in the early 1940s to serve as a military air base, becoming a civilian airport two years after the conflict was over upon authorization granted by the British Empire.Â  â A decade later, the airport underwent major redevelopment work on the runway and infrastructure, ensuring proper viability for commercial operations. The runway was improved again twenty years later with lights for nocturnal operations. â A new terminal was built in 1993 - commissioned by President Jerry John Rawlings -.Then, in 1999, it was changed from a military and commercial hybrid into a commercial airport only. â New terminal improvements came in 2008 for the African Cup of Nations and between 2014 and 2022, including a full expansion with the construction of a new 7,000 square meter terminal with VIP lounges, restaurants, commercial areas, three boarding gates, a central screening system, and an IATA compliant baggage handling system.Â  â The airport is currently served by Africa World Airlines and Passion Air, with flights to Accra and Wa. â The scenery features an accurate rendition of the airport, with a 3D model of the passenger terminal, custom objects, a terminal interior, and more.  Itâs available onÂ SimMarketÂ for roughly $9.87, requiring at least 432.56 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cowsd4</id>
     <title>New updates regarding COWS Diamond DA42!</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b327f6678e65e8f3e4d339_DCS_2.8_World_Combat_Flight_Simulator-04.jpg" rel="enclosure" type="image/jpeg" length="1140902"/>
     <summary>Sim: DCS. Matt Wagner was recently Interviewed on 'The Mover and Gonky Show'. This was a two hour long video which included a DCS World Q&amp;A. There are some interesting points made in the video so IÂ encourage you to watch the video aswell.  A Broader Scope:The grand vision is to have a battlefield where ground units can operate seamlessly alongside helicopters and jets. This would mean an immersive experience where users could transition between different theaters of war, each detailed and realistic. â Ground Movement Animation:One of the focal areas for the Eagle Dynamics team currently is the ground movement for infantry. The older animations have stood the test of time but are now due for a refresh. An updated animation is in the works, promising more fluid and realistic movements, in sync with the advancements in game development technology. â New Additions and Updates:While some might be disappointed about the absence of Ukraine and Taiwan maps due to their sensitive nature, the future holds promise: Media Influence:The recent release of Top Gun 2 has spurred an interest in DCS modules. The movie's success resulted in a surge of sales for DCS modules, prompting Eagle Dynamics to release the special 'Be a Maverick' pack, which bundled the F-14, F/A-18, and Supercarrier. â Challenges and Solutions:It's not just about adding new content, but also about refining existing modules: â Potential Future Additions:Questions have arisen regarding the addition of certain aircraft like the SAAB Gripen or the Rafael. The challenge in adding 4+ gen aircraft is the acquisition of necessary resources. However, with partnerships and introductions, nothing is off the table. There's even been talk about the Flanker being introduced as a full-fidelity DCS module, though data acquisition remains a significant hurdle. â</summary>
     <published>2023-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kpvums</id>
+    <title>Verticalsim Announces KPVU for MSFS</title>
+    <updated>2023-08-13T00:00:00+00:00</updated>
+    <link href="/news/kpvums" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d965b9fb858e6b7c40cb29_Screenshot%202023-08-13%20at%207.19.22%20PM.png" rel="enclosure" type="image/png" length="1467477"/>
+    <summary>Sim: MSFS. Verticalsim has announced they are working on a version of Provo Municipal Airport (KPVU) for Microsoft Flight Simulator. The announcement comes just two days after a post the developer made on their social media accounts hinting that an announcement would be coming for somewhere "they love Beehives and Skiing".  â Provo Municipal Airport is located 2 miles west of the city of Provo, Utah, and offers flights from both Allegiant Air and Breeze Airways. Provo Municipal features two runways with the larger of the two being 8600 feet long. The airport offers both terminal facilities as well as two FBOs (signature and Duncan Aviation). â Verticalsim promises a list of features for the scenery that includes custom Ortho, high-resolution texturing, custom taxiway signage, and proper airport lighting. At this time the developer has not announced a release date or price point for the project. Threshold looks forward to bringing you updates on this and other flight sim projects, stay tuned for more! â</summary>
+    <published>2023-08-13T00:00:00+00:00</published>
   </entry>
 </feed>
