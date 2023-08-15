@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-14T18:20:28.992448+00:00</updated>
+  <updated>2023-08-15T18:20:01.488218+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cowsd4</id>
-    <title>New updates regarding COWS Diamond DA42!</title>
-    <updated>2023-08-09T00:00:00+00:00</updated>
-    <link href="/news/cowsd4" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d2d8fe12a1ce1c15f0c0ae_webimage-B0D3B2B8-0249-4B85-A370BCE815CD4CEA.jpg" rel="enclosure" type="image/jpeg" length="972618"/>
-    <summary>Sim: X-Plane. Jacob provided an update covering the progress of the DA42 for X-Plane 12 via their Discord Channel. COWS is known for their meticulous flight testing and aims to provide the most accurate DA42 for X-Plane 12. With flight testing from real-world DA42 pilots, this iteration of the Diamond will likely be the most accurate you can buy. Improvements in the visual modeling and texturing, aiming to make the model as visually appealing as the MSFS counterpart.Â  Progress advancements for the in-house COWS NXi, a replica of G1000, are also highlighted. The development of the NXi may take slightly longer than anticipated, but steady progress has been made. Highly configurable, the NXi will feature in-depth renditions of the many complex configurations of the displayed GPS map. The addition of RAIM prediction to the map is a notable progress. See the map NXi in action here. Stay tuned to Threshold for more news regarding the progress of COWS DA42! â</summary>
-    <published>2023-08-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sswr26</id>
-    <title>Sim Skunk Works Releases SF260</title>
-    <updated>2023-08-09T00:00:00+00:00</updated>
-    <link href="/news/sswr26" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d2ee4fc81b4e5709d37170_323944_image4.jpg" rel="enclosure" type="image/jpeg" length="518586"/>
-    <summary>Sim: MSFS. Sim Skunk Works has released their rendition of the SIAI-Marchetti SF260. The release comes after a lengthy hiatus following the development group's last release, their rendition of the FRF-104G Starfighter.Â  â â The SIAI-Marchetti SF260 is typically marketed as a military and aerobatics trainer. Boasting a 6-cylinder air-cooled Lycoming engine attached to a Hartzell 2-blade constant speed propeller the SF260 has a cruise speed of 160 kts and a range of over 800 nautical miles.Â  â â Currently, the SF260 is available from SimMarket for â¬23 and features a fully animated 3D cockpit, high definition PBR textures, and fully modeled systems. The aircraft is also slated for future release on both Orbx as well as the MSFS Marketplace. â â Threshold looks forward to keeping you up to date on all things flight simulation!  â</summary>
-    <published>2023-08-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mmsrha</id>
     <title>MM Simulations Releases Horta Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d965b9fb858e6b7c40cb29_Screenshot%202023-08-13%20at%207.19.22%20PM.png" rel="enclosure" type="image/png" length="1467477"/>
     <summary>Sim: MSFS. Verticalsim has announced they are working on a version of Provo Municipal Airport (KPVU) for Microsoft Flight Simulator. The announcement comes just two days after a post the developer made on their social media accounts hinting that an announcement would be coming for somewhere "they love Beehives and Skiing".  â Provo Municipal Airport is located 2 miles west of the city of Provo, Utah, and offers flights from both Allegiant Air and Breeze Airways. Provo Municipal features two runways with the larger of the two being 8600 feet long. The airport offers both terminal facilities as well as two FBOs (signature and Duncan Aviation). â Verticalsim promises a list of features for the scenery that includes custom Ortho, high-resolution texturing, custom taxiway signage, and proper airport lighting. At this time the developer has not announced a release date or price point for the project. Threshold looks forward to bringing you updates on this and other flight sim projects, stay tuned for more! â</summary>
     <published>2023-08-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taiosl</id>
+    <title>Taimodels Releases Oslo Airport for X-Plane 11 &amp; 12</title>
+    <updated>2023-08-15T00:00:00+00:00</updated>
+    <link href="/news/taiosl" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64db78f35b8f7a3fa27551ff_osl1.png" rel="enclosure" type="image/png" length="3776960"/>
+    <summary>Sim: X-Plane. Taimodels has recently released their rendition of Oslo Airport (ENGM) for X-Plane 11 and 12, serving the Greater Oslo Region with a yearly average of 30 million passengers.  It was opened 25 years ago, replacing Oslo's former main airport (Fornebu), deemed too small for the ever-growing demand for air travel in the region.  Sporting over 200 destinations (domestic and international), OSL is a hub for Norse Atlantic Airways, Norwegian Air Shuttle, Scandinavian Airlines, and Wideroe. The visitors' list includes most major european airlines, such as Air France, Austrian Airlines, British Airways, Brussels Airlines, Eurowings, Finnair, Iberia, KLM, LOT Polish Airlines, Lufthansa, Ryanair, Swiss, TAP Air Portugal, Turkish, and WizzAir. Trondheim (2,092,000), Bergen (1,987,000), and Stavanger (1,603,000) are among the top three busiest destinations from Gardermoen, further reinforcing the strength of domestic operations in the airport.  The scenery features an accurate rendition of the airport, with high-detail models, SAM animated jetways, PBR texturing on objects and ground, custom ground textures, ground traffic plugin, custom autogen around the airport, and performance-friendly optimization.  It's available onÂ SimMarketÂ for roughly $24.04, requiring at least 2.72 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blgbur</id>
+    <title>Brazil Land Games Announces Uberaba Airport for MSFS</title>
+    <updated>2023-08-15T00:00:00+00:00</updated>
+    <link href="/news/blgbur" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64db883044d339e25f2f93b4_sbur.jpg" rel="enclosure" type="image/jpeg" length="498300"/>
+    <summary>Sim: MSFS. Brazil Land Games has recently announced the development of Uberaba - MÃ¡rio de Almeida Franco Airport (SBUR) for Microsoft Flight Simulator, serving the city of Uberaba in Minas Gerais, Brazil, with a yearly average of 104,856 passengers. â The airport was built in the 1930s, with its commercial debut in April 1934: a VASP flight on a Monospar ST4 from SÃ£o Paulo, with a single stop in RibeirÃ£o Preto. During its first decades of operation, it was only an airfield.  â A passenger terminal was only built in 1950, and promotion to airport status only came in 1958 after it was donated from the city to the government (the now defunct Ministry of Aviation).  â Infraero (a state-controlled airport administration company) took control in 1980, investing heavily in modernization and bringing it up to the expected standard of a commercial airport in Brazil: night lighting, a meteorological station, and an eventual terminal expansion many years later in 2008, doubling its passenger handling capabilities. â It was recently purchased by Aena, granting them 30 years of administrative rights over the airport and the obligation of modernizing it within five years of taking control (by 2027, at the very least).  â â The scenery will feature an accurate rendition of the airport, with custom ground textures, a detailed terminal interior, an up-to-date ground layout, and more. â Thereâs no release date or price information yet, but Threshold will keep you informed. â</summary>
+    <published>2023-08-15T00:00:00+00:00</published>
   </entry>
 </feed>
