@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-08-17T18:20:43.093988+00:00</updated>
+  <updated>2023-08-18T18:20:08.615619+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/july-27th-2023-development-update/</id>
-    <title>July 27th, 2023 Development Update</title>
-    <updated>2023-07-28T00:09:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-27th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/CpuGeta486-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="95507"/>
-    <summary>In case you missed it, we played a pre-recorded Developer video during our Community Fly-In Friday livestream last week. During this segment, we addressed upcoming changes to Microsoft Flight Simulator including an overview of some of the improvements coming with Sim Update 13 and a brief update on the white dot and white avionics border bugs.</summary>
-    <published>2023-07-28T00:09:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-3rd-2023-development-update/</id>
     <title>August 3rd, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/2023_Aug11-18_Sale_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122389"/>
     <summary>Enjoy discounted pricing on Marketplace content from AG Sim, Perfect Flight and V Pilot Designs.</summary>
     <published>2023-08-11T16:00:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-17th-2023-development-update/</id>
+    <title>August 17th, 2023 Development Update</title>
+    <updated>2023-08-17T22:12:21+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-17th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/IronWings_VP-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="38538"/>
+    <summary>August 18th is the three-year anniversary of the PC launch of Microsoft Flight Simulator! To the over 12 million sim pilots who have flown with us on PC, Xbox Series X|S, and Xbox Cloud Gaming: thank you for your support!</summary>
+    <published>2023-08-17T22:12:21+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
