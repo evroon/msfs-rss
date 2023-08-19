@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-18T18:20:11.735554+00:00</updated>
+  <updated>2023-08-19T18:18:37.668768+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flytee</id>
-    <title>Fly X Simulations Releases Teesside International Airport for MSFS</title>
-    <updated>2023-08-10T00:00:00+00:00</updated>
-    <link href="/news/flytee" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d51e374343d6f91839bd3f_tee1.webp" rel="enclosure" type="image/webp" length="757840"/>
-    <summary>Sim: MSFS. Fly X Simulations has recently released their rendition of Teesside International Airport (EGNV) for Microsoft Flight Simulator, serving North East England with a yearly average of 200,000 passengers.  It started as an RAF airfield in 1941, housing the RAF and the Royal Canadian Air Force during WW2.Â   Twenty years later, the airfield was developed into a civil airport named Tees-Side Airport. Many airlines served it during its first decade, including British Midland, BKS Air Transport, Dan-Air, Autair, and Channel Airways.Â   The 1970s were particularly rough for Teesside regarding scheduled services, with holiday flights becoming its primary source of passenger traffic through the wings of Northeast Airlines, Britannia Airways, Aviaco, Spantax, and Aviogenex. Â  Privatization came in 1987, with local authorities retaining their shares and the airport getting its current name: Teesside International Airport.  The airport was heavily upgraded in 2017 after a troublesome decade post-2008 crisis leading to a massive drop in passenger traffic figures leading to many airlines abandoning it for other nearby airports.Â   The renewal and subsequent takeover in 2018 brought back a lot of traffic, and the figures have been rising ever since.  BH Air, Eastern Airways, KLM, Loganair, Ryanair, and TUI Airways currently serve it.  The scenery features an accurate rendition of the airport, with PBR texturing, custom orthophoto for the airport and surroundings, custom terminal interior, custom ground textures, high-resolution textures, and more.  Itâs available on theÂ iniBuilds StoreÂ for roughly $15.25, requiring at least 2.76 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fthpva</id>
     <title>FeelThere Releases Puerto Vallarta Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/ddteia" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64df8218463b21b4ae64305f_elp1.png" rel="enclosure" type="image/png" length="891926"/>
     <summary>Sim: MSFS.  Dominicdesignteam has recently released their rendition of El Paso International Airport (KELP) for Microsoft Flight Simulator, serving the cities of El Paso (Texas), Las Cruces (New Mexico), and Ciudad JuarÃ©z (Mexico) with a yearly average of 3.6 million passengers.  It was built in 1929 by Standard Airlines as Standard Airport for transcontinental mail service, eventually becoming El Pasoâs main airport in 1936 after Standard became a division of American Airlines, which liked Standard Airport better than the other El Paso Airport.  During World War 2, the US Army utilized El Paso Airport to train three different bombardment groups.  The first expansion happened in 1971, tripling the terminal size with two new concourses built behind the old terminal, designed by Garland &amp; Hilles.  Its terminal features a pier-satellite layout and 15 gates, divided between A1 and A4 and B1-B11, with A1 and A4 being exclusively used by American Airlines and American Eagle, B1 for Delta Air Lines, B3, B5, B6, and B7 for Southwest Airlines, B10 for Allegiant, B8 and B9 for United Airlines and United Express, B4 for Alaska, and B11 for Frontier.  The scenery features an accurate rendition of the airport, with PBR textures, dynamic lighting, real ground markings, custom hand-crafted pavement, custom jetway, custom animated objects, and more.  Itâs available onÂ SimMarketÂ for roughly $17.99, requiring at least 781.63 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hybe</id>
+    <title>Fly2High Releases Belgrade Nikola Tesla Airport for MSFS</title>
+    <updated>2023-08-18T00:00:00+00:00</updated>
+    <link href="/news/f2hybe" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64dfc93a4f22c99d504634e5_bel.webp" rel="enclosure" type="image/webp" length="568896"/>
+    <summary>Sim: MSFS.  Fly2High has recently released their rendition of Belgrade Nikola Tesla Airport (LYBE) for Microsoft Flight Simulator, serving the Serbian city of Belgrade with a yearly average of 5.6 million passengers. â â The airport was built from 1958 to 1962, when it was opened by President Josip Broz Tito, with a passenger terminal occupying 8,000 square meters, a 3,000-meter-long runway, and concrete aprons for sixteen airplanes. It used modern navigational equipment, which granted it the highest international classification according to the ICAO.  â The Yugoslav wars brought stagnation and sanctions, which reduced passenger movement to a minimum, and most of the facilities were decaying and in dire need of repairs. â International traffic only resumed in 2001, followed by a major reconstruction of terminal 2 and runway upgrades in 2005, bringing it up to CATIIIb standards. Its current name was given in 2006 after the famous Serbian-American inventor and scientist.  â Expansion and modernization work started in 2012, reconstructing the A and C gate departure and transit areas, adding an extra 2,750 square meters of built space. Â  Currently, both terminals occupy a total area of 33,000 square meters, with 66 check-in counters and 27 gates (16 with jetways). Terminal 1 is the oldest of the two, recently renovated in 2017. Terminal 2, the largest, was built in 1979 and renovated twice (2006 and 2013), with capacity to deal with 5 million passengers yearly. â  The airport is a hub for Air Serbia and WizzAir, connecting Serbia to the world. The visitorsâ list includes Aegean Airlines, Air Cairo, Air Montenegro, AnadoluJet, Arkia, Austrian Airlines, British Airways, easyJet, Eurowings, flydubai, Hainan Airlines, Jazeera Airways, KLM, Lot Polish Airways, Lufthansa, Luxair, Norwegian Air Shuttle, Nouvelair, Pegasus Airlines, Qatar Airways, Swiss, TAROM, and Turkish Airlines. â The scenery features an accurate rendition of the airport, with custom VDGS, hand-made ground textures, dynamic airport lighting, highly detailed models, an official GSX profile, and performance-friendly optimization. â  Itâs available on theÂ iniBuilds StoreÂ for roughly $20.64, requiring at least 9.16 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-18T00:00:00+00:00</published>
   </entry>
 </feed>

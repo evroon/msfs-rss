@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-08-18T18:20:08.615619+00:00</updated>
+  <updated>2023-08-19T18:18:35.897796+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/august-3rd-2023-development-update/</id>
-    <title>August 3rd, 2023 Development Update</title>
-    <updated>2023-08-03T23:39:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-3rd-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/2525ARW-Twitter-1024x576.jpg" rel="enclosure" type="image/jpeg" length="88612"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user 2525ARW, taken flying above the Assumption of Maria Church in Slovenia. If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below! The development team is currently hard at work preparing the first beta build of Sim Update 13 … Continued</summary>
-    <published>2023-08-03T23:39:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/fsim-studios-miltech-simulations-and-simultech-sale/</id>
     <title>FSim Studios, Miltech Simulations and Simultech Sale</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/IronWings_VP-Twitter-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="38538"/>
     <summary>August 18th is the three-year anniversary of the PC launch of Microsoft Flight Simulator! To the over 12 million sim pilots who have flown with us on PC, Xbox Series X|S, and Xbox Cloud Gaming: thank you for your support!</summary>
     <published>2023-08-17T22:12:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/3-year-anniversary-sale/</id>
+    <title>Anniversary Sale: 65+ Items On Sale Now in the Marketplace</title>
+    <updated>2023-08-18T21:21:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/3-year-anniversary-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/August2023_AnniversarySale_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122887"/>
+    <summary>For 7 Days starting on August 18th, save up to 50% on more than 65 items.</summary>
+    <published>2023-08-18T21:21:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
