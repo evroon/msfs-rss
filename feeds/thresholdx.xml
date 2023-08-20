@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-19T18:18:37.668768+00:00</updated>
+  <updated>2023-08-20T18:18:29.281719+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fthpva</id>
-    <title>FeelThere Releases Puerto Vallarta Airport for MSFS</title>
-    <updated>2023-08-10T00:00:00+00:00</updated>
-    <link href="/news/fthpva" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d5279471883bb3ca9c9dae_val1.jpg" rel="enclosure" type="image/jpeg" length="1449461"/>
-    <summary>Sim: MSFS. FeelThere has recently released their rendition of Licenciado Gustavo DÃ­az Ordaz International Airport (MMPR) for Microsoft Flight Simulator, serving the city of Puerto Vallarta in Mexico with a yearly average of 6 million passengers. â The airportâs history dates back to the early 20th century when it started as a small airstrip serving the then small fishing village of Puerto Vallarta. In the 1960s, with Puerto Vallartaâs tourist boom, the government decided to invest in its potential and build a proper airport, which only started in the early 1970s, inaugurated in 1974. â The airport has been upgraded and expanded multiple times ever since, with the most recent one starting in 2022, allowing for 65% more operations a year. â Itâs served by multiple airlines, including AeromÃ©xico, AeromÃ©xico Connect, Air Canada, Air Transat, Alaska Airlines, American Airlines, American Eagle, Delta Air Lines, Finnair, Flair Airlines, Frontier Airlines, Magnicharters, Southwest Airlines, Spirit Airlines, Sun Country Airlines, Sunwing Airlines, Swoop, TAR, TUI Airways, United Airlines, United Express, Viva Aerobus, Volaris, and WestJet. â The scenery features an accurate rendition of the airport, with high-detail buildings, PBR texturing, custom animated jetways, custom ground poly, improved taxiway and runway lighting, hand-placed objects and clutter, and custom night lighting.  â Itâs available onÂ SimMarketÂ for roughly $19.73, requiring at least 339.26 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-08-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cssdvu</id>
-    <title> Crosstail Studios' A-1H Skyraider Dev Update</title>
-    <updated>2023-08-11T00:00:00+00:00</updated>
-    <link href="/news/cssdvu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d650eb3a496e72855c8eb9_366375757_666912625484279_6941976853579164448_n.jpg" rel="enclosure" type="image/jpeg" length="265516"/>
-    <summary>Sim: DCS. Crosstail Studios has made amazing progress in their A-1H Skyraider module for DCS World. They have all been working day and night in order to produce a realistic rendition of this magnificent aircraft. There are multiple areas which are touched on in this article ranging from Flight Model changes to their Future development plans. â The journey has just begun! With plans to infuse life-like animations and intricate textures. Stay tuned, as they continue to develop this amazing aircraft and more updates come to light. In conclusion, Crosstail Studios continues to provide development updates to this module and although no pricing information or release date has been confirmed, Threshold will keep you informed as more news comes to light. â</summary>
-    <published>2023-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2a120</id>
-    <title>A2A Simulations Updates Accu-Sim Comanche for MSFS</title>
-    <updated>2023-08-11T00:00:00+00:00</updated>
-    <link href="/news/a2a120" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d65769ea6688dd6d79da83_comanche45.jpg" rel="enclosure" type="image/jpeg" length="714985"/>
-    <summary>Sim: MSFS.  A2A Simulations has recently updated their Accu-Sim Comanche to version 1.2.0, improving animations, ground physics tweaks, auto-rudder support, and more.  Itâs the second update since its release in mid-July, bringing 40 changes. The complete changelog follows down below: â â They finish theÂ update announcementÂ with a note saying they are still investigating an issue where the tablet is unclickable on SU13 Beta for VR users.  The add-on is available on theirÂ storeÂ for $49.99, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wfshou</id>
     <title>Windsock Simulations Bringing Houston Hobby to X-Plane 12!</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64dfc93a4f22c99d504634e5_bel.webp" rel="enclosure" type="image/webp" length="568896"/>
     <summary>Sim: MSFS.  Fly2High has recently released their rendition of Belgrade Nikola Tesla Airport (LYBE) for Microsoft Flight Simulator, serving the Serbian city of Belgrade with a yearly average of 5.6 million passengers. â â The airport was built from 1958 to 1962, when it was opened by President Josip Broz Tito, with a passenger terminal occupying 8,000 square meters, a 3,000-meter-long runway, and concrete aprons for sixteen airplanes. It used modern navigational equipment, which granted it the highest international classification according to the ICAO.  â The Yugoslav wars brought stagnation and sanctions, which reduced passenger movement to a minimum, and most of the facilities were decaying and in dire need of repairs. â International traffic only resumed in 2001, followed by a major reconstruction of terminal 2 and runway upgrades in 2005, bringing it up to CATIIIb standards. Its current name was given in 2006 after the famous Serbian-American inventor and scientist.  â Expansion and modernization work started in 2012, reconstructing the A and C gate departure and transit areas, adding an extra 2,750 square meters of built space. Â  Currently, both terminals occupy a total area of 33,000 square meters, with 66 check-in counters and 27 gates (16 with jetways). Terminal 1 is the oldest of the two, recently renovated in 2017. Terminal 2, the largest, was built in 1979 and renovated twice (2006 and 2013), with capacity to deal with 5 million passengers yearly. â  The airport is a hub for Air Serbia and WizzAir, connecting Serbia to the world. The visitorsâ list includes Aegean Airlines, Air Cairo, Air Montenegro, AnadoluJet, Arkia, Austrian Airlines, British Airways, easyJet, Eurowings, flydubai, Hainan Airlines, Jazeera Airways, KLM, Lot Polish Airways, Lufthansa, Luxair, Norwegian Air Shuttle, Nouvelair, Pegasus Airlines, Qatar Airways, Swiss, TAROM, and Turkish Airlines. â The scenery features an accurate rendition of the airport, with custom VDGS, hand-made ground textures, dynamic airport lighting, highly detailed models, an official GSX profile, and performance-friendly optimization. â  Itâs available on theÂ iniBuilds StoreÂ for roughly $20.64, requiring at least 9.16 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/thr172</id>
+    <title>Thranda Announces Cessna 172M for X-Plane 12</title>
+    <updated>2023-08-19T00:00:00+00:00</updated>
+    <link href="/news/thr172" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e12958b34225ee9e6bbbd5_172-1.jpg" rel="enclosure" type="image/jpeg" length="74749"/>
+    <summary>Sim: X-Plane. Thranda has recently announced the development and imminent release of a Cessna 172M for X-Plane 12, part of theirÂ Dynamic Generation SeriesÂ of aircraft, with a strong focus on realism and customizability.  The 172M is a variant of Cessnaâs long-lasting 172 family of aircraft, introduced in 1955 and still under production to this day, with 44,000 units built in total, making it the most popular aircraft in the world. Said variant dates back to 1973, featuring a drooped wing leading edge as its main design difference compared to the previous variants, and the 1974 model had a baggage compartment expansion. Every model year brought a subtle change, with the lettering changing every four years on average (the M variant was manufactured from 1973 to 1976). For example, the L variant from 1971-1972 had changes on the main gear, a dorsal fin extension, and a propeller diameter reduction.Â   The last generation of 172Ms from 1976 marked the end of airspeed registration in miles per hour, switching to knots per the new standard. It was also the last generation to sport the Lycoming O-320-E2D with 150 horsepower, as the 172N had the âinfamousâ O-320-H2AD with 160 horsepower.Â   Thrandaâs rendition features extremely high-resolution textures (1700 pixels per meter) in 8K, a fully configurable 3D instrument panel, VR compatibility, interchangeable yoke styles, over 50 instruments to choose from, liberty to move instruments to any location on the panel, four panel presets, 3D lighting, a dynamic livery editor, full PBR control for livery creators, adjustable wear and tear, windshield ice and rain effects, individual functional circuit breakers, and more.  The complete feature list can be foundÂ hereÂ on their X-Plane.Org Store placeholder (as the product isnât out at the time of writing). The add-on will be available for $29.95 (25% off) and will require 1.4 GB of hard disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpstr</id>
+    <title>RDPresets Announces Stuttgart Airport for MSFS</title>
+    <updated>2023-08-19T00:00:00+00:00</updated>
+    <link href="/news/rdpstr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e13f7004a0acb031b81b24_str1.jpg" rel="enclosure" type="image/jpeg" length="427641"/>
+    <summary>Sim: MSFS. RDPresets has recently announced the development and imminent release of Stuttgart Airport (EDDS) for Microsoft Flight Simulator, serving the city of Stuttgart in Germany with a yearly average of 7 million passengers. â Built in 1939 to replace BÃ¶blingen Airport, it was taken over by the American forces right after the war. It was partially returned in 1948: runway and facilities were shared with the US Army during the Cold War. â The original terminal was replaced in 2004 with four terminals capable of handling up to 12 million passengers annually.  â Eurowings and Turkish Airlines use Terminal 1; Terminal 2 is used by Lufthansa and Star Alliance partners; Terminal 3 is used by TUIfly and KLM, and Terminal 4 is a separate building for other airlines, set to be rebuilt and expanded in the future. â Itâs a hub for Condor, Eurowings, and TUI fly Deutschland, sporting a substantial list of destinations. â The scenery, set to release on Monday, will feature an accurate rendition of the airport, with custom ground markings, a terminal interior, 3d people, and more.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/eglc12</id>
+    <title>Orbx releases London City Airport (EGLC) for X-Plane 12</title>
+    <updated>2023-08-20T00:00:00+00:00</updated>
+    <link href="/news/eglc12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e1b11e3e306d20a65ad58e_Screenshot%202023-08-20%20at%201.22.18%20AM.png" rel="enclosure" type="image/png" length="379183"/>
+    <summary>Sim: X-Plane. Orbx has released their rendition of London City Airport (EGLC) for X-Plane 12. The company announced on its social media accounts that those who purchased the airport for X-Plane 11 will be able to upgrade to the new version for free.  London City Airport is located in the Royal Docks in the borough of Newham, approximately 6 miles east of London. The airport, which features a single runway, has strict noise abatement procedures due to its proximity to the city. Because of these procedures, the list of aircraft able to operate in and out of EGLC is quite short and features mainly turboprops and regional jets.  Those interested in the new version of EGLC from Orbx can expect to find several new features from the previous version including updated terminal and building models, updated satellite imagery for the airport and surrounding area, and animated vegetation. The new version of the scenery also features custom PBR textures, a detailed interior for the ATC tower, and integration with default roads, railways, and autogen and is available on the Orbx website for $29.99AUD. â Be sure to keep an eye on Threshold to stay up to date in the world of flight simulation!  â</summary>
+    <published>2023-08-20T00:00:00+00:00</published>
   </entry>
 </feed>
