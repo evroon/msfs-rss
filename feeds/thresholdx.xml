@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-20T18:18:29.281719+00:00</updated>
+  <updated>2023-08-21T18:19:34.190657+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/wfshou</id>
-    <title>Windsock Simulations Bringing Houston Hobby to X-Plane 12!</title>
-    <updated>2023-08-11T00:00:00+00:00</updated>
-    <link href="/news/wfshou" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d67b17ef330ca4edb342d6_364801211_615774600538721_677912053120229073_n.jpg" rel="enclosure" type="image/jpeg" length="230414"/>
-    <summary>Sim: X-Plane. Windsock Simulations has announced a partnership with FSim Studios which will bring their rendition of Houston's William P. Hobby airport for Microsoft Flight Simulator and X-Plane 12.Â  William P. Hobby Airport (KHOU) is located 7 miles from downtown Houston and is the oldest operating airport in the area. Houston Hobby as it's referred to features 4 runways and acts as a main operating base for Southwest Airlines. The airport sees over 13 million passengers each year and has flights operating to most parts of the United States as well as international service to many Central and South American destinations. Windsock stated in their announcement that the project is still in its early stages but is progressing quickly. They have not announced a release date, yet but have said "we don't expect it to be longâ¦" Threshold is excited to bring you future updates on this and many other projects! â</summary>
-    <published>2023-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pu7071</id>
-    <title>PMDG Updates 737 Lineup for MSFS</title>
-    <updated>2023-08-11T00:00:00+00:00</updated>
-    <link href="/news/pu7071" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d6c38610115e25ed35735c_1250410_20230529191347_1.png" rel="enclosure" type="image/png" length="2156550"/>
-    <summary>Sim: MSFS. PMDG has recently updated their 737 Lineup to version 3.00.0071, improving its stability, performance, and functionality on PC and Xbox. The new update focuses on performance improvements for lower-end machines and the Xbox Series S, improving memory usage. They have also fixed the engine spool behavior in low RPM ranges and made some AFDS roll control mode law adjustments, initialization sequence improvements, and back-end changes for future EFT compatibility. The complete changelog follows down below:   Robert Randazzo has also informed us about a delay on the 737-700 and -800's 3.00.0070 update on Marketplace (a version behind), which should match the other members of the lineup on 3.00.0071.Â   The EFB is still undergoing testing, with them recently pushing a build to their beta team with changes based on their feedback. They are already discussing a potential release date.  The 737 Lineup is available onÂ PMDG's StoreÂ for $69.99 (737-700 and 737-800), $49.99 (737-900), and $34.99 (737-600). Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/teaneo</id>
-    <title>Threshold Exclusive: Aerosoft Developing A321neo Alongside A330neo for MSFS</title>
-    <updated>2023-08-12T00:00:00+00:00</updated>
-    <link href="/news/teaneo" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d6ec3b8a303ebccfee5d41_Airbus%20Neo.jpg" rel="enclosure" type="image/jpeg" length="514500"/>
-    <summary>Sim: MSFS. German flight sim developer Aerosoft is planning to develop an Airbus A321neo alongside the previously announced A330neo for Microsoft Flight Simulator.Â  â According to a post on the website of the German Ministry of Economic Affairs and Climate Action, Aerosoft has received â¬459,000 from a grant to partially fund their development of the âAirbusNEO seriesâ, which includes the A330neo and A321neo.Â  â â The grant was set up by the German government in 2019 to help boost the games sector within Germany, and to make Germany a hub for game development in Europe. The German government has provided up to â¬50 million each year in grants, and has funded over 400 different video game projects. â Currently, Aerosoft has been hard at work on their highly anticipated A330ceo project for Microsoft Flight Simulator, which has come under new management after their previous product manager of more than twenty years, Mathijs Kok, left Aerosoft for the PMDG team. As of the time of writing, Kokâs new position at PMDG has not been revealed to the public yet.As for the A321neo and A330neo, there are a lot of unknowns about their respective projects. The posting on the website says that, âNumerous functions, animations and sound effects are to be developed using state-of-the-art tools that have not yet been implemented in Microsoft Flight Simulatorâ, suggesting that the complexity of these two aircraft will be something unlike their previous work in MSFS. We do not know when an intended release date would be, which aircraft will be released first, or if Aerosoft plans on releasing them as a bundle, as suggested by the post.Â  â At this point in time, much about both aircraft are up to speculation, but what we do know for certain is that they are planned, and they are coming in the near future.Threshold will keep you updated on all the developments regarding the upcoming Aerosoft airliners, so stay tuned! â</summary>
-    <published>2023-08-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mwitmg</id>
     <title>Matt Wagner Interviewed on 'The Mover and Gonky Show'</title>
@@ -149,7 +122,34 @@
     <updated>2023-08-20T00:00:00+00:00</updated>
     <link href="/news/eglc12" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e1b11e3e306d20a65ad58e_Screenshot%202023-08-20%20at%201.22.18%20AM.png" rel="enclosure" type="image/png" length="379183"/>
-    <summary>Sim: X-Plane. Orbx has released their rendition of London City Airport (EGLC) for X-Plane 12. The company announced on its social media accounts that those who purchased the airport for X-Plane 11 will be able to upgrade to the new version for free.  London City Airport is located in the Royal Docks in the borough of Newham, approximately 6 miles east of London. The airport, which features a single runway, has strict noise abatement procedures due to its proximity to the city. Because of these procedures, the list of aircraft able to operate in and out of EGLC is quite short and features mainly turboprops and regional jets.  Those interested in the new version of EGLC from Orbx can expect to find several new features from the previous version including updated terminal and building models, updated satellite imagery for the airport and surrounding area, and animated vegetation. The new version of the scenery also features custom PBR textures, a detailed interior for the ATC tower, and integration with default roads, railways, and autogen and is available on the Orbx website for $29.99AUD. â Be sure to keep an eye on Threshold to stay up to date in the world of flight simulation!  â</summary>
+    <summary>Sim: X-Plane. Orbx has released their rendition of London City Airport (EGLC) for X-Plane 12. The company announced on its social media accounts that those who purchased the airport for X-Plane 11 will be able to upgrade to the new version for $9.99.  London City Airport is located in the Royal Docks in the borough of Newham, approximately 6 miles east of London. The airport, which features a single runway, has strict noise abatement procedures due to its proximity to the city. Because of these procedures, the list of aircraft able to operate in and out of EGLC is quite short and features mainly turboprops and regional jets.  Those interested in the new version of EGLC from Orbx can expect to find several new features from the previous version including updated terminal and building models, updated satellite imagery for the airport and surrounding area, and animated vegetation. The new version of the scenery also features custom PBR textures, a detailed interior for the ATC tower, and integration with default roads, railways, and autogen and is available on the Orbx website for $29.99AUD. â Be sure to keep an eye on Threshold to stay up to date in the world of flight simulation!  â</summary>
+    <published>2023-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skwrks</id>
+    <title>Skunkworks Updater for X-Plane Goes Standalone </title>
+    <updated>2023-08-20T00:00:00+00:00</updated>
+    <link href="/news/skwrks" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e2799a63d2210846070633_SkunkCraftsUpdaterv3.0.go_005.thumb.jpg.225758de8b30ba545f3b3ad23cf824eb.jpg" rel="enclosure" type="image/jpeg" length="80576"/>
+    <summary>Sim: X-Plane. The popular aircraft updater for X-Plane, has recently been released as a standalone client. This client was developed alongside Aerobask, who have had a strong relationship with Skunkworks since its initial inception.Â  â The new standalone client has all the same features of the current plugin version, although users can now update their X-Plane aircraft without the need to launch the program. Existing users can use the new standalone client without uninstalling the existing plugin. However, developers are recommending that users choose one version over the other.Â  The new standalone client can be downloaded for free from the X-Plane Forums, both Mac and Windows versions are available. X-Crafts have also written a user guide for the new updater, that guide can be found here.Â  â As always, stay tuned to Threshold for the latest Flight Sim News â</summary>
+    <published>2023-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbde3</id>
+    <title>Orbx Announces Idahoâs Deadly 3 for MSFS</title>
+    <updated>2023-08-20T00:00:00+00:00</updated>
+    <link href="/news/orbde3" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e284bf443afee27e4cd5ad_ded1.jpg" rel="enclosure" type="image/jpeg" length="561791"/>
+    <summary>Sim: MSFS. Orbx has recently announced the development and imminent release of Idahoâs Deadly 3 for Microsoft Flight Simulator, a pack with three challenging airstrips and a bonus makeshift helicopter area with a STOL landing zone.Â  â The âDeadly 3â are three challenging airstrips scattered around Idaho with tricky approaches, uphill slopes, birds, wildlife, and drones!Â   â Dewey Moore, the first of the airstrips, is located on the north side of Big Creek, 19 miles west of the junction of Big Creek and the Middle Fork of the Salmon River, with a 700 ft long gravel runway at 4,494 feet above sea level. Itâs recommended for highly experienced mountain pilots only (in real life). â SimondsÂ is a very difficult airstrip located on Monumental Creek, close to where it joins up with Big Creek. Itâs often used for guided hunting trips and doesnât have any infrastructure, meaning pilots should bring their own tie-downs and camping equipment. It has a 900 ft long gravel runway, and pilots are instructed to watch for traffic from the nearby Monumental Ranch private airstrip. â VinesÂ AirstripÂ is located on the south side of Big Creek Canyon, two miles west of Cabin Creek Airstrip, close to where Big Creek joins into the Middle Fork of the Salmon River. Itâs a 1,100 ft gravel strip at 4,110 feet above sea level, and pilots are instructed to land on runway 27 and take off from runway 9. Real-life recommendations include instructions on short field operations, and pilots are generally advised to follow Big Creek to avoid trees on final approach and watch their airspeed very carefully as a 10 percent increase in approach speed means a 21% increase in landing distance.Â  â  The three strips are a short flight away fromÂ 85U Soldier BarÂ andÂ McCall Municipal AirportÂ (KMYL), both developed by Milo Taylor, the author of Idahoâs Deadly 3. His new creation features substantial terraforming work, custom animations, custom vegetation, and much more. The complete feature list for the package follows down below:  â There is no pricing or release date information yet, but Threshold will keep you informed! â</summary>
+    <published>2023-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/zls152</id>
+    <title>ZL Simulation Releases Cessna 152 Freeware for X-Plane 11 &amp; 12</title>
+    <updated>2023-08-20T00:00:00+00:00</updated>
+    <link href="/news/zls152" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e28c1e555ee9fc45747f4d_152.png" rel="enclosure" type="image/png" length="1293898"/>
+    <summary>Sim: X-Plane. ZL Simulation has recently released a freeware Cessna 152 for X-Plane 11 and 12, featuring a realistic flight model and physics, PBR textures, a 3D cockpit, and much more.Â  â The Cessna 152 is one of the most popular trainer aircraft in the world, with over 7,500 built during its eight years of production (1977-1985). It was a modernization of the Cessna 150 design with an improved engine, greater useful load, noise level reduction, and better compatibility with 100LL fuel. They were powered by a Lycoming O-235-L2C engine producing 110 horsepower at 2,550 RPM, with a range of 416 nautical miles, a 14,700ft service ceiling, and 123 miles per hour of cruise speed. â Production ended when Cessna decided to end production of all of their light aircraft, with a successor being developed in the form of the unsuccessful 162 Skycatcher (2007-2013). â According to the developer, the project has been worked on for over three years, featuring a realistic flight model, PBR texturing, a 3D cockpit, custom FMOD sounds, ten liveries, a paintkit, performance-friendly optimization, windshield rain effects on X-Plane 12, a built-in Garmin GNS 430 GPS, and custom coded systems using XTLua. â Itâs free onÂ X-Plane.Org, and the source code is open-sourced onÂ GitHub.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-20T00:00:00+00:00</published>
   </entry>
 </feed>
