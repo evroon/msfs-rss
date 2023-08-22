@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-21T18:19:34.190657+00:00</updated>
+  <updated>2023-08-22T18:20:39.004569+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mwitmg</id>
-    <title>Matt Wagner Interviewed on 'The Mover and Gonky Show'</title>
-    <updated>2023-08-12T00:00:00+00:00</updated>
-    <link href="/news/mwitmg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64b327f6678e65e8f3e4d339_DCS_2.8_World_Combat_Flight_Simulator-04.jpg" rel="enclosure" type="image/jpeg" length="1140902"/>
-    <summary>Sim: DCS. Matt Wagner was recently Interviewed on 'The Mover and Gonky Show'. This was a two hour long video which included a DCS World Q&amp;A. There are some interesting points made in the video so IÂ encourage you to watch the video aswell.  A Broader Scope:The grand vision is to have a battlefield where ground units can operate seamlessly alongside helicopters and jets. This would mean an immersive experience where users could transition between different theaters of war, each detailed and realistic. â Ground Movement Animation:One of the focal areas for the Eagle Dynamics team currently is the ground movement for infantry. The older animations have stood the test of time but are now due for a refresh. An updated animation is in the works, promising more fluid and realistic movements, in sync with the advancements in game development technology. â New Additions and Updates:While some might be disappointed about the absence of Ukraine and Taiwan maps due to their sensitive nature, the future holds promise: Media Influence:The recent release of Top Gun 2 has spurred an interest in DCS modules. The movie's success resulted in a surge of sales for DCS modules, prompting Eagle Dynamics to release the special 'Be a Maverick' pack, which bundled the F-14, F/A-18, and Supercarrier. â Challenges and Solutions:It's not just about adding new content, but also about refining existing modules: â Potential Future Additions:Questions have arisen regarding the addition of certain aircraft like the SAAB Gripen or the Rafael. The challenge in adding 4+ gen aircraft is the acquisition of necessary resources. However, with partnerships and introductions, nothing is off the table. There's even been talk about the Flanker being introduced as a full-fidelity DCS module, though data acquisition remains a significant hurdle. â</summary>
-    <published>2023-08-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kpvums</id>
-    <title>Verticalsim Announces KPVU for MSFS</title>
-    <updated>2023-08-13T00:00:00+00:00</updated>
-    <link href="/news/kpvums" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64d965b9fb858e6b7c40cb29_Screenshot%202023-08-13%20at%207.19.22%20PM.png" rel="enclosure" type="image/png" length="1467477"/>
-    <summary>Sim: MSFS. Verticalsim has announced they are working on a version of Provo Municipal Airport (KPVU) for Microsoft Flight Simulator. The announcement comes just two days after a post the developer made on their social media accounts hinting that an announcement would be coming for somewhere "they love Beehives and Skiing".  â Provo Municipal Airport is located 2 miles west of the city of Provo, Utah, and offers flights from both Allegiant Air and Breeze Airways. Provo Municipal features two runways with the larger of the two being 8600 feet long. The airport offers both terminal facilities as well as two FBOs (signature and Duncan Aviation). â Verticalsim promises a list of features for the scenery that includes custom Ortho, high-resolution texturing, custom taxiway signage, and proper airport lighting. At this time the developer has not announced a release date or price point for the project. Threshold looks forward to bringing you updates on this and other flight sim projects, stay tuned for more! â</summary>
-    <published>2023-08-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/taiosl</id>
     <title>Taimodels Releases Oslo Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e28c1e555ee9fc45747f4d_152.png" rel="enclosure" type="image/png" length="1293898"/>
     <summary>Sim: X-Plane. ZL Simulation has recently released a freeware Cessna 152 for X-Plane 11 and 12, featuring a realistic flight model and physics, PBR textures, a 3D cockpit, and much more.Â  â The Cessna 152 is one of the most popular trainer aircraft in the world, with over 7,500 built during its eight years of production (1977-1985). It was a modernization of the Cessna 150 design with an improved engine, greater useful load, noise level reduction, and better compatibility with 100LL fuel. They were powered by a Lycoming O-235-L2C engine producing 110 horsepower at 2,550 RPM, with a range of 416 nautical miles, a 14,700ft service ceiling, and 123 miles per hour of cruise speed. â Production ended when Cessna decided to end production of all of their light aircraft, with a successor being developed in the form of the unsuccessful 162 Skycatcher (2007-2013). â According to the developer, the project has been worked on for over three years, featuring a realistic flight model, PBR texturing, a 3D cockpit, custom FMOD sounds, ten liveries, a paintkit, performance-friendly optimization, windshield rain effects on X-Plane 12, a built-in Garmin GNS 430 GPS, and custom coded systems using XTLua. â Itâs free onÂ X-Plane.Org, and the source code is open-sourced onÂ GitHub.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpsta</id>
+    <title>RDPresets Releases Stuttgart Airport for MSFS</title>
+    <updated>2023-08-21T00:00:00+00:00</updated>
+    <link href="/news/rdpsta" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e3b2140c83b990822b06c4_str1.webp" rel="enclosure" type="image/webp" length="208592"/>
+    <summary>Sim: MSFS. RDPresets has recently announced the development and imminent release of Stuttgart Airport (EDDS) for Microsoft Flight Simulator, serving the city of Stuttgart in Germany with a yearly average of 7 million passengers.  Built in 1939 to replace BÃ¶blingen Airport, it was taken over by the American forces right after the war. It was partially returned in 1948: runway and facilities were shared with the US Army during the Cold War. â The original terminal was replaced in 2004 with four terminals capable of handling up to 12 million passengers annually. â Eurowings and Turkish Airlines use Terminal 1; Terminal 2 is used by Lufthansa and Star Alliance partners; Terminal 3 is used by TUIfly and KLM, and Terminal 4 is a separate building for other airlines, set to be rebuilt and expanded in the future. â Itâs a hub for Condor, Eurowings, and TUI fly Deutschland, sporting a substantial list of destinations. â The scenery features an accurate rendition of the airport, with animated jetways, custom models, PBR texturing, a custom interior with 3D passengers, more than a thousand clutter objects around the apron and surroundings, custom ground textures, performance-friendly optimization, accurate night lighting, custom taxiway signage, ground traffic, and more. â Itâs available on theirÂ websiteÂ for roughly $22.87, requiring at least 1.02 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shdlgw</id>
+    <title>SHADESCENE Releases Langkawi International Airport for MSFS</title>
+    <updated>2023-08-21T00:00:00+00:00</updated>
+    <link href="/news/shdlgw" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e3b62db27874f94dfe72e8_lkw1.png" rel="enclosure" type="image/png" length="1200571"/>
+    <summary>Sim: MSFS. SHADESCENE has recently released their rendition of Langkawi International Airport (WMKL), serving Langkawi and Peris in Malaysia with a yearly average of 3 million passengers.  It was built by the Japanese Army in 1945 as an airfield, only becoming a passenger airport in the late 1980s after a huge effort by the government to develop Langkawi as a major tourist destination.  It saw its first upgrade in 1991, bringing it up to international standards in terms of infrastructure.  The airport was expanded in 2018 to accommodate up to 4 million passengers annually.Â   AirAsia (Johor Bahru, Kuala LumpurâInternational, Penang, Singapore), Batik Air Malaysia (Kuala LumpurâSubang, Kuala LumpurâInternational), Firefly (Kuala LumpurâSubang, Penang), Malaysia Airlines (Kuala LumpurâInternational), MYAirline Â (Kuala LumpurâInternational), and Scoot (Singapore) serve it.  The scenery features an accurate rendition of the airport, with custom terraforming, custom scenery objects, moderate terminal interior details, custom night lighting, hand-crafted ground markings and textures, and more.  Itâs available onÂ SimMarketÂ for roughly $13.03, requiring at least 242.91 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-21T00:00:00+00:00</published>
   </entry>
 </feed>
