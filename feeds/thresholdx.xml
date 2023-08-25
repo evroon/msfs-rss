@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-24T18:21:01.619053+00:00</updated>
+  <updated>2023-08-25T18:20:51.389581+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/eglc12</id>
-    <title>Orbx releases London City Airport (EGLC) for X-Plane 12</title>
-    <updated>2023-08-20T00:00:00+00:00</updated>
-    <link href="/news/eglc12" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e1b11e3e306d20a65ad58e_Screenshot%202023-08-20%20at%201.22.18%20AM.png" rel="enclosure" type="image/png" length="379183"/>
-    <summary>Sim: X-Plane. Orbx has released their rendition of London City Airport (EGLC) for X-Plane 12. The company announced on its social media accounts that those who purchased the airport for X-Plane 11 will be able to upgrade to the new version for $9.99.  London City Airport is located in the Royal Docks in the borough of Newham, approximately 6 miles east of London. The airport, which features a single runway, has strict noise abatement procedures due to its proximity to the city. Because of these procedures, the list of aircraft able to operate in and out of EGLC is quite short and features mainly turboprops and regional jets.  Those interested in the new version of EGLC from Orbx can expect to find several new features from the previous version including updated terminal and building models, updated satellite imagery for the airport and surrounding area, and animated vegetation. The new version of the scenery also features custom PBR textures, a detailed interior for the ATC tower, and integration with default roads, railways, and autogen and is available on the Orbx website for $29.99AUD. â Be sure to keep an eye on Threshold to stay up to date in the world of flight simulation!  â</summary>
-    <published>2023-08-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/skwrks</id>
     <title>Skunkworks Updater for X-Plane Goes Standalone </title>
@@ -150,6 +141,15 @@
     <link href="/news/ahlanc" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e7791e74375c96a60fc797_1.PNG" rel="enclosure" type="image/png" length="452383"/>
     <summary>Sim: MSFS. Aeroplane Heaven has made an announcement regarding the development of their upcoming Avro Lancaster for Microsoft Flight Simulator. The Lancaster project was originally announced back in 2022, it has been a main focus for the company since the release of their DC-3 for the Microsoft Flight Simulator 40th anniversary update.Â  â â â The Avro Lancaster was a highly significant aircraft developed for the RAF during World War Two. It proudly served not only the Royal Air Force but also the Royal Australian Air Force and the Royal Canadian Air Force. The Lancaster was designed with a spacious bomb bay, allowing it to accommodate the largest bombs utilized by the RAF. It is most notable for its pivotal role in Operation Chastise, better known as the Dam Busters raid. In this operation, British flight crews skillfully dropped cylindrical-shaped bombs, ingeniously spinning them before release, to have the bombs skip across the water to effectively destroy the MÃ¶hne and Edersee dams. â â The development update, which was posted to Aeroplane Heaven's Facebook page, states that the modeling and textures are nearing completion, however, there's been no announcement regarding a release date other than that it's expected to be released in the second half of 2023. Aeroplane Heaven has stated they're also working on "some cool coding ideas to bring extra functionality" to the aircraft, though it hasn't been announced what these extra functionalities may include. Aeroplane Heaven has also hinted at the possibility of additional model variants (Mk I, Mk III, etc.) if "time allows". The developer has however confirmed that the aircraft will include custom flight crew models that feature period-correct uniforms and equipment.Â  â â Threshold is excited to bring you this and other updates for your favorite simulators! â</summary>
+    <published>2023-08-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hccr</id>
+    <title>Fly2High Releases Corpus Christi International Airport for MSFS</title>
+    <updated>2023-08-24T00:00:00+00:00</updated>
+    <link href="/news/f2hccr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e7dcd796fdf5a42c9bd7a7_corpus.webp" rel="enclosure" type="image/webp" length="393446"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Corpus Christi International Airport (KCRP) for Microsoft Flight Simulator, serving the city of Corpus Christi, Texas, with a yearly average of 645,000 passengers.  The airport was built in 1960, replacing Cliff Maus Airport, which formerly served the city (since 1928). Cliff Maus couldnât grow any further, restricted to its 400-acre area, rapidly becoming a problem as the demand for air travel increased. In October 1956, voters approved 3.2 million USD in funding to build a new 1,800-acre airport.Â   A new terminal was opened in 2002, with six gates, 15,300 square meters of built area, and a modern infrastructure to meet the new demands.Â   American Eagle, Southwest Airlines, Sun Country Airlines, and United Express currently serve the airport.  The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, highly detailed buildings, and performance-friendly optimization.  Itâs available on theÂ iniBuilds StoreÂ for roughly $9.53, requiring at least 2.31 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-24T00:00:00+00:00</published>
   </entry>
 </feed>
