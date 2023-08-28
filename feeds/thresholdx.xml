@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-27T18:19:01.640739+00:00</updated>
+  <updated>2023-08-28T18:21:32.170930+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/zls152</id>
-    <title>ZL Simulation Releases Cessna 152 Freeware for X-Plane 11 &amp; 12</title>
-    <updated>2023-08-20T00:00:00+00:00</updated>
-    <link href="/news/zls152" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e28c1e555ee9fc45747f4d_152.png" rel="enclosure" type="image/png" length="1293898"/>
-    <summary>Sim: X-Plane. ZL Simulation has recently released a freeware Cessna 152 for X-Plane 11 and 12, featuring a realistic flight model and physics, PBR textures, a 3D cockpit, and much more.Â  â The Cessna 152 is one of the most popular trainer aircraft in the world, with over 7,500 built during its eight years of production (1977-1985). It was a modernization of the Cessna 150 design with an improved engine, greater useful load, noise level reduction, and better compatibility with 100LL fuel. They were powered by a Lycoming O-235-L2C engine producing 110 horsepower at 2,550 RPM, with a range of 416 nautical miles, a 14,700ft service ceiling, and 123 miles per hour of cruise speed. â Production ended when Cessna decided to end production of all of their light aircraft, with a successor being developed in the form of the unsuccessful 162 Skycatcher (2007-2013). â According to the developer, the project has been worked on for over three years, featuring a realistic flight model, PBR texturing, a 3D cockpit, custom FMOD sounds, ten liveries, a paintkit, performance-friendly optimization, windshield rain effects on X-Plane 12, a built-in Garmin GNS 430 GPS, and custom coded systems using XTLua. â Itâs free onÂ X-Plane.Org, and the source code is open-sourced onÂ GitHub.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rdpsta</id>
     <title>RDPresets Releases Stuttgart Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ea750558072a84ea51b34d_1.jpg" rel="enclosure" type="image/jpeg" length="913390"/>
     <summary>Sim: MSFS. Burning Blue Design has recently released their rendition of H. A. Clark Memorial Field (KCMR) for Microsoft Flight Simulator, a public-use general aviation airport in Williams, Arizona, with a yearly average of 16,100 operations. â It was built in 1925 as Webber Field, yet left to deteriorate during its initial years until the advent of the Civilian Pilot Training Program in 1939, which helped to rekindle the interest in aviation in Williams. On the other hand, the airfield's development predated the increased interest, with work starting in 1935, followed by a further $140000 investment in 1940 from the Civil Aeronautics Board. â The many upgrades eventually drew the attention of the US Army, which used the field from 1942 to train cadets. Seven army instructors were stationed there during that period, training 30 people. â Its 1,830-meter-long runway might seem long, but the aerodromeâs elevation (6,691ft) makes it somewhat challenging.Â Â   The scenery features an accurate rendition of the airfield, with over 120 custom objects, accurate taxiways, a high-detail terminal building interior, detailed hangars with interiors, custom flags and windsocks, custom night lighting, and color-corrected ground textures.  Itâs available on Burning Blue DesignâsÂ websiteÂ for roughly $13.78. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xwsdun</id>
+    <title>XWind Studios Releases Dunedin Airport for MSFS</title>
+    <updated>2023-08-27T00:00:00+00:00</updated>
+    <link href="/news/xwsdun" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ebd612d4a58c326e647516_dunedin.webp" rel="enclosure" type="image/webp" length="310402"/>
+    <summary>Sim: MSFS. XWind Studios has recently released their rendition of Dunedin Airport (NZDN) for Microsoft Flight Simulator, serving the entire region of Otago with a yearly average of 1 million passengers, making it the third busiest airport in the country.  The airport was built in 1962 to replace Dunedinâs former airfield (Taieri), which was deemed unfeasible to expand in the future. Commercial service started that same year with NZAC and their Fokkers.Â   The terminal was upgraded in the late 60s-early 70s with automatic sliding doors, a new mezzanine floor, and an aircraft viewing deck.  Itâs currently served by Air New Zealand and Jetstar, with flights to Auckland, Christchurch, and Wellington (Jetstar only flies to Auckland).  The scenery features an accurate rendition of the airport, with updated aerial imagery, custom ground poly, hand-made animated jetways, HD PBR models, a basic interior for the terminal and hangars, and more.  Itâs available on theÂ iniBuilds StoreÂ for roughly $7.54, requiring at least 4.05 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-08-27T00:00:00+00:00</published>
   </entry>
 </feed>
