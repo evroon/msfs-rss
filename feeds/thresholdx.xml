@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-29T18:21:06.548494+00:00</updated>
+  <updated>2023-08-30T18:21:06.520716+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fnx214</id>
-    <title>Fenix Simulations Updates A320 for MSFS</title>
-    <updated>2023-08-22T00:00:00+00:00</updated>
-    <link href="/news/fnx214" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e52add077dfc7477e1369c_cover.jpg" rel="enclosure" type="image/jpeg" length="489297"/>
-    <summary>Sim: MSFS. Fenix Simulations has recently released another update (v1.5.2.214) to their A320 for Microsoft Flight Simulator, tweaking the flight model with flare mode refinements, drag improvements, mitigating the nose down behavior on landing, and more. Itâs the second update post-V2 Block 1 (the first mitigated the high CPU usage issues on some systems), aiming to improve the flight model with tweaks on how the aircraft behaves on flare, allegedly making it less prone to floating, along with corrections on the drag behavior with flaps 3, and also sorting out the nose smashing down instantly upon touchdown.  They have also worked on improving the avionics, making the VNAV more polished, and correcting how the aircraft interprets certain restrictions. The high CPU usage across their bootstrapper and the app is also one of the things Fenix has managed to mitigate on this update. Other changes include sound improvements, minor art fixes, and volume level adjustments. The complete changelog follows down below: â â The add-on is available on their website for roughly $63.64.Â  Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-08-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ssrda2</id>
     <title>SimSolutions Releases Diamond DA20-C1 Eclipse for MSFS</title>
@@ -148,8 +139,17 @@
     <title>FS2Crew has announced all MSFS products are updated as of today.</title>
     <updated>2023-08-29T00:00:00+00:00</updated>
     <link href="/news/fs2cre" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ee1f6f6f98eba675aaff5f_F0Lbx3fWIAAvIst.png" rel="enclosure" type="image/png" length="33164"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64c6dea0678309534b81c1b3_fs2c.jpg" rel="enclosure" type="image/jpeg" length="91424"/>
     <summary>Sim: MSFS. â FS2Crew specializes in creating highly immersive software that enables users to simulate the standard operating procedures (SOP) used by airlines. Their software is designed for use with Microsoft Flight Simulator, Prepar3D, and FSX, providing users with a realistic and engaging experience. With FS2Crew, users can experience what it's like to operate an airline and gain valuable insight into the SOP processes used in the aviation industry.  Today, via FS2Crew's official press release. â The team has announced that all FS2Crew MSFS products are updated as of today (PMDG 737, Fenix Airbus, CRJ, RAAS, Pushback Express and Leonardo Maddog). Significant changes were made with a groundbreaking "human-animated FO" for the FBW A32NX.  FS2Crew has fulfilled your requests for a female First Officer figure choice; she's activated by selecting a female voice within the settings.FS2Crew has significantly expedited the FO flows, allowing the FO to perform much faster than before.  â For more information on changes made by Fs2Crew, please visit their website, where an official change log is published. To update your MSFS FS2Crew product, please use the Product Manager software located here. FS2Crew can be purchased here for â¬14.99 or $16.20 discounted from â¬19.99/ $21.61. Stay tuned to Threshold for more flight simulation news and releases! â</summary>
     <published>2023-08-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tomcat</id>
+    <title>Heatblur has provided some updates regarding the highly anticipated F-14 Tomcat.</title>
+    <updated>2023-08-30T00:00:00+00:00</updated>
+    <link href="/news/tomcat" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ee99172a8f0bfca9726c15_326002749_1538428839969569_2182637673520684022_n.jpg" rel="enclosure" type="image/jpeg" length="326302"/>
+    <summary>Sim: MSFS. â Heatblur Simulations has recently shared a brief update regarding the development progress of the F-14 Tomcat for Microsoft Flight Simulator. According to Heatblur, the alpha testing phase commenced last month in collaboration with Indiafoxtang, and the beta testing phase is progressing rapidly. This promising development indicates the Tomcat is drawing closer to its anticipated release.  Heatblur has dedicated their decades of research and Tomcat expertise to the MSFS version, building on its successful par with the F14 in DCS. The team acknowledges that the MSFS simulation engine presents unique challenges but remains ahead of the curve with their partnership with IFE. Additionally, they have not forgotten about their DCS users and have included many new details, including artwork and boarding ladders, that will be incorporated into the DCS F-14. Overall, the progress of the F-14 Tomcat for Microsoft Flight Simulator looks very promising, and Heatblur Simulations continues to demonstrate its commitment to the progression of simulating the F-14 Tomcat! Check out the video here on their Facebook page! â â</summary>
+    <published>2023-08-30T00:00:00+00:00</published>
   </entry>
 </feed>
