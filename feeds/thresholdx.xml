@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-08-31T18:21:15.880741+00:00</updated>
+  <updated>2023-09-01T18:19:44.146807+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a300ini</id>
-    <title>The Official IniBuilds summer event with A300 progress details.</title>
-    <updated>2023-08-23T00:00:00+00:00</updated>
-    <link href="/news/a300ini" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e63f0d7679ac0d760c9893_image.png.f0a0792817c4133a8cd65d50db72e3ac.png" rel="enclosure" type="image/png" length="2540029"/>
-    <summary>Sim: MSFS. The Official IniBuilds summer event starts tomorrow! iniBuilds reminds you to have your iniManager up to date for downloads. Each day IniBuilds will feature discounts for 24 hours only on new products by iniBuilds or a production partner. Expect the debut of two new partners as well! Event dates are August 24 at 5 pm BST and new deals daily at 5 pm BST. The Grand finale product announcement is on August 28! â IniBuilds sheds light on the build progress of the highly-anticipated A300-600 since its debut at FSExpo last June. Their forum post showcases high-res images of details like rivets, screws, and panel gaps, as well as the usage of high-resolution decal sheets. The photos highlight the distinctive work the team is doing. â IniBuilds showcased the recreated animations of A300's cargo door, as well as the fully operational nose gear model. They also discussed the systems and flight model.   Â âIn the last update we provided, we talking about some of the key features this product is going to include such as comprehensive systems simulation, realistic flight model, full ACARS, CPDLC simulation, and a whole lot more! â â  IniBuilds used the latest simulation techniques within the flight model CFD simulations flowing over the wings tail ending by reinjection into the A300 fight model. Improved ground effect using CFD technology, accurate drag, and engine thrust simulations throughout the flight envelope. Lastly mentioned was the complete overhaul and rebuild of the autopilot systems. Key highlights are new operating flight directors providing smoother operations and a new auto land system with LOC and GS laws. LVL Change V/S will be much smoother in the Auto Pilot handling overhaul. Improved core system logic and a new LNAV system improve with processing more complex SIDs and STARs.  The pricing/release timeline shapes up like this.  âTo those of you, who were concerned about the PW variant; I have some good news. We are going to introduce this into the package forÂ FREE.Â  Stage 1 Release: GE Freighter &amp; Passenger (v1.00) before the end of 2023. ð¥³GE FreighterGE PAX Stage 1 Hotfix before the end of 2023 (free update) ð¥ Stage 2 Update: PW Update, IDC addition &amp; Bug fixes early 2024 (free update) ð¥³PW FreighterPW PAXIDC Panel update in cockpit: This is the modern radio panel option, whereby we will simulate full CPDLC &amp; ACARS via Hoppie along with the modern radio unit function. Stage 3 Update: EPIC Mod variant (paid expansion) sometime 2024 ð¥GE/ PW Freighter w/ EPIC Mod Cockpit w/IDCWe hope you are excited for iniBuilds Summer Surprises &amp; the upcoming iniBuilds A300-600 ð¥³ ð â â As always stay tuned to Threshold for more updates on the IniBuilds Summer event and A300 news! â</summary>
-    <published>2023-08-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mscciv</id>
-    <title>Microsoft Releases City Update IV: Western Europe for MSFS</title>
-    <updated>2023-08-23T00:00:00+00:00</updated>
-    <link href="/news/mscciv" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e66e1206ef14ecb6def4a1_cityupdate.png" rel="enclosure" type="image/png" length="832365"/>
-    <summary>Sim: MSFS. Microsoft has recently released a new city update for Microsoft Flight Simulator, adding five Western European cities (Annemasse, Geneva, Ghent, Luxembourg City, and Rotterdam) and one airport (Cologne-Bonn Airport).Â  â AnnemasseÂ is a commune in the French Alps with 5 square kilometers of total area and 36,250 residents, making it the second most populous commune after Annecy. â GenevaÂ is Switzerland's second most populous city, with 201,818 inhabitants as of 2018. It's situated in the country's southwest, near the French border.  â GhentÂ is a city in the Flemish region of Belgium (the Dutch-speaking part), the third largest in the country with 265,086 inhabitants, only behind Brussels and Antwerp.Â  â Luxembourg CityÂ is the capital of Luxembourg, lying at the heart of Western Europe, with a population of 132,778 people. It has the highest per capita GDP in the world as of 2022. â RotterdamÂ is the second largest city in the Netherlands, situated in the province of Zuid-Holland. The municipality has 664,311 inhabitants, but the metropolitan area is nearing 2.5 million. â Cologne-Bonn Airport (EDDK)Â serves the city of KÃ¶ln in Germany with a yearly average of 9 million passengers. It's the seventh-largest passenger airport in Germany. â  The update is available right now for free on PC and Xbox. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vssvij</id>
     <title>Velocity Studios Releases Vijayawada Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f00508dcbcbf27bcff53e4_fx1.jpg" rel="enclosure" type="image/jpeg" length="152473"/>
     <summary>Sim: MSFS. Parallel 42 has recently made aÂ social media postÂ teasing the âcontinuation of their legacyâ with their popular Immersion Package making a surprise return in Microsoft Flight Simulator. â â Their immersion packages were popular in P3D and FSX, improving the simulation experience with popular aircraft add-ons such as the PMDG 737 and the Aerosoft A320 with wing condensation effects, volumetric lighting, contrails, jet wash, fuel overflow, and more.Â  â â While thereâs still no information on which of these features will be available for their Microsoft Flight Simulator version, they seem enthusiastic about bringing it over to the new platform and pleasing their old-guard customers with something strictly different from their approach to the new simulator so far. â The example images were taken from some of their Immersion packages for P3D v4. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/idscom</id>
+    <title>IDS Comanche nearing completion - Threshold Exclusive </title>
+    <updated>2023-08-31T00:00:00+00:00</updated>
+    <link href="/news/idscom" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f1085792dfe0e5b926c39e_2.PNG" rel="enclosure" type="image/png" length="204253"/>
+    <summary>Sim: X-Plane. InDepthSimulations Piper Comanche for XP11 &amp; XP12 is nearing completion; the developer has disclosed to Threshold in a recent update that the aircraft is rapidly approaching touchdown, where Piper fans can enjoy the iconic aircraft in X-Plane.Â  Threshold has exclusive access to the latest development updates to share with the public! We can reveal the aircraft's price will be $20.00, but the stores that will supply the aircraft are still in consideration and will be revealed later.Â  The PA24 is around 85% done, according to the project's lead developer; all that remains are some artwork items, some sound implementation and GPS screen integration. This has been a sticking point in the project's development to date. InDepthSimulations are looking for an experienced programmer to join the team and help them with the closing stages of the development.Â  We are delighted to be able to share with you some of the latest development previews of the aircraft, exclusively at Threshold!Â  Enjoy!Â </summary>
+    <published>2023-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sxasai</id>
+    <title>SXAD Releases San Antonio International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2023-09-01T00:00:00+00:00</updated>
+    <link href="/news/sxasai" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f1e6b353915e7d5e1414c3_sai1.jpg" rel="enclosure" type="image/jpeg" length="575598"/>
+    <summary>Sim: X-Plane. SXAD has recently released their rendition of San Antonio International Airport (KSAT) for X-Plane 11 and 12, serving Greater San Antonio with a yearly average of 9.4 million passengers, placing it among the busiest airports in Texas.  The airport was inaugurated in 1941, built on 490 ha of undeveloped land that was quickly taken by the US Army for training during WW2, then named Alamo Field. It hosted the 77th Reconnaissance Group, training personnel for overseas operations.  The end of the war saw its return to the city of San Antonio, followed by the construction of a second terminal in the early 1950s, along with a control tower and a baggage claim area. Then, in the late 60s, a new concourse was built with eight jet bridge gates.  In the mid 70s, a master plan was put into action to further develop the airport, with a new 33,000 square meters terminal and a larger parking garage, bringing the airport from eight to twenty seven gates.  Twenty years later, it was once again upgraded with a new parking garage that only reached completion in 2007.  In 2010, the old second terminal was closed, replaced by a brand new terminal with eight gates, designed by Corgan Associates, Inc. and 3D/International.Â   AeromÃ©xico Connect, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Delta Air Lines, Frontier Airlines, JetBlue, Southwest Airlines, Spirit, Sun Country Airlines, United Airlines, United Express, VivaAerobus, and Volaris currently serve the airport.  The scenery features an accurate rendition of the airport, with custom seasonal orthoimagery, custom PBR ground textures, baked night lighting and ambient occlusion, custom airport surroundings, and more.  Itâs available on theÂ X-Plane.Org StoreÂ for $19.99, requiring at least 1.2 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-01T00:00:00+00:00</published>
   </entry>
 </feed>
