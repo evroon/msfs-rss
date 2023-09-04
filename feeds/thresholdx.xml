@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-03T18:19:29.277152+00:00</updated>
+  <updated>2023-09-04T18:20:26.771623+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/obxid3</id>
-    <title>Orbx Releases Idahoâs Deadly 3 for MSFS</title>
-    <updated>2023-08-24T00:00:00+00:00</updated>
-    <link href="/news/obxid3" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64e7049e4b2f6fb91ac11e5c_idaho.jpeg" rel="enclosure" type="image/jpeg" length="480078"/>
-    <summary>Sim: MSFS. Orbx has recently released their newest scenery pack for Microsoft Flight Simulator, including three challenging airstrips in Idaho and a bonus makeshift helicopter area with a STOL landing zone.  The âDeadly 3â are three famous - and challenging - strips in Idaho, known for requiring a lot of technique to get the landings right. Dewey Moore, Simonds, and Vines Airstrip are as barebones as a landing strip can get, with no basic infrastructure, making it ideal for hardcore camping. â Dewey Moore, the first of the airstrips, is located on the north side of Big Creek, 19 miles west of the junction of Big Creek and the Middle Fork of the Salmon River, with a 700 ft long gravel runway at 4,494 feet above sea level. Itâs recommended for highly experienced mountain pilots only (in real life). â Simonds is a very difficult airstrip located on Monumental Creek, close to where it joins up with Big Creek. Itâs often used for guided hunting trips and has no infrastructure, meaning pilots should bring tie-downs and camping equipment. It has a 900 ft long gravel runway, and pilots are instructed to watch for traffic from the nearby Monumental Ranch private airstrip. â Vines Airstrip is located on the south side of Big Creek Canyon, two miles west of Cabin Creek Airstrip, close to where Big Creek joins into the Middle Fork of the Salmon River. Itâs a 1,100 ft gravel strip at 4,110 feet above sea level, and pilots are instructed to land on runway 27 and take off from runway 9. Real-life recommendations include instructions on short field operations, and pilots are generally advised to follow Big Creek to avoid trees on final approach and watch their airspeed very carefully as a 10 percent increase in approach speed means a 21% increase in landing distance.Â  â The three strips are a short flight away fromÂ 85U Soldier BarÂ andÂ McCall Municipal AirportÂ (KMYL), both developed by Milo Taylor, the author of Idahoâs Deadly 3. His new creation features substantial terraforming work, custom animations, custom vegetation, and much more. The complete feature list for the package follows below:  â â Itâs available onÂ OrbxDirectÂ for roughly $12.91, requiring at least 697.99 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-08-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ahlanc</id>
     <title>Aeroplane Heaven Lancaster Development Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f3e693f93202d1f37245ff_1250410_20230902204337_1.png" rel="enclosure" type="image/png" length="1840663"/>
     <summary>Sim: MSFS. PMDG has recently published another development update concerning the progress on the UFT, pending 737 marketplace updates, and their upcoming 777 for Microsoft Flight Simulator.  Randazzo begins with a note on how their Universal Flight Tablet is progressing, claiming âthings are getting exciting,â with weekly updates being pushed to the beta team to ensure itâs appropriately polished. While they do not have a release date yet, itâs said to be getting closer. Their testers are currently testing the performance calculators while PMDG refines the EFBâs functionality based on their feedback.  The tablet has also been fitted into the 777, and the testing of that plane will be simultaneous with its normal beta testing, meaning it will be there from day one. The airplane, on the other hand, is still under development, and they claim itâs bringing a tremendous improvement in performance, resource utilization, and visual quality and is fairly more integrated with the simulator.  The marketplace updates are running six weeks behind because Microsoft has made some changes to their intake and approval process, dragging on for a little longer than it used to, to no fault of their own (according to their claims).  Their 737 Lineup is available on theirÂ websiteÂ and the MSFS Marketplace, ranging from $34.99 to $69.99 depending on variant. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2023-09-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdhgh</id>
+    <title>FSDG Releases Hurghada International Airport for MSFS</title>
+    <updated>2023-09-04T00:00:00+00:00</updated>
+    <link href="/news/fsdhgh" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f5c72c07608b20b1f7bf0b_hurgha1.png" rel="enclosure" type="image/png" length="2228616"/>
+    <summary>Sim: MSFS. FSDG has recently released their rendition of Hurghada International Airport (HEGN) for Microsoft Flight Simulator, the second busiest airport in Egypt, serving the coastal city of Hurghada.  It was inaugurated in 1988, quickly becoming a gateway to the Red Sea Riviera. Expansions were made in the 90s and 2000s to keep up with the ever-increasing passenger figures. It played a pivotal role in transforming Hurghada into one of the busiest tourist destinations in Egypt because of its strategic location, close to the Red Sea, offering many summer activities.  The airport is served by Air Cairo, Brussels Airlines, Chair Airlines, Condor, Corendon, easyJet, Edelweiss Air, Egyptair, FlyArna, Luxair, Marabu, Pegasus Airlines, Smartwings, Sundair, TUI Airways, TUI fly Belgium, TUI fly Deutschland, TUI fly Netherlands, Turkish Airlines, and WizzAir. The list does not include the many seasonal charters serving the airport during summer. â The scenery features an accurate rendition of the airport, with custom landside, updated ground layout, dynamic lighting, custom ground textures, and custom clutter, and it also includes the El Gouna private airport (HEGO). â Itâs available on theÂ FSDG StoreÂ for roughly $27.00. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-04T00:00:00+00:00</published>
   </entry>
 </feed>
