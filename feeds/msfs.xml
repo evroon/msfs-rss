@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-09-07T18:21:16.361080+00:00</updated>
+  <updated>2023-09-08T18:20:58.784419+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-iv-western-europe/</id>
-    <title>Microsoft Flight Simulator Releases City Update IV: Western Europe</title>
-    <updated>2023-08-23T16:13:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-city-update-iv-western-europe/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/MSFS_CU04_WesternEurope_NoSnipe_NoLogo_NoText-1-1024x576.png" rel="enclosure" type="image/png" length="225517"/>
-    <summary>Explore some of Western Europe’s most breathtaking cities from the air in Microsoft Flight Simulator’s latest addition to its rich global experience.Microsoft Flight Simulator City Update IV celebrates the wonderfully diverse character of Western Europe by highlighting five of its most renowned cities: France’s Annemasse; Geneva, Switzerland; Belgium’s Ghent; Luxembourg City; and Rotterdam in the … Continued</summary>
-    <published>2023-08-23T16:13:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-12-the-dornier-do-x-flying-boat/</id>
     <title>Microsoft Flight Simulator Releases Local Legend 12: The Dornier Do X Flying Boat</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/2023_Sep1-8_Sale_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122314"/>
     <summary>For seven days starting on September 1st save up to 71% on 28 items.</summary>
     <published>2023-09-01T17:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-7th-2023-development-update/</id>
+    <title>September 7th, 2023 Development Update</title>
+    <updated>2023-09-07T22:36:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-7th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/pcdyoung-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="21341"/>
+    <summary>The Microsoft Flight Simulator Community Team will be at the Reno Air Races next week from September 13-17!</summary>
+    <published>2023-09-07T22:36:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
