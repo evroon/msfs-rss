@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-10T18:19:16.099493+00:00</updated>
+  <updated>2023-09-11T18:21:49.030800+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/blgxap</id>
-    <title>Brazil Land Games Previews ChapecÃ³ Airport Update for MSFS</title>
-    <updated>2023-08-31T00:00:00+00:00</updated>
-    <link href="/news/blgxap" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f001a6af771cc3b4d63766_xap1.jpg" rel="enclosure" type="image/jpeg" length="376544"/>
-    <summary>Sim: MSFS. Brazil Land Games has recently previewed the progress on an upcoming update for their ChapecÃ³ Airport (SBCH) rendition for Microsoft Flight Simulator, serving the metropolitan region of ChapecÃ³, comprised of sixteen municipalities in Santa Catarina, Brazil, with a yearly average of 560,000 passengers. The airport was built in 1978, replacing the former - Aeroporto Paulo Marques - built in the late 40s and deemed too small for any potential commercial operation.  Itâs served by Azul, Gol, and Latam, with daily flights to their respective hubs. Thereâs no information on a release date for the update yet, but Threshold will keep you informed! â</summary>
-    <published>2023-08-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p42ime</id>
-    <title>Parallel 42 Teases Immersion Package for MSFS</title>
-    <updated>2023-08-31T00:00:00+00:00</updated>
-    <link href="/news/p42ime" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f00508dcbcbf27bcff53e4_fx1.jpg" rel="enclosure" type="image/jpeg" length="152473"/>
-    <summary>Sim: MSFS. Parallel 42 has recently made aÂ social media postÂ teasing the âcontinuation of their legacyâ with their popular Immersion Package making a surprise return in Microsoft Flight Simulator. â â Their immersion packages were popular in P3D and FSX, improving the simulation experience with popular aircraft add-ons such as the PMDG 737 and the Aerosoft A320 with wing condensation effects, volumetric lighting, contrails, jet wash, fuel overflow, and more.Â  â â While thereâs still no information on which of these features will be available for their Microsoft Flight Simulator version, they seem enthusiastic about bringing it over to the new platform and pleasing their old-guard customers with something strictly different from their approach to the new simulator so far. â The example images were taken from some of their Immersion packages for P3D v4. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-08-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/idscom</id>
     <title>IDS Comanche nearing completion - Threshold Exclusive </title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64fcf29998a948242f08db7d_asahi.jpg" rel="enclosure" type="image/jpeg" length="552429"/>
     <summary>Sim: MSFS. MFSG has recently released their rendition of Asahikawa Airport (RJEC) for Microsoft Flight Simulator, serving Asahikawa in Hokkaido, with a yearly average of 1 million passengers.  â After half a decade of planning, the airport was inaugurated in 1966, with scheduled service beginning that same year with Japan Domestic Airlines, flying a NAMC YS-11 to Tokyo Haneda via Okadama. It was primarily seasonal until 1970 when there was finally a year-round flight to Tokyo.  Nearly twenty years later, the airport was briefly closed for expansion work, with its sole runway being extended from 1,200 meters to 1,640 in February 1982 and then to 2,000 meters in November 1982, allowing the operation of larger jet aircraft like the DC-9, the MD-80, and the Airbus A300. â In 2016, the administration made plans to build a new international terminal to the south of the old one, with 5,700 square meters of constructed area, targeting 500,000 international passengers yearly by 2030. It opened in November 2018. â The airport is served by Air Do, All Nippon Airways (seasonally), Asiana Airlines, Japan Airlines, Tigerair Taiwan, and Tâway Air. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom jetways, custom ground textures, AI traffic compatibility, and more. â  Itâs available onÂ SimMarketÂ for roughly $13.38, requiring at least 31.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rfsvva</id>
+    <title>RFscenerybuilding Releases Verona Villafranca Airport for MSFS</title>
+    <updated>2023-09-11T00:00:00+00:00</updated>
+    <link href="/news/rfsvva" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ff03f777f82a249650edbd_verona.png" rel="enclosure" type="image/png" length="2889827"/>
+    <summary>Sim: MSFS. RFscenerybuilding has recently released their rendition of Verona Villafranca Airport (LIPX) for Microsoft Flight Simulator, serving the Italian city of Verona with a yearly average of 3.5 million passengers. â Built as an air base in the early 1900s and heavily used during World War I, it opened to civil air traffic not long after the conflict with daily connections to Rome and multiple charter flight destinations in northern Europe. â A passenger terminal was built in the late 1970s by the Province of Verona, the Commune of Verona, and the Local Chamber of Commerce. A managing society was formed shortly after, sharing the ownership between provincial governments from Veneto, Lombardy, Trentino, and Alto Adige. â With healthy growth figures in the late 90s and early 2000s, the administration decided to expand the airport by constructing a new arrivals terminal, inaugurated in 2006. â Aer Lingus, Air Albania, AirBaltic (seasonally), Air Dolomiti, Albawings, British Airways, easyJet, Eurowings (seasonally), Finnair (seasonally), FlyOne, Jet2 (seasonally), Neos, Norwegian Air Shuttle (seasonally), Play (seasonally), Ryanair, Transavia (seasonally), TUI Airways, Volotea, and WizzAir serve the airport. â The scenery features an accurate rendition of the airport, with custom airport buildings, custom ground vehicles, custom ground textures, and more. â Itâs available onÂ SimMarketÂ for roughly $16.06, requiring at least 374.60 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lepiap</id>
+    <title>Low-End Pc Studios Releases Iquitos Airport for MSFS</title>
+    <updated>2023-09-11T00:00:00+00:00</updated>
+    <link href="/news/lepiap" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ff09637816a5dcf38a329e_iqutios.jpg" rel="enclosure" type="image/jpeg" length="1647987"/>
+    <summary>Sim: MSFS.  Low-End Pc Studios has recently released their rendition of Coronel FAP Francisco Secada Vignetta International Airport (SPQT) for Microsoft Flight Simulator, serving the Peruvian city of Iquitos with a yearly average of 1 million passengers. â It was built in the late 1920s as a gravel airstrip for military purposes, eventually evolving into a commercial airport over the following decades, along with several infrastructural upgrades and expansions.Â  â Its current name was adopted in 1973 after a local Peruvian Air Force pilot who had fought in the war with Colombia between 1932 and 1933. â The airport is of great importance to the cityâs economy because itâs only accessible by air or river, meaning every urgent logistical operation has to go through the airport, which also justifies the relatively high passenger figures in comparison with the cityâs population (1 million passengers yearly, and the city has less than half a million inhabitants). Said figures make it the fourth busiest airport in Peru. â LATAM Peru, SAETA Peru, Sky Airline Peru, and Star Peru serve the airport year-round.  The scenery features an accurate rendition of the airport, with a custom ground mesh, PBR textures, terminal interior modeling, custom runway elevation profile, animated objects, and a performance-friendly optimization. â Itâs available onÂ SimMarketÂ for roughly $10.16, requiring at least 150.09 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-11T00:00:00+00:00</published>
   </entry>
 </feed>
