@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-12T18:20:23.907149+00:00</updated>
+  <updated>2023-09-13T18:21:45.081427+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/idscom</id>
-    <title>IDS Comanche nearing completion - Threshold Exclusive </title>
-    <updated>2023-08-31T00:00:00+00:00</updated>
-    <link href="/news/idscom" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f1085792dfe0e5b926c39e_2.PNG" rel="enclosure" type="image/png" length="204253"/>
-    <summary>Sim: X-Plane. InDepthSimulations Piper Comanche for XP11 &amp; XP12 is nearing completion; the developer has disclosed to Threshold in a recent update that the aircraft is rapidly approaching touchdown, where Piper fans can enjoy the iconic aircraft in X-Plane.Â  Threshold has exclusive access to the latest development updates to share with the public! We can reveal the aircraft's price will be $20.00, but the stores that will supply the aircraft are still in consideration and will be revealed later.Â  The PA24 is around 85% done, according to the project's lead developer; all that remains are some artwork items, some sound implementation and GPS screen integration. This has been a sticking point in the project's development to date. InDepthSimulations are looking for an experienced programmer to join the team and help them with the closing stages of the development.Â  We are delighted to be able to share with you some of the latest development previews of the aircraft, exclusively at Threshold!Â  Enjoy!Â </summary>
-    <published>2023-08-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sxasai</id>
-    <title>SXAD Releases San Antonio International Airport for X-Plane 11 &amp; 12</title>
-    <updated>2023-09-01T00:00:00+00:00</updated>
-    <link href="/news/sxasai" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f1e6b353915e7d5e1414c3_sai1.jpg" rel="enclosure" type="image/jpeg" length="575598"/>
-    <summary>Sim: X-Plane. SXAD has recently released their rendition of San Antonio International Airport (KSAT) for X-Plane 11 and 12, serving Greater San Antonio with a yearly average of 9.4 million passengers, placing it among the busiest airports in Texas.  The airport was inaugurated in 1941, built on 490 ha of undeveloped land that was quickly taken by the US Army for training during WW2, then named Alamo Field. It hosted the 77th Reconnaissance Group, training personnel for overseas operations.  The end of the war saw its return to the city of San Antonio, followed by the construction of a second terminal in the early 1950s, along with a control tower and a baggage claim area. Then, in the late 60s, a new concourse was built with eight jet bridge gates.  In the mid 70s, a master plan was put into action to further develop the airport, with a new 33,000 square meters terminal and a larger parking garage, bringing the airport from eight to twenty seven gates.  Twenty years later, it was once again upgraded with a new parking garage that only reached completion in 2007.  In 2010, the old second terminal was closed, replaced by a brand new terminal with eight gates, designed by Corgan Associates, Inc. and 3D/International.Â   AeromÃ©xico Connect, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Delta Air Lines, Frontier Airlines, JetBlue, Southwest Airlines, Spirit, Sun Country Airlines, United Airlines, United Express, VivaAerobus, and Volaris currently serve the airport.  The scenery features an accurate rendition of the airport, with custom seasonal orthoimagery, custom PBR ground textures, baked night lighting and ambient occlusion, custom airport surroundings, and more.  Itâs available on theÂ X-Plane.Org StoreÂ for $19.99, requiring at least 1.2 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmdd73</id>
-    <title>PMDG Publishes Development Update for MSFS</title>
-    <updated>2023-09-03T00:00:00+00:00</updated>
-    <link href="/news/pmdd73" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f3e693f93202d1f37245ff_1250410_20230902204337_1.png" rel="enclosure" type="image/png" length="1840663"/>
-    <summary>Sim: MSFS. PMDG has recently published another development update concerning the progress on the UFT, pending 737 marketplace updates, and their upcoming 777 for Microsoft Flight Simulator.  Randazzo begins with a note on how their Universal Flight Tablet is progressing, claiming âthings are getting exciting,â with weekly updates being pushed to the beta team to ensure itâs appropriately polished. While they do not have a release date yet, itâs said to be getting closer. Their testers are currently testing the performance calculators while PMDG refines the EFBâs functionality based on their feedback.  The tablet has also been fitted into the 777, and the testing of that plane will be simultaneous with its normal beta testing, meaning it will be there from day one. The airplane, on the other hand, is still under development, and they claim itâs bringing a tremendous improvement in performance, resource utilization, and visual quality and is fairly more integrated with the simulator.  The marketplace updates are running six weeks behind because Microsoft has made some changes to their intake and approval process, dragging on for a little longer than it used to, to no fault of their own (according to their claims).  Their 737 Lineup is available on theirÂ websiteÂ and the MSFS Marketplace, ranging from $34.99 to $69.99 depending on variant. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-09-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsdhgh</id>
-    <title>FSDG Releases Hurghada International Airport for MSFS</title>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <link href="/news/fsdhgh" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f5c72c07608b20b1f7bf0b_hurgha1.png" rel="enclosure" type="image/png" length="2228616"/>
-    <summary>Sim: MSFS. FSDG has recently released their rendition of Hurghada International Airport (HEGN) for Microsoft Flight Simulator, the second busiest airport in Egypt, serving the coastal city of Hurghada.  It was inaugurated in 1988, quickly becoming a gateway to the Red Sea Riviera. Expansions were made in the 90s and 2000s to keep up with the ever-increasing passenger figures. It played a pivotal role in transforming Hurghada into one of the busiest tourist destinations in Egypt because of its strategic location, close to the Red Sea, offering many summer activities.  The airport is served by Air Cairo, Brussels Airlines, Chair Airlines, Condor, Corendon, easyJet, Edelweiss Air, Egyptair, FlyArna, Luxair, Marabu, Pegasus Airlines, Smartwings, Sundair, TUI Airways, TUI fly Belgium, TUI fly Deutschland, TUI fly Netherlands, Turkish Airlines, and WizzAir. The list does not include the many seasonal charters serving the airport during summer. â The scenery features an accurate rendition of the airport, with custom landside, updated ground layout, dynamic lighting, custom ground textures, and custom clutter, and it also includes the El Gouna private airport (HEGO). â Itâs available on theÂ FSDG StoreÂ for roughly $27.00. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lesdv2</id>
-    <title>Leading Edge Simulationsâ DC-3 v2 Releasing on Thursday</title>
-    <updated>2023-09-05T00:00:00+00:00</updated>
-    <link href="/news/lesdv2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f6b8fd0277c01fb6696813_dc31.png" rel="enclosure" type="image/png" length="1340988"/>
-    <summary>Sim: X-Plane. The Leading Edge Simulationsâ Douglas DC-3 v2 store page is up on X-Aviation with a release date, features, and official documentation.Â   â Releasing on Thursday, the DC-3 v2 for X-Plane 12 will feature two different variations: classic and modern, with the first one replicating the early production layouts from the 1930s and 1940s and the latter sporting modern instruments and avionics, fully developed custom systems with accurately simulated electric logic, two autopilot options, simulated engines, hydraulics, and fuel system; custom fmod sounds, particle system effects, and a maintenance system where every aircraft operation is tracked and logged. â â â  It will accompany a modern user interface with airframe information, maintenance, customization options, loadsheet control, and a checklist.Â  â â The developers also disclaim a list of things that will not be available right on release: the hydraulic system has correct indications, but X-Plane does not allow for deep interaction with it; the anti-ice systems are present yet not fully simulated; hardware support is said to be âbasicâ for the time being; the Sperry autopilot on the âClassicâ variant doesnât have heading mode, only the basic operations. â  The add-on will be available next Thursday onÂ X-AviationÂ for $49.95.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nvfaoc</id>
     <title>Navigraph Adds Flight Telemetry, ATIS, OFP Reader to Charts</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ff09637816a5dcf38a329e_iqutios.jpg" rel="enclosure" type="image/jpeg" length="1647987"/>
     <summary>Sim: MSFS.  Low-End Pc Studios has recently released their rendition of Coronel FAP Francisco Secada Vignetta International Airport (SPQT) for Microsoft Flight Simulator, serving the Peruvian city of Iquitos with a yearly average of 1 million passengers. â It was built in the late 1920s as a gravel airstrip for military purposes, eventually evolving into a commercial airport over the following decades, along with several infrastructural upgrades and expansions.Â  â Its current name was adopted in 1973 after a local Peruvian Air Force pilot who had fought in the war with Colombia between 1932 and 1933. â The airport is of great importance to the cityâs economy because itâs only accessible by air or river, meaning every urgent logistical operation has to go through the airport, which also justifies the relatively high passenger figures in comparison with the cityâs population (1 million passengers yearly, and the city has less than half a million inhabitants). Said figures make it the fourth busiest airport in Peru. â LATAM Peru, SAETA Peru, Sky Airline Peru, and Star Peru serve the airport year-round.  The scenery features an accurate rendition of the airport, with a custom ground mesh, PBR textures, terminal interior modeling, custom runway elevation profile, animated objects, and a performance-friendly optimization. â Itâs available onÂ SimMarketÂ for roughly $10.16, requiring at least 150.09 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pesbre</id>
+    <title>Pilot Experience Sim Releases Brest-Bretagne Airport for MSFS</title>
+    <updated>2023-09-12T00:00:00+00:00</updated>
+    <link href="/news/pesbre" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6500b1e1601eeb5bda949cba_brest.webp" rel="enclosure" type="image/webp" length="798902"/>
+    <summary>Sim: MSFS. Pilot Experience Sim has recently released their rendition of Brest-Bretagne Airport (LFRB) for Microsoft Flight Simulator, serving the French city of Brest with a yearly average of 1.1 million passengers.  It was built by the US Navy during World War I, originally featuring two airship hangars. An airstrip was only constructed after the war, becoming âBrest Guipavas Airfield,â but it did not survive World War 2: it had to be rebuilt.  Rebuilding efforts only took place in the early 1950s, with the airport being reopened for commercial use in 1952, connecting Brest to Ouessant and Paris by the wings of Air Inter.Â   With the popularization of air travel and the consequent increase in passenger volume, the airport underwent a massive expansion project in 1986, followed by a runway extension six years later, transforming the airport into a diversion ground for transatlantic flights. By 1989, the airport was averaging 500,000 passengers a year for the first time.  In December 2007, they inaugurated a brand new terminal, with 22,000 square meters of total area, able to accommodate up to 1.8 million passengers a year, with two wide-body jetways and fourteen stands for medium and small aircraft. Itâs shaped like a manta ray.  The scenery features an accurate rendition of the airport, with an up-to-date ground layout, performance-friendly optimization, PBR textures, a realistic terrain profile, custom jetways, and a custom GSX profile.  Itâs available on theÂ iniBuilds StoreÂ for roughly $16.00, requiring at least 1.93 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nssapg</id>
+    <title>Northern Sky Studio Releases Petersburg Airport for MSFS</title>
+    <updated>2023-09-13T00:00:00+00:00</updated>
+    <link href="/news/nssapg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501c667a6ce16776ca35f6f_papg.jpg" rel="enclosure" type="image/jpeg" length="1363994"/>
+    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Petersburg James A. Johnson Airport (PAPG) for Microsoft Flight Simulator, serving the Alaskan city of Petersburg with a yearly average of 13,042 passengers. â It was built in 1947 as a seaplane base for the US Army, converted to a land airport five years later, and named after a local businessman and politician. â Itâs served by Alaska Airlines (Juneau, Wrangell) and Alaska Seaplanes (Juneau, Kake, Sitka, Wrangell), with Juneau being the busiest destination as of 2015-2016. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, PBR materials, high-resolution building textures, custom orthophoto for the airport and surroundings, and more. â Itâs available on SimMarket for roughly $11.78, requiring at least 2.57 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/csrmam</id>
+    <title>Cloud Studio Releases Moraine Airpark for MSFS</title>
+    <updated>2023-09-13T00:00:00+00:00</updated>
+    <link href="/news/csrmam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501cea0c3f0a13909a141a9_moraine.jpg" rel="enclosure" type="image/jpeg" length="544620"/>
+    <summary>Sim: MSFS. Cloud Studio has recently released their rendition of Moraine Airpark (I73) for Microsoft Flight Simulator, a public-use airport in Moraine, Ohio, with a yearly average of 26,000 aircraft operations.Â  â It opened 116 years ago and is adjacent to the river where the Wright Brothers tested seaplanes in 1907. The seaplane base no longer exists, now part of the 155-acre area occupied by the airpark and its 1067-meter runway. â From the 26,280 operations in 2022, 79% were general aviation, 20% air taxi, and 1% military. There are 111 aircraft based at the airport: 106 airplanes, three ultralights, one helicopter, and one glider. â The scenery features a hand-made custom mesh, custom 3D models, hand-placed vegetation, custom ground poly, and a helipad. â  Itâs available onÂ SimMarketÂ for roughly $7.50, requiring at least 204.72 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ixp737</id>
+    <title>IXEG 737 Classic Plus for X-Plane 12 Releasing on Friday</title>
+    <updated>2023-09-13T00:00:00+00:00</updated>
+    <link href="/news/ixp737" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501d33507cdf5978723e7d4_ixeg.jpg" rel="enclosure" type="image/jpeg" length="107969"/>
+    <summary>Sim: X-Plane. IXEG has recently announced the imminent release of their 737 Classic Plus, adding full compatibility with X-Plane 12, new features, and âsetting the stage for new improvements in the future.âÂ  â The Classic Plus version will bring engine bleed configuration improvements, code optimization, wingflex, a 3D cabin, moving cabin doors, cockpit &amp; cabin lighting up to the new standard, GUI enhancements, the ability to hide the yoke with the default key assignment, a FOV slider, cockpit windows with XP12 weather effects (rain and ice), improved external lighting, and tuned aerodynamics and engine performance. â â â The upgrade will be free for customers who purchased the 737 Classic on or after February 7, 2022, and customers who bought it before that date will have to pay $14.95. The upgrade offer will last 60 days, counting from the release on Friday (September 15, 2023).  Refer to theÂ announcementÂ for further information on the matter. Shout out to DragonRuins for the news scoop. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nzmilf</id>
+    <title>NZA Simulations Releases Milford Sound Region for MSFS</title>
+    <updated>2023-09-13T00:00:00+00:00</updated>
+    <link href="/news/nzmilf" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501e23ca11f85e513f04b31_milf.jpeg" rel="enclosure" type="image/jpeg" length="3013932"/>
+    <summary>Sim: MSFS. NZA Simulations has recently released their rendition of the Milford Sound Region for Microsoft Flight Simulator, comprised of 8 airstrips: Milford Sound (NZMF), Martins Bay Aerodrome (NZMJ), Big Bay Beach Strip (NZQU), Cascade Lagoon Airstrip (NZ31), Hope River Aistrip (NZ32), Hollyford Track Airstrip (NZ34), Cascade Station Aistrip (NZ35), and Quintin Lodge Airstrip (T004).Â  â The package features an accurate rendition of eight airfields in the Milford Sound Region in New Zealand, with fully 3D modeled terminals, hidden adventure locations, multiple points of interest, 76 animated custom watercraft, custom animal and bird life, biome enhancements, custom water masking, mountain texture improvements, animated rivers and waterfalls, and more.  â â Itâs available onÂ OrbxDirectÂ for roughly $21.86, requiring at least 2.19 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-13T00:00:00+00:00</published>
   </entry>
 </feed>
