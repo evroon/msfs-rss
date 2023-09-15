@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-09-14T18:21:38.861350+00:00</updated>
+  <updated>2023-09-15T18:21:17.519113+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/august-24th-2023-development-update/</id>
-    <title>August 24th, 2023 Development Update</title>
-    <updated>2023-08-24T23:25:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-24th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/DaveBGaming-1024x576.jpg" rel="enclosure" type="image/jpeg" length="100463"/>
-    <summary>Yesterday at gamescom in Cologne, we were pleased to announce a new City Update and Local Legend. Sim pilots can find both City Update 4: Western Europe (Free) and Local Legend 12: Dornier Do X (USD $14.99) available now from the in-sim Marketplace.</summary>
-    <published>2023-08-24T23:25:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-31st-2023-development-update/</id>
     <title>August 31st, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/MSFS_RenoSale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76233"/>
     <summary>For 4 Days starting on September 13th, save up to 50% on 46 items.</summary>
     <published>2023-09-13T17:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-14th-2023-development-update/</id>
+    <title>September 14th, 2023 Development Update</title>
+    <updated>2023-09-14T22:16:41+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-14th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/JohnStarp-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="22825"/>
+    <summary>The National Championship Air Races in Reno, Nevada have begun! Some of the members of the Microsoft Flight Simulator Community Team are attending with a booth set up where you can fly the Reno Air Races yourself with hardware provided by Thrustmaster, Next Level Racing, and MSI Gaming.</summary>
+    <published>2023-09-14T22:16:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
