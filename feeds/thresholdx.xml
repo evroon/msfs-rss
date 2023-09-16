@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-15T18:21:19.901642+00:00</updated>
+  <updated>2023-09-16T18:19:34.522773+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbycg</id>
-    <title>Orbx Teases Gold Coast Airport for MSFS</title>
-    <updated>2023-09-06T00:00:00+00:00</updated>
-    <link href="/news/orbycg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f8dd18a74389714384d810_ycg1.png" rel="enclosure" type="image/png" length="941327"/>
-    <summary>Sim: MSFS. Orbx has published a teaser thread on their forums showcasing Matteo Venezianiâs work on their upcoming rendition of Gold Coast Airport (YBCG) for Microsoft Flight Simulator, the seventh busiest airport in Australia. It was initially built as an airstrip (Coolangatta Airstrip) in the 1930s, being heavily used by the Australian Royal Air Force during World War 2. Post-war saw its return to civilian use, progressively expanding to meet the ever-growing demands for passenger traffic in the region, especially in the 50s and 60s. International status was granted in the 1980s after they had built its current terminal (Eric Robinson Building), inaugurated by acting Prime Minister Douglas Anthony. The airport was serving up to 650,000 passengers yearly at that point. The main terminal was expanded to 27,000 square meters in 2010, doubling its size, adding 40 check-in desks, and incorporating domestic and international operations. It houses Qantas, Jetstar, Virgin Australia, Rex, Air New Zealand, and Scoot. Thereâs no information about the pricing or a potential release date, but Threshold will keep you informed! â</summary>
-    <published>2023-09-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mximyt</id>
     <title>MXI Design Releases Mytilene International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/5d47269777c5819a23cbedb5_Image11.jpg" rel="enclosure" type="image/jpeg" length="1240912"/>
     <summary>Sim: OTHER. The FSExpo organizers have unveiled the results of the community-wide survey to decide on the next location, published in a press release that follows below, along with the dates: â LAS VEGAS â September 14, 2023 â Flight Simulation Association (FSA) is excited to announce that FlightSimExpo 2024 will be held June 21-23, 2024 at Tropicana Las Vegas - a DoubleTree by Hilton. The location was selected following a community-wide survey in which more than 500 simmers selected Las Vegas as their top location choice.Â  â âWe are excited to bring FlightSimExpo back to Las Vegas,â said Evan Reiter, FSA co-founder. âThe space at Tropicana is perfect for our event, while the destination offers a great backdrop for families, resort-seekers, and those who love gaming and entertainment.âÂ  â FlightSimExpo is one of the worldâs largest dedicated flight simulation events and has welcomed more than 5,000 attendees to shows in Las Vegas, Orlando, San Diego, and Houston since 2018. The expo features developers from across the community, including representation from the four of the five most popular simulation platforms: Microsoft Flight Simulator, X-Plane, Prepar3D, and Infinite Flight â FSExpo 2024 will kick off on Friday, June 21 with a series of product announcements and reveals from community developers. Then, over the weekend, in-person attendees will have access to a 40,000 square foot exhibit hall featuring the latest in home flight simulation technology. Developer roundtables and educational seminars will take place throughout the weekend. As in previous years, simmers will be able to watch portions of FlightSimExpo from anywhere with the eventâs Online-Only registration. The 2024 venue is centrally located on the Las Vegas Strip and features an award-winning pool, spa, fitness center, and more. FlightSimExpo attendees will have access to a special average room rate of just $188/night over a threenight stayâincluding all taxes and resort fees. When booked as part of FlightSimExpoâs special room block, the stay includes free self-parking, WiFi for up to 5 devices, 2 bottles of water, unlimited fitness center access, and more. â âSave the dates, start thinking of plans, but please donât lock travel in yet,â says FSAâs Phil Coyle. âAs always, we are working to secure airfare and car rental discounts along with awesome add-on activities on Thursday, Friday, and Monday for our attendees. Youâll want to have the full picture before you start booking.âÂ  â â  The organization will publish more information about hotel options, attractions, and travel later this year. Attendee registrations will open in December, and people are welcome to join theirÂ Discord serverÂ to share ideas, feedback, and suggestions.Â  â</summary>
     <published>2023-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/drepaa</id>
+    <title>Dreamflight Studios Releases Palo Alto Airport for MSFS</title>
+    <updated>2023-09-16T00:00:00+00:00</updated>
+    <link href="/news/drepaa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6505f012de11be490fb059ab_palo.png" rel="enclosure" type="image/png" length="1943875"/>
+    <summary>Sim: MSFS. Dreamflight Studios has recently released their rendition of Palo Alto Airport (KPAO) for Microsoft Flight Simulator, a general aviation airport serving the city of Palo Alto in California.Â  â The airport was built between 1934-1936, replacing the former Palo Alto airport (adjacent to Stanford Stadium). It covers an area of 41 hectares, with a single 743-meter-long runway. â It houses various repair shops and four flying clubs: Stanford Flying Club, West Valley Flying Club, Sundance Flying Club, and Advantage Aviation Flying Club. â â The scenery features an accurate rendition of the airport with high-resolution PBR textures, custom ground textures, an up-to-date ground layout, and more. â Itâs available onÂ SimMarketÂ for roughly $10.60, requiring at least 150.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-16T00:00:00+00:00</published>
   </entry>
 </feed>
