@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-16T18:19:34.522773+00:00</updated>
+  <updated>2023-09-17T18:19:32.228339+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mximyt</id>
-    <title>MXI Design Releases Mytilene International Airport for MSFS</title>
-    <updated>2023-09-06T00:00:00+00:00</updated>
-    <link href="/news/mximyt" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f8e1085669e617adb325d5_myt1.jpg" rel="enclosure" type="image/jpeg" length="611725"/>
-    <summary>Sim: MSFS. MXI Design has recently released their rendition of Mytilene International Airport (LGMT) for Microsoft Flight Simulator, serving the island of Lesbos with a yearly average of 300,000 passengers.  Even though the airport was built in the 1940s, charter operations only started 40 years later and continue to this day regularly during summer (only Aegean and Sky Express offer a fixed year-long schedule). â It was privatized in December 2015, with an agreement between Fraport/Copelouzos and the state privatization fund. They will operate 14 airports in Greece for 40 years as of 11 April 2017. â Upon takeover, Fraport had a list of immediate actions to be taken on the airport, which included improved lighting, a general clean-up, sanitary facilities upgrade, service enhancement, and fire safety improvements.Â  â Their long-term plan includes a new terminal, a new fire station, a new apron, a 185% terminal size increase, and a 29% increase in check-in counters.  â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom buildings, a basic terminal interior, PBR models, custom parking positions matching real life, 3D passengers, animated flags, and custom surrounding models. â  Itâs available onÂ SimMarketÂ for roughly $10.72, requiring at least 1.71 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/siloei</id>
-    <title>SIMMAN Releases Loei Airport for MSFS</title>
-    <updated>2023-09-06T00:00:00+00:00</updated>
-    <link href="/news/siloei" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f8e5ceef5670526e3cff31_loei1.png" rel="enclosure" type="image/png" length="2834825"/>
-    <summary>Sim: MSFS. SIMMAN has recently released their rendition of Loei Airport (VTUL) for Microsoft Flight Simulator, serving the Thailandese city of Loei with a yearly average of 212,000 passengers. â It was opened in December 1954, approximately eight kilometers southwest of Loei, after 12 years of planning that started with Governor Thian Kerdperchâs wish to move Loeiâs airport from its temporary location within the city to the outskirts.Â  â The airport was expanded in 1968 and 1972 after the government purchased additional land, building a fire department, a larger apron, and installing navigation aids. â The administration has recently purchased more land to build a larger passenger terminal. â Thai Airways, Air Andaman, Nok Air, Happy Air, Solar Air, and Thai Smile Airways currently serve it. â  The scenery features an accurate rendition of the airport, with a custom terminal interior, true-to-life parking spots, custom ground markings, custom night lighting, accurate light positioning, and more. â Itâs available onÂ SimMarketÂ for roughly $10.73, requiring at least 306.84 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2023-09-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jflten</id>
     <title>Just Flight Releases Tenerife North Airport for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/drepaa" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6505f012de11be490fb059ab_palo.png" rel="enclosure" type="image/png" length="1943875"/>
     <summary>Sim: MSFS. Dreamflight Studios has recently released their rendition of Palo Alto Airport (KPAO) for Microsoft Flight Simulator, a general aviation airport serving the city of Palo Alto in California.Â  â The airport was built between 1934-1936, replacing the former Palo Alto airport (adjacent to Stanford Stadium). It covers an area of 41 hectares, with a single 743-meter-long runway. â It houses various repair shops and four flying clubs: Stanford Flying Club, West Valley Flying Club, Sundance Flying Club, and Advantage Aviation Flying Club. â â The scenery features an accurate rendition of the airport with high-resolution PBR textures, custom ground textures, an up-to-date ground layout, and more. â Itâs available onÂ SimMarketÂ for roughly $10.60, requiring at least 150.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/darx26</id>
+    <title>Dark Space Updates xEnviro for X-Plane 12.06</title>
+    <updated>2023-09-16T00:00:00+00:00</updated>
+    <link href="/news/darx26" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6505f92efbbb8e2f46cc7e9d_xenviro.png" rel="enclosure" type="image/png" length="1724659"/>
+    <summary>Sim: X-Plane. Dark Space has recently updated xEnviro to work with X-Plane 12.06r3, following up on a bigger update from late August that added a series of enhancements to both X-Plane 11 and 12.  Update 1.26 brought dithering technology to reduce sky banding, X-Plane 11 compatibility, in-cloud light scattering, and 1.27 warranted the compatibility with the latest version of X-Plane 12.  The developer team says they are actively working on reintroducing the features that were held back during the transition from X-Plane 11 to X-Plane 12. The following updates aim to reflect that. â xEnviro is available on itsÂ official website,Â Threshold Store,Â andÂ X-Plane.OrgÂ for $69.99. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aricea</id>
+    <title>Arif Studio Releases Chicago Executive Airport for MSFS</title>
+    <updated>2023-09-16T00:00:00+00:00</updated>
+    <link href="/news/aricea" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650601bef9412547ee6dd6de_chica.jpg" rel="enclosure" type="image/jpeg" length="1679752"/>
+    <summary>Sim: MSFS. Arif Studio has recently released their rendition of Chicago Executive Airport (KPWK) for Microsoft Flight Simulator, a public airport serving northwestern Chicago with a yearly average of 108,000 aircraft movements.  It opened in 1925 as Gauthierâs Flying Field in the village of Wheeling (Cook County, Illinois), purchased and developed by George J. Priester in 1953, who installed paved runways, lighting, hangars, and an ATC tower. It was then sold in 1986 by Georgeâs son, Charlie, to the city of Prospect Heights and Wheeling, when it was renamed Palwaukee Municipal Airport. â The current name was given in late 2006 after trustees from the village voted to approve a name change, better positioning the airport as a private aviation gateway to Chicago due to its proximity to the city. â â According to 2022 data, 80% of the yearly movements correspond to general aviation traffic, 20% to air taxi, and less than 1% are military. There are 296 aircraft based at the airport. â â The scenery features an accurate rendition of the airport, with a recreation of all the hangars, numerous static objects, landside buildings, non-PBR texturing for file size optimization, custom night lighting, and more. â â Itâs available onÂ SimMarketÂ for roughly $8.52, requiring at least 31.18 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-16T00:00:00+00:00</published>
   </entry>
 </feed>
