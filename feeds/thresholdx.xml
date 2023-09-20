@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-19T18:22:30.915708+00:00</updated>
+  <updated>2023-09-20T18:22:32.082329+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/codden</id>
-    <title>X-Codr Designs Updates Denver International Airport for X-Plane 11 and 12</title>
-    <updated>2023-09-06T00:00:00+00:00</updated>
-    <link href="/news/codden" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64f8eef27f242211ccbf4c02_den1.jpg" rel="enclosure" type="image/jpeg" length="1740086"/>
-    <summary>Sim: X-Plane. X-Codr Designs has recently released a major update to their rendition of Denver International Airport (KDEN) for X-Plane 11 and 12, delivering the culmination of two years of development time with a load of new features and improvements. â Version 2.0 - free to owners of the previous version - brings a high-quality rendition of the airport as of 2023, with an up-to-date ground layout, realistic terminal interiors with multiple points of interest, animated escalators, animated people (with varying density according to the time of day), windows on buildings that mimic the optics of real glass, PBR texturing, and performance-friendly optimization. â It uses their Living Scenery Technology plugin that warrants animated people, animated vehicles traveling at realistic speeds, animated electronic display boards on concourse B displaying time and temperature, variable AC fan blade speeds depending on temperature, and more. â  The complete list of features follows down below:  â The scenery is available on theÂ X-Plane.Org StoreÂ for $29.95, requiring at least 7.5 GB of free hard disk space to install. As previously mentioned, owners of the previous version are entitled to a free upgrade. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2ac13</id>
-    <title>A2A Simulations Updates Accu-Sim Comanche for MSFS</title>
-    <updated>2023-09-08T00:00:00+00:00</updated>
-    <link href="/news/a2ac13" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64fb668b716c5dba1711f94f_cuman1.jpg" rel="enclosure" type="image/jpeg" length="1159834"/>
-    <summary>Sim: MSFS. A2A Simulations has recently updated their Accu-Sim Comanche 250 to version 1.3, including multiple bug fixes and two new features. â The third update since its release brings the ability to switch off trim acceleration, an option to set metric air temperature and pressure units independently of each other and regional settings within the simulator, and a substantial changelog with seventeen fixes, which follows down below:  â The add-on is available on theirÂ storeÂ for $49.99, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lesdx2</id>
-    <title>Leading Edge Simulations Releases DC-3 v2 for X-Plane 12</title>
-    <updated>2023-09-08T00:00:00+00:00</updated>
-    <link href="/news/lesdx2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64fb6ad1257527f71ebf8ae4_dc32.jpg" rel="enclosure" type="image/jpeg" length="406637"/>
-    <summary>Sim: X-Plane. Leading Edge Simulations has recently released the v2 of their Douglas DC-3 for X-Plane 12, bringing two cockpit variants, custom-coded systems, and more. â Their newly released DC-3 features an accurately modeled Douglas DC-3 with heavy use of PBR materials, ensuring great visual acuity. There are two cockpit options, ranging from the classic layout from the 1930s-1940s and a modern style with modern instrumentation and avionics.Â   â The custom systems bring a deeply simulated electric system, two autopilot options, multiple navigation tools (VOR and ADF radios, GPS unit compatibility), a simulated hydraulic system, engines with fully simulated mixture control, a custom auto-feather mechanism, and realistic oil consumption figures depending on the engineâs health.  â It also features an airframe system where every livery is individually persistent, with individual options, maintenance logs, and states, which can be controlled through a user interface. â The developers also disclaim a list of things that will not be available right on release: the hydraulic system has correct indications, but X-Plane does not allow for deep interaction with it; the anti-ice systems are present yet not fully simulated; hardware support is said to be âbasicâ for the time being; the Sperry autopilot on the âClassicâ variant doesnât have heading mode, only the basic operations. â  Itâs available onÂ X-AviationÂ for $49.95 and is only compatible with X-Plane 12. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mfsasa</id>
-    <title>MFSG Releases Asahikawa Airport for MSFS</title>
-    <updated>2023-09-09T00:00:00+00:00</updated>
-    <link href="/news/mfsasa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64fcf29998a948242f08db7d_asahi.jpg" rel="enclosure" type="image/jpeg" length="552429"/>
-    <summary>Sim: MSFS. MFSG has recently released their rendition of Asahikawa Airport (RJEC) for Microsoft Flight Simulator, serving Asahikawa in Hokkaido, with a yearly average of 1 million passengers.  â After half a decade of planning, the airport was inaugurated in 1966, with scheduled service beginning that same year with Japan Domestic Airlines, flying a NAMC YS-11 to Tokyo Haneda via Okadama. It was primarily seasonal until 1970 when there was finally a year-round flight to Tokyo.  Nearly twenty years later, the airport was briefly closed for expansion work, with its sole runway being extended from 1,200 meters to 1,640 in February 1982 and then to 2,000 meters in November 1982, allowing the operation of larger jet aircraft like the DC-9, the MD-80, and the Airbus A300. â In 2016, the administration made plans to build a new international terminal to the south of the old one, with 5,700 square meters of constructed area, targeting 500,000 international passengers yearly by 2030. It opened in November 2018. â The airport is served by Air Do, All Nippon Airways (seasonally), Asiana Airlines, Japan Airlines, Tigerair Taiwan, and Tâway Air. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom jetways, custom ground textures, AI traffic compatibility, and more. â  Itâs available onÂ SimMarketÂ for roughly $13.38, requiring at least 31.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rfsvva</id>
     <title>RFscenerybuilding Releases Verona Villafranca Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6508b098070dcbe60c54dae7_kaj.jpg" rel="enclosure" type="image/jpeg" length="305779"/>
     <summary>Sim: MSFS.  ATTBEN has recently released their rendition of Kajaani Airport (EFKI) for Microsoft Flight Simulator, serving the Kajaani town in the Finnish region of Kainu, with a yearly average of 85,200 passengers.  The airport was built in 1939, but the official opening only happened 17 years later because of World War 2 and its short-term economic consequences.Â   â It has been majorly domestic, with a healthy start followed by a decline in the 1980s as a direct consequence of the economic recession and airline industry deregulation.Â  â The 90s brought a ârevivalâ with the popularization of low-cost carriers and the growth of the tourism industry in Finland.  â A new - environmentally friendly - terminal was built in the early 1990s, designed to be energy-efficient and sustainable. It won the Finavia Airport of the Year the following year and went on to win again in 1999 and 2007. â Finnair serves it with a flight to Helsinki-Vantaa. â The scenery features an accurate rendition of the airport, with PBR materials, a detailed interior environment, custom baggage carts, custom clutter, a true-to-life runway profile and elevation, custom night lighting, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $11.72, requiring at least 1.81 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkskan</id>
+    <title>MK Studios Releases Kangerlussuaq Airport for MSFS</title>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <link href="/news/mkskan" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509f3a25549e48989711999_kang.jpg" rel="enclosure" type="image/jpeg" length="1197811"/>
+    <summary>Sim: MSFS. MK Studios has recently released their rendition of Kangerlussuaq Airport (BGSF) for Microsoft Flight Simulator, serving the settlement of Kangerlussuaq in the Qeqqata Municipality in Greenland with a yearly average of 133,481 passengers. â It was built in the early 1940s during the US occupation as Bluie-West 8, which was later renamed Sondrestromfjord Air Base. â Transatlantic civilian flights started to use the air base for refueling in the mid-1950s, starting a trend that lives on to this day, yet mostly among general aviation pond crossers.   Itâs a hub for Air Greenland, although they plan on moving their hub away from it as the permafrost under the airport is melting and causing significant damage to the runway, which will be closed to major commercial traffic in 2024. There are plans to build new airports at Tasillaq and Ittoqqortoormit.  â The scenery package also includes renditions of Sisimiut, Maniitsoq, Qaarsut, and Aasiaat, with detailed buildings, accurate terrain, and more. Kangerlussuaq, the main dish, features detailed terminal interiors, custom satellite imagery covering the airport and the city, real-world elevation data based on LiDAR scans, the entire town of Kangerlussuaq with its 150 buildings, custom ground poly, realistic night lighting, 3D snow and icebergs depending on weather condition, custom visual effects, and AI compatibility. â Itâs available on SimMarket for roughly $18.12, requiring at least 5.73 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/airgsa</id>
+    <title>Airwil Sceneries Releases General Santos International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <link href="/news/airgsa" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509fa6441dadd89f318e7dc_santos.png" rel="enclosure" type="image/png" length="1791008"/>
+    <summary>Sim: X-Plane. Airwil Sceneries has recently released their rendition of General Santos International Airport (RPMR) for X-Plane 11 and 12, serving the greater area of Soccsksargen in the Philippines with a yearly average of 768,000 passengers. â Built for the 42nd annual Palarong Pambansa (National Games), which was held in South Cotabato and General Santos at the time, the airport was going to be the largest in Mindanao (the second largest island in the Philippines), partially funded by the USA with a 47.6 million USD grant.Â  â It opened in 1996 and has become the largest airport in Mindanao, aiding the region's rapid urban development and multiplying its yearly growth rate. â The airport was upgraded for the first time between 2017-2019, which consisted of a major facelift and modernization of its infrastructure, which had yet to be touched since its opening in 1996. â The airport is served by Cebgo, Cebu Pacific, PAL Express, and Philippine Airlines.Â  â The scenery features an accurate rendition of the airport, with more than a hundred custom objects, a highly-detailed landside, custom ground textures, custom orthoimagery, custom landside, Filipino houses and vehicles, and more. â It's available onÂ SimMarketÂ for roughly $10.65, requiring at least 1.87 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/susbri</id>
+    <title>SuperSonic Releases Brindisi Airport for MSFS</title>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <link href="/news/susbri" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509ffdfa8a59d672c0b4b51_bri.jpg" rel="enclosure" type="image/jpeg" length="1263175"/>
+    <summary>Sim: MSFS. SuperSonic has recently released their rendition of Brindisi Papola Casale Airport (LIBR) for Microsoft Flight Simulator, the 20th busiest airport in Italy with a yearly average of 3 million passengers. â Built as a military airbase in the 1920s, commercial traffic only started a decade and a half later with Ala Littoria, a government-owned airline based in Rome. It collapsed after World War 2, becoming the now-defunct Alitalia. â The airport retained its military status until 2008, despite maintaining its military facilities to this day, although referred to by a different name: Military Airport Orazio Pierozzi. The civil name (Papola Casale) was given after Antonio Papola, a deceased Italian aviator with tight bonds to the city. â The airport is served by many airlines during the summer season, with Ryanair, AlbaStar, easyJet, Eurowings, ITA Airways, Swiss, and WizzAir being the few to offer routes all year long. The seasonal visitorsâ list includes Aer Lingus, Austrian Airlines, British Airways, Brussels Airlines, Volotea, and Vueling.Â  â The scenery features an accurate rendition of the airport, with custom aerial imagery, a highly-detailed terminal building with its interior, custom landside, custom ground textures, PBR textures, custom night lighting, and performance-friendly optimization. â  Itâs available onÂ SimMarketÂ for roughly $10.66, requiring at least 928.44 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsddje</id>
+    <title>FSDG Releases Djerba Airport for MSFS</title>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <link href="/news/fsddje" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650a04d5eacab46124922822_dje.png" rel="enclosure" type="image/png" length="2192113"/>
+    <summary>Sim: MSFS. FSDG has recently released their rendition of Zarzis International Airport (DTTJ) for Microsoft Flight Simulator, serving the island of Djerba in Tunisia with a yearly average of 1.7 million passengers. â It was inaugurated in 1970 and has contributed to the growth of tourism in the region, becoming an important seasonal destination for Europeans.Â  â Itâs seasonally visited by Air France, BH Air, Brussels Airlines, Discover Airlines, Edelweiss Air, European Air Charter, Luxair, Neos, Nouvelair, Smartwings, Swiss International Air Lines, TAP Air Portugal, Transavia, TUI fly Belgium, TUI fly Germany, TUI fly Netherlands, Tunisair, and Tunisair Express. â â The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date layout, custom night lighting, animated jetways, reflective textures, GSX compatibility, and more. â â Itâs available onÂ SimMarketÂ for roughly $16.12, requiring at least 1016.41 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-19T00:00:00+00:00</published>
   </entry>
 </feed>
