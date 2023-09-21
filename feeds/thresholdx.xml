@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-20T18:22:32.082329+00:00</updated>
+  <updated>2023-09-21T18:22:41.759237+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rfsvva</id>
-    <title>RFscenerybuilding Releases Verona Villafranca Airport for MSFS</title>
-    <updated>2023-09-11T00:00:00+00:00</updated>
-    <link href="/news/rfsvva" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/64ff03f777f82a249650edbd_verona.png" rel="enclosure" type="image/png" length="2889827"/>
-    <summary>Sim: MSFS. RFscenerybuilding has recently released their rendition of Verona Villafranca Airport (LIPX) for Microsoft Flight Simulator, serving the Italian city of Verona with a yearly average of 3.5 million passengers. â Built as an air base in the early 1900s and heavily used during World War I, it opened to civil air traffic not long after the conflict with daily connections to Rome and multiple charter flight destinations in northern Europe. â A passenger terminal was built in the late 1970s by the Province of Verona, the Commune of Verona, and the Local Chamber of Commerce. A managing society was formed shortly after, sharing the ownership between provincial governments from Veneto, Lombardy, Trentino, and Alto Adige. â With healthy growth figures in the late 90s and early 2000s, the administration decided to expand the airport by constructing a new arrivals terminal, inaugurated in 2006. â Aer Lingus, Air Albania, AirBaltic (seasonally), Air Dolomiti, Albawings, British Airways, easyJet, Eurowings (seasonally), Finnair (seasonally), FlyOne, Jet2 (seasonally), Neos, Norwegian Air Shuttle (seasonally), Play (seasonally), Ryanair, Transavia (seasonally), TUI Airways, Volotea, and WizzAir serve the airport. â The scenery features an accurate rendition of the airport, with custom airport buildings, custom ground vehicles, custom ground textures, and more. â Itâs available onÂ SimMarketÂ for roughly $16.06, requiring at least 374.60 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lepiap</id>
     <title>Low-End Pc Studios Releases Iquitos Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650a04d5eacab46124922822_dje.png" rel="enclosure" type="image/png" length="2192113"/>
     <summary>Sim: MSFS. FSDG has recently released their rendition of Zarzis International Airport (DTTJ) for Microsoft Flight Simulator, serving the island of Djerba in Tunisia with a yearly average of 1.7 million passengers. â It was inaugurated in 1970 and has contributed to the growth of tourism in the region, becoming an important seasonal destination for Europeans.Â  â Itâs seasonally visited by Air France, BH Air, Brussels Airlines, Discover Airlines, Edelweiss Air, European Air Charter, Luxair, Neos, Nouvelair, Smartwings, Swiss International Air Lines, TAP Air Portugal, Transavia, TUI fly Belgium, TUI fly Germany, TUI fly Netherlands, Tunisair, and Tunisair Express. â â The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date layout, custom night lighting, animated jetways, reflective textures, GSX compatibility, and more. â â Itâs available onÂ SimMarketÂ for roughly $16.12, requiring at least 1016.41 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skysna</id>
+    <title>Skyline Simulations Releases John Wayne Airport for X-Plane 12</title>
+    <updated>2023-09-20T00:00:00+00:00</updated>
+    <link href="/news/skysna" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650b6f1b61ccf9936e496088_sna.jpg" rel="enclosure" type="image/jpeg" length="627175"/>
+    <summary>Sim: X-Plane. Skyline Simulations recently released the X-Plane 12 version of their John Wayne Airport (KSNA), serving Orange County with a yearly average of 11.3 million passengers.  â It started as an airstrip in 1923 and was purchased by the County of Orange in 1939, which has owned it ever since.Â  â After a brief period of Military usage during World War 2, it was returned to the County with the condition it remained open for all kinds of aviation uses. â  A passenger terminal was built in 1967, with 2,000 square meters of total built area, accommodating up to 400,000 passengers annually. It was expanded in 1974, 1980, and 1982, adding 700 square meters. â Eight years after the last terminal expansion, the Thomas F. Riley Terminal replaced the aging terminal with a 31,390 square meter facility that could handle millions of passengers. â It was then further expanded in 2011, part of a $543 million project that added a new terminal C with six additional gates and a new parking lot. â Air Canada, Alaska Airlines, Allegiant Air, American Airlines, Breeze Airways, Delta Air Lines, Frontier Airlines, JSX, Southwest Airlines, Spirit Airlines, United Airlines, United Express, and WestJet serve it. â The scenery features an accurate rendition of the airport, with UHD textures, detailed 3D modeling, PBR materials on every building, custom orthoimagery, thousands of custom static objects, custom night lighting, ground traffic, and more. â Itâs available onÂ SimMarketÂ for roughly $17.68, requiring at least 678.37 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-20T00:00:00+00:00</published>
   </entry>
 </feed>
