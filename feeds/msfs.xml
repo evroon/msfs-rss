@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-09-21T18:22:39.151672+00:00</updated>
+  <updated>2023-09-22T18:21:49.494254+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/august-31st-2023-development-update/</id>
-    <title>August 31st, 2023 Development Update</title>
-    <updated>2023-08-31T23:09:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-31st-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/08/AN2Felllla-1024x576.jpg" rel="enclosure" type="image/jpeg" length="50172"/>
-    <summary>Yesterday, we released a new test build to those enrolled in the ongoing Sim Update 13 public beta.</summary>
-    <published>2023-08-31T23:09:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/auscene-mk-studios-and-project-stratosphere-sale/</id>
     <title>AUscene, MK-Studios, and Project Stratosphere Sale</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/JohnStarp-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="22825"/>
     <summary>The National Championship Air Races in Reno, Nevada have begun! Some of the members of the Microsoft Flight Simulator Community Team are attending with a booth set up where you can fly the Reno Air Races yourself with hardware provided by Thrustmaster, Next Level Racing, and MSI Gaming.</summary>
     <published>2023-09-14T22:16:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-21th-2023-development-update/</id>
+    <title>September 21st, 2023 Development Update</title>
+    <updated>2023-09-21T23:25:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-21th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/@CpuGeta486-Twitter-1024x572.jpeg" rel="enclosure" type="image/jpeg" length="37627"/>
+    <summary>To begin our update this week, we’d like to acknowledge the tragic crash at the National Championship Air Races last weekend.</summary>
+    <published>2023-09-21T23:25:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
