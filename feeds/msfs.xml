@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-09-22T18:21:49.494254+00:00</updated>
+  <updated>2023-09-23T18:19:56.732782+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/auscene-mk-studios-and-project-stratosphere-sale/</id>
-    <title>AUscene, MK-Studios, and Project Stratosphere Sale</title>
-    <updated>2023-09-01T17:00:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/auscene-mk-studios-and-project-stratosphere-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/2023_Sep1-8_Sale_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122314"/>
-    <summary>For seven days starting on September 1st save up to 71% on 28 items.</summary>
-    <published>2023-09-01T17:00:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-7th-2023-development-update/</id>
     <title>September 7th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/@CpuGeta486-Twitter-1024x572.jpeg" rel="enclosure" type="image/jpeg" length="37627"/>
     <summary>To begin our update this week, we’d like to acknowledge the tragic crash at the National Championship Air Races last weekend.</summary>
     <published>2023-09-21T23:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/azurpoly-footage-designs-and-uk2000-scenery-sale/</id>
+    <title>Azurpoly, Footage Designs and UK2000 Scenery Sale</title>
+    <updated>2023-09-22T17:43:52+00:00</updated>
+    <link href="https://www.flightsimulator.com/azurpoly-footage-designs-and-uk2000-scenery-sale/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/2023_Sep22-29_Sale_v02_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="155310"/>
+    <summary>26 Items On Sale Now in the Marketplace</summary>
+    <published>2023-09-22T17:43:52+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
