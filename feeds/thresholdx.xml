@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-24T18:19:55.651345+00:00</updated>
+  <updated>2023-09-25T18:22:43.475270+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nssapg</id>
-    <title>Northern Sky Studio Releases Petersburg Airport for MSFS</title>
-    <updated>2023-09-13T00:00:00+00:00</updated>
-    <link href="/news/nssapg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501c667a6ce16776ca35f6f_papg.jpg" rel="enclosure" type="image/jpeg" length="1363994"/>
-    <summary>Sim: MSFS. Northern Sky Studio has recently released their rendition of Petersburg James A. Johnson Airport (PAPG) for Microsoft Flight Simulator, serving the Alaskan city of Petersburg with a yearly average of 13,042 passengers. â It was built in 1947 as a seaplane base for the US Army, converted to a land airport five years later, and named after a local businessman and politician. â Itâs served by Alaska Airlines (Juneau, Wrangell) and Alaska Seaplanes (Juneau, Kake, Sitka, Wrangell), with Juneau being the busiest destination as of 2015-2016. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, PBR materials, high-resolution building textures, custom orthophoto for the airport and surroundings, and more. â Itâs available on SimMarket for roughly $11.78, requiring at least 2.57 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/csrmam</id>
     <title>Cloud Studio Releases Moraine Airpark for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650e1b6110149496041872e2_dupage.jpg" rel="enclosure" type="image/jpeg" length="1966346"/>
     <summary>Sim: MSFS. FlightFX has recently released their rendition of DuPage Airport (KDPA) for Microsoft Flight Simulator, a general aviation airport serving the city of West Chicago, Illinois, with a yearly average of 135,000 aircraft movements. â It was built on former sheep-grazing land in the late 1920s by two Chicago entrepreneurs, and the U.S. Army eventually requisitioned it during World War 2 for training purposes. They built hangars and paved two runways, activating it in 1943. The hangar and the runways still exist, although one of the runways is now a taxiway. â Howard Aircraft Corporation opened a factory across the road a year later, in 1944. They built more than 500 aircraft for the military, which was then pushed across the street for testing at the airport.Â  â The airport was sold back to the county for $1 after the war, followed by a post-war boom that led to a new control tower, a new runway, and expansion plans that only came to fruition almost four decades later. â Midwayâs example (being unable to grow because of urban development around it) made the administration hurry to purchase more surrounding land and make it bigger, taking it from 360 hectares to 1,100 hectares by 1992, warranting control over all the property surrounding the runway complex and providing a larger buffer zone.Â  â It has an FBO offering fuel, parking, de-icing, catering, lavatory services, and a little passenger terminal.Â  â 95% of the yearly traffic corresponds to general aviation, 4% to air taxi, and less than 1% to military traffic. There are 255 aircraft based at the airport. â They recently opened a U.S. Customs and Border Protection (C.B.P.) facility on the first floor of the DuPage Flight Center FBO. â The scenery features an accurate rendition of the airport, built in coordination with the DuPage Airport Authority, with on-site photography of all major facilities used for reference, custom ground textures, high-resolution photographic textures, custom night lighting, interior modeling of key structures, in-hangar parking spaces, static G.A. and corporate aircraft, reworked landscaping, and ambient lighting improvements. â Itâs available onÂ ContrailÂ for roughly $14.75, requiring at least 2.92 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdbl2</id>
+    <title>Fenix Simulations Delays Block 2 Release for MSFS</title>
+    <updated>2023-09-25T00:00:00+00:00</updated>
+    <link href="/news/fsdbl2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6358191032e01e7ba85063f3_fenix1.png" rel="enclosure" type="image/png" length="3158078"/>
+    <summary>Sim: MSFS. Aamir Thacker, Fenix Simulationsâ CEO, has made an announcement on their Discord regarding the upcoming IAE update for their A320 add-on, initially scheduled for release in September.  After progressing quickly with the CFM external engine model, they have decided to delay the release of the Block 2 update so that users can get both engines with the new model instead of just the IAEs as previously planned.  Their work on the IAE model made them more familiar with external engine development and significantly sped up the process with the CFMs. The new timeframe for the Block 2 update with both engine models is sometime in October.  They have also confirmed an entirely rebuilt cabin for Block 2, with more detail, increased performance, and a lower VRAM footprint. â The Fenix A320 is available on theirÂ websiteÂ for roughly $60.98, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-25T00:00:00+00:00</published>
   </entry>
 </feed>
