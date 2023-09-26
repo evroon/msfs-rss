@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-25T18:22:43.475270+00:00</updated>
+  <updated>2023-09-26T18:22:29.922112+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/csrmam</id>
-    <title>Cloud Studio Releases Moraine Airpark for MSFS</title>
-    <updated>2023-09-13T00:00:00+00:00</updated>
-    <link href="/news/csrmam" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501cea0c3f0a13909a141a9_moraine.jpg" rel="enclosure" type="image/jpeg" length="544620"/>
-    <summary>Sim: MSFS. Cloud Studio has recently released their rendition of Moraine Airpark (I73) for Microsoft Flight Simulator, a public-use airport in Moraine, Ohio, with a yearly average of 26,000 aircraft operations.Â  â It opened 116 years ago and is adjacent to the river where the Wright Brothers tested seaplanes in 1907. The seaplane base no longer exists, now part of the 155-acre area occupied by the airpark and its 1067-meter runway. â From the 26,280 operations in 2022, 79% were general aviation, 20% air taxi, and 1% military. There are 111 aircraft based at the airport: 106 airplanes, three ultralights, one helicopter, and one glider. â The scenery features a hand-made custom mesh, custom 3D models, hand-placed vegetation, custom ground poly, and a helipad. â  Itâs available onÂ SimMarketÂ for roughly $7.50, requiring at least 204.72 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ixp737</id>
-    <title>IXEG 737 Classic Plus for X-Plane 12 Releasing on Friday</title>
-    <updated>2023-09-13T00:00:00+00:00</updated>
-    <link href="/news/ixp737" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6501d33507cdf5978723e7d4_ixeg.jpg" rel="enclosure" type="image/jpeg" length="107969"/>
-    <summary>Sim: X-Plane. IXEG has recently announced the imminent release of their 737 Classic Plus, adding full compatibility with X-Plane 12, new features, and âsetting the stage for new improvements in the future.âÂ  â The Classic Plus version will bring engine bleed configuration improvements, code optimization, wingflex, a 3D cabin, moving cabin doors, cockpit &amp; cabin lighting up to the new standard, GUI enhancements, the ability to hide the yoke with the default key assignment, a FOV slider, cockpit windows with XP12 weather effects (rain and ice), improved external lighting, and tuned aerodynamics and engine performance. â â â The upgrade will be free for customers who purchased the 737 Classic on or after February 7, 2022, and customers who bought it before that date will have to pay $14.95. The upgrade offer will last 60 days, counting from the release on Friday (September 15, 2023).  Refer to theÂ announcementÂ for further information on the matter. Shout out to DragonRuins for the news scoop. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nzmilf</id>
     <title>NZA Simulations Releases Milford Sound Region for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/fsdbl2" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6358191032e01e7ba85063f3_fenix1.png" rel="enclosure" type="image/png" length="3158078"/>
     <summary>Sim: MSFS. Aamir Thacker, Fenix Simulationsâ CEO, has made an announcement on their Discord regarding the upcoming IAE update for their A320 add-on, initially scheduled for release in September.  After progressing quickly with the CFM external engine model, they have decided to delay the release of the Block 2 update so that users can get both engines with the new model instead of just the IAEs as previously planned.  Their work on the IAE model made them more familiar with external engine development and significantly sped up the process with the CFMs. The new timeframe for the Block 2 update with both engine models is sometime in October.  They have also confirmed an entirely rebuilt cabin for Block 2, with more detail, increased performance, and a lower VRAM footprint. â The Fenix A320 is available on theirÂ websiteÂ for roughly $60.98, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wfszgg</id>
+    <title>WF Scenery Studio Releases Guangzhou International Airport for MSFS</title>
+    <updated>2023-09-25T00:00:00+00:00</updated>
+    <link href="/news/wfszgg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6511e05c253a653b1b073f1c_zggg1.webp" rel="enclosure" type="image/webp" length="101762"/>
+    <summary>Sim: MSFS. WF Scenery Studio has recently released their rendition of Guangzhou Baiyun International Airport (ZGGG) for Microsoft Flight Simulator, serving Guangzhou and Foshan with a yearly average of 40.2 million passengers, making it the busiest airport in China. â The airport opened 19 years ago, replacing the former Baiyun Airport (from 1932), which was deemed too small for the predicted passenger figures and unable to be expanded because of urban development around its area. It was built 28 kilometers north of the city, making it immune to curfews and noise restrictions, thus allowing it to operate 24 hours a day.  â It features two terminals, with Terminal 1 having three concourses and Terminal 2 - opened recently - being one of the worldâs largest terminal facilities with 808,700 square meters.Â  â Itâs a hub for 9 Air, China Southern Airlines, FedEx Express, Hainan Airlines, and Shenzhen Airlines. As the busiest airport in China, the visitors list is quite substantial and mainly from Asia.Â  â Â The scenery features an accurate rendition of the airport, with PBR textures, animated jetways, dynamic lights, custom ground markings, and more. â Itâs available onÂ ContrailÂ for roughly $25.31, requiring at least 5.64 GB of free hard disk space to install. Shout out to Tang0 for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inisou</id>
+    <title>iniBuilds Announces Southampton Airport and Release Date for MSFS</title>
+    <updated>2023-09-25T00:00:00+00:00</updated>
+    <link href="/news/inisou" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6511e0073d60b921fbc5fc5f_image.thumb.png.c3abacbb5482daf71e74dbc25a66cf24.png" rel="enclosure" type="image/png" length="1003571"/>
+    <summary>Sim: MSFS. iniBuilds has announced that their next project is Southampton Airport (EGHI) for Microsoft Flight Simulator. After initially teasing their next project a few weeks ago with a few screenshots, many eagle-eyed simmers in the community deduced that it was Southampton in the United Kingdom. That was officially confirmed today with a post by iniBuilds on their forum.Â  Southampton Airport was originally built in World War 1 for the Royal Flying Corps, and in 1917, was handed over to the United States Navy Air Service for a short period of time. It also served in a critical role for ground and air training for the Royal Navy in World War 2. It was also the site of the first flight of the Supermarine Spitfire. In the modern era, the airport is a hub for regional and international travel, and is home to many airlines including British Airways, easyJet, Aer Lingus, and Loganair. It also serves many operations to and from the Channel Islands. In their announcement, iniBuilds said that: âWe have gone into extreme detail into this scenery and you can see that we have covered a lot of detail in all areas of the airport.â They also provided an explanation on why they picked Southampton, mainly because many on their scenery team, including their Head of Scenery Development are based in Southampton. Also in their announcement, iniBuilds provided a list of features that can be expected with the upcoming scenery, which include: â They also included a trailer for the airport:  â The scenery will be released on Friday, September 29th with a price of Â£12.99 excl. VAT, or $15.86 USD. â Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-25T00:00:00+00:00</published>
   </entry>
 </feed>
