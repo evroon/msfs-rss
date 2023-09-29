@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-09-28T18:22:17.430058+00:00</updated>
+  <updated>2023-09-29T18:22:07.720089+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/Eagle4-1024x575.jpg" rel="enclosure" type="image/jpeg" length="131806"/>
     <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
     <published>2023-07-20T22:52:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/reno-sale-2023/</id>
-    <title>Reno Sale: 46 Items On Sale Now In The Marketplace</title>
-    <updated>2023-09-13T17:35:36+00:00</updated>
-    <link href="https://www.flightsimulator.com/reno-sale-2023/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/MSFS_RenoSale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="76233"/>
-    <summary>For 4 Days starting on September 13th, save up to 50% on 46 items.</summary>
-    <published>2023-09-13T17:35:36+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-14th-2023-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2020/03/KittyHawk_E3_007-min-1024x435.jpg" rel="enclosure" type="image/jpeg" length="47433"/>
     <summary>Release Notes for Sim Update 13 [1.34.16.0] are now available! Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2023-09-28T15:14:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-28th-2023-development-update/</id>
+    <title>September 28th, 2023 Development Update</title>
+    <updated>2023-09-28T23:39:00+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-28th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/09/KotetuP-Twitter-1-1024x551.jpg" rel="enclosure" type="image/jpeg" length="112673"/>
+    <summary>We released Sim Update 13, the next major release to Microsoft Flight Simulator, earlier today. This update includes dozens of fixes and improvements to many different facets of the sim.</summary>
+    <published>2023-09-28T23:39:00+00:00</published>
   </entry>
 </feed>

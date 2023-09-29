@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-28T18:22:18.858515+00:00</updated>
+  <updated>2023-09-29T18:22:11.124214+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/darx26</id>
-    <title>Dark Space Updates xEnviro for X-Plane 12.06</title>
-    <updated>2023-09-16T00:00:00+00:00</updated>
-    <link href="/news/darx26" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6505f92efbbb8e2f46cc7e9d_xenviro.png" rel="enclosure" type="image/png" length="1724659"/>
-    <summary>Sim: X-Plane. Dark Space has recently updated xEnviro to work with X-Plane 12.06r3, following up on a bigger update from late August that added a series of enhancements to both X-Plane 11 and 12.  Update 1.26 brought dithering technology to reduce sky banding, X-Plane 11 compatibility, in-cloud light scattering, and 1.27 warranted the compatibility with the latest version of X-Plane 12.  The developer team says they are actively working on reintroducing the features that were held back during the transition from X-Plane 11 to X-Plane 12. The following updates aim to reflect that. â xEnviro is available on itsÂ official website,Â Threshold Store,Â andÂ X-Plane.OrgÂ for $69.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aricea</id>
-    <title>Arif Studio Releases Chicago Executive Airport for MSFS</title>
-    <updated>2023-09-16T00:00:00+00:00</updated>
-    <link href="/news/aricea" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650601bef9412547ee6dd6de_chica.jpg" rel="enclosure" type="image/jpeg" length="1679752"/>
-    <summary>Sim: MSFS. Arif Studio has recently released their rendition of Chicago Executive Airport (KPWK) for Microsoft Flight Simulator, a public airport serving northwestern Chicago with a yearly average of 108,000 aircraft movements.  It opened in 1925 as Gauthierâs Flying Field in the village of Wheeling (Cook County, Illinois), purchased and developed by George J. Priester in 1953, who installed paved runways, lighting, hangars, and an ATC tower. It was then sold in 1986 by Georgeâs son, Charlie, to the city of Prospect Heights and Wheeling, when it was renamed Palwaukee Municipal Airport. â The current name was given in late 2006 after trustees from the village voted to approve a name change, better positioning the airport as a private aviation gateway to Chicago due to its proximity to the city. â â According to 2022 data, 80% of the yearly movements correspond to general aviation traffic, 20% to air taxi, and less than 1% are military. There are 296 aircraft based at the airport. â â The scenery features an accurate rendition of the airport, with a recreation of all the hangars, numerous static objects, landside buildings, non-PBR texturing for file size optimization, custom night lighting, and more. â â Itâs available onÂ SimMarketÂ for roughly $8.52, requiring at least 31.18 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/attkaj</id>
-    <title>ATTBEN Releases Kajaani Airport for MSFS</title>
-    <updated>2023-09-18T00:00:00+00:00</updated>
-    <link href="/news/attkaj" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6508b098070dcbe60c54dae7_kaj.jpg" rel="enclosure" type="image/jpeg" length="305779"/>
-    <summary>Sim: MSFS.  ATTBEN has recently released their rendition of Kajaani Airport (EFKI) for Microsoft Flight Simulator, serving the Kajaani town in the Finnish region of Kainu, with a yearly average of 85,200 passengers.  The airport was built in 1939, but the official opening only happened 17 years later because of World War 2 and its short-term economic consequences.Â   â It has been majorly domestic, with a healthy start followed by a decline in the 1980s as a direct consequence of the economic recession and airline industry deregulation.Â  â The 90s brought a ârevivalâ with the popularization of low-cost carriers and the growth of the tourism industry in Finland.  â A new - environmentally friendly - terminal was built in the early 1990s, designed to be energy-efficient and sustainable. It won the Finavia Airport of the Year the following year and went on to win again in 1999 and 2007. â Finnair serves it with a flight to Helsinki-Vantaa. â The scenery features an accurate rendition of the airport, with PBR materials, a detailed interior environment, custom baggage carts, custom clutter, a true-to-life runway profile and elevation, custom night lighting, and performance-friendly optimization.  Itâs available onÂ SimMarketÂ for roughly $11.72, requiring at least 1.81 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mkskan</id>
     <title>MK Studios Releases Kangerlussuaq Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6515ba0313874d8b4a20b5c1_gabnriel.png" rel="enclosure" type="image/png" length="1661196"/>
     <summary>Sim: MSFS. iniBuilds has recently published five new screenshots of their upcoming A300-600R(F) for Microsoft Flight Simulator, showcasing their work on the engine &amp; APU interior, and more. â While the centerpiece of the teaser is the new images, they also mention that the detailed engine and APU interiors will be part of the maintenance system built into their Electronic Flight Bag. â The Airbus A300-600 was the final variant of the A300 to be ever built (excluding the Beluga), featuring the modern avionics implemented with the A310, bringing a fully featured glass cockpit that removed the need for a flight engineer, an improved wing with a recambered trailing edge, single slotted fowler flaps, and the removal of slat fences. Three hundred thirteen units of the A300-600 were sold, and many are still flying today. â Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
     <published>2023-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msu13r</id>
+    <title>Microsoft Releases Sim Update 13</title>
+    <updated>2023-09-28T00:00:00+00:00</updated>
+    <link href="/news/msu13r" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651603c1597fbb56b23779c9_sc6vzv.png" rel="enclosure" type="image/png" length="219811"/>
+    <summary>Sim: MSFS. Microsoft has released Sim Update 13 for Microsoft Flight Simulator 2020, which includes many changes, bug fixes and improvements, and community requested fixes. The main focus for this Sim Update was many small fixes and changes to many facets of the simulator.  â The main volume of changes came for the 747-8 and 787-10, which both have received fixes to their avionics by Working Title. Most notably, being the addition of SimBrief integration in both aircraft, as well as the addition of an EFB for the 787. The new EFB also allows for takeoff calculations, which you can send directly to the FMC. Another highly requested feature, step climbs, have also been implemented. â The Garmin glass cockpits have also received improvements and changes courtesy of Working Title. Terrain and Weather Radar improvements have been of primary focus for this update, allowing users to control the gain of the weather radar through the settings pages.  â On their September Development livestream, which happened just yesterday, they provided a list of some of the bigger community requests:  You can read the full list of the myriad of changes that Sim Update 13 brings on the Microsoft Flight Simulator Forums. â Stay tuned to Threshold for more high quality flight simulation news!</summary>
+    <published>2023-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ineghi</id>
+    <title>iniBuilds Releases Southampton Airport for MSFS</title>
+    <updated>2023-09-29T00:00:00+00:00</updated>
+    <link href="/news/ineghi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6516fed147230803ed1c7809_south.webp" rel="enclosure" type="image/webp" length="417634"/>
+    <summary>Sim: MSFS. iniBuilds has recently released their rendition of Southampton Airport (EGHI) for Microsoft Flight Simulator, serving Hampshire with a yearly average of 631,458 passengers.  The airportâs history dates back to 1910, when its meadows were used as a take-off and landing spot for monoplanes, then known as Eastleigh Airfield. It was then transformed into an aircraft acceptance base for the Royal Flying Corps during World War 1.Â  â During the interwar period, the site served as a transit camp for refugees who wished to sail to America. Hangars were converted into dormitories for them.Â   Southampton Corporation purchased the site in 1932, naming it Southampton Municipal Airport, with part of it being utilized by the RAF after 1935.Â   Supermarine, a former British aircraft manufacturer, opened a test flight facility there and built a shed. Cunliffe-Owen Aircraft followed suit, later being bought out by Ford and utilized to manufacture Ford Transit vans until its closure in 2013.  During World War 2, the airport was transferred to naval command and renamed HMS Raven, spending most of it as a ground and air training facility. It was handed back to civilian ownership soon after, in 1946.  Thirteen years later, it was purchased by a racing pilot and began its transformation into a proper regional airport, with a concrete runway in 1963 and a railway station right beside it.Â   Itâs served by Aer Lingus, Aurigny, Blue Islands, British Airways (seasonally), Eastern Airways, easyJet, KLM, and Loganair.  The scenery features an accurate rendition of the airport, with hand-crafted ground textures, a true-to-life landside recreation, highly detailed models of all airport buildings, an up-to-date layout, fully modeled local points of interest, and more.  Itâs available on theÂ iniBuilds StoreÂ for roughly $15.85, requiring at least 2.47 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsschi</id>
+    <title>FSSDesigner Releases La Chinita International Airport for MSFS</title>
+    <updated>2023-09-29T00:00:00+00:00</updated>
+    <link href="/news/fsschi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651706bd88d5780dcbdcd5cd_chi.jpg" rel="enclosure" type="image/jpeg" length="276583"/>
+    <summary>Sim: MSFS. FSSDesigner has recently released their rendition of La Chinita International Airport (SVMC) for Microsoft Flight Simulator, serving the Venezuelan city of Maracaibo with a yearly average of 2.8 million passengers (as of 2008).  It opened in 1969, creating a gateway to western Venezuela and consequently alleviating the traffic on Simon Bolivar International Airport, serving the capital city of Caracas.Â  â Nowadays, itâs the third busiest airport in the country, only behind Caracas and Porlamar. â Itâs served by Avior Airlines, Conviasa, Copa Airlines, LASER Airlines, RUTACA Airlines, Turpial Airlines, and Venezolana. â The scenery features an accurate rendition of the airport, with custom taxiway signage, custom approach lighting systems, GSX compatibility, custom static objects, custom ground textures, and more. â Itâs available onÂ SimMarketÂ for roughly $18.44, requiring at least 867.65 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-29T00:00:00+00:00</published>
   </entry>
 </feed>
