@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-09-30T18:20:06.740409+00:00</updated>
+  <updated>2023-10-01T18:20:15.257240+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mkskan</id>
-    <title>MK Studios Releases Kangerlussuaq Airport for MSFS</title>
-    <updated>2023-09-19T00:00:00+00:00</updated>
-    <link href="/news/mkskan" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509f3a25549e48989711999_kang.jpg" rel="enclosure" type="image/jpeg" length="1197811"/>
-    <summary>Sim: MSFS. MK Studios has recently released their rendition of Kangerlussuaq Airport (BGSF) for Microsoft Flight Simulator, serving the settlement of Kangerlussuaq in the Qeqqata Municipality in Greenland with a yearly average of 133,481 passengers. â It was built in the early 1940s during the US occupation as Bluie-West 8, which was later renamed Sondrestromfjord Air Base. â Transatlantic civilian flights started to use the air base for refueling in the mid-1950s, starting a trend that lives on to this day, yet mostly among general aviation pond crossers.   Itâs a hub for Air Greenland, although they plan on moving their hub away from it as the permafrost under the airport is melting and causing significant damage to the runway, which will be closed to major commercial traffic in 2024. There are plans to build new airports at Tasillaq and Ittoqqortoormit.  â The scenery package also includes renditions of Sisimiut, Maniitsoq, Qaarsut, and Aasiaat, with detailed buildings, accurate terrain, and more. Kangerlussuaq, the main dish, features detailed terminal interiors, custom satellite imagery covering the airport and the city, real-world elevation data based on LiDAR scans, the entire town of Kangerlussuaq with its 150 buildings, custom ground poly, realistic night lighting, 3D snow and icebergs depending on weather condition, custom visual effects, and AI compatibility. â Itâs available on SimMarket for roughly $18.12, requiring at least 5.73 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/airgsa</id>
-    <title>Airwil Sceneries Releases General Santos International Airport for X-Plane 11 &amp; 12</title>
-    <updated>2023-09-19T00:00:00+00:00</updated>
-    <link href="/news/airgsa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509fa6441dadd89f318e7dc_santos.png" rel="enclosure" type="image/png" length="1791008"/>
-    <summary>Sim: X-Plane. Airwil Sceneries has recently released their rendition of General Santos International Airport (RPMR) for X-Plane 11 and 12, serving the greater area of Soccsksargen in the Philippines with a yearly average of 768,000 passengers. â Built for the 42nd annual Palarong Pambansa (National Games), which was held in South Cotabato and General Santos at the time, the airport was going to be the largest in Mindanao (the second largest island in the Philippines), partially funded by the USA with a 47.6 million USD grant.Â  â It opened in 1996 and has become the largest airport in Mindanao, aiding the region's rapid urban development and multiplying its yearly growth rate. â The airport was upgraded for the first time between 2017-2019, which consisted of a major facelift and modernization of its infrastructure, which had yet to be touched since its opening in 1996. â The airport is served by Cebgo, Cebu Pacific, PAL Express, and Philippine Airlines.Â  â The scenery features an accurate rendition of the airport, with more than a hundred custom objects, a highly-detailed landside, custom ground textures, custom orthoimagery, custom landside, Filipino houses and vehicles, and more. â It's available onÂ SimMarketÂ for roughly $10.65, requiring at least 1.87 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/susbri</id>
     <title>SuperSonic Releases Brindisi Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651706bd88d5780dcbdcd5cd_chi.jpg" rel="enclosure" type="image/jpeg" length="276583"/>
     <summary>Sim: MSFS. FSSDesigner has recently released their rendition of La Chinita International Airport (SVMC) for Microsoft Flight Simulator, serving the Venezuelan city of Maracaibo with a yearly average of 2.8 million passengers (as of 2008).  It opened in 1969, creating a gateway to western Venezuela and consequently alleviating the traffic on Simon Bolivar International Airport, serving the capital city of Caracas.Â  â Nowadays, itâs the third busiest airport in the country, only behind Caracas and Porlamar. â Itâs served by Avior Airlines, Conviasa, Copa Airlines, LASER Airlines, RUTACA Airlines, Turpial Airlines, and Venezolana. â The scenery features an accurate rendition of the airport, with custom taxiway signage, custom approach lighting systems, GSX compatibility, custom static objects, custom ground textures, and more. â Itâs available onÂ SimMarketÂ for roughly $18.44, requiring at least 867.65 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfstaw</id>
+    <title>MFSG Releases Tawau Airport for MSFS</title>
+    <updated>2023-09-30T00:00:00+00:00</updated>
+    <link href="/news/mfstaw" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6518738547ce331c55baa8b2_taw1.jpg" rel="enclosure" type="image/jpeg" length="682575"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Tawau Airport (WBKW) for Microsoft Flight Simulator, serving the Tawau Division in Malaysia with a yearly average of 572,000 passengers. â The airport was opened in 2001, replacing the former Tawau Airport, whose runway was one of the shortest in the country, and the administration decided to build a new airport from scratch instead of dealing with extra expansion work (that they had previously conducted in the 60s and 80s).Â  â â With a 2,685-meter-long runway, a much bigger terminal building, an instrument landing system, and night certification, the new Tawau Airport became an essential asset to the regionâs economy.Â  â It is currently suffering from limited capacity issues, with expansion plans to increase the numbers to at least 2.5 million passengers annually.Â  AirAsia, Firefly, Malaysia Airlines, MASwings, and MYAirline serve it. â  The scenery features an accurate rendition of the airport, with an up-to-date layout, custom groundpoly, custom jetways, and AI traffic compatibility. Â  Itâs available onÂ SimMarketÂ for roughly $12.71, requiring at least 1.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blgbsb</id>
+    <title>Brazil Land Games Teases BrasÃ­lia International Airport for MSFS</title>
+    <updated>2023-09-30T00:00:00+00:00</updated>
+    <link href="/news/blgbsb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65187ccd758cc3b372e8acd3_bsb1.jpg" rel="enclosure" type="image/jpeg" length="691720"/>
+    <summary>Sim: MSFS. Brazil Land Games has recently shared screenshots of their progress on Brasilia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. â A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. â The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. â New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. â Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. â The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, custom jetways, detailed landside, and more. Thereâs no release date or pricing information yet, but Threshold will keep you informed. â</summary>
+    <published>2023-09-30T00:00:00+00:00</published>
   </entry>
 </feed>
