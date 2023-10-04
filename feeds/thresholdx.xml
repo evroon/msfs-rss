@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-03T18:23:06.519317+00:00</updated>
+  <updated>2023-10-04T18:23:23.033632+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/susbri</id>
-    <title>SuperSonic Releases Brindisi Airport for MSFS</title>
-    <updated>2023-09-19T00:00:00+00:00</updated>
-    <link href="/news/susbri" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6509ffdfa8a59d672c0b4b51_bri.jpg" rel="enclosure" type="image/jpeg" length="1263175"/>
-    <summary>Sim: MSFS. SuperSonic has recently released their rendition of Brindisi Papola Casale Airport (LIBR) for Microsoft Flight Simulator, the 20th busiest airport in Italy with a yearly average of 3 million passengers. â Built as a military airbase in the 1920s, commercial traffic only started a decade and a half later with Ala Littoria, a government-owned airline based in Rome. It collapsed after World War 2, becoming the now-defunct Alitalia. â The airport retained its military status until 2008, despite maintaining its military facilities to this day, although referred to by a different name: Military Airport Orazio Pierozzi. The civil name (Papola Casale) was given after Antonio Papola, a deceased Italian aviator with tight bonds to the city. â The airport is served by many airlines during the summer season, with Ryanair, AlbaStar, easyJet, Eurowings, ITA Airways, Swiss, and WizzAir being the few to offer routes all year long. The seasonal visitorsâ list includes Aer Lingus, Austrian Airlines, British Airways, Brussels Airlines, Volotea, and Vueling.Â  â The scenery features an accurate rendition of the airport, with custom aerial imagery, a highly-detailed terminal building with its interior, custom landside, custom ground textures, PBR textures, custom night lighting, and performance-friendly optimization. â  Itâs available onÂ SimMarketÂ for roughly $10.66, requiring at least 928.44 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsddje</id>
     <title>FSDG Releases Djerba Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65187ccd758cc3b372e8acd3_bsb1.jpg" rel="enclosure" type="image/jpeg" length="691720"/>
     <summary>Sim: MSFS. Brazil Land Games has recently shared screenshots of their progress on Brasilia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. â A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. â The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. â New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. â Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. â The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, custom jetways, detailed landside, and more. Thereâs no release date or pricing information yet, but Threshold will keep you informed. â</summary>
     <published>2023-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lrs108</id>
+    <title>Laminar Research Lays Plans for X-Plane 12.0.8 and Beyond</title>
+    <updated>2023-10-03T00:00:00+00:00</updated>
+    <link href="/news/lrs108" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651c786fa41cb40d1c0c88c1_a330.webp" rel="enclosure" type="image/webp" length="262358"/>
+    <summary>Sim: X-Plane. Laminar Research has made a blog post summarizing what is planned for X-Plane 12's recent future, including a new versioning scheme, engine model improvements, improved landing gear physics, and more. â With the recently shipped 12.07, Laminar included three months' worth of rendering engine improvements, new cirrus clouds, lower VRAM footprint, improved cloud rendering, and OpenXR integration. For the next update, they have already laid out most of the futures that will ship with it.  â The upcoming patch will bring a new naming scheme, giving Laminar "more numbers to play with," as the previous two digits could only go so far and, therefore, limit the number of patches they could potentially churn out.  â They expect a beta build to be ready in a week or two, focusing on improving the flight model, networking/multi-monitor, and tools for using X-Plane with projectors: projector warping/blending will be available for X-Plane Professional license owners. â With data from Pratt &amp; Whitney and Phillip Ringler, Austin Meyer has improved how the platform simulates engine performance, with jets, turboprops, and reciprocating engines following real-world figures more closely.  â The landing gear physics was also improved, with better wheel inertia, weld modeling, and ABS revisions, making sure it stops the wheels from locking realistically. â Last but not least, jet aircraft in X-Plane 12 will now accurately simulate how jets use their fuel to cool their oil, with the oil heating the fuel and its consequent dissipation through the wing's skin, operating as a radiator.  â They have also laid out plans for 12.1.0, bringing real weather improvements, cloud shadows on the water, better bloom lighting effects, robust contrast adaptive sharpening, softer ground shadows, MSAA improvements, improved CPU performance, and better water opacity. â They finish with a price hike announcement, from $59.99 to $79.99, allowing Laminar to expand its team and warrant its future development. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-03T00:00:00+00:00</published>
   </entry>
 </feed>
