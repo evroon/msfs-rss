@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-04T18:23:23.033632+00:00</updated>
+  <updated>2023-10-05T18:23:10.578694+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsddje</id>
-    <title>FSDG Releases Djerba Airport for MSFS</title>
-    <updated>2023-09-19T00:00:00+00:00</updated>
-    <link href="/news/fsddje" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650a04d5eacab46124922822_dje.png" rel="enclosure" type="image/png" length="2192113"/>
-    <summary>Sim: MSFS. FSDG has recently released their rendition of Zarzis International Airport (DTTJ) for Microsoft Flight Simulator, serving the island of Djerba in Tunisia with a yearly average of 1.7 million passengers. â It was inaugurated in 1970 and has contributed to the growth of tourism in the region, becoming an important seasonal destination for Europeans.Â  â Itâs seasonally visited by Air France, BH Air, Brussels Airlines, Discover Airlines, Edelweiss Air, European Air Charter, Luxair, Neos, Nouvelair, Smartwings, Swiss International Air Lines, TAP Air Portugal, Transavia, TUI fly Belgium, TUI fly Germany, TUI fly Netherlands, Tunisair, and Tunisair Express. â â The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date layout, custom night lighting, animated jetways, reflective textures, GSX compatibility, and more. â â Itâs available onÂ SimMarketÂ for roughly $16.12, requiring at least 1016.41 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/skysna</id>
-    <title>Skyline Simulations Releases John Wayne Airport for X-Plane 12</title>
-    <updated>2023-09-20T00:00:00+00:00</updated>
-    <link href="/news/skysna" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650b6f1b61ccf9936e496088_sna.jpg" rel="enclosure" type="image/jpeg" length="627175"/>
-    <summary>Sim: X-Plane. Skyline Simulations recently released the X-Plane 12 version of their John Wayne Airport (KSNA), serving Orange County with a yearly average of 11.3 million passengers.  â It started as an airstrip in 1923 and was purchased by the County of Orange in 1939, which has owned it ever since.Â  â After a brief period of Military usage during World War 2, it was returned to the County with the condition it remained open for all kinds of aviation uses. â  A passenger terminal was built in 1967, with 2,000 square meters of total built area, accommodating up to 400,000 passengers annually. It was expanded in 1974, 1980, and 1982, adding 700 square meters. â Eight years after the last terminal expansion, the Thomas F. Riley Terminal replaced the aging terminal with a 31,390 square meter facility that could handle millions of passengers. â It was then further expanded in 2011, part of a $543 million project that added a new terminal C with six additional gates and a new parking lot. â Air Canada, Alaska Airlines, Allegiant Air, American Airlines, Breeze Airways, Delta Air Lines, Frontier Airlines, JSX, Southwest Airlines, Spirit Airlines, United Airlines, United Express, and WestJet serve it. â The scenery features an accurate rendition of the airport, with UHD textures, detailed 3D modeling, PBR materials on every building, custom orthoimagery, thousands of custom static objects, custom night lighting, ground traffic, and more. â Itâs available onÂ SimMarketÂ for roughly $17.68, requiring at least 678.37 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/magtij</id>
     <title>MagMexico Releases Tijuana International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651c786fa41cb40d1c0c88c1_a330.webp" rel="enclosure" type="image/webp" length="262358"/>
     <summary>Sim: X-Plane. Laminar Research has made a blog post summarizing what is planned for X-Plane 12's recent future, including a new versioning scheme, engine model improvements, improved landing gear physics, and more. â With the recently shipped 12.07, Laminar included three months' worth of rendering engine improvements, new cirrus clouds, lower VRAM footprint, improved cloud rendering, and OpenXR integration. For the next update, they have already laid out most of the futures that will ship with it.  â The upcoming patch will bring a new naming scheme, giving Laminar "more numbers to play with," as the previous two digits could only go so far and, therefore, limit the number of patches they could potentially churn out.  â They expect a beta build to be ready in a week or two, focusing on improving the flight model, networking/multi-monitor, and tools for using X-Plane with projectors: projector warping/blending will be available for X-Plane Professional license owners. â With data from Pratt &amp; Whitney and Phillip Ringler, Austin Meyer has improved how the platform simulates engine performance, with jets, turboprops, and reciprocating engines following real-world figures more closely.  â The landing gear physics was also improved, with better wheel inertia, weld modeling, and ABS revisions, making sure it stops the wheels from locking realistically. â Last but not least, jet aircraft in X-Plane 12 will now accurately simulate how jets use their fuel to cool their oil, with the oil heating the fuel and its consequent dissipation through the wing's skin, operating as a radiator.  â They have also laid out plans for 12.1.0, bringing real weather improvements, cloud shadows on the water, better bloom lighting effects, robust contrast adaptive sharpening, softer ground shadows, MSAA improvements, improved CPU performance, and better water opacity. â They finish with a price hike announcement, from $59.99 to $79.99, allowing Laminar to expand its team and warrant its future development. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsipvu</id>
+    <title>Verticalsim Releases Provo Municipal Airport for MSFS</title>
+    <updated>2023-10-04T00:00:00+00:00</updated>
+    <link href="/news/vsipvu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651dec48b559ecb068fde964_pvu.jpg" rel="enclosure" type="image/jpeg" length="583290"/>
+    <summary>Sim: MSFS. Verticalsim has recently released their rendition of Provo Municipal Airport (KPVU) for Microsoft Flight Simulator, serving the city of Provo in Utah with a yearly average of 145,000 passengers. â Originally an uncontrolled airport, its control tower was built in 2005, followed by major improvements to the terminal in 2011, bringing it up to the required standard to receive airline service.Â  â After three years of work, a brand new passenger terminal was completed in 2022 at a total cost of $40 million. It has four gates and can be expanded to ten in the future. Allegiant has announced plans to open a four-aircraft base at the airport, with Breeze following suit. Both are the only airlines operating in Provo. â With two FBOs and a flight school, itâs also a significant regional general aviation airport. â The scenery features an accurate rendition of the airport, with a full 1:1 terminal interior, an up-to-date ground layout, high-definition PBR textures, custom orthophoto, and performance-friendly optimization. â Itâs available onÂ Verticalsimâs ShopÂ for $14.99, requiring at least 1.89 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsq850</id>
+    <title>Black Square Releases TBM 850 for MSFS</title>
+    <updated>2023-10-05T00:00:00+00:00</updated>
+    <link href="/news/bsq850" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651ec4e1b0116e311d9bc3d1_tbm.jpg" rel="enclosure" type="image/jpeg" length="299595"/>
+    <summary>Sim: MSFS. Black Square has recently released their rendition of the Daher TBM 850 for Microsoft Flight Simulator, a high-performance single-engine turboprop plane introduced in 1990, with 1,000 built as of October 2020 across multiple variants. â Its development dates back to the 1980s when Mooney and SOCATA (the original manufacturer of the TBM) started a joint venture to develop a new, enlarged turboprop design. It was marketed as the TBM 700 and became the worldâs first high-performance single-engine passenger aircraft to enter production. â  The sales were booming, creating new variants and model improvements, which eventually resulted in the TBM 850âs release in 2008, offering 850 horsepower instead of 700, a modern avionics system, and a ceiling of 31,000ft.Â  â â Black Squareâs TBM 850 brings nearly 100 possible failures, persistence, realistic 3D gauges, multiple navigation systems varying from the Bendix KNS-80 to a Garmin GTN 750, along with com radios, a transponder, and a weather radar. It also includes a 100-page manual with usage instructions. It was built from the ground up, meaning itâs not part of their Steam Gauge Overhaul series and is said to be their most advanced aircraft so far. â The newly released TBM 850 is available for $41.99 onÂ Just Flight, requiring at least 502 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-05T00:00:00+00:00</published>
   </entry>
 </feed>
