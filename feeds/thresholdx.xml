@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-05T18:23:10.578694+00:00</updated>
+  <updated>2023-10-06T18:22:48.756526+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/magtij</id>
-    <title>MagMexico Releases Tijuana International Airport for MSFS</title>
-    <updated>2023-09-22T00:00:00+00:00</updated>
-    <link href="/news/magtij" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650e0cbbf533d63a8b75d3a5_tij.png" rel="enclosure" type="image/png" length="3132387"/>
-    <summary>Sim: MSFS. MagMexico has recently released their rendition of Tijuana International Airport (MMTJ) for Microsoft Flight Simulator, serving the San Diego-Tijuana transborder agglomeration with a yearly average of 12.3 million passengers. â It was inaugurated in 1951 as âAeropuerto Federal de Tijuana,â with a 2000-meter long runway and a single passenger terminal, that was eventually replaced in 1970 by a much bigger one, part of a $8.7 million project that also included a runway lengthening. â In the 1980s, Tijuana was the fastest-growing city in Mexico, which led to further expansions in that decade. â The airport was privatized in 1995, becoming part of the Pacific Airport Group, which consists of 12 airports, with its headquarters in Guadalajara.Â  â Under the new helm, it was expanded and renovated in 2002, with many changes to accommodate the Boeing 747. By then, Tijuana was one of the most important airports in Mexico. â A cross-border express bridge was inaugurated in late 2015, allowing passengers to access the airport directly from the United States, with a North American terminal. â AeromÃ©xico, American Eagle, Calafia Airlines, Mexicana de AviaciÃ³n, Viva Aerobus, and Volaris serve the airport. â The scenery features an accurate rendition of the airport, with PBR textures, animated jetways, dynamic lighting, detailed hangars and buildings, custom ground textures, precise AFCAD, static aircraft and vehicles, animated radar facilities, native volumetric grass and vegetation, and more.Â  â Itâs available onÂ SimMarketÂ for roughly $21.26, requiring at least 1.24 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ffxdua</id>
     <title>FlightFX Releases DuPage Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/bsq850" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651ec4e1b0116e311d9bc3d1_tbm.jpg" rel="enclosure" type="image/jpeg" length="299595"/>
     <summary>Sim: MSFS. Black Square has recently released their rendition of the Daher TBM 850 for Microsoft Flight Simulator, a high-performance single-engine turboprop plane introduced in 1990, with 1,000 built as of October 2020 across multiple variants. â Its development dates back to the 1980s when Mooney and SOCATA (the original manufacturer of the TBM) started a joint venture to develop a new, enlarged turboprop design. It was marketed as the TBM 700 and became the worldâs first high-performance single-engine passenger aircraft to enter production. â  The sales were booming, creating new variants and model improvements, which eventually resulted in the TBM 850âs release in 2008, offering 850 horsepower instead of 700, a modern avionics system, and a ceiling of 31,000ft.Â  â â Black Squareâs TBM 850 brings nearly 100 possible failures, persistence, realistic 3D gauges, multiple navigation systems varying from the Bendix KNS-80 to a Garmin GTN 750, along with com radios, a transponder, and a weather radar. It also includes a 100-page manual with usage instructions. It was built from the ground up, meaning itâs not part of their Steam Gauge Overhaul series and is said to be their most advanced aircraft so far. â The newly released TBM 850 is available for $41.99 onÂ Just Flight, requiring at least 502 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/samxia</id>
+    <title>SamScene Releases Xiamen International Airport for MSFS</title>
+    <updated>2023-10-05T00:00:00+00:00</updated>
+    <link href="/news/samxia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651f39976583cbd219eb4991_xia.jpg" rel="enclosure" type="image/jpeg" length="1445492"/>
+    <summary>Sim: MSFS. SamScene has recently released their rendition of Xiamen Gaoqi International Airport (ZSAM) for Microsoft Flight Simulator, serving the Chinese city of Xiamen with a yearly average of 14.9 million passengers.  The airport was built in the 1980s on top of the former Xiamen Airport, abandoned for more than 30 years, with nothing left but a gravel runway. It opened in 1983, becoming Chinaâs first âInternationalâ airport (naming-wise). That was not the single thing it pioneered: it was the first airport built with foreign capital in the country, the first to decentralize local government to implement localized management, and the first to rely on self-raised funds for large-scale expansion work.  â If one thought that was pioneering enough, they were also the first airport to set up an air cargo terminal in cooperation with civil aviation circles on both sides of the Taiwan Strait and the first to introduce international low-cost airlines. â â Between 1984 and 2014, the airport went from 100,000 yearly passengers to 20.8 million, making it one of the busiest single-runway airports in China. â It was expanded for the last time in 2014 with the opening of Terminal 4, and now itâs constrained by urban development around it, which made them kickstart the construction of a new airport on Dadeng Island, with two runways, a 550,000 square meter terminal, and the ability to handle up to 45 million passengers.  â Itâs a hub for XiamenAir and a focus city for Shandong Airlines, China Eastern, and Spring Airlines. The visitorsâ list includes Air Macau, Cebu Pacific, Korean Air, Malaysia Airlines, and Philippine Airlines. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, custom jetways, realistic night lighting, basic interiors for performance (T4), and landside buildings. â Itâs available onÂ SimMarketÂ for roughly $17.79, requiring at least 1.86 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-05T00:00:00+00:00</published>
   </entry>
 </feed>
