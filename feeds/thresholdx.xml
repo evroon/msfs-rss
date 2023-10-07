@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-06T18:22:48.756526+00:00</updated>
+  <updated>2023-10-07T18:20:24.916291+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffxdua</id>
-    <title>FlightFX Releases DuPage Airport for MSFS</title>
-    <updated>2023-09-22T00:00:00+00:00</updated>
-    <link href="/news/ffxdua" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/650e1b6110149496041872e2_dupage.jpg" rel="enclosure" type="image/jpeg" length="1966346"/>
-    <summary>Sim: MSFS. FlightFX has recently released their rendition of DuPage Airport (KDPA) for Microsoft Flight Simulator, a general aviation airport serving the city of West Chicago, Illinois, with a yearly average of 135,000 aircraft movements. â It was built on former sheep-grazing land in the late 1920s by two Chicago entrepreneurs, and the U.S. Army eventually requisitioned it during World War 2 for training purposes. They built hangars and paved two runways, activating it in 1943. The hangar and the runways still exist, although one of the runways is now a taxiway. â Howard Aircraft Corporation opened a factory across the road a year later, in 1944. They built more than 500 aircraft for the military, which was then pushed across the street for testing at the airport.Â  â The airport was sold back to the county for $1 after the war, followed by a post-war boom that led to a new control tower, a new runway, and expansion plans that only came to fruition almost four decades later. â Midwayâs example (being unable to grow because of urban development around it) made the administration hurry to purchase more surrounding land and make it bigger, taking it from 360 hectares to 1,100 hectares by 1992, warranting control over all the property surrounding the runway complex and providing a larger buffer zone.Â  â It has an FBO offering fuel, parking, de-icing, catering, lavatory services, and a little passenger terminal.Â  â 95% of the yearly traffic corresponds to general aviation, 4% to air taxi, and less than 1% to military traffic. There are 255 aircraft based at the airport. â They recently opened a U.S. Customs and Border Protection (C.B.P.) facility on the first floor of the DuPage Flight Center FBO. â The scenery features an accurate rendition of the airport, built in coordination with the DuPage Airport Authority, with on-site photography of all major facilities used for reference, custom ground textures, high-resolution photographic textures, custom night lighting, interior modeling of key structures, in-hangar parking spaces, static G.A. and corporate aircraft, reworked landscaping, and ambient lighting improvements. â Itâs available onÂ ContrailÂ for roughly $14.75, requiring at least 2.92 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsdbl2</id>
-    <title>Fenix Simulations Delays Block 2 Release for MSFS</title>
-    <updated>2023-09-25T00:00:00+00:00</updated>
-    <link href="/news/fsdbl2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6358191032e01e7ba85063f3_fenix1.png" rel="enclosure" type="image/png" length="3158078"/>
-    <summary>Sim: MSFS. Aamir Thacker, Fenix Simulationsâ CEO, has made an announcement on their Discord regarding the upcoming IAE update for their A320 add-on, initially scheduled for release in September.  After progressing quickly with the CFM external engine model, they have decided to delay the release of the Block 2 update so that users can get both engines with the new model instead of just the IAEs as previously planned.  Their work on the IAE model made them more familiar with external engine development and significantly sped up the process with the CFMs. The new timeframe for the Block 2 update with both engine models is sometime in October.  They have also confirmed an entirely rebuilt cabin for Block 2, with more detail, increased performance, and a lower VRAM footprint. â The Fenix A320 is available on theirÂ websiteÂ for roughly $60.98, requiring at least 1.8 GB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-09-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wfszgg</id>
     <title>WF Scenery Studio Releases Guangzhou International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651f39976583cbd219eb4991_xia.jpg" rel="enclosure" type="image/jpeg" length="1445492"/>
     <summary>Sim: MSFS. SamScene has recently released their rendition of Xiamen Gaoqi International Airport (ZSAM) for Microsoft Flight Simulator, serving the Chinese city of Xiamen with a yearly average of 14.9 million passengers.  The airport was built in the 1980s on top of the former Xiamen Airport, abandoned for more than 30 years, with nothing left but a gravel runway. It opened in 1983, becoming Chinaâs first âInternationalâ airport (naming-wise). That was not the single thing it pioneered: it was the first airport built with foreign capital in the country, the first to decentralize local government to implement localized management, and the first to rely on self-raised funds for large-scale expansion work.  â If one thought that was pioneering enough, they were also the first airport to set up an air cargo terminal in cooperation with civil aviation circles on both sides of the Taiwan Strait and the first to introduce international low-cost airlines. â â Between 1984 and 2014, the airport went from 100,000 yearly passengers to 20.8 million, making it one of the busiest single-runway airports in China. â It was expanded for the last time in 2014 with the opening of Terminal 4, and now itâs constrained by urban development around it, which made them kickstart the construction of a new airport on Dadeng Island, with two runways, a 550,000 square meter terminal, and the ability to handle up to 45 million passengers.  â Itâs a hub for XiamenAir and a focus city for Shandong Airlines, China Eastern, and Spring Airlines. The visitorsâ list includes Air Macau, Cebu Pacific, Korean Air, Malaysia Airlines, and Philippine Airlines. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, custom jetways, realistic night lighting, basic interiors for performance (T4), and landside buildings. â Itâs available onÂ SimMarketÂ for roughly $17.79, requiring at least 1.86 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bougpe</id>
+    <title>Boundless Teases Free Inverness Update for X-Plane 11 &amp; 12</title>
+    <updated>2023-10-06T00:00:00+00:00</updated>
+    <link href="/news/bougpe" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6520717900dfb92f04bfd043_gpe2.jpg" rel="enclosure" type="image/jpeg" length="437337"/>
+    <summary>Sim: X-Plane. Boundless has recently released a short teaser video on their Facebook page showcasing the progress of its upcoming update for Inverness Airport (EGPE), bringing new ground textures, animated ground traffic, and more.  Inverness Airport is the main gateway to Northern Scotland, with a yearly average of 900,000 passengers as of 2019. Itâs served by AlbaStar (seasonally), British Airways, easyJet, KLM, and Loganair.  The update will bring updated ground textures, animated ground traffic, upgraded lighting, upgraded lorry textures, upgraded terminal textures, a reduced file size, and an option to run without static aircraft.  â While the update is not out yet, the previous version is available on theirÂ storeÂ for roughly $15.89, requiring at least 2 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hspr</id>
+    <title>Fly2High Releases Abraham Lincoln Capital Airport for MSFS</title>
+    <updated>2023-10-06T00:00:00+00:00</updated>
+    <link href="/news/f2hspr" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65207d5d991a874fdbadf87f_spring1.webp" rel="enclosure" type="image/webp" length="901806"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Abraham Lincoln Capital Airport (KSPI) for Microsoft Flight Simulator, serving Springfield, Illinois, with a yearly average of 145,000 passengers.  The airport opened in 1947, replacing Springfieldâs former main airport, which was deemed inadequate for commercial operation due to terrible infrastructure. Initially, it sported three 5300 ft runways, a service apron, a temporary passenger terminal, and T-hangars for 38 airplanes.Â  â The terminal was recently upgraded with funds from the Airport Improvement Program, a grant sponsored by the FAA. They have also improved the FBO, hangars, roadways, and parking lots.  It also houses the Capital Airport Air National Guard Station, making it a civil-military airport. Itâs a 91-acre facility, hosting the 183d Fighter Wing, an Illinois Air National Guard Unit.Â   Traffic-wise, 64% of it is general aviation, 20% military, 15% air taxi, and only 2% corresponds to commercial. Allegiant Air, American Eagles, and Breeze Airways serve it with short regional ops.Â   The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, performance-friendly optimization, and high-detailed models of all buildings.Â   Itâs available on theÂ iniBuilds StoreÂ for roughly $9.49, requiring at least 3.54 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-06T00:00:00+00:00</published>
   </entry>
 </feed>
