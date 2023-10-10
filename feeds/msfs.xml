@@ -2,37 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-10-09T18:22:27.867417+00:00</updated>
+  <updated>2023-10-10T18:22:27.521259+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/</id>
-    <title>FlightSimExpo Partner Series: Next Level Racing</title>
-    <updated>2023-06-22T20:01:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightsimexpo-partner-series-next-level-racing/" rel="alternate"/>
-    <summary>The Microsoft Flight Simulator team will be attending FlightSimExpo in Houston, Texas from June 23-25! If you’re at the expo, be sure to stop by our booth in the Waltrip Hangar to meet the MSFS Team and try some great products from some of our hardware partners.Today we’re pleased to highlight one partner who is providing a … Continued</summary>
-    <published>2023-06-22T20:01:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/</id>
-    <title>FlightSimExpo 2023: A Reflection on Our First Expo</title>
-    <updated>2023-06-29T17:59:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/" rel="alternate"/>
-    <summary>Last Friday a group of more than 20 members of the Microsoft Flight Simulator team arrived at the Lone Star Museum to begin setup of our booth with both enthusiasm and a twinge of apprehension as we embarked on our first ever FlightSimExpo experience. Some of us shook hands for the first time, as our … Continued</summary>
-    <published>2023-06-29T17:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
-    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
-    <updated>2023-07-20T22:52:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/07/Eagle4-1024x575.jpg" rel="enclosure" type="image/jpeg" length="131806"/>
-    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
-    <published>2023-07-20T22:52:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/azurpoly-footage-designs-and-uk2000-scenery-sale/</id>
     <title>Azurpoly, Footage Designs and UK2000 Scenery Sale</title>
@@ -77,5 +52,30 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/2023_Oct6-13_Sale_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="133830"/>
     <summary>For seven days starting on October 6th save up to 52% on 43 items!</summary>
     <published>2023-10-06T17:00:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/</id>
+    <title>FlightSimExpo 2023: A Reflection on Our First Expo</title>
+    <updated>2023-06-29T17:59:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/" rel="alternate"/>
+    <summary>Last Friday a group of more than 20 members of the Microsoft Flight Simulator team arrived at the Lone Star Museum to begin setup of our booth with both enthusiasm and a twinge of apprehension as we embarked on our first ever FlightSimExpo experience. Some of us shook hands for the first time, as our … Continued</summary>
+    <published>2023-06-29T17:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
+    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
+    <updated>2023-07-20T22:52:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
+    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
+    <published>2023-07-20T22:52:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
+    <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
+    <updated>2023-10-10T16:20:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/nick1-1024x542.jpg" rel="enclosure" type="image/jpeg" length="68165"/>
+    <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
+    <published>2023-10-10T16:20:37+00:00</published>
   </entry>
 </feed>

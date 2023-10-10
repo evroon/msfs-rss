@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-09T18:22:29.534492+00:00</updated>
+  <updated>2023-10-10T18:22:28.946512+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mawu15</id>
-    <title>Microsoft Announces World Update XV: Northern Europe and Greenland</title>
-    <updated>2023-09-28T00:00:00+00:00</updated>
-    <link href="/news/mawu15" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6514df76ed08456e7a5e8230_capture_cover.png" rel="enclosure" type="image/png" length="836045"/>
-    <summary>Sim: MSFS. In the Microsoft September development livestream hosted on Twitch, Microsoft and Asobo have announced World Update 15, which covers Northern Europe and Greenland, in partnership with Gaya Simulations. The update includes many improvements for the landscapes of Scandinavia, including, 5 bespoke airports, new cities with photogrammetry, 90 new Points of Interest, 3 bush trips, 3 discovery flights, 3 landing challenges, and brand new Digital Elevation Maps with a resolution of 40 centimeters.Â  Nine cities were announced to receive photogrammetry, including Oslo in Norway; Visby, MalmÃ¶, and LinkÃ¶ping in Sweden; and Aarhus, Copenhagen, Frederikssund, Roskilde, and Odense in Denmark. A tenth city, Gothenburg, was also teased, but it is still in development and going through further review by the Swedish Military, before being given the full green light.Â  The 5 hand-crafted airports are: Many of the bespoke airports, as well as the POIs have been created in collaboration with Gaya Simulations, known for their sceneries, and have worked with Microsoft before on World Update 14.Â  â While an exact release date has not been set for World Update 15, Threshold will keep you updated when it does, so stay tuned for that, and even more high quality flight simulation news!</summary>
-    <published>2023-09-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ib3an3</id>
     <title>iniBuilds Teases A300-600's 3D Model for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6522f1e541e2da0763da3258_schi1.jpg" rel="enclosure" type="image/jpeg" length="2880824"/>
     <summary>Sim: MSFS. FlyTampa has recently released their rendition of Amsterdam Airport Schiphol (EHAM) for Microsoft Flight Simulator, the world's third busiest airport by international passenger traffic, with a yearly average of 72 million passengers. â It opened 1916 as a military airbase, eventually converting into a civilian airport after WW1. It was captured during World War 2 by the Germans and destroyed. The rebuilding process started soon after, and it became the main airport of the Netherlands in 1949, undergoing an expansion project that sacrificed the town of Rijk to make room for their ambitious plans.Â  â It was expanded again in 1967, with a new terminal area still partially used today (Departure Halls 1 and 2). Parts of the original piers (C, D, and E) are also from that period. A further modification was required in the 1970s to ensure Boeing 747 "compatibility," and a new pier was made for widebody aircraft in 1977. â The 1990s brought further modifications, as the airport's new size meant the old control tower was not tall enough to oversee all of it, leading to the construction of a new one in 1991. Then, a new departure hall and a new pier (G) were added in 1993. â With the construction of a sixth runway in 2003 came the need for another control tower to ensure they could oversee everything again. One was not enough. â It's a hub for KLM, KLM Cargo, KLM CItyhopper, and Martinair, with the first being the Netherlands' national carrier. EasyJet, Transavia, and TUI fly Netherlands also have operating bases at the airport, flying people all over Europe. The visitors' list is quite substantial, as one would expect from the third busiest airport in the whole world, including the likes of Aegean Airlines, Aer Lingus, Air Canada, Air India, Air Malta, Air Transat, American Airlines, Austrian Airlines, British Airways, Croatia Airlines, Delta Air Lines, Emirates, Etihad Airways, JetBlue, Korean Air, Royal Jordanian, Ryanair, Turkish Airlines, and United Airlines. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, terminal interior models, PBR materials, dynamic lighting, animated jetways, custom terrain, and more. â It's available onÂ FlyTampa's websiteÂ for $21.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hpg16a</id>
+    <title>Hype Performance Group Announces H160 for MSFS</title>
+    <updated>2023-10-10T00:00:00+00:00</updated>
+    <link href="/news/hpg16a" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65256afc9a2dbce68e9dfbe4_5_2048x.png.png" rel="enclosure" type="image/png" length="2109112"/>
+    <summary>Sim: MSFS. Hype Performance Group has announced that their next project is another Airbus helicopter, the H160, for Microsoft Flight Simulator. The announcement comes a week after they posted a teaser photo of the silhouette of the helicopter on their Discord server.  The Airbus H160 helicopter is a medium utility helicopter that was introduced in 2011, and was designed and engineered to bring many features from modern airliners and fixed wing aircraft, such as advanced avionics and autopilot systems, to a helicopter. The H160 production also borrowed many techniques from the Airbus A350. On the product page, Hype Performance Group says that this is their most complex project to date, and will include a myriad of features, including, but not limited to: The Hype Performance Group H160 will be released on Friday, October 27th, at a price of $49.99 USD (excl. tax). For the full list of features, you can visit the H160 Product Page.Stay tuned to Threshold for more high-quality flight simulation news!</summary>
+    <published>2023-10-10T00:00:00+00:00</published>
   </entry>
 </feed>
