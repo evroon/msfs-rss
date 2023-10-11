@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-10T18:22:28.946512+00:00</updated>
+  <updated>2023-10-11T18:23:20.336491+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ib3an3</id>
-    <title>iniBuilds Teases A300-600's 3D Model for MSFS</title>
-    <updated>2023-09-28T00:00:00+00:00</updated>
-    <link href="/news/ib3an3" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6515ba0313874d8b4a20b5c1_gabnriel.png" rel="enclosure" type="image/png" length="1661196"/>
-    <summary>Sim: MSFS. iniBuilds has recently published five new screenshots of their upcoming A300-600R(F) for Microsoft Flight Simulator, showcasing their work on the engine &amp; APU interior, and more. â While the centerpiece of the teaser is the new images, they also mention that the detailed engine and APU interiors will be part of the maintenance system built into their Electronic Flight Bag. â The Airbus A300-600 was the final variant of the A300 to be ever built (excluding the Beluga), featuring the modern avionics implemented with the A310, bringing a fully featured glass cockpit that removed the need for a flight engineer, an improved wing with a recambered trailing edge, single slotted fowler flaps, and the removal of slat fences. Three hundred thirteen units of the A300-600 were sold, and many are still flying today. â Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
-    <published>2023-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msu13r</id>
-    <title>Microsoft Releases Sim Update 13</title>
-    <updated>2023-09-28T00:00:00+00:00</updated>
-    <link href="/news/msu13r" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651603c1597fbb56b23779c9_sc6vzv.png" rel="enclosure" type="image/png" length="219811"/>
-    <summary>Sim: MSFS. Microsoft has released Sim Update 13 for Microsoft Flight Simulator 2020, which includes many changes, bug fixes and improvements, and community requested fixes. The main focus for this Sim Update was many small fixes and changes to many facets of the simulator.  â The main volume of changes came for the 747-8 and 787-10, which both have received fixes to their avionics by Working Title. Most notably, being the addition of SimBrief integration in both aircraft, as well as the addition of an EFB for the 787. The new EFB also allows for takeoff calculations, which you can send directly to the FMC. Another highly requested feature, step climbs, have also been implemented. â The Garmin glass cockpits have also received improvements and changes courtesy of Working Title. Terrain and Weather Radar improvements have been of primary focus for this update, allowing users to control the gain of the weather radar through the settings pages.  â On their September Development livestream, which happened just yesterday, they provided a list of some of the bigger community requests:  You can read the full list of the myriad of changes that Sim Update 13 brings on the Microsoft Flight Simulator Forums. â Stay tuned to Threshold for more high quality flight simulation news!</summary>
-    <published>2023-09-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ineghi</id>
     <title>iniBuilds Releases Southampton Airport for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/hpg16a" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65256afc9a2dbce68e9dfbe4_5_2048x.png.png" rel="enclosure" type="image/png" length="2109112"/>
     <summary>Sim: MSFS. Hype Performance Group has announced that their next project is another Airbus helicopter, the H160, for Microsoft Flight Simulator. The announcement comes a week after they posted a teaser photo of the silhouette of the helicopter on their Discord server.  The Airbus H160 helicopter is a medium utility helicopter that was introduced in 2011, and was designed and engineered to bring many features from modern airliners and fixed wing aircraft, such as advanced avionics and autopilot systems, to a helicopter. The H160 production also borrowed many techniques from the Airbus A350. On the product page, Hype Performance Group says that this is their most complex project to date, and will include a myriad of features, including, but not limited to: The Hype Performance Group H160 will be released on Friday, October 27th, at a price of $49.99 USD (excl. tax). For the full list of features, you can visit the H160 Product Page.Stay tuned to Threshold for more high-quality flight simulation news!</summary>
+    <published>2023-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skyoil</id>
+    <title>Skyline Simulations Releases Heerema Oil Rig for MSFS!</title>
+    <updated>2023-10-10T00:00:00+00:00</updated>
+    <link href="/news/skyoil" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6525977ea8f5ed1dfa76399c_5-scaled.jpg" rel="enclosure" type="image/jpeg" length="308520"/>
+    <summary>Sim: MSFS. Skyline Simulations recently released their newest scenery add on, Heerema Oil Rig for MSFS! Skyline Simulations has been known for developing scenery for the three major sims (MSFS, X-Plane, and P3D) for ten years.  Skyline brings us a detailed lifting platform for Microsoft Flight Simulator in their latest release. This Semi-Submersible Crane vessel built by Heerema Marine Contractors is their second largest SSCV by Heerema, capable of deep-water installation to 14,200 metric ton installations, according to their website. The Thialf holds many lifting records and has the world's largest SPAR platform. â Skyline Simulations offers features such as 3D modeling accurately designed with detailed technical schematics and drawings. Visual enhancements include UHD Custom Textures with the latest painting techniques and PBR Materials. Other neat features include custom lighting and animations to bring more life to the rig. The model also features hard surfaces and platform wave oscillations to challenge your rotor wing skills. Put your Heli skills to the test, check out, and purchase Heerema OilRig here on Skyline Simulations'Â website for only $5.30. Check out their further scenery offerings in their website catalog here! â â As usual, stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/uk2pre</id>
+    <title>UK2000 Teases Glasgow Prestwick Airport for MSFS</title>
+    <updated>2023-10-10T00:00:00+00:00</updated>
+    <link href="/news/uk2pre" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6525a9474faa46195525e8bf_pre1.jpg" rel="enclosure" type="image/jpeg" length="281548"/>
+    <summary>Sim: MSFS. UK2000 has recently teased their work on a rendition of Glasgow Prestwick Airport (EGPK) for Microsoft Flight Simulator, the fifth busiest airport in Scotland with a yearly average of 445,211 passengers.  â It was officially opened in 1935, despite operating as an airfield for longer (since the early 1910s). Passenger facilities were added in 1938 and remained untouched until the government made them compatible with jet aircraft. â The RAF used Prestwick to control trans-Atlantic flights during World War 2 as a gateway for US Army personnel and a training base for RAF pilots. â Its commercial duties started right after the war, with a transatlantic flight between Prestwick and New York. â The main runway was expanded in 1960 from the original 2,100 meters to 3,000 meters, which is still its current length.  â During the early 1990s, Prestwick was in shambles, desperately needing ârescue,â which came in the form of a takeover from a Canadian entrepreneur (Matthew Hudson), who constructed a railway station beside it, making it the first Scottish airport with its own railway station. To this day, Matthewâs rescue effort is unanimously recognized as heroic. â Ryanair embraced Prestwick in 1994, with a route from Dublin and a second route a year later to London Stansted. A third one followed suit in 1998, taking passengers to Paris-Beauvais. â 1998 also marks the ownership transfer from Matthew Hudson to the Stagecoach Group, a transport group based in Perth, primarily focused on buses, trams, and train services. They sold it three years later for 33 million pounds. â Infratil, a Kiwi company, was the new owner from 2001 onwards, responsible for revamping the main terminal in 2005 and redecorating most of it with very controversial touches. â After over a decade of ownership, Infratil decided to call it a day and pass it on to a new owner, which was no less than the Scottish government. They paid an incredible sum of 1 pound for it.  â As of June 2019, the airport is up for sale.  Itâs currently served by Ryanair, with flights to Alicante, Faro, Lanzarote, MÃ¡laga, and Tenerife-South. â There is no information about features yet, but they have mentioned itâs releasing soon for roughly $18.41. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-10T00:00:00+00:00</published>
   </entry>
 </feed>
