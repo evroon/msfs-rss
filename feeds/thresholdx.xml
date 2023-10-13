@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-12T18:23:05.528382+00:00</updated>
+  <updated>2023-10-13T18:23:06.380276+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vsipvu</id>
-    <title>Verticalsim Releases Provo Municipal Airport for MSFS</title>
-    <updated>2023-10-04T00:00:00+00:00</updated>
-    <link href="/news/vsipvu" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/651dec48b559ecb068fde964_pvu.jpg" rel="enclosure" type="image/jpeg" length="583290"/>
-    <summary>Sim: MSFS. Verticalsim has recently released their rendition of Provo Municipal Airport (KPVU) for Microsoft Flight Simulator, serving the city of Provo in Utah with a yearly average of 145,000 passengers. â Originally an uncontrolled airport, its control tower was built in 2005, followed by major improvements to the terminal in 2011, bringing it up to the required standard to receive airline service.Â  â After three years of work, a brand new passenger terminal was completed in 2022 at a total cost of $40 million. It has four gates and can be expanded to ten in the future. Allegiant has announced plans to open a four-aircraft base at the airport, with Breeze following suit. Both are the only airlines operating in Provo. â With two FBOs and a flight school, itâs also a significant regional general aviation airport. â The scenery features an accurate rendition of the airport, with a full 1:1 terminal interior, an up-to-date ground layout, high-definition PBR textures, custom orthophoto, and performance-friendly optimization. â Itâs available onÂ Verticalsimâs ShopÂ for $14.99, requiring at least 1.89 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bsq850</id>
     <title>Black Square Releases TBM 850 for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/gfratm" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65274c2469e45fd170052d81_Screenshot%202023-10-11%20at%209.30.02%20PM.png" rel="enclosure" type="image/png" length="2032520"/>
     <summary>Sim: MSFS. Got Friends, developers of well loved aircraft and pilot avatars, has released another foray into avatar development for Microsoft Flight Simulators, the AviTars Series for Microsoft Flight Simulator.  â This release builds on their very popular freeware âMan's Best Friendâ mod, and adds more advanced technology and higher detailed character models to the simulator. The models integrate with the IK Chain animation system, and work with the MSFS core, so they are able to grab and move the yoke, rudder pedals, throttles, and mixture on any aircraft that has used the animation system. Many addons are already compatible, such as the popular Comanche 250 by A2A Simulations, and many aircraft from developers like Flying Iron Simulations and Touching Cloud. The Got Friendsâ AviTar Series includes three avatar packs. The first pack is a re-launch of the popular Manâs Best Friend pack, including integration with the AviTar system, and includes eight new cats, and one new dog, The next pack, dubbed âValorâ includes six warbird pilots to take out on missions. The third pack includes many of the communityâs favorite Twitch streamers, including TwoToneMurphy, TheDukeNewComb, WestCoastWilly, BurstixTV, FordorLearnToFly, and OohCando. The Valor pack is a payware product, and can be acquired in the Got Friends store for $4.99 USD. The Valor and Manâs Best Friend packs are both free. The inital release will be for PCÂ only, but Got Friends is planning on a Marketplace and XBOX release sometime in the future â For more information about Got Friendsâ amazing AviTar series and to get them for your sim, visit the Got Friends Store. â Stay tuned to Threshold for more high-quality flight simulation news!</summary>
+    <published>2023-10-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fthtus</id>
+    <title>FeelThere Releases Tucson International Airport for MSFS</title>
+    <updated>2023-10-12T00:00:00+00:00</updated>
+    <link href="/news/fthtus" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65286384c896130c9806f772_tus.jpg" rel="enclosure" type="image/jpeg" length="1482961"/>
+    <summary>Sim: MSFS. FeelThere has recently released their rendition of Tucson International Airport (KTUS) for Microsoft Flight Simulator, the second busiest airport in Arizona with a yearly average of 3.3 million passengers. â It was built in 1948, replacing the former airport (Tucson Municipal), the first municipality-owned airport in the United States (circa 1919). They used three hangars that were utilized by WW2 manufacturing companies as the base infrastructure, along with a wooden control tower from the same era.  â A proper control tower was built a decade later, and commercial operations started two years prior with American, TWA, and Frontier.Â  â  A new terminal was inaugurated in 1963, with an international inspection station. It had already been operating internationally two years before, with Aeronaves de Mexico flying to Hermosillo. It was remodeled twice in the 60s and 70s.Â  â Twenty years later, the administration expanded the main terminal from 150,000 square feet to 300,000, rebuilding the concourse into separate structures with jet bridges. Further renovation happened in 2005, adding 82,000 square feet to the terminal and renumbering the gate layout. â  Alaska Airlines, American Airlines, American Eagle, Delta Air Lines, Delta Connection, Southwest Airlines, Sun Country Airlines, United Airlines, and United Express serve it.  The scenery features an accurate rendition of the airport, with PBR texturing, custom animated jetways, custom ground poly, improved lighting, hand-placed ground clutter, and more.  Itâs available onÂ SimMarketÂ for roughly $20.68, requiring at least 695.96 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-12T00:00:00+00:00</published>
   </entry>
 </feed>
