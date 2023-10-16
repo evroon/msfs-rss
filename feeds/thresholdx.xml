@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-15T18:20:52.985305+00:00</updated>
+  <updated>2023-10-16T18:23:55.445554+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/f2hspr</id>
-    <title>Fly2High Releases Abraham Lincoln Capital Airport for MSFS</title>
-    <updated>2023-10-06T00:00:00+00:00</updated>
-    <link href="/news/f2hspr" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65207d5d991a874fdbadf87f_spring1.webp" rel="enclosure" type="image/webp" length="901806"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of Abraham Lincoln Capital Airport (KSPI) for Microsoft Flight Simulator, serving Springfield, Illinois, with a yearly average of 145,000 passengers.  The airport opened in 1947, replacing Springfieldâs former main airport, which was deemed inadequate for commercial operation due to terrible infrastructure. Initially, it sported three 5300 ft runways, a service apron, a temporary passenger terminal, and T-hangars for 38 airplanes.Â  â The terminal was recently upgraded with funds from the Airport Improvement Program, a grant sponsored by the FAA. They have also improved the FBO, hangars, roadways, and parking lots.  It also houses the Capital Airport Air National Guard Station, making it a civil-military airport. Itâs a 91-acre facility, hosting the 183d Fighter Wing, an Illinois Air National Guard Unit.Â   Traffic-wise, 64% of it is general aviation, 20% military, 15% air taxi, and only 2% corresponds to commercial. Allegiant Air, American Eagles, and Breeze Airways serve it with short regional ops.Â   The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, performance-friendly optimization, and high-detailed models of all buildings.Â   Itâs available on theÂ iniBuilds StoreÂ for roughly $9.49, requiring at least 3.54 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bmwsan</id>
     <title>BMWorld &amp; AmSim Release San Diego International for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/652aafb8590043936a41ece3_A342_-_2023-10-04_00.44.11.png" rel="enclosure" type="image/png" length="1657656"/>
     <summary>Sim: X-Plane. Popular X-plane freeware Developers X-Works have released their latest Airbus Creation for X-Plane 12. The new Freeware A340 will bring the avid Airbus flight sim captain a delightful smile.Â  Initially, today, there was some trouble from a few community members who decided to keep pressuring the development team into announcing a release time. Much to the backlash of some in the community,Â  X-Works postponed the release of the aircraft in an attempt to put out the fire that was burning in their Discord. Iâll leave it to those in the community to decide whether this helped.Â  The aircraft is loosely based on the Default A330 Platform but V1 will include the following additions and changes: â After a controversial and far from smooth release day, however, the A340 is finally here, and Sim pilots can now enjoy the four-engined beast in all her glory.Â  The aircraft can be downloaded via a link in the X-works Discord server.Â  â â</summary>
     <published>2023-10-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a34060</id>
+    <title>LatinVFR announces new Airbus widebody addons!</title>
+    <updated>2023-10-16T00:00:00+00:00</updated>
+    <link href="/news/a34060" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/652d3b86696ed3416d59c00d_391621024_1030570411425585_3996768700227810381_n.jpg" rel="enclosure" type="image/jpeg" length="295083"/>
+    <summary>Sim: MSFS. LatinVFR has recently announced the upcoming release of new Airbus widebody addons for Microsoft Flight Simulator, the A330/A340, as shared in a Facebook post. According to the post, the A330neo will be available this(possibly Thursday, according to comment replies) week, while the A340-300/200 will be released in the coming weeks. LatinVFR also confirmed that they would launch the A330-200CEO and A340-600 addons next year. The team states that these upcoming addons will be of the "middle ground" tier, featuring custom systems and avionics, among other features that surpass the default systems and standards. The addons will be available for XBOX users as well! LatinVFR is known for their A320, A319ceo A318, and sceneries like San Diego Int for Microsoft Flight Simulator. You can check out LatinVFR's products on their website, the Contrail app, or the Microsoft Addon store within the sim. â â Check out the release trailer and preview shots here or more here! As usual stay tuned to Threshold for more new regarding these upcoming releases! </summary>
+    <published>2023-10-16T00:00:00+00:00</published>
   </entry>
 </feed>
