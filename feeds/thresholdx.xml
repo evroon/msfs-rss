@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-18T18:23:27.200740+00:00</updated>
+  <updated>2023-10-19T18:22:55.176821+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fleham</id>
-    <title>FlyTampa Releases Amsterdam Airport Schiphol for MSFS</title>
-    <updated>2023-10-08T00:00:00+00:00</updated>
-    <link href="/news/fleham" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6522f1e541e2da0763da3258_schi1.jpg" rel="enclosure" type="image/jpeg" length="2880824"/>
-    <summary>Sim: MSFS. FlyTampa has recently released their rendition of Amsterdam Airport Schiphol (EHAM) for Microsoft Flight Simulator, the world's third busiest airport by international passenger traffic, with a yearly average of 72 million passengers. â It opened 1916 as a military airbase, eventually converting into a civilian airport after WW1. It was captured during World War 2 by the Germans and destroyed. The rebuilding process started soon after, and it became the main airport of the Netherlands in 1949, undergoing an expansion project that sacrificed the town of Rijk to make room for their ambitious plans.Â  â It was expanded again in 1967, with a new terminal area still partially used today (Departure Halls 1 and 2). Parts of the original piers (C, D, and E) are also from that period. A further modification was required in the 1970s to ensure Boeing 747 "compatibility," and a new pier was made for widebody aircraft in 1977. â The 1990s brought further modifications, as the airport's new size meant the old control tower was not tall enough to oversee all of it, leading to the construction of a new one in 1991. Then, a new departure hall and a new pier (G) were added in 1993. â With the construction of a sixth runway in 2003 came the need for another control tower to ensure they could oversee everything again. One was not enough. â It's a hub for KLM, KLM Cargo, KLM CItyhopper, and Martinair, with the first being the Netherlands' national carrier. EasyJet, Transavia, and TUI fly Netherlands also have operating bases at the airport, flying people all over Europe. The visitors' list is quite substantial, as one would expect from the third busiest airport in the whole world, including the likes of Aegean Airlines, Aer Lingus, Air Canada, Air India, Air Malta, Air Transat, American Airlines, Austrian Airlines, British Airways, Croatia Airlines, Delta Air Lines, Emirates, Etihad Airways, JetBlue, Korean Air, Royal Jordanian, Ryanair, Turkish Airlines, and United Airlines. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, terminal interior models, PBR materials, dynamic lighting, animated jetways, custom terrain, and more. â It's available onÂ FlyTampa's websiteÂ for $21.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hpg16a</id>
     <title>Hype Performance Group Announces H160 for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/mfsibu" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/652f84863b135309793370f1_sibu.jpg" rel="enclosure" type="image/jpeg" length="722727"/>
     <summary>Sim: MSFS. MFSG has recently released their rendition of Sibu Airport (WBGS) for Microsoft Flight Simulator, serving Bintangor, Sarikei, Kapit, and Sibu in East Malaysia, with a yearly average of 569,000 passengers, making it the 11th busiest in the country. â It opened in 1994, replacing Sibuâs former airport, which was demolished to make way for the Laila Taib College (its runway can still be seen, albeit partially).Â  â It underwent a massive expansion project in 2010, upgrading the terminal building and car park at a total cost of RM130 Million. With the upgrade, the airport could handle 1.8 million passengers per year. â AirAsia, Batik Air Malaysia, Malaysia Airlines, and MASwings serve it. â  The scenery features an accurate rendition of the airport, with an up-to-date ground layout (2023), custom jetways, AI traffic compatibility, and custom ground textures.  Itâs available onÂ SimMarketÂ for roughly $11.63, requiring at least 28.81 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2023-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kokefb</id>
+    <title>PMDG Teases Upcoming EFB for 737 Lineup </title>
+    <updated>2023-10-18T00:00:00+00:00</updated>
+    <link href="/news/kokefb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65305d2b150d777ee563d827_1250410_20231010221817_1.png" rel="enclosure" type="image/png" length="1486655"/>
+    <summary>Sim: MSFS. Mathijs Kok from PMDG has made a forum thread showing a quick sneak peek of their upcoming Electronic Flight Bag for their 737 lineup on Microsoft Flight Simulator, along with a date to look forward to.Â  â While the teaser itself does not say much (aside from the preview), Mathijs has shared that Robert Randazzo will publish a feature list, more images, and a release date sometime this weekend. â It will be a free micro-update for PMDG.com and Marketplace users, but the latter will take longer because of Microsoftâs intake process. They estimate around 2-3 weeks from the release on their official website, and itâs just guesswork based on the average time it takes, according to their empirical data.  The 737 lineup is available onÂ PMDG.comÂ or via Marketplace, with prices ranging from $34.99 to $69.99.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-18T00:00:00+00:00</published>
   </entry>
 </feed>
