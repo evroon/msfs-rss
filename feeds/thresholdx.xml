@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-23T18:21:36.299987+00:00</updated>
+  <updated>2023-10-24T18:23:08.136097+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lisven</id>
-    <title>Lisium Releases Ventspils International Airport for MSFS</title>
-    <updated>2023-10-11T00:00:00+00:00</updated>
-    <link href="/news/lisven" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65271829814b22bbb448a74d_vent%601.jpg" rel="enclosure" type="image/jpeg" length="1226453"/>
-    <summary>Sim: MSFS. Lisium has recently released their rendition of Ventspils International Airport (EVVA) for Microsoft Flight Simulator, serving the city of Ventspils in Latvia. â It was founded in 1939 as a basic airfield, with its first major revamp in 1975, including constructing its first asphalt runway and an apron. It was served by many AN-24s, AN-2s, YAK-40s, and MI-2s, flying scheduled routes between Ventspils and either Riga or Leningrad (St. Petersburg).Â  â The state also heavily used it for border control, pipeline control, forest patrols, traffic control, etc.Â  â â In 1983, the government decided to cease operations and close the airport, which was only reopened in the late 90s after the demand for it reached an all-time high post-Soviet Unionâs collapse.Â   â Rehabilitation work started in 1999, was completed two years later, and allowed operations to resume after many years of inactivity. Commercial operation began in 2008 for a few months and dropped immediately because of low passenger figures (less than 8,000).Â  â â The scenery features an accurate rendition of the airport, with fully modeled interiors, government-provided satellite imagery, high-resolution 3D models, and more. â Itâs available onÂ SimMarketÂ for roughly $10.58, requiring at least 601.30 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ftpams</id>
-    <title>FlyTampa Updates Amsterdam Airport Schiphol for MSFS</title>
-    <updated>2023-10-11T00:00:00+00:00</updated>
-    <link href="/news/ftpams" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65272eac188c9a1944919110_eham.jpg" rel="enclosure" type="image/jpeg" length="2687568"/>
-    <summary>Sim: MSFS. FlyTampa has recently issued an update to their rendition of Amsterdam Airport Schiphol (EHAM) for Microsoft Flight Simulator, bringing a list of improvements and bug fixes.  â Amsterdamâs first update adds missing fencing around the K-apron, ground texture fixes, smoothness improvements on elevated taxiways, adds a LOC model that was absent, optimizes the viewing distance of 3D lighting, and addresses runway 18Râs alignment. â The scenery is available on their official website for $21.99, requiring at least 7.5 GB of free hard disk space to install.Shout out to nxther for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gfratm</id>
     <title>Got Friends Releases AviTar Series for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65344c7d27c83b0010461bdf_update.jpg" rel="enclosure" type="image/jpeg" length="270835"/>
     <summary>Sim: MSFS. FlyTampa has recently issued a new update to their rendition of Amsterdam Airport Schiphol (EHAM) for Microsoft Flight Simulator, bringing a list of new bug fixes and improvements.Â  â Version 1.2, the second update so far, brings updated AI parking codes, taxiway layout updates, multiple fixes, lighting improvements, and more. The changelog follows below:  V1.2 (19 Oct 2023) -updated AI parking codes -taxiway layout update based on latest changes -fixed jagged shorelines -minor 3D and texture fixes -optmised taxiing over elevated taxiways -added more grasspads -added custom animated apron traffic -optimised highway lighting â  â â The scenery is available on theirÂ websiteÂ for $21.99, requiring at least 7.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vuevia</id>
+    <title>VueloSimple Releases Velana International Airport for MSFS</title>
+    <updated>2023-10-23T00:00:00+00:00</updated>
+    <link href="/news/vuevia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6536ed85c758d5b6c39bfc08_velana.jpg" rel="enclosure" type="image/jpeg" length="1277622"/>
+    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Velana International Airport (VRMM) for Microsoft Flight Simulator, the main international airport in the Maldives, serving its Capital city, MalÃ©.  What once started as a small strip of land in the early 1960s became a proper airport only four years later, when the government and its people gathered together to build an asphalt runway: four city districts competed for who could be the fastest. Two years later, the runway was opened and ready for commercial action.  â The upgrade to International status happened a decade after the initial tourism boom, with its official inauguration as MalÃ© International Airport in 1981.Â   â A few years ago, the administration expanded the airport with a new runway (that was serving as a taxiway until 2022 because there was an old seaplane terminal near it that was too close). They have also been building a new passenger terminal, a long-term project scheduled to reach completion by 2025. It features an area of around 78,000 square meters, serving up to 7.3 million passengers a year instead of its current capacity of only 1 million. â  Itâs a hub for Maldivian and Trans Maldivian Airways. Aeroflot, AirAsia, Air France, Air India, Austrian Airlines, Batik Air Malaysia, British Airways, China Eastern Airlines, Emirates, Etihad Airways, Gulf Air, ITA Airways, Qatar Airways, Singapore Airlines, Turkish Airlines, Virgin Atlantic, and WizzAir visit it. â  The scenery features an accurate rendition of the airport, with its new passenger terminal (and interior), updated runway, custom taxiways, custom night lighting, LOD optimization, and more. â  Itâs available onÂ SimMarketÂ for roughly $15.88, requiring at least 415.68 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pdch7p</id>
+    <title>PILOT'S GesmbH announces the upcoming release of the Dash 7</title>
+    <updated>2023-10-24T00:00:00+00:00</updated>
+    <link href="/news/pdch7p" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6537def75eaeb757d29960be_NNOSE.jpg" rel="enclosure" type="image/jpeg" length="374149"/>
+    <summary>Sim: MSFS. Today PILOT'S GesmbH announced the imminent release of their long-awaited Dash 7 for Microsoft Flight Simulator. Known for their scenery and utility addons for FSX and P3D, they'll add the Dash 7 to their lineup soon. The Dash 7 is a rugged four-engine turboprop developed and manufactured by de Havilland Canada. It is known for its STOL performance, which gives it more destination options in rugged terrain and unpaved landing surfaces. Making its first flight in March of 1975, approximately 113 were built. The DHC-7 is powered by four Pratt &amp; Whitney PT6A-50 engines producing around 1,100 shaft horsepower, allowing it to cruise upward to 230 knots. Its STOL capabilities allow it to operate out of runways as little as 2,000 feet long. This capacity makes it useful for passenger service and cargo. â â According to a recent Facebook post by PILOT'S GesmbH, you will soon be able to experience the STOL performance of the DHC-7 this weekend. The addon will include real-world liveries and equipment, such as the Working Title GNS 530 and a specific model supporting the GTNXi. Additionally, custom sounds are engineered for the Dash 7 with assistance and input from Air Tindi. There are many operational quirks modeled after the real Dash 7"One such unique feature is the nose wheel gear doors slowly opening after engines shut down with the subsequent hydraulic pressure drop". â The Dash 7 will be available on their web store at www.pilots.shop this weekend. Make sure to create an account for purchase.   As always stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2023-10-24T00:00:00+00:00</published>
   </entry>
 </feed>
