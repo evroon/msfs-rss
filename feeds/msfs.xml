@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-10-26T18:20:47.003155+00:00</updated>
+  <updated>2023-10-27T18:21:34.928676+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/amsim-beautiful-model-of-the-world-and-bmworld-amsim-sale/</id>
-    <title>AmSim, Beautiful Model of the World, and BMWorld &amp; AmSim Sale</title>
-    <updated>2023-10-06T17:00:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/amsim-beautiful-model-of-the-world-and-bmworld-amsim-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/2023_Oct6-13_Sale_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="133830"/>
-    <summary>For seven days starting on October 6th save up to 52% on 43 items!</summary>
-    <published>2023-10-06T17:00:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-12th-2023-development-update/</id>
     <title>October 12th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/2023_Oct20-27_Sale_v01_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122661"/>
     <summary>Enjoy discounted pricing on Marketplace content from Flysimware, FS Academy, and Salvuz.For seven days starting on October 20th save up to 50% on the following items: Developer Marketplace Item Flysimware Cessna 414AW Chancellor Flysimware Grumman G44A Widgeon Flysimware Nieuport-24 FS Academy IFR FS Academy Jetliner FS Academy Navigator FS Academy VFR FS Academy Voyager Salvuz ENBR … Continued</summary>
     <published>2023-10-20T21:27:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-26th-2023-development-update/</id>
+    <title>October 26th 2023, Development Update</title>
+    <updated>2023-10-26T23:18:47+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-26th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/@pommes_l-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="93911"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter/X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Early next week, we will be releasing the first public beta of Sim Update 14 to volunteer community members who wish to help the development team test the … Continued</summary>
+    <published>2023-10-26T23:18:47+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/</id>
