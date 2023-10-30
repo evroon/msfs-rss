@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-10-29T18:20:23.525970+00:00</updated>
+  <updated>2023-10-30T18:22:38.591421+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inkpsp</id>
-    <title>iniBuilds Releases Palm Springs International Airport for MSFS</title>
-    <updated>2023-10-20T00:00:00+00:00</updated>
-    <link href="/news/inkpsp" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6532a5a832ff1653fb920ed6_inipsp1.webp" rel="enclosure" type="image/webp" length="566644"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of Palm Springs International Airport (KPSP) for Microsoft Flight Simulator, serving the Palm Springs area in California with a yearly average of 3 million passengers. Built by the US Army as an emergency landing field in 1939, it was later improved to serve as a staging field during World War 2. It was then sold to private buyers in 1946 and purchased by the City of Palm Springs in 1961 to become Palm Springs Municipal Airport. Airline service started with Western Airlines in the mid to late 40s, followed by Bonanza Air Lines a decade later. It was transformed into a dual runway airport in the 1990s and expanded with a new concourse in 1999, increasing its passenger handling capacity. The post-COVID period brought record growth, thanks to the arrival of Southwest Airlines with year-round flights to Oakland, Phoenix, Denver, and Vegas (the latter started a year later). Air Canada, Air Canada Rouge, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Delta Air Lines, Delta Connection, Flair Airlines, JetBlue, Southwest Airlines, Sun Country Airlines, United Airlines, United Express, and WestJet currently serve it. The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life landside recreation, highly detailed models, custom night lighting, an up-to-date ground layout, LOD optimization, and more. â Itâs available on the iniBuilds Store for roughly $18.19, requiring at least 3.57 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/737uft</id>
     <title>PMDG Reveals Planned Release Date for Upcoming Universal Flight Tablet</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/653c0a80649d2fb01311f6fa_das1.jpg" rel="enclosure" type="image/jpeg" length="2339944"/>
     <summary>Sim: MSFS. PILOT'S has recently released their rendition of the de Havilland Canada Dash 7 for Microsoft Flight Simulator, a turboprop-powered regional airliner with STOL Capabilities introduced in 1978.  â First flown in 1975, the Dash 7 is a "Twin Otter but larger and with four engines," with oversized fan blades that would rotate at a slower speed to emit as little noise as possible, complying with the noise restrictions that were starting to creep in. It could carry up to 50 passengers, with a service ceiling of 21,000 feet and 690 nautical miles of range, all powered by four Pratt &amp; Whitney Canada PT6A-50 turboprop engines, with 1,120 hp each.  â As of July 2018, 17 Dash 7s were still flying worldwide with six different operators. However, the list of former operators is substantial: sixty civilian and three military operators. â The add-on features 4K textures, authentic and realistic gauges, full TDS GTN750xi support (and default GNS 530), nine liveries, authentic color matching, and more. â It's available on theirÂ websiteÂ for roughly $21.13. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmduft</id>
+    <title>PMDG Releases Universal Flight Tablet for MSFS</title>
+    <updated>2023-10-30T00:00:00+00:00</updated>
+    <link href="/news/pmduft" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/653f0a89100a96d2d8973bb5_1250410_20231029210734_1.png" rel="enclosure" type="image/png" length="1332295"/>
+    <summary>Sim: MSFS. PMDG has recently released the long-awaited Universal Flight Tablet update for Microsoft Flight Simulator, bringing an advanced Electronic Flight Bag (EFB) to the 737 Lineup with SimBrief integration, performance calculation, and more. â  Update 3.0.80 brings the first public version of the Universal Flight Tablet with a feature set that includes SimBrief integration, charting (for Navigraph Ultimate subscribers), and performance computation. The complete feature list follows below:  Flight Plans/SimBrief Integration - Importing flight plans from SimBrief. - Download weather for the flight plan route. - Flight plan/weather sharing between tablet/aircraft. - Display of Operational Flight Plan. - Display of real time METAR information (native or simplified format)  Charting: - Navigraph Charts (Requires Navigraph Subscription) - Georeferenced aircraft on displayed charts where appropriate. - Flight centric chart selection/pinning of desired charts.  Performance Computation: - T/O, Diversion, Landing computations. - Data Import from flight plans or from the aircraft itself. - Reduced runway length computations. - Graphic display of displaced threshold data.  â  New features will be added in future updates, such as the ability to manage all of the PMDG options, functions, and failures from the tablet (and they will also remain controllable via FMC).Â   They will also offer the possibility of integration with third-party applications, all from within the tablet. PMDG will provide further information on that in the future.  The update is now available forÂ PMDG.comÂ customers, and the marketplace release will depend on Microsoftâs internal intake process. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-10-30T00:00:00+00:00</published>
   </entry>
 </feed>
