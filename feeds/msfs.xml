@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-10-30T18:22:37.762042+00:00</updated>
+  <updated>2023-10-31T18:22:13.264890+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/october-12th-2023-development-update/</id>
-    <title>October 12th, 2023 Development Update</title>
-    <updated>2023-10-12T23:35:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-12th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/BasedRaccoon-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="90455"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter/X user BasedRaccoon! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!The team is currently heads down and hard at work on our next two content releases scheduled for later this month: World Update XV: Nordics &amp; Greenland and Local Legend XIV: … Continued</summary>
-    <published>2023-10-12T23:35:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/partnersale_oct13/</id>
     <title>BravoAirspace, Drzewiecki Design, and iniBuilds Sale</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/@pommes_l-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="93911"/>
     <summary>This week’s Screenshot Challenge winner is Twitter/X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Early next week, we will be releasing the first public beta of Sim Update 14 to volunteer community members who wish to help the development team test the … Continued</summary>
     <published>2023-10-26T23:18:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-famous-flyer-7-the-mitsubishi-heavy-industries-mu-2/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 7: The Mitsubishi Heavy Industries MU-2</title>
+    <updated>2023-10-31T15:01:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-famous-flyer-7-the-mitsubishi-heavy-industries-mu-2/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/MSFS_MU2_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="189130"/>
+    <summary>The rugged and reliable MU-2 is now available for pilots to take to the skies in Microsoft Flight Simulator.THE INSPIRATIONThe MU-2 was born out of a strict utilitarian design philosophy, bold in form and performance. The late 1950s and early 1960s witnessed the emergence of the turbine engine as a vastly improved means of propulsion … Continued</summary>
+    <published>2023-10-31T15:01:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/</id>
