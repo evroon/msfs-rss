@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-10-31T18:22:13.264890+00:00</updated>
+  <updated>2023-11-01T18:22:19.233111+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -54,14 +54,6 @@
     <published>2023-10-31T15:01:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/</id>
-    <title>FlightSimExpo 2023: A Reflection on Our First Expo</title>
-    <updated>2023-06-29T17:59:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/flightsimexpo-2023-a-reflection-on-our-first-expo/" rel="alternate"/>
-    <summary>Last Friday a group of more than 20 members of the Microsoft Flight Simulator team arrived at the Lone Star Museum to begin setup of our booth with both enthusiasm and a twinge of apprehension as we embarked on our first ever FlightSimExpo experience. Some of us shook hands for the first time, as our … Continued</summary>
-    <published>2023-06-29T17:59:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
     <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
     <updated>2023-07-20T22:52:18+00:00</updated>
@@ -74,8 +66,16 @@
     <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
     <updated>2023-10-10T16:20:37+00:00</updated>
     <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/nick1-1024x542.jpg" rel="enclosure" type="image/jpeg" length="68165"/>
     <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
     <published>2023-10-10T16:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
+    <title>Community Spotlight: WorldFlight</title>
+    <updated>2023-11-01T16:00:07+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/msedge_bev8FAN2Ml-1024x767.jpg" rel="enclosure" type="image/jpeg" length="102140"/>
+    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
+    <published>2023-11-01T16:00:07+00:00</published>
   </entry>
 </feed>
