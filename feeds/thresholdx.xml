@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-03T18:22:56.538991+00:00</updated>
+  <updated>2023-11-04T18:20:39.530161+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/boudev</id>
-    <title>Boundless Publishes Development Update </title>
-    <updated>2023-10-26T00:00:00+00:00</updated>
-    <link href="/news/boudev" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/653a15204dab3b655828e252_vatry.png" rel="enclosure" type="image/png" length="1091843"/>
-    <summary>Sim: X-Plane. Boundless has recently published a new development report on their progress on Paris Vatry and Inverness for X-Plane 11 &amp; 12. â They begin with information on Paris Vatry (LFOK), which is claimed to be 95% finished, only depending on fixing a couple of issues that arose before release. While a time frame was not provided, itâs said that everything is in place to get them moving pretty quickly once the problem is solved.Â   â New Inverness (EGPE) previews were also shown. It was announced recently, promising improved terminal textures, improved night lighting, new ground textures, improved FPS, new lorry and vehicle models, animated ground traffic, and optional static aircraft. â  They conclude by letting everyone know that theirÂ websiteÂ has recently been updated with a new design (focusing on usability), and they have been working in the background on five unannounced projects, which should be revealed soon. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbpng</id>
     <title>Orbx Releases PNG Highland Bush Strips Pack for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/rfsdza" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6544f1157d5693757edfacb6_zagreb.jpg" rel="enclosure" type="image/jpeg" length="823063"/>
     <summary>Sim: MSFS. RFscenerybuilding has recently released their rendition of Zagreb Franjo TuÄman Airport (LDZA) for Microsoft Flight Simulator, serving the Croatian city of Zagreb with a yearly average of 3.1 million passengers. â The airport was built in 1962, replacing an airfield near the village of LuÄko. It originally featured a 2,500-meter runway with a 1000 square meter terminal, replaced within three years by a state-of-the-art 5000 square meter terminal. The runway was lengthened to its current capacity in 1974. â The airport was upgraded in the early 2000s with an ILS system and a terminal expansion, adding 10,000 square meters to its total area, and it was later expanded even further in 2017 with the construction of a brand new, 70,000 square meter terminal, increasing its yearly passenger handling capabilities to 5.5 million passengers. â Itâs a hub for Croatia Airlines and one of the European bases for Ryanair. Aegean Airlines, Air France, Air Serbia, Air Transat, Austrian Airlines, British Airways, Eurowings, Finnair, flydubai, Iberia, KLM, LOT, Lufthansa, Norwegian Air Shuttle, Qatar Airways, Trade Air, Turkish Airlines, and Vueling also serve it. â The scenery features an accurate rendition of the airport, with custom buildings, custom clutter and vehicles, custom lighting, and custom jetways. â Itâs available onÂ SimMarketÂ for roughly $15.99, requiring at least 391.58 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fl2jax</id>
+    <title>Fly2High Releases Jacksonville International Airport for MSFS</title>
+    <updated>2023-11-03T00:00:00+00:00</updated>
+    <link href="/news/fl2jax" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654579b89480561f50d4a74f_jax.jpg" rel="enclosure" type="image/jpeg" length="1044016"/>
+    <summary>Sim: MSFS. Fly2High has recently released their rendition of Jacksonville International Airport (KJAX) for Microsoft Flight Simulator, serving the Jacksonville Metropolitan Area with a yearly average of 6,500,000 passengers.  Jacksonville International was conceived as a replacement for Imeson Field, which has served Jacksonville since 1927. It was simply not big enough to handle the increased demand for air travel, and the runways could not be expanded due to terrain limitations.Â  â The airport's growth could have been faster, with only two million passengers annually by 1982 (way below expectation). However, the 90s saw a massive increase, with the average hitting the 5 million mark. In 2000, they approved an expansion plan to rebuild the landside terminal, central square, main concessions area, and a parking area expansion. â In 2006, they rolled out the second phase of the expansion program, rebuilding concourses A and C, designed by Reynolds, Smith &amp; Hills. The crisis of 2009 stopped any other ongoing expansion work, with the old Concourse B being demolished and only considered for rebuilding ten years later when the traffic figures were healthy again. The pandemic, though, halted that project. â Allegiant Air, American Airlines, American Eagle, Breeze Airways, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Silver Airways, Southwest Airlines, Sun Country Airlines, United Airlines, and United Express serve it. American, Delta, and Southwest hold most of the market share, with 20% each. â The scenery features an accurate rendition of the airport, with hand-made ground textures, custom lighting, high-detail models, and performance-friendly optimization.  â It's available on theÂ iniBuilds StoreÂ for roughly $17.78, requiring at least 5.89 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-11-03T00:00:00+00:00</published>
   </entry>
 </feed>
