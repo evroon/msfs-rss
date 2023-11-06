@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-05T18:20:16.608527+00:00</updated>
+  <updated>2023-11-06T18:22:41.348791+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbpng</id>
-    <title>Orbx Releases PNG Highland Bush Strips Pack for MSFS</title>
-    <updated>2023-10-26T00:00:00+00:00</updated>
-    <link href="/news/orbpng" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/653a19978d68e76ff3fe4350_bush1.jpg" rel="enclosure" type="image/jpeg" length="553155"/>
-    <summary>Sim: MSFS. Orbx has recently released the PNG Highland Bush Strips Pack for Microsoft Flight Simulator, a package with three challenging airstrips in Papua New Guinea, the toughest country in the world to be a bush pilot.  Bush airstrips in Papua New Guinea are generally the only gateway to certain remote villages, meaning itâs vital to their existence and the only way to bring supplies in. The weather is often harsh, the runways are often short and hand-carved, and the challenge is unparalleled.  Developed by Ken Hall, an independent developer, the scenery package brings three airstrips (AYYE, AYYW, and AYDN), featuring PBR texturing, Â custom 3D vegetation (with modeled bananas), 100 custom-built and hand-placed models, handcrafted mesh for each airstrip, and custom hand-placed objects and people.Â  Â   Itâs available onÂ OrbxDirectÂ for roughly $11.94, requiring at least 2.40 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-10-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/uk2gpk</id>
     <title>UK2000 Scenery Releases Glasgow Prestwick Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654579b89480561f50d4a74f_jax.jpg" rel="enclosure" type="image/jpeg" length="1044016"/>
     <summary>Sim: MSFS. Fly2High has recently released their rendition of Jacksonville International Airport (KJAX) for Microsoft Flight Simulator, serving the Jacksonville Metropolitan Area with a yearly average of 6,500,000 passengers.  Jacksonville International was conceived as a replacement for Imeson Field, which has served Jacksonville since 1927. It was simply not big enough to handle the increased demand for air travel, and the runways could not be expanded due to terrain limitations.Â  â The airport's growth could have been faster, with only two million passengers annually by 1982 (way below expectation). However, the 90s saw a massive increase, with the average hitting the 5 million mark. In 2000, they approved an expansion plan to rebuild the landside terminal, central square, main concessions area, and a parking area expansion. â In 2006, they rolled out the second phase of the expansion program, rebuilding concourses A and C, designed by Reynolds, Smith &amp; Hills. The crisis of 2009 stopped any other ongoing expansion work, with the old Concourse B being demolished and only considered for rebuilding ten years later when the traffic figures were healthy again. The pandemic, though, halted that project. â Allegiant Air, American Airlines, American Eagle, Breeze Airways, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Silver Airways, Southwest Airlines, Sun Country Airlines, United Airlines, and United Express serve it. American, Delta, and Southwest hold most of the market share, with 20% each. â The scenery features an accurate rendition of the airport, with hand-made ground textures, custom lighting, high-detail models, and performance-friendly optimization.  â It's available on theÂ iniBuilds StoreÂ for roughly $17.78, requiring at least 5.89 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2023-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orte12</id>
+    <title>Orbx Announces TrueEarth Great Britain for X-Plane 12</title>
+    <updated>2023-11-06T00:00:00+00:00</updated>
+    <link href="/news/orte12" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6548dce89921ac30e7595c3f_britain.jpg" rel="enclosure" type="image/jpeg" length="437111"/>
+    <summary>Sim: X-Plane. Orbx has recently announced the development and imminent release of TrueEarth Great Britain for X-Plane 12, bringing color-corrected imagery with custom autogen, hand-crafted POIs, and more. â Unlike the X-Plane 11 version, TrueEarth GB for X-Plane 12 will bring 3D trees with individually set heights, improved water masking using the simâs new water model, soundscape support, and fully native seasonal changes. â The TrueEarth Great Britain series is divided into three parts: North, South, and Central, covering the entire United Kingdom with high-quality satellite imagery, hundreds of points of interest, a custom mesh, millions of buildings at their correct height and location, and VFR landmarks. â The release date is yet to be announced, but Threshold will keep you informed!Shout out to Luke for the news scoop! â</summary>
+    <published>2023-11-06T00:00:00+00:00</published>
   </entry>
 </feed>
