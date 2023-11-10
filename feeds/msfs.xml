@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-11-09T18:21:55.185453+00:00</updated>
+  <updated>2023-11-10T18:22:06.423359+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-famous-flyer-7-the-mitsubishi-heavy-industries-mu-2/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 7: The Mitsubishi Heavy Industries MU-2</title>
-    <updated>2023-10-31T15:01:24+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-famous-flyer-7-the-mitsubishi-heavy-industries-mu-2/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/MSFS_MU2_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="189130"/>
-    <summary>The rugged and reliable MU-2 is now available for pilots to take to the skies in Microsoft Flight Simulator.THE INSPIRATIONThe MU-2 was born out of a strict utilitarian design philosophy, bold in form and performance. The late 1950s and early 1960s witnessed the emergence of the turbine engine as a vastly improved means of propulsion … Continued</summary>
-    <published>2023-10-31T15:01:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-2nd-2023-development-update/</id>
     <title>November 2nd 2023, Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/MSFS_WU15_Sale_v1_1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="138009"/>
     <summary>For six days starting on April November 7th save up to 71% on 59 items!</summary>
     <published>2023-11-07T18:11:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-9th-2023-development-update/</id>
+    <title>November 9th, 2023 Development Update</title>
+    <updated>2023-11-09T23:45:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-9th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/KnackBretzel-Forum-1024x288.jpg" rel="enclosure" type="image/jpeg" length="28959"/>
+    <summary>Earlier this week, we released World Update XV: Nordics &amp; Greenland. This region contains some of the most stunningly beautiful natural scenery found anywhere in the world. You can see the full list of new content in our forum post here. World Update XV is available as a FREE download from the in-sim Marketplace now.</summary>
+    <published>2023-11-09T23:45:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
