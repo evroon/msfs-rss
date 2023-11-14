@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-13T18:22:20.668431+00:00</updated>
+  <updated>2023-11-14T18:19:04.990450+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/100saa</id>
-    <title>OneHundred Simulations Releases Santo Angelo Airport for MSFS</title>
-    <updated>2023-11-02T00:00:00+00:00</updated>
-    <link href="/news/100saa" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65443286e6b087102449ff54_santo.png" rel="enclosure" type="image/png" length="1120872"/>
-    <summary>Sim: MSFS. OneHundred Simulations has recently released their rendition of SepÃ© Tiaraju Regional Airport (SBNM) for Microsoft Flight Simulator, serving the city of Santo Ãngelo, Rio Grande do Sul, in Brazil.  â Its 1625-meter runway can take up to an SFP B738 (recently authorized by ANAC, the âBrazilian FAAâ), which is what GOL Linhas AÃ©reas generally utilizes to fly into the airport from SÃ£o Paulo - Guarulhos (SBGR). Most of the traffic consists of general aviation and ATRs, though.Â  â Besides the aforementioned GOL, Azul and Passaredo Linhas AÃ©reas also serve it. â The scenery features an accurate rendition of the airport, with custom buildings, PBR textures, custom animations, a true-to-life ground layout, custom terraforming, and custom orthoimagery. â Itâs available onÂ SimMarketÂ for roughly $8.43, requiring at least 1.17 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/taicax</id>
-    <title>Taimodels Releases Cairns Airport for X-Plane 11 &amp; 12</title>
-    <updated>2023-11-03T00:00:00+00:00</updated>
-    <link href="/news/taicax" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6544e597fb3c13f1bcd461f6_cns.png" rel="enclosure" type="image/png" length="1911198"/>
-    <summary>Sim: X-Plane. Taimodels has recently released their rendition of Cairns Airport (YBCS) for X-Plane 11 and 12, serving the city of Cairns in Queensland, Australia, with a yearly average of 5 million passengers. â The airport was built in 1936 on 162 hectares of land bought by the Cairns City Council, originally sporting three runways made of cinders, red earth, weathered rock, and sand. Then, in the early 1940s, the Australian Government purchased the airport to adapt it for RAF use, paving and lengthening the main runway to comport larger aircraft. â  Twenty years later, the airport was upgraded to receive jet aircraft, with an expansion and a runway extension followed by extensive flattening. â With the ever-growing passenger traffic figures, there was pressure in the late 1970s to expand the passenger terminal, which went on to happen in 1982. Finished two years later, it was just the first stage of three. The whole ordeal ended in 1997 with the conclusion of a three-story Airport Administration Center. â In 2007, the domestic terminal was redeveloped, costing the administration around 200 million Australian Dollars.Â  â The last upgrade started in 2019 and was completed a year later, increasing the departure hall area and adding dining and retail facilities. Itâs part of their plan to prepare the airport for handling up to 6 million passengers annually from 2027. â In early 2023, they announced the first major upgrade to the international terminal, rolling out in stages to minimize passenger disruption.  â Itâs a hub for QantasLink and Skytrans Airlines and served by Air New Zealand, Air Niugini, Airnorth, Alliance Airlines, Asia Pacific Airlines, Bonza, Hinterland Aviation, Jetstar, PNG Air, Qantas, Rex Airlines, Singapore Airlines, Virgin Australia. â The scenery features an accurate rendition of the airport, with high-detail models, SAM jetways, PBR texturing, custom autogen, ground traffic plugins, and weather textures (XP12).Â  â Itâs available onÂ SimMarketÂ for roughly $19.18, requiring at least 1.51 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-11-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/f2hmca</id>
-    <title>Fly2High Releases McAllen International Airport for MSFS</title>
-    <updated>2023-11-03T00:00:00+00:00</updated>
-    <link href="/news/f2hmca" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6544eb46597af3db201b29c4_mcallen.jpg" rel="enclosure" type="image/jpeg" length="679312"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of McAllen Miller International Airport (KMFE) for Microsoft Flight Simulator, serving McAllen, Texas, with a yearly average of 847,000 passengers.  Categorized by the FAA as a small hub primary commercial service airport, McAllen International plays a huge role in the region because it facilitates cross-border travel, aiding the economic development of the Rio Grande Valley. It has attracted new businesses and industries and has become an agricultural transportation hub for the area. â It was recently expanded with funds from the FAA and TSA, adding 52,000 square feet to its terminal and multiple infrastructure and security improvements. â AeromÃ©xico Connect, Allegiant Air, American Airlines, American Eagle, United Airlines, and United Express serve it.Â  â The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, high-detail models, and performance-friendly optimization. â Itâs available onÂ SimMarketÂ for roughly $8.53, requiring at least 1.39 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-11-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rfsdza</id>
     <title>RFscenerybuilding Releases Zagreb Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654ce8dc0a9404696ff00894_osl.jpg" rel="enclosure" type="image/jpeg" length="712039"/>
     <summary>Sim: MSFS. Jo Erlend hasÂ recently previewedÂ the progress on the Oslo Gardermoen Airport (ENGM) rendition for Microsoft Flight Simulator, the busiest airport in Norway with 30 million passengers yearly.Â   Oslo Gardermoen is the main airport serving Oslo, located approximately 47 kilometers northeast of the city center and opened in 1998 as a replacement for the outdated Fornebu Airport, which had been operating since 1939. It was built to modernize and expand Norwayâs airport infrastructure and improve accessibility to the capital city, quickly becoming the Main hub for domestic and international travel in the Country.Â   The new previews showcase the progress made on the eastern technical area with its many maintenance hangars, catering centers, etc.    There is no price or release date information yet, but Threshold will keep you updated!</summary>
     <published>2023-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fseveg</id>
+    <title>FlightSimExpo Releases Initial 2024 Event Schedule and Travel Details</title>
+    <updated>2023-11-13T00:00:00+00:00</updated>
+    <link href="/news/fseveg" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65526ffb85352f31a737e7f2_fsexpo.jpg" rel="enclosure" type="image/jpeg" length="657733"/>
+    <summary>Sim: OTHER. FlightSimExpo has shared the initial event schedule for 2024, along with travel details and a cost breakdown for attendees staying on property at Tropicana Las Vegas.Â   The event starts on Friday, June 21, with a series of seminars and announcements from some of the biggest developers, with a welcome reception at night featuring light fare and a free drink. On Saturday and Sunday, attendees can access a 40,000+ square foot exhibit hall with the latest and greatest in flight simulation hardware and software.Â   The organizers invite members, content creators, and developers to apply to host a seminar or panel discussion at the show. They can applyÂ here.Â   There will be activities on the days surrounding the event, including air traffic control facility tours, planespotting trips, and more.  They have negotiated significantly discounted hotel rooms for attendees wishing to stay at Tropicana Las Vegas, with rates varying from $75 for Thursday and Sunday nights to $155 for Friday and Saturday, plus taxes and a resort fee. The all-in price for Thursday to Sunday is around $188/night. It also includes in-room bottled water, wireless internet for up to five devices, and free parking in designated areas. To book, visit FlightSimExpoâs websiteÂ here. Phil Coyle, FSAâs co-founder, reminds everyone that the room rates are subject to availability, urging people to book early if possible.  They have also negotiated with Delta, United, and codeshare partners, with up to 10% in savings available on hundreds of domestic and international flights.   The event registration will open in December, costing $50 for a limited time, exclusive to FSA members. ClickÂ hereÂ to become a member, free of charge.</summary>
+    <published>2023-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/barbuc</id>
+    <title>Barelli MSFS Addon Releases Bucharest Airport for MSFS</title>
+    <updated>2023-11-13T00:00:00+00:00</updated>
+    <link href="/news/barbuc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/655279e1e64737911f69c59b_buc.jpg" rel="enclosure" type="image/jpeg" length="477450"/>
+    <summary>Sim: MSFS. Barelli MSFS Addon has recently released their rendition of Bucharest Henri CoandÄ International Airport (LROP) for Microsoft Flight Simulator, serving Bucharestâs metropolitan area with a yearly average of 12 million passengers.  It was used as an airbase by the Germans during World War 2 and then taken over by the Romanian Air Force afterward until its conversion into a commercial airport in 1965, followed by heavy modernization and expansion (the new runway was one of the longest in Europe at the time).  A VIP lounge was inaugurated in 1969 for Richard Nixonâs visit (American president), and a new passenger terminal was inaugurated in the following year, with a total capacity of 1,200,000 passengers per year for domestic and international flights.  It underwent a three-phase expansion program in the 90s, starting with constructing a new departure terminal and airside concourse. The second phase led to the construction of a domestic terminal, a control tower overhaul, and the transformation of the old terminal building into a dedicated arrivals hall. The third and final phase involved the extension of the airside concourse with fifteen new gates and a departure hall expansion. Both expansions added 55,600 square meters to the terminalâs total area.  Itâs a hub for Animawings, HiSky, Ryanair, TAROM, and WizzAir. The visitorsâ list includes Aegean Airlines, Air France, Austrian Airlines, British Airways, Eurowings, KLM, LOT, Lufthansa, Qatar, Swiss, and Turkish Airlines.  The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, an up-to-date ground layout, and more.   Itâs available onÂ SimMarketÂ for roughly $18.37, requiring at least 166.49 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfsthu</id>
+    <title>MFSG Releases Thunder Bay International Airport for MSFS</title>
+    <updated>2023-11-13T00:00:00+00:00</updated>
+    <link href="/news/mfsthu" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/655298f66cb740cfc125fa6b_thunder.jpg" rel="enclosure" type="image/jpeg" length="628993"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Thunder Bay International Airport (CYQT) for Microsoft Flight Simulator, serving the city of Thunder Bay in Ontario, Canada, with a yearly average of 800,000 passengers.  It was built in 1938 as an unemployment relieving strategy, housing the No. 2 Elementary Flying Training School during World War 2, part of the British Commonwealth Air Training Plan.Â   It was heavily renovated in 1994 by constructing a new airport terminal with two jetways, a large food court, a gift shop, and an arcade.  The government handed over ownership to the Thunder Bay International Airports Authority in 1997, a non-profit organization.Â   Air Canada Express, Air Canada Rouge, Bearskin Airlines, Flair Airlines, North Star Air, Porter Airlines, Sunwing Airlines, Superior Airways, Wasaya Airways, WestJet, and WestJet Europe serve it.  The scenery features an accurate rendition of the airport, with a custom ground poly, custom jetways, ai-traffic compatibility, performance-friendly optimization, and more.   Itâs available onÂ SimMarketÂ for roughly $13.89, requiring at least 45.41 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-11-13T00:00:00+00:00</published>
   </entry>
 </feed>
