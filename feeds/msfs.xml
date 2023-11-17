@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-11-16T18:22:55.550965+00:00</updated>
+  <updated>2023-11-17T18:23:05.890180+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/november-2nd-2023-development-update/</id>
-    <title>November 2nd 2023, Development Update</title>
-    <updated>2023-11-02T23:25:48+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-2nd-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/Parorng-Forums-1024x575.jpeg" rel="enclosure" type="image/jpeg" length="35522"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!We started the week by launching a pre-release test build (1.35.13.0) of the upcoming Sim Update 14. If you’d like to read a list of the bug fixes … Continued</summary>
-    <published>2023-11-02T23:25:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xv-nordics-greenland/</id>
     <title>Microsoft Flight Simulator Releases World Update XV: Nordics &amp; Greenland</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/KnackBretzel-Forum-1024x288.jpg" rel="enclosure" type="image/jpeg" length="28959"/>
     <summary>Earlier this week, we released World Update XV: Nordics &amp; Greenland. This region contains some of the most stunningly beautiful natural scenery found anywhere in the world. You can see the full list of new content in our forum post here. World Update XV is available as a FREE download from the in-sim Marketplace now.</summary>
     <published>2023-11-09T23:45:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-16th-2023-development-update/</id>
+    <title>November 16th, 2023 Development Update</title>
+    <updated>2023-11-16T23:24:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-16th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/@ukaka5656-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="77476"/>
+    <summary>We released a new pre-release test build (1.35.15.0) for the Sim Update 14 beta on Monday. You can read the release notes on our forums here. If you would like to enroll in the beta test (available for PC/MS Store, PC/Steam, and Xbox Series X|S), you can find instructions here.</summary>
+    <published>2023-11-16T23:24:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
