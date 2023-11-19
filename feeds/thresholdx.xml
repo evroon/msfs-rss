@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-18T18:20:52.470086+00:00</updated>
+  <updated>2023-11-19T18:20:47.152494+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a2ac14</id>
-    <title>A2A Simulations Updates Comanche 250 for MSFS</title>
-    <updated>2023-11-08T00:00:00+00:00</updated>
-    <link href="/news/a2ac14" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654bbfdf422e19d9529a6036_comanche.jpg" rel="enclosure" type="image/jpeg" length="772939"/>
-    <summary>Sim: MSFS. A2A Simulations has recently issued a new update to their Accu-Sim Comanche 250 for Microsoft Flight Simulator, bringing changes to the sound system and multiple bug fixes.  Update 1.4, the fourth so far, restores proper engine preheater functionality, changes the sound system to Wwise (making it so it all runs within the simulator and the volume control is now shared with MSFS), fixes point and drag behavior with the gamepad, and more. The complete list of changes follows below: Version 1.4.0 Changes   The add-on is available on theirÂ storeÂ for $49.99, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-11-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/eyvian</id>
-    <title>Eyevionics, an Innovation in Home Cockpit Software, Announced</title>
-    <updated>2023-11-08T00:00:00+00:00</updated>
-    <link href="/news/eyvian" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654bcaee5318fec17aa936fa_eyevionics_fb_hd.png" rel="enclosure" type="image/png" length="2824044"/>
-    <summary>Sim: MSFS. Eyevionics, a new entrant into the home cockpit space, has been announced. Intended to integrate with MSFS, it brings multiple facets of a glass cockpit to mobile devices like the iPad. Â  â Addressing the lack of any proper glass cockpit solution for MSFS on external monitors, Eyevionics integrates many aspects of the cockpit into one, such as the PFD, MFD, and EFIS. According to the appâs creator, Fabian Lauer, the goal for Eyevionics is âto start an app on one, two, three devices, set up its user interface for the flight you want to fly with a few touches and then just go fly.â  Eyevionics is still in active development, but boasts an ever-growing list of features already implemented into the app, which include: â Many features are still under development for the app, such as: â Eyevionics is planned to release initially with support for iOS, as well as Android tablets, and expect to release sometime in 2024.  For more information, and further announcements, visit eyevionics.eu, or their X (formerly Twitter) account here.  â As of the time of writing, no pricing information has been announced, but Threshold will keep you informed as announcements come out about this exciting new entrant into the home cockpit space! </summary>
-    <published>2023-11-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbns3</id>
-    <title>Orbx Releases Idahoâs âNot So Deadly 3â Pack for MSFS</title>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="/news/orbns3" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654ce6042d7cc0b98829ae75_ns3.png" rel="enclosure" type="image/png" length="1131321"/>
-    <summary>Sim: MSFS. Orbx has recently released a new set of backcountry airstrips: Cabin Creek, Wilson Bar, and Marble Creek, all in Idaho. The ânot so deadlyâ name alludes to the previously released - and much deadlier - Deadly 3.Â   Cabin CreekÂ is in the Frank Church River of No Return Wilderness, with an airstrip surface susceptible to water and prop wash erosion. Measures were taken to minimize water erosion, such as installing water bars, but it hasnât mitigated the erosive effect of prop wash. Itâs a 1,750-foot-long dirt strip, requiring proficiency in mountain flying due to the challenging nature of the surroundings.  Wilson BarÂ is a simple turf strip with 1,500ft of total length. It is very close to the MacKay Bar airstrip and their campground.  Marble CreekÂ has a 1,160-foot-long bumpy strip, with soft sandy soil for the first 400 feet on runway 4, followed by large bumps that reduce braking effectiveness. A hill on the south end of the runway will make it hard to land on 04, and runway 22 is over a large hill. Itâs short, challenging, and surrounded by tricky terrain.  Developed by Milo Taylor, who also made the Deadly 3 and McCall Municipal Airport, the pack features three landing spots with varying degrees of difficulty, with an extensive vegetation library, new animated animals and birds, new effects, and more.  The scenery is available onÂ OrbxDirectÂ for roughly $12.77, requiring at least 1 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-11-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/joeosl</id>
     <title>Aerosoft Previews Oslo Gardermoen for MSFS</title>
@@ -150,6 +123,33 @@
     <link href="/news/p42cri" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/655809809be58c8d393a8f13_12_86be9029-fc0e-4149-b187-63a2e3d646dd.webp" rel="enclosure" type="image/webp" length="73666"/>
     <summary>Sim: MSFS. Parallel 42 is recognized for creating innovative and sensational airstrip scenes and environments for Microsoft Flight Simulator has released a new scenery add on Cheat River Island. Cheat River Island, a small grass airstrip located within the Allegheny Mountains that hosts the Cheat River Fly-Ins. According to Parallel 42, "this isnt your ordinary airstrip." The scenic location is situated on a river island and offers a variety of immersive features and animations that bring the simulation to life. The turf airstrip adds to the challenge, testing your bush flying skills. Apart from flying, Parallel 42 offers much more with the //42 Campout Utility, which lets you camp out on the island airstrip and enjoy additional entertainment. Features include custom animations like animated ziplines, lawnmower event with custom sounds, various micro scenes located around the area. The scenery also includes over six miles of road designed for their recent Juice Goose all terrain vehicle. The package also includes a bonus airstrip within the vicinity. You can purchase the Cheat River Island Scene for your PC for $12.99 from their website/Orbx, and it will soon be available on the Flight Simulator Marketplace, including Xbox.â Check out the newly released trailer here on YouTube. To learn more about the Cheat River Island Scene, see the Parallel 42 website via this link. Make sure to stay tuned to Threshold for more flight simulation news and updates!</summary>
+    <published>2023-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f14btc</id>
+    <title>"ON MIGHTY WINGS" Heatblur and Indiafoxtecho releases new F14 trailer.</title>
+    <updated>2023-11-18T00:00:00+00:00</updated>
+    <link href="/news/f14btc" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65591f44f4af37fcb6399193_I_b2abhiBwwhd%20(1).jpg" rel="enclosure" type="image/jpeg" length="117419"/>
+    <summary>Sim: MSFS. Heatblur Simulations/Indiafoxtecho, the team behind the exceptional recreation of the F-14 in DCS, has just released a new trailer for "ON MIGHTY WINGS," which features the highly anticipated F14 Tomcat for Microsoft Flight Simulator. The two developers have collaborated to provide the most accurate rendition of the F-14 Tomcat ever created for Flight Simulator, with over a decade of development and research resulting in a highly detailed flight model for the aircraft. The Tomcat features custom systems, photogrammetry, and laser scanning for interior and exterior modeling accuracy. The trailer showcases the Tomcat's aerodynamic effects, sounds, and flight model, putting it on the "final approach" for release. With no official release date announced yet, Indiafoxtecho has hinted that "it should be a question of weeks," indicating a possible release before the end of the year. To read more on the Tomcat development, check out Their Facebook pages here. Heatblur SimulationsÂ Indiafoxtecho  As usual, stay tuned to Threshold for more flight simulation news and updates! â</summary>
+    <published>2023-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmd777</id>
+    <title>PMDG Publishes Development Update for MSFS</title>
+    <updated>2023-11-18T00:00:00+00:00</updated>
+    <link href="/news/pmd777" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6559367fbfec72de3e60b985_1250410_20231117211153_1.png" rel="enclosure" type="image/png" length="1847404"/>
+    <summary>Sim: MSFS. PMDG has recently published a new development update with information on the next 737 Lineup update, marketplace intake, and the upcoming 777 for Microsoft Flight Simulator.  The next update for the 737 lineup is already with their testing team for validation, including new features developed in the background and now ready, along with structural changes that aim to improve the tablet's stability within the MSFS environment.Â   PMDG has added data interoperability between the airplane and tablet, allowing users to see route changes reflected in the tablet's live map and providing increased situational awareness.  As it has been the norm since build 3.00.0080, the upcoming update will focus on the Universal Flight Tablet alone. The complete changelog follows below: 0012722: [EFB - General] Metars stop functioning between 0000z and 0100z (rmurdoch) 0012788: [EFB - General] PMDG map tiles names are fuzzy (rmurdoch) 0012777: [EFB - General] Fully convert to JSON for tablet-plane comms (rmurdoch) 0012782: [EFB - General] UFT 1.2 "New route loaded" message appears too often (rmurdoch) 0012475: [EFB - Simbrief] CO RTE field not showing CO RTE name (cbpowell) 0012783: [EFB - Performance and Computational] Arrival Airport Calls for Runway, not ICAO code. (cbpowell) 0012792: [EFB - Performance and Computational] Imported Flight plan times do not match Simbrief (cbpowell) 0012645: [EFB - General] Tablet map should pick up changes made on the FMS (rmurdoch) 0012692: [EFB - Performance and Computational] Landing Dispatch Data should be imported into Landing Enroute fields (cbpowell) 0012775: [EFB - General] Tablet namespace differentiation still not working correctly (rmurdoch) â They plan to release the update for PMDG.com customers around the final week of November.Â   Build 3.00.0082 has been submitted to Microsoft for the intake process, and PMDG believes it should become available sometime next week (Microsoft's intake process is not an exact science).  The Xbox version of the aforementioned build will take longer, as PMDG found issues with some key functions and is working with Microsoft and Asobo to find a solution.  The upcoming 777 is still being worked on, with PMDG's focus on handling characteristics and system validation. They claim it hasn't been previewed yet because they have been packing details and features into the new product that will demand time to get to where they want and that the previewing process will begin once it's nearing entering testing. PMDG believes this extra attention to development will yield a shorter testing cycle.  The current PMDG lineup for Microsoft Flight Simulator is available on theirÂ website, ranging from $34.99 to $69.99.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hc02v1</id>
+    <title>VSKYLABS releases v1.1 of the Hungarocopter</title>
+    <updated>2023-11-18T00:00:00+00:00</updated>
+    <link href="/news/hc02v1" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65593eab033a144645213e5e_403180543_1098231718245415_2795124046560015045_n.jpg" rel="enclosure" type="image/jpeg" length="553183"/>
+    <summary>Sim: X-Plane. VSKYLABS announced the development of the HC-02 in early March of this year. The early access phase for the model has recently been completed. The HC-02 model was built using an actual HC-02 as a reference, with the team working steadily on the project. Real-world feedback was obtained from HC-02 pilots to create the most realistic flight model possible for the aircraft. The Hungarocopter, designed in Hungary, is an ultralight helicopter that uses the latest design technologies and construction methods. The HC-02 is powered by a Rotax 915, which can produce up to 141 Hp, allowing it to reach cruise speeds of 87 knots. With room for two people, the helicopter has a maximum range of 400km and an endurance of 2.5 hours. VSKYLABS has spent extensive time modeling the cockpit with detail and accuracy to give VR headset users a feeling of being inside the cockpit. VSKYLABS also brought all new first simulated systems to X-Plane, such as the Electric Rescue System. According to VSKYLABS, the ERS is a  The HC-02 offers several features, including Avitab compatibility and a custom FMOD sound pack. The V1.1 update improves flight dynamics, displays, interaction, and visual model. The FMOD sound pack is now updated with additional sounds as well. The Hungarocopter is compatible with X-Plane 11/12 and is available at X-Plane.org store for $19.47 and VSKYLABS.com for $18.85. These prices are still valid as of November 18th, 2023. As usual stay tuned to Threshold for more flight simulation news and updates! </summary>
     <published>2023-11-18T00:00:00+00:00</published>
   </entry>
 </feed>
