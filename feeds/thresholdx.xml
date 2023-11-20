@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-19T18:20:47.152494+00:00</updated>
+  <updated>2023-11-20T18:23:02.627249+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/joeosl</id>
-    <title>Aerosoft Previews Oslo Gardermoen for MSFS</title>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="/news/joeosl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/654ce8dc0a9404696ff00894_osl.jpg" rel="enclosure" type="image/jpeg" length="712039"/>
-    <summary>Sim: MSFS. Jo Erlend hasÂ recently previewedÂ the progress on the Oslo Gardermoen Airport (ENGM) rendition for Microsoft Flight Simulator, the busiest airport in Norway with 30 million passengers yearly.Â   Oslo Gardermoen is the main airport serving Oslo, located approximately 47 kilometers northeast of the city center and opened in 1998 as a replacement for the outdated Fornebu Airport, which had been operating since 1939. It was built to modernize and expand Norwayâs airport infrastructure and improve accessibility to the capital city, quickly becoming the Main hub for domestic and international travel in the Country.Â   The new previews showcase the progress made on the eastern technical area with its many maintenance hangars, catering centers, etc.    There is no price or release date information yet, but Threshold will keep you updated!</summary>
-    <published>2023-11-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fseveg</id>
-    <title>FlightSimExpo Releases Initial 2024 Event Schedule and Travel Details</title>
-    <updated>2023-11-13T00:00:00+00:00</updated>
-    <link href="/news/fseveg" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65526ffb85352f31a737e7f2_fsexpo.jpg" rel="enclosure" type="image/jpeg" length="657733"/>
-    <summary>Sim: OTHER. FlightSimExpo has shared the initial event schedule for 2024, along with travel details and a cost breakdown for attendees staying on property at Tropicana Las Vegas.Â   The event starts on Friday, June 21, with a series of seminars and announcements from some of the biggest developers, with a welcome reception at night featuring light fare and a free drink. On Saturday and Sunday, attendees can access a 40,000+ square foot exhibit hall with the latest and greatest in flight simulation hardware and software.Â   The organizers invite members, content creators, and developers to apply to host a seminar or panel discussion at the show. They can applyÂ here.Â   There will be activities on the days surrounding the event, including air traffic control facility tours, planespotting trips, and more.  They have negotiated significantly discounted hotel rooms for attendees wishing to stay at Tropicana Las Vegas, with rates varying from $75 for Thursday and Sunday nights to $155 for Friday and Saturday, plus taxes and a resort fee. The all-in price for Thursday to Sunday is around $188/night. It also includes in-room bottled water, wireless internet for up to five devices, and free parking in designated areas. To book, visit FlightSimExpoâs websiteÂ here. Phil Coyle, FSAâs co-founder, reminds everyone that the room rates are subject to availability, urging people to book early if possible.  They have also negotiated with Delta, United, and codeshare partners, with up to 10% in savings available on hundreds of domestic and international flights.   The event registration will open in December, costing $50 for a limited time, exclusive to FSA members. ClickÂ hereÂ to become a member, free of charge.</summary>
-    <published>2023-11-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/barbuc</id>
     <title>Barelli MSFS Addon Releases Bucharest Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65593eab033a144645213e5e_403180543_1098231718245415_2795124046560015045_n.jpg" rel="enclosure" type="image/jpeg" length="553183"/>
     <summary>Sim: X-Plane. VSKYLABS announced the development of the HC-02 in early March of this year. The early access phase for the model has recently been completed. The HC-02 model was built using an actual HC-02 as a reference, with the team working steadily on the project. Real-world feedback was obtained from HC-02 pilots to create the most realistic flight model possible for the aircraft. The Hungarocopter, designed in Hungary, is an ultralight helicopter that uses the latest design technologies and construction methods. The HC-02 is powered by a Rotax 915, which can produce up to 141 Hp, allowing it to reach cruise speeds of 87 knots. With room for two people, the helicopter has a maximum range of 400km and an endurance of 2.5 hours. VSKYLABS has spent extensive time modeling the cockpit with detail and accuracy to give VR headset users a feeling of being inside the cockpit. VSKYLABS also brought all new first simulated systems to X-Plane, such as the Electric Rescue System. According to VSKYLABS, the ERS is a  The HC-02 offers several features, including Avitab compatibility and a custom FMOD sound pack. The V1.1 update improves flight dynamics, displays, interaction, and visual model. The FMOD sound pack is now updated with additional sounds as well. The Hungarocopter is compatible with X-Plane 11/12 and is available at X-Plane.org store for $19.47 and VSKYLABS.com for $18.85. These prices are still valid as of November 18th, 2023. As usual stay tuned to Threshold for more flight simulation news and updates! </summary>
     <published>2023-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfldmi</id>
+    <title>SiamFlight Releases Don Mueang International Airport for MSFS</title>
+    <updated>2023-11-19T00:00:00+00:00</updated>
+    <link href="/news/sfldmi" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/655a81f88a7261e2a904a19b_vtbd.jpg" rel="enclosure" type="image/jpeg" length="634522"/>
+    <summary>Sim: MSFS. SiamFlight has recently released their rendition of Don Mueang International Airport (VTBD) for Microsoft Flight Simulator, serving the Bangkok Metropolitan Region with a yearly average of 16 million passengers.  Built in 1914 as a Royal Thai Air Force base, itâs considered one of the oldest international airports and Asiaâs oldest operating airport, with its commercial operations starting in 1924, almost a century ago. â It used to be Bangkokâs main airport until the inauguration of Suvarnabhumi Airport in 2006, which took most of the traffic. It has become a low-cost airline hub, becoming the largest of its kind since 2015. â It has two terminals, with T1 being utilized for international flights and T2 for domestic. Terminal 3 has been abandoned for over a decade, but there are plans to rebuild it by 2029, with a total capacity of 10 million passengers yearly. â Itâs a hub for Nok Air and an operating base for Thai AirAsia and Thai Lion Air. The visitorsâ list includes 9 Air, Air Macau, Bangkok Airways, Batik Air, Batik Air Malaysia, China Express Airlines, China Southern Airlines, Firefly, Juneyao Air, Korean Air, Myanmar Airways International, Okay Airways, Qingdao Airlines, Sky Angkor Airlines, Spring Airlines, Tigerair Taiwan, Tâway Air, and Vietnam Airlines. â The scenery features an accurate rendition of the airport, with custom ground textures, custom animated jetways, up-to-date ground layout, landside buildings, south cargo terminals, and more. Future updates will add more landmarks, terminal interiors, and an animated train. â Itâs available onÂ SimMarketÂ for roughly $19.56, requiring at least 364.76 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/miltech-simulations-showcases-ch47-development-update</id>
+    <title>Miltech Simulations Showcases CH47 Development Update</title>
+    <updated>2023-11-20T00:00:00+00:00</updated>
+    <link href="/news/miltech-simulations-showcases-ch47-development-update" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/655b219d306128e1b169c5bd_384749766_320535503819592_1456714515925682622_n.jpg" rel="enclosure" type="image/jpeg" length="250884"/>
+    <summary>Sim: MSFS. Miltech Simulations has provided a development update for their Boeing CH-47D Chinook. The update, which was posted to their Facebook page, highlights their recent focus on finishing the 3D model and texturing and also includes some new screenshots of the interior texturing.Â  The CH-47D Chinook is a tandem-rotor transport helicopter first developed by Vertol in 1957 and later manufactured by Boeing. The CH-47D has a maximum take-off weight of 50,000 lbs and a range of 400 nautical miles. Production started on the CH-47 in 1962 and continues to this day.Â  â Miltech also noted some features to be expected upon release of the CH-47 including a fully modeled interior and exterior, multiple cargo types from Humvees to fully animated paratroopers, and a âcomprehensive yet practical renditionâ of the Chinookâs systems. Miltech has been very upfront about some systems being âfor display onlyâ due to Microsoft Flight Simulatorâs limitations. Miltech also promises that an EFB will be included at launch. Another feature that was noted in the update is the inclusion of a soundtrack that is based on recordings from a Chinook. The update included a look at possibilities post-release including an expansion pack that would add other variants of the Chinook including the more modern âFâ variant. Currently, there is no release date set however Miltech states that PC users will see the release first with Xbox following shortly after. The stated reason for the planned delay is due to Microsoft's marketplace verification. Stay tuned to Threshold for more flight sim updates! â</summary>
+    <published>2023-11-20T00:00:00+00:00</published>
   </entry>
 </feed>
