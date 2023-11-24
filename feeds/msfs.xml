@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-11-23T18:21:58.223460+00:00</updated>
+  <updated>2023-11-24T18:21:56.408960+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xv-nordics-greenland/</id>
-    <title>Microsoft Flight Simulator Releases World Update XV: Nordics &amp; Greenland</title>
-    <updated>2023-11-07T16:09:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-world-update-xv-nordics-greenland/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/MSFS_WU15_HeroShot-1024x581.jpg" rel="enclosure" type="image/jpeg" length="142653"/>
-    <summary>Simmers will experience the gorgeous expanse of the Nordic countries and Greenland in stunningly vibrant detail!The Microsoft Flight Simulator team is excited to feature this storied part of the globe with sweeping improvements in this latest release. World Update XV covers Denmark, Finland, Iceland, Norway, Sweden, and also includes the Faroe Islands and Greenland (both … Continued</summary>
-    <published>2023-11-07T16:09:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-13-the-saab-b-17a/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 13: The Saab B 17A</title>
-    <updated>2023-11-07T18:03:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-13-the-saab-b-17a/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/MSFS_Saab17_NoSnipe_NoLogo_NoText-2-1024x576.png" rel="enclosure" type="image/png" length="265216"/>
-    <summary>The Saab B 17A, a pillar of Swedish aerospace history from the early 1940s, is now available for Microsoft Flight Simulator users to explore the skies.﻿BORN OF SWEDISH INNOVATIONThe B 17A, a Swedish single-engine, two-seat dive bomber, traces its lineage to the birth of Saab (Svenska Aeroplan AktieBolag), one of the world’s leading aerospace and … Continued</summary>
-    <published>2023-11-07T18:03:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xv-sale/</id>
     <title>World Update XV Sale</title>
@@ -52,6 +34,24 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/@ukaka5656-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="77476"/>
     <summary>We released a new pre-release test build (1.35.15.0) for the Sim Update 14 beta on Monday. You can read the release notes on our forums here. If you would like to enroll in the beta test (available for PC/MS Store, PC/Steam, and Xbox Series X|S), you can find instructions here.</summary>
     <published>2023-11-16T23:24:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/black-friday-sale-2023/</id>
+    <title>Black Friday Sale</title>
+    <updated>2023-11-23T18:33:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/black-friday-sale-2023/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/MSFS_BlackFridaySale2022_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122892"/>
+    <summary>For 5 Days starting on November 23rd, save up to 93% on more than 1750 items!</summary>
+    <published>2023-11-23T18:33:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-23rd-2023-development-update/</id>
+    <title>November 23rd, 2023 Development Update</title>
+    <updated>2023-11-23T20:08:45+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-23rd-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/Extabite1-Forums-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="47959"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user Extabite1! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Today (Thursday, November 23) is Thanksgiving Day in the United States. Many members of our team are celebrating this holiday by spending time with their families, so today’s … Continued</summary>
+    <published>2023-11-23T20:08:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
