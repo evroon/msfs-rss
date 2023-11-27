@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-11-26T18:20:20.875443+00:00</updated>
+  <updated>2023-11-27T18:22:47.918670+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/n2023</id>
-    <title>Navigraph Launches Community Survey 2023</title>
-    <updated>2023-11-17T00:00:00+00:00</updated>
-    <link href="/news/n2023" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6557b95f5d04da36719d8489_survey.png" rel="enclosure" type="image/png" length="150515"/>
-    <summary>Sim: OTHER. Navigraph has just launched the sixth edition of their FlightSim Community Survey, asking the community to answer questions ranging from their preferred flight simulation platform and add-ons to the hardware they use and why they simulate, providing a complete understanding of the modern flight sim demographic.Â   Averaging more than 20,000 respondents since the 2020 edition, the Survey has become the go-to reference for hardware metrics, given it differs massively compared to mainstream reference data such as the Steam Hardware Survey, which takes their entire user base into account. Focusing exclusively on flight simmers, it provides a more accurate image of the most popular hardware among virtual pilots.Â   It also sheds light on the most popular flight sim platform, intent (whether simulating just for fun or training for a pilotâs license), simulation proficiency, and how many of us are real-life pilots.Â   The Survey will run for ten days from today (November 17), and the results will be published on their website in December 2023. It is entirely GDPR compliant and fully anonymous, with no personally identifiable data being collected and no redirects.Â   ClickÂ hereÂ to participate in the worldâs most comprehensive flight simulation survey! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-11-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xwdpal</id>
-    <title>XWind Studios Releases Palmerston North Airport for MSFS</title>
-    <updated>2023-11-17T00:00:00+00:00</updated>
-    <link href="/news/xwdpal" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6557ca145131f75a6465ae03_palmy.webp" rel="enclosure" type="image/webp" length="557028"/>
-    <summary>Sim: MSFS. XWind Studios has recently released their rendition of Palmerston North Airport (NZPM) for Microsoft Flight Simulator, serving the city of Palmerston North and the Central North Island (ManawatÅ«-Whanganui) region with a yearly average of 652,000 passengers.  It was built in 1931 by the Milson Aerodrome Society, originally consisting of a grass runway made exclusively for private flights. Commercial operation started five years later with Union Airways. â After a brief period of being utilized as a military facility during World War 2, it was embraced by National Airways Corporation for scheduled service, leading to the construction of a proper runway and a terminal building.Â   The 1990s brought a new terminal and taxiway, with Freedom Air launching regular international flights to Brisbane and Sydney right after the work was done.  Air New Zealand (Auckland, Christchurch) and Originair (Hamilton, Nelson, and Wellington) currently serve it.Â   The scenery features an accurate rendition of the airport, with high-detail imagery, custom ground poly, a detailed terminal interior, PBR models, 4K textures, an up-to-date ground layout, and more.  Itâs available on theÂ iniBuilds StoreÂ for roughly $12.40, requiring at least 4.43 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/spitfi</id>
     <title>Flight Replicas releases the Supermarine Spitfire for FS2020</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6561238366e6d436424a547f_392788910_804891734971842_7296539669171357453_n.jpg" rel="enclosure" type="image/jpeg" length="448005"/>
     <summary>Sim: MSFS. Simworks Studios has finally announced the much-awaited release date of their new Platus PC 12. The official release time is scheduled for Wednesday, December 6, at 12:00GMT. The aircraft will be available for download on the Simworks Studios website and the Microsoft Flight Simulator Marketplace as soon as approved. Simworks has indicated that the console version will be released later due to some issues that the team has been addressing. This PC12 will be Simwork's most complex flight model, custom in-house avionics, and engine model, making it the most complete add-on ever released by Simworks. They have promised to keep updating the PC12 over time. The team is currently working on the manual to have it available for release. Simworks is also working on the failure expansion models to allow failures to occur organically while being more "portable" to future aircraft projects. Moreover, they have mentioned ongoing discounts, stating that this is an excellent time to pick up other Simworks products. Make sure to stay tuned to Threshold for more flight simulation news and updates!</summary>
     <published>2023-11-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dddcia</id>
+    <title>DominicDesignTeam Releases Charleston International Airport for MSFS</title>
+    <updated>2023-11-27T00:00:00+00:00</updated>
+    <link href="/news/dddcia" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65641c996b5eb360c5a7f829_charle.jpg" rel="enclosure" type="image/jpeg" length="1565265"/>
+    <summary>Sim: MSFS. DominicDesignTeam has recently released their rendition of Charleston International Airport (KCHS) for Microsoft Flight Simulator, serving Charleston County with a yearly average of 5.3 million passengers.  â It was built in the late 1920s by the Charleston Airport Corporation on 280 hectares of land from a mining company, with help from the City of Charleston in the 30s (they purchased a part of the land for passenger service). Within a decade, the runways were paved and lit up for nighttime operations.Â   â Control was briefly handed over to the US Army during WW2, but civilian services continued throughout the war.Â   â In 1949, a new passenger terminal was built from scratch. â It was once again handed over to the Army during the Korean War, with the city and the USAF reaching an agreement that has been renegotiated over time (and continues to this day).Â  â Boeing built a 787 manufacturing plant in 2009, with the first completed aircraft rolling out of the assembly line in early 2012.Â  â The passenger terminal has recently been overhauled, with a complete interior renovation and the construction of five new gates.Â  â Air Canada Express, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Southwest Airlines, Spirit Airlines, Sun Country Airlines, United Airlines, and United Express serve it. â The scenery features an accurate rendition of the airport, with PBR textures, dynamic lighting, real ground markings, custom ground textures, custom jetways, and more.  â Itâs available onÂ SimMarketÂ for roughly $19.10, requiring at least 1.22 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2023-11-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ae1000</id>
+    <title>Aerobask releases the E1000 for X-Plane 12</title>
+    <updated>2023-11-27T00:00:00+00:00</updated>
+    <link href="/news/ae1000" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6564d1ed9136a848f5ee9d2a_405770034_825327319389923_440592706304683165_n.jpg" rel="enclosure" type="image/jpeg" length="362804"/>
+    <summary>Sim: X-Plane. The E1000, built by Epic Aircraft in Bend, Oregon, is a sleek single-engine turboprop powered by Prat and Whitiney's renowned PT6A. Epic aimed to create the fastest single-engine civil aircraft during the time of its introduction and production. The PT6A-67 puts out 1,200 hp with a four-bladed Hartzell prop attached, bringing this aircraft to a maximum speed of 333 knots and a service ceiling of 34,000 feet. With a pressurized cabin the E1000 can transport five comfortably in club seating arrangements while achieving a 1560 NM range. The airframe uses composites to save weight, increasing performance.  â â You can now experience jet-like speeds and altitudes with Aerobask's recreation of the E1000 for X-Plane 12. Aerobask focused on the flight model in team with X-Aerodynamics, allowing the sim model to match the latest prototype certification performance metrics. The visual model includes 4k PBR textures and a wholly remodeled airframe that's packaged with eight liveries.  â The aircraft's avionics are powered by Laminar's version of the Garmin G1000 suite and work together with the GFC700 autopilot. The PT6A comes with custom parameters to resemble its real-world counterpart. The systems and operational procedures match the functional circuit breakers of the actual aircraft, and a fully simulated EIS500 Stand-by Attitude Module is also included. â Ease of use features an Avitab tablet for controlling various options on the aircraft. To learn more about Aerobask's Epic 1000, see their X-Plane.org listing, website, or Facebook in the links below. The Epic E1000 is currently on sale as of 11/27/2023 for 22.72 (regular pricing 34.95). â As usual stay tuned to Threshold for more flight simulation news and updates!</summary>
+    <published>2023-11-27T00:00:00+00:00</published>
   </entry>
 </feed>
