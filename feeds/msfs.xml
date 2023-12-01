@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-11-30T18:22:45.882706+00:00</updated>
+  <updated>2023-12-01T18:22:38.512199+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-xv-sale/</id>
-    <title>World Update XV Sale</title>
-    <updated>2023-11-07T18:11:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-xv-sale/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/MSFS_WU15_Sale_v1_1920x1080-1-1024x576.jpg" rel="enclosure" type="image/jpeg" length="138009"/>
-    <summary>For six days starting on April November 7th save up to 71% on 59 items!</summary>
-    <published>2023-11-07T18:11:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-9th-2023-development-update/</id>
     <title>November 9th, 2023 Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/Extabite1-Forums-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="47959"/>
     <summary>This week’s Screenshot Challenge winner is Forum user Extabite1! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Today (Thursday, November 23) is Thanksgiving Day in the United States. Many members of our team are celebrating this holiday by spending time with their families, so today’s … Continued</summary>
     <published>2023-11-23T20:08:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-30th-2023-development-update/</id>
+    <title>November 30th, 2023 Development Update</title>
+    <updated>2023-11-30T23:24:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-30th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/ScenicAtol37419-Forums-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="47781"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user ScenicAtol37419! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!The release of Sim Update 14 is imminent, with a scheduled launch date of Tuesday, December 5! Earlier this week, we released a new SU_14 beta build (1.35.19.0) … Continued</summary>
+    <published>2023-11-30T23:24:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
