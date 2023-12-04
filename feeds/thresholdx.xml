@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-03T18:20:42.305438+00:00</updated>
+  <updated>2023-12-04T18:23:04.154667+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pc12sw</id>
-    <title>Simworks Studios announces the offical release date of the PC-12</title>
-    <updated>2023-11-24T00:00:00+00:00</updated>
-    <link href="/news/pc12sw" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6561238366e6d436424a547f_392788910_804891734971842_7296539669171357453_n.jpg" rel="enclosure" type="image/jpeg" length="448005"/>
-    <summary>Sim: MSFS. Simworks Studios has finally announced the much-awaited release date of their new Platus PC 12. The official release time is scheduled for Wednesday, December 6, at 12:00GMT. The aircraft will be available for download on the Simworks Studios website and the Microsoft Flight Simulator Marketplace as soon as approved. Simworks has indicated that the console version will be released later due to some issues that the team has been addressing. This PC12 will be Simwork's most complex flight model, custom in-house avionics, and engine model, making it the most complete add-on ever released by Simworks. They have promised to keep updating the PC12 over time. The team is currently working on the manual to have it available for release. Simworks is also working on the failure expansion models to allow failures to occur organically while being more "portable" to future aircraft projects. Moreover, they have mentioned ongoing discounts, stating that this is an excellent time to pick up other Simworks products. Make sure to stay tuned to Threshold for more flight simulation news and updates!</summary>
-    <published>2023-11-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dddcia</id>
     <title>DominicDesignTeam Releases Charleston International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656b8cc21ad6b55384be0a08_5_F100_Ext_5_MzSZJ3QCJ.webp" rel="enclosure" type="image/webp" length="79790"/>
     <summary>Sim: MSFS. Coming shortly after their recently released Avro Vulcan, Just Flight has posted an update on their website regarding their upcoming Fokker F100 and F70. The development update mainly highlights the door and cabin configurations available for the aircraft at launch. The Fokker F100 and F70 were developed from the earlier F28. Both airframes offer a larger cabin and payload than the F28 and updated avionics. The F100/F70 features 2 Rolls-Royce Tay Mk 650-15 or Mk 620-15 Turbofan engines. The larger of the two engine options has a thrust output of 67 kN which allows the F100 to cruise at Mach 0.77 for a maximum range of over 1700nm. The upcoming F100/F70 will include 4 different door options as well as an interior that is customizable through the included paint kit. Just Flight also teased a fan favourite feature from the F28 that will be making another appearance, and that is the music reproducer panel that allows users to use custom boarding music for the enjoyment of their virtual passengers. The update goes on to state that moving forward they will be working on fine-tuning the artwork of the aircraft as well as improving other things such as cabin lighting. Currently Just Flight have not revealed a planned release date or pricing. Be sure to keep an eye on Threshold to stay up to date on all your flight sim news!  </summary>
     <published>2023-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/csrh66</id>
+    <title>Cowan Simulation Announces Robinson R66</title>
+    <updated>2023-12-04T00:00:00+00:00</updated>
+    <link href="/news/csrh66" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656d662e7b1ec669df55c3e6_406397880_867915018667583_5861474370581973188_n.jpg" rel="enclosure" type="image/jpeg" length="253132"/>
+    <summary>Sim: MSFS. Renowned for their high-quality helicopter add-ons for both Microsoft Flight Simulator and X-Plane, Cowan Simulation (cowansim) has taken to their Facebook page to announce that their next project is a Robinson R66 for Microsoft Flight Simulator.Â  The Robinson R66 is the newest helicopter available from the famed helicopter manufacturer. With production starting in 2007, over 1000 R66s have been built to date. Powered by a Rolls-Royce RR300 Turboshaft engine paired to a two-bladed prop the R66 is operated by a single pilot and has room for up to 4 passengers or 1200 lbs of cargo. The R66 cruises at 110 knots and has a maximum range of 350 nm. The R66 is the only Robinson helicopter to feature a separate cargo hold.Â  The update on Cowanâs Facebook page didn't offer a ton of information about the upcoming helicopter but did feature several screenshots that show off different cockpit layouts. From the screenshots, it looks as though the R66 will come with both analogue gauges as well as glass panels including what looks to be a GTN 750. There's currently no information on pricing or a release date, however, the post did say that updates for their other projects âwill be released soon as wellâ.  Continue following Threshold to stay up to date on all things flight sim!</summary>
+    <published>2023-12-04T00:00:00+00:00</published>
   </entry>
 </feed>
