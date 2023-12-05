@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-04T18:23:04.154667+00:00</updated>
+  <updated>2023-12-05T18:21:46.627320+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dddcia</id>
-    <title>DominicDesignTeam Releases Charleston International Airport for MSFS</title>
-    <updated>2023-11-27T00:00:00+00:00</updated>
-    <link href="/news/dddcia" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65641c996b5eb360c5a7f829_charle.jpg" rel="enclosure" type="image/jpeg" length="1565265"/>
-    <summary>Sim: MSFS. DominicDesignTeam has recently released their rendition of Charleston International Airport (KCHS) for Microsoft Flight Simulator, serving Charleston County with a yearly average of 5.3 million passengers.  â It was built in the late 1920s by the Charleston Airport Corporation on 280 hectares of land from a mining company, with help from the City of Charleston in the 30s (they purchased a part of the land for passenger service). Within a decade, the runways were paved and lit up for nighttime operations.Â   â Control was briefly handed over to the US Army during WW2, but civilian services continued throughout the war.Â   â In 1949, a new passenger terminal was built from scratch. â It was once again handed over to the Army during the Korean War, with the city and the USAF reaching an agreement that has been renegotiated over time (and continues to this day).Â  â Boeing built a 787 manufacturing plant in 2009, with the first completed aircraft rolling out of the assembly line in early 2012.Â  â The passenger terminal has recently been overhauled, with a complete interior renovation and the construction of five new gates.Â  â Air Canada Express, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Southwest Airlines, Spirit Airlines, Sun Country Airlines, United Airlines, and United Express serve it. â The scenery features an accurate rendition of the airport, with PBR textures, dynamic lighting, real ground markings, custom ground textures, custom jetways, and more.  â Itâs available onÂ SimMarketÂ for roughly $19.10, requiring at least 1.22 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2023-11-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ae1000</id>
     <title>Aerobask releases the E1000 for X-Plane 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/csrh66" rel="alternate"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656d662e7b1ec669df55c3e6_406397880_867915018667583_5861474370581973188_n.jpg" rel="enclosure" type="image/jpeg" length="253132"/>
     <summary>Sim: MSFS. Renowned for their high-quality helicopter add-ons for both Microsoft Flight Simulator and X-Plane, Cowan Simulation (cowansim) has taken to their Facebook page to announce that their next project is a Robinson R66 for Microsoft Flight Simulator.Â  The Robinson R66 is the newest helicopter available from the famed helicopter manufacturer. With production starting in 2007, over 1000 R66s have been built to date. Powered by a Rolls-Royce RR300 Turboshaft engine paired to a two-bladed prop the R66 is operated by a single pilot and has room for up to 4 passengers or 1200 lbs of cargo. The R66 cruises at 110 knots and has a maximum range of 350 nm. The R66 is the only Robinson helicopter to feature a separate cargo hold.Â  The update on Cowanâs Facebook page didn't offer a ton of information about the upcoming helicopter but did feature several screenshots that show off different cockpit layouts. From the screenshots, it looks as though the R66 will come with both analogue gauges as well as glass panels including what looks to be a GTN 750. There's currently no information on pricing or a release date, however, the post did say that updates for their other projects âwill be released soon as wellâ.  Continue following Threshold to stay up to date on all things flight sim!</summary>
+    <published>2023-12-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbdgzk</id>
+    <title>Burning Blue Designs Releases Stow Marie Great War Aerodrome</title>
+    <updated>2023-12-04T00:00:00+00:00</updated>
+    <link href="/news/bbdgzk" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656e1e537b9f01cc89fe6cb8_stowmaries21.jpg" rel="enclosure" type="image/jpeg" length="334307"/>
+    <summary>Sim: MSFS. Scenery developer Burning Blue Designs has released their rendition of Stow Maries Great War Aerodrome. Stow Maries offers the opportunity to visit one of the last remaining aerodromes from World War 1 thatâs still in operation today. First established in 1916 during the height of the Great War, Stow Maries Aerodrome served as a base for the Royal Flying Corps (RFC) and later the Royal Air Force (RAF). Stow Maries played a pivotal role in defending London from German air raids. Located in Essex, Stow Maries Aerodrome still operates today and features many original buildings. The aerodrome also offers a museum on-site that hosts a large collection of WW1-era aircraft that would have been based at Stow Maries. More information on the museum can be found here. âBurning Blue Designâs offering for Microsoft Flight Simulator features the current layout for the airfield as well as 90 custom objects with full PBR textures. Users can also expect high-resolution colour-corrected ground textures a completely custom windsock and anemometer. Upon landing at Stow Maries youâll be welcomed by a true-to-life representation of the museumâs real-world static aircraft lineup which includes an Avro 504K, a Sopwith Pup replica, and an Albatross D.V. The scenery also features animated hangar doors and gates that close at night as the museum does. You can find Stow Maries Aerodrome on Burning Blue Designâs website. âFor all your flight sim updates be sure to stay tuned to Threshold!</summary>
     <published>2023-12-04T00:00:00+00:00</published>
   </entry>
 </feed>

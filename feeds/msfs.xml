@@ -2,20 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-12-04T18:23:02.801725+00:00</updated>
+  <updated>2023-12-05T18:21:45.452411+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/november-9th-2023-development-update/</id>
-    <title>November 9th, 2023 Development Update</title>
-    <updated>2023-11-09T23:45:42+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-9th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/KnackBretzel-Forum-1024x288.jpg" rel="enclosure" type="image/jpeg" length="28959"/>
-    <summary>Earlier this week, we released World Update XV: Nordics &amp; Greenland. This region contains some of the most stunningly beautiful natural scenery found anywhere in the world. You can see the full list of new content in our forum post here. World Update XV is available as a FREE download from the in-sim Marketplace now.</summary>
-    <published>2023-11-09T23:45:42+00:00</published>
+    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
+    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
+    <updated>2023-07-20T22:52:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
+    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
+    <published>2023-07-20T22:52:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
+    <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
+    <updated>2023-10-10T16:20:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
+    <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
+    <published>2023-10-10T16:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
+    <title>Community Spotlight: WorldFlight</title>
+    <updated>2023-11-01T16:00:07+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/msedge_bev8FAN2Ml-1024x767.jpg" rel="enclosure" type="image/jpeg" length="102140"/>
+    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
+    <published>2023-11-01T16:00:07+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-16th-2023-development-update/</id>
@@ -54,28 +70,12 @@
     <published>2023-11-30T23:24:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
-    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
-    <updated>2023-07-20T22:52:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
-    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
-    <published>2023-07-20T22:52:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
-    <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
-    <updated>2023-10-10T16:20:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
-    <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
-    <published>2023-10-10T16:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
-    <title>Community Spotlight: WorldFlight</title>
-    <updated>2023-11-01T16:00:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/msedge_bev8FAN2Ml-1024x767.jpg" rel="enclosure" type="image/jpeg" length="102140"/>
-    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
-    <published>2023-11-01T16:00:07+00:00</published>
+    <id>https://www.flightsimulator.com/sim-update-14/</id>
+    <title>Release Notes – Sim Update 14 [1.35.21.0] Available Now</title>
+    <updated>2023-12-05T16:08:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-14/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/40th_Anniversary_Horizontal-1024x512.png" rel="enclosure" type="image/png" length="193805"/>
+    <summary>Release Notes for Sim Update 14 [1.35.21.0] are now available! Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2023-12-05T16:08:02+00:00</published>
   </entry>
 </feed>
