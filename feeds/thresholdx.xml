@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-06T18:22:57.791093+00:00</updated>
+  <updated>2023-12-07T18:23:04.021909+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aflana</id>
-    <title>AirfoilLabs Releases C172 NG Analog for X-Plane 12</title>
-    <updated>2023-12-01T00:00:00+00:00</updated>
-    <link href="/news/aflana" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569cdc493dc44bf355019da_ana1.jpg" rel="enclosure" type="image/jpeg" length="411196"/>
-    <summary>Sim: X-Plane. AirfoilLabs has recently released their rendition of the Cessna C172 NG Analog for X-Plane 12, one of the most popular trainer aircraft ever produced, with 44,000 units built since its introduction in 1956.  The Cessna 172 stands as an iconic figure in aviation, often serving as the initial aircraft for many aspiring pilots. Equipped with a 175hp piston engine operating at 2400rpm, it maintains a cruising speed of 125 knots and can ascend to a maximum altitude of 13,000 feet.  AFLâs new C172 features a new 3D model built from scratch, using X-Plane 12âs brand-new flight model to provide a realistic simulation experience. The engine performance was tuned and correlated with performance tables, warranting accurate behavior under different circumstances and weather. The complete feature list follows below: New X-Plane 12 Features: 3D Model FMOD Sound Flight Model Aircraft Systems Electrical System Engine Logic Failure Management System and Scenarios Saving C172 Knowledge Base User Interface and 2D Panels Aircraft Options Checklist and Performance Ground Operations Walk Feature and QuickLook Camera with Collisions   Itâs available on theÂ X-Plane.Org StoreÂ for $49.95 (temporary discount). Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bmwarl</id>
-    <title>BMWorld and AmSim Release Arlington Municipal Airport for MSFS</title>
-    <updated>2023-12-01T00:00:00+00:00</updated>
-    <link href="/news/bmwarl" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569d17f4abb95f11cc0f49e_arl1.jpg" rel="enclosure" type="image/jpeg" length="637406"/>
-    <summary>Sim: MSFS. BMWorld and AmSim have recently released their rendition of Arlington Municipal Airport (KGKY) for Microsoft Flight Simulator, serving the city of Arlington, Texas, with a yearly average of 151,000 passengers (as of 2006).  Itâs a reliever airport for DFW and DAL and housing companies such as the Bell Helicopter division of Textron.Â   Unlike most US airports, KGKY doesnât have an IATA code.  97% of the airportâs yearly operations consist of general aviation traffic, with only 3% corresponding to air taxi.Â   The scenery features an accurate rendition of the airport, with a fully modeled terminal building, custom ground markings, high-resolution ground textures, custom night lighting, and animated people.  Itâs available onÂ OrbxDirectÂ for roughly $9.53 and requires at least 1.10 GB of free hard disk space to install. Shout out to Cristian Ionescu for the news scoop! Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/phenom</id>
     <title>Cockspur reveals their next project, the Phenom 100</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65709c7372a9dd58d1d3711f_kuu.webp" rel="enclosure" type="image/webp" length="519604"/>
     <summary>Sim: MSFS. Fly X Simulations has recently released their rendition of Kuusamo Airport (EFKS) for Microsoft Flight Simulator, serving the northeastern part of the Northern Ostrobothnia in Finland with a yearly average of 87,000 passengers.  It was inaugurated in 1972, with a regular scheduled route between Oulu and Kuusamo starting that same year. The original runway length was around 800 meters, which was expanded for the first time in 1974 to 1,500 meters so that larger aircraft could visit it.   In the late 1980s, the passenger terminal was inaugurated, and the runway was extended to 2,000 meters so they could get jet traffic.  The late 1990s brought the final runway extension (to 2,500 meters), and the passenger terminal was expanded for the first time.Â   In the early 2000s, the airport was granted its international status and underwent a renovation and expansion of its terminal building.  Itâs served by Finnair with a daily route to Helsinki and visited by Lufthansa, Jet2, TUI Airways, and TUI fly Netherlands on a seasonal basis.\  The scenery features an accurate rendition of the airport, with custom ground markings (including wear and tear), high-resolution PBR textures, accurate airport buildings, and a detailed airside terminal interior.  Itâs available on theÂ iniBuilds StoreÂ for roughly $11.32, requiring at least 409 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2023-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flylas</id>
+    <title>FlyTampa Updates Harry Reid International Airport for MSFS</title>
+    <updated>2023-12-06T00:00:00+00:00</updated>
+    <link href="/news/flylas" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6570ef72db08ffaa02700297_vegas.png" rel="enclosure" type="image/png" length="1756401"/>
+    <summary>Sim: MSFS. FlyTampa has recently issued an update to their rendition of Harry Reid International Airport (KLAS) for Microsoft Flight Simulator, serving the Las Vegas Valley with a yearly average of 52.7 million passengers. Update 2.00 brings the airport up to date, improves jetway animations, enhances performance, improves the clutter on the apron, adds the new MGM Sphere with multiple animated projections, and more. The full changelog follows below: - KLAS airport updates- AI parking codes update- Performance enhancements- Improved Jetway animations- MGM Sphere (animated with multiple projections)- Harry Reid temporary signage updates- Improved apron clutter- Airport static jets update- Caesars Conference Center- Animated Las Vegas monorail- Las Vegas Convention Center- Circa Hotel (including wall animation and Stadium swim)- Improved Bellagio fountains animation- World Resorts wall animation- Mirage Volcano lava effects- Park MGM updated The update is available on their website and SimMarket, with Orbx and Marketplace coming soon.Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/egnmv2</id>
+    <title>Orbx Releases Leeds Bradford V2 for MSFS</title>
+    <updated>2023-12-07T00:00:00+00:00</updated>
+    <link href="/news/egnmv2" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569c87e4c9d45c83342ed63_leeds2.jpg" rel="enclosure" type="image/jpeg" length="221932"/>
+    <summary>Sim: MSFS. Orbx has recently released their updated rendition of Leeds Bradford Airport (EGNM) for Microsoft Flight Simulator, serving North and West Yorkshire with a yearly average of 3.3 million passengers.  It was opened in 1931 as Leeds and Bradford Municipal Aerodrome (or Yeadon Aerodrome), mostly used for general aviation and training during its initial years, with scheduled flights starting in 1935.  Work on the main terminal started around the late 30s but only reached full completion after WW2.Â   Avro constructed a shadow factory during that WW2 period called the Leeds Bradford Airport Depot, with over 5,000 aircraft before its closure in December 1946.  In the early 1980s, the runway was extended, allowing it to be classified as a regional airport. After the extension, Wardair commenced international flights to Toronto in a 747 in 1984.  The airport underwent expansion work in the late 90s and early 2000s, allowing it to reach an 88% increase in passenger traffic by 2007 (2.9 million passengers visited the airport that year).  The highest airport in the United Kingdom (681ft!) is an operating base for Jet2.com and Ryanair and is served by Aer Lingus, Aurigny, easyJet, KLM, and WizzAir.  The scenery features an accurate rendition of the airport, with an up-to-date 2023 airport layout, fully-reworked PBR ground poly, custom lighting, LOD optimization to ensure best performance, animated custom jetways, a high-detail ATC tower with animated air traffic controllers, detailed walkway interior, hand-placed animated horses, a detailed spotting area west of runway 14, updated signage, and more.  Itâs available onÂ OrbxDirectÂ for roughly $17.85 (V1 owners are eligible for a discounted upgrade fee), requiring at least 6.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-07T00:00:00+00:00</published>
   </entry>
 </feed>
