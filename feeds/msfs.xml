@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-12-07T18:23:02.859779+00:00</updated>
+  <updated>2023-12-08T18:22:37.826168+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -34,33 +34,6 @@
     <published>2023-11-01T16:00:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-16th-2023-development-update/</id>
-    <title>November 16th, 2023 Development Update</title>
-    <updated>2023-11-16T23:24:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-16th-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/@ukaka5656-Twitter-1-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="77476"/>
-    <summary>We released a new pre-release test build (1.35.15.0) for the Sim Update 14 beta on Monday. You can read the release notes on our forums here. If you would like to enroll in the beta test (available for PC/MS Store, PC/Steam, and Xbox Series X|S), you can find instructions here.</summary>
-    <published>2023-11-16T23:24:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale-2023/</id>
-    <title>Black Friday Sale</title>
-    <updated>2023-11-23T18:33:49+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale-2023/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/MSFS_BlackFridaySale2022_v2_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122892"/>
-    <summary>For 5 Days starting on November 23rd, save up to 93% on more than 1750 items!</summary>
-    <published>2023-11-23T18:33:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/november-23rd-2023-development-update/</id>
-    <title>November 23rd, 2023 Development Update</title>
-    <updated>2023-11-23T20:08:45+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-23rd-2023-development-update/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/11/Extabite1-Forums-1024x576.jpeg" rel="enclosure" type="image/jpeg" length="47959"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user Extabite1! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Today (Thursday, November 23) is Thanksgiving Day in the United States. Many members of our team are celebrating this holiday by spending time with their families, so today’s … Continued</summary>
-    <published>2023-11-23T20:08:45+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/november-30th-2023-development-update/</id>
     <title>November 30th, 2023 Development Update</title>
     <updated>2023-11-30T23:24:24+00:00</updated>
@@ -77,5 +50,32 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/40th_Anniversary_Horizontal-1024x512.png" rel="enclosure" type="image/png" length="193805"/>
     <summary>Release Notes for Sim Update 14 [1.35.21.0] are now available! Please launch the Xbox App or Steam to download the latest update.</summary>
     <published>2023-12-05T16:08:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/december-7th-2023-development-update/</id>
+    <title>December 7th, 2023 – Development Update</title>
+    <updated>2023-12-08T00:38:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-7th-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/sidthekid871397-Forums-1024x850.jpeg" rel="enclosure" type="image/jpeg" length="56873"/>
+    <summary>Earlier this week, we released Sim Update 14, the latest major upgrade to Microsoft Flight Simulator. We are pleased to see that sim pilots are enjoying the many bug fixes, improvements, and new features, with the new atmospheric colorization and the Working Title Cirrus SR22T G6 being highlights of this release.</summary>
+    <published>2023-12-08T00:38:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/heatblur-indiafoxtecho-f-14/</id>
+    <title>Now Available: Heatblur &amp; IndiaFoxtEcho F-14 Tomcat</title>
+    <updated>2023-12-08T00:38:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/heatblur-indiafoxtecho-f-14/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/msfs-heatblur-f-14a-01-1024x567.jpg" rel="enclosure" type="image/jpeg" length="46913"/>
+    <summary>The F-14 Tomcat is one of America’s most iconic jet aircraft, featuring a variable swept-wing design and impressive maneuverability and versatility. Developers Heatblur and IndiaFoxtEcho have worked together to create the most in-depth and accurate virtual depiction of this legendary aircraft that has ever been made. Years of research and development have resulted in the … Continued</summary>
+    <published>2023-12-08T00:38:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-13-and-14-deployment-post-incident-report/</id>
+    <title>Sim Update 13 and 14 Deployment Post-Incident Report</title>
+    <updated>2023-12-08T00:38:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-13-and-14-deployment-post-incident-report/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/errors_503_20231205_SU14-1024x504.png" rel="enclosure" type="image/png" length="61521"/>
+    <summary>During the deployment of Sim Update 13 on September 26 and Sim Update 14 on December 5, many players experienced issues with long or stuck downloads during the installation process. In both cases, we closely tracked the issue as it was occurring and escalated to the appropriate support teams as soon as the incident was … Continued</summary>
+    <published>2023-12-08T00:38:44+00:00</published>
   </entry>
 </feed>

@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-07T18:23:04.021909+00:00</updated>
+  <updated>2023-12-08T18:22:39.026234+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/phenom</id>
-    <title>Cockspur reveals their next project, the Phenom 100</title>
-    <updated>2023-12-01T00:00:00+00:00</updated>
-    <link href="/news/phenom" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569fc0ad20d9edb4524fa12_image_2023-12-01_093018018.png" rel="enclosure" type="image/png" length="1024570"/>
-    <summary>Sim: MSFS. Cockspur has recently published a new video on Facebook and Discord, showcasing what appears to be an almost finished Embraer Phenom 100. Cockspur is renowned for its Cessna Mustang and its latest Cessna 162. The one-and-a-half-minute video provides a quick look at the intricate details that Cockspur is known forâthe avionics in the video feature the GARMIN 1000, similar to those present in the real aircraft. The video also showcases the exterior details, which look intricate based on the close-up shots. The cabin is fully modeled, as expected. Although the developer has yet to release much information regarding specific features, we can expect to receive more details on this project soon. The Embraer Phenom 100 is a part of the Phenom corporate jet brand, manufactured by Brazilian aircraft manufacturer Embraer. The Phenom 100, the smallest model in the range, is classified as a VLJ (Very Light Jet), with the larger model being the 300E. Phenom 100's first flight took place on July 26, 2008, and since then, it has brought Embraer immense success with the Phenom brand. A new configuration of the Phenom will cost you around $3 million. With over 400 built, it is one of the most popular light jets in the market. The Phenom is powered by two Prat and Whitney turbofan engines, producing 1,750lbs of thrust each. This engine configuration gives the Phenom 100 the ability to cruise at 400 knots with a maximum altitude of 14,100 feet with a range of about 1,300 NM. The Phenom has a single pilot rating thanks to many of its automated features. With its Prodigy Touch flight deck and Garmin 1000, these systems are highly streamlined to reduce pilot workload. The Phenom's BMW-designed cabin can comfortably carry up to five passengers. To see more, check out the video of the Phenom by Cockspur here. â As always, stay tuned to Threshold for more flight simulation news and updates!</summary>
-    <published>2023-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/f14tom</id>
-    <title>Heatblur and IndiaFoxtEcho provides F14 pricing and potential release date.</title>
-    <updated>2023-12-01T00:00:00+00:00</updated>
-    <link href="/news/f14tom" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656a06ee7a31e43cb4e38e1d_339315414_586097866798612_8442083217038018754_n.jpg" rel="enclosure" type="image/jpeg" length="261332"/>
-    <summary>Sim: MSFS. Heatblur and IndiaFoxtEcho have provided a potential release date for the F-14 Tomcat! The much-anticipated F-14 Tomcat project update was communicated to users via the Heatblur and IndiaFoxtEcho Discord. IndiaFoxtEcho also gave a preview of the Jester toggle wheel function, which allows you to control different elements and features of the F14, departing from the usual "Tablets" seen in various other aircraft addons. According to IndiaFoxtEcho, the F-14 will be available on the Flight Simulator Marketplace (unarmed), the Heatblur store, SimMarket, Orbx, and more. The team is in its final stages, waiting for the green light from Microsoft. The wait is on for the Xbox version tests to complete, and it will likely be released alongside the PC version, which will be identical except for the radar functionality on Xbox.  The pricing and a possible release date of December 7th have been proposed for USD 34.99, with discounts for previous DCS F-14 owners. However, IndiaFoxtEcho has indicated issues with the system, which currently keeping the discounts unconfirmed at this time.  As always stay tuned to Threshold for more flight simulator news and updates!</summary>
-    <published>2023-12-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vssy</id>
     <title>Verticalsim Releases KMSY For X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569c87e4c9d45c83342ed63_leeds2.jpg" rel="enclosure" type="image/jpeg" length="221932"/>
     <summary>Sim: MSFS. Orbx has recently released their updated rendition of Leeds Bradford Airport (EGNM) for Microsoft Flight Simulator, serving North and West Yorkshire with a yearly average of 3.3 million passengers.  It was opened in 1931 as Leeds and Bradford Municipal Aerodrome (or Yeadon Aerodrome), mostly used for general aviation and training during its initial years, with scheduled flights starting in 1935.  Work on the main terminal started around the late 30s but only reached full completion after WW2.Â   Avro constructed a shadow factory during that WW2 period called the Leeds Bradford Airport Depot, with over 5,000 aircraft before its closure in December 1946.  In the early 1980s, the runway was extended, allowing it to be classified as a regional airport. After the extension, Wardair commenced international flights to Toronto in a 747 in 1984.  The airport underwent expansion work in the late 90s and early 2000s, allowing it to reach an 88% increase in passenger traffic by 2007 (2.9 million passengers visited the airport that year).  The highest airport in the United Kingdom (681ft!) is an operating base for Jet2.com and Ryanair and is served by Aer Lingus, Aurigny, easyJet, KLM, and WizzAir.  The scenery features an accurate rendition of the airport, with an up-to-date 2023 airport layout, fully-reworked PBR ground poly, custom lighting, LOD optimization to ensure best performance, animated custom jetways, a high-detail ATC tower with animated air traffic controllers, detailed walkway interior, hand-placed animated horses, a detailed spotting area west of runway 14, updated signage, and more.  Itâs available onÂ OrbxDirectÂ for roughly $17.85 (V1 owners are eligible for a discounted upgrade fee), requiring at least 6.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2023-12-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jester</id>
+    <title>IndiaFoxtEcho and Heatblur releases the F-14 Tomcat for Microsoft Flight Simulator</title>
+    <updated>2023-12-07T00:00:00+00:00</updated>
+    <link href="/news/jester" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65721d88680ba5516c1b8055_Screen_181005_062706_4c9a1cdd-c5a2-45ac-a9c2-eb40a0f86d08.jpg" rel="enclosure" type="image/jpeg" length="189927"/>
+    <summary>Sim: MSFS. IndiaFoxtEcho and Heatblur have released the highly anticipated F-14 Tomcat for Microsoft Flight Simulator. The Tomcat, undergoing development for several months, has now reached its final stages after extensive testing by the duo. This marks Heat Blur's first release for Microsoft Flight Simulator, as the prominent Digital Combat Simulator developer collaborates with the established India Fox team. The Microsoft Flight Simulator version of the F-14 benefits from years of community feedback within the DCS community, resulting in the most accurate representation of the aircraft available for MSFS. The release introduces a host of new features, including comprehensive system modeling, fine-tuned flight models, and visually stunning enhancements spanning from 3D elements to textures. The development team has placed a particular emphasis on refining the core flying aspects of the aircraft, including avionics, navigation systems, and more. To enhance control and system management, the team has integrated JESTER, your AI RIO wingman. JESTER AI is designed to handle specific operations, allowing you to focus on flying the F-14 without distraction. Both models of the Tomcat are offered: the F14A and F14B, featuring the Pratt and Whitney TF-30 and General Electric F110 engines, respectively. The F-14 is now available on the Flight Simulator Marketplace (unarmed), the Heatblur store, SimMarket, and Orbx for $34.99. Discounts are available for previous DCS customers, with a recommendation to make the purchase through the HeatBlur online store. Existing owner? Check out this link here for a 30% off coupon! Release trailer here! Enjoy! As usual stay tuned to Threshold for more flight simulation news and updates!</summary>
+    <published>2023-12-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniabs</id>
+    <title>iniBuilds Teases A300 Liveries</title>
+    <updated>2023-12-08T00:00:00+00:00</updated>
+    <link href="/news/iniabs" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6573549fe18a6e9c6f544379_Discord_BjBPyRTVls.png" rel="enclosure" type="image/png" length="811863"/>
+    <summary>Sim: MSFS. iniBuilds, who are known for their work with Microsoft and Asobo in bringing the A310, and eventually, an improved A320neo to Microsoft Flight Simulator has teased some of the liveries that will be available with their upcoming A300. The liveries were teased in an announcement on their Discord stating that final feature implementation and testing are currently taking place.Â  iniBuilds first announced the project at FlightSimExpo earlier this year and has been slowly previewing the aircraft since. Currently, it's stated that the initial release is planned to be before the end of the year with the GE engine, both passenger and freighter layouts, and a planned hotfix if needed. In early 2024 users can expect to see the Pratt and Whitney engine variant with both a passenger and freighter option, a modern IDC radio panel will also be included in this update. Sometime in 2024, a paid update will be available, which will include the Primus Epic glass avionics package seen on many A300's today. With 2023 coming to a close there's a lot to look forward to in the realm of flight simulation, and we at Threshold look forward to bringing you all the breaking news! </summary>
+    <published>2023-12-08T00:00:00+00:00</published>
   </entry>
 </feed>
