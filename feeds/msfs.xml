@@ -2,37 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-12-12T18:22:49.047433+00:00</updated>
+  <updated>2023-12-13T18:21:25.149665+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/</id>
-    <title>McDonnell Douglas F-4 Phantom II by DC Designs</title>
-    <updated>2023-07-20T22:52:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/mcdonnell-douglas-f-4-phantom-ii-by-dc-designs/" rel="alternate"/>
-    <summary>The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.Proving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, … Continued</summary>
-    <published>2023-07-20T22:52:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
-    <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
-    <updated>2023-10-10T16:20:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
-    <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
-    <published>2023-10-10T16:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
-    <title>Community Spotlight: WorldFlight</title>
-    <updated>2023-11-01T16:00:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/10/msedge_bev8FAN2Ml-1024x767.jpg" rel="enclosure" type="image/jpeg" length="102140"/>
-    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
-    <published>2023-11-01T16:00:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-30th-2023-development-update/</id>
     <title>November 30th, 2023 Development Update</title>
@@ -77,5 +52,30 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/errors_503_20231205_SU14-1024x504.png" rel="enclosure" type="image/png" length="61521"/>
     <summary>During the deployment of Sim Update 13 on September 26 and Sim Update 14 on December 5, many players experienced issues with long or stuck downloads during the installation process. In both cases, we closely tracked the issue as it was occurring and escalated to the appropriate support teams as soon as the incident was … Continued</summary>
     <published>2023-12-08T00:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
+    <title>Community Spotlight: Nick Williams &amp; Herman@s VA</title>
+    <updated>2023-10-10T16:20:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/" rel="alternate"/>
+    <summary>In the United States, September 15 – October 15 is recognized annually as National Hispanic Heritage Month. To celebrate the occasion, we are shining the spotlight on a member of our player community who is using virtual flying to power real positive change to the lives of people in Latin America!Shortly after the PC of … Continued</summary>
+    <published>2023-10-10T16:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
+    <title>Community Spotlight: WorldFlight</title>
+    <updated>2023-11-01T16:00:07+00:00</updated>
+    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/" rel="alternate"/>
+    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
+    <published>2023-11-01T16:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/in-memory-of-anton-logvynenko-digital-artist-aviation-enthusiast/</id>
+    <title>In Memory of Anton Logvynenko: Digital Artist &amp; Aviation Enthusiast</title>
+    <updated>2023-12-12T21:10:47+00:00</updated>
+    <link href="https://www.flightsimulator.com/in-memory-of-anton-logvynenko-digital-artist-aviation-enthusiast/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg" rel="enclosure" type="image/jpeg" length="69939"/>
+    <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
+    <published>2023-12-12T21:10:47+00:00</published>
   </entry>
 </feed>

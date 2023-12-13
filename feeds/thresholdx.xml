@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-12T18:22:51.216928+00:00</updated>
+  <updated>2023-12-13T18:21:27.004233+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ifp73m</id>
-    <title>iFly Releases First Preview of 737 MAX for MSFS</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/ifp73m" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656fd98b279935768f97854b_MSFS-MAX1.png" rel="enclosure" type="image/png" length="1950712"/>
-    <summary>Sim: MSFS. In a post on their forums, developer iFly has shared a small preview of their upcoming 737 MAX for Microsoft Flight Simulator. The teaser image, which only shows a small part of the underbelly section, and appears to be the left main landing gear.  â From this single image, iFly hopes to show that the final product will have quite a bit of visual detail. You can see the detail that they have gone to model the gear cables, strut, and little details like the roughness of the rubber tyres. iFly also says that this preview image was taken months ago, and much progress has been made since then.  iFly is mainly known for their 737 product line for Lockheed Martinâs Prepar3D, most recently being their rendition of the Boeing 737 MAX for Prepar3D V5. In a post on their Facebook page, iFly commented about the system depth of their upcoming airliner, saying, âWhile MSFS is amazing, for raw simulation of true aircraft systems, we believe P3Dv5 allows for the highest level of system simulations using raw C++. P3Dv5 may not have the eye candy of MSFS, but for true immersion, CAT III approaches, and more, we believe the iFly MAX on Prepar3D v5 can barely be beat.â They also added that the project is âstill some time away as it is a major new development,â and that for a Microsoft Flight Simulator product, âtime-to-market for a study-level-simulator takes longer compared with the FSX/P3D lineage.â While we do not know much about this new entrant into the MSFS airliner market, Threshold will keep you informed whenever we get new information, so stay tuned!</summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dcb407</id>
     <title>Dreamfoil Provides Bell 407 Development Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65787bd3412c5b6d6047053d_FlightSimulator%202023-10-02%2016-38-48.png" rel="enclosure" type="image/png" length="3193868"/>
     <summary>Sim: MSFS. FSLTL, the developer behind the widely-used A.I. FSLTL Traffic for MSFS, has recently released an updated Base Model package featuring many enhancements. FSLTL seamlessly integrates aircraft into Microsoft Flight Simulator, providing users with a realistic, real-time experience of airline and general aviation traffic within the simulation environment. This software works seamlessly with MSFS default ATC and is VATSIM compatible through the provided VMR file. The latest update introduces an addition of 62 new liveries, comprising 38 for the 787-8, 16 for the ATR 42-500, and 8 for the ATR 42-600. This brings the total livery count to an extensive 1900! Additionally, the update addresses model issues, fixing broken animations like flaps and reversers. Other enhancements include the incorporation of "drooping elevator animations" for parked aircraft. An all-around overhaul of aircraft sounds has been implemented, ensuring a significant improvement across all models. Start-up and shutdown sounds have been completely revamped, with specific enhancements catering to V.R. and headphone users. In addition, the effects have been refined for optimal performance on all model LODs, featuring optimized heat blur effects contributing to an improvement in FPS performance. The lighting system has undergone a substantial rework, introducing new options that include faux flare and no flare lighting. The default is set to no flare, with adjusted flash rates on aircraft strobes, nav lights, and beacon lights to better align with real-world standards. Taxi and landing lights are now fixed to the front gear, extinguishing upon retraction. Some parked aircraft now feature logo lights, different colors for interior lighting, and smaller lights for aircraft positioned farther away from the user. Wingspan values have been adjusted to approximately 10 percent below real-life values to accommodate the additional 6m of space added to MSFS parking stands. The final version 1.3.1 includes minor fixes, with the VMR file receiving a complete update and the correction of the ICAO code for Porter Airlines DH8D to PTR. For users seeking to update or download FSLTL Traffic, the FlyByWire Installer provides a convenient installation process. Also check out the complete user guide with video tutorial here, FSLTL User Guide. â As usual stay tuned to Threshold for more flight simulation news and updates!</summary>
     <published>2023-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aarc25</id>
+    <title>Ant's Airplanes Releases CA-25 Winjeel for MSFS</title>
+    <updated>2023-12-13T00:00:00+00:00</updated>
+    <link href="/news/aarc25" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6579115385f40d45baf51ed8_mediaslider01.jpg" rel="enclosure" type="image/jpeg" length="876549"/>
+    <summary>Sim: MSFS. Developer Antâs Airplanes has just released their latest product for Microsoft Flight Simulator, the CAC CA-25 Winjeel. This is Antâs third aircraft for Microsoft Flight Simulator, following the Tiger Moth, and the Ultralight Drifter. Antâs also have a history of developing aircraft for FSX and P3D, and they also develop freeware for all three simulators. The CA-25 is a fixed wing, three seat, piston-driven taildragger and it was designed and built by the Commonwealth Aircraft Corporation in Australia. It was developed exclusively for the Royal Australian Air Force and it was used as their main training aircraft for four decades. The first CA-25 flew in 1955, and deliveries started later that same year. In total, 62 Winjeels were produced, and there are only 30 airworthy aircraft left today, with most being privately owned. The Antâs Airplanes rendition of the CA-25 is based on a 1956 airframe, registered VH-OPJ, and has been modified to have an extra seat, bringing the total to 4 seats. Some of the features of the Antâs CA-25 include: For more information and videos on the Antâs Airplanes CA-25 Winjeel, you can head to their website. You can pick up the Winjeel at Simmarket, with availability on the Just Flight store coming soon as of the time of writing for $17.95 USD.  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
+    <published>2023-12-13T00:00:00+00:00</published>
   </entry>
 </feed>
