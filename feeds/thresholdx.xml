@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-13T18:21:27.004233+00:00</updated>
+  <updated>2023-12-14T18:23:16.997850+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dcb407</id>
-    <title>Dreamfoil Provides Bell 407 Development Update</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/dcb407" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656fe7f08a4a6fb816d52f30_408248023_1224564918460434_4784041602513073307_n.jpg" rel="enclosure" type="image/jpeg" length="699156"/>
-    <summary>Sim: X-Plane. Dreamfoil Creations who are fresh off of the release of their Schweitzer S300CBi have provided an update regarding the development of their upcoming Bell 407 for X-Plane 12.Â  â The Bell 407Â  is an iconic helicopter that was first introduced in 1996. The Bell 407 was developed from the older Bell 206L LongRanger, featuring a 4-bladed rotor, a sleeker rotor housing, and larger windows. The 407 is equipped with an Allison 250-C47B turboshaft engine providing over 800 shaft horsepower. With seating for 5 and a maximum takeoff weight of 6000 lbs, the 407 is capable of flying 324 nm with a cruise speed of 133 knots. â In the update posted to their Facebook page, which featured a single picture, Dreamfoil stated that the external texturing work for the new 407 is about 85% complete. The update also includes information about a poll taken on their forums that showed a majority of users would prefer an analogue cockpit over a glass panel based on the X-Plane Garmin G1000. The update also suggested that the 407 will come with options for both a Garmin 430/530 GPS set-up as well as an option to use the G1000h based on X-Planeâs G1000. At this time there's no information regarding price or a potential release date, however, it seems that the helicopter is coming together quite well. â Be sure to stay tuned to Threshold, your home for everything flight simulation!</summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/oabimm</id>
     <title>Orbx Announces British Isles Mesh for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6579115385f40d45baf51ed8_mediaslider01.jpg" rel="enclosure" type="image/jpeg" length="876549"/>
     <summary>Sim: MSFS. Developer Antâs Airplanes has just released their latest product for Microsoft Flight Simulator, the CAC CA-25 Winjeel. This is Antâs third aircraft for Microsoft Flight Simulator, following the Tiger Moth, and the Ultralight Drifter. Antâs also have a history of developing aircraft for FSX and P3D, and they also develop freeware for all three simulators. The CA-25 is a fixed wing, three seat, piston-driven taildragger and it was designed and built by the Commonwealth Aircraft Corporation in Australia. It was developed exclusively for the Royal Australian Air Force and it was used as their main training aircraft for four decades. The first CA-25 flew in 1955, and deliveries started later that same year. In total, 62 Winjeels were produced, and there are only 30 airworthy aircraft left today, with most being privately owned. The Antâs Airplanes rendition of the CA-25 is based on a 1956 airframe, registered VH-OPJ, and has been modified to have an extra seat, bringing the total to 4 seats. Some of the features of the Antâs CA-25 include: For more information and videos on the Antâs Airplanes CA-25 Winjeel, you can head to their website. You can pick up the Winjeel at Simmarket, with availability on the Just Flight store coming soon as of the time of writing for $17.95 USD.  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
     <published>2023-12-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lgmvms</id>
+    <title>FSDG Releases Landmarks of Germany - Mecklenburg-Vorpommern for MSFS</title>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+    <link href="/news/lgmvms" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657a65a8f4cd409103a0100d_84_1.png" rel="enclosure" type="image/png" length="2217423"/>
+    <summary>Sim: MSFS. German developer FSDG have just released another product for their Landmarks of Germany series for Microsoft Flight Simulator. Their newest product covers the German Federal State of Mecklenburg-Vorpommern, in the northeast of the country, bordering Poland to the east, and the Baltic Sea to the north. In the pack, FSDG has included over 1,000 individual objects covering the whole state. Castles, famous buildings, bridges, television towers, radio towers, water towers, radar towers, chimneys, antennas, solar parks and lots of lighthouses can be found at their exact positions all across the state. This pack hopes to offer an enhanced VFR experience, and is part of a set that will eventually cover the entire country of Germany. You can get Landmarks of Germany - Mecklenburg-Vorpommern at the Aerosoft Store or FSDG's Website for â¬8.40, excluding VAT.  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
+    <published>2023-12-14T00:00:00+00:00</published>
   </entry>
 </feed>
