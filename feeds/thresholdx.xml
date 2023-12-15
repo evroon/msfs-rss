@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-14T18:23:16.997850+00:00</updated>
+  <updated>2023-12-15T18:22:33.338076+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/oabimm</id>
-    <title>Orbx Announces British Isles Mesh for MSFS</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/oabimm" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656ff0a8be2b17d08a896c35_image.png.3fc1fac0438d43605f97b7e87847612a.png" rel="enclosure" type="image/png" length="3686287"/>
-    <summary>Sim: MSFS. In a post on their forums on Tuesday, Orbx has announced their newest product, the British Isles Mesh for Microsoft Flight Simulator, being developed by Dymtro Krykunov. The British Isles Mesh follows the release of six other terrain and mesh enhancement products, such as NZ Mesh, Alaska Mesh, South America Mesh, and Himalayas Mesh, all for MSFS. According to Orbx, British Isles Mesh will cover practically the entirety of the British Isles, including, but not limited to, Great Britain, Ireland, the Isle of Man, the Shetland and Orkney Islands, as well as the Inner and Outer Hebrides.  They also mention that the island of Ireland âhas had particular focus by crafting a new mesh from ALOS satellite DEM data,â and that there are âover 200 locations added with a remarkable 2m/pix resolution.â  While Orbx has not said anything about a possible release date for the British Isles Mesh, Threshold will keep you informed once we find out, so stay tuned! </summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mrsu14</id>
-    <title>Microsoft Releases Sim Update 14</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/mrsu14" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/656ffabbed365d84aa15be5d_ScenicAtol37419-Forums.png" rel="enclosure" type="image/png" length="904381"/>
-    <summary>Sim: MSFS. Microsoft has released their latest Sim Update for Microsoft Flight Simulator, bringing with it many bug fixes, changes, and new features to the simulator. â The major new features in this update include new Assistance features with their new Flight Plan Assistance setting, as well as fixes to the Air Traffic Control systems, improving instruction logic and phraseology. Sim Update 14 also adds a new aircraft, the Cirrus SR22 G6, complete with avionics made in partnership with Working Title. However, this upgraded Cirrus is only available to customers who have purchased the Premium Deluxe upgrade for the sim.  â Another significant change is the removal of the iniBuilds A320neo from the update. Initially promised to be slated for this update by Jorg Neumann, Head of Microsoft Flight Simulator in their September Dev Livestream, and included in the SU14 Beta, it is now absent. According to the Sim Update 14 patch notes, Microsoft explains that the reason behind the delay was that during testing they âencountered an application crash rate on console that is too high to pass certification.â Recently, the iniBuilds A320neo has come under fire from accusations that it stole code from the popular open-source A320neo made by FlyByWire, thus allegedly violating the General Public License. This change has left some users speculating whether the accusations of stolen code were the actual reason behind the delay.  â Also included in Sim Update 14 are the changes to the atmosphere and lighting in the sim, as mentioned in Microsoftâs November Dev Livestream. These highly requested changes fix sky colors and make the atmosphere and horizon look more realistic. There have also been fixes to the snow coverage and icing systems and other changes to live weather. As with all of the Sim Updates, there are a whole host of small tweaks and squashed bugs that are too many to list here, but you can find the full patch notes on Microsoftâs website here. â Stay tuned to Threshold for more high quality flight simulation news!</summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tsssma</id>
-    <title>The Secret Studio Releases Sultan Mahmud Airport for MSFS</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/tsssma" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65705cb0382e3e9c84a01010_mah1.jpg" rel="enclosure" type="image/jpeg" length="1410647"/>
-    <summary>Sim: MSFS. The Secret Studio has recently released their rendition of Sultan Mahmud Kuala Terengganu International Airport (WMKN) for Microsoft Flight Simulator, serving the city of Kuala Terengganu in Malaysia with a yearly average of 919,829 passengers. â It was established in the 1920s as a small airfield, used primarily for military purposes during World War II. It served as a base for the British Royal Air Force (RAF) and the Japanese Imperial Army.â  After the war, the British colonial authorities expanded and upgraded the airport to accommodate civilian air travel. It was renamed Sultan Mahmud Airport in honor of Sultan Mahmud Al-Muktafi Billah Shah, the 16th Sultan of Terengganu.  In the following years, Sultan Mahmud Airport became an important transportation hub for the Terengganu region, connecting it with other parts of Malaysia and neighboring countries. The airport underwent several upgrades and modernizations to keep pace with the region's air travel growth.  In 2008, a major renovation and expansion project was undertaken to upgrade the airport's facilities and increase its capacity. The project included constructing a new terminal building, a new runway, and other airport infrastructure improvements.  Today, Sultan Mahmud Airport is one of the busiest airports in Malaysia, serving as a vital economic driver for the Terengganu region, supporting tourism, trade, and other industries. The airport continues to evolve and expand to meet the growing demand for air travel in Malaysia and the surrounding regions.  It's served by four airlines: AirAsia (Kuala Lumpur-International), Batik Air Malaysia (Kuala Lumpur-Subang), Firefly (Kuala Lumpur-Subang), and Malaysia Airlines (Kuala Lumpur-International).Â   The scenery features an accurate rendition of the airport, with high-quality custom buildings, PBR textures, an in-house VDGS system, custom ILS, custom animated jetways, custom terraforming, a detailed terminal interior, and custom ground traffic.  It's available onÂ SimMarketÂ for roughly $12.97 and requires at least 888.37 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sws12l</id>
-    <title>SimWorks Studios Releases Pilatus PC-12 Legacy for MSFS</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/sws12l" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657081a7a0ced81f059649fc_pc12.jpg" rel="enclosure" type="image/jpeg" length="842134"/>
-    <summary>Sim: MSFS. SimWorks Studios has recently released their rendition of the Pilatus PC-12 Legacy for Microsoft Flight Simulator, a single-engined turboprop aircraft first flown in the early 1990s and popular among corporate transport companies, government agencies, and air-ambulance operators.  Its development was announced in October 1989 at the National Business Aviation Association (NBAA), and it had been under development for a few years prior under high levels of secrecy (they had commenced the prototype assembly by the time it was announced). It was believed to be the first single-engined aircraft capable of flying at high speed across long distances, a market that was unheard of back then. The prototype was completed in May 1991, and the first flight took off only 30 days later.Â   While the original plans were for a mid-1991 certification, a wing redesign delayed progress by a few years, with the certification only being issued in March 1994 (Europe) and July 1994 (United States).  It has undergone multiple improvements over its production span, with more powerful engines, new avionics, noise reduction measures, new propellers, increased speed and range, and more. It was also modified by other aviation firms that added their enhancement packages.  The variant at hand was certified in 2005, and it's powered by a Pratt &amp; Whitney Canada PT6A-67B engine, with a range of 1742 miles, a maximum take-off weight of 4,740 kg, and a cruise speed of 500 km/h.Â   The add-on features an accurate simulation of the PC-12, developed with help from Pilatus Aircraft and Fly7 Executive Aviation, replicating the real aircraft's handling behavior with correct propeller beta and reverse operation, custom ITT simulation, and realistic flap deployment timings. It also includes various custom systems, ranging from a custom aileron-rudder interconnect system to usable circuit breakers, PMS GTN, TDS GTNXi, and Sky4Sim Tablet compatibility. The complete list of features follows below:   It's available onÂ their storeÂ andÂ ContrailÂ for roughly $26.98, requiring at least 3.95 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! </summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/flykuu</id>
     <title>Fly X Simulations Releases Kuusamo Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657a65a8f4cd409103a0100d_84_1.png" rel="enclosure" type="image/png" length="2217423"/>
     <summary>Sim: MSFS. German developer FSDG have just released another product for their Landmarks of Germany series for Microsoft Flight Simulator. Their newest product covers the German Federal State of Mecklenburg-Vorpommern, in the northeast of the country, bordering Poland to the east, and the Baltic Sea to the north. In the pack, FSDG has included over 1,000 individual objects covering the whole state. Castles, famous buildings, bridges, television towers, radio towers, water towers, radar towers, chimneys, antennas, solar parks and lots of lighthouses can be found at their exact positions all across the state. This pack hopes to offer an enhanced VFR experience, and is part of a set that will eventually cover the entire country of Germany. You can get Landmarks of Germany - Mecklenburg-Vorpommern at the Aerosoft Store or FSDG's Website for â¬8.40, excluding VAT.  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
     <published>2023-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skytam</id>
+    <title>Skyline Simulations Releases Queen Tamar Airport for MSFS</title>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+    <link href="/news/skytam" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657b597975792750158eabab_tamar.jpg" rel="enclosure" type="image/jpeg" length="972536"/>
+    <summary>Sim: MSFS. Skyline Simulations has recently released their rendition of Queen Tamar Airport (UGSM) for Microsoft Flight Simulator, serving Mestia in Georgia, with a yearly average of 9,300 passengers as of 2022.  Mestia Airport was part of Georgiaâs plan to increase regional tourist figures. It was built in 2010 with a GEL 8 million investment, with an architectural project that boasts a modern glassy style that contrasts with the natural surroundings and does not impact the environment. Designed and created by Jurgen Mayer-Hermann, the BBC considers the airport one of the worldâs most beautiful.Â   With a 1,158-meter runway at 1,456 meters above sea level, the range of aircraft that can fly into this airport is limited. Itâs currently only served by Vanilla Sky with their Let L-410 UVP-Es, taking passengers to Kutaisi, where passengers can connect with the rest of Europe.  The scenery features an accurate rendition of the airport, with PBR materials, custom ground textures, custom 3D vegetation, and more.   Itâs available onÂ SimMarketÂ for roughly $10.68, requiring at least 644.37 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/siachm</id>
+    <title>SiamFlight Releases Chiang Rai International Airport for MSFS</title>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+    <link href="/news/siachm" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657b6b31fd1f29d498da796e_chia.jpg" rel="enclosure" type="image/jpeg" length="956365"/>
+    <summary>Sim: MSFS. SiamFlight has recently released their rendition of Chiang Rai International Airport (VTCT) for Microsoft Flight Simulator, serving the provinces of Chiang Rai and Phayao in Thailand with a yearly average of 1.6 million passengers.  It was opened in 1992, built to accommodate 3 million passengers per year and large widebody aircraft (747, 777, 787, A330, and A340).Â   There are plans to expand the airport, including an additional taxiway, more shops, and a runway extension. Itâs expected to reach completion sometime in 2030.  While the airport had been operating at capacity for a while before the pandemic, the numbers have since plummeted and are still not showing signs of recovery.  Nok Air, Ruili Airlines, Thai AirAsia, Thai Airways International, Thai LionAir, and Thai VietjetAir currently serve the airport.  The scenery features an accurate rendition of the airport, with custom animated jetways, custom ground textures, hand-placed taxiway guidance signs, an up-to-date ground layout, and more.   Itâs available onÂ SimMarketÂ for roughly $12.93, requiring at least 311.30 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fs90ea</id>
+    <title>FlightSim Studio Releases E190/195 for MSFS in Early Access</title>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+    <link href="/news/fs90ea" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657b76260cb563a1c0f2ebb9_01.png" rel="enclosure" type="image/png" length="934187"/>
+    <summary>Sim: MSFS. FlightSim Studio has recently released their rendition of the Embraer 190 and Embraer 195 for Microsoft Flight Simulator in an Early Access stage. This is the continuation of their well known E-Jets Series, which already includes their rendition of the Embraer 170 and 175. The Embraer 190 and 195 are stretched versions of the Embraer 170 series airframe. Built by Embraer in Brazil, the E190 and E195 differ from the shorter variants in the series with a more powerful engine, a larger wing, and larger horizontal stabilizer. The E190 entered into service in 2005 with JetBlue, and the E195 entered into service with FlyBe just a year later in 2006. The FlightSim Studio E190/195 is currently in an early access stage, with features such as a custom Autopilot system with LNAV and VNAV, and a custom FMS still being in development. As of the time of writing, the FSS E190/195 boasts features such as: For more information on the E-Jets Series by FlightSim Studio, you can head to their website. You can purchase the FlightSim Studio E190/195 at the Aerosoft Store for $39.99 USD.  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
+    <published>2023-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffxtpx</id>
+    <title>FlightFX Teases New Cockpit Images of "Project ApX" for MSFS</title>
+    <updated>2023-12-15T00:00:00+00:00</updated>
+    <link href="/news/ffxtpx" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657bda5f25c7be3b68f1f797_Screenshot_2023-12-06_002847.webp" rel="enclosure" type="image/webp" length="2018984"/>
+    <summary>Sim: MSFS. FlightFX has recently released teaser photos of the cockpit of their next aircraft, which they dub âProject ApXâ for Microsoft Flight Simulator. FlightFX, known for their general aviation aircraft, such as the highly popular Cirrus SF50 G2, and the Honda Jet, Project ApX is shaping up to be another exciting development in the MSFS General Aviation market. Project ApX was announced last month, and speculation has abounded around what FlightFXâs next project would be. Now that these teaser photos have been released, many flight simmers have predicted that Project ApX is the popular Cessna Citation X business jet. The photos also show a great amount of detail, with high quality textures and models, from the seats to the switches. All of this hints at a very promising aircraft for the sim. While FlightFX have not given any other details on Project ApX as of yet, or much on their next project, the Piaggio Avanti II, Threshold will keep you updated whenever they do, so stay tuned!</summary>
+    <published>2023-12-15T00:00:00+00:00</published>
   </entry>
 </feed>
