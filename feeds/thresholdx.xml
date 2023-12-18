@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-17T18:20:47.359289+00:00</updated>
+  <updated>2023-12-18T18:22:38.180337+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flylas</id>
-    <title>FlyTampa Updates Harry Reid International Airport for MSFS</title>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="/news/flylas" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6570ef72db08ffaa02700297_vegas.png" rel="enclosure" type="image/png" length="1756401"/>
-    <summary>Sim: MSFS. FlyTampa has recently issued an update to their rendition of Harry Reid International Airport (KLAS) for Microsoft Flight Simulator, serving the Las Vegas Valley with a yearly average of 52.7 million passengers. Update 2.00 brings the airport up to date, improves jetway animations, enhances performance, improves the clutter on the apron, adds the new MGM Sphere with multiple animated projections, and more. The full changelog follows below: - KLAS airport updates- AI parking codes update- Performance enhancements- Improved Jetway animations- MGM Sphere (animated with multiple projections)- Harry Reid temporary signage updates- Improved apron clutter- Airport static jets update- Caesars Conference Center- Animated Las Vegas monorail- Las Vegas Convention Center- Circa Hotel (including wall animation and Stadium swim)- Improved Bellagio fountains animation- World Resorts wall animation- Mirage Volcano lava effects- Park MGM updated The update is available on their website and SimMarket, with Orbx and Marketplace coming soon.Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/egnmv2</id>
-    <title>Orbx Releases Leeds Bradford V2 for MSFS</title>
-    <updated>2023-12-07T00:00:00+00:00</updated>
-    <link href="/news/egnmv2" rel="alternate"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6569c87e4c9d45c83342ed63_leeds2.jpg" rel="enclosure" type="image/jpeg" length="221932"/>
-    <summary>Sim: MSFS. Orbx has recently released their updated rendition of Leeds Bradford Airport (EGNM) for Microsoft Flight Simulator, serving North and West Yorkshire with a yearly average of 3.3 million passengers.  It was opened in 1931 as Leeds and Bradford Municipal Aerodrome (or Yeadon Aerodrome), mostly used for general aviation and training during its initial years, with scheduled flights starting in 1935.  Work on the main terminal started around the late 30s but only reached full completion after WW2.Â   Avro constructed a shadow factory during that WW2 period called the Leeds Bradford Airport Depot, with over 5,000 aircraft before its closure in December 1946.  In the early 1980s, the runway was extended, allowing it to be classified as a regional airport. After the extension, Wardair commenced international flights to Toronto in a 747 in 1984.  The airport underwent expansion work in the late 90s and early 2000s, allowing it to reach an 88% increase in passenger traffic by 2007 (2.9 million passengers visited the airport that year).  The highest airport in the United Kingdom (681ft!) is an operating base for Jet2.com and Ryanair and is served by Aer Lingus, Aurigny, easyJet, KLM, and WizzAir.  The scenery features an accurate rendition of the airport, with an up-to-date 2023 airport layout, fully-reworked PBR ground poly, custom lighting, LOD optimization to ensure best performance, animated custom jetways, a high-detail ATC tower with animated air traffic controllers, detailed walkway interior, hand-placed animated horses, a detailed spotting area west of runway 14, updated signage, and more.  Itâs available onÂ OrbxDirectÂ for roughly $17.85 (V1 owners are eligible for a discounted upgrade fee), requiring at least 6.01 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jester</id>
     <title>IndiaFoxtEcho and Heatblur releases the F-14 Tomcat for Microsoft Flight Simulator</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657ccd9615031f61fa9848d9_a2a-comanche.jpg" rel="enclosure" type="image/jpeg" length="2289134"/>
     <summary>Sim: MSFS. A2A Simulations has recently released a new update to their Accu-Sim Comanche 250 for Microsoft Flight Simulator, improving support for loading saved flights, fixing sound issues, and more.  Update 1.4.3, the fifth product update so far, brings versional parity with the newly released marketplace version of the Comanche, along with addressing a sound looping issue with the Wwise sound engine, and a couple of other changes that follow down below:   The aircraft is available on theirÂ websiteÂ for $49.99, requiring at least 1.8 GB of free hard disk space to install.Â  Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2023-12-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rofe24</id>
+    <title>Registration Opens for FlightSimExpo 2024</title>
+    <updated>2023-12-17T00:00:00+00:00</updated>
+    <link href="/news/rofe24" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657f4cb3ccb1ec3cd08f06cb_FSExpo_2024__coverphoto.png" rel="enclosure" type="image/png" length="361949"/>
+    <summary>Sim: OTHER. FlightSimExpo, one of the worldâs largest conferences dedicated to all things flight simulation, has just opened registration for their 2024 event in Las Vegas, hosted at the Tropicana Resort from June 21st through the 23rd.  FlightSimExpo connects simmers, developers, and exhibitors in-person and online, and has hosted over 5000 people since the event started in 2018. Registration for the in-person event starts at $80 USD, but those who are Flight Simulation Association Captains get 20% off that price, and First Officers get 10% off. Becoming a Flight Simulation Association First Officer is free, so we highly suggest that you take advantage of this deal when registering. For those who canât physically make it to the event, you can register for that and watch live and recorded seminars for $15 USD. We on the Threshold team are very excited for next yearâs expo, and some of us on the team will be in Las Vegas for the event, and we hope to see some of our community members in Vegas!  You can register for the expo using this link!  â Be sure to stay tuned to Threshold for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
+    <published>2023-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/olborb</id>
+    <title>Orbx Releases Olbia Costa Smeralda V2 for MSFS</title>
+    <updated>2023-12-18T00:00:00+00:00</updated>
+    <link href="/news/olborb" rel="alternate"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/657fa56832773be891c94d81_olbia.jpg" rel="enclosure" type="image/jpeg" length="589633"/>
+    <summary>Sim: MSFS. Orbx has recently released their new rendition of Olbia Costa Smeralda Airport (LIEO) for Microsoft Flight Simulator, the 15th busiest airport in Italy with a yearly average of 2.9 million passengers.  It was built in 1974 and underwent heavy expansion work 30 years later, with a new 42,000 square meter terminal that could handle up to 4.5 million passengers a year, costing 81 million euros.  Itâs visited on a seasonal basis (summer, primarily) by Aegean Airlines, Aer Lingus, AeroItalia, Air France, AirBaltic, Austrian Airlines, British Airways, Brussels Airlines, Condor, easyJet, Edelweiss Air, Eurowings, flydubai, Iberia, ITA Airways, Jet2.com, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Smartwings, Swiss, Transavia, Volotea, Vueling, and WizzAir.   Developed by Matteo Veneziani, Olbia V2 is entirely scratch-built, with nothing left from V1, featuring new 4K textures, a terminal interior with passengers, new GSE vehicles, new ground layout, high-resolution ground textures, Olbia POIs, a fully modeled rendition of the Olbia harbor, performance-friendly optimization, and new animated jetways with custom sounds.  Itâs available onÂ OrbxDirectÂ for roughly $20.12, requiring at least 3.77 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-18T00:00:00+00:00</published>
   </entry>
 </feed>
