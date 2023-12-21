@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-12-20T18:22:13.839479+00:00</updated>
+  <updated>2023-12-21T18:20:27.119431+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/heatblur-indiafoxtecho-f-14/</id>
-    <title>Now Available: Heatblur &amp; IndiaFoxtEcho F-14 Tomcat</title>
-    <updated>2023-12-08T00:38:24+00:00</updated>
-    <link href="https://www.flightsimulator.com/heatblur-indiafoxtecho-f-14/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/msfs-heatblur-f-14a-01-1024x567.jpg" rel="enclosure" type="image/jpeg" length="46913"/>
-    <summary>The F-14 Tomcat is one of America’s most iconic jet aircraft, featuring a variable swept-wing design and impressive maneuverability and versatility. Developers Heatblur and IndiaFoxtEcho have worked together to create the most in-depth and accurate virtual depiction of this legendary aircraft that has ever been made. Years of research and development have resulted in the … Continued</summary>
-    <published>2023-12-08T00:38:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/sim-update-13-and-14-deployment-post-incident-report/</id>
     <title>Sim Update 13 and 14 Deployment Post-Incident Report</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_C207_NoSnipe_NoLogo_NoText-1024x576.png" rel="enclosure" type="image/png" length="213775"/>
     <summary>One of the aviation world’s most legendary light civil utility models is now available for Microsoft Flight Simulator pilots.</summary>
     <published>2023-12-19T16:06:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/holiday-sale-2023/</id>
+    <title>Holiday Sale: 1850+ Items On Sale Now in the Marketplace</title>
+    <updated>2023-12-20T21:06:54+00:00</updated>
+    <link href="https://www.flightsimulator.com/holiday-sale-2023/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_HolidaySale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122785"/>
+    <summary>For 14 Days starting on December 20th, save up to 79% on more than 1850 items.</summary>
+    <published>2023-12-20T21:06:54+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
