@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2023-12-21T18:20:27.119431+00:00</updated>
+  <updated>2023-12-22T18:21:30.125545+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/sim-update-13-and-14-deployment-post-incident-report/</id>
-    <title>Sim Update 13 and 14 Deployment Post-Incident Report</title>
-    <updated>2023-12-08T00:38:44+00:00</updated>
-    <link href="https://www.flightsimulator.com/sim-update-13-and-14-deployment-post-incident-report/" rel="alternate"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/errors_503_20231205_SU14-1024x504.png" rel="enclosure" type="image/png" length="61521"/>
-    <summary>During the deployment of Sim Update 13 on September 26 and Sim Update 14 on December 5, many players experienced issues with long or stuck downloads during the installation process. In both cases, we closely tracked the issue as it was occurring and escalated to the appropriate support teams as soon as the incident was … Continued</summary>
-    <published>2023-12-08T00:38:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/december-14th-2023-development-update/</id>
     <title>December 14th, 2023 – Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_HolidaySale2023_v1_1920x1080-1024x576.jpg" rel="enclosure" type="image/jpeg" length="122785"/>
     <summary>For 14 Days starting on December 20th, save up to 79% on more than 1850 items.</summary>
     <published>2023-12-20T21:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/december-21st-2023-development-update/</id>
+    <title>December 21st, 2023 – Development Update</title>
+    <updated>2023-12-21T22:45:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-21st-2023-development-update/" rel="alternate"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MicrosoftFlightSimulator_Premium_Shock-Ultra-3_3840x2160_RGB-1024x576.png" rel="enclosure" type="image/png" length="156061"/>
+    <summary>We will be skipping next week’s Update due to the holidays. We look forward to seeing you all again when the main Development Update blog returns on January 4, 2023!</summary>
+    <published>2023-12-21T22:45:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
