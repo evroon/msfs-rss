@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-25T18:21:10.801118+00:00</updated>
+  <updated>2023-12-26T18:21:16.345732+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gksfar</id>
-    <title>GKS announces development of the F-111E Aardvark</title>
-    <updated>2023-12-19T00:00:00+00:00</updated>
-    <link href="/news/gksfar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6581ce19756d1c4e755d44d2_HOG.jpeg"/>
-    <summary>Sim: MSFS. Golden Key Studio has unveiled their latest project, the development of the F-111 for MSFS, following their previous release of the MiG-21Bis Fishbed. The announcement was made via the flight simulator forums today. The Aardvark, an aircraft of the 1960s, was manufactured by General Dynamics and stands as a supersonic-capable medium-range multirole aircraft. It served various roles, excelling as an attack aircraft, bomber, reconnaissance, and electronic warfare platform. Primarily operated by the US Air Force and the Royal Australian Air Force, this aircraft witnessed over 500 units produced across six distinct variants. GKS has dedicated its efforts to the F-111E variant, powered by Pratt and Whitney's TF-30 engines that enable the F-111 to achieve speeds of up to Mach 2.5. Streamlining its high-speed capabilities is a swing-wing design reminiscent of the F-14 Tomcat. GKS has offered a sneak peek into the intricate details of the cockpit, ensuring a well-detailed version of its unique side-by-side seating cockpit. Judging by the screenshots shared by GKS, the exterior model appears to be nearing completion and or completed. While GKS has provided sparse details regarding pricing and release dates, we can anticipate additional information in the near future. Stay tuned to Threshold for updates on this exciting addition to the MSFS lineup.</summary>
-    <published>2023-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ispa3m</id>
     <title>iniBuilds Shares New Previews, Release Window of A300 for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6587b774045c2647b0ef9bc8_MOZZIE_2_1800x1800.webp"/>
     <summary>Sim: MSFS. Got Friends, who youâll know from their F4F Wildcat and Double Ender project, have released a new freeware helicopter for Microsoft Flight Simulator with a purpose.  Got Friends has developed the Mozzie Mk III as a way to help fundraise to help the father of one of their developers who needed emergency brain surgery to save his vision, you can read more about the situation on the familyâs gofundme page. As of writing the freeware project has raised over $350 through the gotfriends website with others donating directly to the gofundme.  The Mozzie Mk III is a single-seat ultralight helicopter with an open cockpit. Powered by a V-twin motorcycle engine the Mozzie is designed as a conventional tail rotor helicopter and as such is capable of autorotations. Overall the Mozzie is a very easy helicopter to fly and the perfect introduction for anyone wanting to learn how to fly them in the sim. You can download the Mozzie and donate directly to the gofundme through the Got Friends website.  On behalf of the writers and staff at Threshold, Iâd like to wish Scott a quick and easy recovery, our thoughts are with the entire Yaeger family this holiday season.Â Â </summary>
     <published>2023-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmp777</id>
+    <title>PMDG Previews Upcoming 777 for MSFS</title>
+    <updated>2023-12-25T00:00:00+00:00</updated>
+    <link href="/news/pmp777"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658a0b264e4124d02b1cff0e_t7.jpg"/>
+    <summary>Sim: MSFS. PMDG has recently published anotherÂ development updateÂ with further information on their upcoming Boeing 777 for Microsoft Flight Simulator, along with four new screenshots showcasing its external model.  Randazzo strongly emphasizes the modeling work placed on the triple seven, with accurate color distortions according to the viewing angle, visible and detailed rivets, and surface irregularities around the joints of the radome and the forward gear doors.Â  â  The tail area also brings great detail, with visibly different looks between the surfaces made of carbon fiber and aluminum.Â  â  They also report their upcoming product performs almost the same as their 737 lineup, meaning it wonât be particularly demanding despite the alleged 3D model improvements.Â   The fly-by-wire simulation, with its control laws and inherent oddities, is said to be accurately represented. Failures will be a possibility, too.  Itâs still undergoing beta testing, with more than 200 reports so far during the first phase of testing, half of which were already fixed, according to Randazzo.Â   More previews will be shared with the community in the days and weeks ahead, and they seem âhappy with the pace and character of the testing they have been doing thus far.â  Thereâs no pricing or release date information yet, but Threshold will keep you informed!</summary>
+    <published>2023-12-25T00:00:00+00:00</published>
   </entry>
 </feed>
