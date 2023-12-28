@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-27T18:21:12.326894+00:00</updated>
+  <updated>2023-12-28T18:21:45.713014+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ispa3m</id>
-    <title>iniBuilds Shares New Previews, Release Window of A300 for MSFS</title>
-    <updated>2023-12-19T00:00:00+00:00</updated>
-    <link href="/news/ispa3m"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6581f7dfadd0cb1d41e34fee_image.png.c1be82351e3ecdad9385849f62b31ea8_1_90-2.png"/>
-    <summary>Sim: MSFS. iniBuilds have just released a development update, as well as a trailer and new preview images of their upcoming Airbus A300-600R for Microsoft Flight Simulator. The development update includes lots of information covering the highly-anticipated airliner, including a full list of features that we can expect on release. iniBuilds have also announced that release of the A300 will come before the end of this year, and they signaled that release could be just days away. Getting right to the feature list, iniBuilds have provided quite an extensive list in this development update, so below is an abbreviated list with some of the most important information: iniBuilds also shared an updated timeline on future updates for the A300, starting with a hotfix, as well as submitting an optimized Xbox version in the Marketplace in January. This is followed by the addition of the Pratt and Whitney engine variant and full ACARS/CPDLC functionality for free, which they expect to release in Q1 2024. After this will be a paid expansion that adds the EPIC avionics package seen on many updated A300F variants, particularly with UPS. For the full details on this exciting new development for iniBuildâs most recent airliner, you can go to the forum post here. â While iniBuilds have not mentioned a firm release date, Threshold will keep you informed whenever they do, so stay tuned for this and for more high quality flight simulation news and reviews on the latest in flight simulation!</summary>
-    <published>2023-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/acotpe</id>
     <title>Aco Design Studio Releases Taiwan Taoyuan International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658a0b264e4124d02b1cff0e_t7.jpg"/>
     <summary>Sim: MSFS. PMDG has recently published anotherÂ development updateÂ with further information on their upcoming Boeing 777 for Microsoft Flight Simulator, along with four new screenshots showcasing its external model.  Randazzo strongly emphasizes the modeling work placed on the triple seven, with accurate color distortions according to the viewing angle, visible and detailed rivets, and surface irregularities around the joints of the radome and the forward gear doors.Â  â  The tail area also brings great detail, with visibly different looks between the surfaces made of carbon fiber and aluminum.Â  â  They also report their upcoming product performs almost the same as their 737 lineup, meaning it wonât be particularly demanding despite the alleged 3D model improvements.Â   The fly-by-wire simulation, with its control laws and inherent oddities, is said to be accurately represented. Failures will be a possibility, too.  Itâs still undergoing beta testing, with more than 200 reports so far during the first phase of testing, half of which were already fixed, according to Randazzo.Â   More previews will be shared with the community in the days and weeks ahead, and they seem âhappy with the pace and character of the testing they have been doing thus far.â  Thereâs no pricing or release date information yet, but Threshold will keep you informed!</summary>
     <published>2023-12-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fswl35</id>
+    <title>Flysimware Learjet 35A for MSFS releases for Early Acess</title>
+    <updated>2023-12-28T00:00:00+00:00</updated>
+    <link href="/news/fswl35"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658d98d750a91e0a7c257086_sV2UWfE.jpeg"/>
+    <summary>Sim: MSFS. Flysimware has released their Learjet 35A into early access. The learjet 35A, which was previously available in P3D, has been updated to take use of new features found in MSFS.Â According to Flysimware users of the older FSX/P3D version will notice this product to be more accurate with a steep learning curve to understand the compex systems of the aircraft.Â  The Learjet 35 first flew in 1971 ands started production in 1973, with the upgraded Learjet 35A starting production in 1975. The learjet 35 is a light business jet that can carry about 8 passengers. The learjet 35A is an upgraded version of the airplane with more powerful TFE731-2-2B engines and upgraded avionics. The 35A also supported wing-tip fuel tanks that extended the range of the aircraft to around 2,700 Nm.Â  The Flysimware Learjet 35A is currently in early access, with no manuals or tutorials included at this time. Flysimware stated that the product is flight worthy, however a discord is available to discuss systems and aircraft bugs, updates will be available to address bugs before the final release. The FSW Learjet 35A currently supports the Asobo Garmin 530 as well as both the PMS/TDS GTN 750.Â  To join this early access period for the Flysimware Learjet 35A, head over to the Flysimware Store. The cost to join the early access is $39.99 USD and will include an update to the final release when available. For more information about the product, see the Flysimware Discord.Â Â </summary>
+    <published>2023-12-28T00:00:00+00:00</published>
   </entry>
 </feed>
