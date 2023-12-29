@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-28T18:21:45.713014+00:00</updated>
+  <updated>2023-12-29T18:21:16.277219+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/acotpe</id>
-    <title>Aco Design Studio Releases Taiwan Taoyuan International Airport for MSFS</title>
-    <updated>2023-12-19T00:00:00+00:00</updated>
-    <link href="/news/acotpe"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65820873779bdb0d3c572a27_taipei2.jpg"/>
-    <summary>Sim: MSFS. Aco Design Studio has recently released their rendition of Taiwan Taoyuan International Airport (RCTP) for Microsoft Flight Simulator, serving Northern Taiwan with a yearly average of 48.7 million passengers.  It opened in 1979 as Chiang Kai-shek International Airport, replacing Songshan Airport as Taipeiâs main airport due to overcrowding and limited expansion possibilities.Â   At first, it only had a single passenger terminal, but a second one was inaugurated in mid-2000, with only half of its gates in operating order. It only became fully functional in 2005.Â   A third terminal is currently under construction, increasing the passenger handling capabilities to 86 million passengers a year in total (45 million for that terminal alone). It will take 640,000 square meters of land and cost around 2.3 billion USD.  Itâs a hub for China Airlines, EVA Air, Mandarin Airlines, Starlux Airlines, Tigerair Taiwan, and UNI Air. The visitorsâ list includes AirAsia, Air Macau, Air New Zealand, Asiana Airlines, Cathay Pacific, Cebu Pacific, China Eastern, China Southern, Delta Air Lines, Emirates, Japan Airlines, Jeju Air, KLM, Korean Air, Malaysia Airlines, Peach, Philippine Airlines, Singapore Airlines, Turkish Airlines, United Airlines, and Vietnam Airlines.  The scenery features an accurate rendition of the airport, with a high-detail terminal and interior, custom ground textures, custom night lighting, static ground vehicles, and a custom GSX profile.   Itâs available onÂ SimMarketÂ for roughly $24.01, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msfcuv</id>
     <title>Microsoft Flight Simulator Releases City Update V</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658d98d750a91e0a7c257086_sV2UWfE.jpeg"/>
     <summary>Sim: MSFS. Flysimware has released their Learjet 35A into early access. The learjet 35A, which was previously available in P3D, has been updated to take use of new features found in MSFS.Â According to Flysimware users of the older FSX/P3D version will notice this product to be more accurate with a steep learning curve to understand the compex systems of the aircraft.Â  The Learjet 35 first flew in 1971 ands started production in 1973, with the upgraded Learjet 35A starting production in 1975. The learjet 35 is a light business jet that can carry about 8 passengers. The learjet 35A is an upgraded version of the airplane with more powerful TFE731-2-2B engines and upgraded avionics. The 35A also supported wing-tip fuel tanks that extended the range of the aircraft to around 2,700 Nm.Â  The Flysimware Learjet 35A is currently in early access, with no manuals or tutorials included at this time. Flysimware stated that the product is flight worthy, however a discord is available to discuss systems and aircraft bugs, updates will be available to address bugs before the final release. The FSW Learjet 35A currently supports the Asobo Garmin 530 as well as both the PMS/TDS GTN 750.Â  To join this early access period for the Flysimware Learjet 35A, head over to the Flysimware Store. The cost to join the early access is $39.99 USD and will include an update to the final release when available. For more information about the product, see the Flysimware Discord.Â Â </summary>
     <published>2023-12-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniuae</id>
+    <title>iniBuilds Releases Airbus A300-600R for MSFS</title>
+    <updated>2023-12-29T00:00:00+00:00</updated>
+    <link href="/news/iniuae"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3c811516bf3a35353721_inia300.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently released their rendition of the Airbus A300-600R for Microsoft Flight Simulator, the modern and longer version of the classic A300, certified in 1984 and still operating today for many cargo airlines and a few passenger airlines.  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2 engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.  The add-on features authentic systems, a custom FMS, custom VNAV and LNAV, custom hydraulic, pressurization, electric, and fuel systems, a maintenance system with cautions and warnings triggered by ignoring it, realistic RNAV, and autoland capability. The flight model is tuned to represent the aircraftâs behavior and intricacies accurately.  The textures are PBR and up to 8K quality, with lower texture packs available for lower-end systems. The cockpit and external models for the passenger and cargo variants were entirely reworked.  The sound environment is fully tridimensional, using real recordings of the engine and cabin switches.Â   Additional features include an Electronic Flight Bag, a basic ground handling set, and pre-set cargo loads with visual models.  Itâs important to note that the PW engine variant and CPDLC/ACARS will be available later.  Itâs available on theÂ iniBuilds StoreÂ for roughly $44.55, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-29T00:00:00+00:00</published>
   </entry>
 </feed>
