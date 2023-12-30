@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2023-12-29T18:21:16.277219+00:00</updated>
+  <updated>2023-12-30T18:21:26.330843+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msfcuv</id>
-    <title>Microsoft Flight Simulator Releases City Update V</title>
-    <updated>2023-12-19T00:00:00+00:00</updated>
-    <link href="/news/msfcuv"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65820d3883b577c78dbc2d7e_cuv.jpg"/>
-    <summary>Sim: MSFS. Microsoft Flight Simulator has recently released a new update with a curated selection of renowned European cities, developed in conjunction with Bing Maps and Vexcel. City Update V: European Cities 1 includes five urban regions throughout Europe: The Hague (Netherlands), Brussels (Belgium), KoÅ¡ice (Slovakia), Zagreb (Croatia), and CÃ¡diz (Spain), developed with the latest geographic information and triangulated irregular network surface modeling.  The update is free to all owners of Microsoft Flight Simulator on all platforms. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msfces</id>
-    <title>Microsoft Flight Simulator Releases Cessna T207A Stationair</title>
-    <updated>2023-12-19T00:00:00+00:00</updated>
-    <link href="/news/msfces"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65821348c28a5038b6c0724c_station.jpg"/>
-    <summary>Sim: MSFS. Microsoft Flight Simulator has recently released the new iteration of their Famous Flyer lineup: the Cessna T207A Stationair, a legendary light civil utility model with over 600 airframes built over 15 years of production (1969-1984). The Cessna 207 is the eight-seat variant of the Cessna 205/206, which was essentially a Cessna 210 with fixed landing gear and changes to the crew and passenger door arrangement. With a slightly longer fuselage (114 cm) and a nose section extension, it could fit more seats and more luggage, transforming it into the ideal flying wagon. Its real-world usage case varies from air taxi applications to skydiving, aerial photography, and private use. The airplane is powered by a Continental TSIO-520-M, producing up to 310 horsepower, a range of 671 miles, a cruise speed of 185 miles per hour, and a service ceiling of 26,000 ft ASL. The add-on features three variations: cargo, standard, and skydiving, with 20 liveries in total.  Itâs available on the Marketplace for $14.99.Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/avifre</id>
     <title>Aviotek Softwareâs Frankfurt International Airport for MSFS Releasing for Free in 2024</title>
@@ -140,7 +122,7 @@
     <updated>2023-12-28T00:00:00+00:00</updated>
     <link href="/news/fswl35"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658d98d750a91e0a7c257086_sV2UWfE.jpeg"/>
-    <summary>Sim: MSFS. Flysimware has released their Learjet 35A into early access. The learjet 35A, which was previously available in P3D, has been updated to take use of new features found in MSFS.Â According to Flysimware users of the older FSX/P3D version will notice this product to be more accurate with a steep learning curve to understand the compex systems of the aircraft.Â  The Learjet 35 first flew in 1971 ands started production in 1973, with the upgraded Learjet 35A starting production in 1975. The learjet 35 is a light business jet that can carry about 8 passengers. The learjet 35A is an upgraded version of the airplane with more powerful TFE731-2-2B engines and upgraded avionics. The 35A also supported wing-tip fuel tanks that extended the range of the aircraft to around 2,700 Nm.Â  The Flysimware Learjet 35A is currently in early access, with no manuals or tutorials included at this time. Flysimware stated that the product is flight worthy, however a discord is available to discuss systems and aircraft bugs, updates will be available to address bugs before the final release. The FSW Learjet 35A currently supports the Asobo Garmin 530 as well as both the PMS/TDS GTN 750.Â  To join this early access period for the Flysimware Learjet 35A, head over to the Flysimware Store. The cost to join the early access is $39.99 USD and will include an update to the final release when available. For more information about the product, see the Flysimware Discord.Â Â </summary>
+    <summary>Sim: MSFS. Flysimware has released their Learjet 35A into early access. The Learjet 35A, which was previously available in P3D, has been updated to take use of new features found in MSFS.Â According to Flysimware users of the older FSX/P3D version will notice this product to be more accurate with a steep learning curve to understand the compex systems of the aircraft.Â  The Learjet 35 first flew in 1971 ands started production in 1973, with the upgraded Learjet 35A starting production in 1975. The learjet 35 is a light business jet that can carry about 8 passengers. The learjet 35A is an upgraded version of the airplane with more powerful TFE731-2-2B engines and upgraded avionics. The 35A also supported wing-tip fuel tanks that extended the range of the aircraft to around 2,700 Nm.Â  The Flysimware Learjet 35A is currently in early access, with no manuals or tutorials included at this time. Flysimware stated that the product is flight worthy, however a discord is available to discuss systems and aircraft bugs, updates will be available to address bugs before the final release. The FSW Learjet 35A currently supports the Asobo Garmin 530 as well as both the PMS/TDS GTN 750.Â  To join this early access period for the Flysimware Learjet 35A, head over to the Flysimware Store. The cost to join the early access is $39.99 USD and will include an update to the final release when available. For more information about the product, see the Flysimware Discord.Â Â </summary>
     <published>2023-12-28T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3c811516bf3a35353721_inia300.webp"/>
     <summary>Sim: MSFS. iniBuilds has recently released their rendition of the Airbus A300-600R for Microsoft Flight Simulator, the modern and longer version of the classic A300, certified in 1984 and still operating today for many cargo airlines and a few passenger airlines.  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2 engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.  The add-on features authentic systems, a custom FMS, custom VNAV and LNAV, custom hydraulic, pressurization, electric, and fuel systems, a maintenance system with cautions and warnings triggered by ignoring it, realistic RNAV, and autoland capability. The flight model is tuned to represent the aircraftâs behavior and intricacies accurately.  The textures are PBR and up to 8K quality, with lower texture packs available for lower-end systems. The cockpit and external models for the passenger and cargo variants were entirely reworked.  The sound environment is fully tridimensional, using real recordings of the engine and cabin switches.Â   Additional features include an Electronic Flight Bag, a basic ground handling set, and pre-set cargo loads with visual models.  Itâs important to note that the PW engine variant and CPDLC/ACARS will be available later.  Itâs available on theÂ iniBuilds StoreÂ for roughly $44.55, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2023-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniu36</id>
+    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
+    <updated>2023-12-30T00:00:00+00:00</updated>
+    <link href="/news/iniu36"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3ce4907680bdcf3367a3_inia3003.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently updated their newly released Airbus A300-600R for Microsoft Flight Simulator, fixing various issues ranging from VNAV tweaks to CTD mitigations.Â   Version 1.0.1, the first patch for the A300 so far, brings a substantial list of fixes and improvements to their brand-new release for MSFS. The changelog follows below:   The airplane is available on theÂ iniBuilds StoreÂ for roughly $44.55, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2023-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sayinai</id>
+    <title>SayIntentions.AI receives launch date and updates on pricing.</title>
+    <updated>2023-12-30T00:00:00+00:00</updated>
+    <link href="/news/sayinai"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65902e79129400a37b98b792_Untitled-1.jpg"/>
+    <summary>Sim: X-Plane. Several months ago, we covered a potentially game-changing AI Air Traffic Control (ATC) system activated and controlled using your voice. SayIntentions.AI enables users to employ natural language and phraseology commonly used in real-world aviation communications. The primary goal is to provide users with an , life like, interactive communication experience, making SayIntentions.AI ideal for thoseÂ new to learning aviation radio communications. The team behind SayIntentions.AI, (formerly known as SmartSky.AI) plans to launch the product on January 15th, 2024. Their vision is to "create something that is not only comprehensive but also undeniably more enjoyable to use than flying solo," while addressing the challenge of making live ATC less intimidating. Since the initial announcement, the team has made significant progress. SayIntentions.AI can now support Class-B, C, and D airspaces, providing services such as flight following, radar services, traffic advisories, closed traffic pattern work, Air Traffic Services (ATS), Terminal Radar Approach Control (TRACON), Air Route Traffic Control Center (ARTCC), Visual Flight Rules (VFR) transitions, routes, and flight plans for every airport in the United States. Sayintentions.AI works with both X-Plane and Microsoft Flight Simulator with flexibility across both sim platforms. Additional features include custom voices for specific airports, and controllers will possess their own personalities, adding uniqueness to certain areas. The team outlined various procedures in a Reddit post, including noise abatement procedures and guided directions to specific landmarks as well. SayIntentions.AI also includes a student pilot mode designed for learning the ropes, with more patient controllers allowing users to ask questions, prompting ATC to provide assistance. The team is fine-tuning the last five percent to achieve the perfect finished state. Pricing details are still in progress, set with a subscription-based service at a monthly rate of possibly $15-20. A trial version will be available around the Lake Tahoe Reno, Nevada area, allowing users to "try before you buy."To learn more about SayIntentions.AI see the Riddit post, website, SayIntention.AI's Discord and check out the demo YouTube video below. You can also sign up for the wait list via SayIntention.AI's website! https://sayintentions.ai â Of course stay tuned to Threshold for more news and updates on SayIntentions.AI!</summary>
+    <published>2023-12-30T00:00:00+00:00</published>
   </entry>
 </feed>
