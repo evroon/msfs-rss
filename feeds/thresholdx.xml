@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-03T18:22:23.213719+00:00</updated>
+  <updated>2024-01-04T18:22:23.443693+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ppbs</id>
-    <title>PixelPlanes and Aerosoft Release Breezer Sport</title>
-    <updated>2023-12-20T00:00:00+00:00</updated>
-    <link href="/news/ppbs"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6582ad4c0e257519f9956a22_05.jpg"/>
-    <summary>Sim: MSFS. PixelPlanes and Aerosoft have released their newest project, the two-seat ultralight Breezer Sport. The release comes just days after the initial product announcement.Â  The Breezer Sport as mentioned above is a 2-seater ultralight aircraft and features a full aluminum construction with a Rotax 915 iS/iSC power plant. The German-manufactured Breezer has a cruising speed of 145 knots and a maximum range of 755 nm. The aircraft also features a retractable landing gear. â Pixel Planes and Aerosoft's rendition of the Breezer Sport features an authentic interior and cockpit, modeled after the original specifications from Breezer Aircraft. The aircraft features several animations and ground objects, this includes the opening/closing of the canopy as well as a removable safety pin and pitot cover. The cockpit features a full glass panel with integrated AS3 touch systems and a simplified RSFlight EMU for displaying engine information. The Breezer Sport can be purchased from the Aerosoft website for $22 USD.Â  â Stay tuned to Threshold for all your flight simulation news!</summary>
-    <published>2023-12-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/justfl</id>
     <title>Just Flight Publishes End of Year Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6592f5aa9a3b5154f6bba82f_BANN.jpg"/>
     <summary>Sim: MSFS. COWS, the development team responsible for the upcoming DA42 aircraft in Microsoft Flight Simulator and X-Plane 12, has recently unveiled a teaser, showcasing their latest project. The trailer provides a glimpse into the noteworthy visual features that COWS has meticulously focused on. COWS is aiming to deliver the most accurate DA42 TDi experience for both flight simulators. According to the team, the COWS DA42 promises the ultimate multi-engine experience through its emphasis on precise flight modeling, detailed systems modeling, and the implementation of an in-house COWS NXi COWS G1000 replica. This replica will boast numerous screen configurations and menu operations, complemented by the inclusion of RAIM prediction. The detailed operational experience has been carefully crafted to cater specifically to students, offering a platform to practice critical procedures and maneuvers. The entire project is built by the hands of DA42 pilots and student pilots to ensure accuracy in both Microsoft Flight Simulator/FS2024 and XP12. Originating from the late 1990s brainstorming sessions, the DA42 has undergone numerous iterations during its 24-year production span. The latest iteration, the DA42-VI, has gained popularity among consumers as a luxurious four-seater featuring modern construction, materials, and cutting-edge avionics. Additionally, the DA42 has made significant inroads into the flight training market, serving as a robust twin-engine trainer utilized globally to prepare pilots for complex multi-engine aircraft types.Renowned for its efficiency, the DA42 offers unique engine options, such as aerodiesels co-designed with Mercedes-Benz and Austro Engine GmbH. The Austro diesels contribute to a remarkable 46% improvement in fuel efficiency compared to the gasoline models. COWS is currently putting the finishing touches on the project, indicating an imminent release within the next few weeks. While no details regarding pricing or specific vendors have been disclosed at this point, anticipate the release of such information as the project approaches a confirmed launch date. Keep an eye on Threshold for additional updates regarding the release of the COWS DA42-VI!</summary>
     <published>2024-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/para42</id>
+    <title>Parallel 42 Releases a free new utility for Microsoft Flight Simulator.</title>
+    <updated>2024-01-03T00:00:00+00:00</updated>
+    <link href="/news/para42"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6595adc63c4cf7f2e3a204ea_Main.jpg"/>
+    <summary>Sim: MSFS. Parallel 42 has recently released Simstaller for FS2020. The software is designed to detect add-on conflicts and installation issues related to the complexity of installing modifications to the simulation. It is a lightweight standalone application that runs in the background of Windows. Initially, Parallel 42 planned to offer the utility as a payware product but later realized that it was a must-have for users who download from community sites like flightsim.to.   The Virtual File System (VFS) scans and detects issues, alerting you to packages that override critical core operations or unintended game modifications. With Simstaller, you can identify who or what is overriding the functions of the simulation. Simstaller provides welcome relief for individuals fatigued by the constant need to troubleshoot errors and pinpoint the root causes of issues within Microsoft Flight Simulator's community folder. âThe Parallel 42 Simstaller app is available free on parallel42.com. â</summary>
+    <published>2024-01-03T00:00:00+00:00</published>
   </entry>
 </feed>
