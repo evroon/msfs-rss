@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-01-04T18:22:22.085772+00:00</updated>
+  <updated>2024-01-05T18:22:01.520609+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/december-14th-2023-development-update/</id>
-    <title>December 14th, 2023 – Development Update</title>
-    <updated>2023-12-15T01:00:56+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-14th-2023-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/@Daisuke12J-Twitter-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @Daisuke12J! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!While the year is quickly coming to a close, we have two final releases to share with you before we say goodbye to 2023! City Update 5: European … Continued</summary>
-    <published>2023-12-15T01:00:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/city-update-v-european-cities/</id>
     <title>Microsoft Flight Simulator Releases City Update V: European Cities I</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MicrosoftFlightSimulator_Premium_Shock-Ultra-3_3840x2160_RGB-1024x576.png"/>
     <summary>We will be skipping next week’s Update due to the holidays. We look forward to seeing you all again when the main Development Update blog returns on January 4, 2023!</summary>
     <published>2023-12-21T22:45:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-4th-2024-development-update/</id>
+    <title>January 4th, 2024 – Development Update</title>
+    <updated>2024-01-05T00:08:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-4th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/ZKd0s-Forums-e1704362887767-1024x561.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user ZKd0s! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Happy new year! Our team has returned to work following the holiday break refreshed and recharged. We hope everyone in our player community had a relaxing, peaceful, and … Continued</summary>
+    <published>2024-01-05T00:08:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
