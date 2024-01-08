@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-07T18:21:11.455238+00:00</updated>
+  <updated>2024-01-08T18:23:15.676585+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gkfa</id>
-    <title>Golden Key Studio Releases F-111 Ardvark For MSFS</title>
-    <updated>2023-12-23T00:00:00+00:00</updated>
-    <link href="/news/gkfa"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65874afa4e4124d02bf27138_chrome_MD6qQXfE8R.png"/>
-    <summary>Sim: MSFS. Golden Key Studio (also known as GKS) have released their rendition of the F-111E Ardvark for Microsoft Flight Simulator. The release comes just days after the most recent update on the projectâs development.  Originally developed by General Dynamics in the early 60's, the F-111E, nicknamed the Aardvark, was a pioneer for the development of features that would become a staple of modern combat aircraft. The Ardvark was the first production aircraft to feature variable-sweep wings. The platform also played a pivotal role in the design of modern after-burning engines. The Aardvark first entered service with the USAF in 1967, and the Australian government later purchased the E variant of the F-111. While the RAAF only ever deployed their F-111s as a deterrent, the USAF flew over 4000 combat missions in both the Vietnam and Gulf Wars. The USAF retired their F-111s in 1996 while the RAAF had theirs in active service until 2010.  âGKS promises users of the F-111 will experience an authentic flight model with impressive graphics and a highly detailed cockpit featuring accurate aircraft systems. GKS has kept the development of the Ardvark pretty quiet overall, and while there isnât a ton of information available on their latest offering it is expected that it will be up to the same standard as their MiG-21.  For more flight simulation updates be sure to stay tuned to Threshold!</summary>
-    <published>2023-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ini350</id>
-    <title>iniBuilds Announces A350 for Microsoft Flight Simulator</title>
-    <updated>2023-12-24T00:00:00+00:00</updated>
-    <link href="/news/ini350"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65911ed7cd9c0ce21ec663c5_image.png.051e0ac6d66aa7250bd9ccaff8484286.png"/>
-    <summary>Sim: MSFS. Earlier this week, developer iniBuilds have announced their next major project, the Airbus A350 for Microsoft Flight Simulator. The unveiling, released as part of iniBuildâs 2024 roadmap, comes as a surprise for the community and adds to the developerâs lineup of upcoming aircraft that includes the A380 and the A300-600R. â According to iniBuilds, the team has already been working hard on the A350 over the past few months and, as shown in the WIP previews provided, has completed a great part of the planeâs exterior modeling. The finished product is expected to feature both the -900 (2 winglet options) and the -1000 variants.  In addition, iniBuilds is currently looking for individuals such as pilots and engineers who have experience working with the A350 in effort to improve the realism of the final product. â Currently, the iniBuilds is forecasting a release date sometime in 2024, though a specific date is yet to be announced. Threshold will keep you updated on the progress of the A350, including its features, pricing, etc.</summary>
-    <published>2023-12-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gfmt</id>
     <title>Got Friends Releases Freeware Mozzie Mk III</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6598a0fc6bfd855983d32fa9_vskylabs-r44-v3.0-011.png"/>
     <summary>Sim: X-Plane. VSKYLABS Aerospace Simulations, well-known forÂ introducing unique niche aircraft to the X-Plane flight simulator, has recently launched the release of their Robinson R44 Raven II project. This release follows VSKYLABS' previous introduction of the iconic SR-71, a supersonic spy plane from the Cold War era. Showing an continuing commitment to delivering iconic aircraft, the VSKYLABS team has updated the R44 in a significant release, aligning it with compatibility for the latest version of Laminar Research's Â X-Plane 12.0.08, complete with refined flight dynamics and more.R44, a four-seat rotor-wing aircraft made by Robinson Aircraft in Torrance, California, evolved from earlier models like the R22, boasting a larger cabin and improved performance. With over 5,000 deliveries, it's one of the best-selling GA helicopters, finding use in various applications from sightseeing to government operations. Over the past several weeks, the team has diligently worked on various aspects of the update. Their primary focus has encompassed deep-tuning the drive train simulation, enhancing aircraft performance and handling qualities, and improving auto rotation and landing skid dynamics, all while enhancing engine power gradient accuracies. This substantial update also introduces graphical improvements, including an all-encompassing PBR setup to align with X-Plane 12's rendering engine. Additional default liveries were also added to the package for more variety. Furthermore, the update addresses sound by converting FMOD sound packs to v2.0x and introducing physics-based blade angle slap sounds. This update is available to existing customers of the VSKYLAB R44 package through the auto-updater. VSKYLABS recommends downloading the store build package to "bridge the gap between the user-end progressive version and the base build version." You can access the complete update log and purchase the Robinson Raven on the VSKYLABS website atÂ www.vskylabs.com. The project is also accessible via the x-plane.org store website. As usual, stay tuned to Threshold for more flight simulation news and updates!</summary>
     <published>2024-01-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blgbra</id>
+    <title>Brazil Land Games Previews BrasÃ­lia International Airport for MSFS</title>
+    <updated>2024-01-07T00:00:00+00:00</updated>
+    <link href="/news/blgbra"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659b2c4c68bfcd1c9cfde99b_bra1.jpg"/>
+    <summary>Sim: MSFS. Brazil Land Games has shared more previews of their upcoming BrasÃ­lia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, terminal interiors, custom jetways, detailed landside, and more.  Thereâs no release date yet, but itâs said to be âalmost there.âStay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-01-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniapw</id>
+    <title>iniBuilds Previews PW Update for Airbus A300-600R </title>
+    <updated>2024-01-08T00:00:00+00:00</updated>
+    <link href="/news/iniapw"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659c11fb9bb2494c2f1d6997_pw.png"/>
+    <summary>Sim: MSFS. iniBuilds has recently teased the progress on the Pratt &amp; Whitney JT9D engines for their recently released Airbus A300-600R for Microsoft Flight Simulator, along with info on a new bugfix update (1.03).  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2/Pratt &amp; Whitney JT9D engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.Â   iniBuilds claims to be working hard on update 1.03, which will bring more fixes and EFB updates, set to be released at one point this week.Â   The add-on is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-01-08T00:00:00+00:00</published>
   </entry>
 </feed>
