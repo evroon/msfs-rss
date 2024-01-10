@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-09T18:18:34.489329+00:00</updated>
+  <updated>2024-01-10T18:22:52.558823+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gfmt</id>
-    <title>Got Friends Releases Freeware Mozzie Mk III</title>
-    <updated>2023-12-24T00:00:00+00:00</updated>
-    <link href="/news/gfmt"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6587b774045c2647b0ef9bc8_MOZZIE_2_1800x1800.webp"/>
-    <summary>Sim: MSFS. Got Friends, who youâll know from their F4F Wildcat and Double Ender project, have released a new freeware helicopter for Microsoft Flight Simulator with a purpose.  Got Friends has developed the Mozzie Mk III as a way to help fundraise to help the father of one of their developers who needed emergency brain surgery to save his vision, you can read more about the situation on the familyâs gofundme page. As of writing the freeware project has raised over $350 through the gotfriends website with others donating directly to the gofundme.  The Mozzie Mk III is a single-seat ultralight helicopter with an open cockpit. Powered by a V-twin motorcycle engine the Mozzie is designed as a conventional tail rotor helicopter and as such is capable of autorotations. Overall the Mozzie is a very easy helicopter to fly and the perfect introduction for anyone wanting to learn how to fly them in the sim. You can download the Mozzie and donate directly to the gofundme through the Got Friends website.  On behalf of the writers and staff at Threshold, Iâd like to wish Scott a quick and easy recovery, our thoughts are with the entire Yaeger family this holiday season.Â Â </summary>
-    <published>2023-12-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmp777</id>
-    <title>PMDG Previews Upcoming 777 for MSFS</title>
-    <updated>2023-12-25T00:00:00+00:00</updated>
-    <link href="/news/pmp777"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658a0b264e4124d02b1cff0e_t7.jpg"/>
-    <summary>Sim: MSFS. PMDG has recently published anotherÂ development updateÂ with further information on their upcoming Boeing 777 for Microsoft Flight Simulator, along with four new screenshots showcasing its external model.  Randazzo strongly emphasizes the modeling work placed on the triple seven, with accurate color distortions according to the viewing angle, visible and detailed rivets, and surface irregularities around the joints of the radome and the forward gear doors.Â  â  The tail area also brings great detail, with visibly different looks between the surfaces made of carbon fiber and aluminum.Â  â  They also report their upcoming product performs almost the same as their 737 lineup, meaning it wonât be particularly demanding despite the alleged 3D model improvements.Â   The fly-by-wire simulation, with its control laws and inherent oddities, is said to be accurately represented. Failures will be a possibility, too.  Itâs still undergoing beta testing, with more than 200 reports so far during the first phase of testing, half of which were already fixed, according to Randazzo.Â   More previews will be shared with the community in the days and weeks ahead, and they seem âhappy with the pace and character of the testing they have been doing thus far.â  Thereâs no pricing or release date information yet, but Threshold will keep you informed!</summary>
-    <published>2023-12-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fswl35</id>
-    <title>Flysimware Learjet 35A for MSFS Releases for Early Access</title>
-    <updated>2023-12-28T00:00:00+00:00</updated>
-    <link href="/news/fswl35"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658d98d750a91e0a7c257086_sV2UWfE.jpeg"/>
-    <summary>Sim: MSFS. Flysimware has released their Learjet 35A into early access. The Learjet 35A, which was previously available in P3D, has been updated to take use of new features found in MSFS.Â According to Flysimware users of the older FSX/P3D version will notice this product to be more accurate with a steep learning curve to understand the compex systems of the aircraft.Â  The Learjet 35 first flew in 1971 ands started production in 1973, with the upgraded Learjet 35A starting production in 1975. The learjet 35 is a light business jet that can carry about 8 passengers. The learjet 35A is an upgraded version of the airplane with more powerful TFE731-2-2B engines and upgraded avionics. The 35A also supported wing-tip fuel tanks that extended the range of the aircraft to around 2,700 Nm.Â  The Flysimware Learjet 35A is currently in early access, with no manuals or tutorials included at this time. Flysimware stated that the product is flight worthy, however a discord is available to discuss systems and aircraft bugs, updates will be available to address bugs before the final release. The FSW Learjet 35A currently supports the Asobo Garmin 530 as well as both the PMS/TDS GTN 750.Â  To join this early access period for the Flysimware Learjet 35A, head over to the Flysimware Store. The cost to join the early access is $39.99 USD and will include an update to the final release when available. For more information about the product, see the Flysimware Discord.Â Â </summary>
-    <published>2023-12-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniuae</id>
     <title>iniBuilds Releases Airbus A300-600R for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659c11fb9bb2494c2f1d6997_pw.png"/>
     <summary>Sim: MSFS. iniBuilds has recently teased the progress on the Pratt &amp; Whitney JT9D engines for their recently released Airbus A300-600R for Microsoft Flight Simulator, along with info on a new bugfix update (1.03).  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2/Pratt &amp; Whitney JT9D engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.Â   iniBuilds claims to be working hard on update 1.03, which will bring more fixes and EFB updates, set to be released at one point this week.Â   The add-on is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2024-01-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simtha</id>
+    <title>SIMMAN Releases Nakhon Si Thammarat International Airport for MSFS</title>
+    <updated>2024-01-09T00:00:00+00:00</updated>
+    <link href="/news/simtha"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d8f49ec4ffc74ad0d4a83_tha1.jpg"/>
+    <summary>Sim: MSFS. SIMMAN has recently released their rendition of Nakhon Si Thammarat International Airport (VTSF) for Microsoft Flight Simulator, serving the municipality of Nakhon Si Thammarat in Thailand with a yearly average of 1.2 million passengers.  It opened in 1998, replacing Cha-ian Airport as the main airport for Nakhon Si Thammarat residents, with a 7,985 square meter passenger terminal handling a maximum of 2,504 daily passengers.  A new passenger terminal was built recently, with three stories, the first for arrivals, the second for departures, and the third for shops and restaurants. It has been in operation since September 2023. The total area is around 30,600 square meters, accommodating up to a thousand passengers per hour.  Nok Air, Thai AirAsia, and Thai Lion Air serve it with flights to Don Mueang International (Bangkok).  The scenery features an accurate rendition of the airport, with a realistic passenger terminal model and its interior, custom ground textures, custom jetways, and an up-to-date ground layout.   Itâs available onÂ SimMarketÂ for roughly $15.86, requiring at least 3.18 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xomhar</id>
+    <title>Xometry Design Releases Harrisburg International Airport for MSFS</title>
+    <updated>2024-01-09T00:00:00+00:00</updated>
+    <link href="/news/xomhar"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d92b1e511c1fc19a38f09_har1.webp"/>
+    <summary>Sim: MSFS. Xometry Design has recently released their rendition of Harrisburg International Airport (KMDT) for Microsoft Flight Simulator, serving the city of Harrisburg, Pennsylvania, with a yearly average of 1.1 million passengers.  The airport dates back to 1898, when the Signal Corps of the US Army was stationed there, building what would become Olmsted Field and having its first planes landing in 1918.  It was used almost exclusively for military purposes up until 1969 when the Middletown Air Depot closed, and airline flights moved from the nearby Capital City Airport to Olmstead State Airport, renamed Harrisburg International Airport in 1973, which was also when the passenger terminal reached full completion, designed by architect William Pereira.  Thirty-one years after the passenger terminalâs inauguration, a new 360,000 square-foot terminal was built, costing around $120 million and designed by the Sheward Partnership.  Allegiant, American, American Eagle, Delta, Delta Connection, Frontier, United, and United Express serve it, connecting the city to their most prominent hubs.  The scenery features an accurate rendition of the airport, with detailed buildings, high-resolution ground textures, PBR, realistic wear &amp; tear, custom mesh, custom night lighting, and custom jetways.  Itâs available on theÂ iniBuilds StoreÂ for roughly $15.28, requiring at least 2.24 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ontx12</id>
+    <title>Verticalsim Releases Ontario International Airport for X-Plane 12</title>
+    <updated>2024-01-09T00:00:00+00:00</updated>
+    <link href="/news/ontx12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d9a888ab8e6c3467199ac_ont1.jpg"/>
+    <summary>Sim: X-Plane. Verticalsim has recently released their rendition of Ontario International Airport (KONT) for X-Plane 12, serving the cities of San Bernardino, Riverside, and Greater Los Angeles with a yearly average of 5 million passengers.  The airport was built in 1941 as an Army Air Corps aircraft training and operation base. After the war, it became a large storage, sale, and scrapping center for Army Air Forces aircraft.Â   Shortly after, in 1946, the airport was renamed from âOntario Municipal Airportâ to âOntario International Airportâ because of outgoing trans-Pacific cargo flights. The first international passenger flight happened that same year, a Pacific Overseas Airlines flight from Shanghai to Ontario, inaugurating round-trip air passenger service between the United States and the Orient. Western Airlines began operating at the airport three years later, followed by Bonanza Air Lines in 1955.  A new terminal was opened in 1998, discontinuing the old terminals, which now function as the administration and the USO. There are 26 gates total, with 12 on T2 and 14 on T4. Terminal 2 hosts Alaska Airlines, Avianca El Salvador, China Airlines, Delta Air Lines, Frontier Airlines, JetBlue, United Airlines, and Volaris. Terminal 4 hosts American Airlines, Hawaiian Airlines, and Southwest.  Itâs a FedEx and UPS Airlines cargo hub, transporting cargo all over North America and Asia (UPS). Amazon Air, Ameriflight, Amerijet International, Asia Pacific Airlines, and Kalitta Air also serve it. Ontario International is the ninth-largest cargo airport in the United States.  The scenery features an accurate rendition of the airport, with brand-new XP12 weather maps, accurate cargo ramps, an up-to-date ground layout, HDR lighting, PBR texturing, SAM jetways, LOD optimization, and more.   Itâs available onÂ SimMarketÂ for roughly $17.50, requiring at least 1.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-01-09T00:00:00+00:00</published>
   </entry>
 </feed>
