@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-01-11T18:22:32.780354+00:00</updated>
+  <updated>2024-01-12T18:22:39.148270+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/city-update-v-european-cities/</id>
-    <title>Microsoft Flight Simulator Releases City Update V: European Cities I</title>
-    <updated>2023-12-18T08:03:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-v-european-cities/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_CU05_NoSnipe_Logo_NoText-1024x576.png"/>
-    <summary>Experience a finely curated selection of renowned European cities in the newest addition to Microsoft Flight Simulator.</summary>
-    <published>2023-12-18T08:03:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-08-cessna-t207a/</id>
     <title>Microsoft Flight Simulator Releases Famous Flyer 08: The Cessna T207A Turbo Stationair</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/ZKd0s-Forums-e1704362887767-1024x561.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user ZKd0s! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Happy new year! Our team has returned to work following the holiday break refreshed and recharged. We hope everyone in our player community had a relaxing, peaceful, and … Continued</summary>
     <published>2024-01-05T00:08:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-11th-2024-development-update/</id>
+    <title>January 11th, 2024 – Development Update</title>
+    <updated>2024-01-11T22:02:51+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-11th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/DaveBGaming-Forums-1-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user DaveBGaming! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier this week, we announced that applications to join the World Hub closed alpha test are now open! For those unaware, the World Hub is an upcoming tool … Continued</summary>
+    <published>2024-01-11T22:02:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
