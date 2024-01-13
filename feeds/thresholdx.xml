@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-12T18:22:43.770648+00:00</updated>
+  <updated>2024-01-13T18:21:18.576255+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniuae</id>
-    <title>iniBuilds Releases Airbus A300-600R for MSFS</title>
-    <updated>2023-12-29T00:00:00+00:00</updated>
-    <link href="/news/iniuae"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3c811516bf3a35353721_inia300.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of the Airbus A300-600R for Microsoft Flight Simulator, the modern and longer version of the classic A300, certified in 1984 and still operating today for many cargo airlines and a few passenger airlines.  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2 engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.  The add-on features authentic systems, a custom FMS, custom VNAV and LNAV, custom hydraulic, pressurization, electric, and fuel systems, a maintenance system with cautions and warnings triggered by ignoring it, realistic RNAV, and autoland capability. The flight model is tuned to represent the aircraftâs behavior and intricacies accurately.  The textures are PBR and up to 8K quality, with lower texture packs available for lower-end systems. The cockpit and external models for the passenger and cargo variants were entirely reworked.  The sound environment is fully tridimensional, using real recordings of the engine and cabin switches.Â   Additional features include an Electronic Flight Bag, a basic ground handling set, and pre-set cargo loads with visual models.  Itâs important to note that the PW engine variant and CPDLC/ACARS will be available later.  Itâs available on theÂ iniBuilds StoreÂ for roughly $44.55, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2023-12-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniu36</id>
     <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d9a888ab8e6c3467199ac_ont1.jpg"/>
     <summary>Sim: X-Plane. Verticalsim has recently released their rendition of Ontario International Airport (KONT) for X-Plane 12, serving the cities of San Bernardino, Riverside, and Greater Los Angeles with a yearly average of 5 million passengers.  The airport was built in 1941 as an Army Air Corps aircraft training and operation base. After the war, it became a large storage, sale, and scrapping center for Army Air Forces aircraft.Â   Shortly after, in 1946, the airport was renamed from âOntario Municipal Airportâ to âOntario International Airportâ because of outgoing trans-Pacific cargo flights. The first international passenger flight happened that same year, a Pacific Overseas Airlines flight from Shanghai to Ontario, inaugurating round-trip air passenger service between the United States and the Orient. Western Airlines began operating at the airport three years later, followed by Bonanza Air Lines in 1955.  A new terminal was opened in 1998, discontinuing the old terminals, which now function as the administration and the USO. There are 26 gates total, with 12 on T2 and 14 on T4. Terminal 2 hosts Alaska Airlines, Avianca El Salvador, China Airlines, Delta Air Lines, Frontier Airlines, JetBlue, United Airlines, and Volaris. Terminal 4 hosts American Airlines, Hawaiian Airlines, and Southwest.  Itâs a FedEx and UPS Airlines cargo hub, transporting cargo all over North America and Asia (UPS). Amazon Air, Ameriflight, Amerijet International, Asia Pacific Airlines, and Kalitta Air also serve it. Ontario International is the ninth-largest cargo airport in the United States.  The scenery features an accurate rendition of the airport, with brand-new XP12 weather maps, accurate cargo ramps, an up-to-date ground layout, HDR lighting, PBR texturing, SAM jetways, LOD optimization, and more.   Itâs available onÂ SimMarketÂ for roughly $17.50, requiring at least 1.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2024-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/joemoe</id>
+    <title>Aerosoft Previews Development Progress on Oslo Gardermoen Airport for MSFS</title>
+    <updated>2024-01-12T00:00:00+00:00</updated>
+    <link href="/news/joemoe"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a1c4ff26983e141b4abff7_engm1.jpg"/>
+    <summary>Sim: MSFS. Jo Erlend has published a new batch of screenshots showcasing the development progress on his rendition of Oslo Gardermoen Airport (ENGM), to be distributed by Aerosoft. Itâs the busiest airport in Norway, with a yearly average of 30 million passengers.  It is the main airport serving Oslo, located approximately 47 kilometers northeast of the city center. It opened in 1998 to replace the outdated Fornebu Airport, which had been operating since 1939. It was built to modernize and expand Norwayâs airport infrastructure and improve accessibility to the capital city, quickly becoming the Main hub for domestic and international travel in the Country.Â   The new previews focus on ground service equipment, some of the detail work on the airside part of the terminal, and a shortÂ videoÂ demonstrating the night light effects.  There is no price or release date information yet, but Threshold will keep you updated!</summary>
+    <published>2024-01-12T00:00:00+00:00</published>
   </entry>
 </feed>
