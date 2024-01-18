@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-17T18:23:03.653633+00:00</updated>
+  <updated>2024-01-18T18:23:03.221638+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/f2hcar</id>
-    <title>Fly2High Releases Cartagena Airport for MSFS</title>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <link href="/news/f2hcar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65972ccc02552f718f5db512_cartagena.jpeg"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of Rafael NÃºÃ±ez International Airport (SKCG) for Microsoft Flight Simulator, serving the city of Cartagena, Colombia, with a yearly average of 7.2 million passengers.  It was built in 1946 as Crespo Air Field, with TACA Colombia being the first airline to serve the city, albeit very briefly, as they went under a year later, with LANSA taking the remaining slots.  By 1979, the airport averaged around 99 flights a week, which was not enough in terms of touristic volume for the local hotels, leading to pressure for an airport redevelopment in 1982: a new passenger terminal and a runway extension, allowing for bigger aircraft. It is now the fourth busiest airport in the country.  Itâs a hub for Avianca and served by Air Century, American Airlines, Arajet, Avianca Costa Rica, Clic, Copa Airlines, Delta Air Lines, Edelweiss Air, JetBlue, KLM, Latam Colombia, Latam Peru, Spirit, Wingo.  The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, high-detail buildings, and more.   Itâs available onÂ SimMarketÂ for roughly $16.37, requiring at least 1.21 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kissar</id>
-    <title>Kiss Simulation Releases Sarajevo International Airport for MSFS</title>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <link href="/news/kissar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659731c1f041642de77632a0_sara.jpg"/>
-    <summary>Sim: MSFS. Kiss Simulation has recently released their rendition of Sarajevo International Airport (LQSA) for Microsoft Flight Simulator, serving the city of Sarajevo in Bosnia and Herzegovina with a yearly average of 1.3 million passengers.  It was built in 1966 and opened for traffic three years later, although domestically. International operations only started a year later, with Frankfurt being its first international destination.Â   The first renovation happened nearly 20 years later for the 1984 Winter Olympics, with a new terminal building, a runway extension, and navigational system improvements.  The terminal was expanded in 2017, with a new 10,000-square-meter building able to handle up to 2 million passengers a year.  Its mountainous terrain and unpredictable weather have led to multiple financial losses over the years, with the most memorable one dating back to December 2015, when over 40% of the flights were canceled. The only way they could fix it would be by moving the threshold an additional 200 meters, which would shorten the runway, which is not ideal given that itâs already relatively short at 2,600 meters.Â   The scenery features an accurate rendition of the airport, with the new terminal extension, custom runway profile, real-world ILS profile, custom-made ground textures, up-to-date ground layout, runway weathering, and more.   Itâs available onÂ SimMarketÂ for roughly $14.18, requiring at least 792.15 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ini102</id>
     <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a70ba0814a009f818cceae_ana1.jpg"/>
     <summary>Sim: MSFS. Orbx has recently announced the development of Anacortes Airport (74S) for Microsoft Flight Simulator, a public-use airport serving Anacortes, Washington, with a yearly average of 9,000 aircraft operations. It was built in 1968 and inaugurated in 1969 on land purchased by the Port of Anacortes using FAA grant money. Itâs included in FAAâs National Plan of Integrated Airport Systems for 2017-2021 as a local general aviation facility, corresponding to 73% of its yearly traffic as of 2014. Air taxis make up the other 17%.  â Developed by Andreas Hegi, the scenery was completely rebuilt for Microsoft Flight Simulator, with a 3D terminal interior, custom PBR textures, an accurate ground layout, custom airport signs and markings, and more.  Thereâs no information on the release date or pricing yet. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2024-01-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbluk</id>
+    <title>Orbx Announces Banja Luka International Airport for MSFS</title>
+    <updated>2024-01-17T00:00:00+00:00</updated>
+    <link href="/news/orbluk"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a84636052597a2761c6cf8_banja.png"/>
+    <summary>Sim: MSFS. Orbx has recently announced the development of Banja Luka International Airport (LQBK) for Microsoft Flight Simulator, serving Banja Luka in Bosnia and Herzegovina, with a yearly average of 460,719 passengers as of 2023. â Construction started in 1976, and the airport was initially part of the Socialist Federal Republic of Yugoslavia, operating as a strictly domestic airport for many years. After the Bosnian War and the creation of Republika Srpska, Banja Luka was established as the capital, and the airport was granted international status and opened for civilian traffic in 1997.  â The airport underwent heavy upgrade work between 2002 and 2003 for Pope John Paul II's visit in June 2003.  â Aegean Airlines (seasonal), Air Cairo (seasonal), Air Serbia, Freebird Airlines (seasonal), Nouvelair (seasonal), Ryanair, Tailwind Airlines (seasonal), and WizzAir currently serve it. â Developed by indie Radoslav Tucakov, the scenery features fully custom terminals and buildings, interior details, exquisite perimeter details, a custom village and air base near the airport, PBR texturing, and more. â There's no information on the release date and pricing yet.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taiman</id>
+    <title>Taimodels Releases Manchester International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-01-17T00:00:00+00:00</updated>
+    <link href="/news/taiman"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a859e05326a6f587cf3f15_manchester.png"/>
+    <summary>Sim: X-Plane. Taimodels has recently released their rendition of Manchester International Airport (EGCC) for X-Plane 11 and 12, the third busiest airport in the United Kingdom with a yearly average of 23.3 million passengers.  Construction work began in 1935, and the airport was partially operating by 1937 (the official conclusion happened a year later). KLM was the first airline to launch scheduled commercial flights to the newly opened airport in 1938. â It was converted into an RAF base during WW2 and played an essential role in military aircraft production and parachutist training. â The post-war period saw its return as a commercial airport, with rapid growth during the 50s and 60s, where it eventually managed to be Britain's second busiest airport after London Heathrow. â â The airport was heavily expanded in the 80s and 90s to keep up with the exponential growth figures, eventually leading to the millionth passenger in a month mark in 1987. Plans for a new terminal were put in place, and it was opened by Princess Diana as Terminal A in 1989.Â  â From 1997 to 2001, a second runway was built, leading to many protests from locals because natural habitats were disturbed and listed buildings had to be demolished, but they didn't have another option. â New expansion work started in 2019 to keep up with the ever-growing passenger traffic figures. â EasyJet, Jet2.com, Ryanair, and TUI Airways have operating bases in Manchester. Many airlines from around the Globe serve it, including Air Canada, Air France, Brussels Airlines, Cathay Pacific, Emirates, Etihad, Finnair, KLM, Kuwait Airways, Lufthansa, Qatar, Scandinavian Airlines, Singapore Airlines, Turkish, Virgin Atlantic, and more. â The scenery features an accurate rendition of the airport, with high-detail models, SAM jetways, high-quality PBR textures, performance-friendly optimization, complete autogen around the airport, ground traffic plugins, and weather textures for X-Plane 12. â It's available onÂ SimMarketÂ for roughly $26.11, requiring at least 3.78 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-17T00:00:00+00:00</published>
   </entry>
 </feed>
