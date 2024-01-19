@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-01-18T18:23:01.367154+00:00</updated>
+  <updated>2024-01-19T18:23:18.099067+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-08-cessna-t207a/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 08: The Cessna T207A Turbo Stationair</title>
-    <updated>2023-12-19T16:06:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-08-cessna-t207a/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_C207_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>One of the aviation world’s most legendary light civil utility models is now available for Microsoft Flight Simulator pilots.</summary>
-    <published>2023-12-19T16:06:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/holiday-sale-2023/</id>
     <title>Holiday Sale: 1850+ Items On Sale Now in the Marketplace</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/DaveBGaming-Forums-1-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user DaveBGaming! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier this week, we announced that applications to join the World Hub closed alpha test are now open! For those unaware, the World Hub is an upcoming tool … Continued</summary>
     <published>2024-01-11T22:02:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-18-2024-development-update/</id>
+    <title>January 18, 2024 – Development Update</title>
+    <updated>2024-01-18T23:36:20+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-18-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/@vp_sim-Twitter-1-1024x576.jpeg"/>
+    <summary>Earlier today, we released updated versions of two add-on aircraft: Expert Series 1: ATR 42-600 / 72-600 and Famous Flyer 7: Mitsubishi Heavy Industries MU-2. Both updates are available for download now from the in-sim Content Manager.</summary>
+    <published>2024-01-18T23:36:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
