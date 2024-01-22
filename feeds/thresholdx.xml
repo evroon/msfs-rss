@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-21T18:22:08.060790+00:00</updated>
+  <updated>2024-01-22T18:23:22.871786+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniapw</id>
-    <title>iniBuilds Previews PW Update for Airbus A300-600R </title>
-    <updated>2024-01-08T00:00:00+00:00</updated>
-    <link href="/news/iniapw"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659c11fb9bb2494c2f1d6997_pw.png"/>
-    <summary>Sim: MSFS. iniBuilds has recently teased the progress on the Pratt &amp; Whitney JT9D engines for their recently released Airbus A300-600R for Microsoft Flight Simulator, along with info on a new bugfix update (1.03).  The Airbus A300-600 is an extended version of the A300B2 and B4, with two additional rows of seats, powered by two General Electric CF6-80C2/Pratt &amp; Whitney JT9D engines, and making use of the A310 cockpit, with no need for a flight engineer like the older A300s. 313 A300-600s were sold between its inception and 2007, when production stopped.Â   iniBuilds claims to be working hard on update 1.03, which will bring more fixes and EFB updates, set to be released at one point this week.Â   The add-on is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/simtha</id>
-    <title>SIMMAN Releases Nakhon Si Thammarat International Airport for MSFS</title>
-    <updated>2024-01-09T00:00:00+00:00</updated>
-    <link href="/news/simtha"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d8f49ec4ffc74ad0d4a83_tha1.jpg"/>
-    <summary>Sim: MSFS. SIMMAN has recently released their rendition of Nakhon Si Thammarat International Airport (VTSF) for Microsoft Flight Simulator, serving the municipality of Nakhon Si Thammarat in Thailand with a yearly average of 1.2 million passengers.  It opened in 1998, replacing Cha-ian Airport as the main airport for Nakhon Si Thammarat residents, with a 7,985 square meter passenger terminal handling a maximum of 2,504 daily passengers.  A new passenger terminal was built recently, with three stories, the first for arrivals, the second for departures, and the third for shops and restaurants. It has been in operation since September 2023. The total area is around 30,600 square meters, accommodating up to a thousand passengers per hour.  Nok Air, Thai AirAsia, and Thai Lion Air serve it with flights to Don Mueang International (Bangkok).  The scenery features an accurate rendition of the airport, with a realistic passenger terminal model and its interior, custom ground textures, custom jetways, and an up-to-date ground layout.   Itâs available onÂ SimMarketÂ for roughly $15.86, requiring at least 3.18 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xomhar</id>
     <title>Xometry Design Releases Harrisburg International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aafd0d6258942e8a3fe157_fukker.webp"/>
     <summary>Sim: MSFS. Just Flight has recently published a new development update reporting their progress on the Fokker 70/100 for Microsoft Flight Simulator, focusing on sound recordings. â The developers claim that one of the most difficult aspects of aircraft development for a simulator is getting access to a real aircraft for sound recording. While itâs relatively easier to access older aircraft in museums for recording switches, knobs, doors, and so on, engine sounds canât be recorded as they are generally no longer functional, making that part rather challenging. â They managed to get access to three real Fokkers during a maintenance run-up in The Netherlands, recording high-quality audio from the turbine from RR Tay 620s and 650s (Fokker 70âs engines and 100, respectively), from low to full power band.Â  â â To read more about the recording session, clickÂ hereÂ for the full development update.  â Thereâs no release date or pricing yet, but Threshold will keep you informed! â</summary>
     <published>2024-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blgrio</id>
+    <title>Brazil Land Games Releases Rio Branco International Airport V2 for MSFS</title>
+    <updated>2024-01-21T00:00:00+00:00</updated>
+    <link href="/news/blgrio"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ad9ad07954411000e5657e_riobranco.jpg"/>
+    <summary>Sim: MSFS. Brazil Land Games has recently released an upgraded rendition of their Rio Branco International Airport (SBRB) for Microsoft Flight Simulator, serving Rio Branco, Acre, Brazil, with a yearly average of 300,000 passengers. â It was inaugurated 24 years ago, replacing Rio Brancoâs previous main airport, whose area was not government-owned and judicially given back to its rightful owner, meaning they had to start from scratch on another piece of land.Â  â It was expanded for the first time in 2014, bringing the passenger handling capabilities up to 2,4 million passengers yearly. â Azul, GOL, and LATAM serve it regularly with flights to their hubs. â The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life landside, custom ground clutter, custom ground service equipment, and more. â â â Itâs available inÂ their storeÂ for roughly $6. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dbskan</id>
+    <title>DarkBlueScenery Releases Kansai International Airport for X-Plane 11 &amp; 12 </title>
+    <updated>2024-01-21T00:00:00+00:00</updated>
+    <link href="/news/dbskan"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ada099d5b1da0944054bc6_kansai.png"/>
+    <summary>Sim: X-Plane. DarkBlueScenery has recently released their rendition of Kansai International Airport (RJBB) for X-Plane 11 and 12, serving the Greater Osaka Area with a yearly average of 28 million passengers, making it the 3rd busiest in Japan. â It opened in 1994 and was built to relieve overcrowding at Itami Airport, Osakaâs former main airport, with two large terminals designed by Renzo Piano. Itâs the longest terminal in the world, with a length of 1.7km. â Construction work started in 1987, and they had to build an artificial island with a sea wall, drainage system, and bridge to connect with the city. It eventually became the most expensive civil project in modern history, with a 15 billion dollar investment. The âgrowing painsâ of creating an earthquake-proof artificial island paved the way for the New Kitakyushu Airport, Kobe Airport, Chubu Centrair International Airport, and even Hong Kong International Airport.Â  â â Its earthquake-proofness was tested just a year after its inauguration when Japan was struck by the Great Hanshin earthquake, whose epicenter was only 20 km from the airport. Yet, it didnât sustain any damage at all. Four years later, its design was proven again when it survived a typhoon.Â  â â The fact it sits on an artificial piece of land has its downsides, though, with the total costs rising to 20 billion in the mid-2000s with all the maintenance work to stop it from sinking, which the engineers had predicted and expected. â â A new terminal building was inaugurated in 2012, further increasing its passenger handling capabilities. â Itâs a hub for All Nippon Airways, FedEx Express, Japan Airlines, Jetstar Japan, Nippon Cargo Airlines, and Peach Aviation. Itâs served by many airlines from the neighboring countries and a few popular carriers from Europe, such as Air France, KLM, and Lufthansa. â â The scenery features an accurate rendition of the airport, with 4K textures, custom ground markings, custom taxiway signs, custom night lighting, performance-friendly optimization, accurate terraforming, and an accurately represented runway 06R/24L at its current status. â â Itâs available onÂ SimMarketÂ for roughly $17.41, requiring at least 808.75 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-21T00:00:00+00:00</published>
   </entry>
 </feed>
