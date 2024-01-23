@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-22T18:23:22.871786+00:00</updated>
+  <updated>2024-01-23T18:23:24.690483+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xomhar</id>
-    <title>Xometry Design Releases Harrisburg International Airport for MSFS</title>
-    <updated>2024-01-09T00:00:00+00:00</updated>
-    <link href="/news/xomhar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d92b1e511c1fc19a38f09_har1.webp"/>
-    <summary>Sim: MSFS. Xometry Design has recently released their rendition of Harrisburg International Airport (KMDT) for Microsoft Flight Simulator, serving the city of Harrisburg, Pennsylvania, with a yearly average of 1.1 million passengers.  The airport dates back to 1898, when the Signal Corps of the US Army was stationed there, building what would become Olmsted Field and having its first planes landing in 1918.  It was used almost exclusively for military purposes up until 1969 when the Middletown Air Depot closed, and airline flights moved from the nearby Capital City Airport to Olmstead State Airport, renamed Harrisburg International Airport in 1973, which was also when the passenger terminal reached full completion, designed by architect William Pereira.  Thirty-one years after the passenger terminalâs inauguration, a new 360,000 square-foot terminal was built, costing around $120 million and designed by the Sheward Partnership.  Allegiant, American, American Eagle, Delta, Delta Connection, Frontier, United, and United Express serve it, connecting the city to their most prominent hubs.  The scenery features an accurate rendition of the airport, with detailed buildings, high-resolution ground textures, PBR, realistic wear &amp; tear, custom mesh, custom night lighting, and custom jetways.  Itâs available on theÂ iniBuilds StoreÂ for roughly $15.28, requiring at least 2.24 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ontx12</id>
     <title>Verticalsim Releases Ontario International Airport for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ada099d5b1da0944054bc6_kansai.png"/>
     <summary>Sim: X-Plane. DarkBlueScenery has recently released their rendition of Kansai International Airport (RJBB) for X-Plane 11 and 12, serving the Greater Osaka Area with a yearly average of 28 million passengers, making it the 3rd busiest in Japan. â It opened in 1994 and was built to relieve overcrowding at Itami Airport, Osakaâs former main airport, with two large terminals designed by Renzo Piano. Itâs the longest terminal in the world, with a length of 1.7km. â Construction work started in 1987, and they had to build an artificial island with a sea wall, drainage system, and bridge to connect with the city. It eventually became the most expensive civil project in modern history, with a 15 billion dollar investment. The âgrowing painsâ of creating an earthquake-proof artificial island paved the way for the New Kitakyushu Airport, Kobe Airport, Chubu Centrair International Airport, and even Hong Kong International Airport.Â  â â Its earthquake-proofness was tested just a year after its inauguration when Japan was struck by the Great Hanshin earthquake, whose epicenter was only 20 km from the airport. Yet, it didnât sustain any damage at all. Four years later, its design was proven again when it survived a typhoon.Â  â â The fact it sits on an artificial piece of land has its downsides, though, with the total costs rising to 20 billion in the mid-2000s with all the maintenance work to stop it from sinking, which the engineers had predicted and expected. â â A new terminal building was inaugurated in 2012, further increasing its passenger handling capabilities. â Itâs a hub for All Nippon Airways, FedEx Express, Japan Airlines, Jetstar Japan, Nippon Cargo Airlines, and Peach Aviation. Itâs served by many airlines from the neighboring countries and a few popular carriers from Europe, such as Air France, KLM, and Lufthansa. â â The scenery features an accurate rendition of the airport, with 4K textures, custom ground markings, custom taxiway signs, custom night lighting, performance-friendly optimization, accurate terraforming, and an accurately represented runway 06R/24L at its current status. â â Itâs available onÂ SimMarketÂ for roughly $17.41, requiring at least 808.75 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/330024</id>
+    <title>Aerosoftâs Airbus A330 Shifted to MSFS 2024</title>
+    <updated>2024-01-22T00:00:00+00:00</updated>
+    <link href="/news/330024"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aee96a5efaf1c7b2c4c0de_aerosoftdelay.jpg"/>
+    <summary>Sim: MSFS. Aerosoft has published their first A330 development update for 2024, stating their decision to shift the development effort to the upcoming Microsoft Flight Simulator 2024, allowing them to âgreatly expand the focus of the project.â â Announced three years ago, in January 2021, their A330 project wonât be coming to Microsoft Flight Simulator 2020, as they have decided to focus on the upcoming Microsoft Flight Simulator 2024 instead. Aerosoft will include multiple engine options, including a simultaneous release of the Neo and Ceo variants.  Mathijs Kok, Aerosoftâs former project manager, has made a statement in the Aerosoft forums, saying itâs a âpuzzling statementâ and a âsurprising twist,â given they had recently tuned and tweaked the engine simulation and the new simulator might render all that work useless, leading to a full rework, and, potentially, further delays. âAs there is no known release date of FS2024 and nobody knows how much adaptation will be needed, you end up with a project with no scheduled release dateâ, he completed.  â Their decision to release for MSFS 2024 leads to many questions because little is known about the simâs innards, how the backward compatibility will work, and how much it could further complicate the development process.  Thereâs no release date or pricing yet, but Threshold will keep you informed on the matter! â</summary>
+    <published>2024-01-22T00:00:00+00:00</published>
   </entry>
 </feed>
