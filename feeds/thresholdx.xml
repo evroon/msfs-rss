@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-23T18:23:24.690483+00:00</updated>
+  <updated>2024-01-24T18:22:02.674723+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ontx12</id>
-    <title>Verticalsim Releases Ontario International Airport for X-Plane 12</title>
-    <updated>2024-01-09T00:00:00+00:00</updated>
-    <link href="/news/ontx12"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659d9a888ab8e6c3467199ac_ont1.jpg"/>
-    <summary>Sim: X-Plane. Verticalsim has recently released their rendition of Ontario International Airport (KONT) for X-Plane 12, serving the cities of San Bernardino, Riverside, and Greater Los Angeles with a yearly average of 5 million passengers.  The airport was built in 1941 as an Army Air Corps aircraft training and operation base. After the war, it became a large storage, sale, and scrapping center for Army Air Forces aircraft.Â   Shortly after, in 1946, the airport was renamed from âOntario Municipal Airportâ to âOntario International Airportâ because of outgoing trans-Pacific cargo flights. The first international passenger flight happened that same year, a Pacific Overseas Airlines flight from Shanghai to Ontario, inaugurating round-trip air passenger service between the United States and the Orient. Western Airlines began operating at the airport three years later, followed by Bonanza Air Lines in 1955.  A new terminal was opened in 1998, discontinuing the old terminals, which now function as the administration and the USO. There are 26 gates total, with 12 on T2 and 14 on T4. Terminal 2 hosts Alaska Airlines, Avianca El Salvador, China Airlines, Delta Air Lines, Frontier Airlines, JetBlue, United Airlines, and Volaris. Terminal 4 hosts American Airlines, Hawaiian Airlines, and Southwest.  Itâs a FedEx and UPS Airlines cargo hub, transporting cargo all over North America and Asia (UPS). Amazon Air, Ameriflight, Amerijet International, Asia Pacific Airlines, and Kalitta Air also serve it. Ontario International is the ninth-largest cargo airport in the United States.  The scenery features an accurate rendition of the airport, with brand-new XP12 weather maps, accurate cargo ramps, an up-to-date ground layout, HDR lighting, PBR texturing, SAM jetways, LOD optimization, and more.   Itâs available onÂ SimMarketÂ for roughly $17.50, requiring at least 1.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-01-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/joemoe</id>
     <title>Aerosoft Previews Development Progress on Oslo Gardermoen Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aee96a5efaf1c7b2c4c0de_aerosoftdelay.jpg"/>
     <summary>Sim: MSFS. Aerosoft has published their first A330 development update for 2024, stating their decision to shift the development effort to the upcoming Microsoft Flight Simulator 2024, allowing them to âgreatly expand the focus of the project.â â Announced three years ago, in January 2021, their A330 project wonât be coming to Microsoft Flight Simulator 2020, as they have decided to focus on the upcoming Microsoft Flight Simulator 2024 instead. Aerosoft will include multiple engine options, including a simultaneous release of the Neo and Ceo variants.  Mathijs Kok, Aerosoftâs former project manager, has made a statement in the Aerosoft forums, saying itâs a âpuzzling statementâ and a âsurprising twist,â given they had recently tuned and tweaked the engine simulation and the new simulator might render all that work useless, leading to a full rework, and, potentially, further delays. âAs there is no known release date of FS2024 and nobody knows how much adaptation will be needed, you end up with a project with no scheduled release dateâ, he completed.  â Their decision to release for MSFS 2024 leads to many questions because little is known about the simâs innards, how the backward compatibility will work, and how much it could further complicate the development process.  Thereâs no release date or pricing yet, but Threshold will keep you informed on the matter! â</summary>
     <published>2024-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffxf11</id>
+    <title>Flying Fries to Release Hughes XF-11</title>
+    <updated>2024-01-23T00:00:00+00:00</updated>
+    <link href="/news/ffxf11"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b045192e008a06b9168b2f_07.jpg"/>
+    <summary>Sim: MSFS. Developer Flying Fries who you may know for the freeware âScrapyard Monsterâ that was released in early 2023 has plans to release a payware version of the Hughes XF-11 Mk I. With development already charging ahead the project has an anticipated release date within Q1 of 2024. The Hughes XF-11 was an aerial reconnaissance aircraft designed for the US Army Air Force. It is based on a highly modified version of a plane designed by Hughes as a private venture. Taking inspiration from the P-38 Lightening the XF-11 features 2 huge Pratt &amp; Whitney Wasp engines paired with 8 bladed contrarotating propellers by Hamilton. The XF-11 had a reported top speed of 390 knots at 33000 feet and a maximum altitude of 42000 feet. The XF-11 will feature a highly detailed interior and exterior model with 4k textures, an era-correct autopilot as well as the option to use a Garmin GNS 530 or GTN 750. Pilots looking for a more challenging experience will have the option to enable random failures with configurable severity. Flying Fries has stated that the hope is to have the aircraft released in February but there hasnât been any information about a price for the plane. You can check out Flying Friesâ other works on their website here. Be sure to stay tuned to Threshold for all the flight sim news that matters to you!Â  â â</summary>
+    <published>2024-01-23T00:00:00+00:00</published>
   </entry>
 </feed>
