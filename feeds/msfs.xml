@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-01-25T18:23:35.500957+00:00</updated>
+  <updated>2024-01-26T18:21:01.288501+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/holiday-sale-2023/</id>
-    <title>Holiday Sale: 1850+ Items On Sale Now in the Marketplace</title>
-    <updated>2023-12-20T21:06:54+00:00</updated>
-    <link href="https://www.flightsimulator.com/holiday-sale-2023/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/MSFS_HolidaySale2023_v1_1920x1080-1024x576.jpg"/>
-    <summary>For 14 Days starting on December 20th, save up to 79% on more than 1850 items.</summary>
-    <published>2023-12-20T21:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/december-21st-2023-development-update/</id>
     <title>December 21st, 2023 – Development Update</title>
@@ -52,6 +43,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/@vp_sim-Twitter-1-1024x576.jpeg"/>
     <summary>Earlier today, we released updated versions of two add-on aircraft: Expert Series 1: ATR 42-600 / 72-600 and Famous Flyer 7: Mitsubishi Heavy Industries MU-2. Both updates are available for download now from the in-sim Content Manager.</summary>
     <published>2024-01-18T23:36:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-25-2024-development-update/</id>
+    <title>January 25, 2024 – Development Update</title>
+    <updated>2024-01-25T23:38:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-25-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/@IronWings_VP-Twitter-1024x542.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter user @IronWings_VP! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released updated versions of four Local Legend add-on aircraft: Local Legend I: Junkers Ju 52 Local Legend III: Dornier Do J Wal Local Legend VI: … Continued</summary>
+    <published>2024-01-25T23:38:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/community-spotlight-nick-williams-hermans-va/</id>
