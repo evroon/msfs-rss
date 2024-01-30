@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-29T18:21:05.137906+00:00</updated>
+  <updated>2024-01-30T18:21:16.966697+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbluk</id>
-    <title>Orbx Announces Banja Luka International Airport for MSFS</title>
-    <updated>2024-01-17T00:00:00+00:00</updated>
-    <link href="/news/orbluk"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a84636052597a2761c6cf8_banja.png"/>
-    <summary>Sim: MSFS. Orbx has recently announced the development of Banja Luka International Airport (LQBK) for Microsoft Flight Simulator, serving Banja Luka in Bosnia and Herzegovina, with a yearly average of 460,719 passengers as of 2023. â Construction started in 1976, and the airport was initially part of the Socialist Federal Republic of Yugoslavia, operating as a strictly domestic airport for many years. After the Bosnian War and the creation of Republika Srpska, Banja Luka was established as the capital, and the airport was granted international status and opened for civilian traffic in 1997.  â The airport underwent heavy upgrade work between 2002 and 2003 for Pope John Paul II's visit in June 2003.  â Aegean Airlines (seasonal), Air Cairo (seasonal), Air Serbia, Freebird Airlines (seasonal), Nouvelair (seasonal), Ryanair, Tailwind Airlines (seasonal), and WizzAir currently serve it. â Developed by indie Radoslav Tucakov, the scenery features fully custom terminals and buildings, interior details, exquisite perimeter details, a custom village and air base near the airport, PBR texturing, and more. â There's no information on the release date and pricing yet.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/taiman</id>
-    <title>Taimodels Releases Manchester International Airport for X-Plane 11 &amp; 12</title>
-    <updated>2024-01-17T00:00:00+00:00</updated>
-    <link href="/news/taiman"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a859e05326a6f587cf3f15_manchester.png"/>
-    <summary>Sim: X-Plane. Taimodels has recently released their rendition of Manchester International Airport (EGCC) for X-Plane 11 and 12, the third busiest airport in the United Kingdom with a yearly average of 23.3 million passengers.  Construction work began in 1935, and the airport was partially operating by 1937 (the official conclusion happened a year later). KLM was the first airline to launch scheduled commercial flights to the newly opened airport in 1938. â It was converted into an RAF base during WW2 and played an essential role in military aircraft production and parachutist training. â The post-war period saw its return as a commercial airport, with rapid growth during the 50s and 60s, where it eventually managed to be Britain's second busiest airport after London Heathrow. â â The airport was heavily expanded in the 80s and 90s to keep up with the exponential growth figures, eventually leading to the millionth passenger in a month mark in 1987. Plans for a new terminal were put in place, and it was opened by Princess Diana as Terminal A in 1989.Â  â From 1997 to 2001, a second runway was built, leading to many protests from locals because natural habitats were disturbed and listed buildings had to be demolished, but they didn't have another option. â New expansion work started in 2019 to keep up with the ever-growing passenger traffic figures. â EasyJet, Jet2.com, Ryanair, and TUI Airways have operating bases in Manchester. Many airlines from around the Globe serve it, including Air Canada, Air France, Brussels Airlines, Cathay Pacific, Emirates, Etihad, Finnair, KLM, Kuwait Airways, Lufthansa, Qatar, Scandinavian Airlines, Singapore Airlines, Turkish, Virgin Atlantic, and more. â The scenery features an accurate rendition of the airport, with high-detail models, SAM jetways, high-quality PBR textures, performance-friendly optimization, complete autogen around the airport, ground traffic plugins, and weather textures for X-Plane 12. â It's available onÂ SimMarketÂ for roughly $26.11, requiring at least 3.78 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ini103</id>
-    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
-    <updated>2024-01-18T00:00:00+00:00</updated>
-    <link href="/news/ini103"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a9a2d24bcaac26dd4c31b3_a300mon.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently issued the third update for their recently released Airbus A300-600R for Microsoft Flight Simulator, bringing many bug fixes, EFB improvements, and more. â  Update 1.0.3 brings animation and light position fixes, tweaks to the fuel system, and new EFB features for throttle calibration, draggable charts, and many system changes. The changelog follows below: â â Sounds Fixes/Changes  The update is available right now via iniManager for all owners.  The airplane can be purchased on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orygla</id>
     <title>Orbx Releases Gladstone Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65a6f8a807177ff354b795a4_ybcg1.jpg"/>
     <summary>Sim: MSFS. Orbx has recently released their rendition of Gold Coast Airport (YBCG) for Microsoft Flight Simulator, serving Gold Coast and Tweed Heads, Australia, with a yearly average of 6.4 million passengers, making it the 7th busiest airport in the country. â  It was built in 1936, consisting of three grass strips whose sole intent was to provide an emergency landing spot for aircraft flying between Brisbane and Sydney, with passenger service only beginning three years later. Regular service was only to begin after WW2, with Queensland Airlines and Butler Air Transport, followed by Ansett in 1950 and Trans Australia Airlines in 1954. â  Taxiways and runways were fully paved by 1958, allowing for the operation of larger, heavier aircraft such as the DC-9 and L-188 Electra. â  The current passenger terminal was opened in 1981 by Acting Prime Minister Douglas Anthony. The following year saw the main runway extended to 2,042 meters, allowing for the operation of wide-body jet aircraft. It was later extended to 2,500 meters sometime in 2007. â The passenger terminal was upgraded in 2010, with an expansion that doubled its total size, accommodating a decade's worth of growth in passenger volume. It was then expanded again in 2016, 2019, and 2022, with a 30,000-square-meter expansion and overall infrastructure modernization.  â It's a hub for Bonza. AirAsia X, Air New Zealand, Eastern Air Services, Jetstar, Qantas, QantasLink, Rex Airlines, Seair Pacific, and Virgin Australia serve it regularly. â  Developed by Matteo Veneziani, the scenery features an accurate rendition of the airport, with an up-to-date ground layout, 4K textures, an interior on the main terminal, unique GSE vehicles, dynamic airport lighting, custom ground textures, custom animated jetways, performance-friendly optimization, and more. â  It's available onÂ OrbxDirectÂ for roughly $16.20, requiring at least 4.70 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2024-01-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfsman</id>
+    <title>MFSG Releases Manaus International Airport for MSFS</title>
+    <updated>2024-01-29T00:00:00+00:00</updated>
+    <link href="/news/mfsman"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b81d83361c0b965d4ac8ea_manaus.jpg"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Eduardo Gomes International Airport (SBEG) for Microsoft Flight Simulator, serving Metropolitan Manaus in Brazil with a yearly average of 2.9 million passengers, placing it among the 20 busiest in the country.  â It was inaugurated in 1976 and was the first Brazilian airport with jetways and computerization, making it the most modern airport in the country at the time.Â  â A new passenger terminal was built in 1985 to meet the ever-increasing regional traffic demands.Â  â The airport was heavily modernized and expanded in 2011 for the 2014 World Cup. Such improvements led to an excellence award in 2016, which elected it as the best airport in Brazil with a capacity of up to 5 million passengers a year, and a 4.24/5 satisfaction score. â  Avianca Colombia, Azul, Azul Conecta, Conviasa, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brazil, Map Linhas AÃ©reas, and Total Linhas AÃ©reas serve it.  â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom jetways, custom groundpoly, performance-friendly optimization, and more. â Itâs available onÂ SimMarketÂ for roughly $14.13, requiring at least 47.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vuejuj</id>
+    <title>VueloSimple Releases Jujuy International Airport for MSFS</title>
+    <updated>2024-01-29T00:00:00+00:00</updated>
+    <link href="/news/vuejuj"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b826cbda18b9927025a391_jujuy.jpg"/>
+    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Gobernador Horacio GuzmÃ¡n International Airport (SASJ) for Microsoft Flight Simulator, serving Jujuy in Argentina with a yearly average of 300,000 passengers.  Plans for a new airport and its respective groundwork started in 1954, but a Coup DâEtat in September 1955 led to a nine-year-long pause in the construction work. It was inaugurated in 1967, 13 years after it all started. â In the 1980s, AerolÃ­neas Argentinas had connecting flights in Jujuy from Buenos Aires, destined for Bogota, Guayaquil, Panama City, and Miami. â It was remodeled in 2012 with a new control tower, an 8000 square meter passenger terminal, and a new car park holding up to 323 vehicles. â AerolÃ­neas Argentinas, Andes LÃ­neas AÃ©reas, FlyBondi, and JetSmart Argentina serve it. â The scenery features an accurate rendition of the airport, with a highly detailed passenger terminal and its interior, a detailed control tower, an up-to-date ground layout, custom runway materials, custom night lighting, performance-friendly optimization, and more. â Itâs available onÂ SimMarketÂ for roughly $10.86, requiring at least 137.16 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsobsb</id>
+    <title>FSoares Announces BrasÃ­lia International Airport for MSFS</title>
+    <updated>2024-01-30T00:00:00+00:00</updated>
+    <link href="/news/fsobsb"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b85b0faf71ff1ca66905ba_brabra.jpg"/>
+    <summary>Sim: MSFS. FSoares has recently announced the development and imminent release of Brasilia - President Juscelino Kubitschek International Airport (SBBR) for Microsoft Flight Simulator, the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. â The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. â New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. â Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. â The scenery will feature an accurate rendition of the airport, with custom ground textures, custom jetways, custom terraforming, an up-to-date ground layout, and more. â Thereâs no information on the release date, but the scenery will be made available for free when the time comes.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-30T00:00:00+00:00</published>
   </entry>
 </feed>
