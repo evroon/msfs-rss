@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-01-30T18:21:16.966697+00:00</updated>
+  <updated>2024-01-31T18:17:04.183554+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orygla</id>
-    <title>Orbx Releases Gladstone Airport for MSFS</title>
-    <updated>2024-01-19T00:00:00+00:00</updated>
-    <link href="/news/orygla"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aaee7deb1854891d1bf587_gladstone.jpg"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Gladstone Airport (YGLA) for Microsoft Flight Simulator, serving the city of Gladstone in Queensland, Australia, with a yearly average of 240,000 passengers (as of 2011).  â It was built on a bulldozed airstrip in 1953, with work completed in 1956 and its official opening in 1957, although it had been frequently used a few months prior. â Nowadays, itâs owned and operated by the Gladstone Regional Council, which took the helm after the former owner (Gladstone-Calliope Aerodrome Board) was dissolved in 2007. â Bonza, QantasLink, and Virgin Australia currently serve it with flights to Brisbane, Gold Coast, and Melbourne. â â  The scenery features a detailed rendition of the airport, with high-resolution textures, extensive terraforming, highly realistic aprons and taxiways, custom runway and taxiway light models, animated trains, realistic rail infrastructure, detailed terminal interiors, and crisp 15cm aerial imagery. â  Itâs available onÂ OrbxDirectÂ for roughly $16.26, requiring at least 1.03 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/f2hlub</id>
-    <title>Fly2High Releases Lubbock Preston Smith International Airport for MSFS</title>
-    <updated>2024-01-19T00:00:00+00:00</updated>
-    <link href="/news/f2hlub"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aaf65a7fd8d4ba6f57327d_lubbock.jpg"/>
-    <summary>Sim: MSFS. Fly2High has recently released their rendition of Lubbock Preston Smith International Airport (KLBB) for Microsoft Flight Simulator, serving Lubbock, Texas, with a yearly average of 520,000 passengers, making it the eighth busiest in the state. â It opened in November 1937 as South Plains Airport. It was assigned to the World War 2 Army Air Forces Flying Training Command in 1942, then renamed South Plains Army Airfield and entirely converted to a military training airfield. â The conversion process added three concrete runways, taxiways, a large apron, a control tower, and many large hangars made of semi-permanent materials, as they were intended for short-term usage. â  The base was activated that same year and remained in use by the military as a storage facility for two years after the war.Â  â The end of 1947 marked its return to the government for civil use, and they built a passenger terminal around the southwest corner of the airfield that was actively used during the 50s and 60s. â The passenger terminal was replaced by a bigger one in 1976, which is still in use today, albeit heavily upgraded over the years, with the latest one dating back to 2021. â â American Airlines, American Eagle, Southwest Airlines, and United Express currently serve it. Dallas Love Field is the busiest destination, with 168,000 passengers yearly, followed by Dallas-Fort Worth (147,000) and Denver (52,000). â The scenery features an accurate rendition of the airport, with hand-made ground textures, custom night lighting, performance-friendly optimization, and high-detail models of the buildings, objects, and surroundings. â  Itâs available on theÂ iniBuilds StoreÂ for roughly $15.24, requiring at least 3.84 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfl710</id>
-    <title>Just Flight Publishes Fokker 70/100 Development Update for MSFS</title>
-    <updated>2024-01-19T00:00:00+00:00</updated>
-    <link href="/news/jfl710"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65aafd0d6258942e8a3fe157_fukker.webp"/>
-    <summary>Sim: MSFS. Just Flight has recently published a new development update reporting their progress on the Fokker 70/100 for Microsoft Flight Simulator, focusing on sound recordings. â The developers claim that one of the most difficult aspects of aircraft development for a simulator is getting access to a real aircraft for sound recording. While itâs relatively easier to access older aircraft in museums for recording switches, knobs, doors, and so on, engine sounds canât be recorded as they are generally no longer functional, making that part rather challenging. â They managed to get access to three real Fokkers during a maintenance run-up in The Netherlands, recording high-quality audio from the turbine from RR Tay 620s and 650s (Fokker 70âs engines and 100, respectively), from low to full power band.Â  â â To read more about the recording session, clickÂ hereÂ for the full development update.  â Thereâs no release date or pricing yet, but Threshold will keep you informed! â</summary>
-    <published>2024-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/blgrio</id>
-    <title>Brazil Land Games Releases Rio Branco International Airport V2 for MSFS</title>
-    <updated>2024-01-21T00:00:00+00:00</updated>
-    <link href="/news/blgrio"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ad9ad07954411000e5657e_riobranco.jpg"/>
-    <summary>Sim: MSFS. Brazil Land Games has recently released an upgraded rendition of their Rio Branco International Airport (SBRB) for Microsoft Flight Simulator, serving Rio Branco, Acre, Brazil, with a yearly average of 300,000 passengers. â It was inaugurated 24 years ago, replacing Rio Brancoâs previous main airport, whose area was not government-owned and judicially given back to its rightful owner, meaning they had to start from scratch on another piece of land.Â  â It was expanded for the first time in 2014, bringing the passenger handling capabilities up to 2,4 million passengers yearly. â Azul, GOL, and LATAM serve it regularly with flights to their hubs. â The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life landside, custom ground clutter, custom ground service equipment, and more. â â â Itâs available inÂ their storeÂ for roughly $6. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dbskan</id>
     <title>DarkBlueScenery Releases Kansai International Airport for X-Plane 11 &amp; 12 </title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b85b0faf71ff1ca66905ba_brabra.jpg"/>
     <summary>Sim: MSFS. FSoares has recently announced the development and imminent release of Brasilia - President Juscelino Kubitschek International Airport (SBBR) for Microsoft Flight Simulator, the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. â The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. â New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. â Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. â The scenery will feature an accurate rendition of the airport, with custom ground textures, custom jetways, custom terraforming, an up-to-date ground layout, and more. â Thereâs no information on the release date, but the scenery will be made available for free when the time comes.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-01-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfxiv</id>
+    <title>Microsoft Flight Simulator Releases World Update XVI </title>
+    <updated>2024-01-31T00:00:00+00:00</updated>
+    <link href="/news/msfxiv"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b9b26b92a67b6597cf9fc5_cari.jpg"/>
+    <summary>Sim: MSFS. The Microsoft Flight Simulator team has released a new world update, improving the Caribbean with new points of interest, improved satellite imagery and digital terrain model, and seven hand-crafted airports. The brand new update will bring Antigua, Aruba, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Dominican Republic, Grenada, Haiti, Jamaica, Puerto Rico, Saint Kitts &amp; Nevis, Trinidad &amp; Tobago, Turks &amp; Caicos, and the United States Virgin Islands up to the highest standard, with aerial photographs, satellite data, LiDAR data, DEM data, and DTM data.  â As usual with the world updates, it also adds seven hand-crafted airports: Gregorio LuperÃ³n International Airport (MDPP), Antoine-Simon Airport (MTCA), Sangster International Airport (MKJS), A.N.R Robinson International Airport (TTCP), North Eleuthera Airport (MYEH), and Les Saintes Airport (TFFS), in Dominican Republic, Haiti, Jamaica, Trinidad &amp; Tobago, Bahamas, and Guadeloupe, respectively. â The package also includes three discovery flights (Santa Lucia, Saint Martin, and San Juan), three landing challenges, an epic landing challenge, and three bush trips showcasing the region. â The update is free for all owners of Microsoft Flight Simulator and is available right now on all platforms.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsrbsb</id>
+    <title>FSoares Releases BrasÃ­lia International Airport for MSFS</title>
+    <updated>2024-01-31T00:00:00+00:00</updated>
+    <link href="/news/fsrbsb"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b85b0faf71ff1ca66905ba_brabra.jpg"/>
+    <summary>Sim: MSFS. FSoares has recently released his rendition of Brasilia - President Juscelino Kubitschek International Airport (SBBR) for Microsoft Flight Simulator, the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first.  â The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more, divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. â New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years.  â Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas.  â The scenery features an accurate rendition of the airport as it was in 2015, with custom 3D models, custom animated jetways, custom runway and taxi lights, custom markings, custom aerial imagery, custom terraforming, and more. â  Itâs free onÂ flightsim.to, requiring at least 2.18 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfsl14</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 14</title>
+    <updated>2024-01-31T00:00:00+00:00</updated>
+    <link href="/news/mfsl14"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b9c1d10ebc612197cdb080_copter.jpg"/>
+    <summary>Sim: MSFS. The Microsoft Flight Simulator team has recently released their fourteenth local legend: the Bell 47J Ranger, the first helicopter to carry a United States president. Introduced in 1956, the 47J Ranger is the executive variant of the Bell 47, which was the first helicopter certified for civilian use and one of the most popular helicopters to exist, with 5,600 built. While the Bell 47 could only seat two people, the 47J could seat four. â Two units were purchased by the American government in 1957 to transport the president, Dwight Eisenhower, to and from the White House. They were eventually removed from presidential duties in 1962 but still handled VIP transports until they were fully retired in 1967. â Three hundred sixty-one units were manufactured over its production period, handling VIP transport, cargo, air ambulance, commuter flights, aerial surveying, and military applications. It was also featured in many popular movies, such as James Bondâs Thunderball from 1965. â Powered by a 260 hp Lycoming VO-540-B1B piston engine, it can cruise at 91 mph, with a service ceiling of 11,000 ft and a range of 260 miles.  â Microsoft Flight Simulatorâs rendition features two landing gear types, with seven liveries per variant. â Itâs available in the Marketplace for $14.99.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcoden</id>
+    <title>X-Codr Designs Updates Denver International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-01-31T00:00:00+00:00</updated>
+    <link href="/news/xcoden"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b9c742ae9d529c3d3be25b_denis.jpg"/>
+    <summary>Sim: X-Plane. X-Codr Designs has recently released a major update to their rendition of Denver International Airport (KDEN) for X-Plane 11 and 12, adding new custom ground vehicles, improvements, and various bug fixes. â The complete changelog follows below: â The scenery features an accurate rendition of the airport, with detailed terminals, an up-to-date ground layout, custom ground textures, realistic weather effects (X-Plane 12), and more.  â â Itâs available on theÂ X-Plane.Org StoreÂ for $29.95, requiring at least 7.5 GB of free hard disk space to install.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-01-31T00:00:00+00:00</published>
   </entry>
 </feed>
