@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-03T18:20:15.732031+00:00</updated>
+  <updated>2024-02-04T18:23:05.750790+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vuejuj</id>
-    <title>VueloSimple Releases Jujuy International Airport for MSFS</title>
-    <updated>2024-01-29T00:00:00+00:00</updated>
-    <link href="/news/vuejuj"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b826cbda18b9927025a391_jujuy.jpg"/>
-    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Gobernador Horacio GuzmÃ¡n International Airport (SASJ) for Microsoft Flight Simulator, serving Jujuy in Argentina with a yearly average of 300,000 passengers.  Plans for a new airport and its respective groundwork started in 1954, but a Coup DâEtat in September 1955 led to a nine-year-long pause in the construction work. It was inaugurated in 1967, 13 years after it all started. â In the 1980s, AerolÃ­neas Argentinas had connecting flights in Jujuy from Buenos Aires, destined for Bogota, Guayaquil, Panama City, and Miami. â It was remodeled in 2012 with a new control tower, an 8000 square meter passenger terminal, and a new car park holding up to 323 vehicles. â AerolÃ­neas Argentinas, Andes LÃ­neas AÃ©reas, FlyBondi, and JetSmart Argentina serve it. â The scenery features an accurate rendition of the airport, with a highly detailed passenger terminal and its interior, a detailed control tower, an up-to-date ground layout, custom runway materials, custom night lighting, performance-friendly optimization, and more. â Itâs available onÂ SimMarketÂ for roughly $10.86, requiring at least 137.16 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsobsb</id>
     <title>FSoares Announces BrasÃ­lia International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/orbanj"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65be1d5598d52325b9dcca1c_banja.jpg"/>
     <summary>Sim: MSFS. Orbx has recently released their rendition of Banja Luka International Airport (LQBK) for Microsoft Flight Simulator, serving Banja Luka in Bosnia and Herzegovina, with a yearly average of 460,719 passengers as of 2023. â Construction started in 1976, and the airport was initially part of the Socialist Federal Republic of Yugoslavia, operating as a strictly domestic airport for many years. After the Bosnian War and the creation of Republika Srpska, Banja Luka was established as the capital, and the airport was granted international status and opened for civilian traffic in 1997. â The airport underwent heavy upgrade work between 2002 and 2003 for Pope John Paul II's visit in June 2003. â Aegean Airlines (seasonal), Air Cairo (seasonal), Air Serbia, Freebird Airlines (seasonal), Nouvelair (seasonal), Ryanair, Tailwind Airlines (seasonal), and WizzAir currently serve it. â Developed by indie Radoslav Tucakov, the scenery features fully custom terminals and buildings, interior details, exquisite perimeter details, a custom village and air base near the airport, PBR texturing, and more. â It's available onÂ OrbxDirectÂ for roughly $9.78, requiring at least 1.35 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/146cab</id>
+    <title>Just Flight Previews New Passenger Cabins for 146 Professional</title>
+    <updated>2024-02-03T00:00:00+00:00</updated>
+    <link href="/news/146cab"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65becc38025e68d4897aaa37_flybe.jpg"/>
+    <summary>Sim: MSFS. Just Flight has recently previewed their brand-new passenger cabins for the 146 Professional for Microsoft Flight Simulator, which will soon be available as a free update for all existing owners. â The cabins feature a high-density 3+3 layout, custom-modeled for each 146 variant, with differences in the rear seating layout because of the fuselageâs curvature and miniature overhead bins on the seat rows below the wing structure.  â The screenshots show the 146-300, the longest variant in the family, and they are currently working on integrating the new cabin into the shortest variants as well. â The galleys will feature a fully functional attendantâs panel with cabin lights, ground power control, and several annunciators for cabin-related items such as seatbelt signs and door locks. â There will also be a panel on the vestibule controlling the communications between the forward and aft galley, the passenger cabin, and the cockpit, as in real life. It will also house the controls for the cabin sound system, allowing the user to play music and manually adjust the volume as desired.  â While all the doors will still be controllable via EFB, users can open and close them by clicking on their handles, as in real life. â The development process had performance in mind, ensuring minimal performance impact. Users who do not wish to have it visible can disable it through the EFB. â Thereâs no information on the release date for said update yet, but Threshold will keep you informed! â</summary>
     <published>2024-02-03T00:00:00+00:00</published>
   </entry>
 </feed>
