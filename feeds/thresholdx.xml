@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-05T18:22:56.963522+00:00</updated>
+  <updated>2024-02-06T18:19:08.406988+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mfsl14</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 14</title>
-    <updated>2024-01-31T00:00:00+00:00</updated>
-    <link href="/news/mfsl14"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65b9c1d10ebc612197cdb080_copter.jpg"/>
-    <summary>Sim: MSFS. The Microsoft Flight Simulator team has recently released their fourteenth local legend: the Bell 47J Ranger, the first helicopter to carry a United States president. Introduced in 1956, the 47J Ranger is the executive variant of the Bell 47, which was the first helicopter certified for civilian use and one of the most popular helicopters to exist, with 5,600 built. While the Bell 47 could only seat two people, the 47J could seat four. â Two units were purchased by the American government in 1957 to transport the president, Dwight Eisenhower, to and from the White House. They were eventually removed from presidential duties in 1962 but still handled VIP transports until they were fully retired in 1967. â Three hundred sixty-one units were manufactured over its production period, handling VIP transport, cargo, air ambulance, commuter flights, aerial surveying, and military applications. It was also featured in many popular movies, such as James Bondâs Thunderball from 1965. â Powered by a 260 hp Lycoming VO-540-B1B piston engine, it can cruise at 91 mph, with a service ceiling of 11,000 ft and a range of 260 miles.  â Microsoft Flight Simulatorâs rendition features two landing gear types, with seven liveries per variant. â Itâs available in the Marketplace for $14.99.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-01-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcoden</id>
     <title>X-Codr Designs Updates Denver International Airport for X-Plane 11 &amp; 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/ini105"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3cd4374e2720154dbc55_inia3002.webp"/>
     <summary>Sim: MSFS. iniBuilds has recently released an emergency update for their Airbus A300-600R for Microsoft Flight Simulator, addressing an LNAV issue introduced in the previous update from a few days ago.  Given its âhotfix-ishâ nature, the fifth updateâs changelog is relatively small, with only four changes:Â  â â The add-on is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hacu24</id>
+    <title>Honeycomb Aeronautical Charlie Update</title>
+    <updated>2024-02-05T00:00:00+00:00</updated>
+    <link href="/news/hacu24"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c12696ff74397cd5d6f7d0_honeycomb-aeronautical-charlie-peddals.jpg"/>
+    <summary>Sim: OTHER. Following a lengthy post to their Facebook page Honeycomb Aeronautical has made an official announcement on their website regarding the shipments for pre-orders and eventual retail release for their long-awaited Charlie Rudder Pedals. The announcement comes just a week after Founder and CEO Nicki Repenning took to Honeycomb's Facebook page to inform the community of what's been happening behind the scenes and why there's been an overall lack of communication from the company, which you can read about here. At the time of writing, the page the update was posted to has been taken down. â The update that was released on Honeycombâs website outlines the current plan for honoring refunds, pre-orders, and the eventual rollout for retailers. Honeycomb states that pre-orders will be shipped June 24th and those who have canceled their pre-orders can expect a refund sometime in February, these units will be available through the Honeycomb store later and will start shipping with the pre-order units. Retailers are expected to have the Charlie in stock after the second half of August 2024. You can read the full announcement here. â Be sure to watch Threshold for all your up-to-date Flight Simulation news!</summary>
     <published>2024-02-05T00:00:00+00:00</published>
   </entry>
 </feed>
