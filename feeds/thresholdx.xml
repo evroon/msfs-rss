@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-10T18:19:57.795418+00:00</updated>
+  <updated>2024-02-11T18:20:44.365183+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini104</id>
-    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
-    <updated>2024-02-02T00:00:00+00:00</updated>
-    <link href="/news/ini104"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659886c209781dbee7f3ce5f_a300update2.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently issued a new update to their Airbus A300-600R for Microsoft Flight Simulator, addressing VNAV bugs, save states, missing flags on instruments, and more.  v1.0.4 - the fourth update since its release in December 2023 - brings a list of changes ranging from art to systems. The complete changelog follows below: â  The airplane is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbanj</id>
-    <title>Orbx Releases Banja Luka International Airport for MSFS</title>
-    <updated>2024-02-03T00:00:00+00:00</updated>
-    <link href="/news/orbanj"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65be1d5598d52325b9dcca1c_banja.jpg"/>
-    <summary>Sim: MSFS. Orbx has recently released their rendition of Banja Luka International Airport (LQBK) for Microsoft Flight Simulator, serving Banja Luka in Bosnia and Herzegovina, with a yearly average of 460,719 passengers as of 2023. â Construction started in 1976, and the airport was initially part of the Socialist Federal Republic of Yugoslavia, operating as a strictly domestic airport for many years. After the Bosnian War and the creation of Republika Srpska, Banja Luka was established as the capital, and the airport was granted international status and opened for civilian traffic in 1997. â The airport underwent heavy upgrade work between 2002 and 2003 for Pope John Paul II's visit in June 2003. â Aegean Airlines (seasonal), Air Cairo (seasonal), Air Serbia, Freebird Airlines (seasonal), Nouvelair (seasonal), Ryanair, Tailwind Airlines (seasonal), and WizzAir currently serve it. â Developed by indie Radoslav Tucakov, the scenery features fully custom terminals and buildings, interior details, exquisite perimeter details, a custom village and air base near the airport, PBR texturing, and more. â It's available onÂ OrbxDirectÂ for roughly $9.78, requiring at least 1.35 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/146cab</id>
     <title>Just Flight Previews New Passenger Cabins for 146 Professional</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c6aa80d93b79dbee3becb2_jinan.jpg"/>
     <summary>Sim: X-Plane. NSS Scenery Studio has recently released their rendition of Jinan Yaoqiang International Airport (ZSJN) for X-Plane 12, serving Jinan, Shandong Province, China, with a yearly average of 13.6 million passengers, making it the 25th busiest in the country. â It was completed and opened for passenger traffic in 1992, covering an area of 7200 acres and a terminal building taking 114,000 square meters, built between 2003 and 2010 (a new terminal in 2005, and then a new expansion in 2010). It can handle up to 4500 people during peak hours and 100000 aircraft movements yearly. â Itâs the hub for Shandong Airlines, and Air China, Beijing Capital Airlines, Cambodia Airways, China Eastern Airlines, China Southern Airlines, Dalian Airlines, Donghai Airlines, GX Airlines, Hainan Airlines, Kunming Airlines, Lucky Air, Scoot, Shenzhen Airlines, Sichuan Airlines, Spring Airlines, Thai VietJet Air, and XiamenAir serve it. â The scenery features an accurate rendition of the airport, with custom ground textures, accurate taxiway markings, custom jetways, custom night lighting, automatic marshaling, landside buildings, and more. Itâs available onÂ SimMarketÂ for roughly $21.41, requiring at least 1.36 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-02-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdpslz</id>
+    <title>RDPresets Releases Salzburg Airport for MSFS</title>
+    <updated>2024-02-10T00:00:00+00:00</updated>
+    <link href="/news/rdpslz"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c7e0dadf678f630fac6474_salz.jpg"/>
+    <summary>Sim: MSFS. RDPresets have recently released their rendition of Salzburg Airport (LOWS) for Microsoft Flight Simulator, serving Salzburg, Austria, with a yearly average of 300,000 passengers. Salzburg Airport was a race track when the first powered aircraft taxied on its surface in 1910. Sixteen years later, Lufthansa inaugurated a route from Munich to Bad Reichenhall with a stop in Salzburg. Austrian Aviation AG followed suit a year later with a Vienna-Salzburg-Innsbruck route. â The Luftwaffe seized it in 1939, where it was used by the Luftgaukommando VII and routinely visited by the Messerschmitt Me 262 during its development phase. The United States Air Force heavily bombed the city in 1944 (15 air raids), but the airport somehow remained undamaged. It was the first Austrian airport to return to scheduled traffic after WW2. â A new control tower was built in 1958, and a new passenger terminal was opened in 1966. â Itâs a hub for Eurowings Europe and is served by Air France, British Airways, easyJet, Finnair, Lufthansa, Ryanair, Transavia, TUI Airways, and Wizz Air. Most of them only operate seasonally. â The scenery features an accurate rendition of the airport, with custom 3D models, a custom interior with 3D passengers, custom night lighting, performance-friendly optimization, custom taxiway signage, custom ground clutter, and more. â Itâs available onÂ SimMarketÂ for roughly $19.38, requiring at least 1.42 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/da42cw</id>
+    <title>COWS Releases DA42 Series for MSFS</title>
+    <updated>2024-02-10T00:00:00+00:00</updated>
+    <link href="/news/da42cw"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c7e722e50d09f026dff5e0_cows1.jpg"/>
+    <summary>Sim: MSFS. COWS have recently released their DA42 Series for Microsoft Flight Simulator, a rendition of the DA42-VI and DA42-TDI variants of the Diamond DA42 Twin Star, a popular twin-engine four-seater first flown in 2002 and introduced in 2004. â Christian Dries, Diamondâs founder and chief executive officer, approached their design team in the late 1990s with a concept for a twin-engined aircraft, which eventually became their first twin-engined airplane, with over 600 built since its inception. It was idealized to be simple, fuel-efficient, and luxurious.Â  Seating up to four people, it can cruise at 326 km/h with a total range of 2,250 km, making it a solid luxury commuter. The DA42-VI, the first variant, features improvements in the propellers and aerodynamics, allowing it to cruise faster and more efficiently.Â  The add-on features a high-fidelity visual model with photorealistic texturing, accurate placards, fiberglass scratching, an intricate interior model with moderate or heavy wear, two-panel color options, a flight model tried and tested by DA42 students and flight instructors, with accurate performance figures and handling, a true-to-life electrical system with circuit breakers and custom alternator voltage simulation, custom standby flight instrumentation, custom hydraulic gear system simulation, engine damage, state saving, a dynamic sound engine, and much more. Itâs available onÂ OrbxDirectÂ for roughly $30.18, requiring at least 2.88 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-10T00:00:00+00:00</published>
   </entry>
 </feed>
