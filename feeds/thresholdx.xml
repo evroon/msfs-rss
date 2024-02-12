@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-11T18:20:44.365183+00:00</updated>
+  <updated>2024-02-12T18:20:42.072109+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/146cab</id>
-    <title>Just Flight Previews New Passenger Cabins for 146 Professional</title>
-    <updated>2024-02-03T00:00:00+00:00</updated>
-    <link href="/news/146cab"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65becc38025e68d4897aaa37_flybe.jpg"/>
-    <summary>Sim: MSFS. Just Flight has recently previewed their brand-new passenger cabins for the 146 Professional for Microsoft Flight Simulator, which will soon be available as a free update for all existing owners. â The cabins feature a high-density 3+3 layout, custom-modeled for each 146 variant, with differences in the rear seating layout because of the fuselageâs curvature and miniature overhead bins on the seat rows below the wing structure.  â The screenshots show the 146-300, the longest variant in the family, and they are currently working on integrating the new cabin into the shortest variants as well. â The galleys will feature a fully functional attendantâs panel with cabin lights, ground power control, and several annunciators for cabin-related items such as seatbelt signs and door locks. â There will also be a panel on the vestibule controlling the communications between the forward and aft galley, the passenger cabin, and the cockpit, as in real life. It will also house the controls for the cabin sound system, allowing the user to play music and manually adjust the volume as desired.  â While all the doors will still be controllable via EFB, users can open and close them by clicking on their handles, as in real life. â The development process had performance in mind, ensuring minimal performance impact. Users who do not wish to have it visible can disable it through the EFB. â Thereâs no information on the release date for said update yet, but Threshold will keep you informed! â</summary>
-    <published>2024-02-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tff35c</id>
-    <title>ToLiss and FlightFactor To Collaborate On Upcoming A350 for XP12</title>
-    <updated>2024-02-05T00:00:00+00:00</updated>
-    <link href="/news/tff35c"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c03c36901f043063f3b390_426148969_1531166767729977_8576039288246783654_n.jpg"/>
-    <summary>Sim: X-Plane. In an unexpected move during this weekendâs X-Plane Developer Summit in MontrÃ©al, Canada, developers ToLiss Simulations and FlightFactor have announced that they are collaborating on developing a rendition of the Airbus A350 for the X-Plane 12 platform.  FlightFactor and ToLiss, are both known well for their simulations of Airbus aircraft. ToLiss has been exclusively developing Airbus aircraft for X-Plane, while FlightFactor have developed both Boeing and Airbus, with their 2nd rendition of the Boeing 777 on the way. FlightFactor released their version of an A350 back during the days of X-Plane 10. Both companies are usually in competition with each other for the Airbus market, but now they have come together to create what will certainly be a very high quality, if not the best rendition of Airbusâ newest airliner for the X-Plane platform to date.  No other information about how this partnership will work, or anything other than just a simple confirmation that joint development is going on has been released yet, but Threshold will keep you informed, so stay tuned for that, and for more high-quality flight simulation news and editorials! </summary>
-    <published>2024-02-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/davmal</id>
     <title>David Rosenfeld Previews Milan Malpensa Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c7e722e50d09f026dff5e0_cows1.jpg"/>
     <summary>Sim: MSFS. COWS have recently released their DA42 Series for Microsoft Flight Simulator, a rendition of the DA42-VI and DA42-TDI variants of the Diamond DA42 Twin Star, a popular twin-engine four-seater first flown in 2002 and introduced in 2004. â Christian Dries, Diamondâs founder and chief executive officer, approached their design team in the late 1990s with a concept for a twin-engined aircraft, which eventually became their first twin-engined airplane, with over 600 built since its inception. It was idealized to be simple, fuel-efficient, and luxurious.Â  Seating up to four people, it can cruise at 326 km/h with a total range of 2,250 km, making it a solid luxury commuter. The DA42-VI, the first variant, features improvements in the propellers and aerodynamics, allowing it to cruise faster and more efficiently.Â  The add-on features a high-fidelity visual model with photorealistic texturing, accurate placards, fiberglass scratching, an intricate interior model with moderate or heavy wear, two-panel color options, a flight model tried and tested by DA42 students and flight instructors, with accurate performance figures and handling, a true-to-life electrical system with circuit breakers and custom alternator voltage simulation, custom standby flight instrumentation, custom hydraulic gear system simulation, engine damage, state saving, a dynamic sound engine, and much more. Itâs available onÂ OrbxDirectÂ for roughly $30.18, requiring at least 2.88 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-02-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ibylel</id>
+    <title>iBlueYonder Announces Lelystad Airport for MSFS</title>
+    <updated>2024-02-11T00:00:00+00:00</updated>
+    <link href="/news/ibylel"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c9440b56e9aebcc4620e8b_lelystad.jpg"/>
+    <summary>Sim: MSFS. iBlueYonder has recently announced and teased their rendition of Lelystad Airport (EHLE) for Microsoft Flight Simulator, serving Lelystad and Amsterdam in the Netherlands. It's the country's biggest general aviation airport, home to an important aviation museum. â It was idealized in 1966 and had its first flights in 1971, albeit not yet as an official airport, which only happened in 1973. With grass taxiways and runways at first, it was often closed because of muddy terrain, rendering it useless as a landing strip. It wasn't until 1978 that the taxiways were finally hardened, followed by runway paving in 1981. â It was purchased by the Schiphol Group in 1993, the same company that manages Amsterdam Schiphol, the busiest and main airport in the Netherlands. â A decade later, the Schiphol Group moved the Aviodrome Museum from Schiphol to Lelystad, where it has been headquartered ever since and holds various events every year. â The airport is currently under expansion work, driven by Schiphol reaching its maximum capacity and its geographic proximity to Amsterdam. The House of Representatives begs to differ, though, with a motion in January 2024 that blocks the usage of the airport for commercial aviation.  â Developed by Ronald Fleurbaaij, a new member of iBlueYonder, the scenery will feature an accurate rendition of the airport and is scheduled to reach completion before this year's FSWeekend in March. â Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orxswp</id>
+    <title>Orbx Teases Swedish Triple Pack for MSFS</title>
+    <updated>2024-02-11T00:00:00+00:00</updated>
+    <link href="/news/orxswp"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c94769910be9d9d1f9245c_stp.jpg"/>
+    <summary>Sim: MSFS. Orbx has recently teased the arrival of the Swedish Triple Pack for Microsoft Flight Simulator, a package with three Swedish airport renditions developed by independent developer Marcus Nyberg. â The Swedish Triple Pack features an accurate rendition of UmeÃ¥ (ESNU), Kiruna (ESNQ), and Scandinavian Mountains Airport (ESKS), with snow piles during winter, custom high-resolution ground textures, custom GSX profiles, unique static aircraft, and more. â UmeÃ¥ AirportÂ is the seventh busiest in Sweden, with a yearly average of 960,000 passengers. It was inaugurated in 1962. â Kiruna AirportÂ was inaugurated in 1960 and averages around 270,000 passengers yearly. â Scandinavian Mountains AirportÂ is one of the newest airports in the world, inaugurated in 2019. It was the first airport to feature a completely remote control tower.Â  â Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
+    <published>2024-02-11T00:00:00+00:00</published>
   </entry>
 </feed>
