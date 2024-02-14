@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-13T18:22:27.599826+00:00</updated>
+  <updated>2024-02-14T18:22:14.940055+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini105</id>
-    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
-    <updated>2024-02-05T00:00:00+00:00</updated>
-    <link href="/news/ini105"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/658e3cd4374e2720154dbc55_inia3002.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released an emergency update for their Airbus A300-600R for Microsoft Flight Simulator, addressing an LNAV issue introduced in the previous update from a few days ago.  Given its âhotfix-ishâ nature, the fifth updateâs changelog is relatively small, with only four changes:Â  â â The add-on is available on theÂ iniBuilds StoreÂ for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hacu24</id>
-    <title>Honeycomb Aeronautical Charlie Update</title>
-    <updated>2024-02-05T00:00:00+00:00</updated>
-    <link href="/news/hacu24"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c12696ff74397cd5d6f7d0_honeycomb-aeronautical-charlie-peddals.jpg"/>
-    <summary>Sim: OTHER. Following a lengthy post to their Facebook page Honeycomb Aeronautical has made an official announcement on their website regarding the shipments for pre-orders and eventual retail release for their long-awaited Charlie Rudder Pedals. The announcement comes just a week after Founder and CEO Nicki Repenning took to Honeycomb's Facebook page to inform the community of what's been happening behind the scenes and why there's been an overall lack of communication from the company, which you can read about here. At the time of writing, the page the update was posted to has been taken down. â The update that was released on Honeycombâs website outlines the current plan for honoring refunds, pre-orders, and the eventual rollout for retailers. Honeycomb states that pre-orders will be shipped June 24th and those who have canceled their pre-orders can expect a refund sometime in February, these units will be available through the Honeycomb store later and will start shipping with the pre-order units. Retailers are expected to have the Charlie in stock after the second half of August 2024. You can read the full announcement here. â Be sure to watch Threshold for all your up-to-date Flight Simulation news!</summary>
-    <published>2024-02-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniabu</id>
     <title>iniBuilds Previews Abu Dhabi International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ca9f7197053f11d87fd461_aberdeen.webp"/>
     <summary>Sim: MSFS. AuraScenery has recently released their rendition of Aberdeen International Airport (EGPD) for Microsoft Flight Simulator, serving Aberdeen, Aberdeenshire, and Moray in Scotland, with a yearly average of 1.9 million passengers. It opened in 1934 as Dyce Aerodrome, established by Eric Gandar Dower for his many enterprises, including a flying school, a flying club, and an airline, Aberdeen Airways.Â  â It became an RAF base during WW2 (RAF Dyce), housing the No. 13 Group. Even though it had a few fighter aircraft, the baseâs main purpose was photographic reconnaissance.Â  It was bombed twice by the Germans in 1940, but no damage was reported, thanks to a decoy site nearby that operated full-time thanks to an underground generator, leading the enemies to think it was an active air base. They had cleverly concocted a system where a flarepath and a rotating lamp would âsimulateâ taxiing aircraft. Nothing remains from the RAF days due to the constant expansion and development of the industrial areas around the airport, leading to many reconstructions. A new terminal was built in 1947, along with a new control tower.Â  It underwent a massive redevelopment program between 2016 and 2019, doubling its passenger handling capabilities.Â  It has recently been elected the Scottish Airport of the Year (2022) and the Hub of the Year (2023).Â  Itâs a focus city for Eastern Airways, Loganair, and TUI Airways. Aer Lingus, airBaltic, BH Air, British Airways, Eastern Airways, easyJet, KLM, Ryanair, Scandinavian Airlines, Wideroe, and Wizz Air serve it. The scenery features an accurate rendition of the airport, with more than 100 high-detail buildings, high-quality apron textures, detailed landscaping, realistic night lighting, custom ground materials, and highly optimized models. Itâs available on theÂ iniBuilds StoreÂ for roughly $14.52, requiring at least 3.16 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fnxfrv</id>
+    <title>Fenix Simulations Publishes A320 Block 2 Feature Review Video</title>
+    <updated>2024-02-13T00:00:00+00:00</updated>
+    <link href="/news/fnxfrv"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65cbe36656dfb85750418540_fenixblock4.jpg"/>
+    <summary>Sim: MSFS. Fenix Simulations recently uploaded a video to their YouTube channel with a deep dive into the upcoming Block 2 update for their Airbus A320, showcasing some of the new features and intricacies of their new custom engine model. The 47-minute video begins with a demonstration of their new PA system, one of the new features of the upcoming update. Users will be able to have customizable PA sounds on a per airline (ICAO/IATA) basis, and the audio files will be played randomly (within a set time frame, of course) rather than as soon as a new action begins (boarding, deboarding, etc.) to simulate a human cabin crew.  Aamir Thacker, the CEO, then apologizes for the many delays and their recent âradio silence,â along with justifying why they have opted to delay it for so long and why it turned out beneficial in the long run, paving the way for future products with an accurate and entirely agnostic engine model that could be adapted to fit any need they might have in the future. The next part of the video covers the full GSX integration and the new Electronic Flight Bag, which was rewritten from scratch. GSX will now handle refueling, boarding, luggage, and pushback automatically, with no input required from the user or the need for external software other than GSX itself. The new EFB, while maintaining visual similarity with the previous, will be snappier and more feature-fledged than before, allowing for finer control of the settings and failures, along with their respective codes for troubleshooting with the quick reference handbook. The following five minutes cover the new flight model and their new stick dampening simulation, which aims to bring the feel of a real Airbus sidestick to our homes, albeit with a strong emphasis on it still not being exactly like the real thing due to how the real sidestick works in comparison to an average USB flight stick.   The remaining thirty minutes showcase the star of the show: the new external engine model and its many intricacies, including a demonstration of how to crank an IAE engine when itâs 42C outside and the exact opposite: the engineâs behavior when itâs cold outside and how icing on the fan blades can lead to potentially catastrophic issues. The final demonstration showcases compressor stalls, a rare but certainly concerning issue that can happen if the winds are âjust right.â Aamir also mentions they have struck a new deal with ProSim, which will allow hardware such as physical MCDUs and FCUs to work with the Fenix, which was not possible before due to the nature of their first deal. Fenix has not revealed the release date for the update yet, but Threshold will keep you informed! â</summary>
+    <published>2024-02-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/panczd</id>
+    <title>Zero Dollar Payware Updates Anchorage International Airport for X-Plane 12</title>
+    <updated>2024-02-13T00:00:00+00:00</updated>
+    <link href="/news/panczd"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65cbee388a97c1b2bb22faae_zdp1.jpg"/>
+    <summary>Sim: X-Plane. Zero Dollar Payware has recently updated their rendition of Ted Stevens Anchorage International Airport (PANC) for X-Plane 12, the busiest airport in Alaska with a yearly average of 4.9 million passengers. â Established in 1951 as Anchorage International Airport, it was later renamed in honor of Ted Stevens, a prominent U.S. Senator from Alaska. During World War II, the airport played a crucial role as a refueling stop for aircraft flying between the contiguous United States and the Soviet Union. â In the post-war years, Anchorage became a key stopover for flights between North America and Asia, thanks to its strategic location at the crossroads of air routes over the Pacific Ocean. â Currently, Anchorage airport is one of the busiest cargo airports in the world, handling a significant portion of air freight between Asia and North America and serving as a central hub for passenger flights. Itâs a hub for Alaska Airlines, Atlas Air, FedEx Express, Polar Air Cargo, Ravn Alaska, and UPS Airlines. Air Canada, American Airlines, Delta Air Lines, Ryan Air, Sun Country Airlines, and United Airlines also serve it. â The scenery features an accurate rendition of the airport, with custom taxiways and runways, custom orthophotos, 3D grass, custom buildings, SAM jetways, performance-friendly optimization, and more.Â  â Itâs available for free on theÂ Threshold Forum. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-13T00:00:00+00:00</published>
   </entry>
 </feed>
