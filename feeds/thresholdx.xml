@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-16T18:21:24.364025+00:00</updated>
+  <updated>2024-02-17T18:19:46.988646+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini106</id>
-    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
-    <updated>2024-02-09T00:00:00+00:00</updated>
-    <link href="/news/ini106"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/659886e01a7b6d14ad882974_a300update3.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released an update to their Airbus A300-600R for Microsoft Flight Simulator, bringing further LNAV tweaks, sound fixes, and more. Update 1.0.6 - the sixth since its release - brings further LNAV tweaking, fixes missing sounds on the MCDU, and adds custom tail registration and SELCAL options. The changelog follows below: v1.0.6 - Fixed further issues with AP not following LNAV. - Fixed MCDU missing some sounds. - Added custom reg and selcal options. The airplane is available on theÂ iniBuilds StoreÂ / MSFS Marketplace for roughly $45, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/abudha</id>
-    <title>iniBuilds Releases Abu Dhabi International Airport for MSFS</title>
-    <updated>2024-02-09T00:00:00+00:00</updated>
-    <link href="/news/abudha"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c64178791916208d5d8f36_zayed.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of Abu Dhabi International Airport (OMAA) for Microsoft Flight Simulator, serving Abu Dhabi in the United Arab Emirates with a yearly average of 5.2 million passengers. It was conceived in 1974 as part of the governmentâs plan to modernize the nation. It used to be served by Al Bateen Airport, which was deemed too hard to access due to its location on an island connected to the mainland by a single bridge. â A site for the construction was found sometime in the mid-1970s, and construction work started in 1979. Inaugurated in 1979, the new airport featured a circular satellite terminal with a single connection to a semi-circular terminal, allowing more aircraft to park simultaneously. Upgrades were conducted in the 1990s and 2000s to expand its passenger handling capabilities. â â A new terminal (Terminal 2) was opened in 2005 to relieve stress on the main terminal. It did not feature any aerobridges and depended on buses to move passengers from terminal to plane. â â Terminal 3, inaugurated in 2009, was built to allow for extra passenger traffic before the opening of the new midfield terminal, scheduled for 2017. It boosted the passenger capacity from 7 million to 12 million. â â The former terminals were all closed in 2023 and replaced by Terminal A, the so-called Midfield Terminal, which has a capacity for up to 60 million passengers yearly. Covering an area of 780,000 square meters, itâs one of the largest terminals in the world. It can handle 79 A380s and 11,000 passengers per hour at peak. â â Itâs a hub for Air Arabia Abu Dhabi, Etihad Airways, Etihad Cargo, and Wizz Air Abu Dhabi. Aeroflot, Air France, Air India, British Airways, Hainan Airlines, IndiGo, Pakistan International Airlines, Pobeda, Smartwings, SunExpress, Turkish Airlines, and Vistara serve it, among many others. â â The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life airport landside recreation, custom night lighting, highly detailed models of all airport buildings, an up-to-date airport layout, custom jetways, accurate taxiways, and more. â â Itâs available on theÂ iniBuilds StoreÂ for roughly $18.92, requiring at least 4.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/imatla</id>
     <title>Imaginesim Updates Atlanta International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ce8b4722ad89852b1304c2_volanta18.png"/>
     <summary>Sim: OTHER. Orbx has recently updated Volanta to version 1.8, bringing many bug fixes and a âTeamsâ feature where users can create their own teams with statistics, a leaderboard, and a distinct icon color on the map. Volanta 1.8 brings image cropping, an enhanced airport view with clearer navigation, extra flight tooltips, squawk, and vertical speed display, emergency flights are highlighted on the map, new aircraft icons, an improved search experience, and enhancements to the party system, with doubled message length, in-session unread message counter, and more. The âpartiesâ are now temporary and automatically disband after 72 hours, being replaced by the âTeams,â which are permanent groups of up to 10 members with custom statistics, leaderboard (flight time, flown distance, landing rates), and a distinct coloring on the map to differentiate between teams, friends, and other users. The changelog for the update follows below: â Volanta can be downloaded for free on theirÂ official website. A Premium membership is available for roughly $4.14 a month, unlocking real-world schedules, flight parties, a mobile app, customized stream overlays, flight replay, remote pause, cloud-based autosaves*, aircraft persistence*, unlimited 4K cloud screenshots, time sync**, and a premium badge &amp; status. Stay tuned to Threshold for more flight simulation news! * FSX, P3D, and MSFS ** FSX, P3D â</summary>
     <published>2024-02-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfpa16</id>
+    <title>Just Flight Publishes PA-38 Tomahawk Development Update </title>
+    <updated>2024-02-16T00:00:00+00:00</updated>
+    <link href="/news/jfpa16"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65cfe14fbfe05ab154c924b3_pa381.webp"/>
+    <summary>Sim: MSFS. Just Flight has recently published a new progress update on the development of the Piper PA-38 Tomahawk for Microsoft Flight Simulator, a single-engined low-wing fixed tricycle gear general aviation airplane primarily used for flight training, touring, and personal use. â The developers have worked hard over the past few weeks on systems, modeling, texturing, sounds, and additional features that will be mentioned in the future.  â â They have implemented an interactive walkaround mode, accessible via the EFB, allowing users to navigate the aircraft's exterior and interact with various components. A mini checklist will show which components can be checked and interacted with, ranging from chocks, tie-downs, tow bar, control surfaces, stall warning tab, and the propeller. â The PA-38 Tomahawk will also feature wear and tear simulation, with components wearing out over time, with different wear rates depending on how the aircraft is treated. Distinct operational behaviors will result in different wear rates, as in real life. Components will be repairable, and high wear will render it unsuitable for flight. â The instruments will be affected by the amount of suction in the vacuum system, particularly noticeable when starting the engine, making the attitude indicator and direction indicator wobble as the suction increases.  â Their texture artist has been retexturing the entire exterior, which is not reflected in the provided screenshots (it still shows the old texture set, as it's serving as a placeholder until the new set is ready).  â There is still no release date information, but they say the finish line is getting closer.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfltor</id>
+    <title>Just Flight Publishes Tornado GR1 Development Update</title>
+    <updated>2024-02-16T00:00:00+00:00</updated>
+    <link href="/news/jfltor"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65cfe6d82f553d7a4c7a0333_tornado.webp"/>
+    <summary>Sim: MSFS. Just Flight has recently published a progress update on the development of their Tornado GR1 for Microsoft Flight Simulator, a twin-engine combat aircraft jointly developed and manufactured by Italy, the United Kingdom, and Germany.  â First flown in 1974 and officially introduced in 1979, the Panavia Tornado was operated by the German Air Force, Royal Air Force, Italian Air Force, and Royal Saudi Air Force, with 990 units built in total.  â Just Flightâs rendition is modeled after the ZA465 âFoxy Killer,â who served with the No. 16 RAF Squadron during the Gulf War (1990-1991) and is now preserved for posterity by the Imperial War Museum Duxford. â Their livery artist has been creating 8K liveries that will be included with the Tornado GR1 at release. They will cover the IDS and ECR variants across the Royal Air Force, German Air Force, German Navy, Italian Air Force, and Royal Saudi Air Force in a mixture of standard and special liveries. The liveries they have showcased are all UK-centric, with more to come in future development updates. â Unlike some of their previous projects, they claim to have entirely scratched the old code from P3D, writing all the systems from scratch. Work is said to be well underway, with functionality added to the electrical, fuel, and hydraulic systems that lay the foundations for all other systems. While itâs no small feat, they have a dedicated systems coder, and the process should progress at a good pace, with Just Flight believing that it will bring the level of their simulation up to the highest standard within the confines of what is possible with Microsoft Flight Simulator. â They will share more information as it progresses, and Threshold will keep you updated! â</summary>
+    <published>2024-02-16T00:00:00+00:00</published>
   </entry>
 </feed>
