@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-17T18:19:46.988646+00:00</updated>
+  <updated>2024-02-18T18:19:42.467223+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/imatla</id>
-    <title>Imaginesim Updates Atlanta International Airport for MSFS</title>
-    <updated>2024-02-09T00:00:00+00:00</updated>
-    <link href="/news/imatla"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65c6a6f0b362175f3bbbac7b_atlanta.webp"/>
-    <summary>Sim: MSFS. Imaginesim has recently issued an update to their rendition of Hartsfield-Jackson Atlanta International Airport (KATL), serving the Atlanta metropolitan area with a yearly average of 104.6 million passengers, making it the world's busiest airport. â The update, free for existing KATL customers, completely overhauls the airport, using the latest technologies and the latest SDK compiler. It features new models, multiple improvements, performance-friendly optimization, new buildings and objects, custom jetways, PBR, custom VDGS, and more. The complete changelog follows below: - Fantastic performance with comprehensive optimization. - New modelling and thousands of other improvements. - Custom interactive SafeGateTM Visual Docking Guidance (VDGS). - New landscaping, PBR and terrain modelling. - Fluid usage, even with complex airliner cockpits and high density AI coverage. - Interactive bespoke jetways and animations. - Instantaneous scenery cache loading and low simulator impact. - 15 square mile coverage of the KATL area. - Graduated ground extremities to seamlessly blend with any vector driven add-on. - Utilizes imaginesim's bespoke Operations Center configuration GUI. â It's available at theÂ Imaginesim StoreÂ for roughly $18.93. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nssjin</id>
     <title>NSS Scenery Studio Releases Jinan Yaoqiang International Airport for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65cfe6d82f553d7a4c7a0333_tornado.webp"/>
     <summary>Sim: MSFS. Just Flight has recently published a progress update on the development of their Tornado GR1 for Microsoft Flight Simulator, a twin-engine combat aircraft jointly developed and manufactured by Italy, the United Kingdom, and Germany.  â First flown in 1974 and officially introduced in 1979, the Panavia Tornado was operated by the German Air Force, Royal Air Force, Italian Air Force, and Royal Saudi Air Force, with 990 units built in total.  â Just Flightâs rendition is modeled after the ZA465 âFoxy Killer,â who served with the No. 16 RAF Squadron during the Gulf War (1990-1991) and is now preserved for posterity by the Imperial War Museum Duxford. â Their livery artist has been creating 8K liveries that will be included with the Tornado GR1 at release. They will cover the IDS and ECR variants across the Royal Air Force, German Air Force, German Navy, Italian Air Force, and Royal Saudi Air Force in a mixture of standard and special liveries. The liveries they have showcased are all UK-centric, with more to come in future development updates. â Unlike some of their previous projects, they claim to have entirely scratched the old code from P3D, writing all the systems from scratch. Work is said to be well underway, with functionality added to the electrical, fuel, and hydraulic systems that lay the foundations for all other systems. While itâs no small feat, they have a dedicated systems coder, and the process should progress at a good pace, with Just Flight believing that it will bring the level of their simulation up to the highest standard within the confines of what is possible with Microsoft Flight Simulator. â They will share more information as it progresses, and Threshold will keep you updated! â</summary>
     <published>2024-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbxswe</id>
+    <title>Orbx Releases Swedish Triple Pack for MSFS</title>
+    <updated>2024-02-17T00:00:00+00:00</updated>
+    <link href="/news/orbxswe"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65d0fc3c65753f6a2982c302_triplepack.jpg"/>
+    <summary>Sim: MSFS. Orbx has released the Swedish Triple Pack for Microsoft Flight Simulator, a package with three Swedish airports (UmeÃ¥, Kiruna, and Scandinavian Mountains Airport) developed by independent developer Marcus Nyberg. â The Swedish Triple Pack features an accurate rendition of UmeÃ¥ (ESNU), Kiruna (ESNQ), and Scandinavian Mountains Airport (ESKS), with snow piles during winter, custom high-resolution ground textures, custom GSX profiles, unique static aircraft, and more. â UmeÃ¥ Airport, inaugurated in 1962, is the seventh busiest in Sweden, with a yearly average of 960,000 passengers. BRA Braathens Regional Airlines, Croatia Airlines, Jonair, Norwegian Air Shuttle, Scandinavian Airlines, and TUI fly Nordic serve it. â Kiruna AirportÂ was inaugurated in 1960 and averages around 270,000 passengers yearly. Eurowings, Norwegian Air Shuttle, and Scandinavian Airlines serve it. â Scandinavian Mountains AirportÂ is one of the newest airports in the world, inaugurated in 2019. It was the first airport to feature a completely remote control tower. BRA Braathens Regional Airlines, Scandinavian Airlines, Transavia, and TUI fly Netherlands serve it, albeit seasonally. â The scenery pack is available onÂ OrbxDirectÂ for roughly $29.98, requiring at least 8.53 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-17T00:00:00+00:00</published>
   </entry>
 </feed>
