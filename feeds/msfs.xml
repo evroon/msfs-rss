@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-02-22T18:21:49.662959+00:00</updated>
+  <updated>2024-02-23T18:21:57.915104+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 14: The Bell  47J Ranger</title>
-    <updated>2024-01-30T16:31:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/01/MSFS_Bell47J_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>Microsoft Flight Simulator celebrates a historic era of rotary wing aviation with this Local Legend release!BIRTH OF A LEGENDThe single-engine, four-seat Bell 47J Ranger is one of the most important and successful helicopters developed in the early era of rotary wing aviation. Renowned for its versatility, ruggedness, and reliability, the Ranger traces its development to … Continued</summary>
-    <published>2024-01-30T16:31:33+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-1st-2024-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/@KotetuP-Twitter-1-1024x551.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user @KotetuP! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Tuesday, we released the Dune Expansion, which is available now as a FREE download from the in-sim Marketplace! This optional package allows Microsoft Flight Simulator pilots to … Continued</summary>
     <published>2024-02-15T23:29:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-22nd-2024-development-update/</id>
+    <title>February 22nd, 2024 – Development Update</title>
+    <updated>2024-02-22T23:32:08+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-22nd-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/@vp_sim-Twitter-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released a new beta build for those players enrolled in the optional Sim Update 15 (SU_15) public test. You can see the release notes on … Continued</summary>
+    <published>2024-02-22T23:32:08+00:00</published>
   </entry>
 </feed>
