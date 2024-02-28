@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-27T18:20:42.286769+00:00</updated>
+  <updated>2024-02-28T18:21:43.478009+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bmwmia</id>
-    <title>BMWorld &amp; AmSim Release Miami International Airport for MSFS</title>
-    <updated>2024-02-15T00:00:00+00:00</updated>
-    <link href="/news/bmwmia"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ce5c031d3d35fe34a9177d_miami1.jpg"/>
-    <summary>Sim: MSFS. BMWorld and AmSim have recently released their rendition of Miami International Airport (KMIA) for Microsoft Flight Simulator, serving the Miami metropolitan area with a yearly average of 52.3 million passengers, which makes it the 9th busiest airport in the United States. It opened in 1928 as Pan American Field, after Pan American World Airways, which had purchased a plot of land beside a pre-existing Miami City Airport (dating back to the early 20s) to build it.Â  World War 2 led to the construction of Miami Army Airfield, which sat south of the Pan American Field with separate runways yet was listed as a single facility by some airport directories. Right after World War 2, in 1945, Miami established a Port Authority and purchased Pan American Field from Pan American World Airways, eventually merging it with the Miami Army Airfield in 1949.Â  A new passenger terminal was opened in 1959, the largest central airport terminal in the world at the time, with five concourses and a 270-room hotel. It was later renovated and expanded through the 1990s. The airport currently features three terminals and six concourses, with 131 gates in total.Â  Itâs a hub for ABX Air, American Airlines, Amerijet International, Atlas Air, Avianca Cargo, Eastern Airlines, FedEx Express, Havana Air, iAero Airways, IBC Airways, LATAM Cargo Chile, Mas Air, Nothern Air Cargo, Sky Lease Cargo, UPS Airlines, Western Global Airlines, and World Atlantic Airlines. Aer Lingus, Air Canada, Air France, Alaska Airlines, Avianca, Condor, Copa Airlines, Emirates, Finnair, ITA Airways, JetBlue, Level, LOT Polish Airlines, Lufthansa, Qatar Airways, Southwest Airlines, Spirit Airlines, Sun Country Airlines, Swiss, Turkish Airlines, United Airlines, Virgin Atlantic, and Volaris also serve it. â The scenery features an accurate rendition of the airport, with high-resolution custom ground textures, real-world ground dirt, a detailed terminal area, animated jetways, 60+ landside buildings, and more. Itâs available on theÂ iniBuilds StoreÂ for roughly $23.00, requiring at least 4.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mxichi</id>
     <title>MXI Design Releases ChiÈinÄu International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ddbe87c8f84220e27edaea_65dd1790f44f63f61bf6c2d0_osloo(2).jpg"/>
     <summary>Sim: MSFS. Jo Erlend has recently submitted anotherÂ batch of screenshotsÂ showcasing the progress on the Oslo Gardermoen Airport (ENGM) rendition for Microsoft Flight Simulator, the busiest airport in Norway with 30 million passengers yearly.Â  â Oslo Gardermoen is the main airport serving Oslo. It is located approximately 47 kilometers northeast of the city center and opened in 1998 to replace the outdated Fornebu Airport, which had been operating since 1939. It was built to modernize and expand Norwayâs airport infrastructure and improve accessibility to the capital city, quickly becoming the Main hub for domestic and international travel in the Country.Â  â The new previews were taken while Jo adjusted the AI traffic logic, which could denote its closeness to rollout. However, he says thereâs still some back and forth between him and his initial group of testers with feedback being gathered, and itâs soon to reach a larger group of testers for that final bug squashing.Â  â Thereâs no information on the pricing or a release date yet, but Threshold will keep you updated!</summary>
     <published>2024-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fxb224</id>
+    <title>Fenix A320 V2 Block To Release Tomorrow</title>
+    <updated>2024-02-27T00:00:00+00:00</updated>
+    <link href="/news/fxb224"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65de435bdd1aaa8e2c01ec55_8.webp"/>
+    <summary>Sim: MSFS. In an announcement made on their Discord server, Fenix Simulations CEO Aamir has said that the highly anticipated Block 2 of the massive V2 update of their immensely popular airliner will be released tomorrow, February 28th. According to Aamir, the timeline has been âupdated from âweeks not monthsâ to âhours not days.ââ This announcement comes after over a year and a half of development, in which many aspects of the aircraft are to be updated, including overhauled exterior and interior, brand new EFB backend, cabin announcements, full GSX integration, external engine model, and who could forget the IAE V2500 engine variant! Although the announcement was brief, Aamir thanked the Fenix community for their patience, and assured that we will get more âtidbits and some info in the following hours,â so stay tuned to Threshold for the latest updates on the Fenix, and for more high quality flight simulation news and reviews!</summary>
+    <published>2024-02-27T00:00:00+00:00</published>
   </entry>
 </feed>
