@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-02-28T18:21:43.478009+00:00</updated>
+  <updated>2024-02-29T18:22:17.961583+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mxichi</id>
-    <title>MXI Design Releases ChiÈinÄu International Airport for MSFS</title>
-    <updated>2024-02-15T00:00:00+00:00</updated>
-    <link href="/news/mxichi"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ce6f2740a9abe6822b4f31_chisi.jpg"/>
-    <summary>Sim: MSFS. MXI Design has recently released their rendition of ChiÈinÄu International Airport (LUKK) for Microsoft Flight Simulator, serving the Moldovan city of ChiÈinÄu with a yearly average of 2.8 million passengers. Its history dates back to 1926, but a passenger terminal was only built in the 1970s.Â  â More than thirty years after its construction, the passenger terminal underwent a modernization program, which included constructing an annex terminal building of 46,000 square meters and renovating the old terminal, increasing its passenger handling capabilities to 5.4 million passengers a year. â Itâs a hub for FlyOne and HiSky. Aegean Airlines, airBaltic, Austrian Airlines, Azerbaijan Airlines, Eurowings, Freebird Airlines, Georgian Wings, Israir, LOT Polish Airlines, Lufthansa, Southwind Airlines, TAROM, Turkish Airlines, and Wizz Air also serve it. â The scenery features an accurate rendition of the airport, with custom ground textures, PBR, up-to-date ground layout, custom landside models, 3d passengers, animated flags, custom aerial imagery, and a basic terminal interior model. â Itâs available onÂ SimMarketÂ for roughly $13.92, requiring at least 2.71 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mfsaom</id>
-    <title>MFSG Releases Aomori Airport for MSFS</title>
-    <updated>2024-02-15T00:00:00+00:00</updated>
-    <link href="/news/mfsaom"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ce72d4d32036facdfcba56_aomori.jpg"/>
-    <summary>Sim: MSFS. MFSG has recently released their rendition of Aomori Airport (RJSA) for Microsoft Flight Simulator, serving the Aomori Prefecture in Japan with a yearly average of 992.000 passengers.Â  â The original airport dates back to the early 60s, but geographic limitations of the existing site led to a position shift in the late 1980s. A small part of the old airport is still within the premises of the new one. It first featured a 2000x60 meter runway, which was extended to 2,500 meters in 1990.Â  â The runway underwent further extension work in 2005, from 2,500 to 3,000 meters. The ILS equipment was also upgraded to handle Cat-3a fog conditions, which are common around the area. â The terminal building was recently renovated, with increased capacity for international customers, a praying area for Muslims, and aesthetic changes. â ANA Wings, Fuji Dream Airlines, J-Air, Japan Airlines, and Korean Airlines serve it. â The scenery features an accurate rendition of the airport, with an up-to-date layout, custom jetways, custom groundpoly, AI-traffic compatibility, and performance-friendly optimization. â Itâs available onÂ SimMarketÂ for roughly $12.86, requiring at least 33.29 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/61tliv</id>
     <title>61tree Studio Releases Livingstone International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65de435bdd1aaa8e2c01ec55_8.webp"/>
     <summary>Sim: MSFS. In an announcement made on their Discord server, Fenix Simulations CEO Aamir has said that the highly anticipated Block 2 of the massive V2 update of their immensely popular airliner will be released tomorrow, February 28th. According to Aamir, the timeline has been âupdated from âweeks not monthsâ to âhours not days.ââ This announcement comes after over a year and a half of development, in which many aspects of the aircraft are to be updated, including overhauled exterior and interior, brand new EFB backend, cabin announcements, full GSX integration, external engine model, and who could forget the IAE V2500 engine variant! Although the announcement was brief, Aamir thanked the Fenix community for their patience, and assured that we will get more âtidbits and some info in the following hours,â so stay tuned to Threshold for the latest updates on the Fenix, and for more high quality flight simulation news and reviews!</summary>
     <published>2024-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsra2b</id>
+    <title>Fenix Simulations Releases A320 V2 Block 2 Update for MSFS</title>
+    <updated>2024-02-28T00:00:00+00:00</updated>
+    <link href="/news/fsra2b"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65dfafa4c3392bf1dcef290a_b21.webp"/>
+    <summary>Sim: MSFS. Fenix Simulations has recently rolled out the V2 Block 2 Update for their Airbus A320 add-on for Microsoft Flight Simulator, adding the IAE engine variant, a new external model, a vast list of bug fixes and improvements, and more. As previously mentioned during ourÂ coverage of their feature review video, the update brings a fully custom engine model, meaning it will no longer produce inadequate performance figures and fuel burn. Unlike the original plan, which was to release IAEs with the custom engine model and then later start the process on CFMs, Fenix has decided to do both simultaneously, bringing both up to the same standard at the cost of a slight delay. The update also brings a highly customizable PA system per ICAO/IATA, with the audio files playing randomly within a set time frame for each action (boarding, deboarding, landing, etc.) to simulate a real cabin crew. Furthermore, they have worked hard on integrating GSX, meaning refueling, boarding, cargo, and pushback will be handled automatically by FSDTâs add-on, saving a few clicks.Â  The Electronic Flight Bag was entirely rewritten and made more responsible, with finer control of settings and failures and a built-in quick reference handbook for dealing with the many possible failures the add-on packs in. The flight model has been significantly tweaked, with Fenix Simulations suggesting a specific sensitivity curve for both with and without stick dampening simulation - one of the new features of this update - aiming to make the sidestick feel much more like the real thing. They recommend -20 % on the sensitivities (positive and negative) of the Â L-Axis X and Y, 0% deadzone, and 100% reactivity. Rudder-wise (Joystick R-axis Z), they suggest -40 % sensitivity (positive and negative), 8% deadzone, and 100% reactivity.Â  After a year and a half of development work, itâs no surprise there are so many changes, improvements, and new features. The changelog follows below: â The add-on is available on their official website for roughly $63. Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2024-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ini109</id>
+    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
+    <updated>2024-02-28T00:00:00+00:00</updated>
+    <link href="/news/ini109"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65dfb70fbfdc6dd323f94dbd_a300-slide4.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently issued a new update to their Airbus A300-600R for Microsoft Flight Simulator, addressing the spoiler arming code, numbers cutting off on VOR frequencies, and general system stability improvements. v1.0.9, the eight so far, brings a relatively modest changelog, which follows below: â The add-on is available on theÂ iniBuilds StoreÂ for roughly $44, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-02-28T00:00:00+00:00</published>
   </entry>
 </feed>
