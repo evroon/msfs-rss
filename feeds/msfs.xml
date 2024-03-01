@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-02-29T18:22:17.160878+00:00</updated>
+  <updated>2024-03-01T18:23:21.541961+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/february-1st-2024-development-update/</id>
-    <title>February 1st, 2024 – Development Update</title>
-    <updated>2024-02-02T00:45:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-1st-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/@pommes_l-Twitter-1024x576.jpeg"/>
-    <summary>On Tuesday, we released World Update XVI: Caribbean! Available now as a FREE download from the in-sim Marketplace, this World Update contains new Digital Elevation Model (DEM) data, 104 hand-crafted points of interest, seven bespoke airports, and new Landing Challenges, Bush Trips, and Discovery Flights for the beautiful and scenic Caribbean region.</summary>
-    <published>2024-02-02T00:45:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-8th-2024-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/@vp_sim-Twitter-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released a new beta build for those players enrolled in the optional Sim Update 15 (SU_15) public test. You can see the release notes on … Continued</summary>
     <published>2024-02-22T23:32:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/february-29th-2024-development-update/</id>
+    <title>February 29th, 2024 – Development Update</title>
+    <updated>2024-02-29T22:15:20+00:00</updated>
+    <link href="https://www.flightsimulator.com/february-29th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/Parorng-Forums-2-1024x569.jpeg"/>
+    <summary>On Wednesday, we released a new beta build (1.37.5.0) for those players enrolled in the optional Sim Update 15 (SU_15) public test. You can see the release notes on our forums here. Among other improvements, this build fixes a few known issues that were inadvertently introduced in the previous beta build, and it also has some stability enhancements.</summary>
+    <published>2024-02-29T22:15:20+00:00</published>
   </entry>
 </feed>
