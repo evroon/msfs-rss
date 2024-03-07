@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-06T18:22:00.263996+00:00</updated>
+  <updated>2024-03-07T18:21:22.825634+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ifl73m</id>
-    <title>iFly Previews 737 Max 8 for MSFS</title>
-    <updated>2024-02-26T00:00:00+00:00</updated>
-    <link href="/news/ifl73m"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65dd0f7622df8a8caaf85024_iflymax.jpg"/>
-    <summary>Sim: MSFS. iFly has recently shared an image gallery with ten work-in-progress previews of their upcoming Boeing 737 Max 8 for Microsoft Flight Simulator and a brief paragraph on the development progress. They emphasized in aÂ forum postÂ that itâs still a development testing build and not a beta, and they have just started flight testing on some of its systems.Â  Other than the pictures and the quick note on it not being a beta yet, thereâs no further information available at the moment, but Threshold will keep you updated. â â</summary>
-    <published>2024-02-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mksbar</id>
-    <title>MK Studios Teases Barcelona Airport for MSFS</title>
-    <updated>2024-02-26T00:00:00+00:00</updated>
-    <link href="/news/mksbar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ddc28c2cb38294ff72d997_65dd1546a03010ad4fe3b563_barcelona1.jpeg"/>
-    <summary>Sim: MSFS. MK Studios has recently shared two images of their upcoming Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator on their newly launched publicÂ Discord server.Â  El Prat is Spain's second-largest and second-busiest airport, with a yearly average of 49.9 million passengers.Â  â It's a hub for Iberia, Level, Air Nostrum, and Vueling and a focus city for EasyJet and Ryanair. Aegean Airlines, Aer Lingus, Air Canada, Air Transat, airBaltic, Avianca, Cathay Pacific, Delta Air Lines, Emirates, Eurowings, Finnair, ITA Airways, Lufthansa, Scandinavian Airlines, TAP Air Portugal, Turkish Airlines, United Airlines, and Wizz Air also serve it. â Besides the two images, there's no other information regarding features, pricing, or a potential release date. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-02-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aeng16</id>
     <title>Aerosoft Previews Oslo Gardermoen Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e7adfb73d0eca37319f930_mel1.webp"/>
     <summary>Sim: MSFS. PKSIM has recently released their rendition of Melilla Airport (GEML) for Microsoft Flight Simulator, serving Melilla, an autonomous city of Spain in North Africa with a yearly average of 500,000 passengers.Â  â It was opened in 1969, and beforehand, tourists had to visit Melilla through Nador International Airport, then called Tauima Aerodrome, in Morocco (both before and after its independence).Â  Sporting a 1,433-meter-long runway, itâs mostly suitable for small regional aircraft such as the ATR, Dash 8s, etc. While theoretically, an A320/B738 and their smaller variants could land somewhat safely, the maximum fuel range (they canât fill it up entirely because the runway is very short) is not enough to reach most countries in central Europe, making it infeasible. Itâs served by Air Nostrum (Iberia Regional), the only airline connecting Melilla to the World as of 2024. The scenery features an accurate rendition of the airport, with custom ground textures, PBR textures, GSX compatibility, and more.Â  Itâs available onÂ SimMarketÂ for roughly $17.35, requiring at least 389.42 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flbsfo</id>
+    <title>Flightbeam Studios Previews San Francisco International Airport for MSFS</title>
+    <updated>2024-03-07T00:00:00+00:00</updated>
+    <link href="/news/flbsfo"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e9645d1ed8b7e8943d957c_sanfran1.webp"/>
+    <summary>Sim: MSFS. Flightbeam Studios has recently previewed their work on San Francisco International Airport (KSFO) for Microsoft Flight Simulator and launched theirÂ Discord serverÂ for future product previews, support, and more. San Francisco International is the second-busiest airport in California, with a yearly average of 57 million passengers, only behind Los Angeles International.Â  Itâs a hub for United Airlines (44% of the market share) and Alaska Airlines (10.66% of the market share) and is visited by multiple international carriers such as Aer Lingus, Air Canada, Air China, Air France, Air New Zealand, American Airlines, British Airways, Cathay Pacific, Emirates, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, and WestJet. According to Flightbeam, the upcoming scenery will be their most detailed work yet, sitting high above their previous releases regarding visual complexity, quality, and performance, hence the âCaptainâs Editionâ title.Â  â Itâs said to be inching closer to completion, with a potential release happening before summer if things go according to plan. The pictures shared cover International Terminal A and its surroundings, and further previews will be shared closer to release. All the terminals have been revamped from the inside out. Thereâs no price or release date information yet, but Threshold will keep you updated! â</summary>
+    <published>2024-03-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aswmad</id>
+    <title>Aerosoft/sim-wings Update Madrid Airport for X-Plane 12</title>
+    <updated>2024-03-07T00:00:00+00:00</updated>
+    <link href="/news/aswmad"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e96e4fba3cad57f21c7279_AS_LEMD_Madrid_XP12%20(33).webp"/>
+    <summary>Sim: X-Plane. Aerosoft/sim-wings have recently updated their rendition of Adolfo SuÃ¡rez Madrid-Barajas Airport (LEMD) for X-Plane 12, bringing SAM improvements, airport functionality tweaks, and more. It was constructed in 1927 and opened in 1931, with commercial operations starting two years after the official inauguration. It was initially unpaved, and the paving process only began in 1940.Â  The National Terminal, now T2, was inaugurated in 1954 after mere months of construction. It was considered a first-class international airport in 1957. Terminal 1 was constructed in the 1970s during the air travel boom, which was a direct consequence of the advent of the Boeing 747. It reached 4 million passengers yearly during the period that led to its construction. In the 1990s, the terminals saw further expansion, which happened again with the construction of Terminal 4 in 2004, significantly increasing its passenger handling capabilities. With a yearly average of 61 million passengers, itâs the busiest airport in Spain and the 5th busiest in Europe. Itâs a hub for Air Europa, Iberia, Iberia Express, Iberia Regional, Plus Ultra LÃ­neas AÃ©reas, and World 2 Fly, and an operating base for Iberojet, Ryanair, and Wamos Air. Aegean Airlines, Aer Lingus, AeromÃ©xico, Air Arabia, Air China, Air France, Air Transat, British Airways, Brussels Airlines, Cathay Pacific, Delta Air Lines, Emirates, Finnair, Korean, LATAM Brasil, LATAM Chile, LATAM PerÃº, Lufthansa, Transavia, Turkish, United Airlines, and WizzAir also serve it. Update 1.1.0 brings a hefty changelog, which follows below: â The scenery is available on theÂ Aerosoft ShopÂ for roughly $25.60, requiring at least 7.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-07T00:00:00+00:00</published>
   </entry>
 </feed>
