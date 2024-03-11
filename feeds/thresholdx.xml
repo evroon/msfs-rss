@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-10T18:19:15.693704+00:00</updated>
+  <updated>2024-03-11T18:21:43.220514+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini109</id>
-    <title>iniBuilds Updates Airbus A300-600R for MSFS</title>
-    <updated>2024-02-28T00:00:00+00:00</updated>
-    <link href="/news/ini109"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65dfb70fbfdc6dd323f94dbd_a300-slide4.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently issued a new update to their Airbus A300-600R for Microsoft Flight Simulator, addressing the spoiler arming code, numbers cutting off on VOR frequencies, and general system stability improvements. v1.0.9, the eight so far, brings a relatively modest changelog, which follows below: â The add-on is available on theÂ iniBuilds StoreÂ for roughly $44, requiring at least 8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tmmanc</id>
-    <title>Taimodels Releases Manchester International Airport for MSFS</title>
-    <updated>2024-02-29T00:00:00+00:00</updated>
-    <link href="/news/tmmanc"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e10409b0847eef65753e36_manchester1.webp"/>
-    <summary>Sim: MSFS. Taimodels has recently released their rendition of Manchester International Airport (EGCC) for Microsoft Flight Simulator, the third busiest airport in the United Kingdom with a yearly average of 23.3 million passengers. Construction work began in 1935, and the airport was partially operating by 1937 (the official conclusion happened a year later). KLM was the first airline to launch scheduled commercial flights to the newly opened airport in 1938. It was converted into an RAF base during WW2 and played an essential role in military aircraft production and parachutist training. The post-war period saw its return as a commercial airport, with rapid growth during the 50s and 60s, where it eventually managed to be Britain's second busiest airport after London Heathrow. The airport was heavily expanded in the 80s and 90s to keep up with the exponential growth figures, eventually leading to the millionth passenger in a month mark in 1987. Plans for a new terminal were put in place, and it was opened by Princess Diana as Terminal A in 1989.Â  From 1997 to 2001, a second runway was built, leading to many protests from locals because natural habitats were disturbed and listed buildings had to be demolished, but they didn't have another option. New expansion work started in 2019 to keep up with the ever-growing passenger traffic figures. â EasyJet, Jet2.com, Ryanair, and TUI Airways have operating bases in Manchester. Many airlines from around the Globe serve it, including Air Canada, Air France, Brussels Airlines, Cathay Pacific, Emirates, Etihad, Finnair, KLM, Kuwait Airways, Lufthansa, Qatar, Scandinavian Airlines, Singapore Airlines, Turkish, Virgin Atlantic, and more. The scenery features an accurate rendition of the airport, with PBR textures, realistic lighting, custom jetways, performance-friendly optimization, realistic terminals, and custom ground textures. It's available onÂ SimMarketÂ for roughly $20.85, requiring at least 1.68 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-02-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tdgtnp</id>
-    <title>TDS Sim Software Releases GTNXi Pro with Full Navigraph Data Support for MSFS</title>
-    <updated>2024-02-29T00:00:00+00:00</updated>
-    <link href="/news/tdgtnp"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e10a649702b430b57a5395_tds1.webp"/>
-    <summary>Sim: MSFS. TDS Sim Software has recently introduced the GTNXi Pro navigation suite for Microsoft Flight Simulator, featuring full compatibility with Navigraphâs navigation database and charts instead of only accepting the - rather expensive - official Garmin navdata.Â  The developers claim there are no setbacks or limitations from using the Navigraph database instead, with the overall experience being indistinguishably similar. The main difference, though, is the pricing: while one can subscribe to Navigraph for as little as $27 (navdata only), Garminâs subscription plan can easily go past the four-digit mark for the worldwide database ($1869/year for the database and charts), which can be a bit steep for flight simulation usage. They have been developing this integration for two years, and itâs said to be their most challenging project yet. Itâs the first time in history that a Garmin-trainer-based GTN was made compatible with Navigraph data.Â  The feature set is the same as the standard GTNXi, delivering an authentic replica of the real GTN 750Xi/650Xi with advanced navigation features, great levels of customization per the real unit, and high-resolution displays with great clarity. The Navigraph integration also features geo-referenced data where available, providing real-time aircraft positioning overlaid on the Jeppesen charts for extra situational awareness. Their data also allows for LPV (Localiser Performance with Vertical Guidance) approaches, RF (radius-to-fix) legs, and much more.Â  â The GTNXi Pro subscription is available as an upgrade from the standard GTNXi for $26.95 or standalone for $70.15 on theirÂ official website. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-02-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mkbcn1</id>
     <title>MK Studios Releases Barcelona Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65eb8deb5a3e794e89ad96d6_beluga1.webp"/>
     <summary>Sim: X-Plane. iniBuilds has recently updated their X-Plane 12 fleet (Airbus A300-600R and BelugaST) with a comprehensive list of fixes, improvements, and flight model tweaks. The updates (v2.1.1 on the A300 and v1.1.4 on the BelugaST) address the nose landing gear light not working, flight model improvements, engine fixes, system freeze mitigations, and more. Both changelogs follow below: â Â TheÂ A300Â and theÂ BelugaSTÂ are available on the iniBuilds Store for $67.49 and $43.38 (on sale), respectively. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbdbem</id>
+    <title>Burning Blue Design Previews Bembridge Airport for MSFS</title>
+    <updated>2024-03-10T00:00:00+00:00</updated>
+    <link href="/news/bbdbem"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ee3dbd7cba641bd527d014_bem1.webp"/>
+    <summary>Sim: MSFS. Burning Blue Design has recently previewed their work on Bembridge Airport (EGHJ) for Microsoft Flight Simulator, an unlicensed aerodrome in Bembridge, Isle of Wight, England.  It opened in 1920 on land owned by Bembridge Farm, becoming a licensed aerodrome one year later.  Airline services started in 1934 with Spartan Airlines, and other airlines followed suit, such as Portsmouth Southsea, Isle of Wight Aviation, and Channel Air Ferries). It ended abruptly shortly after the start of World War 2, as the airport was closed and ditches obstructed the runway to make it unusable. It reopened as soon as the war ended, but airline services never resumed. It continued as a general aviation airfield and eventually became a manufacturing ground for Britten Norman in the 60s, where they built many Islanders and Trislanders. They are still in production today, with over 1200 produced so far. â One of Britten Norman's subsidiaries, Aero Composites Ltd, began assembling Cirrus aircraft (SR20 and SR22s) in 2005. â Thereâs no information on pricing or a release date yet, but Threshold will keep you informed! â</summary>
+    <published>2024-03-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fnx392</id>
+    <title>Fenix Simulations Updates Fenix A320 V2B2 for MSFS</title>
+    <updated>2024-03-11T00:00:00+00:00</updated>
+    <link href="/news/fnx392"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ef3af763ddd86bf65881ee_1250410_20240307064307_1.webp"/>
+    <summary>Sim: MSFS. Fenix Simulations has recently issued a new update to their Airbus A320 V2 for Microsoft Flight Simulator, bringing adjustments and fixing issues found by the community during the week and a half itâs been out.Â  â Update V2.0.0.392 is the first update since the release of Block 2 V2 in late February, and it addresses issues with high CPU usage, autopilot engagement, performance in exterior view, the RETARD callout bug, and more. The complete changelog follows below: â The update is available to all customers on theÂ Fenix Dashboard.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmxhsi</id>
+    <title>Project MAX Releases Husein Sastranegara International Airport for MSFS</title>
+    <updated>2024-03-11T00:00:00+00:00</updated>
+    <link href="/news/pmxhsi"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ef477cb350984538ed9c6f_husen1.webp"/>
+    <summary>Sim: MSFS. Project MAX has recently released their rendition of Husein Sastranegara International Airport (WICC) for Microsoft Flight Simulator, serving the city of Bandung in Indonesia, with a yearly average of 4.3 million passengers. It was built during the Dutch colonial period and was a low-traffic airport for many decades, with less than 30 flights a day. The situation changed in the 2010s, leading to a surge that its infrastructure was not quite ready for, as the old terminal could only handle up to 750,000 passengers yearly. It eventually led to the construction of a new terminal. â Itâs being gradually replaced by Kertajati International Airport, the second largest airport by area in the country, inaugurated in 2018. It has been getting most of the domestic traffic that once landed in Sastranegara. The airport has already been partially retired as of late 2023, with turboprop flights from Susi Air being the sole exception.Â  The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, PBR textures, a 3D detailed full interior, custom ground poly, detailed landside, and more. â Itâs available on theÂ iniBuilds StoreÂ for roughly $9.63, requiring at least 3.38 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-11T00:00:00+00:00</published>
   </entry>
 </feed>
