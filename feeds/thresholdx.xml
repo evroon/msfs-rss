@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-13T18:21:02.873443+00:00</updated>
+  <updated>2024-03-14T18:21:28.374632+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mkbcn1</id>
-    <title>MK Studios Releases Barcelona Airport for MSFS</title>
-    <updated>2024-03-02T00:00:00+00:00</updated>
-    <link href="/news/mkbcn1"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a76961aaa3b024644a92_bcn1.webp"/>
-    <summary>Sim: MSFS. MK Studios has recently released their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, Spain's second-largest and second-busiest airport with a yearly average of 49.9 million passengers. El Prat was Barcelona's second airport, built in 1918, after their previous airport (El Remolar) couldn't be expanded any further. It was a base for the Spanish Navy's Zeppelin fleet and was the headquarters of the Aeroclub of Catalonia. Regularly scheduled commercial service started in 1927 with Iberia. Following the end of World War 2, they built its first paved runway, making way for the first scheduled international flight in its history: a Pan American Airways Lockheed Constellation that would come over from New York regularly.Â  The subsequent years brought its first passenger terminal, taxiways, and a second runway, allowing the airport to keep growing. It would handle a million passengers annually within a decade of that construction effort. The airport's growth had halted after the 1970s, and the imminence of the 1992 Summer Olympic Games led to an urgent makeover: two more terminals were built, and jetways were finally introduced. It's a hub for Iberia, Level, Air Nostrum, and Vueling and a focus city for EasyJet and Ryanair. Aegean Airlines, Aer Lingus, Air Canada, Air Transat, airBaltic, Avianca, Cathay Pacific, Delta Air Lines, Emirates, Eurowings, Finnair, ITA Airways, Lufthansa, Scandinavian Airlines, TAP Air Portugal, Turkish Airlines, United Airlines, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, VDGS, custom satellite imagery, elevation data based on LiDAR scans, custom ground poly, realistic night lighting, and more. It's available onÂ OrbxDirectÂ for roughly $14.61, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bougpk</id>
-    <title>Boundless Announces Glasgow Prestwick Airport for X-Plane 11 &amp; 12</title>
-    <updated>2024-03-02T00:00:00+00:00</updated>
-    <link href="/news/bougpk"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3aaf22d46a53d71486979_egpk.webp"/>
-    <summary>Sim: X-Plane. Boundless has recently announced the development of Glasgow Prestwick Airport (EGPK) for X-Plane 11 and 12, the second busiest airport in Glasgow (Scotland), with a yearly average of 445,211 passengers. It was officially opened in 1935 despite operating as an airfield for longer (since the early 1910s). Passenger facilities were added in 1938 and remained untouched until the government made them compatible with jet aircraft. â The RAF used Prestwick to control trans-Atlantic flights during World War 2 as a gateway for US Army personnel and a training base for RAF pilots. â Its commercial duties started right after the war, with a transatlantic flight between Prestwick and New York. â The main runway was expanded in 1960 from the original 2,100 meters to 3,000 meters, which is still its current length. â During the early 1990s, Prestwick was in shambles, desperately needing ârescue,â which came in the form of a takeover from a Canadian entrepreneur (Matthew Hudson), who constructed a railway station beside it, making it the first Scottish airport with its own railway station. To this day, Matthewâs rescue effort is unanimously recognized as heroic. â Ryanair embraced Prestwick in 1994, with a route from Dublin and a second route a year later to London Stansted. A third one followed suit in 1998, taking passengers to Paris-Beauvais. â 1998 also marks the ownership transfer from Matthew Hudson to the Stagecoach Group, a transport group based in Perth, primarily focused on buses, trams, and train services. They sold it three years later for 33 million pounds. â Infratil, a Kiwi company, was the new owner from 2001 onwards, responsible for revamping the main terminal in 2005 and redecorating most of it with very controversial touches. â After over a decade of ownership, Infratil called it a day and passed it on to a new owner, which was no less than the Scottish government. They paid an incredible sum of 1 pound for it. â Itâs currently served by Ryanair, with flights to Alicante, Faro, Lanzarote, MÃ¡laga, and Tenerife-South. â Thereâs no release date, pricing, or feature information, but Threshold will keep you updated! â</summary>
-    <published>2024-03-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aerbar</id>
     <title>Aerosoft/sim-wings Release Barcelona Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ef477cb350984538ed9c6f_husen1.webp"/>
     <summary>Sim: MSFS. Project MAX has recently released their rendition of Husein Sastranegara International Airport (WICC) for Microsoft Flight Simulator, serving the city of Bandung in Indonesia, with a yearly average of 4.3 million passengers. It was built during the Dutch colonial period and was a low-traffic airport for many decades, with less than 30 flights a day. The situation changed in the 2010s, leading to a surge that its infrastructure was not quite ready for, as the old terminal could only handle up to 750,000 passengers yearly. It eventually led to the construction of a new terminal. â Itâs being gradually replaced by Kertajati International Airport, the second largest airport by area in the country, inaugurated in 2018. It has been getting most of the domestic traffic that once landed in Sastranegara. The airport has already been partially retired as of late 2023, with turboprop flights from Susi Air being the sole exception.Â  The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, PBR textures, a 3D detailed full interior, custom ground poly, detailed landside, and more. â Itâs available on theÂ iniBuilds StoreÂ for roughly $9.63, requiring at least 3.38 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/siahat</id>
+    <title>SiamFlight Releases Hat Yai International Airport for MSFS</title>
+    <updated>2024-03-14T00:00:00+00:00</updated>
+    <link href="/news/siahat"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f272f73cbb5a6a8d5bc49d_hat1.webp"/>
+    <summary>Sim: MSFS. SiamFlight has recently released their rendition of Hat Yai International Airport (VTSS) for Microsoft Flight Simulator. It serves Hat Yai in Thailand, with a yearly average of 3.1 million passengers, making it the 5th busiest airport in the country. It has a single terminal building that handles both domestic and international flights. It is well-equipped with facilities and services for travelers, including restaurants, shops, currency exchange counters, and car rental services. For Thai Muslims, itâs the gateway to Mecca, Saudi Arabia, and is responsible for a significant portion of its traffic figures. Itâs an operation base for Thai AirAsia and is served by Bangkok Airways, flyadeal, Nok Air, Scoot, Thai Airways International, Thai Lion Air, and Thai VietJet Air. â The scenery features an accurate rendition of the airport, with a detailed terminal (with its respective interior), landside buildings, custom animated jetways, custom ground textures, hand-placed signage, custom night lighting, and more. Itâs available onÂ SimMarketÂ for roughly $13.12, requiring at least 90.57 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mks110</id>
+    <title>MK Studios Updates Barcelona Airport for MSFS</title>
+    <updated>2024-03-14T00:00:00+00:00</updated>
+    <link href="/news/mks110"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a79e20bf83fad30d0730_bcn7.webp"/>
+    <summary>Sim: MSFS. MK Studios has issued another update to their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, fixing the terminal model, parking positions, airline codes on AFCAD, and more. â Update 1.1.0, the third since its release in early March, brings more changes based on user feedback, with fixes ranging from the terminal to the photogrammetry. The complete changelog follows below: MKâs Barcelona can be yours for roughly $14.55 (on sale) onÂ OrbxDirect, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-14T00:00:00+00:00</published>
   </entry>
 </feed>
