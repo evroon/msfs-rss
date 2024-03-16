@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-15T18:22:21.050407+00:00</updated>
+  <updated>2024-03-16T18:22:18.045915+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aerbar</id>
-    <title>Aerosoft/sim-wings Release Barcelona Airport for MSFS</title>
-    <updated>2024-03-04T00:00:00+00:00</updated>
-    <link href="/news/aerbar"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e63e8cfc4a16127d18690b_LEBL_116.webp"/>
-    <summary>Sim: MSFS. Aerosoft/sim-wings have recently released their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, Spain's second-largest and second-busiest airport with a yearly average of 49.9 million passengers. El Prat was Barcelona's second airport, built in 1918, after their previous airport (El Remolar) couldn't be expanded any further. It was a base for the Spanish Navy's Zeppelin fleet and was the headquarters of the Aeroclub of Catalonia. Regularly scheduled commercial service started in 1927 with Iberia. Following the end of World War 2, they built its first paved runway, making way for the first scheduled international flight in its history: a Pan American Airways Lockheed Constellation that would come over from New York regularly.Â  The subsequent years brought its first passenger terminal, taxiways, and a second runway, allowing the airport to keep growing. It would handle a million passengers annually within a decade of that construction effort. The airport's growth had halted after the 1970s, and the imminence of the 1992 Summer Olympic Games led to an urgent makeover: two more terminals were built, and jetways were finally introduced. It's a hub for Iberia, Level, Air Nostrum, and Vueling and a focus city for EasyJet and Ryanair. Aegean Airlines, Aer Lingus, Air Canada, Air Transat, airBaltic, Avianca, Cathay Pacific, Delta Air Lines, Emirates, Eurowings, Finnair, ITA Airways, Lufthansa, Scandinavian Airlines, TAP Air Portugal, Turkish Airlines, United Airlines, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with realistic 3D terrain made from DEM data, custom interiors, sloped runways, custom aerial imagery, custom ground textures, VDGS, custom animated jetways, an up-to-date layout, realistic night lighting, and more. It's available on theÂ Aerosoft ShopÂ for roughly $23.99, requiring at least 3.7 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkbarc</id>
-    <title>MK Studios Updates Barcelona Airport for MSFS</title>
-    <updated>2024-03-04T00:00:00+00:00</updated>
-    <link href="/news/mkbarc"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a79e20bf83fad30d0730_bcn7.webp"/>
-    <summary>Sim: MSFS. MK Studios has recently issued an update to their newly released rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) Â for Microsoft Flight Simulator, addressing a list of issues based on user feedback. The sceneryâs first update sports extra optimization on the terminals, AFCAD airline code adjustments, correct gate numbers on terminal 2, light color tweaks, and more. The changelog follows below:Â  They also stated it has already been sent to the vendors and should be available on all platforms soon. MKâs Barcelona can be yours for roughly $14.55 (on sale) onÂ OrbxDirect, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/axvarn</id>
     <title>Axonos Releases Varna Airport for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a79e20bf83fad30d0730_bcn7.webp"/>
     <summary>Sim: MSFS. MK Studios has issued another update to their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, fixing the terminal model, parking positions, airline codes on AFCAD, and more. â Update 1.1.0, the third since its release in early March, brings more changes based on user feedback, with fixes ranging from the terminal to the photogrammetry. The complete changelog follows below: MKâs Barcelona can be yours for roughly $14.55 (on sale) onÂ OrbxDirect, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dd1dca</id>
+    <title>Drzewiecki Design Releases Washington Airport and City for X-Plane 12</title>
+    <updated>2024-03-15T00:00:00+00:00</updated>
+    <link href="/news/dd1dca"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f4cc4e5f7f023ceeb5a9f0_dca1.webp"/>
+    <summary>Sim: X-Plane. Drzewiecki Design has recently released an updated version of Ronald Reagan Washington National Airport (KDCA) and the city with its landmarks for X-Plane 12. Itâs the busiest airport in the region, with a yearly average of 25 million passengers and 310,000 aircraft operations. It opened in 1941 as Washington National Airport, replacing Washington-Hoover Airport as Washingtonâs main airport.Â  The original terminal was expanded in 1950, and a new terminal was built in 1958 to supplement the first. Both were connected in 1961. The terminals were majorly expanded in 1997, with the construction of terminals B and C and a new control tower. The layout has been the same since. Itâs a hub for American Airlines. Air Canada Express, Alaska Airlines, American Eagle, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Southwest Airlines, United Airlines, and United Express also serve it. The scenery features an accurate rendition of the airport and its surroundings, with custom ground textures, PBR, custom night lighting, animated jetways, VDGS, a thousand landmark buildings surrounding the airport, and orthophoto coverage. It is optimized for performance. Itâs available on theÂ X-Plane.Org StoreÂ for roughly $25.00 (on sale), requiring at least 1.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777315</id>
+    <title>Flight Factor Teases Boeing 777 V2 </title>
+    <updated>2024-03-15T00:00:00+00:00</updated>
+    <link href="/news/777315"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f4d5875d0491e2030f90cb_t71.webp"/>
+    <summary>Sim: X-Plane. Flight Factor has recently shared new screenshots of their upcoming Boeing 777 V2 while also stating that they have already addressed the aircraftâs nose, but the images are from an older version. The 777 V2 will bring an entirely rebuilt rendition of their popular add-on, with an improved 3D model, textures, flight model, systems, sounds, and more. It was first introduced in the mid-90s with United Airlines. It was designed to bridge the gap between the 767 and the 747 and offer a viable replacement to trijets, which were starting to become a problem to many airlines due to their high fuel burn and ever-increasing fuel costs. Itâs known for its reliability, efficiency, comfort, and technology, with a full fly-by-wire system. Thereâs no information on the release date yet, but Threshold will keep you informed! â</summary>
+    <published>2024-03-15T00:00:00+00:00</published>
   </entry>
 </feed>
