@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-17T18:19:32.494643+00:00</updated>
+  <updated>2024-03-18T18:21:12.505765+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pksmel</id>
-    <title>PKSIM Releases Melilla Airport for MSFS</title>
-    <updated>2024-03-05T00:00:00+00:00</updated>
-    <link href="/news/pksmel"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e7adfb73d0eca37319f930_mel1.webp"/>
-    <summary>Sim: MSFS. PKSIM has recently released their rendition of Melilla Airport (GEML) for Microsoft Flight Simulator, serving Melilla, an autonomous city of Spain in North Africa with a yearly average of 500,000 passengers.Â  â It was opened in 1969, and beforehand, tourists had to visit Melilla through Nador International Airport, then called Tauima Aerodrome, in Morocco (both before and after its independence).Â  Sporting a 1,433-meter-long runway, itâs mostly suitable for small regional aircraft such as the ATR, Dash 8s, etc. While theoretically, an A320/B738 and their smaller variants could land somewhat safely, the maximum fuel range (they canât fill it up entirely because the runway is very short) is not enough to reach most countries in central Europe, making it infeasible. Itâs served by Air Nostrum (Iberia Regional), the only airline connecting Melilla to the World as of 2024. The scenery features an accurate rendition of the airport, with custom ground textures, PBR textures, GSX compatibility, and more.Â  Itâs available onÂ SimMarketÂ for roughly $17.35, requiring at least 389.42 MB of free hard disk space. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/flbsfo</id>
     <title>Flightbeam Studios Previews San Francisco International Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/pmd773"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f6debf45a267f4b4325a97_6.webp"/>
     <summary>Sim: MSFS. PMDG has recently broken the silence about which variant is releasing first, along with a full-blown 45-minute live stream answering many questions regarding upcoming features, potential limitations, and more. â There was a lot of mystery surrounding the first 777 variant to release, with a considerable part of the community supposing it would be the 777-200ER for the longest time. It had not been revealed when PMDG shared the first images a few months ago, but Robert Randazzo finally broke the silence during the live stream, revealing it would be the 777-300ER to release first. With the variant out of the way, many people also wanted to know about the presence of RF legs and CPDLC, to which Randazzo responded with a âmaybeâ for the former, and the latter will initially see a basic implementation with Hoppie, which will then get updated in the future with an in-house solution, as Hoppie is said to ânot be a realistic representation of how it works in real life,â according to Robert.  While they still donât have an exact date for the release, Robert expects it to come out within two months if things go according to plan, and it just might have a basic weather radar - albeit sim limited - included, unlike their 737 Lineup.  PMDG has also uploaded a 2-minute showcase video of the upcoming product, with shots of the interior, exterior, and passenger cabin, emphasizing their modern modeling techniques.  Thereâs no release date or pricing yet, but Threshold will keep you informed on the matter! â</summary>
+    <published>2024-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fw242r</id>
+    <title>FSWeekend 2024 Day 2 Roundup</title>
+    <updated>2024-03-17T00:00:00+00:00</updated>
+    <link href="/news/fw242r"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f763c683db81aefe3e38ca_DSC00657.webp"/>
+    <summary>Sim: OTHER. It was another exciting day packed with amazing things at FSWeekend in Lelystad, Netherlands! Todayâs presentations were announcements, panels, and weâve prepared a roundup of all the news on the final day of FSWeekend 2024.The first presentation was from Papa Hotel, who showcased his rendition of Lelystad Airport, which is the location of FSWeekend, in Microsoft Flight Simulator! In the presentation, he confirmed features such as custom 3D objects, custom orthophotos, interior modeling for the terminal, and more! He also said that he is committed to upgrading the airport with new features in the future. After the panel by FSElite, which included names such as Andreas from cruiselevel.de, Jamie, more commonly known as LondonController, Jordan from FSElite, and Thresholdâs own Magnus Lorvik, there was a presentation by Mike from FlightSimCoach. Mike discussed aspects of FlightSimCoach, which is a service that helps flight simmers get a more in-depth introduction into flight simming, as well as offers one-on-one instruction with an instructor that can help with anything and is bespoke to a simmerâs needs. Keeping on ahead there was a presentation by ToLiss, being a retrospective on the past decade of ToLiss products. He went into more depth on the ToLiss history, and highlights of the products theyâve released. Also in their presentation was a hint at what aircraft they were working on next, but unfortunately, the only thing that was mentioned was that it was going to be another Airbus aircraft. And with that concludes FSWeekend 2024, and all the exciting announcements and showcases that happened today! Be sure to stay tuned to Threshold, because we have some exciting behind-the-scenes content at FSWeekend weâre excited to share, and weâre so excited on what amazing things will happen at next yearâs FSWeekend!</summary>
     <published>2024-03-17T00:00:00+00:00</published>
   </entry>
 </feed>
