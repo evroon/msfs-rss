@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-18T18:21:12.505765+00:00</updated>
+  <updated>2024-03-19T18:21:29.050291+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flbsfo</id>
-    <title>Flightbeam Studios Previews San Francisco International Airport for MSFS</title>
-    <updated>2024-03-07T00:00:00+00:00</updated>
-    <link href="/news/flbsfo"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e9645d1ed8b7e8943d957c_sanfran1.webp"/>
-    <summary>Sim: MSFS. Flightbeam Studios has recently previewed their work on San Francisco International Airport (KSFO) for Microsoft Flight Simulator and launched theirÂ Discord serverÂ for future product previews, support, and more. San Francisco International is the second-busiest airport in California, with a yearly average of 57 million passengers, only behind Los Angeles International.Â  Itâs a hub for United Airlines (44% of the market share) and Alaska Airlines (10.66% of the market share) and is visited by multiple international carriers such as Aer Lingus, Air Canada, Air China, Air France, Air New Zealand, American Airlines, British Airways, Cathay Pacific, Emirates, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, and WestJet. According to Flightbeam, the upcoming scenery will be their most detailed work yet, sitting high above their previous releases regarding visual complexity, quality, and performance, hence the âCaptainâs Editionâ title.Â  â Itâs said to be inching closer to completion, with a potential release happening before summer if things go according to plan. The pictures shared cover International Terminal A and its surroundings, and further previews will be shared closer to release. All the terminals have been revamped from the inside out. Thereâs no price or release date information yet, but Threshold will keep you updated! â</summary>
-    <published>2024-03-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aswmad</id>
-    <title>Aerosoft/sim-wings Update Madrid Airport for X-Plane 12</title>
-    <updated>2024-03-07T00:00:00+00:00</updated>
-    <link href="/news/aswmad"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e96e4fba3cad57f21c7279_AS_LEMD_Madrid_XP12%20(33).webp"/>
-    <summary>Sim: X-Plane. Aerosoft/sim-wings have recently updated their rendition of Adolfo SuÃ¡rez Madrid-Barajas Airport (LEMD) for X-Plane 12, bringing SAM improvements, airport functionality tweaks, and more. It was constructed in 1927 and opened in 1931, with commercial operations starting two years after the official inauguration. It was initially unpaved, and the paving process only began in 1940.Â  The National Terminal, now T2, was inaugurated in 1954 after mere months of construction. It was considered a first-class international airport in 1957. Terminal 1 was constructed in the 1970s during the air travel boom, which was a direct consequence of the advent of the Boeing 747. It reached 4 million passengers yearly during the period that led to its construction. In the 1990s, the terminals saw further expansion, which happened again with the construction of Terminal 4 in 2004, significantly increasing its passenger handling capabilities. With a yearly average of 61 million passengers, itâs the busiest airport in Spain and the 5th busiest in Europe. Itâs a hub for Air Europa, Iberia, Iberia Express, Iberia Regional, Plus Ultra LÃ­neas AÃ©reas, and World 2 Fly, and an operating base for Iberojet, Ryanair, and Wamos Air. Aegean Airlines, Aer Lingus, AeromÃ©xico, Air Arabia, Air China, Air France, Air Transat, British Airways, Brussels Airlines, Cathay Pacific, Delta Air Lines, Emirates, Finnair, Korean, LATAM Brasil, LATAM Chile, LATAM PerÃº, Lufthansa, Transavia, Turkish, United Airlines, and WizzAir also serve it. Update 1.1.0 brings a hefty changelog, which follows below: â The scenery is available on theÂ Aerosoft ShopÂ for roughly $25.60, requiring at least 7.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inj120</id>
-    <title>iniBuilds Updates John F. Kennedy International Airport for MSFS</title>
-    <updated>2024-03-08T00:00:00+00:00</updated>
-    <link href="/news/inj120"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65eb7b99fbec3392f350d7a8_inijfk1.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently updated their rendition of John F. Kennedy International Airport (KJFK) for Microsoft Flight Simulator, focusing on improving its performance with model optimization, LOD tweaks, and more. â The busiest international gateway to the United States is served and visited by over 90 airlines, covering all the inhabited continents around the globe. JetBlue tops the market share chart, with 28.8% or 15,624,961 passengers, followed by Delta Air Lines and American Airlines, with 28.4% (15,390,437) and 14.5% (7,870,971), respectively. From foreign operators, Air France leads the way with 1.9% of the total market share or 1,025,339 passengers. Update 1.2.0 adds the option to completely disable interiors and replace them with parallax windows and brings LOD value adjustments, performance-friendly material resolutions, LODed jetways, model tweaks, etc. The changelog follows below: The scenery is available on theÂ iniBuilds StoreÂ for roughly $19.21, requiring at least 4.47 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bcn102</id>
-    <title>MK Studios Updates Barcelona Airport for MSFS</title>
-    <updated>2024-03-08T00:00:00+00:00</updated>
-    <link href="/news/bcn102"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a7937f6e7835f7124d50_bcn5.webp"/>
-    <summary>Sim: MSFS. MK Studios has released another update to their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, addressing more issues brought up by the community. Update 1.0.2, claimed to be their biggest and quickest update ever, adds extra interior details on Terminal 1, improves detailing on Terminal 2, fixes some textures, brings better ground service equipment positioning, and more. The changelog follows below: â â MKâs Barcelona can be yours for roughly $14.55 (on sale) onÂ OrbxDirect, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inu211</id>
     <title>iniBuilds Updates A300-600 and BelugaST for X-Plane 12</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f763c683db81aefe3e38ca_DSC00657.webp"/>
     <summary>Sim: OTHER. It was another exciting day packed with amazing things at FSWeekend in Lelystad, Netherlands! Todayâs presentations were announcements, panels, and weâve prepared a roundup of all the news on the final day of FSWeekend 2024.The first presentation was from Papa Hotel, who showcased his rendition of Lelystad Airport, which is the location of FSWeekend, in Microsoft Flight Simulator! In the presentation, he confirmed features such as custom 3D objects, custom orthophotos, interior modeling for the terminal, and more! He also said that he is committed to upgrading the airport with new features in the future. After the panel by FSElite, which included names such as Andreas from cruiselevel.de, Jamie, more commonly known as LondonController, Jordan from FSElite, and Thresholdâs own Magnus Lorvik, there was a presentation by Mike from FlightSimCoach. Mike discussed aspects of FlightSimCoach, which is a service that helps flight simmers get a more in-depth introduction into flight simming, as well as offers one-on-one instruction with an instructor that can help with anything and is bespoke to a simmerâs needs. Keeping on ahead there was a presentation by ToLiss, being a retrospective on the past decade of ToLiss products. He went into more depth on the ToLiss history, and highlights of the products theyâve released. Also in their presentation was a hint at what aircraft they were working on next, but unfortunately, the only thing that was mentioned was that it was going to be another Airbus aircraft. And with that concludes FSWeekend 2024, and all the exciting announcements and showcases that happened today! Be sure to stay tuned to Threshold, because we have some exciting behind-the-scenes content at FSWeekend weâre excited to share, and weâre so excited on what amazing things will happen at next yearâs FSWeekend!</summary>
     <published>2024-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skyda5</id>
+    <title>Skyward Simulations Announces DA-50RG for MSFS</title>
+    <updated>2024-03-18T00:00:00+00:00</updated>
+    <link href="/news/skyda5"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f8b4a45f891004adaaa17d_da501.webp"/>
+    <summary>Sim: MSFS. Skyward Simulations has recently announced the development and imminent release of their first add-on for Microsoft Flight Simulator: the DA-50RG, a five-seat, single-engine airplane. Designed and built by Diamond Aircraft Industries, it was first shown in 2006, albeit unofficially, and test flown for the first time a year later in Austria, followed by its first public appearance in Germany during the AERO Friedrichshafen show. The crisis of 2008 led to the project being put on hold for many years, which explains why it was only certified recently. Powered by a Continental CD-300 Turbocharged engine producing 300 horsepower, the DA-50 RG has a range of 1,389km, with a cruise speed of 319 km/h, and a service ceiling of 20,000ft. The upcoming add-on will feature an accurate 3D model, true-to-life high-definition textures, custom-coded systems, an accurate flight model, Working Title G1000 NXi integration, custom liveries, and sounds by Boris Audio Works. Thereâs no pricing or release date information yet, but Threshold will keep you updated! The developers welcome everyone to join their Discord for further info.</summary>
+    <published>2024-03-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdsbcg</id>
+    <title>GearDown Simulations Releases Campo Grande International Airport for MSFS</title>
+    <updated>2024-03-19T00:00:00+00:00</updated>
+    <link href="/news/gdsbcg"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f9202abdac1d7ab43f00fa_cgr1.webp"/>
+    <summary>Sim: MSFS. GearDown Simulations has recently released their rendition of Campo Grande International Airport (SBCG) for Microsoft Flight Simulator, serving Campo Grande, Mato Grosso do Sul, Brazil, with a yearly average of 1.5 million passengers. The airport started as a single concrete runway in 1953, and the passenger terminal was built a decade later, which counts as its official inauguration. Three years later, in 1967, an apron (military and civilian) was built. Twelve years after its inauguration, the apron had to be expanded to keep up with the traffic boom of the 1970s. That is also when INFRAERO first took charge of the airport, investing heavily in expansion work and overall infrastructure improvements.Â  In the 1980s, the terminal was first expanded from 1,500 square meters to 5,000.Â  In 1998, the passenger terminal got its first international section, increasing its area from 5,000 square meters to 6,082.Â  It was expanded again very recently, with 7,215 square meters, a new external look, and under a new concession: AENA won the rights to manage the airport for the next 30 years in 2022. The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, landside buildings, PBR textures, custom night lighting, and more. â Itâs available on theÂ GearDown StoreÂ for roughly $10. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xwirfd</id>
+    <title>XWind Studios Releases Chicago Rockford International Airport for MSFS</title>
+    <updated>2024-03-19T00:00:00+00:00</updated>
+    <link href="/news/xwirfd"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f92b2ee48cc229e4406e51_rfd1.webp"/>
+    <summary>Sim: MSFS. XWind Studios has recently released their rendition of Chicago Rockford International Airport (KRFD) for Microsoft Flight Simulator, serving Rockford and the Chicago metropolitan area with a yearly average of 102,000 passengers. The airport was originally part of a US Army facility called Camp Grant. It was established in 1917 and functioned until 1946, when it was transferred to the Greater Rockford Airport Authority, marking its official inauguration as a civilian airport. Terminal construction work started eight years after the transfer, in 1954. The current passenger terminal was built in 1987, and its two first cargo facilities were constructed in the mid-90s by the United Postal Service. While the cargo operations were thriving, scheduled passenger services were never its forte, ceasing in 2001. Itâs a UPS hub, handling over 3 billion pounds of cargo annually, making it the 14th busiest cargo airport in the country. Allegiant is the only passenger airline currently serving it. â The scenery features an accurate rendition of the airport, with custom imagery, custom ground polygon, an up-to-date ground layout, PBR models, 4K textures, accurate dynamic lighting, and LOD optimization. Itâs available on theÂ iniBuilds StoreÂ for roughly $16.54, requiring at least 2.54 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcr112</id>
+    <title>X-Crafts Publishes Development Update for X-Plane 11 &amp; 12 </title>
+    <updated>2024-03-19T00:00:00+00:00</updated>
+    <link href="/news/xcr112"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f963cdc0f20bee12132ce8_X-CRAFTS-E-JETS-FAMILY-MARCH-LINEAGE-1.webp"/>
+    <summary>Sim: X-Plane. X-Crafts has recently published a development update covering what they have been working on recently, which includes a brand-new aircraft, an upcoming e-Jets update, and a surprise project. â The Lineage 1000, the highlight of the dev update, has gotten new WIP previews, showcasing the work on the cabin, which has now reached â1.0â, meaning they have finished creating and UV mapping all the parts, with texturing work being the next step ahead. The E-Jets Update 1.1.0 will bring many new features, including FMS Speed, meaning the speeds will change automatically based on the phase of the flight without any user input. It will also include the steep approach system for the E170 and E190, allowing simmers to fly into airports such as London City accurately.Â  It also brings new pop-up screens for the PFD, MFD, and EICAS, working like the FMS and EFB, with the possibility to lock, unlock, resize, and interact by scrolling over the numbers on the screen. X-Plane 12 E-Jet pilots will also get a flight model update, which aims to bring the performance figures closer to real life, along with autopilot and autothrottle adjustments. They have also mentioned a free surprise project, which is yet to be announced (within weeks). The E-Jets are available on theirÂ websiteÂ for $74.95/$134.95 (single variant and complete package, respectively). Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-19T00:00:00+00:00</published>
   </entry>
 </feed>
