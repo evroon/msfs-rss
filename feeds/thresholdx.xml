@@ -2,84 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-21T18:21:30.111841+00:00</updated>
+  <updated>2024-03-22T18:20:32.053884+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inu211</id>
-    <title>iniBuilds Updates A300-600 and BelugaST for X-Plane 12</title>
-    <updated>2024-03-08T00:00:00+00:00</updated>
-    <link href="/news/inu211"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65eb8deb5a3e794e89ad96d6_beluga1.webp"/>
-    <summary>Sim: X-Plane. iniBuilds has recently updated their X-Plane 12 fleet (Airbus A300-600R and BelugaST) with a comprehensive list of fixes, improvements, and flight model tweaks. The updates (v2.1.1 on the A300 and v1.1.4 on the BelugaST) address the nose landing gear light not working, flight model improvements, engine fixes, system freeze mitigations, and more. Both changelogs follow below: â Â TheÂ A300Â and theÂ BelugaSTÂ are available on the iniBuilds Store for $67.49 and $43.38 (on sale), respectively. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bbdbem</id>
-    <title>Burning Blue Design Previews Bembridge Airport for MSFS</title>
-    <updated>2024-03-10T00:00:00+00:00</updated>
-    <link href="/news/bbdbem"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ee3dbd7cba641bd527d014_bem1.webp"/>
-    <summary>Sim: MSFS. Burning Blue Design has recently previewed their work on Bembridge Airport (EGHJ) for Microsoft Flight Simulator, an unlicensed aerodrome in Bembridge, Isle of Wight, England.  It opened in 1920 on land owned by Bembridge Farm, becoming a licensed aerodrome one year later.  Airline services started in 1934 with Spartan Airlines, and other airlines followed suit, such as Portsmouth Southsea, Isle of Wight Aviation, and Channel Air Ferries). It ended abruptly shortly after the start of World War 2, as the airport was closed and ditches obstructed the runway to make it unusable. It reopened as soon as the war ended, but airline services never resumed. It continued as a general aviation airfield and eventually became a manufacturing ground for Britten Norman in the 60s, where they built many Islanders and Trislanders. They are still in production today, with over 1200 produced so far. â One of Britten Norman's subsidiaries, Aero Composites Ltd, began assembling Cirrus aircraft (SR20 and SR22s) in 2005. â Thereâs no information on pricing or a release date yet, but Threshold will keep you informed! â</summary>
-    <published>2024-03-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fnx392</id>
-    <title>Fenix Simulations Updates Fenix A320 V2B2 for MSFS</title>
-    <updated>2024-03-11T00:00:00+00:00</updated>
-    <link href="/news/fnx392"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ef3af763ddd86bf65881ee_1250410_20240307064307_1.webp"/>
-    <summary>Sim: MSFS. Fenix Simulations has recently issued a new update to their Airbus A320 V2 for Microsoft Flight Simulator, bringing adjustments and fixing issues found by the community during the week and a half itâs been out.Â  â Update V2.0.0.392 is the first update since the release of Block 2 V2 in late February, and it addresses issues with high CPU usage, autopilot engagement, performance in exterior view, the RETARD callout bug, and more. The complete changelog follows below: â The update is available to all customers on theÂ Fenix Dashboard.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmxhsi</id>
-    <title>Project MAX Releases Husein Sastranegara International Airport for MSFS</title>
-    <updated>2024-03-11T00:00:00+00:00</updated>
-    <link href="/news/pmxhsi"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ef477cb350984538ed9c6f_husen1.webp"/>
-    <summary>Sim: MSFS. Project MAX has recently released their rendition of Husein Sastranegara International Airport (WICC) for Microsoft Flight Simulator, serving the city of Bandung in Indonesia, with a yearly average of 4.3 million passengers. It was built during the Dutch colonial period and was a low-traffic airport for many decades, with less than 30 flights a day. The situation changed in the 2010s, leading to a surge that its infrastructure was not quite ready for, as the old terminal could only handle up to 750,000 passengers yearly. It eventually led to the construction of a new terminal. â Itâs being gradually replaced by Kertajati International Airport, the second largest airport by area in the country, inaugurated in 2018. It has been getting most of the domestic traffic that once landed in Sastranegara. The airport has already been partially retired as of late 2023, with turboprop flights from Susi Air being the sole exception.Â  The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, PBR textures, a 3D detailed full interior, custom ground poly, detailed landside, and more. â Itâs available on theÂ iniBuilds StoreÂ for roughly $9.63, requiring at least 3.38 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/siahat</id>
-    <title>SiamFlight Releases Hat Yai International Airport for MSFS</title>
-    <updated>2024-03-14T00:00:00+00:00</updated>
-    <link href="/news/siahat"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f272f73cbb5a6a8d5bc49d_hat1.webp"/>
-    <summary>Sim: MSFS. SiamFlight has recently released their rendition of Hat Yai International Airport (VTSS) for Microsoft Flight Simulator. It serves Hat Yai in Thailand, with a yearly average of 3.1 million passengers, making it the 5th busiest airport in the country. It has a single terminal building that handles both domestic and international flights. It is well-equipped with facilities and services for travelers, including restaurants, shops, currency exchange counters, and car rental services. For Thai Muslims, itâs the gateway to Mecca, Saudi Arabia, and is responsible for a significant portion of its traffic figures. Itâs an operation base for Thai AirAsia and is served by Bangkok Airways, flyadeal, Nok Air, Scoot, Thai Airways International, Thai Lion Air, and Thai VietJet Air. â The scenery features an accurate rendition of the airport, with a detailed terminal (with its respective interior), landside buildings, custom animated jetways, custom ground textures, hand-placed signage, custom night lighting, and more. Itâs available onÂ SimMarketÂ for roughly $13.12, requiring at least 90.57 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mks110</id>
-    <title>MK Studios Updates Barcelona Airport for MSFS</title>
-    <updated>2024-03-14T00:00:00+00:00</updated>
-    <link href="/news/mks110"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65e3a79e20bf83fad30d0730_bcn7.webp"/>
-    <summary>Sim: MSFS. MK Studios has issued another update to their rendition of Josep Tarradellas Barcelona - El Prat Airport (LEBL) for Microsoft Flight Simulator, fixing the terminal model, parking positions, airline codes on AFCAD, and more. â Update 1.1.0, the third since its release in early March, brings more changes based on user feedback, with fixes ranging from the terminal to the photogrammetry. The complete changelog follows below: MKâs Barcelona can be yours for roughly $14.55 (on sale) onÂ OrbxDirect, requiring at least 2.37 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dd1dca</id>
-    <title>Drzewiecki Design Releases Washington Airport and City for X-Plane 12</title>
-    <updated>2024-03-15T00:00:00+00:00</updated>
-    <link href="/news/dd1dca"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f4cc4e5f7f023ceeb5a9f0_dca1.webp"/>
-    <summary>Sim: X-Plane. Drzewiecki Design has recently released an updated version of Ronald Reagan Washington National Airport (KDCA) and the city with its landmarks for X-Plane 12. Itâs the busiest airport in the region, with a yearly average of 25 million passengers and 310,000 aircraft operations. It opened in 1941 as Washington National Airport, replacing Washington-Hoover Airport as Washingtonâs main airport.Â  The original terminal was expanded in 1950, and a new terminal was built in 1958 to supplement the first. Both were connected in 1961. The terminals were majorly expanded in 1997, with the construction of terminals B and C and a new control tower. The layout has been the same since. Itâs a hub for American Airlines. Air Canada Express, Alaska Airlines, American Eagle, Delta Air Lines, Delta Connection, Frontier Airlines, JetBlue, Southwest Airlines, United Airlines, and United Express also serve it. The scenery features an accurate rendition of the airport and its surroundings, with custom ground textures, PBR, custom night lighting, animated jetways, VDGS, a thousand landmark buildings surrounding the airport, and orthophoto coverage. It is optimized for performance. Itâs available on theÂ X-Plane.Org StoreÂ for roughly $25.00 (on sale), requiring at least 1.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777315</id>
-    <title>Flight Factor Teases Boeing 777 V2 </title>
-    <updated>2024-03-15T00:00:00+00:00</updated>
-    <link href="/news/777315"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f4d5875d0491e2030f90cb_t71.webp"/>
-    <summary>Sim: X-Plane. Flight Factor has recently shared new screenshots of their upcoming Boeing 777 V2 while also stating that they have already addressed the aircraftâs nose, but the images are from an older version. The 777 V2 will bring an entirely rebuilt rendition of their popular add-on, with an improved 3D model, textures, flight model, systems, sounds, and more. It was first introduced in the mid-90s with United Airlines. It was designed to bridge the gap between the 767 and the 747 and offer a viable replacement to trijets, which were starting to become a problem to many airlines due to their high fuel burn and ever-increasing fuel costs. Itâs known for its reliability, efficiency, comfort, and technology, with a full fly-by-wire system. Thereâs no information on the release date yet, but Threshold will keep you informed! â</summary>
-    <published>2024-03-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fw24d1</id>
     <title>FSWeekend 2024 Day 1 Roundup</title>
@@ -151,5 +79,77 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f963cdc0f20bee12132ce8_X-CRAFTS-E-JETS-FAMILY-MARCH-LINEAGE-1.webp"/>
     <summary>Sim: X-Plane. X-Crafts has recently published a development update covering what they have been working on recently, which includes a brand-new aircraft, an upcoming e-Jets update, and a surprise project. â The Lineage 1000, the highlight of the dev update, has gotten new WIP previews, showcasing the work on the cabin, which has now reached â1.0â, meaning they have finished creating and UV mapping all the parts, with texturing work being the next step ahead. The E-Jets Update 1.1.0 will bring many new features, including FMS Speed, meaning the speeds will change automatically based on the phase of the flight without any user input. It will also include the steep approach system for the E170 and E190, allowing simmers to fly into airports such as London City accurately.Â  It also brings new pop-up screens for the PFD, MFD, and EICAS, working like the FMS and EFB, with the possibility to lock, unlock, resize, and interact by scrolling over the numbers on the screen. X-Plane 12 E-Jet pilots will also get a flight model update, which aims to bring the performance figures closer to real life, along with autopilot and autothrottle adjustments. They have also mentioned a free surprise project, which is yet to be announced (within weeks). The E-Jets are available on theirÂ websiteÂ for $74.95/$134.95 (single variant and complete package, respectively). Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a330213</id>
+    <title>Aerosoft Publishes A330 Development Update for MSFS</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/a330213"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc7f367a906e6e47512e72_a330-42.jpg"/>
+    <summary>Sim: MSFS. Aerosoft has published a new development update on their upcoming Airbus A330 for Microsoft Flight Simulator, reporting progress on bug squashing, modeling work, and more. â In a similar fashion to their previous A330 development updates, itâs relatively brief and straight to the point, with Aerosoft happily reporting their progress fixing bugs, improving the flight experience, and their ongoing work on implementing the many engine variants at hand, which will include the NEO, GE, and PW. They will also work on adapting the displays and sounds to the new variants, but âthat will take a while.â  â Pictures of the NEO cockpit will be shared once itâs ready.  â Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lhr310</id>
+    <title>iniBuilds Updates London Heathrow Airport for MSFS</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/lhr310"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc81989f110d42f89564c5_lhr1.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently issued an update to their rendition of London Heathrow Airport (EGLL) for Microsoft Flight Simulator, addressing ground service equipment positions, fixing issues, and improving overall performance. Version 3.1.0 divides terminal 3 into three smaller sections to improve performance, reduces GSE textures, brings positional fixes for ground service equipment, fixes jetway clipping issues, and more. The complete changelog follows below: - T3 model divided into smaller sections to reduction per-mesh tri count (fix for model not showing on xbox) - Some tweaking of GSE positions - Reduced GSE textures - Incorrectly scale stairs removed - Various jetway/wing clipping issues - Missing taxiline on 27L - C1 checkpoint labelled as D1 on taxi sign - Wrong/missing Taxiway signs - Floating geo Stand 311 - GSE building clipping - Various jetways not dropping low enough to meet a/c door - Layout modified to prevent departing traffic from joining 09L via AB12 and backtracking. AB12 is now no longer available to AI aircraft. - Adjusting some markings intensity - Replaced all frequencies with custom (via chart). Default (non-NG) has tower and ground on the same freq. - Helipad Lights missing - Jetways disconnected from terminal - various locations - Misplaced buildings overlapping parking - Added lighting to cargo area - Added spawn parking and full taxi paths to remote parking/maintenance areas - Added custom lighting to fuel depot near cargo area The scenery is available on theÂ iniBuilds StoreÂ for roughly $17.27 (on sale), requiring at least 5.67 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/entx12</id>
+    <title>Aerosoft Releases TromsÃ¸ Airport for X-Plane 12</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/entx12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc86444d31b71ab24c45c9_tromso1.webp"/>
+    <summary>Sim: X-Plane. Aerosoft has recently released their rendition of TromsÃ¸ Airport (ENTC) for X-Plane 12, serving the municipality of TromsÃ¸ with a yearly average of 2 million passengers. It opened in 1964, replacing a water aerodrome that used to be TromsÃ¸âs âairport.â It quickly became WiderÃ¸eâs primary hub for their regional flights to Finnmark and an important domestic destination for SAS, Braathens SAFE, and Norwegian Air Shuttle. Within a decade of its inauguration, the original terminal was already suffering from overcapacity, leading to the construction of a new passenger terminal in 1977. It still exists as terminal B and was renovated for the first time in the late 1980s. Terminal A opened in 1997 with three jet bridges and was built exclusively for jets, ârelegatingâ the old terminal to regional and international services. Aegean Airlines, Air France, Austrian Airlines, DAT, Edelweiss Air, Eurowings, Finnair, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Transavia, WiderÃ¸e, and Wizz Air serve it. The scenery features an accurate rendition of the airport, with revised lighting (it was ported from X-Plane 11), custom ground textures, PBR textures, weather effects for wet, snow, and ice, reworked autogen, custom vegetation placement, a fully XP12 compliant mesh, and more. â Itâs available on theÂ Aerosoft StoreÂ for roughly $16.38, requiring at least 1.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/edxx12</id>
+    <title>Aerosoft Releases Helgoland Airfield for X-Plane 12</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/edxx12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc8c2ba97aeb1f1deaabe2_helgo1.webp"/>
+    <summary>Sim: X-Plane. Aerosoft has recently released their rendition of Helgoland Airfield (EDXH) for X-Plane 12, serving the small archipelago of Heligoland in Schleswig-Holstein, Germany.Â  It was originally constructed as a military airfield during World War 2 and entirely rebuilt in 1962. The layout has remained the same to this day. With its longest runway being less than 500 meters long, itâs only licensed for aircraft up to 5,700 kilograms, limiting the variety of potential visitors. The length and the often harsh weather (winds) imply special preparation from the pilots, and pilot training is mandatory for commercial service. Itâs served by OFD, flying passengers to Heide-BÃ¼sum, Nordholz-Spieka, and Uetersen. The scenery features an accurate rendition of the airfield, with revised lighting (it was ported from X-Plane 11), custom ground textures, adjusted PBR reflections, weather effects for wet, snow, and ice, full support for native XP12 seasons, a full XP12 compliant mesh, and more. Itâs available on theÂ Aerosoft ShopÂ for roughly $20, requiring at least 4.7 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cdbzib</id>
+    <title>Chudoba Design Releases Bratislava Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/cdbzib"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc93de3ae7277b5bc2c870_bratis1.webp"/>
+    <summary>Sim: X-Plane. Chudoba Design has recently released their rendition of Bratislava Airport (LZIB) for X-Plane 11 &amp; 12, serving Bratislava, in Slovakia, and Vienna, in Austria, with a yearly average of 1.8 million passengers. Construction work started in 1948, and the airport was inaugurated in 1951. It replaced the old Bratislava Airport in Vajnory, which is 3 kilometers away and no longer exists. With the fall of the Soviet Union in 1991, Bratislava Airport lost most of its traffic to the nearby Vienna International Airport due to lower prices and higher flight availability, but the advent and popularization of low-cost carriers led to Bratislava becoming an important LCC hub for Ryanair and Wizz Air. The scenery features an accurate rendition of the airport, with PBR textures, performance-friendly optimization, custom buildings and objects, and full X-Plane 12 compatibility. Itâs available onÂ Chudobaâs websiteÂ for roughly $12.83. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/x12mdt</id>
+    <title>Xometry Design Previews Harrisburg International Airport for X-Plane 12</title>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="/news/x12mdt"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc9694d31599ee8b562fe8_kmdt1.webp"/>
+    <summary>Sim: X-Plane. Xometry Design has recently announced and previewed their upcoming rendition of Harrisburg International Airport (KMDT) for X-Plane 12, serving Harrisburg, Pennsylvania, with a yearly average of 1.1 million passengers. The airport dates back to 1898, when the Signal Corps of the US Army was stationed there, building what would become Olmsted Field and having its first planes landing in 1918. It was used almost exclusively for military purposes up until 1969 when the Middletown Air Depot closed, and airline flights moved from the nearby Capital City Airport to Olmstead State Airport, renamed Harrisburg International Airport in 1973, which was also when the passenger terminal reached full completion, designed by architect William Pereira. Thirty-one years after the passenger terminalâs inauguration, a new 360,000 square-foot terminal was built, costing around $120 million and designed by the Sheward Partnership. Allegiant, American, American Eagle, Delta, Delta Connection, Frontier, United, and United Express serve it, connecting the city to their most prominent hubs. The scenery features an accurate rendition of the airport, with detailed, up-to-date buildings, high-resolution ground textures, PBR normal maps, realistically drawn wear and tear and dirt, SAM jetways, custom night lighting, and more. Thereâs no information on the pricing and release date yet, but Threshold will keep you informed! â</summary>
+    <published>2024-03-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oten12</id>
+    <title>Orbx Teases True Earth GB North for XP12</title>
+    <updated>2024-03-22T00:00:00+00:00</updated>
+    <link href="/news/oten12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fd1b44c3e6c688ee8edcd7_434074982_407847091893285_6361718592333214804_n.webp"/>
+    <summary>Sim: X-Plane. Orbx have just posted previews for another TrueEarth product for X-Plane 12. In an announcement, they posted a few teaser screenshots of their current project: TrueEarth Great Britain North for X-Plane 12. Orbx has developed numerous sceneries for all sorts of simulators, ranging from X-Plane 11/12, Prepar3D, Microsoft Flight Simulator, to lesser known sims, such as Aerofly and Tower! Simulator 3. This is their eighth product in the âTrue Earthâ series for X-Plane, and is the first for X-Plane 12. This is also a continuation of their Great Britain True Earth products, being very popular in X-Plane 11. According to Orbx, the region will contain Scottish Highlands, the beautiful Lochs, the Outer Hebrides, the Shetland Islands, and the Isle of Man.  â There is no fixed release date, however Orbx have said that âitâs around the cornerâ, but whenever they do announce a release date, Threshold will keep you informed, so stay tuned for more information!</summary>
+    <published>2024-03-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777223</id>
+    <title>PMDG Publishes Development Update for MSFS</title>
+    <updated>2024-03-22T00:00:00+00:00</updated>
+    <link href="/news/777223"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fd58aa23906046ffbef014_Screenshot_2024-03-22_at_4.05.03_pm.webp"/>
+    <summary>Sim: MSFS. PMDG has published the first development update since the variant reveal of their upcoming 777 for Microsoft Flight Simulator, with information on 737 updates for the marketplace version and a brand new 777 preview image (which is the cover of this article). Their 737 lineup is finally version matched across all platforms, all on 3.00.0091, the update which brings many memory improvements that significantly impact the productâs overall stability. That also means the Xbox version finally features the Ultimate Flight Tablet, albeit with some limitations: the data entry requires a keyboard to function, as the on-screen keyboard does not transmit data into the simulator in a way that the keystrokes could be captured by the add-on, which makes filling out the fields an impossibility.  They will be working on implementing a functional on-screen keyboard, but the turn-around time for beta builds on console is prolonged, which makes the experimenting take a lot longer than it would on PC. For now, having a keyboard attached to the console is the only way to interact with the tablet appropriately. As they have been busy with the 777 development, the 737 updates have halted, but they will pick it back up once the 777 is released. Updates will come if SU15 introduces any change that could break the 737 family. The 777-300ER is going through the final stage of development, where they ensure everything is polished and working accordingly. Randazzo even says they could theoretically launch the plane as it is right now, and people would be overwhelmingly happy with it. Still, they want to ensure everything is perfect before pushing the button.  They are working on getting the modern navdata conversion into beta testing, along with the lateral path guidance improvements made possible by Navigraphâs current format.  The 737 family can be found on their website or in the MSFS Marketplace, and the price ranges from $34.99 to $69.99, depending on the variant. The pricing for the upcoming 777-300ER has not yet been revealed.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-22T00:00:00+00:00</published>
   </entry>
 </feed>
