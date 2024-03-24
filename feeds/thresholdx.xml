@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-23T18:19:46.405290+00:00</updated>
+  <updated>2024-03-24T18:23:46.150083+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fw242r</id>
-    <title>FSWeekend 2024 Day 2 Roundup</title>
-    <updated>2024-03-17T00:00:00+00:00</updated>
-    <link href="/news/fw242r"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f763c683db81aefe3e38ca_DSC00657.webp"/>
-    <summary>Sim: OTHER. It was another exciting day packed with amazing things at FSWeekend in Lelystad, Netherlands! Todayâs presentations were announcements, panels, and weâve prepared a roundup of all the news on the final day of FSWeekend 2024.The first presentation was from Papa Hotel, who showcased his rendition of Lelystad Airport, which is the location of FSWeekend, in Microsoft Flight Simulator! In the presentation, he confirmed features such as custom 3D objects, custom orthophotos, interior modeling for the terminal, and more! He also said that he is committed to upgrading the airport with new features in the future. After the panel by FSElite, which included names such as Andreas from cruiselevel.de, Jamie, more commonly known as LondonController, Jordan from FSElite, and Thresholdâs own Magnus Lorvik, there was a presentation by Mike from FlightSimCoach. Mike discussed aspects of FlightSimCoach, which is a service that helps flight simmers get a more in-depth introduction into flight simming, as well as offers one-on-one instruction with an instructor that can help with anything and is bespoke to a simmerâs needs. Keeping on ahead there was a presentation by ToLiss, being a retrospective on the past decade of ToLiss products. He went into more depth on the ToLiss history, and highlights of the products theyâve released. Also in their presentation was a hint at what aircraft they were working on next, but unfortunately, the only thing that was mentioned was that it was going to be another Airbus aircraft. And with that concludes FSWeekend 2024, and all the exciting announcements and showcases that happened today! Be sure to stay tuned to Threshold, because we have some exciting behind-the-scenes content at FSWeekend weâre excited to share, and weâre so excited on what amazing things will happen at next yearâs FSWeekend!</summary>
-    <published>2024-03-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/skyda5</id>
     <title>Skyward Simulations Announces DA-50RG for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/ftrcvg"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fe35cf3549dba860aa34f5_26.webp"/>
     <summary>Sim: MSFS. FeelThere has recently released their rendition of Cincinnati/Northern Kentucky International Airport (KCVG) for Microsoft Flight Simulator. Cincinnati is a global cargo hub for DHL Aviation, Kalitta Air, Atlas Air, ABX Air, and Amazon Air, placing it 6th for the busiest cargo hub in the USA, and 12th in the world. Opened in 1944 as a training airport during WWII, the airport got its first passenger terminal two years later, with the first arrival being an American Airlines DC-3 from Cleveland. In mid-1980, CVG became one of Deltaâs hubs, increasing yearly airport operations by 200.000, and doubling passenger volumes by to 20 million passengers handled per year. During its peak in 2005, CVG handled more than 600 flights a day. The airport consists of four runways (three parallel and one perpendicular), a single terminal and two concourses, Concourse A - that has 23 gates, and Concourse B -with 28 gates. CVG also serves as a third biggest world hub for DHL (The other two being Leipzig-Halle and Hong Kong) and as a main shipping hub for Amazon Air operating with more than 50 767-300/200F. FeelThereâs rendition of Cincinnati International Airport includes the following features: This scenery is available on SimMarket for $19.50USD and takes only 1.03GB of space on disk. â Be sure to stay tuned to Threshold for more high quality flight simulation news, reviews, and editorials!</summary>
+    <published>2024-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/x12tro</id>
+    <title>Aerosoft Releases Saint-Tropez Airport for X-Plane 12</title>
+    <updated>2024-03-23T00:00:00+00:00</updated>
+    <link href="/news/x12tro"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ff4f235ff9337f7fefc9d2_tropez1.webp"/>
+    <summary>Sim: X-Plane. Aerosoft has recently released their rendition of The Airport of the Golfe of Saint Tropez (LFTZ), serving the commune of Saint-Tropez, France, with a yearly average of 7,000 to 10,000 passengers. It was built in 1964 by Count FranÃ§ois Gazeau and Marc Den Bosch as a strip of land stretching between the then national road and the river. The land belonged to Charles Boyer de Fonscolombe, who agreed to rent it out to FranÃ§ois and Marc in memory of Saint-ExupÃ©ry, who happened to be one of his close cousins. In the early 1980s, Charles Boyer entrusted the airportâs operation to a management company, which further developed the airport in the 1990s to provide the region with an adequately structured airport. In that same decade, the runway was made public after an agreement with the state, remaining open 365 days a year for daylight operations only. A new passenger terminal was built in 1995, significantly increasing the passenger handling capabilities and adding a bar. Â  Itâs mostly a general aviation airport, which accounts for most of its yearly aircraft movements. The scenery features an accurate rendition of the airport, with revised lighting, PBR reflections, custom ortophoto, custom vegetation, weather effects for wet, snow, and ice, revised autogen, reworked static aircraft (togglable), and more. Itâs available on theÂ Aerosoft ShopÂ for roughly $13.64, requiring at least 1.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-23T00:00:00+00:00</published>
   </entry>
 </feed>
