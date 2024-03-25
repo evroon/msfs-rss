@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-24T18:23:46.150083+00:00</updated>
+  <updated>2024-03-25T18:23:06.673580+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/skyda5</id>
-    <title>Skyward Simulations Announces DA-50RG for MSFS</title>
-    <updated>2024-03-18T00:00:00+00:00</updated>
-    <link href="/news/skyda5"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f8b4a45f891004adaaa17d_da501.webp"/>
-    <summary>Sim: MSFS. Skyward Simulations has recently announced the development and imminent release of their first add-on for Microsoft Flight Simulator: the DA-50RG, a five-seat, single-engine airplane. Designed and built by Diamond Aircraft Industries, it was first shown in 2006, albeit unofficially, and test flown for the first time a year later in Austria, followed by its first public appearance in Germany during the AERO Friedrichshafen show. The crisis of 2008 led to the project being put on hold for many years, which explains why it was only certified recently. Powered by a Continental CD-300 Turbocharged engine producing 300 horsepower, the DA-50 RG has a range of 1,389km, with a cruise speed of 319 km/h, and a service ceiling of 20,000ft. The upcoming add-on will feature an accurate 3D model, true-to-life high-definition textures, custom-coded systems, an accurate flight model, Working Title G1000 NXi integration, custom liveries, and sounds by Boris Audio Works. Thereâs no pricing or release date information yet, but Threshold will keep you updated! The developers welcome everyone to join their Discord for further info.</summary>
-    <published>2024-03-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/gdsbcg</id>
-    <title>GearDown Simulations Releases Campo Grande International Airport for MSFS</title>
-    <updated>2024-03-19T00:00:00+00:00</updated>
-    <link href="/news/gdsbcg"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f9202abdac1d7ab43f00fa_cgr1.webp"/>
-    <summary>Sim: MSFS. GearDown Simulations has recently released their rendition of Campo Grande International Airport (SBCG) for Microsoft Flight Simulator, serving Campo Grande, Mato Grosso do Sul, Brazil, with a yearly average of 1.5 million passengers. The airport started as a single concrete runway in 1953, and the passenger terminal was built a decade later, which counts as its official inauguration. Three years later, in 1967, an apron (military and civilian) was built. Twelve years after its inauguration, the apron had to be expanded to keep up with the traffic boom of the 1970s. That is also when INFRAERO first took charge of the airport, investing heavily in expansion work and overall infrastructure improvements.Â  In the 1980s, the terminal was first expanded from 1,500 square meters to 5,000.Â  In 1998, the passenger terminal got its first international section, increasing its area from 5,000 square meters to 6,082.Â  It was expanded again very recently, with 7,215 square meters, a new external look, and under a new concession: AENA won the rights to manage the airport for the next 30 years in 2022. The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, landside buildings, PBR textures, custom night lighting, and more. â Itâs available on theÂ GearDown StoreÂ for roughly $10. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xwirfd</id>
-    <title>XWind Studios Releases Chicago Rockford International Airport for MSFS</title>
-    <updated>2024-03-19T00:00:00+00:00</updated>
-    <link href="/news/xwirfd"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f92b2ee48cc229e4406e51_rfd1.webp"/>
-    <summary>Sim: MSFS. XWind Studios has recently released their rendition of Chicago Rockford International Airport (KRFD) for Microsoft Flight Simulator, serving Rockford and the Chicago metropolitan area with a yearly average of 102,000 passengers. The airport was originally part of a US Army facility called Camp Grant. It was established in 1917 and functioned until 1946, when it was transferred to the Greater Rockford Airport Authority, marking its official inauguration as a civilian airport. Terminal construction work started eight years after the transfer, in 1954. The current passenger terminal was built in 1987, and its two first cargo facilities were constructed in the mid-90s by the United Postal Service. While the cargo operations were thriving, scheduled passenger services were never its forte, ceasing in 2001. Itâs a UPS hub, handling over 3 billion pounds of cargo annually, making it the 14th busiest cargo airport in the country. Allegiant is the only passenger airline currently serving it. â The scenery features an accurate rendition of the airport, with custom imagery, custom ground polygon, an up-to-date ground layout, PBR models, 4K textures, accurate dynamic lighting, and LOD optimization. Itâs available on theÂ iniBuilds StoreÂ for roughly $16.54, requiring at least 2.54 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xcr112</id>
-    <title>X-Crafts Publishes Development Update for X-Plane 11 &amp; 12 </title>
-    <updated>2024-03-19T00:00:00+00:00</updated>
-    <link href="/news/xcr112"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65f963cdc0f20bee12132ce8_X-CRAFTS-E-JETS-FAMILY-MARCH-LINEAGE-1.webp"/>
-    <summary>Sim: X-Plane. X-Crafts has recently published a development update covering what they have been working on recently, which includes a brand-new aircraft, an upcoming e-Jets update, and a surprise project. â The Lineage 1000, the highlight of the dev update, has gotten new WIP previews, showcasing the work on the cabin, which has now reached â1.0â, meaning they have finished creating and UV mapping all the parts, with texturing work being the next step ahead. The E-Jets Update 1.1.0 will bring many new features, including FMS Speed, meaning the speeds will change automatically based on the phase of the flight without any user input. It will also include the steep approach system for the E170 and E190, allowing simmers to fly into airports such as London City accurately.Â  It also brings new pop-up screens for the PFD, MFD, and EICAS, working like the FMS and EFB, with the possibility to lock, unlock, resize, and interact by scrolling over the numbers on the screen. X-Plane 12 E-Jet pilots will also get a flight model update, which aims to bring the performance figures closer to real life, along with autopilot and autothrottle adjustments. They have also mentioned a free surprise project, which is yet to be announced (within weeks). The E-Jets are available on theirÂ websiteÂ for $74.95/$134.95 (single variant and complete package, respectively). Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a330213</id>
-    <title>Aerosoft Publishes A330 Development Update for MSFS</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/a330213"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc7f367a906e6e47512e72_a330-42.jpg"/>
-    <summary>Sim: MSFS. Aerosoft has published a new development update on their upcoming Airbus A330 for Microsoft Flight Simulator, reporting progress on bug squashing, modeling work, and more. â In a similar fashion to their previous A330 development updates, itâs relatively brief and straight to the point, with Aerosoft happily reporting their progress fixing bugs, improving the flight experience, and their ongoing work on implementing the many engine variants at hand, which will include the NEO, GE, and PW. They will also work on adapting the displays and sounds to the new variants, but âthat will take a while.â  â Pictures of the NEO cockpit will be shared once itâs ready.  â Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lhr310</id>
     <title>iniBuilds Updates London Heathrow Airport for MSFS</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65ff4f235ff9337f7fefc9d2_tropez1.webp"/>
     <summary>Sim: X-Plane. Aerosoft has recently released their rendition of The Airport of the Golfe of Saint Tropez (LFTZ), serving the commune of Saint-Tropez, France, with a yearly average of 7,000 to 10,000 passengers. It was built in 1964 by Count FranÃ§ois Gazeau and Marc Den Bosch as a strip of land stretching between the then national road and the river. The land belonged to Charles Boyer de Fonscolombe, who agreed to rent it out to FranÃ§ois and Marc in memory of Saint-ExupÃ©ry, who happened to be one of his close cousins. In the early 1980s, Charles Boyer entrusted the airportâs operation to a management company, which further developed the airport in the 1990s to provide the region with an adequately structured airport. In that same decade, the runway was made public after an agreement with the state, remaining open 365 days a year for daylight operations only. A new passenger terminal was built in 1995, significantly increasing the passenger handling capabilities and adding a bar. Â  Itâs mostly a general aviation airport, which accounts for most of its yearly aircraft movements. The scenery features an accurate rendition of the airport, with revised lighting, PBR reflections, custom ortophoto, custom vegetation, weather effects for wet, snow, and ice, revised autogen, reworked static aircraft (togglable), and more. Itâs available on theÂ Aerosoft ShopÂ for roughly $13.64, requiring at least 1.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/otegbn</id>
+    <title>Orbx Releases TrueEarth Great Britain North for X-Plane 12</title>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <link href="/news/otegbn"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66009029280503a7ed21365c_65de834726853.jpg"/>
+    <summary>Sim: X-Plane. Orbx has released their first TrueEarth scenery for X-Plane 12, Great Britain North. TrueEarth consists of high-quality, color-edited photoreal imagery, using specially made autogen technology for X-Plane. This addon covers 40,415 square miles of hand-corrected imagery covering the entire central region, as shown below in the coverage map. Scenery consists of: the Scottish Highlands, the beautiful Lochs, the Outer Hebrides, and the Shetland Islands. It includes many VFR landmarks, such as castles, monuments, bridges, and ancient ruins. Apart from the âancientâ landmarks, GB North also has urban cities - Glasgow and Edinburgh. Key features of TrueEarth Great Britain North are: This scenery can be bought from the Orbx Store for roughly $29.30, requiring at least 118.93 GB of free hard disk space to install. Stay tuned for more flight sim news on Threshold!</summary>
+    <published>2024-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/winwng</id>
+    <title>WINWING Reveals Pre-Order Date for A320 FCU</title>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <link href="/news/winwng"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660091f91a2014d31b525b1d_FCU_PC_homepage_fff.jpg"/>
+    <summary>Sim: OTHER. WINWING, a well-known hardware producer in the mil-sim community has recently expanded into the civil flight sim community with their newest product - a full-size A320 FCU. Known for their hardware, they have established themselves as a high-quality producer of HOTAS, MIP (Main Instrument Panel), rudder pedals, and Joystick grips for various fighter jets. â Showcased a couple of days ago on their YouTube channel, WINWING unveiled the launch of the Full-size FCU for A320. In the trailer, along with the Flight Control Unit, we could notice that EFIS and glare wing are also present in the trailer. Along with the video, the price was also revealed: â On their Facebook page, they have unveiled the pre-order date: March 27 at 02:00UTC. They have also disclosed an expected shipping date - which is supposed to be in early May. â The trailer shows that the FCU backlighting can be adjusted, and WINWING claims that it is auto-synced with the plane. All the knobs have the recognizable Airbus push-pull mechanism and the look of the knobs is very similar, if not the same, as in real Airbus.Â  â The screen panel features two orange integrated LCDs, with realistic segment code.Â  â One thing that caught my eye, the EXPED button (button under the ALT knob) seems to be missing. It turns out that WINWING decided to make the button unmarked, but still functional. The user can change its functions to their choice (FD, LS, and CSTR buttons are just some of the countless options the user can adjust to their liking). â The third button in the row below, it is a solid color surface. On the WW FCU, it is still a functional button, just styled in this way. Because in reality, the original 320 button is also like this, and the rapid climb and descent function is basically prohibited by airlines for normal use. â It seems that there are more Airbus products in development, in addition to the FCU. Later on in the trailer, EFIS panels and glare-wings are unveiled. Although it is unknown when will these two be released, or what their price will be, we can be sure to expect them in the A320 product lineup. Interestingly enough, this isnât WINWINGâs first Airbus product, as a quick look at their store shows that they also offer A3XX sidestick, which explains why the sidesticks are also colored, along with the glareshield. â Be sure to stay tuned to Threshold for more flight simulation news, reviews, and editorials! â â â â â</summary>
+    <published>2024-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddtama</id>
+    <title>DominicDesignTeam Releases Rick Husband Amarillo International Airport for MSFS</title>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <link href="/news/ddtama"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66009942e58895107b3796aa_Banner-Image.webp"/>
+    <summary>Sim: MSFS. DominicDesignTeam just released their rendition of Rick Husband Amarillo International Airport (KAMA) for Microsoft Flight Simulator, serving Amarillo, Texas, with a yearly average of 670,000 passengers. It has been named after local astronaut Rick Husband, whose statue can be found inside the airport ( and accurately represented in the scenery). The airport serves many popular destinations with a total of four different commercial airlines. Allegiant, American, Southwest, and United are the ones flying out of Amarillo. They fly to the likes of Dallas/Fort Worth, Austin, Las Vegas, and Denver, to mention a few. Yearly just around 800,000 passengers travel through the airport of Amarillo. â The scenery has lots of features like PBR textures, dynamic lighting, real ground markings, custom pavement, custom jetways and many more custom objects, like passengers and terminal interiors. The scenery is now available on SimMarket for roughly $16.50USD and takes up around 1.03 GB of space on disk. For the latest flight simulation news, remember to stay tuned on Threshold! â â</summary>
+    <published>2024-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ctlapa</id>
+    <title>VATSIM Confirms The Airports for Cross the Land: Asia Pacific</title>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <link href="/news/ctlapa"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66009a41e36708a2da90408f_APAC.png"/>
+    <summary>Sim: OTHER. VATSIM just announced airports for Cross The Land: Asia Pacific Westbound edition in April on their Twitter account. This event involves the Australian and South Eastern Asian airports. â Cross The Land is one of the biggest events on VATSIM, and just recently it got an expansion. Along with the Europe-MEA edition, CTL now has the Americas edition, where pilots fly from Northern American airports to South America, and the Asia Pacific edition, which brings the Australia-SE Asia connection.Â  â The airport list for this yearâs CTL: Asia Pacific is smaller than expected, only 6 airports were chosen, three in Australia and three in Asia: â As of the posting of this article, no information about slot booking has been disclosed. Any new information will be posted on the Cross the Land Discord server and Twitter, as well as on Threshold! If you are interested in learning more about VATSIM, you can visit their website here. â â â</summary>
+    <published>2024-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/zdplhr</id>
+    <title>Zero Dollar Payware Releases London Heathrow Airport for X-Plane 12</title>
+    <updated>2024-03-24T00:00:00+00:00</updated>
+    <link href="/news/zdplhr"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66009dfee9eefa0b6ca2a6dd_deathrow1.webp"/>
+    <summary>Sim: X-Plane. Zero Dollar Payware has recently released their freeware and open-source rendition of London Heathrow Airport (EGLL) for X-Plane 12, serving Greater London with a yearly average of 80 million passengers. London Heathrow is the eight-busiest airport in Europe by total passenger traffic, flying to over 184 destinations in 84 countries. Itâs the main gateway to England, with 94% of the traffic comprehending international travel, and the remaining 6% is strictly domestic.Â  Itâs the Main hub for British Airways, the biggest carrier in the United Kingdom, offering a wide range of destinations from within and worldwide. Aegean Airlines, Aer Lingus, Air Canada, Air China, Air France, All Nippon Airways, Austrian Airlines, Brussels Airlines, Cathay Pacific, Emirates, Eurowings, Japan Airlines, KLM, Lufthansa, Oman Air, Saudia, Scandinavian Airlines, TAP, Tunisair, and many others also serve it. The scenery features custom orthoimagery, custom ground textures, 3D grass, SAM jetways, VDGS, custom buildings, realistic dirt and grunge, and more. Its open-source nature warrants constant improvement, and ZDP has already shared a list of future futures, including more custom buildings, a Concorde static model, improved clutter, improved ground markings, improved vegetation, and more. â Itâs available for free on theÂ Threshold Forum. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-24T00:00:00+00:00</published>
   </entry>
 </feed>
