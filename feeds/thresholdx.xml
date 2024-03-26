@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-25T18:23:06.673580+00:00</updated>
+  <updated>2024-03-26T18:21:54.313960+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lhr310</id>
-    <title>iniBuilds Updates London Heathrow Airport for MSFS</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/lhr310"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc81989f110d42f89564c5_lhr1.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently issued an update to their rendition of London Heathrow Airport (EGLL) for Microsoft Flight Simulator, addressing ground service equipment positions, fixing issues, and improving overall performance. Version 3.1.0 divides terminal 3 into three smaller sections to improve performance, reduces GSE textures, brings positional fixes for ground service equipment, fixes jetway clipping issues, and more. The complete changelog follows below: - T3 model divided into smaller sections to reduction per-mesh tri count (fix for model not showing on xbox) - Some tweaking of GSE positions - Reduced GSE textures - Incorrectly scale stairs removed - Various jetway/wing clipping issues - Missing taxiline on 27L - C1 checkpoint labelled as D1 on taxi sign - Wrong/missing Taxiway signs - Floating geo Stand 311 - GSE building clipping - Various jetways not dropping low enough to meet a/c door - Layout modified to prevent departing traffic from joining 09L via AB12 and backtracking. AB12 is now no longer available to AI aircraft. - Adjusting some markings intensity - Replaced all frequencies with custom (via chart). Default (non-NG) has tower and ground on the same freq. - Helipad Lights missing - Jetways disconnected from terminal - various locations - Misplaced buildings overlapping parking - Added lighting to cargo area - Added spawn parking and full taxi paths to remote parking/maintenance areas - Added custom lighting to fuel depot near cargo area The scenery is available on theÂ iniBuilds StoreÂ for roughly $17.27 (on sale), requiring at least 5.67 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/entx12</id>
-    <title>Aerosoft Releases TromsÃ¸ Airport for X-Plane 12</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/entx12"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc86444d31b71ab24c45c9_tromso1.webp"/>
-    <summary>Sim: X-Plane. Aerosoft has recently released their rendition of TromsÃ¸ Airport (ENTC) for X-Plane 12, serving the municipality of TromsÃ¸ with a yearly average of 2 million passengers. It opened in 1964, replacing a water aerodrome that used to be TromsÃ¸âs âairport.â It quickly became WiderÃ¸eâs primary hub for their regional flights to Finnmark and an important domestic destination for SAS, Braathens SAFE, and Norwegian Air Shuttle. Within a decade of its inauguration, the original terminal was already suffering from overcapacity, leading to the construction of a new passenger terminal in 1977. It still exists as terminal B and was renovated for the first time in the late 1980s. Terminal A opened in 1997 with three jet bridges and was built exclusively for jets, ârelegatingâ the old terminal to regional and international services. Aegean Airlines, Air France, Austrian Airlines, DAT, Edelweiss Air, Eurowings, Finnair, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Transavia, WiderÃ¸e, and Wizz Air serve it. The scenery features an accurate rendition of the airport, with revised lighting (it was ported from X-Plane 11), custom ground textures, PBR textures, weather effects for wet, snow, and ice, reworked autogen, custom vegetation placement, a fully XP12 compliant mesh, and more. â Itâs available on theÂ Aerosoft StoreÂ for roughly $16.38, requiring at least 1.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/edxx12</id>
-    <title>Aerosoft Releases Helgoland Airfield for X-Plane 12</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/edxx12"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc8c2ba97aeb1f1deaabe2_helgo1.webp"/>
-    <summary>Sim: X-Plane. Aerosoft has recently released their rendition of Helgoland Airfield (EDXH) for X-Plane 12, serving the small archipelago of Heligoland in Schleswig-Holstein, Germany.Â  It was originally constructed as a military airfield during World War 2 and entirely rebuilt in 1962. The layout has remained the same to this day. With its longest runway being less than 500 meters long, itâs only licensed for aircraft up to 5,700 kilograms, limiting the variety of potential visitors. The length and the often harsh weather (winds) imply special preparation from the pilots, and pilot training is mandatory for commercial service. Itâs served by OFD, flying passengers to Heide-BÃ¼sum, Nordholz-Spieka, and Uetersen. The scenery features an accurate rendition of the airfield, with revised lighting (it was ported from X-Plane 11), custom ground textures, adjusted PBR reflections, weather effects for wet, snow, and ice, full support for native XP12 seasons, a full XP12 compliant mesh, and more. Itâs available on theÂ Aerosoft ShopÂ for roughly $20, requiring at least 4.7 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cdbzib</id>
-    <title>Chudoba Design Releases Bratislava Airport for X-Plane 11 &amp; 12</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/cdbzib"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc93de3ae7277b5bc2c870_bratis1.webp"/>
-    <summary>Sim: X-Plane. Chudoba Design has recently released their rendition of Bratislava Airport (LZIB) for X-Plane 11 &amp; 12, serving Bratislava, in Slovakia, and Vienna, in Austria, with a yearly average of 1.8 million passengers. Construction work started in 1948, and the airport was inaugurated in 1951. It replaced the old Bratislava Airport in Vajnory, which is 3 kilometers away and no longer exists. With the fall of the Soviet Union in 1991, Bratislava Airport lost most of its traffic to the nearby Vienna International Airport due to lower prices and higher flight availability, but the advent and popularization of low-cost carriers led to Bratislava becoming an important LCC hub for Ryanair and Wizz Air. The scenery features an accurate rendition of the airport, with PBR textures, performance-friendly optimization, custom buildings and objects, and full X-Plane 12 compatibility. Itâs available onÂ Chudobaâs websiteÂ for roughly $12.83. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/x12mdt</id>
-    <title>Xometry Design Previews Harrisburg International Airport for X-Plane 12</title>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="/news/x12mdt"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fc9694d31599ee8b562fe8_kmdt1.webp"/>
-    <summary>Sim: X-Plane. Xometry Design has recently announced and previewed their upcoming rendition of Harrisburg International Airport (KMDT) for X-Plane 12, serving Harrisburg, Pennsylvania, with a yearly average of 1.1 million passengers. The airport dates back to 1898, when the Signal Corps of the US Army was stationed there, building what would become Olmsted Field and having its first planes landing in 1918. It was used almost exclusively for military purposes up until 1969 when the Middletown Air Depot closed, and airline flights moved from the nearby Capital City Airport to Olmstead State Airport, renamed Harrisburg International Airport in 1973, which was also when the passenger terminal reached full completion, designed by architect William Pereira. Thirty-one years after the passenger terminalâs inauguration, a new 360,000 square-foot terminal was built, costing around $120 million and designed by the Sheward Partnership. Allegiant, American, American Eagle, Delta, Delta Connection, Frontier, United, and United Express serve it, connecting the city to their most prominent hubs. The scenery features an accurate rendition of the airport, with detailed, up-to-date buildings, high-resolution ground textures, PBR normal maps, realistically drawn wear and tear and dirt, SAM jetways, custom night lighting, and more. Thereâs no information on the pricing and release date yet, but Threshold will keep you informed! â</summary>
-    <published>2024-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/oten12</id>
     <title>Orbx Teases True Earth GB North for XP12</title>
@@ -151,5 +106,50 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66009dfee9eefa0b6ca2a6dd_deathrow1.webp"/>
     <summary>Sim: X-Plane. Zero Dollar Payware has recently released their freeware and open-source rendition of London Heathrow Airport (EGLL) for X-Plane 12, serving Greater London with a yearly average of 80 million passengers. London Heathrow is the eight-busiest airport in Europe by total passenger traffic, flying to over 184 destinations in 84 countries. Itâs the main gateway to England, with 94% of the traffic comprehending international travel, and the remaining 6% is strictly domestic.Â  Itâs the Main hub for British Airways, the biggest carrier in the United Kingdom, offering a wide range of destinations from within and worldwide. Aegean Airlines, Aer Lingus, Air Canada, Air China, Air France, All Nippon Airways, Austrian Airlines, Brussels Airlines, Cathay Pacific, Emirates, Eurowings, Japan Airlines, KLM, Lufthansa, Oman Air, Saudia, Scandinavian Airlines, TAP, Tunisair, and many others also serve it. The scenery features custom orthoimagery, custom ground textures, 3D grass, SAM jetways, VDGS, custom buildings, realistic dirt and grunge, and more. Its open-source nature warrants constant improvement, and ZDP has already shared a list of future futures, including more custom buildings, a Concorde static model, improved clutter, improved ground markings, improved vegetation, and more. â Itâs available for free on theÂ Threshold Forum. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsapar</id>
+    <title>FSA Announces 60+ Confirmed Partners for Juneâs FlightSimExpo</title>
+    <updated>2024-03-25T00:00:00+00:00</updated>
+    <link href="/news/fsapar"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6601c95965684f346ca40009_fse1.webp"/>
+    <summary>Sim: OTHER. In a livestream, Flight Sim Association confirmed more than 60 hardware, software, training, and community organizations are participating in FlightSimExpo 2024, which is set to take off in June.Â  Phil Coyle, FSA's co-founder, says it's just the beginning, as there's still three months to go and plenty of time left for more partners to get involved. Perspective exhibitors can learn more atÂ FSExpo's website; the deadline is May 31st. Attendees are encouraged to register before April 1st to get the year's best prices. The event registration includes in-person and online seminars, a free drink and appetizers at Friday's Attendee Welcome Reception, exhibit hall access on Saturday and Sunday, and more. FSA members are eligible for special pricing conditions. The partner list includes Navigraph, Orbx, Got Friends, Blackbird Simulations, Aerosoft Flight, Lockheed Martin Prepar3d, X-Plane (Laminar Research), SimFab, WinWing, SKALARKI, and Virpil Controls. The complete list is available on theirÂ website. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bouukh</id>
+    <title>Boundless Releases UK Helipads Pack 2 for X-Plane 11 &amp; 12</title>
+    <updated>2024-03-25T00:00:00+00:00</updated>
+    <link href="/news/bouukh"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6601ce44ddba9dec7064e36f_ukh1.png"/>
+    <summary>Sim: X-Plane. Boundless has recently released their second package of UK Helipads for X-Plane 11 and 12, including five helipads spread across the United Kingdom, created in exceptional detail and featuring full XP12 compatibility.Â  The package features the helipads of Almondsbury (an NPAS and Air Ambulance base near Bristol), Brook Farm (a maintenance-centered helipad near Milton Keynes), Castle Air Liskeard (Run by Castle Air, a luxury helicopter fleet operator), Penzance Heliport (a newly opened and bustling site in Penzance), and Tresco Heliport (located near Penzance, on the island of Tresco. Itâs highly scenic and very close to the Abbey gardens). â The package features a high-detailed rendition of each helipad, with full XP12 optimization, dynamic weather effects (XP12 only), PBR textures, 3D vegetation, dynamic lighting, accurate custom static clutter, custom static vehicles, up-to-date layouts and locations, and a performance-friendly optimization. Itâs available on theÂ Boundless StoreÂ for roughly $13.89, requiring at least 1.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsmmyr</id>
+    <title>Verticalsim Releases Myrtle Beach International Airport for X-Plane 12</title>
+    <updated>2024-03-25T00:00:00+00:00</updated>
+    <link href="/news/vsmmyr"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6601d313baf70c24890cd71f_myr4.webp"/>
+    <summary>Sim: X-Plane. Verticalsim has recently released their rendition of Myrtle Beach International Airport (KMYR) for X-Plane 12, serving Myrtle Beach, South Carolina, with a yearly average of 3.3 million passengers. It was built on property from a former air base, transferred by the government through the Surplus Property Act. Initially, the city of Myrtle Beach did not want to use the property for an airport, but the funds had to be used for an airport, which meant they funded Horry County Airport instead for 18 years. It wasnât until 1977 that the city annexed the area of Myrtle Beach Airport, with the airport and the Air Force Base sharing the same runway until 1993 when the AFB closed, and the portions of the former military flight line were turned over to the County. Myrtle Beach became an international airport in 1996 and got a brand new passenger terminal for that exact purpose. Twelve years later, it underwent two major renovation projects to modernize the infrastructure. Itâs currently undergoing expansion work, with six new gates being added to Terminal A, bringing the total number of gates to 18 and significantly increasing the traffic handling capabilities. Allegiant Air, American Airlines, Avelo Airlines, Breeze Airways, Delta Air Lines, Frontier Airlines, Southwest Airlines, Spirit Airlines, Sun Country Airlines, and United Airlines currently serve it. The scenery features an accurate rendition of the airport, with an up-to-date layout, custom autogen, high-resolution PBR ground textures, animated car traffic, 4K textures, 3D grass, color-graded satellite imagery, HDR night lighting, and more. â Itâs available on theÂ Verticalsim ShopÂ for roughly $14.99, and X-Plane 11 users are eligible for a $9.99 upgrade fee.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/boureu</id>
+    <title>Boundless Releases Reus Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-03-26T00:00:00+00:00</updated>
+    <link href="/news/boureu"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6602d1cb436d0b2858ef8e9f_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Boundless has just released their rendition of Reus Airport for X-Plane 11 and X-Plane 12. The Spanish airport serves the city of Reus and has a yearly average of just over 1 million passengers. Located about 88 kilometers southwest of Barcelona, Reus Airport opened all the way back in 1935. The airport was used as a Republican base during the Spanish Civil War. After the war, the airport became a Spanish Air Force base. In the late 1990s, the airport became fully civilian, and has since been the destination for those who seek the sun. The airport has and is being served by airlines like Ryanair, TUI, and Jet2. The last few years, the yearly amount of passengers has seen a big rise, and the airport is becoming an increasingly more popular holiday destination for those wanting to visit the Spanish coast. The scenery has lots of features with the most noticeable of them being up to date Ortho imagery, 4K PBR Terminal &amp; Airport buildings, 3D vegetation, HD custom clutter objects, Animated airport ground traffic, 4K custom ground textures and fully accurate ground markings. According to Boundless, the airport has thousands of accurately placed objects and textures. Reus Airport is now available on the Boundless Store for Â£15.99GBP, or roughly $20.25USD and takes up around 970 MB of space on disk. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
+    <published>2024-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hrsu</id>
+    <title>Fly2High Releases Yeosu Airport for MSFS</title>
+    <updated>2024-03-26T00:00:00+00:00</updated>
+    <link href="/news/f2hrsu"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6602d64ad944e801f0324953_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Fly2High has just released their rendition of Yeosu Airport (RKJY) for Microsoft Flight Simulator. The South Korean airport serves the city of Yeosu and has a yearly average of just under 650,000 passengers. Located in Yeosu, South Korea, Yeosu Airport opened on 23 May 1972. The airport is served by airlines like Asiana Airlines, Jin Air and Korean Air. These three airlines give the airport a total of two destinations, Jeju and Seoul-Gimpo. The scenery has lots of features with some of them being sloped runway, accurate simulation of Yeosu Airport, hand-made ground textures, dynamic airport lighting and highly detailed models of all airport buildings, objects and surroundings. Yeosu airport is now available on Orbx for $18.85AUD and takes up around 3.37 GB of space on disk. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
+    <published>2024-03-26T00:00:00+00:00</published>
   </entry>
 </feed>
