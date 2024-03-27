@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-03-26T18:21:54.313960+00:00</updated>
+  <updated>2024-03-27T18:21:26.385233+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/oten12</id>
-    <title>Orbx Teases True Earth GB North for XP12</title>
-    <updated>2024-03-22T00:00:00+00:00</updated>
-    <link href="/news/oten12"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fd1b44c3e6c688ee8edcd7_434074982_407847091893285_6361718592333214804_n.webp"/>
-    <summary>Sim: X-Plane. Orbx have just posted previews for another TrueEarth product for X-Plane 12. In an announcement, they posted a few teaser screenshots of their current project: TrueEarth Great Britain North for X-Plane 12. Orbx has developed numerous sceneries for all sorts of simulators, ranging from X-Plane 11/12, Prepar3D, Microsoft Flight Simulator, to lesser known sims, such as Aerofly and Tower! Simulator 3. This is their eighth product in the âTrue Earthâ series for X-Plane, and is the first for X-Plane 12. This is also a continuation of their Great Britain True Earth products, being very popular in X-Plane 11. According to Orbx, the region will contain Scottish Highlands, the beautiful Lochs, the Outer Hebrides, the Shetland Islands, and the Isle of Man.  â There is no fixed release date, however Orbx have said that âitâs around the cornerâ, but whenever they do announce a release date, Threshold will keep you informed, so stay tuned for more information!</summary>
-    <published>2024-03-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777223</id>
-    <title>PMDG Publishes Development Update for MSFS</title>
-    <updated>2024-03-22T00:00:00+00:00</updated>
-    <link href="/news/777223"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fd58aa23906046ffbef014_Screenshot_2024-03-22_at_4.05.03_pm.webp"/>
-    <summary>Sim: MSFS. PMDG has published the first development update since the variant reveal of their upcoming 777 for Microsoft Flight Simulator, with information on 737 updates for the marketplace version and a brand new 777 preview image (which is the cover of this article). Their 737 lineup is finally version matched across all platforms, all on 3.00.0091, the update which brings many memory improvements that significantly impact the productâs overall stability. That also means the Xbox version finally features the Ultimate Flight Tablet, albeit with some limitations: the data entry requires a keyboard to function, as the on-screen keyboard does not transmit data into the simulator in a way that the keystrokes could be captured by the add-on, which makes filling out the fields an impossibility.  They will be working on implementing a functional on-screen keyboard, but the turn-around time for beta builds on console is prolonged, which makes the experimenting take a lot longer than it would on PC. For now, having a keyboard attached to the console is the only way to interact with the tablet appropriately. As they have been busy with the 777 development, the 737 updates have halted, but they will pick it back up once the 777 is released. Updates will come if SU15 introduces any change that could break the 737 family. The 777-300ER is going through the final stage of development, where they ensure everything is polished and working accordingly. Randazzo even says they could theoretically launch the plane as it is right now, and people would be overwhelmingly happy with it. Still, they want to ensure everything is perfect before pushing the button.  They are working on getting the modern navdata conversion into beta testing, along with the lateral path guidance improvements made possible by Navigraphâs current format.  The 737 family can be found on their website or in the MSFS Marketplace, and the price ranges from $34.99 to $69.99, depending on the variant. The pricing for the upcoming 777-300ER has not yet been revealed.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bmwpbi</id>
-    <title>BMWorld &amp; AmSim Release Palm Beach International Airport for MSFS</title>
-    <updated>2024-03-22T00:00:00+00:00</updated>
-    <link href="/news/bmwpbi"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/65fdcd0c168135245b29c196_palm1.webp"/>
-    <summary>Sim: MSFS. BMWorld &amp; AmSim have recently released their rendition of Palm Beach International Airport (KPBI) for Microsoft Flight Simulator, serving the Miami metropolitan area with a yearly average of 7.7 million passengers. It opened in 1936 as Morrison Field, eventually becoming an important training airfield during World War 2 and operating as a staging base for the Allied invasion of France in 1944, with aircraft departing Palm Beach towards England in preparation for D-Day.Â  After a brief return to being a civil airport, the airport was once again utilized for military purposes in the early 1950s as Palm Beach Air Force Base, training nearly 23,000 airmen during the Korean War. The Air Force Base was closed in 1962, and Palm Beach was back to being just a civilian airport.Â  Currently, the airport has 32 gates and three concourses. Concourse A houses Bahamasair and Silver Airways; B houses Air Canada, American Airlines, Southwest Airlines, Sun Country Airlines, and United Airlines; C, on the other hand, holds Delta, Frontier, JetBlue, and Spirit. â The scenery features an accurate rendition of the airport, with high-resolution custom ground textures, custom ground markings, parallax windows, animated jetways, and fully modeled buildings and objects. â Itâs available on theÂ iniBuilds StoreÂ for roughly $17.09, requiring at least 1.62 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniltn</id>
     <title>iniBuilds Teases New Mystery Airport</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6602d64ad944e801f0324953_Banner_Image.webp"/>
     <summary>Sim: MSFS. Fly2High has just released their rendition of Yeosu Airport (RKJY) for Microsoft Flight Simulator. The South Korean airport serves the city of Yeosu and has a yearly average of just under 650,000 passengers. Located in Yeosu, South Korea, Yeosu Airport opened on 23 May 1972. The airport is served by airlines like Asiana Airlines, Jin Air and Korean Air. These three airlines give the airport a total of two destinations, Jeju and Seoul-Gimpo. The scenery has lots of features with some of them being sloped runway, accurate simulation of Yeosu Airport, hand-made ground textures, dynamic airport lighting and highly detailed models of all airport buildings, objects and surroundings. Yeosu airport is now available on Orbx for $18.85AUD and takes up around 3.37 GB of space on disk. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
     <published>2024-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fssgaa</id>
+    <title>FlightSim Studio Previews Ganderkesee Atlas Airfield for MSFS</title>
+    <updated>2024-03-27T00:00:00+00:00</updated>
+    <link href="/news/fssgaa"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66043e5c377167e7c314f777_gander1.webp"/>
+    <summary>Sim: MSFS. FlightSim Studio AG has recently previewed their upcoming rendition of Ganderkesee Atlas Airfield (EDWQ) for Microsoft Flight Simulator, a commercial airfield in Ganderkesee, near Bremen. It was constructed by Mr. Helmut Weyhausen and Mr. Jochen Weyhausen-Sauer in March 1970, along with Atlas Air Service AG, a maintenance and aircraft charterer/retailer company specializing in Embraer aircraft, but also a Cessna, Beechcraft, and Hawker service center (it started as a Cessna retailer in the past). They also handle the sales of aircraft on behalf of their customers. It is one of the most popular airfields in Lower Saxony, used for business flights, air sports, and flight training, and often used by celebrities who live in Bremen. Its 836x22 meter runway makes it strictly a small aircraft airport, limited to a take-off weight of 5.7 tonnes.  FSSâs rendition will feature an up-to-date layout, custom ground textures, interiors, and more. Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
+    <published>2024-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wince</id>
+    <title>WinWing launches A320 FCU</title>
+    <updated>2024-03-27T00:00:00+00:00</updated>
+    <link href="/news/wince"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660444cba604c5350ce70b1d_GJpFlLxbUAATX65.jpg"/>
+    <summary>Sim: OTHER. WinWing has just announced that their newest product from the Airbus lineup is available for pre-ordering.  On their social media, along with information about the pre-order and official price, WinWing also compared their FCU and a real Airbus FCU. The FCU features an accurate knob look and function, a push-pull mechanism, and adjustable backlighting that is auto-synced with Aircraft in the simulator. The only exception is the EXPED button, which is still functional, but unmarked, as users can change its function in the SIMAPP application. The WinWing A320 FCU is plug-and-play with SIMAPP, and no additional setup is required. Prices are as follows: Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-03-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/minick</id>
+    <title>miniCockpit Releases 2024/2025 Roadmap</title>
+    <updated>2024-03-27T00:00:00+00:00</updated>
+    <link href="/news/minick"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6604473b86ad320b2c2d7843_433500828_355017780872574_1264756462961031050_n.jpg"/>
+    <summary>Sim: OTHER. miniCockpit - best known for miniFCU, announced on their social media their 2024/2025 roadmap, and four new products as follow-up of the mini lineup: miniOVHD, miniRMP, miniECAM, and miniEFIS. miniEFIS - EFIS panel with a small addition - Chrono button. The miniEFIS panel has knobs for range selector on ND, the knob for switching between NAV modes on ND, ADF-VOR select switches, Barometer Selector knob, and display, as well as FD and LS push-buttons. miniOVHD represents a compact version of the Airbus overhead panel. According to miniCockpit, the controls were carefully chosen according to the Airbus SOP. The panel has an APU master switch, start and bleed buttons, seat belt sign, EXT PWR button, wiper knob, and light switches. miniRMP is a unified communications and navigation panel, where you can control the comm frequencies, squawk code, and nav frequencies. It also features a switch where the user can change between COM1 and COM2, as well as VOR1 and VOR2. Last but not least, miniECAM - an extended version of the ECAM Control Panel, with Master Warning and Master Caution buttons. It contains all the System Page buttons that control the Lower ECAM, along with CLR, RCL, EMER CANC, and TO CONFIG buttons. The price and release date of new miniCockpit products isnât known yet, but stay tuned, as Threshold will keep you updated!</summary>
+    <published>2024-03-27T00:00:00+00:00</published>
   </entry>
 </feed>
