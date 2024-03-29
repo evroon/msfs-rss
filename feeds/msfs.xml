@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-03-28T18:21:44.066173+00:00</updated>
+  <updated>2024-03-29T18:21:09.169186+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2023-12-12T21:10:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-22nd-2024-development-update/</id>
-    <title>February 22nd, 2024 – Development Update</title>
-    <updated>2024-02-22T23:32:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-22nd-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/@vp_sim-Twitter-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released a new beta build for those players enrolled in the optional Sim Update 15 (SU_15) public test. You can see the release notes on … Continued</summary>
-    <published>2024-02-22T23:32:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/february-29th-2024-development-update/</id>
-    <title>February 29th, 2024 – Development Update</title>
-    <updated>2024-02-29T22:15:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-29th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/02/Parorng-Forums-2-1024x569.jpeg"/>
-    <summary>On Wednesday, we released a new beta build (1.37.5.0) for those players enrolled in the optional Sim Update 15 (SU_15) public test. You can see the release notes on our forums here. Among other improvements, this build fixes a few known issues that were inadvertently introduced in the previous beta build, and it also has some stability enhancements.</summary>
-    <published>2024-02-29T22:15:20+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/march-7th-2024-development-update/</id>
     <title>March 7th, 2024 – Development Update</title>
     <updated>2024-03-08T00:00:20+00:00</updated>
@@ -78,5 +60,23 @@ Sim Update 15 has a target release date of March 26. As always, we want to ship 
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/HolmesCZ6127-Forums-2-1024x475.jpeg"/>
     <summary>Public testing for the upcoming Sim Update 15 continues to progress. Thank you to all the volunteer beta participants who have been submitting bug reports and feedback on the forums so far!</summary>
     <published>2024-03-21T23:34:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-28th-2024-development-update/</id>
+    <title>March 28th, 2024 – Development Update</title>
+    <updated>2024-03-28T22:51:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-28th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/Acuario9383-Forums-1024x576.jpeg"/>
+    <summary>In case you missed it, we recently announced that the full release of Sim Update 15 (SU_15) will be slightly delayed from its earlier targeted release date of March 26. It’s important that we take the time to get it right, and after careful consideration, the team concluded that SU_15 isn’t quite ready yet. We’re now targeting a release for some time in April (exact date TBD).</summary>
+    <published>2024-03-28T22:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/spring-sale-2250-items-on-sale-now-in-the-marketplace/</id>
+    <title>Spring Sale: 2250+ Items On Sale Now in the Marketplace</title>
+    <updated>2024-03-29T17:01:26+00:00</updated>
+    <link href="https://www.flightsimulator.com/spring-sale-2250-items-on-sale-now-in-the-marketplace/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/MSFS_SpringSale2024_v1_1920x1080-1024x576.jpg"/>
+    <summary>Enjoy discounted pricing during our Microsoft Flight Simulator Spring Sale!For 13 Days starting on March 29th, save up to 85% on more than 2250 items.To purchase these discounted items, visit the Microsoft Flight Simulator Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See All’ and look for the savings.</summary>
+    <published>2024-03-29T17:01:26+00:00</published>
   </entry>
 </feed>
