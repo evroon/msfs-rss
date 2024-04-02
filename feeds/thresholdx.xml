@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-01T18:21:25.287093+00:00</updated>
+  <updated>2024-04-02T18:22:56.701055+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bouukh</id>
-    <title>Boundless Releases UK Helipads Pack 2 for X-Plane 11 &amp; 12</title>
-    <updated>2024-03-25T00:00:00+00:00</updated>
-    <link href="/news/bouukh"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6601ce44ddba9dec7064e36f_ukh1.png"/>
-    <summary>Sim: X-Plane. Boundless has recently released their second package of UK Helipads for X-Plane 11 and 12, including five helipads spread across the United Kingdom, created in exceptional detail and featuring full XP12 compatibility.Â  The package features the helipads of Almondsbury (an NPAS and Air Ambulance base near Bristol), Brook Farm (a maintenance-centered helipad near Milton Keynes), Castle Air Liskeard (Run by Castle Air, a luxury helicopter fleet operator), Penzance Heliport (a newly opened and bustling site in Penzance), and Tresco Heliport (located near Penzance, on the island of Tresco. Itâs highly scenic and very close to the Abbey gardens). â The package features a high-detailed rendition of each helipad, with full XP12 optimization, dynamic weather effects (XP12 only), PBR textures, 3D vegetation, dynamic lighting, accurate custom static clutter, custom static vehicles, up-to-date layouts and locations, and a performance-friendly optimization. Itâs available on theÂ Boundless StoreÂ for roughly $13.89, requiring at least 1.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vsmmyr</id>
     <title>Verticalsim Releases Myrtle Beach International Airport for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66087df2145b364b2e053e6d_Screenshot%202024-03-30%20211707.webp"/>
     <summary>Sim: DCS. Eagle Dynamics has just announced a new map for DCS: Afghanistan. This map will include the whole territory of Afghanistan, along with small portions of neighbouring countries.  The Afghanistan map is available for pre-purchase with a 30% discount at $48.99 USD. The early access price will include a $20 discount or $55.99 USD, until the final release. ED has also made an option for players to purchase regions separately: Southwest, East, and North. Each region will be offered as a separate release at approximately 3 month intervals. The first region available for separate purchase is Southwest, and it is priced at $23.99 USD for the pre-purchase price, or $29.99 USD for the full release price. North and East regions will be available for purchase later this year. The Early Access Afghanistan map will focus on the Southwestern part of the country and will include 12 airfields, with notable ones being Kandahar and Herat. After Southwest, the next region to be developed is East.  Important note: Even with one purchased region, the player will be able to use the whole map, however, the remainder of the map will be of a lower quality. Key Features at Early Access: The release date of the full map isnât known yet, however, the Southeast region full release is expected in June 2024. Eagle Dynamics has released a trailer for the upcoming map on their YouTube channel. If you have any more questions about the Afghanistan map, you may find your answers here.  Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777041</id>
+    <title>PMDG Publishes Jokeless April Fools Day Development Update</title>
+    <updated>2024-04-02T00:00:00+00:00</updated>
+    <link href="/news/777041"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660b6a529653d007ea9eda3d_777new.webp"/>
+    <summary>Sim: MSFS. PMDG has published a new development update with information on a recent 737 update, two new 77W teasers, and more.Â  Allegedly too busy with their upcoming products to be "funny," they have skipped on this year's April Fools shenanigans, as they didn't want to play with people's feelings by pretending to delay a product release or something of the sort and anything more intricate than that would take time and effort. "The key to a good joke is knowing when not to play a good joke," concluded Randazzo.Â  â The first topic to be brought up is their 737 lineup update, currently under a critical fixes-only development status, given the work on the upcoming 777-300ER for Microsoft Flight Simulator. The latest update (3.00.0092) addresses the fact they accidentally pushed an earlier build instead of the real 3.00.0091, which had stability issues and features that were not quite complete, in Randazzo's own words.Â  The new update should bring it up to parity with the correct build, and it should be out to marketplace users this Friday or around April 11 at the latest. They also apologize for the inconvenience and are still unsure how they managed such a feat.Â  777-wise, Randazzo has shared two images of the long-awaited airline with the PMDG house livery. They have started to add wear and tear to the cockpit, and previews will be shared eventually.Â  Unlike their 737NG, which was a brand new airframe when they conducted their survey, the 777 they based their flight deck on is 12 years old, which they plan on realistically conveying with their texturing. The 747-400, on the other hand, will reflect a heavily used airplane, as their real research counterpart did. They have been working on implementing new features that Randazzo has not yet been allowed to share. Still, he hinted at multiple tablet features, greater sound integration, improved maintenance processes, and more. Robert concludes with great enthusiasm about its imminent release, saying it's very close to being in everyone's hangars and that it might as well be their best release yet. The PMDG 737 lineup is available in theirÂ store, with prices ranging from $34.99 to $69.99. The upcoming 777-300ER's pricing and release date are yet to be revealed. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-02T00:00:00+00:00</published>
   </entry>
 </feed>
