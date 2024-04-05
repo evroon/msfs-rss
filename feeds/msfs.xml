@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-04-04T18:22:29.468912+00:00</updated>
+  <updated>2024-04-05T18:21:44.313398+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-7th-2024-development-update/</id>
-    <title>March 7th, 2024 – Development Update</title>
-    <updated>2024-03-08T00:00:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-7th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/@tsujiKa_air-Twitter-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released a new beta build (1.37.7.0) for all players enrolled in the Sim Update 15 (SU_15) beta test. You can see the release notes on … Continued</summary>
-    <published>2024-03-08T00:00:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-14th-2024-development-update/</id>
@@ -78,5 +69,14 @@ Sim Update 15 has a target release date of March 26. As always, we want to ship 
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/MSFS_SpringSale2024_v1_1920x1080-1024x576.jpg"/>
     <summary>Enjoy discounted pricing during our Microsoft Flight Simulator Spring Sale!For 13 Days starting on March 29th, save up to 85% on more than 2250 items.To purchase these discounted items, visit the Microsoft Flight Simulator Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See All’ and look for the savings.</summary>
     <published>2024-03-29T17:01:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-4th-2024-development-update/</id>
+    <title>April 4th, 2024 – Development Update</title>
+    <updated>2024-04-04T23:07:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-4th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/HolmesCZ6127-Forums-1024x417.jpeg"/>
+    <summary>We are now accepting questions for our next Developer Livestream! If you would like to pre-submit a question for our panel, please complete the form at this link. Our team will collate all the submissions to ensure the panel addresses the most frequently-asked questions from the community.</summary>
+    <published>2024-04-04T23:07:05+00:00</published>
   </entry>
 </feed>

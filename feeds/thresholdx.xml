@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-04T18:22:30.627337+00:00</updated>
+  <updated>2024-04-05T18:21:45.828904+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flykef</id>
-    <title>Fly X Simulations Releases Kefalonia International Airport for MSFS</title>
-    <updated>2024-03-27T00:00:00+00:00</updated>
-    <link href="/news/flykef"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66047c96e309f3894a04e153_kefa1.webp"/>
-    <summary>Sim: MSFS. Fly X Simulations has recently released their rendition of Kefalonia International Airport (LGKF) for Microsoft Flight Simulator, serving the island of Kefalonia, Greece, with a yearly average of 817,216 passengers. It was opened in 1971 to serve the municipality of Leivatho, which no longer exists. A decade later, a new runway and the former main passenger terminal were built. The airport was privatized in December 2015 as part of a government plan to privatize some of their airports, in a batch with 13 other regional airports. A joint venture between Fraport AG/ Copelouzos Group won the concession to operate the entire batch for 40 years as of April 2017. The new operators heavily upgraded the airport, constructing a new passenger terminal building and modernizing the infrastructure with new check-in desks, security lanes, and a larger airside space with more shops. Aegean Airlines (year-long), Air Serbia, Animawings, Austrian Airlines, Avanti Air, British Airways, Condor, Discover Airlines, easyJet, ITA Airways, Jet2.com, Marathon Airlines, Norwegian Air Shuttle, Peopleâs, Ryanair, Sky Express, Smartwings, Transavia, TUI Airways, TUI fly Netherlands, Tus Airways, Volotea, and Wizz Air serve it. The scenery features an accurate rendition of the airport, with custom airport buildings, custom ground textures, high-resolution PBR textures, and more. Itâs available on theÂ iniBuilds StoreÂ for roughly $12.79, requiring at least 852 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inilut</id>
-    <title>iniBuilds Teases Upcoming London Luton Airport for MSFS</title>
-    <updated>2024-03-27T00:00:00+00:00</updated>
-    <link href="/news/inilut"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66048a447bad63a31734918e_luton2.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently teased the development progress on their rendition of London Luton Airport (EGGW) for Microsoft Flight Simulator, serving Greater London, Bedfordshire, Buckinghamshire, Northamptonshire, Hertfordshire, and Cambridgeshire with a yearly average of 13.3 million passengers, making it the fifth busiest airport in the United Kingdom. Opened in 1938, Luton was of great importance to the Royal Air Force during World War 2, with commercial activities only resuming seven years after the conflict.  Luton was pivotal to developing the package holiday business in the UK, amounting to a fifth of all holiday flights in the United Kingdom by 1969, leading to a major expansion plan in the subsequent decade to accommodate the ever-increasing traffic figures.  Fate might have been a bit cruel to Luton, as the figures dipped massively in the 1980s, leading to the addition of âLondonâ to its name to emphasize its proximity to the capital. â While the extra traffic did, in fact, come during the 1990s, it was in no way due to the renaming strategy, but by embracing charter operators and low-cost carriers such as Debonair and easyJet, which transformed it into the fastest growing major airport in the country.  â The rapid growth was rewarded with an 80 million pound investment program, which improved its infrastructure and facilities. It was followed by the construction of a 40 million pound terminal in 1999, opened by Queen Elizabeth II and Prince Phillip, housing 60 check-in desks and a range of commercial outlets. Six years later, the departure and arrival lounges were redeveloped at the cost of 38 million pounds. â Further development was conducted in 2018 at the cost of 160 million pounds, including new shops, a new boarding pier, and more boarding gates, increasing the passenger handling capabilities to 18 million a year.  â Itâs an operating base for easyJet, Ryanair, TUI Airways, and Wizz Air UK, which, aside from Dan Air, El Al, FlyOne, and SunExpress, are the only ones that serve the airport, making it a full LCC-centric hub.  â Thereâs no information on the release date or pricing yet, but Threshold will keep you informed! â</summary>
-    <published>2024-03-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/uk2abz</id>
     <title>UK2000 Releases Aberdeen Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660ecf47b7bf4cf813d76df2_7471.webp"/>
     <summary>Sim: MSFS. FSMuseumâs 747 Classic, initially meant for Flight Simulator 2004, appears to be getting a Microsoft Flight Simulator 2020 version instead, with a custom 3D flight deck modeled by arwasairl. The incomplete renders of the flight deck reflect a 747-200B with Pratt &amp; Whitney JT9D-7R4G2 engines, FFRATS, Triple autopilot, Dial gauges, US weights with metric temperatures, and a Kollsman altimeter. Other variants are planned, including dual autopilot, taped displays, corrected engine scales, etc., and will be developed after the current variant is fully completed.Â  The 747 Classic project was first announced in 2020, and had been in development for six years prior, featuring a fully featured FDE with realistic damping, control, stability, and mach effects, and fine-tuned according to Boeing and NASA documents for all phases of flight. The load station data is also directly from Boeing weight and balance documents, with exact locations for MAC, LEMAC, Cargo, PAX, fuel tanks, and landing gear (including suspension).Â  It also features an accurate simulation of the electrical and fuel systems, working in accordance with Boeing specifications with correct loads and transfer rates.Â  â However, itâs important to note that the feature list reflected the project for Flight Simulator 2004, meaning things could have changed since then.Â â Refer to FSMuseumâsÂ original threadÂ for further information on the project. Arwasairlâs cockpit previews are availableÂ here. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2024-04-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ltn101</id>
+    <title>iniBuilds Updates London Luton Airport for MSFS</title>
+    <updated>2024-04-05T00:00:00+00:00</updated>
+    <link href="/news/ltn101"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6606f1e13e5286d1e071ebf1_luton1.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently updated their newly released rendition of London Luton Airport (EGGW) for Microsoft Flight Simulator, addressing bugs and adding a few 3D models. Update 1.0.1, the first so far, adds four new models to the scenery: Signature Flight Supportâs new interior, Marriott Hotel, Hotel Ibis, a Vauxhall dealership, and the main terminal model underwent slight corrections. The list of overall fixes includes taxiway and terrain corrections, ground marking changes, fencing adjustments, and more. The complete changelog follows below: â Added/updated models: Fixed: The scenery is available on theÂ iniBuilds StoreÂ for roughly $17.91, requiring at least 5.31 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vpikcg</id>
+    <title>V Pilot Designs Releases Cartagena Airport V2 for MSFS</title>
+    <updated>2024-04-05T00:00:00+00:00</updated>
+    <link href="/news/vpikcg"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660f8a153db79e2540008508_skcg1.webp"/>
+    <summary>Sim: MSFS. V Pilot Designs has recently released the upgraded version of their Rafael NuÃ±ez Airport (SKCG) for Microsoft Flight Simulator, serving the city of Cartagena, Colombia, with a yearly average of 7.2 million passengers. It was built in 1946 as Crespo Air Field, with TACA Colombia being the first airline to serve the city, albeit very briefly, as they went under a year later, with LANSA taking the remaining slots. â By 1979, the airport averaged around 99 flights a week, which was not enough in terms of touristic volume for the local hotels, leading to pressure for an airport redevelopment in 1982: a new passenger terminal and a runway extension, allowing for bigger aircraft. It is now the fourth busiest airport in the country. Itâs a hub for Avianca and served by Air Century, American Airlines, Arajet, Avianca Costa Rica, Clic, Copa Airlines, Delta Air Lines, Edelweiss Air, JetBlue, KLM, Latam Colombia, Latam Peru, Spirit, Wingo. The scenery features an accurate rendition of the airport, with highly detailed models, PBR materials, custom lighting, custom POIs (points of interest), and more. Itâs available in the MSFS Marketplace for $16.99. V1 owners are eligible for a discounted rate by buying the âSKCG V1 Improvementâ package.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-05T00:00:00+00:00</published>
   </entry>
 </feed>
