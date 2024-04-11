@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-10T18:24:17.505941+00:00</updated>
+  <updated>2024-04-11T18:21:33.901655+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/arw747</id>
-    <title>arwasairl &amp; FSMuseum Showcase Progress on Boeing 747 Classicâs Flight Deck for MSFS</title>
-    <updated>2024-04-04T00:00:00+00:00</updated>
-    <link href="/news/arw747"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660ecf47b7bf4cf813d76df2_7471.webp"/>
-    <summary>Sim: MSFS. FSMuseumâs 747 Classic, initially meant for Flight Simulator 2004, appears to be getting a Microsoft Flight Simulator 2020 version instead, with a custom 3D flight deck modeled by arwasairl. The incomplete renders of the flight deck reflect a 747-200B with Pratt &amp; Whitney JT9D-7R4G2 engines, FFRATS, Triple autopilot, Dial gauges, US weights with metric temperatures, and a Kollsman altimeter. Other variants are planned, including dual autopilot, taped displays, corrected engine scales, etc., and will be developed after the current variant is fully completed.Â  The 747 Classic project was first announced in 2020, and had been in development for six years prior, featuring a fully featured FDE with realistic damping, control, stability, and mach effects, and fine-tuned according to Boeing and NASA documents for all phases of flight. The load station data is also directly from Boeing weight and balance documents, with exact locations for MAC, LEMAC, Cargo, PAX, fuel tanks, and landing gear (including suspension).Â  It also features an accurate simulation of the electrical and fuel systems, working in accordance with Boeing specifications with correct loads and transfer rates.Â  â However, itâs important to note that the feature list reflected the project for Flight Simulator 2004, meaning things could have changed since then.Â â Refer to FSMuseumâsÂ original threadÂ for further information on the project. Arwasairlâs cockpit previews are availableÂ here. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2024-04-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ltn101</id>
-    <title>iniBuilds Updates London Luton Airport for MSFS</title>
-    <updated>2024-04-05T00:00:00+00:00</updated>
-    <link href="/news/ltn101"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6606f1e13e5286d1e071ebf1_luton1.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently updated their newly released rendition of London Luton Airport (EGGW) for Microsoft Flight Simulator, addressing bugs and adding a few 3D models. Update 1.0.1, the first so far, adds four new models to the scenery: Signature Flight Supportâs new interior, Marriott Hotel, Hotel Ibis, a Vauxhall dealership, and the main terminal model underwent slight corrections. The list of overall fixes includes taxiway and terrain corrections, ground marking changes, fencing adjustments, and more. The complete changelog follows below: â Added/updated models: Fixed: The scenery is available on theÂ iniBuilds StoreÂ for roughly $17.91, requiring at least 5.31 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vpikcg</id>
-    <title>V Pilot Designs Releases Cartagena Airport V2 for MSFS</title>
-    <updated>2024-04-05T00:00:00+00:00</updated>
-    <link href="/news/vpikcg"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/660f8a153db79e2540008508_skcg1.webp"/>
-    <summary>Sim: MSFS. V Pilot Designs has recently released the upgraded version of their Rafael NuÃ±ez Airport (SKCG) for Microsoft Flight Simulator, serving the city of Cartagena, Colombia, with a yearly average of 7.2 million passengers. It was built in 1946 as Crespo Air Field, with TACA Colombia being the first airline to serve the city, albeit very briefly, as they went under a year later, with LANSA taking the remaining slots. â By 1979, the airport averaged around 99 flights a week, which was not enough in terms of touristic volume for the local hotels, leading to pressure for an airport redevelopment in 1982: a new passenger terminal and a runway extension, allowing for bigger aircraft. It is now the fourth busiest airport in the country. Itâs a hub for Avianca and served by Air Century, American Airlines, Arajet, Avianca Costa Rica, Clic, Copa Airlines, Delta Air Lines, Edelweiss Air, JetBlue, KLM, Latam Colombia, Latam Peru, Spirit, Wingo. The scenery features an accurate rendition of the airport, with highly detailed models, PBR materials, custom lighting, custom POIs (points of interest), and more. Itâs available in the MSFS Marketplace for $16.99. V1 owners are eligible for a discounted rate by buying the âSKCG V1 Improvementâ package.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/smvtsg</id>
     <title>SIMMAN Releases Krabi Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6616547e64ba2985a6cb0fb4_Banner_Image.webp"/>
     <summary>Sim: MSFS. Aerosoft has provided us with several glimpses of the upcoming Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator. Pictures of the Norwegian airport have been shared on the AviationLads Facebook page, while Aerosoft has also posted a video about it on their Facebook page. â â Although the pricing, release date, and features are not yet announced, Aerosoft confirmed on their Facebook post that the airport is coming soon. â We'll keep you updated with more information as it becomes available. For the latest flight simulation news, remember to stay tuned on Threshold! â</summary>
     <published>2024-04-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vrfgru</id>
+    <title>Vref Simulations Announces Guarulhos International Airport for MSFS</title>
+    <updated>2024-04-11T00:00:00+00:00</updated>
+    <link href="/news/vrfgru"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661763efd36cec2f33c8e941_guarulhos1.webp"/>
+    <summary>Sim: MSFS. Vref Simulations has recently announced the development and imminent release of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator. The airport serves SÃ£o Paulo, Brazil, and has a yearly average of 41.3 million passengers, making it the busiest airport in the country. The airport's planning started back in 1967, when the government first considered renovating the airport infrastructure in the country and ran some studies to figure out which step to take next, leading to a straightforward conclusion: Congonhas (SÃ£o Paulo's main airport at the time) was not big enough to sustain the ever-growing demand, nor could it be easily expanded, which led to a plan B: transforming a former Air Force Base into a full-fledged international airport. After decades of planning, construction started in 1980, with three runways and four passenger terminals in mind at first, which turned into two runways and two terminals due to time and cost constraints. It was inaugurated five years later and quickly became the city's primary airport.Â  Four years after the inauguration, the runways were extended, and the passenger terminals were expanded, bringing the overall capacity from 7.5 million passengers a year to 8.5.Â  A third terminal, planned for 2001, was built a decade later, along with Terminal 4. The first phase (of Terminal 4's construction) had it holding up to 5.5 million passengers a year, and the second phase brought it to its intended capacity of 8 million passengers, making it so the airport could handle 28.5 million passengers in total. The terminals were renumbered in 2015, with Terminal 4 becoming Terminal 1, Terminals 1 and 2 becoming Terminal 2, and Terminal 3 retaining its numbering. It's a hub for Gol Transportes AÃ©reos and LATAM Brasil and served by Azul, Air Canada, Air China, Air France, American Airlines, Avianca, British Airways, Copa Airlines, Delta Air Lines, Emirates, Iberia, ITA Airways, KLM, Lufthansa, TAP Air Portugal, United Airlines, and more. The scenery will feature an accurate rendition of the airport, with PBR textures, an up-to-date taxiway layout, dynamic lighting effects, detailed ground markings, and more. It's set to release tomorrow (11/04) for $8.99. Further information can be found on Vref'sÂ Discord. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tssgas</id>
+    <title>TropicalSim Releases Silvio Pettirossi International Airport for MSFS</title>
+    <updated>2024-04-11T00:00:00+00:00</updated>
+    <link href="/news/tssgas"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6617655d450a9eb335d8c742_asu.webp"/>
+    <summary>Sim: MSFS. TropicalSim has recently released its rendition of Silvio Pettirossi International Airport (SGAS) for Microsoft Flight Simulator. The airport is situated in Paraguay and serves the city of AsunciÃ³n. It is located just 6 miles (10 km) from the city center and serves around 1.03 million passengers annually. â â The Silvio Pettirossi International Airport was inaugurated in 1938. Its runway was constructed in the 1960s and later refurbished in 1985. Over the years, several international airlines have established routes to this airport. Iberia started flying from Madrid around 1968, and Lufthansa began flying from Frankfurt in 1971. The local airline, Lineas Aereas Paraguayas, also started operations to Frankfurt. Although these airlines have stopped these routes, the airport still has multiple international and domestic destinations. The Silvio Pettirossi International Airport is a hub for LATAM Paraguay and Paranair, and airlines like Air Europa and Avianca offer routes to destinations like Madrid, BogotÃ¡, and Buenos Aires. â â The new scenery features a highly accurate rendition of Silvio Pettirossi International Airport, full night illumination, dynamic lighting, PBR materials, and much more. â â â The add-on requires 440.69MB of storage space and is available on SimMarket for approximately $18.17. For the latest flight simulation news, remember to stay tuned on Threshold! â</summary>
+    <published>2024-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vefgru</id>
+    <title>Vref Simulations Releases Guarulhos International Airport for MSFS</title>
+    <updated>2024-04-11T00:00:00+00:00</updated>
+    <link href="/news/vefgru"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661763efd36cec2f33c8e941_guarulhos1.webp"/>
+    <summary>Sim: MSFS. Vref Simulations has recently released their rendition of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator. The airport serves SÃ£o Paulo, Brazil, and has a yearly average of 41.3 million passengers, making it the busiest airport in the country. The airport's planning started back in 1967, when the government first considered renovating the airport infrastructure in the country and ran some studies to figure out which step to take next, leading to a straightforward conclusion: Congonhas (SÃ£o Paulo's main airport at the time) was not big enough to sustain the ever-growing demand, nor could it be easily expanded, which led to a plan B: transforming a former Air Force Base into a full-fledged international airport. After decades of planning, construction started in 1980, with three runways and four passenger terminals in mind at first, which turned into two runways and two terminals due to time and cost constraints. It was inaugurated five years later and quickly became the city's primary airport.Â  Four years after the inauguration, the runways were extended, and the passenger terminals were expanded, bringing the overall capacity from 7.5 million passengers a year to 8.5.Â  A third terminal, planned for 2001, was built a decade later, along with Terminal 4. The first phase (of Terminal 4's construction) had it holding up to 5.5 million passengers a year, and the second phase brought it to its intended capacity of 8 million passengers, making it so the airport could handle 28.5 million passengers in total. The terminals were renumbered in 2015, with Terminal 4 becoming Terminal 1, Terminals 1 and 2 becoming Terminal 2, and Terminal 3 retaining its numbering. It's a hub for Gol Transportes AÃ©reos and LATAM Brasil and served by Azul, Air Canada, Air China, Air France, American Airlines, Avianca, British Airways, Copa Airlines, Delta Air Lines, Emirates, Iberia, ITA Airways, KLM, Lufthansa, TAP Air Portugal, United Airlines, and more. The scenery features an accurate rendition of the airport, with PBR textures, an up-to-date taxiway layout, dynamic lighting effects, detailed ground markings, and more. It's available on SimMarket for roughly $9.22, requiring at least 543.03 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-11T00:00:00+00:00</published>
   </entry>
 </feed>
