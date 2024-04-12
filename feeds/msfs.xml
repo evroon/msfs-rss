@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-04-11T18:21:32.454629+00:00</updated>
+  <updated>2024-04-12T18:18:13.700966+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,16 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-14th-2024-development-update/</id>
-    <title>March 14th, 2024 – Development Update</title>
-    <updated>2024-03-14T22:18:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-14th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/@klrkjp1-Twitter-1024x576.jpeg"/>
-    <summary>Yesterday, we hosted another Developer Livestream on Twitch. Among the many topics discussed by our panel were the following highlights:
-Sim Update 15 has a target release date of March 26. As always, we want to ship a quality product, so there is a chance this date could be slightly delayed if SU_15 isn’t ready for release by that date.</summary>
-    <published>2024-03-14T22:18:52+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/march-21st-2024-development-update/</id>
@@ -78,5 +68,16 @@ Sim Update 15 has a target release date of March 26. As always, we want to ship 
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/HolmesCZ6127-Forums-1024x417.jpeg"/>
     <summary>We are now accepting questions for our next Developer Livestream! If you would like to pre-submit a question for our panel, please complete the form at this link. Our team will collate all the submissions to ensure the panel addresses the most frequently-asked questions from the community.</summary>
     <published>2024-04-04T23:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-11th-2024-development-update/</id>
+    <title>April 11th, 2024 – Development Update</title>
+    <updated>2024-04-11T23:15:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-11th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/@CpuGeta486-Twitter-1-1024x576.jpeg"/>
+    <summary>This week, we’re pleased to share an updated Development Roadmap which you can find below. A few highlights include: 
+– City Update 06: Southwest Germany and Local Legend 15: Dornier Do 31 are both releasing next week on April 17! 
+– Sim Update 15 and the Airbus A320neo (V2) are tentatively targeted for a full release on April 30.</summary>
+    <published>2024-04-11T23:15:30+00:00</published>
   </entry>
 </feed>

@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-11T18:21:33.901655+00:00</updated>
+  <updated>2024-04-12T18:18:14.983571+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/smvtsg</id>
-    <title>SIMMAN Releases Krabi Airport for MSFS</title>
-    <updated>2024-04-05T00:00:00+00:00</updated>
-    <link href="/news/smvtsg"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6610758b3befae569e16a4fc_Banner_Image.webp"/>
-    <summary>Sim: MSFS. SIMMAN has recently released its latest project for MSFS - Krabi Airport (VTSG). The international airport serves the Thai city of Krabi and accommodates over 2.3 million passengers annually.  Located in southern Thailand, the airport was opened in 1999 and has witnessed a steady increase in passenger traffic since then. In 2016, the airport received funding for expanding its facilities, including a new terminal and renovating existing infrastructure. Although a further expansion was planned in 2019, it was subsequently cancelled due to space constraints and the city's expansion. Instead, a new alternative airport has been proposed. Located 11.5 km (roughly 7.15 mi) from the city center, Krabi Airport is the operating base for Thai AirAsia and features a range of airlines such as Bangkok Airways, Flydubai, Scoot, and seasonally TUI Airways. It serves a variety of destinations, ranging from international destinations like Copenhagen or Dubai to regional destinations like Bangkok. The new scenery for Krabi Airport includes various features such as Custom Realistic Terminal Building, Realistic Parking Area, Realistic Building in Airport Area, and Custom Jetways. The scenery requires 1.4 GB of disk space and is available on SimMarket for roughly $14.77.Â  If you're interested in the latest flight simulation news, stay tuned on Threshold! â</summary>
-    <published>2024-04-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfbv2a</id>
-    <title>Just Flight 146 Professional V2 Now Available</title>
-    <updated>2024-04-05T00:00:00+00:00</updated>
-    <link href="/news/jfbv2a"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6610772030b8e4f762bdf1d0_146%20V2%203.webp"/>
-    <summary>Sim: MSFS. Just Flight has just released a v2 update for BAe 146 Professional. This major free update will provide a custom-coded UNS-1, a new passenger boarding and cargo loading system controlled by the EFB, new cabin models, a cabin boarding music player, interactive yoke-mounted checklists, and clipboard paper charts. Along with these new features, the update will bring three new liveries for the -200 and -300 variants, and many bug fixes and improvements.   The full changelog can be found here. â Version 2 will also feature new manuals for EFB, UNS-1, and 146 Professional Operations Manual.Â  146 Professional is currently on Spring Sale, at a 25% discount. You can buy it here. Stay tuned to Threshold for more flight sim news! â</summary>
-    <published>2024-04-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/nddaag</id>
-    <title>NetDesign Releases Algiers Airport for MSFS</title>
-    <updated>2024-04-05T00:00:00+00:00</updated>
-    <link href="/news/nddaag"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6610787fe59764d458367c79_Banner_Image.webp"/>
-    <summary>Sim: MSFS. NetDesign has recently released its version of Houari Boumediene Airport (DAAG) for Microsoft Flight Simulator. The airport has a yearly capacity of around 12 million passengers and serves Algiers, the capital of Algeria. Located roughly 16.9 km (10.5 mi) southeast of Algiers, the international airport was opened 100 years ago in 1924. During World War II, the airport was seized by the Allies and used by the US Air Force. After the war, the airport has expanded and grown over time to become what it is today. It is the hub for Air AlgÃ©rie and Tassili Airlines and is served by a variety of airlines, including British Airways, Emirates, and Transavia, offering a multitude of destinations worldwide, such as London, Beijing, Dubai, and Montreal. Additionally, Algiers Airport has a significant cargo operation with Air AlgÃ©rie Cargo, Emirates SkyCargo, Swiftair, and Turkish Cargo. The scenery includes four bespoke terminals, various buildings such as train stations and hotels, high-quality static aircraft, high technical accuracy, high-resolution PBR textures, multiple layers of textures for dirt, wear and tear, interiors, AI traffic, and detailed night lighting. Moreover, the scenery comes with custom landmarks for the city of Algiers. Algiers Airport requires 3.16GB of storage and is available on the iniBuilds Store for roughly $25.60. For the latest flight simulation news, remember to stay tuned on Threshold! â</summary>
-    <published>2024-04-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/avdufr</id>
     <title>Aviotek Simulation Software Publishes Frankfurt Airport Development Update for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661763efd36cec2f33c8e941_guarulhos1.webp"/>
     <summary>Sim: MSFS. Vref Simulations has recently released their rendition of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator. The airport serves SÃ£o Paulo, Brazil, and has a yearly average of 41.3 million passengers, making it the busiest airport in the country. The airport's planning started back in 1967, when the government first considered renovating the airport infrastructure in the country and ran some studies to figure out which step to take next, leading to a straightforward conclusion: Congonhas (SÃ£o Paulo's main airport at the time) was not big enough to sustain the ever-growing demand, nor could it be easily expanded, which led to a plan B: transforming a former Air Force Base into a full-fledged international airport. After decades of planning, construction started in 1980, with three runways and four passenger terminals in mind at first, which turned into two runways and two terminals due to time and cost constraints. It was inaugurated five years later and quickly became the city's primary airport.Â  Four years after the inauguration, the runways were extended, and the passenger terminals were expanded, bringing the overall capacity from 7.5 million passengers a year to 8.5.Â  A third terminal, planned for 2001, was built a decade later, along with Terminal 4. The first phase (of Terminal 4's construction) had it holding up to 5.5 million passengers a year, and the second phase brought it to its intended capacity of 8 million passengers, making it so the airport could handle 28.5 million passengers in total. The terminals were renumbered in 2015, with Terminal 4 becoming Terminal 1, Terminals 1 and 2 becoming Terminal 2, and Terminal 3 retaining its numbering. It's a hub for Gol Transportes AÃ©reos and LATAM Brasil and served by Azul, Air Canada, Air China, Air France, American Airlines, Avianca, British Airways, Copa Airlines, Delta Air Lines, Emirates, Iberia, ITA Airways, KLM, Lufthansa, TAP Air Portugal, United Airlines, and more. The scenery features an accurate rendition of the airport, with PBR textures, an up-to-date taxiway layout, dynamic lighting effects, detailed ground markings, and more. It's available on SimMarket for roughly $9.22, requiring at least 543.03 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfo412</id>
+    <title>Flightbeam Studios Publishes New San Francisco International Previews for MSFS</title>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <link href="/news/sfo412"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6618c5f30f4701d3b78d30e8_ksfo1.webp"/>
+    <summary>Sim: MSFS. Flightbeam Studios has recently shared new images of their upcoming San Francisco International Airport (KSFO) rendition for Microsoft Flight Simulator, showcasing the progress on the terminals, ground texturing, and custom jetways. San Francisco International is the second-busiest airport in California, with a yearly average of 57 million passengers, only behind Los Angeles International.  Itâs a hub for United Airlines (44% of the market share) and Alaska Airlines (10.66% of the market share) and is visited by multiple international carriers such as Aer Lingus, Air Canada, Air China, Air France, Air New Zealand, American Airlines, British Airways, Cathay Pacific, Emirates, KLM, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, and WestJet. â Mir, the developer, emphasized that itâs still a work-in-progress project, with one of the showcased concourses (Unitedâs Concourse E) not featuring jetways yet. It was previously stated to be their most detailed work yet, sitting high above their previous projects regarding visual complexity, quality, and performance. Itâs said to be inching closer to completion, and if things go according to plan, it could be released before summer. Threshold will keep you informed on the matter! â</summary>
+    <published>2024-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdogru</id>
+    <title>GearDown Simulations &amp; db Scenery Announce Guarulhos International Airport for MSFS</title>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <link href="/news/gdogru"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6618c9dead3989329b5a7ebe_gdru1.webp"/>
+    <summary>Sim: MSFS. GearDown Simulations and db Scenery have recently announced the development and imminent release of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator. The airport serves SÃ£o Paulo, Brazil, and has a yearly average of 41.3 million passengers, making it the busiest airport in the country. The airport's planning started back in 1967, when the government first considered renovating the airport infrastructure in the country and ran some studies to figure out which step to take next, leading to a straightforward conclusion: Congonhas (SÃ£o Paulo's main airport at the time) was not big enough to sustain the ever-growing demand, nor could it be easily expanded, which led to a plan B: transforming a former Air Force Base into a full-fledged international airport. After decades of planning, construction started in 1980, with three runways and four passenger terminals in mind at first, which turned into two runways and two terminals due to time and cost constraints. It was inaugurated five years later and quickly became the city's primary airport.Â  â Four years after the inauguration, the runways were extended, and the passenger terminals were expanded, bringing the overall capacity from 7.5 million passengers a year to 8.5.Â  A third terminal, planned for 2001, was built a decade later, along with Terminal 4. The first phase (of Terminal 4's construction) had it holding up to 5.5 million passengers a year, and the second phase brought it to its intended capacity of 8 million passengers, making it so the airport could handle 28.5 million passengers in total. The terminals were renumbered in 2015, with Terminal 4 becoming Terminal 1, Terminals 1 and 2 becoming Terminal 2, and Terminal 3 retaining its numbering. â It's a hub for Gol Transportes AÃ©reos and LATAM Brasil and served by Azul, Air Canada, Air China, Air France, American Airlines, Avianca, British Airways, Copa Airlines, Delta Air Lines, Emirates, Iberia, ITA Airways, KLM, Lufthansa, TAP Air Portugal, United Airlines, and more. The scenery will feature an accurate rendition of the airport, with 4K PBR textures, an up-to-date taxiway layout, custom landside, custom terrain mesh, custom ambient sounds, dynamic lighting effects, detailed ground markings, and more. It's set to release next Thursday (18/04) for roughly $9. Refer to theÂ product pageÂ for further information.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bs0or8</id>
+    <title>Backwood Studios Releases 0OR8 Sutton On Rogue Airport for MSFS</title>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <link href="/news/bs0or8"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6618cb5b66e52cd9b310c08b_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Backwood Studios has recently released their rendition of Sutton On Rogue Airport (0OR8) for Microsoft Flight Simulator. The airport is located in the U.S. state of Oregon and has a 2,500-foot (762 m) grass runway and a helipad. It is situated approximately 3 nautical miles north of White City and has enough space for small GA aircraft operations. â â Sutton On Rogue Airport is located along the Rogue River, and it is a great destination for those who love water sports and fishing. If you prefer to stay dry, you will still enjoy the stunning panoramic views of the area. The airport has a 24-acre horse ranch in its estate as well. â â â The airport features a grass runway, helipad, helicopter hangar, airplane hangar, and a pilot house for relaxation and entertainment. â Backwood Studios' latest release provides a highly accurate rendition of Sutton On Rogue Airport, custom PBR textures, animated elements, tailored night lighting, custom 3D-modeled buildings, detailed interiors, and more. â â â The add-on requires 1.98GB of storage space and is available on OrbxDirect for approximately $11.25. â For the latest flight simulation news, remember to stay tuned on Threshold! â</summary>
+    <published>2024-04-12T00:00:00+00:00</published>
   </entry>
 </feed>
