@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-04-18T18:22:30.090756+00:00</updated>
+  <updated>2024-04-19T18:21:24.503348+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/spring-sale-2250-items-on-sale-now-in-the-marketplace/</id>
-    <title>Spring Sale: 2250+ Items On Sale Now in the Marketplace</title>
-    <updated>2024-03-29T17:01:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/spring-sale-2250-items-on-sale-now-in-the-marketplace/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/03/MSFS_SpringSale2024_v1_1920x1080-1024x576.jpg"/>
-    <summary>Enjoy discounted pricing during our Microsoft Flight Simulator Spring Sale!For 13 Days starting on March 29th, save up to 85% on more than 2250 items.To purchase these discounted items, visit the Microsoft Flight Simulator Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See All’ and look for the savings.</summary>
-    <published>2024-03-29T17:01:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-4th-2024-development-update/</id>
@@ -79,5 +70,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/MSFS_LL15_Do31_NoSnipe_NoLogo_NoText-1024x576.png"/>
     <summary>Microsoft Flight Simulator pilots can now fly one of aviation’s greatest icons of innovation.</summary>
     <published>2024-04-16T15:47:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-18th-2024-development-update/</id>
+    <title>April 18th, 2024 – Development Update</title>
+    <updated>2024-04-18T23:37:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-18th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/ZILLNIAZI17-Forums-1-1024x576.jpeg"/>
+    <summary>On Tuesday, we launched two new releases: City Update 06: Southwest Germany is a FREE download from the in-sim Marketplace that enhances the scenery in Germany’s Baden-Württemberg state, and Local Legend 15: Dornier Do 31.</summary>
+    <published>2024-04-18T23:37:19+00:00</published>
   </entry>
 </feed>
