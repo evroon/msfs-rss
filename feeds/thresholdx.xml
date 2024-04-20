@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-19T18:21:26.812349+00:00</updated>
+  <updated>2024-04-20T18:22:08.490703+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mscusg</id>
-    <title>Microsoft Releases City Update 6: Southwest Germany for MSFS</title>
-    <updated>2024-04-16T00:00:00+00:00</updated>
-    <link href="/news/mscusg"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661ea6533eae9f93110a1948_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Microsoft has recently released its latest city update, City Update 6: Southwest Germany. The new update includes seven cities, which are Mannheim, Heidelberg, Karlsruhe, Stuttgart, Esslingen, Kehl, and the French city of Strasbourg. Additionally, the update includes the German Friedrichshafen Airport. The cities have been highly improved with the use of high-resolution aerial imagery and high-fidelity TIN surface modeling. These cities are some of the most vibrant and architecturally rich cities in Europe, offering plenty of opportunities for exploration and sightseeing. Furthermore, the update includes the handcrafted Friedrichshafen Airport (EDNY) by iniBuilds. The airport is a minor international airport, serving around 340,000 passengers annually. The new city update is available for free on the in-Sim Marketplace. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xwidnd</id>
-    <title>XWind Studios Updates Dunedin Airport for MSFS</title>
-    <updated>2024-04-17T00:00:00+00:00</updated>
-    <link href="/news/xwidnd"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661fb0b9b739f7411a22c761_dunedin1.webp"/>
-    <summary>Sim: MSFS. XWind Studios recently issued a major update to their rendition of Dunedin Airport (NZDN) for Microsoft Flight Simulator, including improvements, bug fixes, further optimization, and more. Built in 1962 to replace a nearby airfield (Taieri Airfield) deemed not economically feasible to expand for the expected air travel demand, Dunedin was idealized for short-haul aircraft services. NZNAC was one of the first airlines to serve the airport with its fleet of Fokker Friendships and Vickers Viscounts.  The airport first underwent upgrades in the late 1960s and 1970s, with the inclusion of automatic sliding doors in 1969 and a toilet expansion in 1971. Three years later, it also got a new mezzanine floor and an aircraft viewing deck.  It was upgraded again in 1988 when the administration built airline lounges and airbridges to accommodate Ansett New Zealand's Boeing 737 operations (later replaced by BAe 146s). A runway extension followed soon after in 1993, bringing it to its current length of 1,900 meters. A new terminal building was inaugurated in October 2005, considerably increasing its passenger handling capabilities. It's served by Air New Zealand (Auckland, Christchurch, Wellington) and Jetstar (Auckland), averaging around 1 million passengers per year. Update 1.1 brings a vast list of changes to their rendition, including new hangars (entirely redone), a new ATC tower, LODs on terminal and hangars for extra performance, night lighting improvements, improved jetway docking, texture optimizations, and more. The complete changelog follows below: â âIt's available on the iniBuilds Store for roughly $7.67, requiring at least 4.05 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/osl184</id>
-    <title>Aerosoft's Oslo Gardermoen Official Trailer Now Live</title>
-    <updated>2024-04-17T00:00:00+00:00</updated>
-    <link href="/news/osl184"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661fba734e2df99324a4f5a4_2.webp"/>
-    <summary>Sim: MSFS. AviationLads has recently published the official trailer of Aerosoft's latest release, a rendition of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator, developed by Jo Erlend Sund. It's the busiest airport in Norway, with a yearly average of 30 million passengers. â It's the main airport serving Oslo. Located approximately 47 kilometers northeast of the city center, it opened in 1998 as a replacement for the outdated Fornebu Airport, which had been operating since 1939. It was built to modernize and expand Norway's airport infrastructure and improve accessibility to the capital city, quickly becoming the country's Main hub for domestic and international travel. The scenery is set to feature a highly accurate rendition of the airport, with custom ground textures, true-to-life landside recreation, custom jetways, animated passengers, detailed terminal interiors, and much more. It's releasing tomorrow (18/04), and the pricing is yet to be revealed.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xommdt</id>
     <title>Xometry Releases Harrisburg Airport for X-Plane 12</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6622b1cafd245fc3bbf93dc9_gru1.webp"/>
     <summary>Sim: MSFS. Vref Simulations has recently updated their rendition of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator, adding a new custom jetway model, new landside buildings, texture improvements, and more. Update 1.5, the first since its official release earlier this month, adds a new custom jetway model on Terminal 2, minor bug fixing, texture improvements, satellite imagery tweaks, landside tweaks, and new buildings. The changelog follows below: Changelog V1.5 The scenery is available onÂ SimMarketÂ for roughly $9.07, requiring at least 573.59 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-04-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/isisss</id>
+    <title>Imaginesim Releases Changi Airport V2 for MSFS</title>
+    <updated>2024-04-19T00:00:00+00:00</updated>
+    <link href="/news/isisss"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6622b74dc00f4c31e61a8cc0_wsss1.webp"/>
+    <summary>Sim: MSFS. Imaginesim has recently released the V2 of their Singapore Changi Airport (WSSS) for Microsoft Flight Simulator. The airport serves Singapore with a yearly average of 58.9 million passengers, making it one of the world's busiest.Â  It was inaugurated 42 years ago when the Singaporean government was forced to build a new airport toÂ cope with the region's ever-growing demand for air travel.Â  At first, their original plan was to expand Paya Lebar, the former main airport in Singapore, but the 1973 Oil crisis changed everything. By 1975, they had already decided to build a brand new airport at the eastern tip of the main island of Changi, at the Changi Air Base. After its first year of operation, the airport had already handled an average of 12.1 million passengers, which led to the construction of a second passenger terminal in the 1990s. Terminal 3 soon followed in 2008, and then Terminal 4 in 2017. Terminal 5, which isÂ planned to be larger than all four combined, is expected to open in 2030. â It's a hub for FedEx Express, Jetstar Asia, Scoot, and Singapore Airlines. AirAsia, Air Canada, Air China, Air France, Air India, Air New Zealand, All Nippon Airways, Cathay Pacific, China Southern Airlines, EVA Air, Garuda Indonesia, Hainan Airlines, IndiGo, KLM, Lufthansa, Qantas, Swiss, United Airlines, and Vietnam Airlines also serve it. The scenery features an accurate rendition of the airport, with high-definition textures, performance optimization, custom VDGS, custom animated jetways, 52 square kilometers of total coverage, Terminal 5's construction area, and more. â It's available on theirÂ websiteÂ for roughly $24.75. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fps190</id>
+    <title>Flight Procedures Simulation Releases Embraer 190 for X-Plane 12</title>
+    <updated>2024-04-20T00:00:00+00:00</updated>
+    <link href="/news/fps190"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6623ea31a986b8d315c1d170_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Flight Procedures Simulation (FPS) has recently released its Embraer 190 add-on for X-Plane 12. This is the next aircraft in line after the E195, which was released last summer. The developers behind the new Embraer 190 are the same as those who created the Supercritical Simulations Group (SSG), so this is not their first project for X-Plane. The Embraer 190 comes packed with a range of features. The Embraer E190 is a member of the Embraer E-Jet family. This Brazilian-made aircraft is a narrow-body airliner. The project was initially revealed by Embraer in 1997, but it was not officially unveiled until two years later. In 2002, the first E-Jet had its maiden flight, and the E190 model made its debut in 2004. The E-Jet family comprises of four commercial airliners, including the E170, E175, E190, and E195. To date, 568 E190s have been delivered, with the most prominent operators being JetBlue (48), AeromÃ©xico Connect (46), KLM Cityhopper (32), and Tianjin Airlines (31). Thanks to these operators, the E190 can be seen all over the world. The new Embraer 190 is packed with features, such as a highly accurate rendition of the E190, tons of animations, wing flex animation, custom lights, a detailed 3D cockpit, a custom FMS system, a custom flight model, custom sounds, an integrated tablet, and much more. The add-on is currently available on the X-Plane. Org Software Store for $69.00. However, there is a sale going on at the moment, and the price has been reduced to $55.00. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/chinok</id>
+    <title>Eagle Dynamics CH-47F Available for Pre-Order</title>
+    <updated>2024-04-20T00:00:00+00:00</updated>
+    <link href="/news/chinok"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6623ef561207dc1b6e4f21c6_Banner_Image.webp"/>
+    <summary>Sim: DCS. Eagle Dynamics has recently previewed its newest helicopter for DCS, the CH-47F Chinook. Nicknamed âThe Hookâ, it is one of the most famous military transport helicopters in the world. It has been and is being used by over 20 nations worldwide. The famous helicopter is now available for preorder. Engineered for exceptional stability and control, the CH-47Fâs tandem rotor configuration ensures agility and eases loading and unloading procedures. The design gives the CH-47F possibilities for operation in environments inaccessible to others. The absence of tail rotor interference permits rear ramp access on varied terrains, including unprepared or mountainous locations, capitalizing on its remarkable landing capability. Furthermore, the aircraft's design facilitates high-altitude flight up to 20.000 feet, surpassing other helicopters in its weight category. The CH-47F. currently on pre-order, will feature detailed external and internal modeling, cockpit and cargo hold, accurate flight model, and a fully interactive and VR-ready cockpit. No release date has been announced as of the publishing of the article. You can pre-order the Chinook on the ED store for $48.99. â Stay tuned for more flight sim news to Threshold!</summary>
+    <published>2024-04-20T00:00:00+00:00</published>
   </entry>
 </feed>
