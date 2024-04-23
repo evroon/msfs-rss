@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-22T18:21:02.510862+00:00</updated>
+  <updated>2024-04-23T18:22:04.822845+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/toliss</id>
-    <title>ToLiss Reveals New Aircraft</title>
-    <updated>2024-04-17T00:00:00+00:00</updated>
-    <link href="/news/toliss"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661fe9eb41ae95ceca417c9d_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. The X-Plane developer ToLiss, had recently announced that they were working on a new project. Although the project had been secret, the team has now shared which plane they are working on next. It was on Facebook that they disclosed that the new aircraft will be the A330. The Airbus A330 is one of the best-selling long-haul aircraft with over 1.600 built. This makes it the second most-produced wide-body aircraft after the B777. There are a multitude of variants of the plane, with the most popular ones being A330-300, A330-200, and A330-900neo. This will be ToLissâ second wide-body addon and fifth Airbus addon. Being known for having great systems and modeling, ToLiss is often known as one of the best addon developers of X-Plane. Although we know that the new project is about the A330, the specific variant, release date, and features are still unknown. â As always, Threshold will keep you updated on this project!</summary>
-    <published>2024-04-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hfstas</id>
     <title>HiFi Previews Active Sky FS for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662687f3664455587651f087_Banner_Image.webp"/>
     <summary>Sim: MSFS. MK Studios has updated their recently released LaGuardia Airport (KLGA) for Microsoft Flight Simulator. The new update brings various features and improvements making the scenery more realistic. The new update for LaGuardia, v1.0.1, includes various improvements, fixes, and enhancements. See the full changelog below: â Changelog v1.0.1: - VDGS textures improved, - PAPI light fixes, - TDZ lights added to RWY04, - GS double antennas fixed, - Jetway fixes, - Snowplows added, - Terminal fixes, - Improved stadium area, - Parkings added to AFCAD, - Some A parking removed from AFCAD, - Fixed AA Hangar LOD. The updated version of LaGuardia is available on Contrail for approximately $16.21 and requires a total storage space of 1.93GB. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftkbos</id>
+    <title>FlyTampa Updates Boston Airport for MSFS</title>
+    <updated>2024-04-23T00:00:00+00:00</updated>
+    <link href="/news/ftkbos"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6627a2d6d6116c4cc6818a07_Banner_Image.webp"/>
+    <summary>Sim: MSFS. FlyTampa has released an update for their version of Boston Logan International Airport (KBOS) for Microsoft Flight Simulator. The new update comes with various improvements and new features. The latest update, V1.7, for Boston Logan includes several bug fixes and enhancements. Below is the complete changelog: â Changelog V1.7: New Taxiway Layout at F, T, Q and N New Hilton Hotel Model Taxiway blue edge lights now flat models like realworld Fixed bad rendering on Lipstick Terminal E Improved LODs and Performance New night lighting on American Hangar to match real world Missing PAPI added to Runway 27 Red lights added to end of 22L Misc visual tweaks and improvements The newly updated version of Boston Logan International Airport is now available on Contrail for approximately $20.27 and requires a total storage space of 2.52GB. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-04-23T00:00:00+00:00</published>
   </entry>
 </feed>
