@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-23T18:22:04.822845+00:00</updated>
+  <updated>2024-04-24T18:21:27.203036+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/hfstas</id>
-    <title>HiFi Previews Active Sky FS for MSFS</title>
-    <updated>2024-04-17T00:00:00+00:00</updated>
-    <link href="/news/hfstas"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661fee9badd4be14e49699c6_Banner_Image.webp"/>
-    <summary>Sim: MSFS. HiFi Simulation Technologies has just announced a long-awaited product for Microsoft Flight Simulator, Active Sky FS. Active Sky FS will come with tons of features ranging from direct MSFS integration to enhanced cloudscapes and the famous Active Sky Weather Engine. ASFS will feature two weather depiction modes, passive and preset weather. Passive weather depiction uses MSFS live weather data, allowing MSFS to take full control of weather depiction. At the same time, ASFS provides active air effects and other features, such as mapping, planning, voice features, condition reports, companion app, and more. Passive depiction is recommended for VFR flying, as it provides better cloud variation. When it comes to preset weather depiction mode, it contains weather condition controls for the best accuracy. It allows for full use of Active Sky weather data features, including real-time, historical, and custom weather options. This mode is recommended for those desiring realism in flight simulators. Active air effects will enhance the simulator with lots of different features, including clear air turbulence, broken and overcast cloud layer turbulence, internal MSFS turbulence compatibility, updrafts, downdrafts, microbursts, thunderstorm effect, gusts, wind variation, gust-related turbulence, and many more. Although ASFS's pricing is not yet determined, it is currently in beta testing and has gotten the status of releasing soon. Support for FS2024 is also planned without an additional fee unless there will be any major re-designs. The release date is currently unknown, but Threshold will keep you updated as always! â</summary>
-    <published>2024-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkslga</id>
-    <title>MK Studios Releases LaGuardia Airport for MSFS</title>
-    <updated>2024-04-17T00:00:00+00:00</updated>
-    <link href="/news/mkslga"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/661ff9f36cc45f9f11d50d29_Banner_Image.webp"/>
-    <summary>Sim: MSFS. MK Studios has recently released LaGuardia Airport (KLGA) for Microsoft Flight Simulator, which has been highly anticipated by the community. Located just 8 miles away from Midtown Manhattan, LaGuardia is the third busiest airport in New York. In 2023, the airport managed an impressive 369,393 aircraft operations and served just over 32,370,000 passengers, making it the twentieth busiest airport in the United States. LaGuardia Airport was opened in 1939 and has undergone multiple name changes over the years. It started as Glenn H. Curtiss Airport, then became North Beach Airport, and was later renamed New York Municipal Airport-LaGuardia Field after being redesigned by the city of New York. In 1953, the airport was finally named LaGuardia Airport after Fiorello La Guardia, the former New York mayor. Over the years, the airport has seen many upgrades and improvements. In 2024, it won the Airport Service Quality Award and now serves a wide range of destinations with multiple airlines, including Delta, American, JetBlue, and more. The recently released version of LaGuardia Airport features a highly accurate rendition of LaGuardia KLGA, detailed terminal interiors, VDGS, handcrafted 3D models, custom satellite imagery, elevation data, realistic lighting, and more. The add-on requires a total of 1.93GB of storage space and is available on Contrail for roughly $16.17. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/asengm</id>
-    <title>Aerosoft Releases Oslo Gardermoen Airport for MSFS</title>
-    <updated>2024-04-18T00:00:00+00:00</updated>
-    <link href="/news/asengm"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662118fe5d6720eb95459cca_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Aerosoft has recently launched its version of Oslo Gardermoen Airport (ENGM) for Microsoft Flight Simulator. The airport serves the Norwegian capital of Oslo and is situated in the county of Akershus, approximately 47 kilometers from the city. As the biggest and busiest airport in Norway, it welcomes around 30 million passengers annually. Oslo Gardermoen Airport was inaugurated in 1998 as a replacement for the old Oslo Fornebu Airport. The airport's location had been debated since the 1960s and five sites were proposed, with HobÃ¸l initially being selected as the new main airport. However, the government was concerned that HobÃ¸l was too centrally located concerning growth around Oslo, so Gardermoen was chosen instead. Construction of the new airport began, and since its opening, it has grown continuously while replacing Fornebu. Today, Oslo Airport has over 160 destinations, and many airlines fly to and from the airport. Norwegian Air Shuttle, Scandinavian Airlines, WiderÃ¸e, and Norse Atlantic Airways are the four airlines with their hubs in Oslo, while KLM, Air France, Qatar, Emirates, and many others provide a range of destinations. The airport is a hub for both commercial and cargo operations, handling over 240.000 aircraft movements every year. Jo Erlend Sund developed the newly launched version of Oslo Gardermoen Airport, which includes many features such as a highly precise rendition of the airport, detailed models, high-resolution textures, an up-to-date layout, accurate terrain and runway profiles, a dynamic airport environment, custom aerial image, custom lighting, and more. The add-on requires 5GB of storage space and is available on Aerosoft for approximately $22.36. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hfasfs</id>
     <title>HiFi Releases Active Sky FS for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6627a2d6d6116c4cc6818a07_Banner_Image.webp"/>
     <summary>Sim: MSFS. FlyTampa has released an update for their version of Boston Logan International Airport (KBOS) for Microsoft Flight Simulator. The new update comes with various improvements and new features. The latest update, V1.7, for Boston Logan includes several bug fixes and enhancements. Below is the complete changelog: â Changelog V1.7: New Taxiway Layout at F, T, Q and N New Hilton Hotel Model Taxiway blue edge lights now flat models like realworld Fixed bad rendering on Lipstick Terminal E Improved LODs and Performance New night lighting on American Hangar to match real world Missing PAPI added to Runway 27 Red lights added to end of 22L Misc visual tweaks and improvements The newly updated version of Boston Logan International Airport is now available on Contrail for approximately $20.27 and requires a total storage space of 2.52GB. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rwpspr</id>
+    <title>RW Profiles Releases Springfield-Branson National Airport for MSFS</title>
+    <updated>2024-04-24T00:00:00+00:00</updated>
+    <link href="/news/rwpspr"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66291b0bd8da09705a0b3544_springers1.webp"/>
+    <summary>Sim: MSFS. RW Profiles has recently released their rendition of Springfield-Branson National Airport (KSGF) for Microsoft Flight Simulator, serving the cities of Springfield and Branson in Missouri with a yearly average of 1.3 million passengers as of 2023. It opened as Springfield-Greene County Airport in July 1945, replacing their former - much smaller - main airport.Â  American Airlines started scheduled service to the newly built airport in that same year, only pulling out in 1963. Chicago and Southern landed in 1948, and Ozark in 1951. Ozark was also responsible for the airportâs first scheduled jet service with their brand-new DC-9s in 1966.Â  The airportâs current name was adopted in 1992 as the administration attempted to capitalize on Bransonâs ever-growing tourist industry (even though itâs around 80 km away).Â  In May 2006, construction work started on a new terminal, inaugurated three years later, designed by Reynolds, Smith &amp; Hills.Â  Allegiant Air, American Eagle, Delta Air Lines, Delta Connection, United Express, DHL, FedEx Express, and UPS Airlines serve it. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, accurate night lighting, aÂ custom runway, highly detailed models, up-to-date airport layout, LOD optimization, and an official GSX profile. Itâs available on theÂ iniBuilds StoreÂ for roughly $16.24, requiring at least 2.35 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/eca777</id>
+    <title>Exclusive Closed Alpha and Public Beta Announced for FlightFactorâs 777v2 Release: Invitations Rolling Out </title>
+    <updated>2024-04-24T00:00:00+00:00</updated>
+    <link href="/news/eca777"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66292049518cd676100f1e79_ram1.webp"/>
+    <summary>Sim: X-Plane. FlightFactor has recently published a statement on their social network pages with their final decision on the release policy of their upcoming Boeing 777 v2 for X-Plane, including an exclusive non-public alpha program and a public beta later down the line. A previous statement made by Ramzzess on X-Plane.Org Forums stirred quite a bit of drama from the community as it mentioned their ponderation of a beta release without any vertical guidance at all, which led to a poll and their decision to feature a non-public alpha program first, where a select few would be chosen to purchase and test the product after signing a non-disclosure agreement.Â  Later, a public beta will roll out with all the major features (except CPDLC). Therefore, once that is out, the public beta testers will not have to experience the 777 without a working VNAV. Invitations for the closed alpha have been rolling out since yesterday (23/04). The purchased keys will be permanent and grant access to future updates. They also made sure to highlight that there are no applications for the closed alpha, and invitees will be chosen by themselves. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsb244</id>
+    <title>Brazil Land Games Previews BrasÃ­lia International Airport for MSFS</title>
+    <updated>2024-04-24T00:00:00+00:00</updated>
+    <link href="/news/bsb244"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662928fab802dffb292ad1cc_brazila1.webp"/>
+    <summary>Sim: MSFS. Brazil Land Games has shared more previews of their upcoming BrasÃ­lia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more. It was divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, terminal interiors, custom jetways with detailed interior, detailed landside, and more. Thereâs no release date yet, but itâs said to be coming soon. Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2024-04-24T00:00:00+00:00</published>
   </entry>
 </feed>
