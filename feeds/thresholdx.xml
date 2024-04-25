@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-24T18:21:27.203036+00:00</updated>
+  <updated>2024-04-25T18:22:46.206336+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/hfasfs</id>
-    <title>HiFi Releases Active Sky FS for MSFS</title>
-    <updated>2024-04-18T00:00:00+00:00</updated>
-    <link href="/news/hfasfs"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66214b88e66c718a4155a31b_Banner_Image.webp"/>
-    <summary>Sim: MSFS. HiFi has recently released Active Sky FS for Microsoft Flight Simulator, a highly anticipated product among flight simulation enthusiasts. This new add-on brings a variety of advanced weather features to MSFS, including the popular Active Sky Weather Engine, Enhanced Cloudscape, and Active Air Effects. Active Sky FS has direct integration with MSFS, which provides seamless integration for users. The add-on includes both passive and preset weather options. Passive mode uses MSFS live weather data, while preset weather uses Active Skyâs weather data, giving users the option to choose the mode that best suits their preferences. This feature-packed add-on offers many exciting features, such as direct MSFS integration, ASFS preset weather, ASFS passive weather, active air effects, historical weather, enhanced cloudscape, Active Sky weather engine, ground snow simulation, and much more. The add-on requires 1GB of storage space and is available on SimMarket for approximately $24.52. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/muc220</id>
-    <title>sim-wings Updates Munich International Airport for MSFS</title>
-    <updated>2024-04-18T00:00:00+00:00</updated>
-    <link href="/news/muc220"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66215fcb5b8a467dda458eac_mupdate1.webp"/>
-    <summary>Sim: MSFS. sim-wings recently updated its rendition of Munich International Airport (EDDM) for Microsoft Flight Simulator, addressing a wide list of bugs and making many enhancements, keeping the scenery up to date with its real-world counterpart. It serves Munich and Upper Bavaria with a yearly average of 47.9 million passengers.Â  It opened in 1992, replacing Munich-Riem Airport, which served Munich from 1939 to 1992. It was deemed hard to expand because of the growing number of inhabitants around its proximity, leading to the desire to move the airport to a completely different location. Construction work started in 1980 in the small village of Franzheim, whose 400 inhabitants were moved elsewhere. Operations began on 17 May 1992, with Riem closing the night before. â It's one of Lufthansa's main hubs, with a comprehensive route network. Condor, Eurowings, Eurowings Discover, and TUIfly Deutschland also base themselves at the airport. â Update 2.2.0 includes many corrected taxiway signs, removal of floating objects, Terminal 2 improvements (improved Lufthansa sign, for example), theÂ addition of a meteorology station near RWY 26L, jetway connection tweaks, and much more. The complete changelog follows below: â It's available on theÂ Aerosoft Store for roughly $24.99, requiring at least 4 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/josfra</id>
-    <title>Aerosoft Previews Frankfurt Airport for MSFS</title>
-    <updated>2024-04-19T00:00:00+00:00</updated>
-    <link href="/news/josfra"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662242952fac797feee444c5_jofra1.webp"/>
-    <summary>Sim: MSFS. AviationLads has put together a trailer showcasing Aerosoft's upcoming rendition of Frankfurt Airport (EDDF), the busiest airport in Germany, with a yearly average of 59.9 million passengers as of 2023. Developed by Jo Erlend Sund and his team, their Frankfurt rendition was announced during FSExpo 2023. Aerosoft has been updating us ever since with development progress reports on their official landing page for the scenery.Â  While there's no official feature list, the trailer showcases great attention to detail, with custom ground clutter, custom jetways, accurate taxiway markings, landside buildings, custom dynamic lighting, and more. The pricing and release date are still to be revealed, but Threshold will keep you informed on the matter! â</summary>
-    <published>2024-04-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tornad</id>
-    <title>Indiafoxtecho Releases Tornado for MSFS</title>
-    <updated>2024-04-19T00:00:00+00:00</updated>
-    <link href="/news/tornad"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66225c75e9679a26c0de91b5_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Indiafoxtecho has recently released its latest aircraft, the Tornado, for Microsoft Flight Simulator. This plane is a long-range, supersonic fighter-bomber, which made its first flight in 1974. Since then, it has been operated by numerous operators and is still in use by many today. The Tornado is a military aircraft manufactured by Panavia Aircraft GmbH. Its maiden flight took place in West Germany in 1974, where it was first used by the German Air Force. In total, the German Air Force received 247 Tornadoes, while the German Navy received 112. The aircraft has been operated by several countries, including the Italian Air Force, Royal Air Force, and Royal Saudi Air Force. Despite being an older model, the Tornado remains popular among aviation enthusiasts and is still used by some air forces today. The aircraft has been recently released and comes with a detailed visual model, multiple liveries, a realistic flight model, a detailed system simulation, a realistic sound package, and many more features. The add-on requires 2.23GB of storage space and is available on SimMarket for approximately $31.94. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ftlppt</id>
     <title>FeelThere Releases Lisbon Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662928fab802dffb292ad1cc_brazila1.webp"/>
     <summary>Sim: MSFS. Brazil Land Games has shared more previews of their upcoming BrasÃ­lia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more. It was divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, terminal interiors, custom jetways with detailed interior, detailed landside, and more. Thereâs no release date yet, but itâs said to be coming soon. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2024-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfr938</id>
+    <title>Just Flight Releases Piper PA-38 Tomahawk for MSFS</title>
+    <updated>2024-04-25T00:00:00+00:00</updated>
+    <link href="/news/jfr938"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a5c81faf849cd7243da28_tom1.webp"/>
+    <summary>Sim: MSFS. Just Flight recently released their rendition of the Piper PA-38 Tomahawk for Microsoft Flight Simulator. This two-seat fixed tricycle gear general aviation plane was designed for flight training, touring, and personal use. Introduced in 1978, the Tomahawk was designed from the get-go to be an affordable trainer aircraft with flight characteristics that would allow instructors to push the envelope a little further in comparison with the Cessna 152, which was the de facto trainer aircraft at the time: unlike its rival, the PA-38 would require specific pilot input to recover from spins. Nearly 2,500 units were produced during its relatively short production lifespan from 1978 to 1982.Â  Powered by a 112 hp Avco Lycoming O-235-L2C, the PA-38 can cruise at 185 km/h with a maximum range of 867 km and a service ceiling of 13,000ft.Â  Itâs still widely used for pilot training in many countries worldwide, reflected in the add-on with its considerable set of liveries. Other than the liveries, Just Flightâs rendition offers an accurately modeled rendition of the aircraft, with PBR materials, custom ground equipment, 8K textures, a truly tridimensional virtual cockpit, realistic wear and tear, an EFB for controlling various aircraft options, and more. The complete feature list follows below: â The add-on is available onÂ Just Flightâs websiteÂ for $41.99, requiring at least 1.6 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ssda50</id>
+    <title>Skyward Simulations Previews DA-50RG for MSFS</title>
+    <updated>2024-04-25T00:00:00+00:00</updated>
+    <link href="/news/ssda50"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a6da424e97843527b0932_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Skyward Simulations has recently previewed its first project for Microsoft Flight Simulator, the Diamond DA-50RG. The DA-50RG is a modern single-engined aircraft, powered by a 300HP turbodiesel engine. The sleek airframe is made of carbon fiber, which sets a new bar for aircraft construction. The aircraft can fly at 20,000 feet at a speed of 180 knots. Together with great fuel consumption, these features make the DA-50RG one of the best modern general aviation aircraft. According to Skyward, The DA-50RG will feature an accurate 3D model, true-to-life definition textures, Custom-coded systems, ground idle function simulation, accurate flight model, integrated WortkingTittle G1000NXI, hand-made liveries, and immersive custom sounds by Boris Audio Works.  The addon will cost around 16.12 USD, but as of the publishing of this article, the release date is yet to be announced. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-04-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2a150</id>
+    <title>A2A Simulations Updates Comanche 250 for MSFS</title>
+    <updated>2024-04-25T00:00:00+00:00</updated>
+    <link href="/news/a2a150"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a8a5b47035b5699933700_pa24.webp"/>
+    <summary>Sim: MSFS. A2A Simulations has recently updated their Accu-Sim Comanche 250 for Microsoft Flight Simulator, bringing small improvements to the PC version of the add-on. Update 1.5.0 fixes an SU15 beta issue that would happen on engine run-ups with brakes or chocks applied, improves battery performance at very cold temperatures, adds more telemetry variables for force feedback hardware, and more. The changelog follows below: The update will also be available in the marketplace at a later date. The add-on is available on theirÂ websiteÂ for $49.99, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/haliv2</id>
+    <title>FSimStudios Releases Halifax Stanfield International Airport V2 for MSFS</title>
+    <updated>2024-04-25T00:00:00+00:00</updated>
+    <link href="/news/haliv2"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a9519d18669c7d7ef9b2c_halifax1.webp"/>
+    <summary>Sim: MSFS. FSimStudios has recently released their upgraded rendition of Halifax Stanfield International Airport (CYHZ) for Microsoft Flight Simulator, serving the Halifax Regional Municipality with a yearly average of 3.6 million passengers as of 2023. â Construction started in 1955, and the airport was inaugurated five years later, costing the administration $18 million.Â  The first couple of years in operation were rather successful, leading to a complete renovation of the passenger terminal in 1966 and a 5,000-square-meter extension a decade later. By 1990, the airport was already averaging 2.5 million passengers a year. It was further renovated in the early 2000s, with slight expansions and improvements, which happened again between 2018 and 2019. Itâs a focus city for Air Canada and Porter Airlines and served by Air Saint-Pierre, Air Transat, American Airlines, American Eagle, BermudAir, Canada Jetlines, Condor, Delta Connection, Discover Airlines, Flair Airlines, Icelandair, Sunwing Airlines, United Express, and WestJet. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout (as of March 2024), significant performance improvements, an improved interior model, new ground poly, custom taxi signs, an improved terminal model, and more. â The V2 Update is available as a free upgrade for previous owners, and new owners can find it onÂ OrbxDirectÂ for roughly $19.19. It requires at least 5.64 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-25T00:00:00+00:00</published>
   </entry>
 </feed>
