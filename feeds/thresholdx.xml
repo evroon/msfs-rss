@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-04-30T18:25:32.244375+00:00</updated>
+  <updated>2024-05-01T18:23:23.069289+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fps190</id>
-    <title>Flight Procedures Simulation Releases Embraer 190 for X-Plane 12</title>
-    <updated>2024-04-20T00:00:00+00:00</updated>
-    <link href="/news/fps190"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6623ea31a986b8d315c1d170_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Flight Procedures Simulation (FPS) has recently released its Embraer 190 add-on for X-Plane 12. This is the next aircraft in line after the E195, which was released last summer. The developers behind the new Embraer 190 are the same as those who created the Supercritical Simulations Group (SSG), so this is not their first project for X-Plane. The Embraer 190 comes packed with a range of features. The Embraer E190 is a member of the Embraer E-Jet family. This Brazilian-made aircraft is a narrow-body airliner. The project was initially revealed by Embraer in 1997, but it was not officially unveiled until two years later. In 2002, the first E-Jet had its maiden flight, and the E190 model made its debut in 2004. The E-Jet family comprises of four commercial airliners, including the E170, E175, E190, and E195. To date, 568 E190s have been delivered, with the most prominent operators being JetBlue (48), AeromÃ©xico Connect (46), KLM Cityhopper (32), and Tianjin Airlines (31). Thanks to these operators, the E190 can be seen all over the world. The new Embraer 190 is packed with features, such as a highly accurate rendition of the E190, tons of animations, wing flex animation, custom lights, a detailed 3D cockpit, a custom FMS system, a custom flight model, custom sounds, an integrated tablet, and much more. The add-on is currently available on the X-Plane. Org Software Store for $69.00. However, there is a sale going on at the moment, and the price has been reduced to $55.00. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/chinok</id>
-    <title>Eagle Dynamics CH-47F Available for Pre-Order</title>
-    <updated>2024-04-20T00:00:00+00:00</updated>
-    <link href="/news/chinok"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6623ef561207dc1b6e4f21c6_Banner_Image.webp"/>
-    <summary>Sim: DCS. Eagle Dynamics has recently previewed its newest helicopter for DCS, the CH-47F Chinook. Nicknamed âThe Hookâ, it is one of the most famous military transport helicopters in the world. It has been and is being used by over 20 nations worldwide. The famous helicopter is now available for preorder. Engineered for exceptional stability and control, the CH-47Fâs tandem rotor configuration ensures agility and eases loading and unloading procedures. The design gives the CH-47F possibilities for operation in environments inaccessible to others. The absence of tail rotor interference permits rear ramp access on varied terrains, including unprepared or mountainous locations, capitalizing on its remarkable landing capability. Furthermore, the aircraft's design facilitates high-altitude flight up to 20.000 feet, surpassing other helicopters in its weight category. The CH-47F. currently on pre-order, will feature detailed external and internal modeling, cockpit and cargo hold, accurate flight model, and a fully interactive and VR-ready cockpit. No release date has been announced as of the publishing of the article. You can pre-order the Chinook on the ED store for $48.99. â Stay tuned for more flight sim news to Threshold!</summary>
-    <published>2024-04-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfpw38</id>
-    <title>Just Flight Previews PA-38</title>
-    <updated>2024-04-22T00:00:00+00:00</updated>
-    <link href="/news/jfpw38"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6624329a68bad3ce4dc08683_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Just Flight has previewed their upcoming aircraft for Microsoft Flight Simulator, the Piper PA-38 Tomahawk, on YouTube. After the PA-28R Arrow, Turbo Arrow III/IV, and PA-28 Warrior II for MSFS, another General Aviation classic is under development. Based on a real-life Tomahawk, G-BNKH, PA-38 will, as always, feature accurate systems, high-quality modeling and texturing, realistic wear and tear, a variety of customization options, and an immersive sound set recorded from the real aircraft.Â  This two-seater 112hp piston-engine aircraft with a fixed-pitch propeller is one of the most famous training aircraft. Used all around the globe, JF decided to reflect its popularity in the diversity of liveries available at release. Liveries from the UK, USA, Germany, France, Belgium, Australia, and Slovenia, and a custom livery supporting the MSFS tail number. As of the publishing of this article, the release date and price of Just Flight PA-38 Tomahawk are unknown, but Threshold will keep you updated as always!</summary>
-    <published>2024-04-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lga101</id>
     <title>MK Studios Updates LaGuardia Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663136e2e8954cc558351816_vatry1.webp"/>
     <summary>Sim: MSFS. Sky-Additions has recently released their rendition of Paris-Vatry Airport (LFOK) for Microsoft Flight Simulator. It serves the champagne region in Northeastern France and is close enough to Paris (135km) to be considered by Ryanair as one of the Parisian airports. As of 2018, the airport had a yearly average of 61,826 passengers. It was built as an air base in 1953, housing fifty fighters in three large hangars. When France withdrew from the integrated NATO structure in 1967, the Americans left the base, leading to its closure. The French Air Force then used it for training until the early 2000s, when it was sold to civil interests and converted into a civilian airport. Besides handling occasional passenger traffic, itâs also a training pilot site for many airlines, such as Air France, British Airways, Brussels Airlines, KLM, Transavia, Transavia France, and Swiss. Airbus has also used its relatively long runway for aircraft testing. Itâs served by Ryanair, with flights to Marrakech and Porto.Â  The scenery features an accurate rendition of the airport, with an up-to-date layout, a custom GSX profile, detailed environmental elements, realistic airport vehicles, custom ground markings, and more. â Itâs available onÂ SimMarketÂ for roughly $9.64, requiring at least 120.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vueiva</id>
+    <title>VueloSimple Releases Ivato International Airport for MSFS</title>
+    <updated>2024-04-30T00:00:00+00:00</updated>
+    <link href="/news/vueiva"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66313a8e0cc90a5e00caa2e2_ivato1.webp"/>
+    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Ivato International Airport (FMMI) for Microsoft Flight Simulator, serving Antananarivo, the capital of Madagascar, with a yearly average of 845,000 passengers. Since the 1960s, this civil and military airport has served as Antananarivo's main airport. It features two terminals, one for domestic operations and the other for international operations. It's the main hub for Air Madagascar, the nation's carrier, taking passengers to South Africa, France, China, and nearby French islands. Air Austral, Air France, Air Mauritius, Airlink, Corsair International, Ethiopian Airlines, Kenya Airways, Tsaradia, and Turkish Airlines also serve it. The scenery accurately depicts the airport, with a highly detailed main terminal and its interior, custom runway materials, accurate night lighting, LOD optimization for optimal performance, an up-to-date layout, and much more. It's available onÂ SimMarketÂ for roughly $13.92, requiring at least 301.76 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftsydx</id>
+    <title>FlyTampa Previews Sydney Airport for X-Plane 12</title>
+    <updated>2024-04-30T00:00:00+00:00</updated>
+    <link href="/news/ftsydx"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66314ed3b936dadb3d37e191_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FlyTampa has recently revealed its newest scenery, Sydney Airport for X-Plane 12. The team has shared screenshots on Facebook and a trailer on YouTube, and the scenery is expected to be released soon. The team has shared some of the features and previews of the upcoming Kingsford Smith Airport rendition for X-Plane 12. The airport has been fully customized with custom mesh, custom night lighting, SAM and LST integration, and an Ortho4XP patch. Additionally, there are many more features that have not yet been revealed. As the busiest airport in Australia, Kingsford Smith Airport is a highly anticipated addition to X-Plane 12. Although FlyTampa has not announced the pricing and release date, they have confirmed that the airport is coming soon. We will update you with more information as soon as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbxkm</id>
+    <title>Orbx Kola Map Previews and Features</title>
+    <updated>2024-05-01T00:00:00+00:00</updated>
+    <link href="/news/orbxkm"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66321d2ea471ee5009516050_Banner_Image.webp"/>
+    <summary>Sim: DCS. Threshold recently received exclusive screenshots of the upcoming Kola Map for DCS, and today, we have three more exclusives to share with you. The community has highly anticipated the new Kola Map, which will cover large parts of Norway, Sweden, Finland, and Russia. As of now, the project is listed as "coming soon," with the release of the early access version imminent. The Kola Map will first be available for early access and will be feature-packed with a multitude of airports. There will be two airports in Finland, five in Russia, two in Norway, and three in Sweden. Additionally, early access ensures a complete base terrain, highly detailed topography for the entire map, and lots of POIs, road and railroad networks, night lighting, and many landmarks to explore. Although early access will be available first, many future features have already been planned. Winter textures are scheduled to ensure the representation of the cold and harsh climate up North. A multitude of military airfields like Bardufoss and Kirkenes and a variety of civilian airports, including TromsÃ¸ and LuleÃ¥, are also planned. Also, general improvements to landscape features have been scheduled. The official store page for the Kola Map is now available on Orbx. Be sure to check it out for more information and screenshots. â We will update you with more information as soon as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-01T00:00:00+00:00</published>
   </entry>
 </feed>
