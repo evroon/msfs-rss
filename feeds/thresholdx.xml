@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-01T18:23:23.069289+00:00</updated>
+  <updated>2024-05-02T18:23:35.806743+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lga101</id>
-    <title>MK Studios Updates LaGuardia Airport for MSFS</title>
-    <updated>2024-04-22T00:00:00+00:00</updated>
-    <link href="/news/lga101"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662687f3664455587651f087_Banner_Image.webp"/>
-    <summary>Sim: MSFS. MK Studios has updated their recently released LaGuardia Airport (KLGA) for Microsoft Flight Simulator. The new update brings various features and improvements making the scenery more realistic. The new update for LaGuardia, v1.0.1, includes various improvements, fixes, and enhancements. See the full changelog below: â Changelog v1.0.1: - VDGS textures improved, - PAPI light fixes, - TDZ lights added to RWY04, - GS double antennas fixed, - Jetway fixes, - Snowplows added, - Terminal fixes, - Improved stadium area, - Parkings added to AFCAD, - Some A parking removed from AFCAD, - Fixed AA Hangar LOD. The updated version of LaGuardia is available on Contrail for approximately $16.21 and requires a total storage space of 1.93GB. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ftkbos</id>
-    <title>FlyTampa Updates Boston Airport for MSFS</title>
-    <updated>2024-04-23T00:00:00+00:00</updated>
-    <link href="/news/ftkbos"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6627a2d6d6116c4cc6818a07_Banner_Image.webp"/>
-    <summary>Sim: MSFS. FlyTampa has released an update for their version of Boston Logan International Airport (KBOS) for Microsoft Flight Simulator. The new update comes with various improvements and new features. The latest update, V1.7, for Boston Logan includes several bug fixes and enhancements. Below is the complete changelog: â Changelog V1.7: New Taxiway Layout at F, T, Q and N New Hilton Hotel Model Taxiway blue edge lights now flat models like realworld Fixed bad rendering on Lipstick Terminal E Improved LODs and Performance New night lighting on American Hangar to match real world Missing PAPI added to Runway 27 Red lights added to end of 22L Misc visual tweaks and improvements The newly updated version of Boston Logan International Airport is now available on Contrail for approximately $20.27 and requires a total storage space of 2.52GB. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rwpspr</id>
-    <title>RW Profiles Releases Springfield-Branson National Airport for MSFS</title>
-    <updated>2024-04-24T00:00:00+00:00</updated>
-    <link href="/news/rwpspr"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66291b0bd8da09705a0b3544_springers1.webp"/>
-    <summary>Sim: MSFS. RW Profiles has recently released their rendition of Springfield-Branson National Airport (KSGF) for Microsoft Flight Simulator, serving the cities of Springfield and Branson in Missouri with a yearly average of 1.3 million passengers as of 2023. It opened as Springfield-Greene County Airport in July 1945, replacing their former - much smaller - main airport.Â  American Airlines started scheduled service to the newly built airport in that same year, only pulling out in 1963. Chicago and Southern landed in 1948, and Ozark in 1951. Ozark was also responsible for the airportâs first scheduled jet service with their brand-new DC-9s in 1966.Â  The airportâs current name was adopted in 1992 as the administration attempted to capitalize on Bransonâs ever-growing tourist industry (even though itâs around 80 km away).Â  In May 2006, construction work started on a new terminal, inaugurated three years later, designed by Reynolds, Smith &amp; Hills.Â  Allegiant Air, American Eagle, Delta Air Lines, Delta Connection, United Express, DHL, FedEx Express, and UPS Airlines serve it. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, accurate night lighting, aÂ custom runway, highly detailed models, up-to-date airport layout, LOD optimization, and an official GSX profile. Itâs available on theÂ iniBuilds StoreÂ for roughly $16.24, requiring at least 2.35 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/eca777</id>
-    <title>Exclusive Closed Alpha and Public Beta Announced for FlightFactorâs 777v2 Release: Invitations Rolling Out </title>
-    <updated>2024-04-24T00:00:00+00:00</updated>
-    <link href="/news/eca777"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66292049518cd676100f1e79_ram1.webp"/>
-    <summary>Sim: X-Plane. FlightFactor has recently published a statement on their social network pages with their final decision on the release policy of their upcoming Boeing 777 v2 for X-Plane, including an exclusive non-public alpha program and a public beta later down the line. A previous statement made by Ramzzess on X-Plane.Org Forums stirred quite a bit of drama from the community as it mentioned their ponderation of a beta release without any vertical guidance at all, which led to a poll and their decision to feature a non-public alpha program first, where a select few would be chosen to purchase and test the product after signing a non-disclosure agreement.Â  Later, a public beta will roll out with all the major features (except CPDLC). Therefore, once that is out, the public beta testers will not have to experience the 777 without a working VNAV. Invitations for the closed alpha have been rolling out since yesterday (23/04). The purchased keys will be permanent and grant access to future updates. They also made sure to highlight that there are no applications for the closed alpha, and invitees will be chosen by themselves. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bsb244</id>
-    <title>Brazil Land Games Previews BrasÃ­lia International Airport for MSFS</title>
-    <updated>2024-04-24T00:00:00+00:00</updated>
-    <link href="/news/bsb244"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662928fab802dffb292ad1cc_brazila1.webp"/>
-    <summary>Sim: MSFS. Brazil Land Games has shared more previews of their upcoming BrasÃ­lia - President Juscelino Kubitschek International Airport (SBBR), the third busiest airport in Brazil with a yearly average of 13.5 million passengers. â The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. A proper terminal building was inaugurated in 1971, designed by TÃ©rcio Fontana Pacheco, a Brazilian Air Force architect. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more. It was divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The upcoming scenery is said to feature animated moving walkways, an up-to-date ground layout, terminal interiors, custom jetways with detailed interior, detailed landside, and more. Thereâs no release date yet, but itâs said to be coming soon. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2024-04-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfr938</id>
-    <title>Just Flight Releases Piper PA-38 Tomahawk for MSFS</title>
-    <updated>2024-04-25T00:00:00+00:00</updated>
-    <link href="/news/jfr938"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a5c81faf849cd7243da28_tom1.webp"/>
-    <summary>Sim: MSFS. Just Flight recently released their rendition of the Piper PA-38 Tomahawk for Microsoft Flight Simulator. This two-seat fixed tricycle gear general aviation plane was designed for flight training, touring, and personal use. Introduced in 1978, the Tomahawk was designed from the get-go to be an affordable trainer aircraft with flight characteristics that would allow instructors to push the envelope a little further in comparison with the Cessna 152, which was the de facto trainer aircraft at the time: unlike its rival, the PA-38 would require specific pilot input to recover from spins. Nearly 2,500 units were produced during its relatively short production lifespan from 1978 to 1982.Â  Powered by a 112 hp Avco Lycoming O-235-L2C, the PA-38 can cruise at 185 km/h with a maximum range of 867 km and a service ceiling of 13,000ft.Â  Itâs still widely used for pilot training in many countries worldwide, reflected in the add-on with its considerable set of liveries. Other than the liveries, Just Flightâs rendition offers an accurately modeled rendition of the aircraft, with PBR materials, custom ground equipment, 8K textures, a truly tridimensional virtual cockpit, realistic wear and tear, an EFB for controlling various aircraft options, and more. The complete feature list follows below: â The add-on is available onÂ Just Flightâs websiteÂ for $41.99, requiring at least 1.6 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ssda50</id>
     <title>Skyward Simulations Previews DA-50RG for MSFS</title>
@@ -151,5 +97,59 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66321d2ea471ee5009516050_Banner_Image.webp"/>
     <summary>Sim: DCS. Threshold recently received exclusive screenshots of the upcoming Kola Map for DCS, and today, we have three more exclusives to share with you. The community has highly anticipated the new Kola Map, which will cover large parts of Norway, Sweden, Finland, and Russia. As of now, the project is listed as "coming soon," with the release of the early access version imminent. The Kola Map will first be available for early access and will be feature-packed with a multitude of airports. There will be two airports in Finland, five in Russia, two in Norway, and three in Sweden. Additionally, early access ensures a complete base terrain, highly detailed topography for the entire map, and lots of POIs, road and railroad networks, night lighting, and many landmarks to explore. Although early access will be available first, many future features have already been planned. Winter textures are scheduled to ensure the representation of the cold and harsh climate up North. A multitude of military airfields like Bardufoss and Kirkenes and a variety of civilian airports, including TromsÃ¸ and LuleÃ¥, are also planned. Also, general improvements to landscape features have been scheduled. The official store page for the Kola Map is now available on Orbx. Be sure to check it out for more information and screenshots. â We will update you with more information as soon as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/thnlx</id>
+    <title>Threshold Newsletter going live</title>
+    <updated>2024-05-01T00:00:00+00:00</updated>
+    <link href="/news/thnlx"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663299e7db7880a89ef3635e_2023-06-04%2016_41_26-X-System.webp"/>
+    <summary>Sim: OTHER. The first-ever Threshold Newsletter is now live! Our new monthly newsletter is here to stay, and we'll provide you with a roundup of all the biggest flight simulation news, as well as the editorial of the month. You can find the April newsletter on our website and sign up now to receive future newsletters. 2024 has been an outstanding year for us at Threshold, as we have been committed to delivering the highest quality content to you. Our team has written a remarkable 223 news articles and 18 full-length articles, covering a diverse range of topics and providing valuable insights to our audience. We are proud to have achieved a new record this year, and we look forward to continuing to provide exceptional content to our readers in the future. â â The Newsletter will evolve over time and we encourage you to give us feedback in our Discord on how what you would like to see published. This is new to us too =) â The entire team at Threshold would like to express our gratitude to everyone who has joined us on our journey thus far. We hope that this newsletter will continue to help us grow and remain a go-to destination in our community. Thank you! â â â â â â â â</summary>
+    <published>2024-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mjcupd</id>
+    <title>Majestic Software Posts Development Update</title>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="/news/mjcupd"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633a13adbc1928e7050a1ab_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Majestic Software recently posted an update on their forum regarding the progress of their aircraft development for Microsoft Flight Simulator. According to the post, the team has completely reworked the EFIS screens and custom flight dynamic for MSFS. They are also adding a new EFB, which will be included in not only the MSFS version of the aircraft but also the current Prepar3D version. Majestic Software has announced its intention to bring both the Q400 and Q300 for MSFS, and the Q200 is also highly likely. However, the team hasn't shared a specific timeline for the project yet. They hope to complete the plane by 2025 if everything goes according to plan.Â  We will keep you updated when the team shares more information. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ahhawk</id>
+    <title>Aeroplane Heaven Releases Hawker Hurrican Mk.1 for MSFS</title>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="/news/ahhawk"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633a7639ed49c1fd0c01774_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Aeroplane Heaven has recently released its version of the Hawker Hurricane Mk.1 for Microsoft Flight Simulator, a British fighter aircraft that first flew in 1935. The single-seater plane was built by Hawker Aircraft Ltd. and was initially used by the Royal Air Force (RAF). The aircraft was introduced in 1937 and a total of 14.487 planes were built between 1937 and 1944. Although it initially flew for the RAF, it was also used by other countries such as Australia, Belgium, Greece, Poland, and more throughout its lifespan. The new add-on comes with a range of features, including high-fidelity models, detailed features, animations, accurate flight dynamics, a variety of liveries, and more. The add-on requires 2.81GB of storage space and is available on SimMarket for approximately $28.85. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xejets</id>
+    <title>X-Crafts Updates Free E-Jets for X-Plane 12</title>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="/news/xejets"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633b28dcd8ab9aec417e180_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. X-Crafts have released an update for their freeware E-Jets, bringing the plane to version V3.0. This new version is compatible with X-Plane 12 and comes with many improvements and new features. The previous version (V2.5) remains compatible with X-Plane 11. The Embraer E-Jet family consists of a multitude of Brazilian-made narrow-body airliners. The project was initially revealed by Embraer in 1997, but it was not officially unveiled until two years later. In 2002, the first E-Jet had its maiden flight. The E-Jet family comprises of four commercial airliners, including the E170, E175, E190, and E195. The free E-Jets series by X-Crafts includes both the E175 and the E195 models. The new X-Plane 12 version of the E-Jets comes with a range of new features, such as an enhanced flight model, improved modeling, updated lights, cockpit fixes, and more. The new version is now available for download on the X-Crafts website. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inprmm</id>
+    <title>iniBuilds Previews Freeware Milwaukee Mitchell International Airport for MSFS</title>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="/news/inprmm"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633b8599606ada829410cf4_Banner_Image.webp"/>
+    <summary>Sim: MSFS. iniBuilds has provided a sneak peek of its latest scenery for Microsoft Flight Simulator. The airport in question is Milwaukee Mitchell International Airport (KMKE), which will be released for free to the community. As the busiest airport in Wisconsin, KMKE boasts over 160 destinations to explore from the airport. The freeware package will include a multitude of features such as hand-made ground textures, custom ground decals, vegetation, dynamic lighting, highly detailed models, an up-to-date airport layout, a GSX profile, and much more. The developer has announced that the update will be available tomorrow, and the store page is now live on the iniBuilds Store.Â  â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777bpr</id>
+    <title>FightFactor Releases Beta Pre-Release Version of 777v2 for Invited Members</title>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="/news/777bpr"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633bf3190d08942b64aadcf_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FlightFactor has just released a beta pre-release version of their 777v2 airplane for X-Plane 11 and X-Plane 12. This version is only available to invited members, who are not allowed to post any information or screenshots outside a dedicated forum. While the store page for the airplane is up, the official price for the airplane has not yet been revealed, and the $9.999 price tag currently shown is not the normal price. The store page offers a detailed description of the aircraft, along with plenty of screenshots. The 777v2 boasts a range of features, including an accurate flight model, 3D modeling, accurately simulated systems, ground services, custom sounds, failure model, EFB, and much more. FlightFactor has not yet announced when the 777v2 will be available to the public, nor what the price will be, so stay tuned for updates on that front. In the meantime, you can check out the current store page over at the X-Plane.Org Software Store. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-02T00:00:00+00:00</published>
   </entry>
 </feed>
