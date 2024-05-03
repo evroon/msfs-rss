@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-05-02T18:23:34.113970+00:00</updated>
+  <updated>2024-05-03T18:22:38.964582+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,17 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-11th-2024-development-update/</id>
-    <title>April 11th, 2024 – Development Update</title>
-    <updated>2024-04-11T23:15:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-11th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/@CpuGeta486-Twitter-1-1024x576.jpeg"/>
-    <summary>This week, we’re pleased to share an updated Development Roadmap which you can find below. A few highlights include: 
-– City Update 06: Southwest Germany and Local Legend 15: Dornier Do 31 are both releasing next week on April 17! 
-– Sim Update 15 and the Airbus A320neo (V2) are tentatively targeted for a full release on April 30.</summary>
-    <published>2024-04-11T23:15:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/city-update-vi-southwest-germany/</id>
@@ -79,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/Parorng-Forums-1024x558.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday, our panel of Jorg, Seb, and Martial plus special guests from Working Title and iniBuilds appeared on our latest Developer Livestream. If you missed catching it live … Continued</summary>
     <published>2024-04-25T22:52:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-2nd-2024-development-update/</id>
+    <title>May 2nd, 2024 – Development Update</title>
+    <updated>2024-05-02T22:59:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-2nd-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/@BasedRaccoon-Twitter-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter user @BasedRaccoon! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Public beta testing for the upcoming Sim Update 15 continues with two new builds released to opt-in community testers this week. On Monday, we released test build 1.37.15.0, … Continued</summary>
+    <published>2024-05-02T22:59:36+00:00</published>
   </entry>
 </feed>
