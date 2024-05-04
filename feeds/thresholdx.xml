@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-03T18:22:40.546272+00:00</updated>
+  <updated>2024-05-04T18:22:17.961197+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/haliv2</id>
-    <title>FSimStudios Releases Halifax Stanfield International Airport V2 for MSFS</title>
-    <updated>2024-04-25T00:00:00+00:00</updated>
-    <link href="/news/haliv2"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662a9519d18669c7d7ef9b2c_halifax1.webp"/>
-    <summary>Sim: MSFS. FSimStudios has recently released their upgraded rendition of Halifax Stanfield International Airport (CYHZ) for Microsoft Flight Simulator, serving the Halifax Regional Municipality with a yearly average of 3.6 million passengers as of 2023. â Construction started in 1955, and the airport was inaugurated five years later, costing the administration $18 million.Â  The first couple of years in operation were rather successful, leading to a complete renovation of the passenger terminal in 1966 and a 5,000-square-meter extension a decade later. By 1990, the airport was already averaging 2.5 million passengers a year. It was further renovated in the early 2000s, with slight expansions and improvements, which happened again between 2018 and 2019. Itâs a focus city for Air Canada and Porter Airlines and served by Air Saint-Pierre, Air Transat, American Airlines, American Eagle, BermudAir, Canada Jetlines, Condor, Delta Connection, Discover Airlines, Flair Airlines, Icelandair, Sunwing Airlines, United Express, and WestJet. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout (as of March 2024), significant performance improvements, an improved interior model, new ground poly, custom taxi signs, an improved terminal model, and more. â The V2 Update is available as a free upgrade for previous owners, and new owners can find it onÂ OrbxDirectÂ for roughly $19.19. It requires at least 5.64 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tekola</id>
-    <title>Threshold Exclusive: Orbx Kola Map Previews</title>
-    <updated>2024-04-26T00:00:00+00:00</updated>
-    <link href="/news/tekola"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662b9980524bd60b8b0c37c3_Banner_Image.webp"/>
-    <summary>Sim: DCS. Threshold has received exclusive screenshots for the upcoming major release of Orbx's Kola map for DCS. The release has been teased on their YouTube channel, and now Threshold is the first to share these exciting images. The Kola map is a geographical representation that spans over 550,000 km2 of land across northern Scandinavia and northwestern Russia. It also includes large sections of the Norwegian Sea and Barents Sea for naval operations. Upon release, this map will showcase various airbases such as BodÃ¸, Bardufoss, Evenes, Rovaniemi, LuleÃ¥, Vidsel, Monchegorsk, Olenya, Severomorsk-1 and -3, and many more. Additionally, the map will feature test ranges, naval bases, radar sites, storage sites as well as a complete network of railroads and roads. The Kola map will feature various civilian points of interest, such as key buildings, bridges, hydro dams, power plants, port facilities, and vertical obstructions. The region's beautiful coastline will be enhanced by dramatic fjords, glaciers, and numerous islands. The taiga forests dotted with lakes and the arctic tundra will add to the natural beauty of this area. There will be both Summer and Winter versions of the Kola map available. Orbx collaborated with experienced DCS campaign creators Baltic Dragon and Reflected Simulations to create engaging campaigns featuring F/A-18C and F-16C at launch. The map's release is imminent, so if you want to be the first to know when it is available, register your details at Orbx's website. Currently, there is no confirmed release date, but the trailer has a hidden Morse code message that says "Coming Soon." â The next previews will show more terrain, so remember to stay tuned to Threshold!</summary>
-    <published>2024-04-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/brnwax</id>
     <title>Boundless Releases North Weald Airfield for XP11 and XP12</title>
@@ -150,6 +132,24 @@
     <link href="/news/okolar"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66352677036edef647f49316_Banner_Image.webp"/>
     <summary>Sim: DCS. Orbx has released the highly anticipated Kola map as an early access add-on for DCS. The map contains a multitude of airports, including two in Finland, five in Russia, two in Norway, and three in Sweden. In addition to the airports, the early access version provides a complete base terrain, detailed topography, and many landmarks, POIs, and road and railroad networks to explore. The early access version of the flight simulation game includes numerous features already, and further updates are expected to provide winter textures, more military airfields, and additional civilian airports. Currently, the team is working on developing military airfields such as Bardufoss and Kirkenes, as well as civilian airports like TromsÃ¸ and LuleÃ¥. The Kola map also includes large parts of Norway, Sweden, Finland, and Russia, as well as large parts of the Barents Sea and Norwegian. The add-on is available on Orbx for approximately $55.99 during early access and will increase to $69.99 once the product is fully released. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42sfx</id>
+    <title>Parallel 42 Releases SimFX for MSFS</title>
+    <updated>2024-05-03T00:00:00+00:00</updated>
+    <link href="/news/p42sfx"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66352e9941336be14421eb6a_2.webp"/>
+    <summary>Sim: MSFS. Parallel 42 has recently released its latest add-on, SimFX, for Microsoft Flight Simulator. SimFX is a visual effects utility that adds a range of immersive features and effects to the simulator. The add-on is compatible with a variety of aircraft and other add-ons, and a compatibility page shows what is compatible and what is not. SimFX comes with a wide range of features, including contrails, engine heat blur, APU heat blur, engine blast, wing wash, rotor wash, thrust reverser effects, engine pollution, touchdown smokes, wave effects, dirt effects, rain effects, auroras, and much more. The website also offers a live aurora tracker to see when and where you can experience the aurora in the simulator. The add-on is now available at the Parallel 42 Store for $25.00. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/stebac</id>
+    <title>Stellar Simulations Releases Bacolod-Silay Airport for MSFS</title>
+    <updated>2024-05-03T00:00:00+00:00</updated>
+    <link href="/news/stebac"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663556114517c0a446b242b9_bacolod1.webp"/>
+    <summary>Sim: MSFS. Stellar Simulations has recently released their rendition of Bacolod-Silay Airport (RPVB) for Microsoft Flight Simulator, serving the Bacolod Metropolitan Area with a yearly average of 1.3 million passengers as of 2022. The airportâs site was initially used as an airfield during World War 2 but was abandoned immediately after. Parts of the airfield became a sugarcane plantation. In 1997, a Japan International Cooperation Agency (JICA) study indicated the need for expansion at four Philippine airports, and Bacolod City Domestic Airport was one of them. It was relatively small for the traffic it was getting, and expansion was impossible, which led to the construction of a brand-new airport. Construction started in 2004, with a 900-day deadline to complete it. During the digging work, the remains of the former WW2 airfield and aircraft wrecks were found. The airportâs construction was considered complete by mid-2007, but there was debate at the time due to a pending runway extension that wasnât complete yet. Commercial operations started in January 2008, replacing the old Bacolod City Domestic Airport.Â  Cebgo, Cebu Pacific, PAL Express, and Philippines AirAsia serve it. â The scenery features an accurate rendition of the airport, with custom ground textures, a custom terminal interior, landside buildings, an up-to-date ground layout, custom ground clutter, and more. â Itâs available onÂ SimMarketÂ for roughly $10.69, requiring at least 360.74 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-03T00:00:00+00:00</published>
   </entry>
 </feed>
