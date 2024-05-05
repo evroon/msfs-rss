@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-04T18:22:17.961197+00:00</updated>
+  <updated>2024-05-05T18:21:43.260804+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/brnwax</id>
-    <title>Boundless Releases North Weald Airfield for XP11 and XP12</title>
-    <updated>2024-04-26T00:00:00+00:00</updated>
-    <link href="/news/brnwax"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/662bb63635fa337836882bbc_11.webp"/>
-    <summary>Sim: X-Plane. Boundless has released their rendition of North Weald Airfield for X-Plane 11 and 12, a small General Aviation airfield in Essex, UK. Opened in 1916 as Royal Flying Corps Station North Weald Bassett Aerodrome by the Royal Flying Corps (predecessor to the Royal Air Force), and in 1918 it became a Royal Air Force airport. This airfield played an important role in defending British skies during WWII. Hawker Hurricanes stationed in North Weald Airfield saw action in Dunkirk and the Battle of Britain. Later on in the war, Norwegian squadrons were reassigned to this airfield. Between the 1940s and 60s, this aerodrome was used for RAF glider training. The last combat unit left North Weald in 1958, while the RAF completely withdrew in 1964, and since then this aerodrome has been classified as civilian. Today, North Weald sees over 40,000 movements on average per year and is home to a collection of vintage and veteran aircraft such as the P-51 Mustang, Hawker Hurricane, Supermarine Spitfire, Douglas Dakota, Curtiss Kittyhawk, as well as early jet aircraft such as Hawker Hunter, de Havilland Venom, de Havilland Vampire, Folland Gnat and BAC Jet Provost. North Weald Airfield will feature up-to-date orthophotos, 4K PBR airport buildings, 3D Forrest (XP12 only), 3D vegetation, 3D volumetric grass, Custom night lighting, realistic HD static aircraft, accurate ground markings including cracks and wear &amp; tear, dynamic weather effects (XP12 only) and accurate airport layout based on latest charts. You can buy this scenery on the Boundless store for $13.75 USD. It requires around 970MB when installed. â Stay tuned to Threshold for more flight sim news!</summary>
-    <published>2024-04-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/g15mya</id>
     <title>GATE15Scenery Releases Miyako Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663556114517c0a446b242b9_bacolod1.webp"/>
     <summary>Sim: MSFS. Stellar Simulations has recently released their rendition of Bacolod-Silay Airport (RPVB) for Microsoft Flight Simulator, serving the Bacolod Metropolitan Area with a yearly average of 1.3 million passengers as of 2022. The airportâs site was initially used as an airfield during World War 2 but was abandoned immediately after. Parts of the airfield became a sugarcane plantation. In 1997, a Japan International Cooperation Agency (JICA) study indicated the need for expansion at four Philippine airports, and Bacolod City Domestic Airport was one of them. It was relatively small for the traffic it was getting, and expansion was impossible, which led to the construction of a brand-new airport. Construction started in 2004, with a 900-day deadline to complete it. During the digging work, the remains of the former WW2 airfield and aircraft wrecks were found. The airportâs construction was considered complete by mid-2007, but there was debate at the time due to a pending runway extension that wasnât complete yet. Commercial operations started in January 2008, replacing the old Bacolod City Domestic Airport.Â  Cebgo, Cebu Pacific, PAL Express, and Philippines AirAsia serve it. â The scenery features an accurate rendition of the airport, with custom ground textures, a custom terminal interior, landside buildings, an up-to-date ground layout, custom ground clutter, and more. â Itâs available onÂ SimMarketÂ for roughly $10.69, requiring at least 360.74 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsmpet</id>
+    <title>Verticalsim Releases St. Pete-Clearwater International Airport for MSFS</title>
+    <updated>2024-05-04T00:00:00+00:00</updated>
+    <link href="/news/vsmpet"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663699602c7a5f3bd8629a57_pete1.webp"/>
+    <summary>Sim: MSFS. Verticalsim has recently released their rendition of St. Pete-Clearwater International Airport (KPIE) for Microsoft Flight Simulator, serving the Tampa Bay Area with a yearly average of 2.5 million passengers as of 2023. Construction started in 1941 and was acquired shortly after by the United States Army Air Forces to be used as a training base. It was returned to the County after the end of WW2, renamed Pinellas International Airport. Its current name only came to be in 1958 because Pinellas County was not a very attractive name from a tourist standpoint, according to the airport manager (people didnât know where it was). The administration spent $22 million on heavy renovation work in 2009, which included larger gates, jetways, new plumbing, and overall modernization. â Itâs an operating base for Allegiant Air, which flies to a wide range of destinations. Sun Country, Minneapolisâ local airline, also flies to St. Pete seasonally. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, LODs for optimization, a simple terminal for optimal performance, custom static models, custom taxiway signage, high-resolution PBR texturing, custom aerial imagery, an official GSX profile, and more. Itâs available onÂ ContrailÂ for roughly $16.99, requiring at least 1.76 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-05-04T00:00:00+00:00</published>
   </entry>
 </feed>
