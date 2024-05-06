@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-05T18:21:43.260804+00:00</updated>
+  <updated>2024-05-06T18:25:56.028272+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/g15mya</id>
-    <title>GATE15Scenery Releases Miyako Airport for MSFS</title>
-    <updated>2024-04-30T00:00:00+00:00</updated>
-    <link href="/news/g15mya"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663133f74227e68d0af480a9_miyako1.webp"/>
-    <summary>Sim: MSFS. GATE15Scenery has recently released its rendition of Miyako Airport (ROMY) for Microsoft Flight Simulator. The airport serves Miyakojima, Okinawa Prefecture, and has a yearly average of 1.3 million passengers. It opened in 1943 as an Imperial Japanese Navy airbase, and civilian operations only took place for the first time in 1956. The airport sports a single terminal building with five gates and three extra stands for mid-sized aircraft. All Nippon Airways, ANA Wings, Japan Airlines, Japan Transocean Air, and Ryukyu Air Commuter serve it. The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, a basic interior model, and more. Itâs available onÂ SimMarketÂ for roughly $16.01, requiring at least 391.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2024-04-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/skyvat</id>
-    <title>Sky-Additions Releases Paris-Vatry Airport for MSFS</title>
-    <updated>2024-04-30T00:00:00+00:00</updated>
-    <link href="/news/skyvat"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663136e2e8954cc558351816_vatry1.webp"/>
-    <summary>Sim: MSFS. Sky-Additions has recently released their rendition of Paris-Vatry Airport (LFOK) for Microsoft Flight Simulator. It serves the champagne region in Northeastern France and is close enough to Paris (135km) to be considered by Ryanair as one of the Parisian airports. As of 2018, the airport had a yearly average of 61,826 passengers. It was built as an air base in 1953, housing fifty fighters in three large hangars. When France withdrew from the integrated NATO structure in 1967, the Americans left the base, leading to its closure. The French Air Force then used it for training until the early 2000s, when it was sold to civil interests and converted into a civilian airport. Besides handling occasional passenger traffic, itâs also a training pilot site for many airlines, such as Air France, British Airways, Brussels Airlines, KLM, Transavia, Transavia France, and Swiss. Airbus has also used its relatively long runway for aircraft testing. Itâs served by Ryanair, with flights to Marrakech and Porto.Â  The scenery features an accurate rendition of the airport, with an up-to-date layout, a custom GSX profile, detailed environmental elements, realistic airport vehicles, custom ground markings, and more. â Itâs available onÂ SimMarketÂ for roughly $9.64, requiring at least 120.97 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vueiva</id>
     <title>VueloSimple Releases Ivato International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663699602c7a5f3bd8629a57_pete1.webp"/>
     <summary>Sim: MSFS. Verticalsim has recently released their rendition of St. Pete-Clearwater International Airport (KPIE) for Microsoft Flight Simulator, serving the Tampa Bay Area with a yearly average of 2.5 million passengers as of 2023. Construction started in 1941 and was acquired shortly after by the United States Army Air Forces to be used as a training base. It was returned to the County after the end of WW2, renamed Pinellas International Airport. Its current name only came to be in 1958 because Pinellas County was not a very attractive name from a tourist standpoint, according to the airport manager (people didnât know where it was). The administration spent $22 million on heavy renovation work in 2009, which included larger gates, jetways, new plumbing, and overall modernization. â Itâs an operating base for Allegiant Air, which flies to a wide range of destinations. Sun Country, Minneapolisâ local airline, also flies to St. Pete seasonally. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, LODs for optimization, a simple terminal for optimal performance, custom static models, custom taxiway signage, high-resolution PBR texturing, custom aerial imagery, an official GSX profile, and more. Itâs available onÂ ContrailÂ for roughly $16.99, requiring at least 1.76 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pc6tp12</id>
+    <title>Thranda Releases PC-6 Turbo Porter for X-Plane 12</title>
+    <updated>2024-05-06T00:00:00+00:00</updated>
+    <link href="/news/pc6tp12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6638e7992dbb7609a6801316_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Thranda has just released their rendition of the Pilatus PC-6 Turbo Porter for X-Plane 12. Thanks to its superb STOL performance, and easy-to-maintain design, it is used all around the globe to deliver goods where regular aircraft cannot fly. With its first flight in 1959, the PC-6 Porter was produced at Pilatus Flugzeugwerke in Switzerland. It has been built in both a piston engine version and a turboprop-powered version and was also produced under license by Fairchild Hiller in the USA. After 604 planes were built, during a span of 63 years, Pilatus ended its production in 2022. â Powered by a Pratt &amp; Whitney Canada PT6A-27 turboprop 550 hp engine, the Turbo Porter can cruise at an altitude up to 26.800 feet, with a maximum speed of 125 knots. This gives the plane a range of 1,612 km (870 nm) or 730 km (390 nm) with maximum payload. Due to its amazing STOL capability, the Pilatus PC-6 can take from a runway as short as 195 meters (640ft) and land within a distance of 130 meters (427ft). Thanks to its performance, it holds the record for the highest landing by a fixed-wing aircraft, at 18.865 feet (5,750 m), on the Dhaulagiri glacier in Nepal. â The Thranda PC-6 is a part of the DGS - Dynamic Generation Series, which takes full advantage of X-Planeâs flexibility and in-sim modifications. Some of the included features are: customizing a livery in-sim, changing instrument layouts with different panel configs, switching between different airframe configurations, high-fidelity and precise flight dynamics, and much more. Some of the notable features available in the XP12 version are:Â  The EFB has loads of apps, such as the Aircraft Options App, Weight and Balance app, Instrument Options app, Dynamic Panel app, Static Livery app, DynaFeel app, Log Book app, Checklist app, Ground handling app, Dynamic Livery app, Flight Computer app, and more. Thranda Pilatus PC-6 Turbo Porter is available for purchase on the X-Plane.org store for 44.95$, requiring at least 4.1GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ssrda5</id>
+    <title>Skyward Simulations Releases DA-50RG for MSFS</title>
+    <updated>2024-05-06T00:00:00+00:00</updated>
+    <link href="/news/ssrda5"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66390d796daaee72c63eda15_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Skyward Simulations has just released their rendition of the Diamond DA-50RG for Microsoft Flight Simulator. The DA-50RG is a single-engine aircraft made out of a carbon fiber airframe, mostly used for general aviation and training purposes. Introduced in 2007, it was designed to replace the aging single-engine DA-40. After the Economic Recession in 2009, the DA-50 project was put on hold, and by 2019, no model other than a prototype was made. In 2020, a new version with a Continental CD-300 engine and retractable gear was announced. Later on, it became known as the DA-50RG. With a service ceiling of 20,000ft and a maximum speed of 191 knots, the Diamond DA-50 has a range of 750 nm (1389 km). Skyward Simulations DA-50RG comes with an accurate 3D model, True-to-life definition textures, Custom-coded systems, including ECU &amp; TKS, Ground Idle function simulated, Accurate flight model, Working Title Garmin G1000NXI integration, Included handpainted liveries, and immersive custom sounds by Boris Audio Works. This addon is available for purchase on the Orbx store for roughly $16.39 USD and will require at least 2.08GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-05-06T00:00:00+00:00</published>
   </entry>
 </feed>
