@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-07T18:23:51.902427+00:00</updated>
+  <updated>2024-05-08T18:24:10.598968+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vueiva</id>
-    <title>VueloSimple Releases Ivato International Airport for MSFS</title>
-    <updated>2024-04-30T00:00:00+00:00</updated>
-    <link href="/news/vueiva"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66313a8e0cc90a5e00caa2e2_ivato1.webp"/>
-    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Ivato International Airport (FMMI) for Microsoft Flight Simulator, serving Antananarivo, the capital of Madagascar, with a yearly average of 845,000 passengers. Since the 1960s, this civil and military airport has served as Antananarivo's main airport. It features two terminals, one for domestic operations and the other for international operations. It's the main hub for Air Madagascar, the nation's carrier, taking passengers to South Africa, France, China, and nearby French islands. Air Austral, Air France, Air Mauritius, Airlink, Corsair International, Ethiopian Airlines, Kenya Airways, Tsaradia, and Turkish Airlines also serve it. The scenery accurately depicts the airport, with a highly detailed main terminal and its interior, custom runway materials, accurate night lighting, LOD optimization for optimal performance, an up-to-date layout, and much more. It's available onÂ SimMarketÂ for roughly $13.92, requiring at least 301.76 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-04-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ftsydx</id>
-    <title>FlyTampa Previews Sydney Airport for X-Plane 12</title>
-    <updated>2024-04-30T00:00:00+00:00</updated>
-    <link href="/news/ftsydx"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66314ed3b936dadb3d37e191_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. FlyTampa has recently revealed its newest scenery, Sydney Airport for X-Plane 12. The team has shared screenshots on Facebook and a trailer on YouTube, and the scenery is expected to be released soon. The team has shared some of the features and previews of the upcoming Kingsford Smith Airport rendition for X-Plane 12. The airport has been fully customized with custom mesh, custom night lighting, SAM and LST integration, and an Ortho4XP patch. Additionally, there are many more features that have not yet been revealed. As the busiest airport in Australia, Kingsford Smith Airport is a highly anticipated addition to X-Plane 12. Although FlyTampa has not announced the pricing and release date, they have confirmed that the airport is coming soon. We will update you with more information as soon as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-04-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbxkm</id>
     <title>Orbx Kola Map Previews and Features</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66390d796daaee72c63eda15_Banner_Image.webp"/>
     <summary>Sim: MSFS. Skyward Simulations has just released their rendition of the Diamond DA-50RG for Microsoft Flight Simulator. The DA-50RG is a single-engine aircraft made out of a carbon fiber airframe, mostly used for general aviation and training purposes. Introduced in 2007, it was designed to replace the aging single-engine DA-40. After the Economic Recession in 2009, the DA-50 project was put on hold, and by 2019, no model other than a prototype was made. In 2020, a new version with a Continental CD-300 engine and retractable gear was announced. Later on, it became known as the DA-50RG. With a service ceiling of 20,000ft and a maximum speed of 191 knots, the Diamond DA-50 has a range of 750 nm (1389 km). Skyward Simulations DA-50RG comes with an accurate 3D model, True-to-life definition textures, Custom-coded systems, including ECU &amp; TKS, Ground Idle function simulated, Accurate flight model, Working Title Garmin G1000NXI integration, Included handpainted liveries, and immersive custom sounds by Boris Audio Works. This addon is available for purchase on the Orbx store for roughly $16.39 USD and will require at least 2.08GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fokker</id>
+    <title>Just Flight Publishes Fokker 70/100 Development Update</title>
+    <updated>2024-05-07T00:00:00+00:00</updated>
+    <link href="/news/fokker"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663a88bea8c3082851548d9e_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Just Flight has just released a development update for their upcoming project, F70/100 Professional for MSFS, on their website. Since the last dev update, developers have been busy working on implementing Hydraulic, Flight Control, and Landing Gear Systems, as well as fine-tuning engine and flight models to match the Fokker 70/100 performance. For the first time, the functioning displays were previewed. The next systems to be worked on will be Autopilot and Autothrottle. On the artistic side of development, JF has made quite an impressive list of liveries, representing the extensive use of Fokker 100s worldwide. Ranging from the old but golden American Airlines bare-metal livery, European classics such as KLM and Air France Regional, to todayâs operators of this quite rare aircraft; QantasLink, Virgin Australia, and Alliance. Additionally, the list includes the Fokker Services House livery and the Slovak Government livery. The list features a variety of eras and operators, such as:Â  Unfortunately, we only got Fokker 100 previews in this update, however, the next update will feature screenshots and more info on the shorter variant, the Fokker 70! â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsedds</id>
+    <title>Backwood Studios Releases Eddsfield Airfield for MSFS</title>
+    <updated>2024-05-08T00:00:00+00:00</updated>
+    <link href="/news/bsedds"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663b73c6525a1cc25aa4900c_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Backwood Studios have recently released their rendition of Eddsfield Airfield for Microsoft Flight Simulator, a little airfield in East Yorkshire. Edd Peacock created the airfield in the early 90s and is still in operation today. Offering a peaceful escape from everyday life, Edd wanted an airfield to fly from without politics, committees or hassle. Nestled in the Yorkshire countryside and surrounded by hills and endless green fields, it gives out a specific, calming charm.Â  â Old Eddâs Trailer Cafe can be found in the heart of the airfield. This antique-like building offers a feel of how life used to be during the good olâ times. It doesnât matter if you came here to grab a bite between your flights, or to listen to stories from other aviators and veterans, Eddsfield is ready to welcome you! This scenery features automated hangar doors, animated people and animals, night lighting, custom 3D-modelled vehicles and buildings, a fully functional fuel station, GA parking, and over 50 km of custom-added roads. Eddsfield Airfield is available for purchase on Orbx for 7.52 USD and requires at least 0.97GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-05-08T00:00:00+00:00</published>
   </entry>
 </feed>
