@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-08T18:24:10.598968+00:00</updated>
+  <updated>2024-05-09T18:23:43.328001+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbxkm</id>
-    <title>Orbx Kola Map Previews and Features</title>
-    <updated>2024-05-01T00:00:00+00:00</updated>
-    <link href="/news/orbxkm"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66321d2ea471ee5009516050_Banner_Image.webp"/>
-    <summary>Sim: DCS. Threshold recently received exclusive screenshots of the upcoming Kola Map for DCS, and today, we have three more exclusives to share with you. The community has highly anticipated the new Kola Map, which will cover large parts of Norway, Sweden, Finland, and Russia. As of now, the project is listed as "coming soon," with the release of the early access version imminent. The Kola Map will first be available for early access and will be feature-packed with a multitude of airports. There will be two airports in Finland, five in Russia, two in Norway, and three in Sweden. Additionally, early access ensures a complete base terrain, highly detailed topography for the entire map, and lots of POIs, road and railroad networks, night lighting, and many landmarks to explore. Although early access will be available first, many future features have already been planned. Winter textures are scheduled to ensure the representation of the cold and harsh climate up North. A multitude of military airfields like Bardufoss and Kirkenes and a variety of civilian airports, including TromsÃ¸ and LuleÃ¥, are also planned. Also, general improvements to landscape features have been scheduled. The official store page for the Kola Map is now available on Orbx. Be sure to check it out for more information and screenshots. â We will update you with more information as soon as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/thnlx</id>
     <title>Threshold Newsletter going live</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663b73c6525a1cc25aa4900c_Banner_Image.webp"/>
     <summary>Sim: MSFS. Backwood Studios have recently released their rendition of Eddsfield Airfield for Microsoft Flight Simulator, a little airfield in East Yorkshire. Edd Peacock created the airfield in the early 90s and is still in operation today. Offering a peaceful escape from everyday life, Edd wanted an airfield to fly from without politics, committees or hassle. Nestled in the Yorkshire countryside and surrounded by hills and endless green fields, it gives out a specific, calming charm.Â  â Old Eddâs Trailer Cafe can be found in the heart of the airfield. This antique-like building offers a feel of how life used to be during the good olâ times. It doesnât matter if you came here to grab a bite between your flights, or to listen to stories from other aviators and veterans, Eddsfield is ready to welcome you! This scenery features automated hangar doors, animated people and animals, night lighting, custom 3D-modelled vehicles and buildings, a fully functional fuel station, GA parking, and over 50 km of custom-added roads. Eddsfield Airfield is available for purchase on Orbx for 7.52 USD and requires at least 0.97GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdter</id>
+    <title>FSDG Releases Teruel Airport for MSFS</title>
+    <updated>2024-05-09T00:00:00+00:00</updated>
+    <link href="/news/fsdter"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663c57c28af77f5ee750fcc9_teruel2.webp"/>
+    <summary>Sim: MSFS. FSDG has recently released their rendition of Teruel Airport (LETL) for Microsoft Flight Simulator, a maintenance and storage airport in Teruel, Spain, inaugurated 11 years ago. Originally a military airbase, the airport was repurposed into a maintenance/storage facility due to its dry climate, which is highly suitable for long-term aircraft storage. It played a considerable role during the pandemic, storing over 100 airplanes from multiple carriers. Given the lack of passenger traffic, the airport features only a basic terminal and has no infrastructure for passenger handling. It also houses the PLD Space Propulsion test facility, where they conduct rocket engine tests. The scenery features an accurate rendition of the airport, with custom ground textures, dozens of parked aircraft, performance-friendly optimization, custom night lighting, and more. Itâs available onÂ SimMarketÂ for roughly $13.54, requiring at least 775.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-05-09T00:00:00+00:00</published>
   </entry>
 </feed>
