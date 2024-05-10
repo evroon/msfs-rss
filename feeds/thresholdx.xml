@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-09T18:23:43.328001+00:00</updated>
+  <updated>2024-05-10T18:23:30.596083+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/thnlx</id>
-    <title>Threshold Newsletter going live</title>
-    <updated>2024-05-01T00:00:00+00:00</updated>
-    <link href="/news/thnlx"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663299e7db7880a89ef3635e_2023-06-04%2016_41_26-X-System.webp"/>
-    <summary>Sim: OTHER. The first-ever Threshold Newsletter is now live! Our new monthly newsletter is here to stay, and we'll provide you with a roundup of all the biggest flight simulation news, as well as the editorial of the month. You can find the April newsletter on our website and sign up now to receive future newsletters. 2024 has been an outstanding year for us at Threshold, as we have been committed to delivering the highest quality content to you. Our team has written a remarkable 223 news articles and 18 full-length articles, covering a diverse range of topics and providing valuable insights to our audience. We are proud to have achieved a new record this year, and we look forward to continuing to provide exceptional content to our readers in the future. â â The Newsletter will evolve over time and we encourage you to give us feedback in our Discord on how what you would like to see published. This is new to us too =) â The entire team at Threshold would like to express our gratitude to everyone who has joined us on our journey thus far. We hope that this newsletter will continue to help us grow and remain a go-to destination in our community. Thank you! â â â â â â â â</summary>
-    <published>2024-05-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mjcupd</id>
     <title>Majestic Software Posts Development Update</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663c57c28af77f5ee750fcc9_teruel2.webp"/>
     <summary>Sim: MSFS. FSDG has recently released their rendition of Teruel Airport (LETL) for Microsoft Flight Simulator, a maintenance and storage airport in Teruel, Spain, inaugurated 11 years ago. Originally a military airbase, the airport was repurposed into a maintenance/storage facility due to its dry climate, which is highly suitable for long-term aircraft storage. It played a considerable role during the pandemic, storing over 100 airplanes from multiple carriers. Given the lack of passenger traffic, the airport features only a basic terminal and has no infrastructure for passenger handling. It also houses the PLD Space Propulsion test facility, where they conduct rocket engine tests. The scenery features an accurate rendition of the airport, with custom ground textures, dozens of parked aircraft, performance-friendly optimization, custom night lighting, and more. Itâs available onÂ SimMarketÂ for roughly $13.54, requiring at least 775.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ptdbbs</id>
+    <title>Black Square Releases The Dukes Bundle</title>
+    <updated>2024-05-10T00:00:00+00:00</updated>
+    <link href="/news/ptdbbs"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663d72e7d7cfb5042bb636d5_black-square-piston-turbine-duke-bundle_37_ss_m_240313162327.webp"/>
+    <summary>Sim: MSFS. Up-and-coming development team Black Square have released their second stand-alone aircraft add-on for Microsoft Flight Simulator, the highly anticipated Piston and Turbine Duke bundle. Known for their Steam Gauge Overhaul packs for existing aircraft, the Duke Bundle is Black Squareâs first attempt at a stand-alone aircraft.  The Beechcraft 60 Duke, which first flew in December of 1966, was originally outfitted with two Lycoming TIO-541 turbocharged six-cylinder engines, each outputting 380 horsepower. With its pressurised six-seat cabin the Duke was originally designed to fill the gap in the market between the Beechcraft Baron and Queen Air. The Black Square Dukes Package features multiple GPS and Radio options, 130 possible failures, and a multifunction tablet, the developer also claims it features âthe most advanced pressurisation and cabin temperature simulations in MSFS.â The Dukes also feature a custom sound set created by Boris Audio Works. You can find the Black Square Piston and Turbine Dukes bundle here for $69.99. Be sure to keep your eye on Threshold to stay up to date on everything flight simulation! â</summary>
+    <published>2024-05-10T00:00:00+00:00</published>
   </entry>
 </feed>
