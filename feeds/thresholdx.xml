@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-10T18:23:30.596083+00:00</updated>
+  <updated>2024-05-11T18:22:35.369298+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mjcupd</id>
-    <title>Majestic Software Posts Development Update</title>
-    <updated>2024-05-02T00:00:00+00:00</updated>
-    <link href="/news/mjcupd"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633a13adbc1928e7050a1ab_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Majestic Software recently posted an update on their forum regarding the progress of their aircraft development for Microsoft Flight Simulator. According to the post, the team has completely reworked the EFIS screens and custom flight dynamic for MSFS. They are also adding a new EFB, which will be included in not only the MSFS version of the aircraft but also the current Prepar3D version. Majestic Software has announced its intention to bring both the Q400 and Q300 for MSFS, and the Q200 is also highly likely. However, the team hasn't shared a specific timeline for the project yet. They hope to complete the plane by 2025 if everything goes according to plan.Â  We will keep you updated when the team shares more information. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ahhawk</id>
-    <title>Aeroplane Heaven Releases Hawker Hurrican Mk.1 for MSFS</title>
-    <updated>2024-05-02T00:00:00+00:00</updated>
-    <link href="/news/ahhawk"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633a7639ed49c1fd0c01774_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Aeroplane Heaven has recently released its version of the Hawker Hurricane Mk.1 for Microsoft Flight Simulator, a British fighter aircraft that first flew in 1935. The single-seater plane was built by Hawker Aircraft Ltd. and was initially used by the Royal Air Force (RAF). The aircraft was introduced in 1937 and a total of 14.487 planes were built between 1937 and 1944. Although it initially flew for the RAF, it was also used by other countries such as Australia, Belgium, Greece, Poland, and more throughout its lifespan. The new add-on comes with a range of features, including high-fidelity models, detailed features, animations, accurate flight dynamics, a variety of liveries, and more. The add-on requires 2.81GB of storage space and is available on SimMarket for approximately $28.85. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xejets</id>
-    <title>X-Crafts Updates Free E-Jets for X-Plane 12</title>
-    <updated>2024-05-02T00:00:00+00:00</updated>
-    <link href="/news/xejets"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633b28dcd8ab9aec417e180_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. X-Crafts have released an update for their freeware E-Jets, bringing the plane to version V3.0. This new version is compatible with X-Plane 12 and comes with many improvements and new features. The previous version (V2.5) remains compatible with X-Plane 11. The Embraer E-Jet family consists of a multitude of Brazilian-made narrow-body airliners. The project was initially revealed by Embraer in 1997, but it was not officially unveiled until two years later. In 2002, the first E-Jet had its maiden flight. The E-Jet family comprises of four commercial airliners, including the E170, E175, E190, and E195. The free E-Jets series by X-Crafts includes both the E175 and the E195 models. The new X-Plane 12 version of the E-Jets comes with a range of new features, such as an enhanced flight model, improved modeling, updated lights, cockpit fixes, and more. The new version is now available for download on the X-Crafts website. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inprmm</id>
-    <title>iniBuilds Previews Freeware Milwaukee Mitchell International Airport for MSFS</title>
-    <updated>2024-05-02T00:00:00+00:00</updated>
-    <link href="/news/inprmm"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6633b8599606ada829410cf4_Banner_Image.webp"/>
-    <summary>Sim: MSFS. iniBuilds has provided a sneak peek of its latest scenery for Microsoft Flight Simulator. The airport in question is Milwaukee Mitchell International Airport (KMKE), which will be released for free to the community. As the busiest airport in Wisconsin, KMKE boasts over 160 destinations to explore from the airport. The freeware package will include a multitude of features such as hand-made ground textures, custom ground decals, vegetation, dynamic lighting, highly detailed models, an up-to-date airport layout, a GSX profile, and much more. The developer has announced that the scenery will be available tomorrow, and the store page is now live on the iniBuilds Store.Â  â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777bpr</id>
     <title>FightFactor Releases Beta Pre-Release Version of 777v2 for Invited Members</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663d72e7d7cfb5042bb636d5_black-square-piston-turbine-duke-bundle_37_ss_m_240313162327.webp"/>
     <summary>Sim: MSFS. Up-and-coming development team Black Square have released their second stand-alone aircraft add-on for Microsoft Flight Simulator, the highly anticipated Piston and Turbine Duke bundle. Known for their Steam Gauge Overhaul packs for existing aircraft, the Duke Bundle is Black Squareâs first attempt at a stand-alone aircraft.  The Beechcraft 60 Duke, which first flew in December of 1966, was originally outfitted with two Lycoming TIO-541 turbocharged six-cylinder engines, each outputting 380 horsepower. With its pressurised six-seat cabin the Duke was originally designed to fill the gap in the market between the Beechcraft Baron and Queen Air. The Black Square Dukes Package features multiple GPS and Radio options, 130 possible failures, and a multifunction tablet, the developer also claims it features âthe most advanced pressurisation and cabin temperature simulations in MSFS.â The Dukes also feature a custom sound set created by Boris Audio Works. You can find the Black Square Piston and Turbine Dukes bundle here for $69.99. Be sure to keep your eye on Threshold to stay up to date on everything flight simulation! â</summary>
     <published>2024-05-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sda50u</id>
+    <title>Skyward Simulations Releases DA-50RG Update</title>
+    <updated>2024-05-10T00:00:00+00:00</updated>
+    <link href="/news/sda50u"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663e7c4f711d871e6c35467a_DA50-5.webp"/>
+    <summary>Sim: MSFS. Coming just a few days after its initial release, developer Skyward Simulations has published the first update for their new Diamond DA-50RG that was released for Microsoft Flight Simulator. The updates bring changes to both the Flight model and textures of the aircraft addressing both functional and visual bugs.Â  Flight model change log Flight Model &amp; Systems Improved flight model. Improved startup Improved engine coolingÂ  on the ground at idle Faster warm-up Improved ground idle and flight idle logic Added Xfer pump auto shutoff Added Fuel slosh bug fixes.Â  3D and Texture change log Fixed low-res/wavy default liveries Dynamic registration addedÂ  Fixed emissive textures on the right G1000 Fixed sun-visor reflectiveness Fixed gear decals Various other texture improvements Users of the DA-50RG can install the update from the Contrail app. Be sure to keep an eye on Threshold for the latest in flight simulation news! â</summary>
+    <published>2024-05-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nncnfs</id>
+    <title>Navigraph Updates Navigraph Charts with New Features</title>
+    <updated>2024-05-11T00:00:00+00:00</updated>
+    <link href="/news/nncnfs"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f51c907e7d16c1f089136_Banner_Image.webp"/>
+    <summary>Sim: OTHER. Navigraph has recently released an updated version of its popular Navigraph Charts, which includes a new feature to enhance navigation assistance. Thanks to data from Microsoft, Impact Observatory, and Esri, users can now display land cover details such as forests and glaciers on the map. In addition, the new update includes a terminator layer that shows day and nighttime on the Naivgraph globe view and Mercator map. These new features are available to users with the Unlimited Subscription plan, which provides access to Navigraph Charts. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mssu15</id>
+    <title>Microsoft Posts Development Update about Further Delay to Sim Update 15</title>
+    <updated>2024-05-11T00:00:00+00:00</updated>
+    <link href="/news/mssu15"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5c512009038b7a042874_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Microsoft has provided an update on the status of Sim Update 15 on their forum. The team has decided to postpone Sim Update 15 further due to some new issues. The release date of 7th May had to be delayed due to some issues with WASM. Unfortunately, the team has not yet shared a new release date for Sim Update 15. On a positive note, a new beta build, version 1.37.17.0, has been released for those enrolled in the beta program. This update includes several bug fixes for the beta program. We will keep you informed as soon as the team provides more information on Sim Update 15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lva340</id>
+    <title>LatinVFR Releases Airbus A340-300 for MSFS</title>
+    <updated>2024-05-11T00:00:00+00:00</updated>
+    <link href="/news/lva340"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5dffe863734a7d952c13_Banner_Image.webp"/>
+    <summary>Sim: MSFS. LatinVFR recently released its version of the Airbus A340-300 for Microsoft Flight Simulator. This four-engine airliner had its maiden flight in 1991 and has been used by many airlines since then. The aircraft has an impressive length of 208 ft 11 in (63 m). The A340-300 was introduced as the first of four variants of the A340 model. Along with the -300 variant, Airbus also developed the -200, -500, and -600 variants. With a total of four engines, the A340-300 has a range of 7.300 nautical miles (13.500 km). The -300 variant turned out to be one of the more popular variants, being used by many airlines such as Lufthansa, Emirates, and SAS. The new add-on offers a range of features, including a highly detailed external and interior model, a realistic cockpit, an EFB, VNAV implementation, realistic sounds, a variety of liveries, and much more. The add-on requires 11.17GB of storage space and is available on the in-sim Marketplace for approximately $29.49. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-11T00:00:00+00:00</published>
   </entry>
 </feed>
