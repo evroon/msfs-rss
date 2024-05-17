@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-16T18:23:03.567946+00:00</updated>
+  <updated>2024-05-17T18:24:59.958336+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ssrda5</id>
-    <title>Skyward Simulations Releases DA-50RG for MSFS</title>
-    <updated>2024-05-06T00:00:00+00:00</updated>
-    <link href="/news/ssrda5"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66390d796daaee72c63eda15_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Skyward Simulations has just released their rendition of the Diamond DA-50RG for Microsoft Flight Simulator. The DA-50RG is a single-engine aircraft made out of a carbon fiber airframe, mostly used for general aviation and training purposes. Introduced in 2007, it was designed to replace the aging single-engine DA-40. After the Economic Recession in 2009, the DA-50 project was put on hold, and by 2019, no model other than a prototype was made. In 2020, a new version with a Continental CD-300 engine and retractable gear was announced. Later on, it became known as the DA-50RG. With a service ceiling of 20,000ft and a maximum speed of 191 knots, the Diamond DA-50 has a range of 750 nm (1389 km). Skyward Simulations DA-50RG comes with an accurate 3D model, True-to-life definition textures, Custom-coded systems, including ECU &amp; TKS, Ground Idle function simulated, Accurate flight model, Working Title Garmin G1000NXI integration, Included handpainted liveries, and immersive custom sounds by Boris Audio Works. This addon is available for purchase on the Orbx store for roughly $16.39 USD and will require at least 2.08GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
-    <published>2024-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fokker</id>
-    <title>Just Flight Publishes Fokker 70/100 Development Update</title>
-    <updated>2024-05-07T00:00:00+00:00</updated>
-    <link href="/news/fokker"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663a88bea8c3082851548d9e_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Just Flight has just released a development update for their upcoming project, F70/100 Professional for MSFS, on their website. Since the last dev update, developers have been busy working on implementing Hydraulic, Flight Control, and Landing Gear Systems, as well as fine-tuning engine and flight models to match the Fokker 70/100 performance. For the first time, the functioning displays were previewed. The next systems to be worked on will be Autopilot and Autothrottle. On the artistic side of development, JF has made quite an impressive list of liveries, representing the extensive use of Fokker 100s worldwide. Ranging from the old but golden American Airlines bare-metal livery, European classics such as KLM and Air France Regional, to todayâs operators of this quite rare aircraft; QantasLink, Virgin Australia, and Alliance. Additionally, the list includes the Fokker Services House livery and the Slovak Government livery. The list features a variety of eras and operators, such as:Â  Unfortunately, we only got Fokker 100 previews in this update, however, the next update will feature screenshots and more info on the shorter variant, the Fokker 70! â Stay tuned to Threshold for more flight sim news!</summary>
-    <published>2024-05-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bsedds</id>
-    <title>Backwood Studios Releases Eddsfield Airfield for MSFS</title>
-    <updated>2024-05-08T00:00:00+00:00</updated>
-    <link href="/news/bsedds"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663b73c6525a1cc25aa4900c_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Backwood Studios have recently released their rendition of Eddsfield Airfield for Microsoft Flight Simulator, a little airfield in East Yorkshire. Edd Peacock created the airfield in the early 90s and is still in operation today. Offering a peaceful escape from everyday life, Edd wanted an airfield to fly from without politics, committees or hassle. Nestled in the Yorkshire countryside and surrounded by hills and endless green fields, it gives out a specific, calming charm.Â  â Old Eddâs Trailer Cafe can be found in the heart of the airfield. This antique-like building offers a feel of how life used to be during the good olâ times. It doesnât matter if you came here to grab a bite between your flights, or to listen to stories from other aviators and veterans, Eddsfield is ready to welcome you! This scenery features automated hangar doors, animated people and animals, night lighting, custom 3D-modelled vehicles and buildings, a fully functional fuel station, GA parking, and over 50 km of custom-added roads. Eddsfield Airfield is available for purchase on Orbx for 7.52 USD and requires at least 0.97GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
-    <published>2024-05-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsdter</id>
     <title>FSDG Releases Teruel Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6643d498922cd349104b90c0_xpl1.webp"/>
     <summary>Sim: X-Plane. Laminar Research recently released the first public beta of X-Plane 12's long-awaited 12.1.0 update. This update introduces improved anti-aliasing, new particle effects, lighting improvements, and more. With a strong focus on visual quality improvements, X-Plane 12.1.0's first public beta brings a glimpse into the heavy strides made into improving the anti-aliasing system, depth of field, shadows, lighting, particle effects, water, and autogen. Below is a list of the key takeaways from the visual improvements at hand:Â  Anti-aliasing (AA):Â Improved quality with better scene handling and coverage for alpha-tested surfaces (those with transparency). Depth of Field:Â More control with a setting for Real Camera Shake (RCAS) and a notification when textures are reduced due to memory limitations. Shadows:Â Smoother shadows overall, cloud shadows on water, and faster rendering times. Lightning:Â This version features more realistic visuals with subtle color adjustments, distance variations, and bolt thickness changes. Sound effects have also been improved for a more immersive experience. Particle Effects:Â The new system allows for particles on ground contact, easier editing with copy/paste, and datarefs for better control. Pre-built effects include jet engine afterburners (JATO), water bombing, ground scrapes, and rotor wash from helicopters. Aircraft configuration files (ACFs) let you disable these effects if desired. Water:Â Fixed water clarity issues, with color and transparency depending on location. Cloud shadows are now visible on water surfaces. Compatibility note: existing X-Plane 11 water scenery packs may not work perfectly due to differences in water rendering and might require updates from the creators. Autogen:Â Enhanced visuals for high-rise buildings in European cities and improved parking aircraft placement at airports, prioritizing larger planes for bigger spots. The update also enhances the G1000 navigation system, including an accurate startup splash screen, a NAV page, a stormscope, datalink weather support, Terrain, aÂ WPT page, anÂ AUX page, and new datarefs.Â  It also includes two additions to the supported flap systems, allowing the accurate simulation of manual flap controls such as the one in the Piper PA-28, with precise and gradual adjustments, and the dial-a-flap system, which is present in some McDonnell-Douglas aircraft. The complete feature list and changelog can be foundÂ here, along with further information. Â Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/davdub</id>
+    <title>Davor Puljevic Releases Dubrovnik Airport for MSFS</title>
+    <updated>2024-05-16T00:00:00+00:00</updated>
+    <link href="/news/davdub"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664655f565e14e530705cb9e_davor1.webp"/>
+    <summary>Sim: MSFS. Davor Puljevic recently released their rendition of Dubrovnik Airport (LDDU) for Microsoft Flight Simulator. The airport serves Dubrovnik-Neretva County and has a yearly average of 2.4 million passengers. The airport opened in 1962 and quickly became Yugoslaviaâs busiest. By 1987, it had already served nearly a million passengers.Â  In the 2000s, a new passenger terminal was built to replace the original from 1962, costing the administration 70 million euros. Itâs the most modern terminal in the country so far.Â  Itâs a hub for Croatia Airlines and many other European carriers, including Air France, British Airways, easyJet, Eurowings, Finnair, Iberia, KLM, Lufthansa, Transavia, Volotea, Vueling, and Wizz Air, serve it on a seasonal basis. ââ The scenery features an accurate rendition of the airport, with custom photo imagery, custom jetways, custom ground service equipment, an up-to-date ground layout, and more. Itâs available onÂ SimMarketÂ for roughly $21.65, requiring at least 443.95 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rot109</id>
+    <title>Rotate Releases MD-11 v1.09 for X-Plane 12</title>
+    <updated>2024-05-16T00:00:00+00:00</updated>
+    <link href="/news/rot109"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66465ae49662f5f3767b306c_rotateupdate.jpg"/>
+    <summary>Sim: X-Plane. Rotate has recently issued a new update to their MD-11 for X-Plane 12, adding Apple Silicon architecture support, pop-up displays, FMS improvements, and more. For pilots of all experience levels, the update offers improved functionalities, including pop-up windows for easier screen display management and additional options on the STAR page and FMA (Flight Mode Annunciator) for more precise flight planning and monitoring. The update also addresses a variety of user-reported issues. Improved VOR interception accuracy and tuned landing roll brakes ensure a more realistic and controlled flying experience. The update tackles numerous bugs related to flight controls, displays, navigation systems, and aircraft behavior. For virtual pilots seeking a more immersive experience, the update boasts improvements to LCDs' LED lighting and a reduction in dirt texture on the windshield, providing a clearer view of the virtual skies. â The developers have also addressed compatibility issues with popular add-ons likeÂ A Pilot's Life, ensuring a smoother experience for users who have customized their flight simulator environment. â The complete changelog with all the changes follows below: â Please refer to theirÂ websiteÂ for further information.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfs15</id>
+    <title>Microsoft Posts Development Update with New Sim Update 15 Release Date</title>
+    <updated>2024-05-17T00:00:00+00:00</updated>
+    <link href="/news/msfs15"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5c512009038b7a042874_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Microsoft has recently shared a new development update including an updated development roadmap and further information about the latest news from the team. The updated roadmap has provided a new scheduled release date for the delayed Sim Update 15. The new release date is now set for May 23rd. Additionally, the Microsoft team has released a small update for all simmers, which includes updated navdata, AIRAC cycle 2405. This provides simmers with newer and more up-to-date navdata. We'll keep you informed as soon as Sim Update 15 is released or if we have any more news about it. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-17T00:00:00+00:00</published>
   </entry>
 </feed>

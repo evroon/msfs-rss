@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-05-16T18:23:01.785121+00:00</updated>
+  <updated>2024-05-17T18:24:58.440961+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,15 +34,6 @@
     <published>2023-12-12T21:10:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-15-dornier-do-31/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 15: The Dornier Do 31</title>
-    <updated>2024-04-16T15:47:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-15-dornier-do-31/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/MSFS_LL15_Do31_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>Microsoft Flight Simulator pilots can now fly one of aviation’s greatest icons of innovation.</summary>
-    <published>2024-04-16T15:47:27+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/april-18th-2024-development-update/</id>
     <title>April 18th, 2024 – Development Update</title>
     <updated>2024-04-18T23:37:19+00:00</updated>
@@ -57,7 +48,7 @@
     <updated>2024-04-25T22:52:49+00:00</updated>
     <link href="https://www.flightsimulator.com/april-25th-2024-development-update/"/>
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/Parorng-Forums-1024x558.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday, our panel of Jorg, Seb, and Martial plus special guests from Working Title and iniBuilds appeared on our latest Developer Livestream. If you missed catching it live … Continued</summary>
+    <summary>Yesterday, our panel of Jorg, Seb, and Martial plus special guests from Working Title and iniBuilds appeared on our latest Developer Livestream. If you missed catching it live on Twitch, you can watch the replay on YouTube.</summary>
     <published>2024-04-25T22:52:49+00:00</published>
   </entry>
   <entry>
@@ -66,7 +57,7 @@
     <updated>2024-05-02T22:59:36+00:00</updated>
     <link href="https://www.flightsimulator.com/may-2nd-2024-development-update/"/>
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/@BasedRaccoon-Twitter-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @BasedRaccoon! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Public beta testing for the upcoming Sim Update 15 continues with two new builds released to opt-in community testers this week. On Monday, we released test build 1.37.15.0, … Continued</summary>
+    <summary>Public beta testing for the upcoming Sim Update 15 continues with two new builds released to opt-in community testers this week. On Monday, we released test build 1.37.15.0, and on Wednesday we released test build 1.37.16.0 which added a small number of other changes.</summary>
     <published>2024-05-02T22:59:36+00:00</published>
   </entry>
   <entry>
@@ -77,5 +68,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/HolmesCZ6127-Forums-1024x429.jpeg"/>
     <summary>On Tuesday, we announced that Sim Update 15 will be delayed for a little longer while the team works to resolve a few remaining issues which we consider release blockers. Delivering a Sim Update of very high quality is extremely important to us, so we are taking a bit of extra time to make sure SU_15 will be positively received by simmers.</summary>
     <published>2024-05-09T23:33:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-16th-2024-development-update/</id>
+    <title>May 16th, 2024 – Development Update</title>
+    <updated>2024-05-16T23:12:11+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-16th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/@CpuGeta486-Twitter-2-1024x576.jpeg"/>
+    <summary>We are pleased to share an updated Development Roadmap with you this week! You can find it below.
+On Tuesday, we released a new test build (1.37.18.0) to those community volunteers enrolled in the Sim Update 15 public beta. We expect this to be the final SU_15 release build unless there are any blocking issues identified by the community beta testers.</summary>
+    <published>2024-05-16T23:12:11+00:00</published>
   </entry>
 </feed>
