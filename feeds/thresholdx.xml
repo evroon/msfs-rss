@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-18T18:23:17.026828+00:00</updated>
+  <updated>2024-05-19T18:22:57.705408+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsdter</id>
-    <title>FSDG Releases Teruel Airport for MSFS</title>
-    <updated>2024-05-09T00:00:00+00:00</updated>
-    <link href="/news/fsdter"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663c57c28af77f5ee750fcc9_teruel2.webp"/>
-    <summary>Sim: MSFS. FSDG has recently released their rendition of Teruel Airport (LETL) for Microsoft Flight Simulator, a maintenance and storage airport in Teruel, Spain, inaugurated 11 years ago. Originally a military airbase, the airport was repurposed into a maintenance/storage facility due to its dry climate, which is highly suitable for long-term aircraft storage. It played a considerable role during the pandemic, storing over 100 airplanes from multiple carriers. Given the lack of passenger traffic, the airport features only a basic terminal and has no infrastructure for passenger handling. It also houses the PLD Space Propulsion test facility, where they conduct rocket engine tests. The scenery features an accurate rendition of the airport, with custom ground textures, dozens of parked aircraft, performance-friendly optimization, custom night lighting, and more. Itâs available onÂ SimMarketÂ for roughly $13.54, requiring at least 775.67 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ptdbbs</id>
     <title>Black Square Releases The Dukes Bundle</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5c512009038b7a042874_Banner_Image.webp"/>
     <summary>Sim: MSFS. Microsoft has recently shared a new development update including an updated development roadmap and further information about the latest news from the team. The updated roadmap has provided a new scheduled release date for the delayed Sim Update 15. The new release date is now set for May 23rd. Additionally, the Microsoft team has released a small update for all simmers, which includes updated navdata, AIRAC cycle 2405. This provides simmers with newer and more up-to-date navdata. We'll keep you informed as soon as Sim Update 15 is released or if we have any more news about it. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ogbs12</id>
+    <title>Orbx Releases TrueEarth Great Britain South for X-Plane 12</title>
+    <updated>2024-05-18T00:00:00+00:00</updated>
+    <link href="/news/ogbs12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6648fa68e2bffafda06f8c79_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Orbx has recently released the second TrueEarth Great Britain region for X-Plane 12. Following the release of Great Britain North, the next region to come out was Great Britain South. The only one left to be released is Great Britain Central. This TrueEarth package covers a total of 42,000 square miles (107,349 kmÂ²) and includes a wide range of features. TrueEarth Great Britain South covers Southern England and Wales, and it's designed with intricate details and includes numerous Points of Interest. Everything from Buckingham Palace to Cardiff City Stadium has been created to make it as realistic and visually accurate as possible. TrueEarth Great Britain South offers a variety of features, such as 42,000 square miles of aerial imagery, custom autogen, 3D trees, VFR landmarks, POIs, custom mesh, accurate road and rail networks, and more. The add-on is available on Orbx for approximately $37.70 and requires a total of 127 GB of storage space. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-18T00:00:00+00:00</published>
   </entry>
 </feed>
