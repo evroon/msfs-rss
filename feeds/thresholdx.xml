@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-19T18:22:57.705408+00:00</updated>
+  <updated>2024-05-20T18:24:23.440607+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ptdbbs</id>
-    <title>Black Square Releases The Dukes Bundle</title>
-    <updated>2024-05-10T00:00:00+00:00</updated>
-    <link href="/news/ptdbbs"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663d72e7d7cfb5042bb636d5_black-square-piston-turbine-duke-bundle_37_ss_m_240313162327.webp"/>
-    <summary>Sim: MSFS. Up-and-coming development team Black Square have released their second stand-alone aircraft add-on for Microsoft Flight Simulator, the highly anticipated Piston and Turbine Duke bundle. Known for their Steam Gauge Overhaul packs for existing aircraft, the Duke Bundle is Black Squareâs first attempt at a stand-alone aircraft.  The Beechcraft 60 Duke, which first flew in December of 1966, was originally outfitted with two Lycoming TIO-541 turbocharged six-cylinder engines, each outputting 380 horsepower. With its pressurised six-seat cabin the Duke was originally designed to fill the gap in the market between the Beechcraft Baron and Queen Air. The Black Square Dukes Package features multiple GPS and Radio options, 130 possible failures, and a multifunction tablet, the developer also claims it features âthe most advanced pressurisation and cabin temperature simulations in MSFS.â The Dukes also feature a custom sound set created by Boris Audio Works. You can find the Black Square Piston and Turbine Dukes bundle here for $69.99. Be sure to keep your eye on Threshold to stay up to date on everything flight simulation! â</summary>
-    <published>2024-05-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sda50u</id>
-    <title>Skyward Simulations Releases DA-50RG Update</title>
-    <updated>2024-05-10T00:00:00+00:00</updated>
-    <link href="/news/sda50u"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663e7c4f711d871e6c35467a_DA50-5.webp"/>
-    <summary>Sim: MSFS. Coming just a few days after its initial release, developer Skyward Simulations has published the first update for their new Diamond DA-50RG that was released for Microsoft Flight Simulator. The updates bring changes to both the Flight model and textures of the aircraft addressing both functional and visual bugs.Â  Flight model change log Flight Model &amp; Systems Improved flight model. Improved startup Improved engine coolingÂ  on the ground at idle Faster warm-up Improved ground idle and flight idle logic Added Xfer pump auto shutoff Added Fuel slosh bug fixes.Â  3D and Texture change log Fixed low-res/wavy default liveries Dynamic registration addedÂ  Fixed emissive textures on the right G1000 Fixed sun-visor reflectiveness Fixed gear decals Various other texture improvements Users of the DA-50RG can install the update from the Contrail app. Be sure to keep an eye on Threshold for the latest in flight simulation news! â</summary>
-    <published>2024-05-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nncnfs</id>
     <title>Navigraph Updates Navigraph Charts with New Features</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6648fa68e2bffafda06f8c79_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Orbx has recently released the second TrueEarth Great Britain region for X-Plane 12. Following the release of Great Britain North, the next region to come out was Great Britain South. The only one left to be released is Great Britain Central. This TrueEarth package covers a total of 42,000 square miles (107,349 kmÂ²) and includes a wide range of features. TrueEarth Great Britain South covers Southern England and Wales, and it's designed with intricate details and includes numerous Points of Interest. Everything from Buckingham Palace to Cardiff City Stadium has been created to make it as realistic and visually accurate as possible. TrueEarth Great Britain South offers a variety of features, such as 42,000 square miles of aerial imagery, custom autogen, 3D trees, VFR landmarks, POIs, custom mesh, accurate road and rail networks, and more. The add-on is available on Orbx for approximately $37.70 and requires a total of 127 GB of storage space. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p777ma</id>
+    <title>New PMDG 777 for MSFS Manual Previews Further Features</title>
+    <updated>2024-05-19T00:00:00+00:00</updated>
+    <link href="/news/p777ma"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664a5024074eab7bbd14f340_Banner_Image.webp"/>
+    <summary>Sim: MSFS. A member of the PMDG forum has discovered an internal link on PMDG's website leading to a user manual for their upcoming Boeing 777-300ER for Microsoft Flight Simulator. This manual reveals many features that had not been previously mentioned and provides answers to questions from the community that were left unanswered or only vaguely addressed by the company's CEO, Robert Randazzo. The new website not only includes the manual but also showcases a variety of liveries available for the plane. Furthermore, it unveils several previously undisclosed features, providing users with a comprehensive look at what the plane has to offer. Furthermore, the manual also provides insight into some of the included features. Here is a list of some of the most interesting features: After a user shared the new website, most of the responses and the original message were deleted from the forum. Following this, Mathijs at PMDG published the following: "Kudos to the person who used a domain scanner to find the manual, but this is indeed unplanned, so let's not make it a topic here." In the end, it looks like the manual was not supposed to be released, but when it was, we did get quite a good look at the new plane. If you want to check out the manual, it was available while we were writing this article, but is no longer there and rather humorously they redirected the URL to a Rick Roll. We will keep you informed as more information becomes available about the upcoming PMDG 777. Make sure to stay tuned to Threshold for the most recent flight simulation news!</summary>
+    <published>2024-05-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftsy12</id>
+    <title>FlyTampa Releases Sydney Airport for X-Plane 12</title>
+    <updated>2024-05-20T00:00:00+00:00</updated>
+    <link href="/news/ftsy12"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664b1619ce19b15c0760cea7_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FlyTampa has recently released its version of Sydney Kingsford Smith Airport (YSSY) for X-Plane 12. The airport serves the Australian city of Sydney and is situated approximately 5 miles (8 kilometres) from the city. As the biggest and busiest airport in Australia, it welcomes around 42 million passengers annually. In 1919, Nigel Love leased and established an airfield on grassy paddocks in the suburb of Mascot. The first flight from the airfield was with Love in 1919, and the official opening took place in 1920. After the lease ended in 1923, the Commonwealth Government acquired the airfield, just before the first regular flights began in 1924. The first gravel runway was built in 1933, and by 1949, the number of runways had tripled. Construction for a new terminal started in 1966 and was officially opened in 1970. Over the years, the airport has undergone several upgrades and constructions. Today, the airport serves numerous cities worldwide and is a hub for Qantas and Virgin Australia, as well as many other airlines, with a yearly total of over 300,000 aircraft movements. The newly released version of Sydney Airport includes many features such as a fully custom rendition of Sydney Kingsford Smith Airport, custom mesh, custom night lighting, SAM and LST integration, Ortho4XP patch, and much more. The newly released add-on is now available on Orbx for approximately $32.50. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-20T00:00:00+00:00</published>
   </entry>
 </feed>
