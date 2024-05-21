@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-20T18:24:23.440607+00:00</updated>
+  <updated>2024-05-21T18:24:03.204376+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nncnfs</id>
-    <title>Navigraph Updates Navigraph Charts with New Features</title>
-    <updated>2024-05-11T00:00:00+00:00</updated>
-    <link href="/news/nncnfs"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f51c907e7d16c1f089136_Banner_Image.webp"/>
-    <summary>Sim: OTHER. Navigraph has recently released an updated version of its popular Navigraph Charts, which includes a new feature to enhance navigation assistance. Thanks to data from Microsoft, Impact Observatory, and Esri, users can now display land cover details such as forests and glaciers on the map. In addition, the new update includes a terminator layer that shows day and nighttime on the Naivgraph globe view and Mercator map. These new features are available to users with the Unlimited Subscription plan, which provides access to Navigraph Charts. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mssu15</id>
-    <title>Microsoft Posts Development Update about Further Delay to Sim Update 15</title>
-    <updated>2024-05-11T00:00:00+00:00</updated>
-    <link href="/news/mssu15"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5c512009038b7a042874_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Microsoft has provided an update on the status of Sim Update 15 on their forum. The team has decided to postpone Sim Update 15 further due to some new issues. The release date of 7th May had to be delayed due to some issues with WASM. Unfortunately, the team has not yet shared a new release date for Sim Update 15. On a positive note, a new beta build, version 1.37.17.0, has been released for those enrolled in the beta program. This update includes several bug fixes for the beta program. We will keep you informed as soon as the team provides more information on Sim Update 15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lva340</id>
-    <title>LatinVFR Releases Airbus A340-300 for MSFS</title>
-    <updated>2024-05-11T00:00:00+00:00</updated>
-    <link href="/news/lva340"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5dffe863734a7d952c13_Banner_Image.webp"/>
-    <summary>Sim: MSFS. LatinVFR recently released its version of the Airbus A340-300 for Microsoft Flight Simulator. This four-engine airliner had its maiden flight in 1991 and has been used by many airlines since then. The aircraft has an impressive length of 208 ft 11 in (63 m). The A340-300 was introduced as the first of four variants of the A340 model. Along with the -300 variant, Airbus also developed the -200, -500, and -600 variants. With a total of four engines, the A340-300 has a range of 7.300 nautical miles (13.500 km). The -300 variant turned out to be one of the more popular variants, being used by many airlines such as Lufthansa, Emirates, and SAS. The new add-on offers a range of features, including a highly detailed external and interior model, a realistic cockpit, an EFB, VNAV implementation, realistic sounds, a variety of liveries, and much more. The add-on requires 11.17GB of storage space and is available on the in-sim Marketplace for approximately $29.49. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pesbod</id>
-    <title>Pilot Experience Sim Releases Bordeaux-MÃ©rignac Airport V2 for MSFS</title>
-    <updated>2024-05-12T00:00:00+00:00</updated>
-    <link href="/news/pesbod"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66407a23a9e61deacd2d9eb1_bordeaux1.webp"/>
-    <summary>Sim: MSFS. Pilot Experience Sim has recently released the second version of their Bordeaux-MÃ©rignac Airport (LFBD) for Microsoft Flight Simulator, serving the commune of MÃ©rignac with a yearly average of 7.7 million passengers. It was built in 1910 to host a major Aviation Week event, making it one of the oldest French airports.Â  In the early 1930s, the French Air Force heavily upgraded the airport by constructing many new hangars, surface improvements, and more. A passenger terminal was built in 1935, officially going from an air station to an airport.Â  With World War 2 looming, the government invested more money in transforming Bordeaux into a proper military base, adding two runways, which were completed in 1939 and 1940, respectively. MÃ©rignacâs brand-new runways were quite attractive to the Germans during their invasion of France. The structure was mostly new, and the runways were long and hard, ideal for their operations. They rushed to complete the work on runway two, and soon enough, it became one of their air bases. It was heavily bombed in 1944, and the German soldiers blew up the last remaining buildings before leaving the area.Â  Repairing was carried out right after the war, between 1945 and 1947. Prisoners of war built a terminal, a restaurant, offices, and a control tower. They were meant to be temporary and made of wood, but an actual replacement only happened twelve years later. In 1959, a new terminal was inaugurated, designed by Raymond Mothe. It was expanded several times, and its capacity maxed out at 2 million passengers annually. Further expansion occurred in the early 2000s, bringing its passenger handling capabilities to over 6 million a year. Itâs a focus city for easyJet, Ryanair, and Volotea. Aer Lingus, Air France, British Airways, Brussels Airlines, KLM, Lufthansa, Transavia, Turkish Airlines, and Vueling also serve it. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, performance-friendly optimization, 3D people, custom aerial imagery, PBR texturing, custom static aircraft, and more. â Itâs available on theÂ iniBuilds StoreÂ for roughly $16.40, requiring at least 4.58 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/uk2wpb</id>
     <title>UK2000 Scenery Releases North Palm Beach Airport for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664b1619ce19b15c0760cea7_Banner_Image.webp"/>
     <summary>Sim: X-Plane. FlyTampa has recently released its version of Sydney Kingsford Smith Airport (YSSY) for X-Plane 12. The airport serves the Australian city of Sydney and is situated approximately 5 miles (8 kilometres) from the city. As the biggest and busiest airport in Australia, it welcomes around 42 million passengers annually. In 1919, Nigel Love leased and established an airfield on grassy paddocks in the suburb of Mascot. The first flight from the airfield was with Love in 1919, and the official opening took place in 1920. After the lease ended in 1923, the Commonwealth Government acquired the airfield, just before the first regular flights began in 1924. The first gravel runway was built in 1933, and by 1949, the number of runways had tripled. Construction for a new terminal started in 1966 and was officially opened in 1970. Over the years, the airport has undergone several upgrades and constructions. Today, the airport serves numerous cities worldwide and is a hub for Qantas and Virgin Australia, as well as many other airlines, with a yearly total of over 300,000 aircraft movements. The newly released version of Sydney Airport includes many features such as a fully custom rendition of Sydney Kingsford Smith Airport, custom mesh, custom night lighting, SAM and LST integration, Ortho4XP patch, and much more. The newly released add-on is now available on Orbx for approximately $32.50. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxipvk</id>
+    <title>MXI Design Releases Preveza Airport for MSFS</title>
+    <updated>2024-05-21T00:00:00+00:00</updated>
+    <link href="/news/mxipvk"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664c98df90484b4f72ebc8d0_340412_M1.webp"/>
+    <summary>Sim: MSFS. MXI Design has released their rendition of Preveza Aktion Airport (LGPZ) for Microsoft Flight Simulator. The airport serves the city of Preveza and Lefkada Island, with an average of 773,000 passenger operations per year. Opened in 1968, Preveza Airport is a popular airport during the summer season, with charter flights arriving from all over Europe, but it is also used by NATO and the Hellenic Air Force. In 2015, 14 airports in Greece, including Aktion Airport, were privatised by Fraport AG. Aktion Airport was presented with an investment plan to modernise the terminal and improve customer service. Along with the terminal renovation and extension, reorganisation of the apron and refurbishment of airside pavement were also planned. Outside of the summer season, Preveza Airport only receives domestic flights from Zakynthos, Corfu and Sitia. During the summer, more than 28 air carriers perform charter flights from Preveza to numerous cities in Europe, mostly in Germany, the UK and Sweden. MXI Designâs LGPZ features accurately modelled terminal and airport buildings,Â up-to-date ground markings, terminal interior, PBR textures, and custom static planes. Preveza Aktion Airport is available for purchase on SimMarket, for approximately 10.83$, requiring at least 1.52GB of free disk space. â Stay tuned for more flight sim news to Threshold!</summary>
+    <published>2024-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/c3dsfa</id>
+    <title>CAT3DUAL Releases Sfax Thyna Airport for MSFS</title>
+    <updated>2024-05-21T00:00:00+00:00</updated>
+    <link href="/news/c3dsfa"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664c9ba136bd356fb26802e4_340377_DTTX-01.webp"/>
+    <summary>Sim: MSFS. CAT3DUAL has released their rendition of Sfax-Thyna Airport (DTTX) for MSFS. The airport serves the city of Sfax in Tunisia and has a yearly average of 200.000 passengers. It is located 6 kilometres outside the city of Sfax. During WWII, the airport was used by the USAF during the North African campaign and was known as Sfax Airfield. Two bombardment groups used this airfield - the 12th and 340th Bombardment Group, both using the B-25 Mitchell. After the war, Sfax Airport received many extensions and improvements, with the most important one being the construction of the new terminal in 1988 and the extension of the runway. In the following years, a cargo terminal was added, along with a warehouse, taxiways and the airport apron reconstruction. The latest expansion was finished in 2007, when a new terminal, consisting of three buildings, and a new control tower were built. Today, Sfax-Thyna Airport serves 6 airlines to 7 destinations, and many charter flights from Germany and UK during the summer season. CAT3DUALâs rendition of DTTX features custom buildings on the airfield, main apron including an eastern expansion, accurate airfield way finders: taxiway signs and markings, airfield lighting placement and colours per Aeronautical Information Publication (AIP), custom perimeter wall and more. This scenery can be purchased on SimMarket for approximately 8.68$ and requires at least 135MB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftegnj</id>
+    <title>FlyTampa Releases Humberside Airport for MSFS</title>
+    <updated>2024-05-21T00:00:00+00:00</updated>
+    <link href="/news/ftegnj"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664c9e11e0e434082ff8c68b_Banner_Image.webp"/>
+    <summary>Sim: MSFS. FlyTampa has released their rendition of Humberside Airport (EGNJ) for Microsoft Flight Simulator. Serving Lincolnshire, Kingston upon Hull and the East Riding of Yorkshire, this airport welcomes around 90.000 passengers per year. Opened in 1941 as an RAF air base, RAF Kirmington housed the 166th RAF Squadron that operated Avro Lancasters. After 1945, the airport was abandoned for 30 years, until the local council decided to activate the airfield again. After the local area was renamed, the airport was renamed to Humberside Airport. Due to the proximity of other airports, Humberside faces competition from East Midlands and Leeds Bradford Airport. This is because competitive airports have a wider range of passenger flights. The airport serves only two airlines with scheduled passenger flights, KLM to Amsterdam and Eastern Airways to Aberdeen, while during the summer season, TUI has charter flights to Palma de Mallorca, and BH Air to Burgas. FlyTampaâs version of Humberside Airport features Hi-res modelling and PBR textures, a modelled terminal interior with animated passengers, a GSX profile, and LOD performance modelling. This scenery can be purchased on FlyTampaâs website for 12.99$. â Stay tuned to Threshold for more flight sim news and reviews!</summary>
+    <published>2024-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jetgen</id>
+    <title>Jetstream Designs Announces Geneva Airport for MSFS</title>
+    <updated>2024-05-21T00:00:00+00:00</updated>
+    <link href="/news/jetgen"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664ce3761ae36b5b1651cb09_lsgg1.webp"/>
+    <summary>Sim: MSFS. Jetstream Designs has recently announced the development of Geneva Airport (LSGG) for Microsoft Flight Simulator. This international Airport serves Grand GenÃ¨ve (Genevaâs metropolitan area) and has a yearly average of 14 million passengers. â It was first established as an airfield in Cointrin, near Geneva (which explains the airport still being informally known as Cointrin Airport), in October 1919. It wasnât until the late 1920s that the airport would get appropriately structured, with concrete hangars instead of makeshift wooden sheds.Â  â The first concrete runway was built in 1937, with a total length of 405 meters.Â  â The airport was heavily expanded during World War 2, as the Swiss authorities banned any departures for safety reasons. The runway was extended to 1200 meters near the end of the war, and provisions were made to ensure further expansion capabilities in the future. The first passenger terminal was built in 1946, costing 2.3 Swiss Francs to the authorities, along with a runway expansion to 2000 meters.Â  The runway was expanded for the last time in 1960, with jet traffic in mind, taking it from 2000 meters to 3900 meters. This is an unusually long runway for an airport of that size, and a territorial exchange had to be made between Switzerland and France to ensure that there would be enough room for it.Â  â In the late 1980s, a new passenger terminal was built, with 12 jet bridges and two ground-floor gates. It ultimately replaced the old one from 1946, which now only opens during winter charter season.Â  â Itâs a hub for Swiss International Air Lines and an operating base for EasyJet Switzerland. Aegean Airlines, Aer Lingus, Air Canada, Air China, Air France, British Airways, Brussels Airlines, Delta Air Lines, easyJet, Emirates, Eurowings, Finnair, ITA, Jet2.com, KLM, Norwegian Air Shuttle, Scandinavian Airlines, TAP Air Portugal, Transavia, TUI Airways, United Airlines, Vueling, and Wizz Air also serve it. While a feature list has not been provided, the many screenshots shared on their social media platforms reveal some of it: custom ground textures, custom jetways, terminal interiors, and custom runway textures. Jetstream also proudly announces that Marcus Nyberg, a scenery developer from Orbx, has joined them to help with Geneva and future projects. Thereâs no pricing or release date information yet, but Threshold will keep you informed! â</summary>
+    <published>2024-05-21T00:00:00+00:00</published>
   </entry>
 </feed>
