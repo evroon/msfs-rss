@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-05-22T18:24:45.829737+00:00</updated>
+  <updated>2024-05-23T18:24:12.519061+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-18th-2024-development-update/</id>
-    <title>April 18th, 2024 – Development Update</title>
-    <updated>2024-04-18T23:37:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-18th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/04/ZILLNIAZI17-Forums-1-1024x576.jpeg"/>
-    <summary>On Tuesday, we launched two new releases: City Update 06: Southwest Germany is a FREE download from the in-sim Marketplace that enhances the scenery in Germany’s Baden-Württemberg state, and Local Legend 15: Dornier Do 31.</summary>
-    <published>2024-04-18T23:37:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-25th-2024-development-update/</id>
@@ -78,5 +69,14 @@
     <summary>We are pleased to share an updated Development Roadmap with you this week! You can find it below.
 On Tuesday, we released a new test build (1.37.18.0) to those community volunteers enrolled in the Sim Update 15 public beta. We expect this to be the final SU_15 release build unless there are any blocking issues identified by the community beta testers.</summary>
     <published>2024-05-16T23:12:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-15/</id>
+    <title>Release Notes – Sim Update 15 [1.37.18.0] Available Now</title>
+    <updated>2024-05-23T15:10:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-15/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/40th_Anniversary_Horizontal-1024x512.png"/>
+    <summary>Release Notes for Sim Update 15 [1.37.18.0] are now available! Please launch the Xbox App or Steam to download the latest update.</summary>
+    <published>2024-05-23T15:10:19+00:00</published>
   </entry>
 </feed>
