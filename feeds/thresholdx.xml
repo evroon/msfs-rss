@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-25T18:23:00.552305+00:00</updated>
+  <updated>2024-05-26T18:22:50.958767+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rot109</id>
-    <title>Rotate Releases MD-11 v1.09 for X-Plane 12</title>
-    <updated>2024-05-16T00:00:00+00:00</updated>
-    <link href="/news/rot109"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66465ae49662f5f3767b306c_rotateupdate.jpg"/>
-    <summary>Sim: X-Plane. Rotate has recently issued a new update to their MD-11 for X-Plane 12, adding Apple Silicon architecture support, pop-up displays, FMS improvements, and more. For pilots of all experience levels, the update offers improved functionalities, including pop-up windows for easier screen display management and additional options on the STAR page and FMA (Flight Mode Annunciator) for more precise flight planning and monitoring. The update also addresses a variety of user-reported issues. Improved VOR interception accuracy and tuned landing roll brakes ensure a more realistic and controlled flying experience. The update tackles numerous bugs related to flight controls, displays, navigation systems, and aircraft behavior. For virtual pilots seeking a more immersive experience, the update boasts improvements to LCDs' LED lighting and a reduction in dirt texture on the windshield, providing a clearer view of the virtual skies. â The developers have also addressed compatibility issues with popular add-ons likeÂ A Pilot's Life, ensuring a smoother experience for users who have customized their flight simulator environment. â The complete changelog with all the changes follows below: â Please refer to theirÂ websiteÂ for further information.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msfs15</id>
-    <title>Microsoft Posts Development Update with New Sim Update 15 Release Date</title>
-    <updated>2024-05-17T00:00:00+00:00</updated>
-    <link href="/news/msfs15"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/663f5c512009038b7a042874_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Microsoft has recently shared a new development update including an updated development roadmap and further information about the latest news from the team. The updated roadmap has provided a new scheduled release date for the delayed Sim Update 15. The new release date is now set for May 23rd. Additionally, the Microsoft team has released a small update for all simmers, which includes updated navdata, AIRAC cycle 2405. This provides simmers with newer and more up-to-date navdata. We'll keep you informed as soon as Sim Update 15 is released or if we have any more news about it. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ogbs12</id>
     <title>Orbx Releases TrueEarth Great Britain South for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6650edf8a96d290c6005f2d8_Banner_Image.webp"/>
     <summary>Sim: MSFS. Final Approach Design Studios recently released their version of Sylhet Airport (VGSY) for Microsoft Flight Simulator. Officially known as Osmani International Airport, the airport serves the Bangladeshi city of Sylhet. The airport is the third busiest in the country and is located around 5 miles from the city centre. It serves an average of just under 650.000 passengers annually. Osmani International Airport was built during the period of 1944-1945. It was constructed during World War II with the purpose of controlling Japanese aggression from Burma. Initially opened as Sylhet Civil Airport, it started as a domestic airport. In 1986, a terminal building, navigational aids, new runway pavement, taxiways, and aprons were constructed. The airport saw its first international flight in 2002 and has since undergone further expansion and upgrades. Today, the airport is operated by airlines such as Biman Bangladesh Airlines and Novoair, offering flights to destinations such as Dhaka, London, and Dubai. The recently released version of Sylhet Airport features 4K PBR textures, highly detailed ground poly, detailed 3D buildings, ground service equipment, animated jetways, terminal interiors, and more. The add-on requires a total of 1.40GB of storage space and is available on iniBuilds for roughly $14.99. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/denm24</id>
+    <title>X-Codr Designs Announces Denver International Airport for MSFS</title>
+    <updated>2024-05-25T00:00:00+00:00</updated>
+    <link href="/news/denm24"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6651c99d344734cfdb5f9191_Banner_Image.webp"/>
+    <summary>Sim: MSFS. X-Codr Designs has announced the development of Denver International Airport (KDEN) for Microsoft Flight Simulator. This comes after the successful creation of the airport for X-Plane. The team is currently in the final stages of development and testing for the Microsoft Flight Simulator version. The scenery package will include highly detailed models, high-resolution textures, custom jetways, an accurate and up-to-date layout, performance optimisation, ortho imagery, and more. The announcement was made on the developer's website, and as the airport is nearing completion, the release of the scenery might be right around the corn â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/stsmaa</id>
+    <title>ST Simulations Announces Maastricht-Aachen Airport for MSFS</title>
+    <updated>2024-05-25T00:00:00+00:00</updated>
+    <link href="/news/stsmaa"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66526f799454c6a0685fbedf_maa1.webp"/>
+    <summary>Sim: MSFS. ST Simulations has recently announced the development and imminent release of Maastricht-Aachen Airport (EHBK) for Microsoft Flight Simulator. The airport serves Maastricht, in the Netherlands, and Aachen, in Germany, with a yearly average of 97.000 passengers. It was built by the Allies as a temporary airfield during World War 2, later transferred to the Dutch government and named Beek Airfield. It saw lots of traffic during its initial months because most roads in the country had been bombed and/or heavily damaged. As the repairs progressed, the traffic figures died down. The first semi-permanent terminal was built in 1947, followed by runway paving work in 1949 and 1950. Further expansion work was carried on from 1951 and beyond after an agreement between the airport and the Dutch Air Force. The airport underwent expansion work in the early 1970s to handle bigger aircraft, which included runway lengthening, taxiway widening, and apron enlargement. A decade later, a new passenger terminal was built, replacing the old one from the 40s. Corendon Dutch Airlines, Pegasus Airlines, and Ryanair serve it. â The scenery will feature an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, custom taxiway signage, custom objects, PBR texturing, aÂ realistic runway profile, and more. Refer to theirÂ websiteÂ for further information. Stay tuned to Threshold for more flight simulation news! â â</summary>
+    <published>2024-05-25T00:00:00+00:00</published>
   </entry>
 </feed>
