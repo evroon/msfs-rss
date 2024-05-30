@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-05-29T18:24:19.606713+00:00</updated>
+  <updated>2024-05-30T18:26:25.256945+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ftegnj</id>
-    <title>FlyTampa Releases Humberside Airport for MSFS</title>
-    <updated>2024-05-21T00:00:00+00:00</updated>
-    <link href="/news/ftegnj"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664c9e11e0e434082ff8c68b_Banner_Image.webp"/>
-    <summary>Sim: MSFS. FlyTampa has released their rendition of Humberside Airport (EGNJ) for Microsoft Flight Simulator. Serving Lincolnshire, Kingston upon Hull and the East Riding of Yorkshire, this airport welcomes around 90.000 passengers per year. Opened in 1941 as an RAF air base, RAF Kirmington housed the 166th RAF Squadron that operated Avro Lancasters. After 1945, the airport was abandoned for 30 years, until the local council decided to activate the airfield again. After the local area was renamed, the airport was renamed to Humberside Airport. Due to the proximity of other airports, Humberside faces competition from East Midlands and Leeds Bradford Airport. This is because competitive airports have a wider range of passenger flights. The airport serves only two airlines with scheduled passenger flights, KLM to Amsterdam and Eastern Airways to Aberdeen, while during the summer season, TUI has charter flights to Palma de Mallorca, and BH Air to Burgas. FlyTampaâs version of Humberside Airport features Hi-res modelling and PBR textures, a modelled terminal interior with animated passengers, a GSX profile, and LOD performance modelling. This scenery can be purchased on FlyTampaâs website for 12.99$. â Stay tuned to Threshold for more flight sim news and reviews!</summary>
-    <published>2024-05-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jetgen</id>
     <title>Jetstream Designs Announces Geneva Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6657496c65366b270530d6df_Banner_Image%20(1).webp"/>
     <summary>Sim: MSFS. Microsoft has recently launched the Short SC.7 Skyvan for Microsoft Flight Simulator, marking it as Local Legend number 16. The aircraft was developed by iniBuilds for Microsoft. The Short SC.7 Skyvan is a British turboprop aircraft manufactured by Short Brothers. First flown in 1963, it has been primarily used for short-haul freight and skydiving. The aircraft is commonly known as the "Flying Shoebox" and has been utilized by various operators including Olympic Air, Skydive Spaceland, and Ryan Air Services. The new add-on includes sixteen liveries with themes such as airliner, military, skydiving, and surveyor. Additionally, the aircraft offers various features to explore. The add-on requires 7.88GB of storage space and is available on the in-sim Marketplace for $14.99. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/29lgsr</id>
+    <title>29Palms Releases Santorini Airport &amp; Island for MSFS</title>
+    <updated>2024-05-30T00:00:00+00:00</updated>
+    <link href="/news/29lgsr"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6658a034d1db87bede1ba9d6_Banner_Image.webp"/>
+    <summary>Sim: MSFS. 29Palms has just released its version of Santorini Airport (LGSR) for Microsoft Flight Simulator. The scenery package includes a highly realistic version of Santorini Airport, as well as the entire island of Santorini. The airport welcomes around 2.7 million passengers to the Greek island annually. The airport was first used in 1972 for military purposes and began commercial operations in the early 1980s. In 2015, a joint venture of Fraport AG/Copelouzos Group and the state privatisation fund took over the airport, with plans to operate it for 40 years. A major renovation in 2021 included numerous upgrades and refurbishments. Currently, the airport offers year-round flights to Athens and Thessaloniki, with seasonal operations to destinations such as Oslo, London, and Paris. Airlines like Aegean Airlines, Jet2.com, and Ryanair ensure that Santorini receives around 2.7 million passengers and 24.000 aircraft movements annually. The new scenery package by 29Palms includes custom buildings, interior, updated layout, and dynamic lights for the airport, as well as mesh terrain in 3m/pixel resolution, vegetation, villages, ports, points of interest, animations, and AI vessel traffic for the island. The add-on requires 2.58GB of storage space and is available on Contrail for $19.85. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-05-30T00:00:00+00:00</published>
   </entry>
 </feed>
