@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-01T18:23:45.199196+00:00</updated>
+  <updated>2024-06-02T18:24:37.435568+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mfsu15</id>
-    <title>Microsoft Releases Sim Update 15 for MSFS</title>
-    <updated>2024-05-23T00:00:00+00:00</updated>
-    <link href="/news/mfsu15"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/664f8271c3ac491e60d0b2d1_update15.webp"/>
-    <summary>Sim: MSFS. Microsoft has recently released the long-awaited Sim Update 5 for Microsoft Flight Simulator after a series of delays and controversies. The new update brings performance improvements, faster loading times, airport fixes, and the A320neo V2 by iniBuilds. â Focusing on performance gains and stability, Sim Update 15 claims to bring significant framerate gains where it was otherwise low, fewer stutters, especially on long sessions, and substantially faster loading times. The performance figures on glass cockpit heavy airplanes, such as the 747, have also been greatly improved thanks to their work optimizing the Coherent/JS tech stack. On the stability front, Microsoft has devised a way to stop the console version from crashing when it runs out of memory by detecting the issue before it happens and temporarily reallocating the memory, causing a brief loss of detail quality while preventing a hard crash. â The physics front has also seen changes, with a new high-accuracy physics system to enable vibrations and micro-movements, a more accurate ground contact model, and an optional soft ground collision model for tires and flexible gears.Â  â The A320neo V2 by iniBuilds is now available, featuring a high-quality 3D model, improved system fidelity, high-resolution textures, and a high-detail cabin for PC users. Microsoft has shared a video introducing us to the brand-new aircraft: â The complete changelog follows below: â The update is available right now on all compatible platforms. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fadsrs</id>
     <title>Final Approach Design Studios Releases Sylhet Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/otegbc"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665af9d2d6fdb9b5e55f51f6_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Orbx has recently released their final TrueEarth Great Britain region for X-Plane 12. Following the recent release of Great Britain South, Orbx has now released the last region in the series, Great Britain Central. This TrueEarth package covers a total of 22.928 square miles (59.383 kmÂ²) and comes with tons of features to explore. TrueEarth Great Britain Central covers a variety of areas, including the famous cities of Liverpool, Manchester and Newcastle. The new scenery package comes with tons of POIs to explore and has been made as realistic and performance-friendly as possible. TrueEarth Great Britain Central comes with tons of features, such as aerial imagery, 72.5 million trees, 4 million buildings, VFR landmarks, POIs, 10-meter mesh, and more. The add-on requires a total of 60.82 GB of storage space and is available on Orbx for approximately $37.53. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2a161</id>
+    <title>A2A Simulations Updates Accu-Sim Comanche 250 for MSFS</title>
+    <updated>2024-06-01T00:00:00+00:00</updated>
+    <link href="/news/a2a161"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665ba18298e4f651ac834e3a_comanche.webp"/>
+    <summary>Sim: MSFS. A2A Simulations has recently updated their Accu-Sim Comanche 250 for Microsoft Flight Simulator, adding compatibility with the KLN 90B GPS mod by falcon71 and addressing a few issues. The brand-new GPS addition simulates the Bendix/King KLN 90B, an IFR approach-capable classic with a bright three-inch CRT display, moving map graphics, and more. Its rendition for Microsoft Flight Simulator can be found on GitHub for free. Other than the new device, update 1.6.1 also brings ground physics tweaks, better detection of multi-position switches, JPI EDM 830 fixes, and more. The complete changelog follows below: Version 1.6.1 Changes The Accu-Sim Comanche 250 is available on their store for $49.99, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-01T00:00:00+00:00</published>
   </entry>
 </feed>
