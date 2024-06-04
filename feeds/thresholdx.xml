@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-03T18:26:52.152471+00:00</updated>
+  <updated>2024-06-04T18:25:17.892918+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/stsmaa</id>
-    <title>ST Simulations Announces Maastricht-Aachen Airport for MSFS</title>
-    <updated>2024-05-25T00:00:00+00:00</updated>
-    <link href="/news/stsmaa"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66526f799454c6a0685fbedf_maa1.webp"/>
-    <summary>Sim: MSFS. ST Simulations has recently announced the development and imminent release of Maastricht-Aachen Airport (EHBK) for Microsoft Flight Simulator. The airport serves Maastricht, in the Netherlands, and Aachen, in Germany, with a yearly average of 97.000 passengers. It was built by the Allies as a temporary airfield during World War 2, later transferred to the Dutch government and named Beek Airfield. It saw lots of traffic during its initial months because most roads in the country had been bombed and/or heavily damaged. As the repairs progressed, the traffic figures died down. The first semi-permanent terminal was built in 1947, followed by runway paving work in 1949 and 1950. Further expansion work was carried on from 1951 and beyond after an agreement between the airport and the Dutch Air Force. The airport underwent expansion work in the early 1970s to handle bigger aircraft, which included runway lengthening, taxiway widening, and apron enlargement. A decade later, a new passenger terminal was built, replacing the old one from the 40s. Corendon Dutch Airlines, Pegasus Airlines, and Ryanair serve it. â The scenery will feature an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, custom taxiway signage, custom objects, PBR texturing, aÂ realistic runway profile, and more. Refer to theirÂ websiteÂ for further information. Stay tuned to Threshold for more flight simulation news! â â</summary>
-    <published>2024-05-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msesmx</id>
-    <title>SkyHigh Studios Releases VÃ¤xjÃ¶ SmÃ¥land Airport for MSFS</title>
-    <updated>2024-05-27T00:00:00+00:00</updated>
-    <link href="/news/msesmx"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665450683649913b944ef8c4_Banner_Image.webp"/>
-    <summary>Sim: MSFS. SkyHigh Studios has just released their rendition of VÃ¤xjÃ¶ SmÃ¥land Airport (ESMX) for Microsoft Flight Simulator. The airport serves the Swedish city of VÃ¤xjÃ¶ and sees just under 150.000 passengers yearly. It offers both regional and international destinations for the city. The city of VÃ¤xjÃ¶ received its first scheduled flights in 1960, operating to and from the UrÃ¥sa airbase at that time. With increasing demand, a larger airport, VÃ¤xjÃ¶ SmÃ¥land Airport, was constructed and opened in 1975. Initially, the airport only offered flights to Stockholm, but in 2007, international flights began. Airlines such as Ryanair and Wizzair began operating out of the airport, and over the years, the popularity of charter flights to the Canary Islands and Southern Europe increased. Presently, the airport offers year-round flights to Stockholm Bromma Airport through Braathens Regional Airlines. Additionally, airlines like Norwegian Air Shuttle, Ryanair, Sunclass Airlines, and TUI fly Nordic operate seasonal routes to destinations such as Alicante, Rhodes, and Gran Canaria. The airport sees around 4000 aircraft movements annually. The scenery package is filled with features, such as PBR 4K ground polygons, custom AFCAD, fully modelled interior, authentic assets, dynamic night lighting, and more. The newly released VÃ¤xjÃ¶ SmÃ¥land Airport is now available on Orbx for approximately $14.10 and requires 2.64 GB of storage space. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/carplc</id>
     <title>Cloudsurf Asia Releases Clark International Airport for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/fsa364"/>
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665de91e4ffe47a3cdb03d2a_Banner_Image.webp"/>
     <summary>Sim: OTHER. In a recent press release from the Flight Simulation Association (FSA), the team shared a lot of new information about FlightSimExpo 2024, including the floor plan and exhibitor list. The press release indicated that FlightSimExpo 2024 is on track to exceed the attendance numbers of FlightSimExpo 2023 in Houston, with only 14 more attendee registrants needed. The Expo is scheduled to take place in Las Vegas from June 21st to June 23rd. A new fully interactive floorplan has been released and is now available for viewing on FlightSimExpoâs website. It includes all the confirmed locations for different exhibitors, product reveals, and more. On #FSExpoFriday at this year's FlightSimExpo, more than 15 developers will be making new announcements and providing previews. Some of the developers include BlueBird Simulations, Navigraph, and X-Plane. You can find the full list of developers online. Additionally, this year's Expo will be supported by more than 90 partners. FlightSimExpo 2024 will take place in Las Vegas from June 21st to June 23rd. Threshold will have in-depth coverage of the event, so stay tuned on Threshold for the latest news about FlightSimExpo 2024 and other flight simulation news.</summary>
+    <published>2024-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/closti</id>
+    <title>Cloud Studio Releases Stillwater Regional Airport for MSFS</title>
+    <updated>2024-06-03T00:00:00+00:00</updated>
+    <link href="/news/closti"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665e35addd089989a91fc532_sti1.webp"/>
+    <summary>Sim: MSFS. Cloud Studio has recently released their rendition of Stillwater Regional Airport (KSWO) for Microsoft Flight Simulator, serving Stillwater, Oklahoma, with a yearly average of 33,000 passengers as of 2023.Â  Its story starts in 1929 when Mayor George Thompson secured land north of town. This initial airfield, featuring a half-mile grass runway, a single hangar, and a tiny office, embodied the pioneering spirit of early aviation. J. Alvin "Al" Guthrie, a former barnstormer, took center stage during this era, offering rides, flight lessons, and limited charter services. The airport underwent a significant shift in 1934 with the tragic passing of George Searcy, its manager. His father, M.G. Searcy, briefly took over, and later, Air Force pilot Arthur Kingman renamed the field "Searcy Field" in George's honor. World War II brought a dramatic change. The U.S. Navy leased Searcy Field, transforming it into a training ground for over 1,500 pilots. Interestingly, the airport became a temporary holding facility for nearly 475 surplus military aircraft after the war. In 1946, these planes were sold off, with movie stunt pilot Paul Mantz keeping a dozen for his productions. Stillwater regained control of the airport in 1946. They then leased it to Oklahoma A&amp;M College (now Oklahoma State University) for a symbolic $1, highlighting the growing importance of aviation in education and research. Commercial air service arrived in 1953 with Central Airlines, eventually merging with Frontier in the late 60s. Their service to Stillwater ceased in 1975, leading to five years of no commercial traffic whatsoever. The hiatus ended in 1980 when Metro Airlines started flights to Oklahoma City using Twin Otters. The year 1977 marked a turning point. Searcy Field officially became Stillwater Municipal Airport, reflecting its growing role in serving the community. Finally, in 1999, it received its current designation â Stillwater Regional Airport â acknowledging its expanding reach. â Today, Stillwater Regional Airport continues to evolve. It offers general aviation services, supports business and commerce, and provides passenger service through American Eagle.Â  â The scenery features an accurate rendition of the airport, with a detailed terminal area, fully custom airport models, 4K textures, an up-to-date ground layout, PBR, and custom orthophoto.Â  It's available on SimMarket for roughly $14.10, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rrsvpp</id>
+    <title>RR Simulations Releases Valle de la Pascua Airport for MSFS</title>
+    <updated>2024-06-03T00:00:00+00:00</updated>
+    <link href="/news/rrsvpp"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665e3c8b59af9f58dc6d2201_ven1.webp"/>
+    <summary>Sim: MSFS. RR Simulations recently released their rendition of Valle de la Pascua Airport (SVVP) for Microsoft Flight Simulator. The airport serves Valle de la Pascua, the capital city of the autonomous municipality of Leonardo Infante in Venezuela. There is no public information regarding the airportâs origins, but itâs assumed to have been built around the early 1920s when the Venezuelan commercial aviation industry emerged and urged cities to develop their first airstrips.Â  It has a single 1525-meter runway with no night lighting, meaning it only operates from sunrise to sunset (06:00-18:00). Itâs also VFR only, with no navigational aids whatsoever (its VOR station no longer works).Â  Itâs only served by Conviasa with flights to Caracas. The scenery features an accurate rendition of the airport, with 3D buildings, custom ground textures, custom night lighting, a terminal interior, and a custom GSX profile. Itâs available on SimMarket for roughly $15.18, requiring at least 1.19 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-03T00:00:00+00:00</published>
   </entry>
 </feed>
