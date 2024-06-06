@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-05T18:24:59.099076+00:00</updated>
+  <updated>2024-06-06T18:25:06.865410+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tlcsim</id>
-    <title>New Takeoff and Landing Calculations Feature in Simbrief</title>
-    <updated>2024-05-29T00:00:00+00:00</updated>
-    <link href="/news/tlcsim"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/66573f9a2926d7ca819c4f8c_Banner_Image.webp"/>
-    <summary>Sim: OTHER. SimBrief has recently been updated to include takeoff and landing calculations in the flight planning application. A new tab within the SimBrief dispatch system provides performance calculations based on flight and aircraft data, making it easy to view and use the calculations. The new SimBrief Performance Tool will automatically calculate all relevant speeds and limitations, eliminating the need for manual calculations. The SimBrief Performance Tool offers a variety of options to choose from, including engine bleed, flaps, brake options, and more. If this seems complicated, you can allow the tool to decide the best options for you. The new takeoff and landing calculations feature is available for free to all SimBrief users on the SimBrief website. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mscuec</id>
-    <title>Microsoft Releases City Update 7: European Cities II for MSFS</title>
-    <updated>2024-05-29T00:00:00+00:00</updated>
-    <link href="/news/mscuec"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665743a1e159616e5d1a3ed6_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Microsoft has recently released its latest city update, City Update 7: European Cities II. The new update includes a total of six cities. The cities included in the update are Stockholm, Nice, Monaco, Porto, Barcelona, and Madrid. The cities have been significantly improved using high-resolution aerial imagery and high-fidelity TIN surface modelling. Thanks to the new update, simmers are able to explore everything from the Spanish Coast to the French Riviera and the capital of Sweden. The new city update is available for free on the in-Sim Marketplace. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-05-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msll16</id>
     <title>Microsoft Releases Local Legend 16: Short SC.7 Skyvan for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665f82921391e52206492f69_vilnius1.webp"/>
     <summary>Sim: MSFS. MâM Simulations has recently released their rendition of Vilnius Airport (EYVI) for Microsoft Flight Simulator, the largest airport in Lithuania in terms of passenger volume, with a yearly average of 5 million passengers. â It opened in 1932 as Wilno-Porubanek, after Vilnius and Porubanek, a former neighboring village now part of the Kirtimai district. It had a brief commercial stint before WW2 with routes to Warsaw, Vaunas (albeit much later, in 1939), and Riga. Designed by JÃ³zefa MrÃ³wkowa-OchmaÅska, the first passenger terminal was built between 1934 and 1936 in a modernist style. It included a restaurant, a hotel for passengers, a newspaper kiosk, a customs post, a police station, and a post office. At the time, it was heavily criticized for its overly luxurious interior and proportions, which were a bit too optimistic for the then very small traffic figures. During World War 2, it was briefly repurposed as a military airfield, with civil airport duties only resuming in mid-1944. A new terminal was built between 1949 and 1954, featuring a standard Soviet design from the 1950s. It was originally intended for no more than 20 aircraft movements a day. The ever-growing traffic figures led to the construction of a new departure terminal in 1993, which was connected to the old one. In late 2007, a new 1,000-square-meter terminal building was opened, improving its passenger handling capabilities and complying with Schengen requirements. The total area of the terminals was around 3,462 square meters. In early 2023, the government financed yet another departure terminal, which will cover 14,400 square meters of land and double the passenger throughput from 1,200 to 2,400 passengers/hour. Itâs scheduled to open in early 2025. Itâs a hub for airBaltic and a focus city for GetJet, Ryanair, and Wizz Air. Aegean Airlines, Air Montenegro, Austrian Airlines, Brussels Airlines, Finnair, flydubai, LOT, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Smartwings, Swiss, and Turkish also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom parking positions matching real life, custom surroundings, custom shuttle train, custom night lighting, custom terminal interior, PBR materials, and more. Itâs available on the iniBuilds Store for roughly $19.10, requiring at least 5.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vol19x</id>
+    <title>Orbx Releases Volanta 1.9 Update </title>
+    <updated>2024-06-05T00:00:00+00:00</updated>
+    <link href="/news/vol19x"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6660d861129986a9ae9abb9e_volantaa1.webp"/>
+    <summary>Sim: OTHER. Orbx recently released a new version of its popular flight tracking software, which includes updated schedules, improved flight charts, flight time filters, social filters, and more. Volanta 1.9 brings a vast list of changes and improvements, including updated flight schedules (premium only), aircraft image galleries (premium only), planespotters aircraft images, ATIS panel, public invite links for teams and parties, enhanced aircraft image cropper, custom aircraft colors and sizes, and much more. The complete list of additions and fixes follows below: The update is available for all users right now. For further information, refer to the official post. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/letlxp</id>
+    <title>FSDG Releases Teruel for X-Plane 12</title>
+    <updated>2024-06-06T00:00:00+00:00</updated>
+    <link href="/news/letlxp"/>
+    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6661fe19d3bc4fa0a3ed247e_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FSDG has released their rendition of Teruel Airport (LETL) for X-Plane 12. Officially known as Plataforma Aeroportuaria-Teruel (PLATA), this airport serves as an aircraft storage and maintenance facility for Tarmac Aerosave - a company specialising in aircraft maintenance and storage. After being used as an airfield during the Spanish Civil War in 1936-1939, the location of Teruel Airport was a firing range for the Spanish Air Force for a long time, before plans for a new commercial airport were made. Construction work began in 2009 and after 4 years, Teruel Airport was officially opened in February 2013, after receiving certification from AESA (Spanish Aviation Safety and Security Agency) for public use. Throughout the years, many more platforms for long-storage were made, increasing the number of available stands from 24 to 84. In 2016, Teruel Airport was one of the few airports that were used in testing of the A400M. During the same year, a flight school opened with a base at Teruel. The latest expansion included the construction of a new parking area. Meteorological conditions, location and low density of traffic made Teruel a perfect place for long-term storage facilities. Aside from Tarmac Aerosave, the Spanish space launch agency, PLD Space, also uses this airport to test launch vehicle technology. FSDGâs rendition of Teruel Airport features an authentic light environment, static aircraft, dynamic lighting, reflective textures, and optimisation for great performance and visual results. This scenery is made for X-Plane 12 but is compatible with X-Plane 11.30+ as well. It is available for purchase on SimMarket for roughly $11.85.</summary>
+    <published>2024-06-06T00:00:00+00:00</published>
   </entry>
 </feed>

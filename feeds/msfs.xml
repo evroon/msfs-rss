@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-06-05T18:24:57.794560+00:00</updated>
+  <updated>2024-06-06T18:25:05.630458+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/sim-update-15/</id>
-    <title>Release Notes – Sim Update 15 [1.37.18.0] Available Now</title>
-    <updated>2024-05-23T15:10:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/sim-update-15/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/03/40th_Anniversary_Horizontal-1024x512.png"/>
-    <summary>Release Notes for Sim Update 15 [1.37.18.0] are now available! Please launch the Xbox App or Steam to download the latest update.</summary>
-    <published>2024-05-23T15:10:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-23rd-2024-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/@nintaroww-Twitter-1-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user @nintaroww! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Hot off the heels of last week’s release of Sim Update 15, this week saw two more new additions to Microsoft Flight Simulator!City Update VII: European Cities II is … Continued</summary>
     <published>2024-05-30T23:11:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-9/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 09: Douglas C-47D Skytrain &amp; Waco CG-4A</title>
+    <updated>2024-06-06T07:00:41+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-9/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFS_Skytrain_Waco_NoSnipe_Logo_NoText-1024x576.png"/>
+    <summary>The glider / tow airplane system was one of the most important to the Allied efforts in World War II, notably on D-Day.</summary>
+    <published>2024-06-06T07:00:41+00:00</published>
   </entry>
 </feed>
