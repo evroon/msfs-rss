@@ -2,27 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-08T18:23:58.045574+00:00</updated>
+  <updated>2024-06-09T18:23:52.430675+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
   <entry>
-    <id>/news/g1sris</id>
-    <title>Gate15Scenery Releases Rishiri Airport V2 for MSFS</title>
-    <updated>2024-05-30T00:00:00+00:00</updated>
-    <link href="/news/g1sris"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6658e3c10bd509d63ee2c191_ris1.webp"/>
-    <summary>Sim: MSFS. Gate15Scenery has recently released the second version of its Rishiri Airport (RJER) for Microsoft Flight Simulator. The airport serves the entirety of Rishiri Island in Hokkaido Prefecture and has a yearly average of 38.000 passengers. The airport was built in the late 1960s when air travel was gaining momentum in Japan, and connecting remote islands became a priority. Initially, the airport served a limited number of flights, primarily connecting Rishiri to the nearby Wakkanai Airport on the mainland. However, its presence proved crucial in boosting tourism and facilitating the transportation of goods and services. The airport also became a vital link for emergency medical services, ensuring timely access to specialized care for the island's residents. Over the years, Rishiri Airport has witnessed steady growth. The runway was extended in 1990 to accommodate larger aircraft, allowing for more direct flights and increased passenger capacity. Today, the airport serves several domestic destinations, including Sapporo and Tokyo, making travel to and from the island more convenient. Beyond its role in transportation, Rishiri Airport has become a symbol of the island's connection to the broader world. It serves as a gateway for visitors to experience the island's natural beauty, from the majestic Mount Rishiri to its diverse marine life. It's currently only served by ANA Wings and Hokkaido Air System, with flights to Sapporo (Chitose and Okadama). The scenery features an accurate rendition of the airport, with custom ground textures, a terminal interior, an up-to-date ground layout, and more. Owners of the previous version are eligible for a free upgrade. It's available on SimMarket for roughly $14.38, requiring at least 298.89 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>/news/fltjer</id>
     <title>FLYT Simulations Releases Comte. Ariston Pessoa Regional Airport for MSFS </title>
     <updated>2024-05-31T00:00:00+00:00</updated>
     <link href="/news/fltjer"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665a3246f2755381fa1dad35_jer1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665a3246f2755381fa1dad35_jer1.webp"/>
     <summary>Sim: MSFS. FLYT Simulations has recently released their rendition of Comandante Ariston Pessoa Regional Airport (SBJE), serving Jijoca de Jericoacoara, Brazil, with a yearly average of 102,000 passengers as of 2023. â Funded by a government plan to develop regional aviation in Brazil, construction work began in 2011 and concluded three years later. The inauguration, though, only happened in 2017 after a series of organizational mishaps. The passenger terminal, designed by Francisco Antonio Laprovitera Teixeira, consists of a single block with departure and arrivals, food kiosks, bathrooms on each extremity, andânot manyâcheck-in desks. Its 2200m runway is long enough to accommodate an Airbus A320 and its Boeing counterpart, the 737-800. Itâs served by Azul (Belo Horizonte), Azul Conecta (Fortaleza, ParnaÃ­ba), Gol Transportes AÃ©reos (SÃ£o Paulo - Guarulhos), and LATAM Brasil (SÃ£o Paulo - Guarulhos). The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, a high-detail terminal interior, custom ground service equipment, custom ground clutter, and more. Itâs available on the MSFS Marketplace for $9.99.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-31T00:00:00+00:00</published>
   </entry>
@@ -31,7 +22,7 @@
     <title>Aviotek Softwareâs Frankfurt Airport to Release in mid-June</title>
     <updated>2024-05-31T00:00:00+00:00</updated>
     <link href="/news/avij14"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665a397a34d8cd44fd5aec91_fraport1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665a397a34d8cd44fd5aec91_fraport1.webp"/>
     <summary>Sim: MSFS. Aviotek Simulation Software has published a new development update covering the progress on their free Frankfurt International Airport (EDDF) for Microsoft Flight Simulator, which is set to be released in mid-June. â They apologize for taking so long with the project, justifying it with their decision to add new features, fix bugs, and remake some objects and buildings to improve the overall experience further. The scenery will feature a full rendition of Terminals 1 and 2, including all concourses, remote stands, cargo areas, etc. It will be fleshed out with fully animated jetways, detailed aprons, custom vehicles, custom ground service equipment, terminal interiors (toggleable), a custom ground profile, an up-to-date taxiway layout, custom HDR lighting, and more. â Aviotek will continue to update the scenery post-release, covering all the areas that havenât received âenough loveâ yet, including the brand-new, yet-to-be-finished Terminal 3. Itâs set to release on June 14, sneakily revealed by one of the WIP screenshots accompanying their publication.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-05-31T00:00:00+00:00</published>
   </entry>
@@ -40,7 +31,7 @@
     <title>X-Rotors Releases AW139 for X-Plane 12</title>
     <updated>2024-06-01T00:00:00+00:00</updated>
     <link href="/news/xraw139"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665aef524f8157df3202f7fe_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665aef524f8157df3202f7fe_Banner_Image.webp"/>
     <summary>Sim: X-Plane. X-Rotors have released their rendition of the AgustaWestland AW139 for X-Plane 12. This helicopter is used in various roles, in both civilian and military sectors. Designed by Agusta and Bell Company in the late 90s, the AB139 had its first flight in February 2001. After Bell left the project, the helicopter was redesignated as the AW139. After entering service in 2003, the AgustaWestland AW139 proved to be a commercial success, as more than 1100 were built as of January 2021. It has found many customers in the civilian sector, such as CHC Helicopters, Gulf Helicopters, and Weststar Aviation. There also was a variety of customers in the military sector, as more than 27 Air Forces around the globe still operate this helicopter to date. Powered by two Pratt &amp; Whitney Canada PT6C-67C turboshaft engines, the AW139 can cruise at speeds of 310km/h with a range of 1061km. The new X-Plane 12 version features a complete model rebuild, including a new cabin, landing gear and panels. The new version also comes with new animations for both rotors, Epic Primus 7 avionics, with fully functional PFD and MFD, improved Flight Director, new textures, liveries, functional audio panel, winch, wire-cutters, inlet filters and float additions (which can be managed from inside the cockpit). An overhauled flight model, improved autopilot and a quick reference guide are also included. Version 5.01 for X-Plane 11 is still available, however, it has been discontinued and will not receive any more updates. The AW139 is available at the X-Rotors store for roughly $43.36. Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-06-01T00:00:00+00:00</published>
   </entry>
@@ -49,7 +40,7 @@
     <title>Orbx Releases TrueEarth Great Britain Central for X-Plane 12</title>
     <updated>2024-06-01T00:00:00+00:00</updated>
     <link href="/news/otegbc"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665af9d2d6fdb9b5e55f51f6_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665af9d2d6fdb9b5e55f51f6_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Orbx has recently released their final TrueEarth Great Britain region for X-Plane 12. Following the recent release of Great Britain South, Orbx has now released the last region in the series, Great Britain Central. This TrueEarth package covers a total of 22.928 square miles (59.383 kmÂ²) and comes with tons of features to explore. TrueEarth Great Britain Central covers a variety of areas, including the famous cities of Liverpool, Manchester and Newcastle. The new scenery package comes with tons of POIs to explore and has been made as realistic and performance-friendly as possible. TrueEarth Great Britain Central comes with tons of features, such as aerial imagery, 72.5 million trees, 4 million buildings, VFR landmarks, POIs, 10-meter mesh, and more. The add-on requires a total of 60.82 GB of storage space and is available on Orbx for approximately $37.53. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-01T00:00:00+00:00</published>
   </entry>
@@ -58,7 +49,7 @@
     <title>A2A Simulations Updates Accu-Sim Comanche 250 for MSFS</title>
     <updated>2024-06-01T00:00:00+00:00</updated>
     <link href="/news/a2a161"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665ba18298e4f651ac834e3a_comanche.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665ba18298e4f651ac834e3a_comanche.webp"/>
     <summary>Sim: MSFS. A2A Simulations has recently updated their Accu-Sim Comanche 250 for Microsoft Flight Simulator, adding compatibility with the KLN 90B GPS mod by falcon71 and addressing a few issues. The brand-new GPS addition simulates the Bendix/King KLN 90B, an IFR approach-capable classic with a bright three-inch CRT display, moving map graphics, and more. Its rendition for Microsoft Flight Simulator can be found on GitHub for free. Other than the new device, update 1.6.1 also brings ground physics tweaks, better detection of multi-position switches, JPI EDM 830 fixes, and more. The complete changelog follows below: Version 1.6.1 Changes The Accu-Sim Comanche 250 is available on their store for $49.99, requiring at least 1.8 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-01T00:00:00+00:00</published>
   </entry>
@@ -67,7 +58,7 @@
     <title>Chudoba Design Releases Jeju International Airport for X-Plane 11 &amp; 12</title>
     <updated>2024-06-03T00:00:00+00:00</updated>
     <link href="/news/cdrkpc"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665ddc883fc8f94e708c6a20_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665ddc883fc8f94e708c6a20_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Chudoba Design has recently released its version of Jeju International Airport (RKPC) for X-Plane 11 and 12. The airport serves the island of Jeju in South Korea and is located approximately 2.5 miles away from the city center. It welcomes around 29 million passengers annually. Jeju International Airport was opened on April 26, 1968. It is the second largest airport in South Korea, with only Incheon Airport ahead of it. The airport serves a variety of destinations, both domestic and international, and is part of the worldâs busiest airline route, the Jeju to Seoul-Gimpo route. Popular destinations served by the airport include Seoul-Gimpo, Hong Kong, Singapore, and many more. The airport accommodates over 29 million passengers annually and has around 167.000 yearly aircraft operations. The newly released version of Jeju International Airport comes with various features such as PBR textures, SAM integration, performance optimization, custom buildings, custom objects, and more. The add-on is available on SimMarket for approximately $13.04. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-03T00:00:00+00:00</published>
   </entry>
@@ -76,7 +67,7 @@
     <title>FSA Reveals FlightSimExpo 2024âs Floorplan &amp; Exhibitor List</title>
     <updated>2024-06-03T00:00:00+00:00</updated>
     <link href="/news/fsa364"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665de91e4ffe47a3cdb03d2a_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665de91e4ffe47a3cdb03d2a_Banner_Image.webp"/>
     <summary>Sim: OTHER. In a recent press release from the Flight Simulation Association (FSA), the team shared a lot of new information about FlightSimExpo 2024, including the floor plan and exhibitor list. The press release indicated that FlightSimExpo 2024 is on track to exceed the attendance numbers of FlightSimExpo 2023 in Houston, with only 14 more attendee registrants needed. The Expo is scheduled to take place in Las Vegas from June 21st to June 23rd. A new fully interactive floorplan has been released and is now available for viewing on FlightSimExpoâs website. It includes all the confirmed locations for different exhibitors, product reveals, and more. On #FSExpoFriday at this year's FlightSimExpo, more than 15 developers will be making new announcements and providing previews. Some of the developers include BlueBird Simulations, Navigraph, and X-Plane. You can find the full list of developers online. Additionally, this year's Expo will be supported by more than 90 partners. FlightSimExpo 2024 will take place in Las Vegas from June 21st to June 23rd. Threshold will have in-depth coverage of the event, so stay tuned on Threshold for the latest news about FlightSimExpo 2024 and other flight simulation news.</summary>
     <published>2024-06-03T00:00:00+00:00</published>
   </entry>
@@ -85,7 +76,7 @@
     <title>Cloud Studio Releases Stillwater Regional Airport for MSFS</title>
     <updated>2024-06-03T00:00:00+00:00</updated>
     <link href="/news/closti"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665e35addd089989a91fc532_sti1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665e35addd089989a91fc532_sti1.webp"/>
     <summary>Sim: MSFS. Cloud Studio has recently released their rendition of Stillwater Regional Airport (KSWO) for Microsoft Flight Simulator, serving Stillwater, Oklahoma, with a yearly average of 33,000 passengers as of 2023.Â  Its story starts in 1929 when Mayor George Thompson secured land north of town. This initial airfield, featuring a half-mile grass runway, a single hangar, and a tiny office, embodied the pioneering spirit of early aviation. J. Alvin "Al" Guthrie, a former barnstormer, took center stage during this era, offering rides, flight lessons, and limited charter services. The airport underwent a significant shift in 1934 with the tragic passing of George Searcy, its manager. His father, M.G. Searcy, briefly took over, and later, Air Force pilot Arthur Kingman renamed the field "Searcy Field" in George's honor. World War II brought a dramatic change. The U.S. Navy leased Searcy Field, transforming it into a training ground for over 1,500 pilots. Interestingly, the airport became a temporary holding facility for nearly 475 surplus military aircraft after the war. In 1946, these planes were sold off, with movie stunt pilot Paul Mantz keeping a dozen for his productions. Stillwater regained control of the airport in 1946. They then leased it to Oklahoma A&amp;M College (now Oklahoma State University) for a symbolic $1, highlighting the growing importance of aviation in education and research. Commercial air service arrived in 1953 with Central Airlines, eventually merging with Frontier in the late 60s. Their service to Stillwater ceased in 1975, leading to five years of no commercial traffic whatsoever. The hiatus ended in 1980 when Metro Airlines started flights to Oklahoma City using Twin Otters. The year 1977 marked a turning point. Searcy Field officially became Stillwater Municipal Airport, reflecting its growing role in serving the community. Finally, in 1999, it received its current designation â Stillwater Regional Airport â acknowledging its expanding reach. â Today, Stillwater Regional Airport continues to evolve. It offers general aviation services, supports business and commerce, and provides passenger service through American Eagle.Â  â The scenery features an accurate rendition of the airport, with a detailed terminal area, fully custom airport models, 4K textures, an up-to-date ground layout, PBR, and custom orthophoto.Â  It's available on SimMarket for roughly $14.10, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-03T00:00:00+00:00</published>
   </entry>
@@ -94,7 +85,7 @@
     <title>RR Simulations Releases Valle de la Pascua Airport for MSFS</title>
     <updated>2024-06-03T00:00:00+00:00</updated>
     <link href="/news/rrsvpp"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665e3c8b59af9f58dc6d2201_ven1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665e3c8b59af9f58dc6d2201_ven1.webp"/>
     <summary>Sim: MSFS. RR Simulations recently released their rendition of Valle de la Pascua Airport (SVVP) for Microsoft Flight Simulator. The airport serves Valle de la Pascua, the capital city of the autonomous municipality of Leonardo Infante in Venezuela. There is no public information regarding the airportâs origins, but itâs assumed to have been built around the early 1920s when the Venezuelan commercial aviation industry emerged and urged cities to develop their first airstrips.Â  It has a single 1525-meter runway with no night lighting, meaning it only operates from sunrise to sunset (06:00-18:00). Itâs also VFR only, with no navigational aids whatsoever (its VOR station no longer works).Â  Itâs only served by Conviasa with flights to Caracas. The scenery features an accurate rendition of the airport, with 3D buildings, custom ground textures, custom night lighting, a terminal interior, and a custom GSX profile. Itâs available on SimMarket for roughly $15.18, requiring at least 1.19 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-03T00:00:00+00:00</published>
   </entry>
@@ -103,7 +94,7 @@
     <title>MâM Simulations Releases Vilnius Airport for MSFS</title>
     <updated>2024-06-04T00:00:00+00:00</updated>
     <link href="/news/mmsvil"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/665f82921391e52206492f69_vilnius1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665f82921391e52206492f69_vilnius1.webp"/>
     <summary>Sim: MSFS. MâM Simulations has recently released their rendition of Vilnius Airport (EYVI) for Microsoft Flight Simulator, the largest airport in Lithuania in terms of passenger volume, with a yearly average of 5 million passengers. â It opened in 1932 as Wilno-Porubanek, after Vilnius and Porubanek, a former neighboring village now part of the Kirtimai district. It had a brief commercial stint before WW2 with routes to Warsaw, Vaunas (albeit much later, in 1939), and Riga. Designed by JÃ³zefa MrÃ³wkowa-OchmaÅska, the first passenger terminal was built between 1934 and 1936 in a modernist style. It included a restaurant, a hotel for passengers, a newspaper kiosk, a customs post, a police station, and a post office. At the time, it was heavily criticized for its overly luxurious interior and proportions, which were a bit too optimistic for the then very small traffic figures. During World War 2, it was briefly repurposed as a military airfield, with civil airport duties only resuming in mid-1944. A new terminal was built between 1949 and 1954, featuring a standard Soviet design from the 1950s. It was originally intended for no more than 20 aircraft movements a day. The ever-growing traffic figures led to the construction of a new departure terminal in 1993, which was connected to the old one. In late 2007, a new 1,000-square-meter terminal building was opened, improving its passenger handling capabilities and complying with Schengen requirements. The total area of the terminals was around 3,462 square meters. In early 2023, the government financed yet another departure terminal, which will cover 14,400 square meters of land and double the passenger throughput from 1,200 to 2,400 passengers/hour. Itâs scheduled to open in early 2025. Itâs a hub for airBaltic and a focus city for GetJet, Ryanair, and Wizz Air. Aegean Airlines, Air Montenegro, Austrian Airlines, Brussels Airlines, Finnair, flydubai, LOT, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Smartwings, Swiss, and Turkish also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom parking positions matching real life, custom surroundings, custom shuttle train, custom night lighting, custom terminal interior, PBR materials, and more. Itâs available on the iniBuilds Store for roughly $19.10, requiring at least 5.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-04T00:00:00+00:00</published>
   </entry>
@@ -112,7 +103,7 @@
     <title>Orbx Releases Volanta 1.9 Update </title>
     <updated>2024-06-05T00:00:00+00:00</updated>
     <link href="/news/vol19x"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6660d861129986a9ae9abb9e_volantaa1.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6660d861129986a9ae9abb9e_volantaa1.webp"/>
     <summary>Sim: OTHER. Orbx recently released a new version of its popular flight tracking software, which includes updated schedules, improved flight charts, flight time filters, social filters, and more. Volanta 1.9 brings a vast list of changes and improvements, including updated flight schedules (premium only), aircraft image galleries (premium only), planespotters aircraft images, ATIS panel, public invite links for teams and parties, enhanced aircraft image cropper, custom aircraft colors and sizes, and much more. The complete list of additions and fixes follows below: The update is available for all users right now. For further information, refer to the official post. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-05T00:00:00+00:00</published>
   </entry>
@@ -121,7 +112,7 @@
     <title>FSDG Releases Teruel for X-Plane 12</title>
     <updated>2024-06-06T00:00:00+00:00</updated>
     <link href="/news/letlxp"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6661fe19d3bc4fa0a3ed247e_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6661fe19d3bc4fa0a3ed247e_Banner_Image.webp"/>
     <summary>Sim: X-Plane. FSDG has released their rendition of Teruel Airport (LETL) for X-Plane 12. Officially known as Plataforma Aeroportuaria-Teruel (PLATA), this airport serves as an aircraft storage and maintenance facility for Tarmac Aerosave - a company specialising in aircraft maintenance and storage. After being used as an airfield during the Spanish Civil War in 1936-1939, the location of Teruel Airport was a firing range for the Spanish Air Force for a long time, before plans for a new commercial airport were made. Construction work began in 2009 and after 4 years, Teruel Airport was officially opened in February 2013, after receiving certification from AESA (Spanish Aviation Safety and Security Agency) for public use. Throughout the years, many more platforms for long-storage were made, increasing the number of available stands from 24 to 84. In 2016, Teruel Airport was one of the few airports that were used in testing of the A400M. During the same year, a flight school opened with a base at Teruel. The latest expansion included the construction of a new parking area. Meteorological conditions, location and low density of traffic made Teruel a perfect place for long-term storage facilities. Aside from Tarmac Aerosave, the Spanish space launch agency, PLD Space, also uses this airport to test launch vehicle technology. FSDGâs rendition of Teruel Airport features an authentic light environment, static aircraft, dynamic lighting, reflective textures, and optimisation for great performance and visual results. This scenery is made for X-Plane 12 but is compatible with X-Plane 11.30+ as well. It is available for purchase on SimMarket for roughly $11.85. â Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-06-06T00:00:00+00:00</published>
   </entry>
@@ -130,7 +121,7 @@
     <title>Cowan Simulation Releases EC130 for MSFS</title>
     <updated>2024-06-06T00:00:00+00:00</updated>
     <link href="/news/csh130"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6662008f6ebec53829397595_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6662008f6ebec53829397595_Banner_Image.webp"/>
     <summary>Sim: MSFS. Cowan Simulation has just released their Eurocopter EC130 (also named Airbus H130) for Microsoft Flight Simulator. The Eurocopter EC130 is a single-engine light helicopter developed after the Eurocopter AS350. It was launched and produced by the Eurocopter Group, which would later be rebranded as Airbus Helicopters.Â  During the early 1990s, the development of a new helicopter, based on the Eurocopter AS350, began. The main difference was the adoption of Fenestron instead of a conventional tail rotor.Â  On 24th June 1999, the first prototype of EC130 performed its first flight. Apart from the Fenestron, the EC130 also featured a dual-hydraulic system and a wider fuselage. It was introduced in 2001 by Blue Hawaiian Helicopters, who were the launch operator. Powered by a single Turbomeca Ariel 2D Turboshaft engine, EC130 can fly at altitudes of 23,000ft for 4 hours, with a range of 327nm with a Vne of 155kts. Cowan Simulationâs rendition of EC130 features a detailed manual, paint kit, realistic systems, MEDEVAC version, 3 cockpit variants (G530/430/GTN/GX3 Touch/Analog), PMS or TDS GTN/GTNXi 650 and 750 integration (PC only), floats version, 50 liveries, functional spot/search lights, animated Cineflex camera, 4K PBR textures, detailed night lighting and accurate 3D modelling. This add-on can be purchased on the CowanSim store for $29.99 and will require at least 3.67GB of free disk space. â Stay tuned to Threshold for more flight sim news!</summary>
     <published>2024-06-06T00:00:00+00:00</published>
   </entry>
@@ -139,7 +130,7 @@
     <title>FSDreamTeam Updates GSX Pro for MSFS</title>
     <updated>2024-06-07T00:00:00+00:00</updated>
     <link href="/news/msgsx3"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6663271a821ff5243a62951c_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6663271a821ff5243a62951c_Banner_Image.webp"/>
     <summary>Sim: MSFS. FSDreamTeam has recently updated its GSX Pro add-on for Microsoft Flight Simulator to version V3.0. The update includes new features and fixes, with the addition of seated passengers and a new crew system being the major highlights. With the new update, users can now see passengers seated within their plane. Initially, only the Fenix A320 has compatibility for seated passengers. The new feature aims to make the cabin environment more realistic. Another new feature is a new crew system, which includes 16 different characters with 227 airline uniform variations. In addition to the new features, the update also includes various fixes. The full changelog can be found below. Version 3.0.0 The updated GSX Pro is available on the FSDreamTeam website for approximately $37.49. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-07T00:00:00+00:00</published>
   </entry>
@@ -148,8 +139,17 @@
     <title>iniBuilds Previews Jomo Kenyatta International Airport for MSFS</title>
     <updated>2024-06-07T00:00:00+00:00</updated>
     <link href="/news/inprjk"/>
-    <link href="https://assets-global.website-files.com/5b27a494dc3d312fe5c01da8/6663355a70731e175cba9262_Banner_Image.webp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6663355a70731e175cba9262_Banner_Image.webp"/>
     <summary>Sim: MSFS. iniBuilds has given a sneak peek of its upcoming scenery for Microsoft Flight Simulator. The new scenery package features Jomo Kenyatta International Airport (HKJK) in Nairobi, Kenya. As the country's largest airport, it accommodates a wide range of destinations and approximately 11 million passengers annually. The scenery package will include various features such as hand-crafted ground textures, realistic airport surroundings, dynamic lighting, detailed airport buildings, an official GSX profile, LOD optimisation, iniManager compatibility, and more. While iniBuilds has expressed the intention to release the scenery soon, no specific launch date has been announced yet. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bmamxp</id>
+    <title>Barelli MSFS Addon Releases Milan Malpensa Airport for MSFS</title>
+    <updated>2024-06-09T00:00:00+00:00</updated>
+    <link href="/news/bmamxp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6665ae018a2022b3fc28a323_Banner%20Image.webp"/>
+    <summary>Sim: MSFS. Barelli MSFS Addon has recently released its version of Milan Malpensa Airport (LIMC) for Microsoft Flight Simulator. The airport serves the Milan metropolitan area and is the second busiest airport in Italy. With just over 26 million yearly passengers, it offers a variety of destinations worldwide. Milan Malpensa Airport began commercial operations in 1948 after previously being used for both general and military aviation. Over the years, the airport underwent various expansions and continuous development. In 1998, the Italian airline Alitalia relocated its main hub from Rome Fiumicino Airport to Milan Malpensa. Presently, the airport accommodates over 26 million passengers annually, with approximately 187.000 aircraft movements. It serves airlines such as easyJet, Neos, Ryanair, and others, offering destinations including New York, London, and Amsterdam. The recently released scenery package provides Microsoft Flight Simulator users with a variety of features for the Italian hub. The add-on requires 1.34 GB of storage space and is available on SimMarket for approximately $17.66. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-06-09T00:00:00+00:00</published>
   </entry>
 </feed>
