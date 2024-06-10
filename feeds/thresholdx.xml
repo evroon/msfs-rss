@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-09T18:23:52.430675+00:00</updated>
+  <updated>2024-06-10T18:25:34.999218+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fltjer</id>
-    <title>FLYT Simulations Releases Comte. Ariston Pessoa Regional Airport for MSFS </title>
-    <updated>2024-05-31T00:00:00+00:00</updated>
-    <link href="/news/fltjer"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665a3246f2755381fa1dad35_jer1.webp"/>
-    <summary>Sim: MSFS. FLYT Simulations has recently released their rendition of Comandante Ariston Pessoa Regional Airport (SBJE), serving Jijoca de Jericoacoara, Brazil, with a yearly average of 102,000 passengers as of 2023. â Funded by a government plan to develop regional aviation in Brazil, construction work began in 2011 and concluded three years later. The inauguration, though, only happened in 2017 after a series of organizational mishaps. The passenger terminal, designed by Francisco Antonio Laprovitera Teixeira, consists of a single block with departure and arrivals, food kiosks, bathrooms on each extremity, andânot manyâcheck-in desks. Its 2200m runway is long enough to accommodate an Airbus A320 and its Boeing counterpart, the 737-800. Itâs served by Azul (Belo Horizonte), Azul Conecta (Fortaleza, ParnaÃ­ba), Gol Transportes AÃ©reos (SÃ£o Paulo - Guarulhos), and LATAM Brasil (SÃ£o Paulo - Guarulhos). The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, a high-detail terminal interior, custom ground service equipment, custom ground clutter, and more. Itâs available on the MSFS Marketplace for $9.99.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/avij14</id>
     <title>Aviotek Softwareâs Frankfurt Airport to Release in mid-June</title>
@@ -150,6 +141,15 @@
     <link href="/news/bmamxp"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6665ae018a2022b3fc28a323_Banner%20Image.webp"/>
     <summary>Sim: MSFS. Barelli MSFS Addon has recently released its version of Milan Malpensa Airport (LIMC) for Microsoft Flight Simulator. The airport serves the Milan metropolitan area and is the second busiest airport in Italy. With just over 26 million yearly passengers, it offers a variety of destinations worldwide. Milan Malpensa Airport began commercial operations in 1948 after previously being used for both general and military aviation. Over the years, the airport underwent various expansions and continuous development. In 1998, the Italian airline Alitalia relocated its main hub from Rome Fiumicino Airport to Milan Malpensa. Presently, the airport accommodates over 26 million passengers annually, with approximately 187.000 aircraft movements. It serves airlines such as easyJet, Neos, Ryanair, and others, offering destinations including New York, London, and Amsterdam. The recently released scenery package provides Microsoft Flight Simulator users with a variety of features for the Italian hub. The add-on requires 1.34 GB of storage space and is available on SimMarket for approximately $17.66. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msf4t2</id>
+    <title>Microsoft Publishes New MSFS 2024 Trailer</title>
+    <updated>2024-06-09T00:00:00+00:00</updated>
+    <link href="/news/msf4t2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6666210d0e9353b502720da2_newfs1.webp"/>
+    <summary>Sim: MSFS. Microsoft has recently unveiled the second trailer for the upcoming Microsoft Flight Simulator 2024, which shows new aircraft, features, stunning visuals, and the long-awaited release date: November 18th! The new trailer was part of Microsoft's yearly Xbox Game Showcase, where Microsoft announces new IPs and/or teases stuff that was already announced beforehand. â Similarly, the second trailer also shows many activities that will be possible within the new simulator, including air ambulance, aerial advertising, agricultural aviation, air rescue, cargo operations, ballooning, VIP passenger transport, and much more. It also hints at a new airliner: the Airbus A330, supposedly developed by iniBuilds for Microsoft, and a new photo mode. The pricing has yet to be available, but Microsoft Flight Simulator will be available on the Microsoft Store, Game Pass, and Steam on November 18th.Â Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-09T00:00:00+00:00</published>
   </entry>
 </feed>
