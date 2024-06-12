@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-11T18:26:34.442891+00:00</updated>
+  <updated>2024-06-12T18:25:51.575634+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/avij14</id>
-    <title>Aviotek Softwareâs Frankfurt Airport to Release in mid-June</title>
-    <updated>2024-05-31T00:00:00+00:00</updated>
-    <link href="/news/avij14"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665a397a34d8cd44fd5aec91_fraport1.webp"/>
-    <summary>Sim: MSFS. Aviotek Simulation Software has published a new development update covering the progress on their free Frankfurt International Airport (EDDF) for Microsoft Flight Simulator, which is set to be released in mid-June. â They apologize for taking so long with the project, justifying it with their decision to add new features, fix bugs, and remake some objects and buildings to improve the overall experience further. The scenery will feature a full rendition of Terminals 1 and 2, including all concourses, remote stands, cargo areas, etc. It will be fleshed out with fully animated jetways, detailed aprons, custom vehicles, custom ground service equipment, terminal interiors (toggleable), a custom ground profile, an up-to-date taxiway layout, custom HDR lighting, and more. â Aviotek will continue to update the scenery post-release, covering all the areas that havenât received âenough loveâ yet, including the brand-new, yet-to-be-finished Terminal 3. Itâs set to release on June 14, sneakily revealed by one of the WIP screenshots accompanying their publication.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-05-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xraw139</id>
     <title>X-Rotors Releases AW139 for X-Plane 12</title>
@@ -149,7 +140,16 @@
     <updated>2024-06-09T00:00:00+00:00</updated>
     <link href="/news/msf4t2"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6666210d0e9353b502720da2_newfs1.webp"/>
-    <summary>Sim: MSFS. Microsoft has recently unveiled the second trailer for the upcoming Microsoft Flight Simulator 2024, which shows new aircraft, features, stunning visuals, and the long-awaited release date: November 18th! The new trailer was part of Microsoft's yearly Xbox Game Showcase, where Microsoft announces new IPs and/or teases stuff that was already announced beforehand. â Similarly, the second trailer also shows many activities that will be possible within the new simulator, including air ambulance, aerial advertising, agricultural aviation, air rescue, cargo operations, ballooning, VIP passenger transport, and much more. It also hints at a new airliner: the Airbus A330, supposedly developed by iniBuilds for Microsoft, and a new photo mode. The pricing has yet to be available, but Microsoft Flight Simulator will be available on the Microsoft Store, Game Pass, and Steam on November 18th.Â Stay tuned to Threshold for more flight simulation news! â</summary>
+    <summary>Sim: MSFS. Microsoft has recently unveiled the second trailer for the upcoming Microsoft Flight Simulator 2024, which shows new aircraft, features, stunning visuals, and the long-awaited release date: November 19th! The new trailer was part of Microsoft's yearly Xbox Game Showcase, where Microsoft announces new IPs and/or teases stuff that was already announced beforehand. â Similarly, the second trailer also shows many activities that will be possible within the new simulator, including air ambulance, aerial advertising, agricultural aviation, air rescue, cargo operations, ballooning, VIP passenger transport, and much more. It also hints at a new airliner: the Airbus A330, supposedly developed by iniBuilds for Microsoft, and a new photo mode. The pricing has yet to be available, but Microsoft Flight Simulator will be available on the Microsoft Store, Game Pass, and Steam on November 18th.Â Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bacgam</id>
+    <title>Backwood Studios Releases Glenswinton Aerodrome for MSFS</title>
+    <updated>2024-06-11T00:00:00+00:00</updated>
+    <link href="/news/bacgam"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6668c353dc2e01a9e558e49c_glen1.webp"/>
+    <summary>Sim: MSFS. Backwood Studios has recently released their rendition of Glenswinton Aerodrome (GB-0201) for Microsoft Flight Simulator, a private aerodrome near Castle Douglas in Scotland.Â  Glenswinton's origins trace back to the early 1900s, a period marked by pioneering feats in aviation. The exact date of its establishment is unclear, but historical records suggest it served as a military airfield during the Great War. During this turbulent time, the aerodrome likely housed fighter aircraft tasked with patrolling the skies and safeguarding British airspace. With a 430-meter gravel runway, it's mainly suitable for smaller general aviation aircraft and STOL-capable airplanes.Â  The scenery features an accurate rendition of the aerodrome, with custom-modeled buildings, animated people and farm life, hand-built dirt roads, a custom forest to reflect current satellite imagery, a custom runway slope, custom night lighting, and more. It's available on OrbxDirect for roughly $4.95, requiring at least 1.01 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-11T00:00:00+00:00</published>
   </entry>
 </feed>
