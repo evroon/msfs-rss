@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-12T18:25:51.575634+00:00</updated>
+  <updated>2024-06-13T18:26:29.770114+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xraw139</id>
-    <title>X-Rotors Releases AW139 for X-Plane 12</title>
-    <updated>2024-06-01T00:00:00+00:00</updated>
-    <link href="/news/xraw139"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665aef524f8157df3202f7fe_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. X-Rotors have released their rendition of the AgustaWestland AW139 for X-Plane 12. This helicopter is used in various roles, in both civilian and military sectors. Designed by Agusta and Bell Company in the late 90s, the AB139 had its first flight in February 2001. After Bell left the project, the helicopter was redesignated as the AW139. After entering service in 2003, the AgustaWestland AW139 proved to be a commercial success, as more than 1100 were built as of January 2021. It has found many customers in the civilian sector, such as CHC Helicopters, Gulf Helicopters, and Weststar Aviation. There also was a variety of customers in the military sector, as more than 27 Air Forces around the globe still operate this helicopter to date. Powered by two Pratt &amp; Whitney Canada PT6C-67C turboshaft engines, the AW139 can cruise at speeds of 310km/h with a range of 1061km. The new X-Plane 12 version features a complete model rebuild, including a new cabin, landing gear and panels. The new version also comes with new animations for both rotors, Epic Primus 7 avionics, with fully functional PFD and MFD, improved Flight Director, new textures, liveries, functional audio panel, winch, wire-cutters, inlet filters and float additions (which can be managed from inside the cockpit). An overhauled flight model, improved autopilot and a quick reference guide are also included. Version 5.01 for X-Plane 11 is still available, however, it has been discontinued and will not receive any more updates. The AW139 is available at the X-Rotors store for roughly $43.36. Stay tuned to Threshold for more flight sim news!</summary>
-    <published>2024-06-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/otegbc</id>
     <title>Orbx Releases TrueEarth Great Britain Central for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6668c353dc2e01a9e558e49c_glen1.webp"/>
     <summary>Sim: MSFS. Backwood Studios has recently released their rendition of Glenswinton Aerodrome (GB-0201) for Microsoft Flight Simulator, a private aerodrome near Castle Douglas in Scotland.Â  Glenswinton's origins trace back to the early 1900s, a period marked by pioneering feats in aviation. The exact date of its establishment is unclear, but historical records suggest it served as a military airfield during the Great War. During this turbulent time, the aerodrome likely housed fighter aircraft tasked with patrolling the skies and safeguarding British airspace. With a 430-meter gravel runway, it's mainly suitable for smaller general aviation aircraft and STOL-capable airplanes.Â  The scenery features an accurate rendition of the aerodrome, with custom-modeled buildings, animated people and farm life, hand-built dirt roads, a custom forest to reflect current satellite imagery, a custom runway slope, custom night lighting, and more. It's available on OrbxDirect for roughly $4.95, requiring at least 1.01 GB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-06-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tbrjoy</id>
+    <title>TechnoBrain Releases Yao Airport for MSFS</title>
+    <updated>2024-06-12T00:00:00+00:00</updated>
+    <link href="/news/tbrjoy"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6669f7df0f1e2bd9aaad2f48_Banner_Image.webp"/>
+    <summary>Sim: MSFS. TechnoBrain has recently released its version of Yao Airport (RJOY) for Microsoft Flight Simulator. Yao Airport is a small airport in the city of Yao, located in the Osaka Prefecture, Japan. The airport serves general aviation and is also an airbase for the JGSDF, the Japan Ground Self-Defense Force. It is situated approximately 8.1 nautical miles from the centre of Osaka and does not have any scheduled airline services. In 1938, the airport started as Hanshin Aviation School. In 1940, the airport was renamed and seized by the army, becoming known as TaishÅ Airfield. The army also expanded the airport. After World War II, occupation forces named the airport Hansin Airfield. Later, the airport was returned to the Japanese. Today, the airport accommodates general aviation traffic and also offers charter flights and sightseeing flights. It has cross-runways and is located not far from the centre of Osaka. The newly released version of Yao Airport comes with a variety of features, including custom taxiway signs and ground markings, dynamic lighting, PBR materials, and much more. The add-on requires 285.27 MB of storage space and is available on SimMarket for approximately $21.64. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-06-12T00:00:00+00:00</published>
   </entry>
 </feed>
