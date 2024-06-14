@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-06-13T18:26:27.909791+00:00</updated>
+  <updated>2024-06-14T18:26:12.063100+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/12/57B99297-A54C-46C1-B299-F32FAEBE4331-1024x717.jpg"/>
     <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
     <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-16-the-short-sc-7-skyvan/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 16: The Short SC.7 Skyvan</title>
-    <updated>2024-05-28T16:07:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-16-the-short-sc-7-skyvan/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/05/MSFS_Short_Skyvan_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>The distinctive Skyvan is a utilitarian workhorse in a class of its own.A TOUGH, MULTI-ROLE MACHINEMicrosoft Flight Simulator today introduced the Local Legend 16: the SC.7 Skyvan aircraft that has earned a legendary reputation as a go-to for the world’s toughest air transport missions. The airframe, affectionately dubbed by some as the “flying shoebox,” has … Continued</summary>
-    <published>2024-05-28T16:07:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-30th-2024-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFS2024_Papaya_NoSnipe_NoText-1024x576.png"/>
     <summary>Take to the Skies on November 19th with the All-New Microsoft Flight Simulator 2024.</summary>
     <published>2024-06-09T18:37:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/june-13th-2024-development-update/</id>
+    <title>June 13th, 2024 – Development Update</title>
+    <updated>2024-06-13T23:10:14+00:00</updated>
+    <link href="https://www.flightsimulator.com/june-13th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/KnackBretzel-Forums-1-1024x732.jpeg"/>
+    <summary>During last weekend’s Xbox Games Showcase on June 9, we revealed a new trailer for Microsoft Flight Simulator 2024 and also announced the release date: November 19, 2024.</summary>
+    <published>2024-06-13T23:10:14+00:00</published>
   </entry>
 </feed>
