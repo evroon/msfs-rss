@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-14T18:26:14.494304+00:00</updated>
+  <updated>2024-06-15T18:25:07.932948+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsa364</id>
-    <title>FSA Reveals FlightSimExpo 2024âs Floorplan &amp; Exhibitor List</title>
-    <updated>2024-06-03T00:00:00+00:00</updated>
-    <link href="/news/fsa364"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665de91e4ffe47a3cdb03d2a_Banner_Image.webp"/>
-    <summary>Sim: OTHER. In a recent press release from the Flight Simulation Association (FSA), the team shared a lot of new information about FlightSimExpo 2024, including the floor plan and exhibitor list. The press release indicated that FlightSimExpo 2024 is on track to exceed the attendance numbers of FlightSimExpo 2023 in Houston, with only 14 more attendee registrants needed. The Expo is scheduled to take place in Las Vegas from June 21st to June 23rd. A new fully interactive floorplan has been released and is now available for viewing on FlightSimExpoâs website. It includes all the confirmed locations for different exhibitors, product reveals, and more. On #FSExpoFriday at this year's FlightSimExpo, more than 15 developers will be making new announcements and providing previews. Some of the developers include BlueBird Simulations, Navigraph, and X-Plane. You can find the full list of developers online. Additionally, this year's Expo will be supported by more than 90 partners. FlightSimExpo 2024 will take place in Las Vegas from June 21st to June 23rd. Threshold will have in-depth coverage of the event, so stay tuned on Threshold for the latest news about FlightSimExpo 2024 and other flight simulation news.</summary>
-    <published>2024-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/closti</id>
-    <title>Cloud Studio Releases Stillwater Regional Airport for MSFS</title>
-    <updated>2024-06-03T00:00:00+00:00</updated>
-    <link href="/news/closti"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665e35addd089989a91fc532_sti1.webp"/>
-    <summary>Sim: MSFS. Cloud Studio has recently released their rendition of Stillwater Regional Airport (KSWO) for Microsoft Flight Simulator, serving Stillwater, Oklahoma, with a yearly average of 33,000 passengers as of 2023.Â  Its story starts in 1929 when Mayor George Thompson secured land north of town. This initial airfield, featuring a half-mile grass runway, a single hangar, and a tiny office, embodied the pioneering spirit of early aviation. J. Alvin "Al" Guthrie, a former barnstormer, took center stage during this era, offering rides, flight lessons, and limited charter services. The airport underwent a significant shift in 1934 with the tragic passing of George Searcy, its manager. His father, M.G. Searcy, briefly took over, and later, Air Force pilot Arthur Kingman renamed the field "Searcy Field" in George's honor. World War II brought a dramatic change. The U.S. Navy leased Searcy Field, transforming it into a training ground for over 1,500 pilots. Interestingly, the airport became a temporary holding facility for nearly 475 surplus military aircraft after the war. In 1946, these planes were sold off, with movie stunt pilot Paul Mantz keeping a dozen for his productions. Stillwater regained control of the airport in 1946. They then leased it to Oklahoma A&amp;M College (now Oklahoma State University) for a symbolic $1, highlighting the growing importance of aviation in education and research. Commercial air service arrived in 1953 with Central Airlines, eventually merging with Frontier in the late 60s. Their service to Stillwater ceased in 1975, leading to five years of no commercial traffic whatsoever. The hiatus ended in 1980 when Metro Airlines started flights to Oklahoma City using Twin Otters. The year 1977 marked a turning point. Searcy Field officially became Stillwater Municipal Airport, reflecting its growing role in serving the community. Finally, in 1999, it received its current designation â Stillwater Regional Airport â acknowledging its expanding reach. â Today, Stillwater Regional Airport continues to evolve. It offers general aviation services, supports business and commerce, and provides passenger service through American Eagle.Â  â The scenery features an accurate rendition of the airport, with a detailed terminal area, fully custom airport models, 4K textures, an up-to-date ground layout, PBR, and custom orthophoto.Â  It's available on SimMarket for roughly $14.10, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rrsvpp</id>
     <title>RR Simulations Releases Valle de la Pascua Airport for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/mseddf"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666c511c8b470c555156b1f4_Banner_Image.webp"/>
     <summary>Sim: MSFS. Aviotek Simulation Software has recently released its first airport scenery for Microsoft Flight Simulator. The new version of Frankfurt Airport (EDDF) is now available for free, following its previous release for X-Plane. Frankfurt Airport is the busiest airport in Germany, servicing numerous regional and international destinations. The newly released Frankfurt Airport features handcrafted airport buildings, custom ground support equipment (GSE), custom animated jetways, a custom GSX profile, realistic ground textures and layout, custom terminal interiors, points of interest (POIs), and more. The scenery can now be downloaded for free from Orbx.Â  For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taff62</id>
+    <title>TAF Studio Previews Hayfork Airport for MSFS</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <link href="/news/taff62"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666cb618a2958c860bd16999_6632f0c686be6.webp"/>
+    <summary>Sim: MSFS. TAF Studio has teased their newest scenery for MSFS - Hayfork Airport (F62). Located in a mountain valley in Northern California, Hayfork Airport is a small airfield with a long runway (4100 ft) for its size. This scenery will feature some interesting additions, such as a modelled race track made for offroad vehicles and roads with signs leading up to Hayforkâs Bally lookout!  Aside from the automotive part of the scenery, two bush spots with three runways are also featured in Hayfork scenery. With an elevation of 6250ft and a length of only 295ft, serious STOL skills are required to land successfully. Another bush spot, located a couple of miles to the east of Hayforkâs Bally, has an even more challenging runway! Only 250ft of the runway on an uphill cliff, without an option for a go-around. Key features of Hayfork California are F62 Hayfork Airport, 2 bush spots with 3 runways, functional hangar doors at Hayfork Airport, custom charts for Hayfork Airport and Hayfork Bally Bushstrip, tiedown points at Hayfork Airport, Mountain Valley Raceway, Custom 3D buildings, and custom trees and vegetation. â The release date and price of this scenery havenât been announced as of the time of writing, however, as always, Threshold will keep you updated! â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rdlsgg</id>
+    <title>RDPresets Releases Geneva Airport for MSFS</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <link href="/news/rdlsgg"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666cc1cfa73b93c4b2454e8e_Banner_Image.webp"/>
+    <summary>Sim: MSFS. RDPresets has recently released its version of Geneva Airport (LSGG) for Microsoft Flight Simulator. The airport serves the Swiss city of Geneva and is located approximately 2.5 miles from the city centre. As the second biggest and busiest airport in Switzerland, it welcomes around 16.5 million passengers annually. Geneva Airport opened in 1919 as a simple airfield. The first concrete runway was constructed in 1937 to accommodate the increasing number of planes flying to Geneva. During World War II, all flights from Switzerland were prohibited, but after the war, passenger traffic at the airport steadily increased. Subsequently, more airlines began operating at the airport, leading to numerous developments and upgrades over the years. Today, airlines such as easyJet and Swiss International Air Lines ensure that the airport connects to a wide variety of destinations worldwide, resulting in approximately 165,000 aircraft movements annually. The newly released Geneva Airport from RDPresets comes with a variety of features, including completely custom modeling and texturing with PBR textures, 3D interior, custom ground textures, accurate night lighting, and much more. The add-on requires 3.13 GB of storage space and is available on Contrail for approximately $19.15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-14T00:00:00+00:00</published>
   </entry>
 </feed>
