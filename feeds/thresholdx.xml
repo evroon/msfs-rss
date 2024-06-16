@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-15T18:25:07.932948+00:00</updated>
+  <updated>2024-06-16T18:25:15.807524+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rrsvpp</id>
-    <title>RR Simulations Releases Valle de la Pascua Airport for MSFS</title>
-    <updated>2024-06-03T00:00:00+00:00</updated>
-    <link href="/news/rrsvpp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665e3c8b59af9f58dc6d2201_ven1.webp"/>
-    <summary>Sim: MSFS. RR Simulations recently released their rendition of Valle de la Pascua Airport (SVVP) for Microsoft Flight Simulator. The airport serves Valle de la Pascua, the capital city of the autonomous municipality of Leonardo Infante in Venezuela. There is no public information regarding the airportâs origins, but itâs assumed to have been built around the early 1920s when the Venezuelan commercial aviation industry emerged and urged cities to develop their first airstrips.Â  It has a single 1525-meter runway with no night lighting, meaning it only operates from sunrise to sunset (06:00-18:00). Itâs also VFR only, with no navigational aids whatsoever (its VOR station no longer works).Â  Itâs only served by Conviasa with flights to Caracas. The scenery features an accurate rendition of the airport, with 3D buildings, custom ground textures, custom night lighting, a terminal interior, and a custom GSX profile. Itâs available on SimMarket for roughly $15.18, requiring at least 1.19 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mmsvil</id>
-    <title>MâM Simulations Releases Vilnius Airport for MSFS</title>
-    <updated>2024-06-04T00:00:00+00:00</updated>
-    <link href="/news/mmsvil"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665f82921391e52206492f69_vilnius1.webp"/>
-    <summary>Sim: MSFS. MâM Simulations has recently released their rendition of Vilnius Airport (EYVI) for Microsoft Flight Simulator, the largest airport in Lithuania in terms of passenger volume, with a yearly average of 5 million passengers. â It opened in 1932 as Wilno-Porubanek, after Vilnius and Porubanek, a former neighboring village now part of the Kirtimai district. It had a brief commercial stint before WW2 with routes to Warsaw, Vaunas (albeit much later, in 1939), and Riga. Designed by JÃ³zefa MrÃ³wkowa-OchmaÅska, the first passenger terminal was built between 1934 and 1936 in a modernist style. It included a restaurant, a hotel for passengers, a newspaper kiosk, a customs post, a police station, and a post office. At the time, it was heavily criticized for its overly luxurious interior and proportions, which were a bit too optimistic for the then very small traffic figures. During World War 2, it was briefly repurposed as a military airfield, with civil airport duties only resuming in mid-1944. A new terminal was built between 1949 and 1954, featuring a standard Soviet design from the 1950s. It was originally intended for no more than 20 aircraft movements a day. The ever-growing traffic figures led to the construction of a new departure terminal in 1993, which was connected to the old one. In late 2007, a new 1,000-square-meter terminal building was opened, improving its passenger handling capabilities and complying with Schengen requirements. The total area of the terminals was around 3,462 square meters. In early 2023, the government financed yet another departure terminal, which will cover 14,400 square meters of land and double the passenger throughput from 1,200 to 2,400 passengers/hour. Itâs scheduled to open in early 2025. Itâs a hub for airBaltic and a focus city for GetJet, Ryanair, and Wizz Air. Aegean Airlines, Air Montenegro, Austrian Airlines, Brussels Airlines, Finnair, flydubai, LOT, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Smartwings, Swiss, and Turkish also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom parking positions matching real life, custom surroundings, custom shuttle train, custom night lighting, custom terminal interior, PBR materials, and more. Itâs available on the iniBuilds Store for roughly $19.10, requiring at least 5.61 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vol19x</id>
-    <title>Orbx Releases Volanta 1.9 Update </title>
-    <updated>2024-06-05T00:00:00+00:00</updated>
-    <link href="/news/vol19x"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6660d861129986a9ae9abb9e_volantaa1.webp"/>
-    <summary>Sim: OTHER. Orbx recently released a new version of its popular flight tracking software, which includes updated schedules, improved flight charts, flight time filters, social filters, and more. Volanta 1.9 brings a vast list of changes and improvements, including updated flight schedules (premium only), aircraft image galleries (premium only), planespotters aircraft images, ATIS panel, public invite links for teams and parties, enhanced aircraft image cropper, custom aircraft colors and sizes, and much more. The complete list of additions and fixes follows below: The update is available for all users right now. For further information, refer to the official post. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/letlxp</id>
     <title>FSDG Releases Teruel for X-Plane 12</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666cc1cfa73b93c4b2454e8e_Banner_Image.webp"/>
     <summary>Sim: MSFS. RDPresets has recently released its version of Geneva Airport (LSGG) for Microsoft Flight Simulator. The airport serves the Swiss city of Geneva and is located approximately 2.5 miles from the city centre. As the second biggest and busiest airport in Switzerland, it welcomes around 16.5 million passengers annually. Geneva Airport opened in 1919 as a simple airfield. The first concrete runway was constructed in 1937 to accommodate the increasing number of planes flying to Geneva. During World War II, all flights from Switzerland were prohibited, but after the war, passenger traffic at the airport steadily increased. Subsequently, more airlines began operating at the airport, leading to numerous developments and upgrades over the years. Today, airlines such as easyJet and Swiss International Air Lines ensure that the airport connects to a wide variety of destinations worldwide, resulting in approximately 165,000 aircraft movements annually. The newly released Geneva Airport from RDPresets comes with a variety of features, including completely custom modeling and texturing with PBR textures, 3D interior, custom ground textures, accurate night lighting, and much more. The add-on requires 3.13 GB of storage space and is available on Contrail for approximately $19.15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2aa60</id>
+    <title>A2A Simulations Announces Aerostar 600 for MSFS</title>
+    <updated>2024-06-15T00:00:00+00:00</updated>
+    <link href="/news/a2aa60"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666df4c4c46e8cd22c52d76e_aerostar.jpg"/>
+    <summary>Sim: MSFS. A2A Simulations has recently announced the development of a new Accu-Sim airplane for Microsoft Flight Simulator: the Piper Aerostar 600, a twin-engined propeller aircraft designed and built by Ted Smith Aircraft Company in the late 1960s.Â  Ted Smith, then an already experienced aircraft designer, envisioned a fast twin-engined airplane with no compromises, sleek lines, powerful engines, and speed as the main priority. By the late 1960s, the first prototype was already breaking records, making it the fastest twin-piston general aviation aircraft at the time, thanks to its light construction, low drag, and sheer power.Â  â The Aerostar 600 had two Lycoming IO-540-K engines, producing 290 horsepower each. These allowed it to cruise at 408 km/h, with a service ceiling of 25,000ft and 1,500 miles of total range on a single tank of fuel.Â  â Like their Comanche 250 (released mid-2023), the upcoming airplane will be built on Accu-Sim 2.0 technology. This technology features an advanced aerodynamics system that tries to accurately represent how an aircraft flies through the air, realistic wear and tear on the airframe and engine, in-depth electrical simulation, and much more.Â  â They have owned and operated a real Aerostar 600 for several years, and it was assumed for the longest time that it would be their first product for Microsoft Flight Simulator.Â  Not much has been revealed yet, but they mention itâs an entirely different experience from flying the Comanche, with their Accu-Sim 2.0 technology accurately recreating the feel of flying a piston twin. Itâs expected to be released âlater in 2024.â â</summary>
+    <published>2024-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbxdc</id>
+    <title>Orbx Releases Detroit City for XP12 and MSFS</title>
+    <updated>2024-06-15T00:00:00+00:00</updated>
+    <link href="/news/orbxdc"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666df7f3fd5f4e53f95ddf19_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Orbx has released another addition to their âLandmarksâ product series, this time being a rendition of Detroit City for both X-Plane 12 and MSFS.Â  Being the biggest city on the USA-Canada border, as well as the most populous city in the state of Michigan, it is known for its contributions to art, music architecture, and its great automotive history. Orbxâs Detroit City scenery features over 52 custom-made buildings (the Renaissance Center, the Spirit of Detroit Sculpture, Comerica Park, the Guardian Building, Michigan Central Station, Ford Field, Little Caesars Arena, and the Aretha Franklin Amphitheatre), and a detailed representation of the waterfront and industrial areas along the Detroit River. Also included is a large amount of highly detailed models replacing the cityâs photogrammetry data, including models for cranes, chimneys, vehicles, structures, animated Detroit People Mover on the raised tracks through the cityâs downtown, and emissive textures on all buildings for nighttime flying across the city. The product can be bought on OrbxDirect for $9.88 for the MSFS version, while the X-Plane version costs $13.20. The XP version will require at least 1.92GB of free disk space, whereas the MSFS version requires 1.02 GB. â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tcj525</id>
+    <title>TorqueSim CitationJet 525 Enters Beta Testing</title>
+    <updated>2024-06-16T00:00:00+00:00</updated>
+    <link href="/news/tcj525"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666ea7ec53965f75781f7919_CJ-2024-06-12-0023-825x510.webp"/>
+    <summary>Sim: X-Plane. The Cessna CitationJet is a series of light business jets, and are a part of the Citation family. Launched in 1989, the CJ 525 had its first flight in October 1991. Using the Citation IIâs fuselage, the CJ 525 has a different wing box and T-tail design. After the original CJ proved to be a success, the 525 received an upgrade in avionics and engines and was marketed as CJ1, CJ1+, and M2, depending on the equipment the aircraft had.Â  Aside from the original 525 model, Cessna also produced prolonged versions: 525A, 525B and 525C. All of these versions later received avionics and engine upgrades and were marketed as CJ2, CJ3 and CJ4, respectively. During the testing phase, various aspects of TorqueSimâs CJ525 will be tested and examined, such as flight dynamics, systems accuracy, visual fidelity, and performance testing.Â  As of the publishing of this article, no information about the release date or pricing of this addon has been released, however, make sure to keep an eye out as Threshold will keep you updated with the progress of TorqueSimâs CitationJet 525! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-06-16T00:00:00+00:00</published>
   </entry>
 </feed>
