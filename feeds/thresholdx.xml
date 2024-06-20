@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-19T18:25:57.892668+00:00</updated>
+  <updated>2024-06-20T18:26:21.551703+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tbrjoy</id>
-    <title>TechnoBrain Releases Yao Airport for MSFS</title>
-    <updated>2024-06-12T00:00:00+00:00</updated>
-    <link href="/news/tbrjoy"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6669f7df0f1e2bd9aaad2f48_Banner_Image.webp"/>
-    <summary>Sim: MSFS. TechnoBrain has recently released its version of Yao Airport (RJOY) for Microsoft Flight Simulator. Yao Airport is a small airport in the city of Yao, located in the Osaka Prefecture, Japan. The airport serves general aviation and is also an airbase for the JGSDF, the Japan Ground Self-Defense Force. It is situated approximately 8.1 nautical miles from the centre of Osaka and does not have any scheduled airline services. In 1938, the airport started as Hanshin Aviation School. In 1940, the airport was renamed and seized by the army, becoming known as TaishÅ Airfield. The army also expanded the airport. After World War II, occupation forces named the airport Hansin Airfield. Later, the airport was returned to the Japanese. Today, the airport accommodates general aviation traffic and also offers charter flights and sightseeing flights. It has cross-runways and is located not far from the centre of Osaka. The newly released version of Yao Airport comes with a variety of features, including custom taxiway signs and ground markings, dynamic lighting, PBR materials, and much more. The add-on requires 285.27 MB of storage space and is available on SimMarket for approximately $21.64. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-06-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/teipas</id>
-    <title>Teikof Studio Releases Antonio NariÃ±o Airport for MSFS</title>
-    <updated>2024-06-13T00:00:00+00:00</updated>
-    <link href="/news/teipas"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/666b77cfe18293bdcfc677e7_pas1.webp"/>
-    <summary>Sim: MSFS. Teikof Studio recently released their rendition of Antonio NariÃ±o Airport (SKPS) for Microsoft Flight Simulator. The airport serves Pasto, Colombia, and has a yearly average of 333,600 passengers. The exact date of the airport's construction remains unclear, but its development was driven by the need for improved connectivity in a region known for its mountainous terrain. Building an airport on flat land proved difficult, so engineers opted for a daring solution: constructing a runway on a plateau 50 meters above the surrounding area. This distinctive feature has earned the airport the nickname "aircraft carrier" among pilots, referencing its resemblance to a flat-topped ship on a sea of land. One of its most notable aspects is its runway: due to the high elevation and surrounding terrain, it is relatively short, posing a challenge for larger aircraft. However, significant improvements have been made over the years. Since 2007, the addition of an instrument landing system (ILS) has allowed for safer operations during low visibility and nighttime conditions. âCrosswinds also pose another significant challenge, especially during the summer months. Pilots must possess a high degree of skill and experience to navigate these conditions safely. â Pasto Airport's dependence on good visibility conditions and tame winds will eventually lead to its replacement, as it won't be able to keep up with the projected passenger traffic demand.Â  Avianca (BogotÃ¡, Cali), Clic (Cali), and LATAM Colombia (BogotÃ¡) serve it.Â  â The scenery features an accurate rendition of the airport, with a detailed terminal, custom ground textures, custom terraforming, and more. It's available on the MSFS Marketplace for $9.99.Â Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lhrzdp</id>
     <title>Zero Dollar Payware Updates London Heathrow Airport for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6672af70aae102505ed0d456_Banner_Image.webp"/>
     <summary>Sim: MSFS. FeelThere recently released its rendition of Richmond International Airport (KRIC) for Microsoft Flight Simulator. Serving the Greater Richmond Region, it is situated approximately 7 miles from downtown Richmond and accommodates over 4.75 million passengers annually. The airport underwent several name changes before becoming Richmond International Airport. In 1927, it was dedicated as Richard Evelyn Byrd Flying Field and then renamed Richard E. Byrd Airport in 1950. It wasn't until 1984 that it became known as Richmond International Airport. Over the years, the airport has undergone various upgrades and expansions and has seen an increase in passenger traffic and aircraft movements. Today, airlines such as Breeze Airways, Southwest Airlines, and Spirit Airlines offer flights to destinations all over the United States. The newly released Richmond International Airport add-on for Microsoft Flight Simulator comes with numerous features, including highly detailed buildings, PBR texturing, a partially modeled internal terminal, custom animated jetways, improved lighting, and more. The add-on requires 693.80 MB of storage space and is available on SimMarket for approximately $16.09. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tf24we</id>
+    <title>Threshold at FSExpo 2024: What to Expect</title>
+    <updated>2024-06-20T00:00:00+00:00</updated>
+    <link href="/news/tf24we"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66742d6a006bf686a9ebd7c1_threshold_at_FSExpoV2.jpg"/>
+    <summary>Sim: OTHER. Time has just flown away, and FlightSimExpo 2024 starts tomorrow! North Americaâs largest flight simulation event drew over 3,000 attendees last year, and is expected to draw even more at this yearâs event in Las Vegas! With such a large concentration of flight simulation enthusiasts and developers in one place, there are bound to be many exciting announcements and updates during the event, and the Threshold team will keep you up to date with coverage from around the event, live from Las Vegas!  The freshest news will be on our social media pages, and weâll be posting live updates there from the #FSExpoFriday announcements, as well as a live stream on our YouTube channel. Weâre also interviewing some pretty big names at the event, so keep an eye out for those! Donât want to miss out on the news but canât watch it live? Donât worry, because at the end of each day we will have roundup articles putting all the dayâs news in one place! If youâre attending the event in person, come stop by the Media Partner Lounge and say hi! We hope youâre as excited for the event as we are to cover it, so stay tuned to Threshold for more high-quality flight simulation news, reviews, and more!</summary>
+    <published>2024-06-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hcrepa</id>
+    <title>Honeycomb Charlie Rudder Pedals Enter Production, Ship In August</title>
+    <updated>2024-06-20T00:00:00+00:00</updated>
+    <link href="/news/hcrepa"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66744690048554085c9e1285_HC_Pedals_02.webp"/>
+    <summary>Sim: OTHER. After many months of uncertainty, and with questions still swirling about the status of the company as a whole, Honeycomb Aeronauticalâs highly anticipated Charlie Rudder Pedals have gone into production today and will finally ship to customers starting in August, according to a statement from Aerosoft. Early this year, Honeycomb fell into hot water as many months of radio silence led to a statement by the companyâs CEO, Nicki Repenning, admitting that they were struggling financially, and that his former business partner and CEO of Snakebyte-group, Mike Steup, hid this information from him and stole pre-order money set aside for the Charlie Rudder Pedal production had âgone elsewhere.â Snakebyte and Mr. Steup denies these allegations. Threshold interviewed Mr. Repenning as a culmination of a weeks-long initial investigation, which you can read here.  According to Aerosoft, production of the pedals has started today and they have been able to âtest the pre-production models extensively,â and they are âimpressed by the quality of the materials and the realistic feel of the pedals.â Aerosoft plans to start deliveries on August 29th. As a compensation for the long waiting time, all customers who have pre-ordered the Charlie Pedals via the Aerosoft Shop or have already pre-ordered them will receive an Aerosoft Shop voucher worth 30â¬ ($32.17USD). Aerosoft also says that those who are attending this weekendâs FlightSimExpo in Las Vegas can try out the Charlie Pedals at their booth. As a special promotion for the UEFA European Championship, New customers can get a Honeycomb Alpha Yoke at a discounted price of 199.99â¬ ($214.43USD), for as long as the German national team is in the tournament. The Charlie Pedals can now be pre-ordered on the Aerosoft Shop for 369.99â¬ ($396.70USD).  â Stay tuned to Threshold for more high-quality flight simulation news!</summary>
+    <published>2024-06-20T00:00:00+00:00</published>
   </entry>
 </feed>
