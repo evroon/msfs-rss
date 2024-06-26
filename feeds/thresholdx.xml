@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-25T18:26:23.497032+00:00</updated>
+  <updated>2024-06-26T18:25:18.428819+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/330621</id>
-    <title>Aerosoft Publishes New A330 Development Update for MSFS</title>
-    <updated>2024-06-21T00:00:00+00:00</updated>
-    <link href="/news/330621"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6675cfa9c0ad8f263b81ce83_aerosoftmeme1.webp"/>
-    <summary>Sim: MSFS. Aerosoft has recently published a new development update on their upcoming Airbus A330 for Microsoft Flight Simulator, with a brief status update on how the ordeal is progressing on models, systems, sounds, etc. â Before even getting into how the project is progressing, they explained their change of direction from an initial seemingly straightforward port of their Prepar3d version, which eventually evolved into something that aimed to fully take advantage of the new platform, along with more engine options and the like. â The 3D model is complete on all engine variants, and the general systems are also nearly ready, with only the Neo RRs still being at 80%. On the other hand, the autopilot is still at 30% on every variant and sounds still need work.Â  â There are no significant changes to their schedule. They plan to release a Microsoft Flight Simulator 2020 version with a free upgrade to 2024 later.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p4232i</id>
-    <title>Parallel42 Releases A320 Immersion Pack</title>
-    <updated>2024-06-21T00:00:00+00:00</updated>
-    <link href="/news/p4232i"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6675d57e32c0d8d674d99f80_k2gKOp67iLg-HD.webp"/>
-    <summary>Sim: MSFS. Parallel 42 (//42) has just released A320 Immersion package for MSFS. This addon is the first addon from the Immersion series for MSFS, after 16 packs for various aircraft for FSX and P3Dv2-5. The Immersion packs aim to upgrade already existing simulator effects and add new effects to improve the user experience. The A320 Immersion is an All-in-One A320 visual effect package that is compatible with the most used renditions of the A320 family: Fenix, FlyByWire, IniBuilds and LatinVFR A320 series.Â This package will include 17 effects that are designed to enhance the overall experience, some of those effects are wing vortices and condensation, skid marks, engine condensation, contrails, St. Elmoâs fire, APU and engine heat blur, hot brakes smoke, rain on wheels, and many more. For the immersion package to work, SimFX is required. As of the publishing of the article, this add-on is available for purchase only at the Parallel 42 store for $15.00 and is expected to be available on OrbxDirect, PC and Xbox Marketplace, and Contrail Store. â Stay tuned to Threshold for more flight sim news and reviews!</summary>
-    <published>2024-06-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mozab9</id>
     <title>MOZA Unveils Flight Simulation Gear at FSExpo 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667a9e452fe8177db3f0996d_Banner_Image.webp"/>
     <summary>Sim: MSFS. UK2000 has just released its latest airport for Microsoft Flight Simulator. This time, it's Truckee Tahoe Airport (KTRK) that has been created. Located in and serving the town of Truckee, California, this American airport averages 32.000 aircraft operations per year. Truckee Tahoe Airport opened in 1958 and is situated within the Sierra Nevada mountain range at an altitude of 5.900 feet. Over the years, various changes and upgrades have been made to the airport and its facilities. Currently, the airport features two asphalt runways and serves as a general aviation airport without commercial service. However, commercial flights are available at the nearby Reno-Tahoe International Airport. The airport accommodates a range of general aviation aircraft, and the presence of private jets is quite common. The scenery features Full Detail Buildings, Realistic Ground Markings, Hi-Res Ground Images, Stunning Night Effects, High Detail Airport Vehicles, Fencing, Vegetation, Static Aircraft, PBR Materials, and more. The newly released Truckee Tahoe Airport is now available on SimMarket for $12.86. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777625</id>
+    <title>PMDG Releases Boeing 777-300ER for MSFS</title>
+    <updated>2024-06-25T00:00:00+00:00</updated>
+    <link href="/news/777625"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667b41b7049bb38e33cccfa8_pmdg1.jpg"/>
+    <summary>Sim: MSFS. PMDG has recently released their long-awaited rendition of the Boeing 777-300ER for Microsoft Flight Simulator, bringing an advanced simulation of all avionics and systems, hundreds of mechanical failures, a high-detail cabin, and much more. The Boeing 777-300ER, officially introduced in 2004, is an upgraded version of the 777-300, with strengthened wings, additional fuel tanks, and, therefore, a much higher range, facilitating non-stop flights between continents. Its fuel-efficient philosophy quickly became an airline favorite, making it the most popular 777 variant, with over 800 built since its inception. The add-on features an accurate simulation of all systems and avionics, electronic checklists for normal and abnormal procedures, animated flight deck elements, a realistic lighting system, a fully modeled auto flight director and autopilot system with fly-by-wire capabilities, an advanced brake system with wear and tear simulation, and much more. The complete feature list follows below: â â Itâs available on PMDG.com for $77.73, and the Marketplace release is yet to be defined.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777sos</id>
+    <title>PMDG Publishes Statement on 777 Launch Issues</title>
+    <updated>2024-06-26T00:00:00+00:00</updated>
+    <link href="/news/777sos"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667b6c00f4219d760e53957b_pmdg8.jpg"/>
+    <summary>Sim: MSFS. PMDG recently published a statement regarding checkout issues with their newly released Boeing 777-300ER for Microsoft Flight Simulator, blaming it on a much higher demand than initially expected. Their Triple Seven, one of the most anticipated add-ons of 2024, allegedly exceeded 20 sales per second for more than four minutes after release. This significantly exceeded the figures from their previous major releaseâthe 737-700 in 2022âand went well above their expected threshold, leading to orders being batched into holding. According to Robert Randazzo, the first-day unit sales of their 737 were surpassed within minutes, a demand much higher than they had initially planned with their eCommerce provider.Â  They have been actively working through the batches and providing everyone with a download link and license key. Customers are instructed to contact their support if the email is not sent within the expected time frame (60-120 minutes from their publication, with 60 minutes to go when our article is published). The brand-new airplane is available at PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-26T00:00:00+00:00</published>
   </entry>
 </feed>
