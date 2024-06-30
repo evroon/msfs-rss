@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-06-29T18:24:10.698443+00:00</updated>
+  <updated>2024-06-30T18:25:44.828772+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flaming-cliffs-2024-update-announced</id>
-    <title>Flaming Cliffs 2024 Update Announced</title>
-    <updated>2024-06-21T00:00:00+00:00</updated>
-    <link href="/news/flaming-cliffs-2024-update-announced"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6675e7885a530c356d73ec35_FC4_Eshop_cover_700x1000.webp"/>
-    <summary>Sim: DCS. Eagle Dynamics has recently previewed an update to the Flaming Cliffs franchise.Â  Flaming Cliffs is a pack of less-detailed aircraft made for players who prefer a straightforward experience, without complex systems. Some of the well-known FC aircraft are MiG-29, A-10A, and Su-27. The FC2024 update will include three planes: F-5E, F-86F and MiG-15bis.Â  F-5E is an exceptionally capable aircraft for air combat and unguided ground strikes. Equipped with âSidewindersâ and cannons for dogfights, the F-5E also has a BVR (beyond visual range) radar. F-86F was one of the best fighter jets during the Korean War.Â  Armed with 50-calibre machine guns for dogfighting and early infrared-guided air-to-air missiles. Aside from Air-to-Air, F-86F can also be equipped with unguided bombs and rockets for air-to-ground attacks. MiG-15bis was also one of the most revolutionary fighters, also one of the best fighters in the Korean War. It was unrivalled and would outmatch every aircraft in a dogfight until the F-86F Sabre came. Small and light plane, but a tough fighter. Its armament included two 23mm guns and a 37mm cannon. Existing Flaming Cliffs 3 owners can upgrade to the new update for $9.99 until the end of July when the upgrade fee will increase to $14.99. F-5E, F-86F and MiG-15bis can also be individually purchased for $14.99 each.Â  The exact release date is unknown, however, we know for a fact that it will come with the new DCS update. â Stay tuned to Threshold for more flight sim news! â â â</summary>
-    <published>2024-06-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bbfsep</id>
     <title>Bluebird Simulations Shows off 757 and More </title>
@@ -150,6 +141,15 @@
     <link href="/news/777034"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6680370f026bdbb7a3de9eb8_1250410_20240626232724_1.webp"/>
     <summary>Sim: MSFS. PMDG has recently issued an update to their newly released Boeing 777-300ER for Microsoft Flight Simulator, addressing some WASM crashes, FMC bugs, and geometry fixes.Â  They also anticipate a series of updates in the next 14 days, aiming to mitigate user experience-disrupting issues (primarily), and the other teams (model, art, and sound) will also push their fixes. What hasnât been fixed yet is an SU15-induced issue plaguing their 737 and 777, causing both to freeze entirely and stop responding. They have been working with Asobo to find out the root cause, and âvictimsâ are encouraged to file a support ticket with PMDG so they can be surveyed.Â  Update 2.00.0034, issued via Operations Center, addresses the CLR bug that plagued many day one 777 pilots; hitting cancel on the EICAS no longer freezes the aircraft, and many model adjustments were made. The changelog follows below: â The next update is already being tested and will fix long directory names preventing the installation process from working altogether.Â  The Triple Seven is available on PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ifly29</id>
+    <title>iFly Previews Upcoming 737 Max 8 for MSFS</title>
+    <updated>2024-06-29T00:00:00+00:00</updated>
+    <link href="/news/ifly29"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66807e97309d17b67d3695b2_ifly1.webp"/>
+    <summary>Sim: MSFS. iFly has recently published a new development update for their upcoming Boeing 737 Max 8 for Microsoft Flight Simulator, featuring a gallery with over 30 preview images. Other than the images (which say more than a thousand words, one could argue), iFly claims the development is moving along nicely. They have been considering creating a Discord channel to keep everyone updated on the project as it progresses. The 737Max is Boeingâs response to the A320Neo. It has bigger, high-tech, and very efficient engines, a different wing, and a completely new glass cockpit while operating in a similar fashion to its previous iteration, the 737NG. With that, airlines save money in training costs as the commonality is retained.Â  Thereâs no pricing or release date information, but Threshold will keep you informed! â</summary>
     <published>2024-06-29T00:00:00+00:00</published>
   </entry>
 </feed>
