@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-01T18:26:01.889358+00:00</updated>
+  <updated>2024-07-02T18:25:55.768740+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bbfsep</id>
-    <title>Bluebird Simulations Shows off 757 and More </title>
-    <updated>2024-06-21T00:00:00+00:00</updated>
-    <link href="/news/bbfsep"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6675f026ae53391c81d96d3e_image.webp"/>
-    <summary>Sim: MSFS. Flight Sim Expo 2024 opened with a huge announcement from the team at Bluebird Simulations who are behind the long-anticipated 757 for Microsoft Flight Simulator. The presentation opened with a preview video showing off the aircraft both on the ground and in flight. Shervin from the Bluebird team then moved into a slideshow detailing both the 757 and 767, weâve summarized the slides below Goal:Â  â Focus: â 767 Update: Following the 757 and 767 updates, Shervin proceeded to surprise the audience with a surprise announcement of an upcoming 787. The 787 has reportedly been in production since November of 2023. Thereâs currently no release date planned for the 787 but we will stay updated on these developments</summary>
-    <published>2024-06-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fscfse</id>
-    <title>FliteSim.com Reveals New Products at FSExpo 2024</title>
-    <updated>2024-06-21T00:00:00+00:00</updated>
-    <link href="/news/fscfse"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6675fe0699f26947dba0028c_Banner_Image.webp"/>
-    <summary>Sim: OTHER. FliteSim.com recently unveiled several new products during its presentation at this year's FSExpo in Las Vegas. After sharing fun facts about their current Force Feedback Yokes and Flight Consoles, they announced a total of four new projects. The first product to be unveiled is a G1000 Console. The new console will feature authentic buttons and knobs and has been developed from an FTD Level 5 Device. It is scheduled to be available in Q4 2024. After the G1000 Console was announced, the team proceeded to announce a new Boeing-style 737-800NG Yoke Handle. This new yoke, designed to pair with their current CLS-60/120 Yoke, will be a premium offering and will be available in Q4 2024. Furthermore, a new Force Feedback Stick Base has been unveiled. It will feature a dual motor with 15 Nm of peak force and will be available in Q4 2024 alongside the other announced products. Finally, to complete the new product lineup, the team is introducing Force Feedback Rudder Pedals. These pedals will be equipped with a single motor, providing a peak force of over 250 N. They are expected to be available in Q4 2024. To summarize, FliteSim.com announced at FSExpo 2024 that they will be releasing four new products in Q4 2024. These new products include a G1000 Console, a Boeing-Style 737-800NG Yoke Handle, a Force Feedback Stick Base, and a Force Feedback Rudder. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-06-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mkskef</id>
     <title>MK Studios Releases Keflavik Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66807e97309d17b67d3695b2_ifly1.webp"/>
     <summary>Sim: MSFS. iFly has recently published a new development update for their upcoming Boeing 737 Max 8 for Microsoft Flight Simulator, featuring a gallery with over 30 preview images. Other than the images (which say more than a thousand words, one could argue), iFly claims the development is moving along nicely. They have been considering creating a Discord channel to keep everyone updated on the project as it progresses. The 737Max is Boeingâs response to the A320Neo. It has bigger, high-tech, and very efficient engines, a different wing, and a completely new glass cockpit while operating in a similar fashion to its previous iteration, the 737NG. With that, airlines save money in training costs as the commonality is retained.Â  Thereâs no pricing or release date information, but Threshold will keep you informed! â</summary>
     <published>2024-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tfdimd</id>
+    <title>TFDi Releases MD-11 Trailer</title>
+    <updated>2024-07-01T00:00:00+00:00</updated>
+    <link href="/news/tfdimd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6683267f4cf56bfe16819c37_ext_5.webp"/>
+    <summary>Sim: MSFS. TFDi, a development group well-known for their products such as B717 and PACX, have just released the trailer for the long-awaited MD-11. Unveiled yesterday on TFDiâs YouTube channel, it showcased the progress through years of development, with an interesting song choice in the background.Â  The trailer previewed mostly internal and external visuals, unfortunately, we couldnât hear any sounds. We could see that significant effort has been made by the developer team in modelling and texturing. At the very end of the video, we could see the release date - 2nd July! TFDiâs MD-11 Base Pack will cost $69.99 (cargo or passenger), while the Expansion pack (conveniently named The One You Did Not Purchase Already), is priced at $9.99. Later in 2024, the Extended Simulation Package will also be available for purchase. The package will include operational failures, an advanced custom failures menu, and circuit breaker functionality. The MD-11 will be compatible with MSFS, P3Dv4/v5/v6, although support for MSFS2024 still hasnât been officially confirmed until the developers receive more information about the upcoming simulator. â Stay tuned to Threshold for more flightsim news and high-quality reviews! â</summary>
+    <published>2024-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42vic</id>
+    <title>Parallel 42 Releases Victoria Falls Scenery Pack for MSFS</title>
+    <updated>2024-07-02T00:00:00+00:00</updated>
+    <link href="/news/p42vic"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6683e9d40a71c203a10f0034_Banner_Image%20(1).webp"/>
+    <summary>Sim: MSFS. After appointing Jeppeson2001 as the new Head of Scenery Design, Parallel 42 has re-released the Victoria Falls Scenery Pack for Microsoft Flight Simulator with some updates. The new pack allows users to explore the iconic Victoria Falls and enjoy its beauty. The updated scenery pack includes waterfalls, heliports, and bush strips located near Victoria Falls. It features 6 heliports, 4 bush strips, an animated Victoria Falls with sound and mist effects, 30 landable helipads, and various animations such as boats and rapids. You can purchase the add-on for $15.00 from the Parallel 42 Store, as well as from Orbx and Contrail. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-02T00:00:00+00:00</published>
   </entry>
 </feed>

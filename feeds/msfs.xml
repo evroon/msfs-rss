@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-07-01T18:26:00.159402+00:00</updated>
+  <updated>2024-07-02T18:25:54.358719+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2024-06-19T21:20:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-release-date-announcement/</id>
-    <title>Microsoft Flight Simulator 2024: Release Date Announcement</title>
-    <updated>2024-06-09T18:37:03+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-release-date-announcement/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFS2024_Papaya_NoSnipe_NoText-1024x576.png"/>
-    <summary>Take to the Skies on November 19th with the All-New Microsoft Flight Simulator 2024.</summary>
-    <published>2024-06-09T18:37:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/june-13th-2024-development-update/</id>
-    <title>June 13th, 2024 – Development Update</title>
-    <updated>2024-06-13T23:10:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-13th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/KnackBretzel-Forums-1-1024x732.jpeg"/>
-    <summary>During last weekend’s Xbox Games Showcase on June 9, we revealed a new trailer for Microsoft Flight Simulator 2024 and also announced the release date: November 19, 2024.</summary>
-    <published>2024-06-13T23:10:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/june-19-2024-marketplace-update/</id>
     <title>June 19, 2024 – Marketplace Update</title>
     <updated>2024-06-19T16:10:29+00:00</updated>
@@ -78,5 +60,23 @@ These are the Marketplace releases from Monday, June 17th. Thursday’s Marketpl
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/@ukaka5656-Twitter-1-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user @ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!The Microsoft Flight Simulator team had a fantastic time at FlightSimExpo 2024 in Las Vegas last weekend! Whether you were one of the thousands of simmers who attended … Continued</summary>
     <published>2024-06-27T23:08:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/city-update-9/</id>
+    <title>Microsoft Flight Simulator Releases City Update IX: Northeastern United States</title>
+    <updated>2024-07-02T15:05:03+00:00</updated>
+    <link href="https://www.flightsimulator.com/city-update-9/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/MSFS_CU09_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>Experience the enhanced detail of four key areas in the northeastern United States</summary>
+    <published>2024-07-02T15:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-17-the-curtiss-c-46-commando/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 17: The Curtiss C-46 Commando</title>
+    <updated>2024-07-02T15:36:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-17-the-curtiss-c-46-commando/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/MSFS_C46_Commando_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>Simmers can now pilot this renowned World-War II-era legend!</summary>
+    <published>2024-07-02T15:36:36+00:00</published>
   </entry>
 </feed>
