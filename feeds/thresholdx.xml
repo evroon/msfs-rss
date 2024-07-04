@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-03T18:24:20.860506+00:00</updated>
+  <updated>2024-07-04T18:25:47.734983+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/spkspg</id>
-    <title>SPINOZA Releases Albert Whitted Airport for MSFS</title>
-    <updated>2024-06-23T00:00:00+00:00</updated>
-    <link href="/news/spkspg"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66784bc34acbc624d331cc3d_Banner_Image.webp"/>
-    <summary>Sim: MSFS. SPINOZA has recently released their version of Albert Whitted Airport (KSPG) for Microsoft Flight Simulator. The airport is located in and serves the city of St. Petersburg, Florida, which is renowned as the birthplace of the first scheduled commercial airline flight. Situated in the Tampa Bay area, the airport features a total of two runways. Construction of Albert Whitted Airport began in 1928, and the airport officially opened in 1929. In 1934, National Airline initiated service to the airport, but this ceased after World War II when the airline shifted operations to St. Pete-Clearwater International Airport. Upon its opening in 1929, the Goodyear Tire and Rubber Company stationed one of its airships at Albert Whitted Airport, marking it as one of the first airports to serve as a base for their blimps. Over the years, a Coast Guard Air Station was also established at the airport. Today, the airport remains a popular choice for general aviation in the area. The recently released scenery package provides Microsoft Flight Simulator users with a variety of features for the Florida-located airport. The newly released Albert Whitted Airport is now available on SimMarket for approximately $18.34 and requires 487.25 MB of storage space. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pfeyka</id>
-    <title>Propair Flight Releases Kaunas Airport for MSFS</title>
-    <updated>2024-06-23T00:00:00+00:00</updated>
-    <link href="/news/pfeyka"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66785abedc30d84b47cba670_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Propair Flight recently released its version of Kaunas Airport (EYKA) for Microsoft Flight Simulator. Located in the Lithuanian city of Kaunas, it is the second busiest civilian airport in the country after Vilnius Airport, catering to approximately 1.3 million passengers annually. Kaunas Airport opened for flights in 1988. Flights were transferred from the former S. Darius and S. GirÄnas Airport to the new Kaunas Airport. It wasn't until 1991 that the airport became an international airport. This happened after Lithuania acquired its independence. Throughout the years, the airport has seen a variety of airlines flying to different destinations, along with improvements to the airport and its infrastructure. Today, the airport is a hub for Ryanair, but also serves airlines such as Wizz Air, Corendon Europe, Freebird Airlines, and SkyUp. These airlines offer flights to destinations such as London, Madrid, and Milan, and the airport handles around 1.3 million passengers yearly. The newly released Kaunas Airport add-on for Microsoft Flight Simulator comes with numerous features, providing users with plenty of content to explore. The add-on requires 1.88 GB of storage space and is available on SimMarket for approximately $14.76. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-06-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bypdx2</id>
     <title>iBlueYonder Previews Portland International Airport v2 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668590eae25367bdfcc15abb_Banner_Image.webp"/>
     <summary>Sim: MSFS. MXI Design recently released its version of Karpathos Airport (LGKP) for Microsoft Flight Simulator. Located on the Greek island of Karpathos, the airport serves approximately 270.000 passengers annually, who are seeking sun and fun in the Greek islands. Karpathos Airport opened in 1970 as a small airport with limited facilities. Initially, it had only a 500 square meter building. Construction for new airport facilities began in 2005, and the new airport terminal was completed in 2009. The new airport buildings covers a total of 12.500 square meters, a significant increase from the original 500. Today, the airport is a crucial hub for the island, connecting it with destinations both within the country and around the world. The airport serves a variety of seasonal and year-round destinations, including Athens, Amsterdam, Rome, and more, welcoming around 270.000 passengers annually. The scenery package includes accurately modeled terminal and airport buildings, up-to-date ground layouts, PBR implementation, custom CGL aerial imagery, a detailed handmade terrain model, and more. The newly released Karpathos Airport requires 1.81 GB of storage space, and it is available on both SimMarket and Orbx for approximately $10.76. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-07-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777036</id>
+    <title>PMDG Updates 777-300ER for MSFS</title>
+    <updated>2024-07-03T00:00:00+00:00</updated>
+    <link href="/news/777036"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6685d4f8cac256d1fa8d9ddf_klm.webp"/>
+    <summary>Sim: MSFS. PMDG recently issued the second update (2.00.0036) to their newly released Boeing 777-300ER for Microsoft Flight Simulator, aiming to improve the add-onâs performance and stability. As previously mentioned, the second update focuses primarily on stability and performance gains, aiming to mitigate the random WASM crashes, low framerate on lower-end systems, and getting rid of the infamous TA/RA bug inducing freezes on final approach. The full changelog follows below: â Randazzo also mentions itâs not usual practice to add every little change to the checklist, but they want to emphasize how many faults are being corrected in pursuit of optimal stability.Â  They say the next update is already being worked on and is anticipated to follow sometime this weekend unless they make a breakthrough in the areas affecting user experience (like fully mitigating the WASM lockups).Â  The add-on is available on PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsegpk</id>
+    <title>Boundless Releases Glasgow Prestwick Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-07-04T00:00:00+00:00</updated>
+    <link href="/news/bsegpk"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6686bcada17eb2b333997824_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Boundless has recently launched its latest scenery for both X-Plane 11 and X-Plane 12. This time, they have introduced Glasgow Prestwick Airport (EGPK) for the flight simulator. Situated in Prestwick, Scotland, this international airport serves as a focus city for the airline Ryanair. Glasgow Prestwick Airport has been in operation as an airport since 1935. In 1938, passenger facilities were added to the airport. Over the years, the airport has seen commercial growth, resulting in various facility improvements. It has also served military purposes, with the RAF controlling transatlantic flights during World War II. Today, Ryanair operates the majority of flights from the airport, traveling to destinations like Alicante, Barcelona, and Malaga. Additionally, the airport hosts cargo operations for airlines such as Air France Cargo and Cargolux. Last year, the airport served 525,000 passengers, making it the fifth busiest airport in Scotland. It is also worth noting that Glasgow Prestwick Airport is the largest airport in Scotland in terms of land area. The recently released scenery includes a range of features such as up-to-date HD ortho imagery, 4K PBR terminal and airport buildings, 3D volumetric grass, HD custom clutter objects, realistic GSE, and much more. The recently released Glasgow Prestwick Airport scenery requires 2.6 GB of storage space, and is available on Boundless for approximately $24.24. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-04T00:00:00+00:00</published>
   </entry>
 </feed>
