@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-04T18:25:47.734983+00:00</updated>
+  <updated>2024-07-05T18:25:47.248129+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bypdx2</id>
-    <title>iBlueYonder Previews Portland International Airport v2 for MSFS</title>
-    <updated>2024-06-24T00:00:00+00:00</updated>
-    <link href="/news/bypdx2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66796c6d44ace5b60c530cac_kpdx_next_preview_04.webp"/>
-    <summary>Sim: MSFS. iBlueYonder has just announced a new update for their KPDX scenery for MSFS. Serving the metropolitan area of Portland, Portland Intl Airport has over 16,000,000 passenger operations and 190,000 aircraft movements per year. â Opened in 1936 as a âsuper airportâ, it was a part of the New Deal, and was described as "Portland's most significant public works improvement during the New Deal era". It had five runways, and the terminal was on the northern side of the airfield. In 1952, a new longer runway was built, along with the new terminal. â The first international non-stop flight from Portland was operated by Western, on Boeing 720B to Vancouver. By 1974, the airport was served by all major US domestic carriers: Braniff, Cascade, Continental, Eastern, Hughes Airwest, Northwest Orient, Pan Am, United and Western. The most popular route was to Seattle, with seven airlines flying with planes as big as Boeing 747-200. During the same year, the south runway was extended to 11,000ft and the terminal building was renovated and expanded a few years later. During the 80s, it was Deltaâs hub for flights to Asia, as it lacked aircraft that could fly non-stop from Atlanta. In 1995, the carrier offered flights to Tokyo, Seoul, Nagoya, Taipei, and Bangkok. Unfortunately, due to other airlines introducing flights to Asia, Delta closed the hub in PDX in 2001. A couple of years later though, Northwest Airlines introduced nonstop flights from Portland to their hub - Tokyo Narita. Instead of opening more domestic flights like Delta did, NWA used code-share agreements with other airlines to funnel passengers to Portland. In March 2020, the main terminal began the 5-year long expansion process. The construction of the main terminal was estimated to be finished by May 2024, but due to construction incidents, it was delayed to August 2024. Today, PDX is served by 22 airlines to more than 80 destinations in North America and Europe and is a hub for Alaska Airlines. It is also a big cargo hub, as it receives flights from 13 cargo airlines, mostly in the USA. iBlueYonderâs rendition of KPDX will feature the new main terminal with a modelled interior, Concourses B, C and D with interior, and the new Concourse E, new toll plaza, FAA Administration building, custom animated jetways, new ground support equipment, and new animated objects and people. Be sure to stay tuned to Threshold to stay up to date on this and other flight simulation products! â</summary>
-    <published>2024-06-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ukktrk</id>
-    <title>UK2000 Releases Truckee Tahoe Airport for MSFS</title>
-    <updated>2024-06-25T00:00:00+00:00</updated>
-    <link href="/news/ukktrk"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667a9e452fe8177db3f0996d_Banner_Image.webp"/>
-    <summary>Sim: MSFS. UK2000 has just released its latest airport for Microsoft Flight Simulator. This time, it's Truckee Tahoe Airport (KTRK) that has been created. Located in and serving the town of Truckee, California, this American airport averages 32.000 aircraft operations per year. Truckee Tahoe Airport opened in 1958 and is situated within the Sierra Nevada mountain range at an altitude of 5.900 feet. Over the years, various changes and upgrades have been made to the airport and its facilities. Currently, the airport features two asphalt runways and serves as a general aviation airport without commercial service. However, commercial flights are available at the nearby Reno-Tahoe International Airport. The airport accommodates a range of general aviation aircraft, and the presence of private jets is quite common. The scenery features Full Detail Buildings, Realistic Ground Markings, Hi-Res Ground Images, Stunning Night Effects, High Detail Airport Vehicles, Fencing, Vegetation, Static Aircraft, PBR Materials, and more. The newly released Truckee Tahoe Airport is now available on SimMarket for $12.86. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-06-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777625</id>
     <title>PMDG Releases Boeing 777-300ER for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6686bcada17eb2b333997824_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Boundless has recently launched its latest scenery for both X-Plane 11 and X-Plane 12. This time, they have introduced Glasgow Prestwick Airport (EGPK) for the flight simulator. Situated in Prestwick, Scotland, this international airport serves as a focus city for the airline Ryanair. Glasgow Prestwick Airport has been in operation as an airport since 1935. In 1938, passenger facilities were added to the airport. Over the years, the airport has seen commercial growth, resulting in various facility improvements. It has also served military purposes, with the RAF controlling transatlantic flights during World War II. Today, Ryanair operates the majority of flights from the airport, traveling to destinations like Alicante, Barcelona, and Malaga. Additionally, the airport hosts cargo operations for airlines such as Air France Cargo and Cargolux. Last year, the airport served 525,000 passengers, making it the fifth busiest airport in Scotland. It is also worth noting that Glasgow Prestwick Airport is the largest airport in Scotland in terms of land area. The recently released scenery includes a range of features such as up-to-date HD ortho imagery, 4K PBR terminal and airport buildings, 3D volumetric grass, HD custom clutter objects, realistic GSE, and much more. The recently released Glasgow Prestwick Airport scenery requires 2.6 GB of storage space, and is available on Boundless for approximately $24.24. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-07-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rkadcs</id>
+    <title>rkApps Releases DCRealistic</title>
+    <updated>2024-07-04T00:00:00+00:00</updated>
+    <link href="/news/rkadcs"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66870936d9f5bb68aa5539cf_Screenshot%202024-07-04%20215109.webp"/>
+    <summary>Sim: DCS. After a long period of silence from rkApps, the developers behind XPRealistic and FSRealistic, have surprised everyone with the release of DCRealistic. The release of DCR marks the third addon from the Realistic series. The goal of DCRealistic is the same as with the other addons from this developer - add immersion to the sim experience. Using camera shaking and sound effects, this addon increases the level of immersion. There are 21 effects inside the app, some of them being: Afterburner, Airbrake Drag, Brakes Canopy Shut, Canopy Jettison, Ground Roll, Over G, Wind ambience, G force, touchdown and many more. Each one of these effects can be manually edited to the userâs liking.Â  It is also compatible with SimHaptic, another rkAppsâ addon that synchronises the Bass shaker with the simulator effects.Â All mods in DCS are supported, both official and community ones. VRÂ and TrackIR enthusiasts will also be able to enjoy this addon, as both are compatible with DCR. DCRealistic is available for purchase on the rkApps website for $19.99, and the 7-day trial version can also be found on the same page.Â  â Stay tuned to Threshold for more flight sim news! â</summary>
+    <published>2024-07-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tstfff</id>
+    <title>TropicalSim Releases Martinique Airport V2 for MSFS</title>
+    <updated>2024-07-05T00:00:00+00:00</updated>
+    <link href="/news/tstfff"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668802960cf517ff5ec927c2_Banner_Image.webp"/>
+    <summary>Sim: MSFS. TropicalSim has recently launched the V2 version of its Martinique AimÃ© CÃ©saire International Airport (TFFF) for Microsoft Flight Simulator. Situated close to Fort-de-France, the capital city of Martinique, the airport is about 6 miles away from the city center. It serves just under 1.9 million passengers annually. The airport opened in 1950 and initially had limited traffic due to the island's reliance on maritime transport for its economy. However, after a decade, air traffic increased, leading to the CCIM being awarded the contract for managing and developing the airport in 1965. Further upgrades were completed in 1995 after construction began in 1991. The airport was renamed in 2007 and is currently a focus city for Air CaraÃ¯bes and Air Antilles Express. Together with other airlines, the airport offers destinations such as Miami, Paris, and Frankfurt, with an average yearly passenger count of just under 1.9 million. The V2 scenery of the airport includes a highly detailed rendition of the airport, full night illumination, dynamic lighting, animated jetways, use of PBR, and more.Â  The new V2 of Martinique Airport is available on SimMarket for around $17.84. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-05T00:00:00+00:00</published>
   </entry>
 </feed>
