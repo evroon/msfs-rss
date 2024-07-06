@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-05T18:25:47.248129+00:00</updated>
+  <updated>2024-07-06T18:24:18.485526+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777625</id>
-    <title>PMDG Releases Boeing 777-300ER for MSFS</title>
-    <updated>2024-06-25T00:00:00+00:00</updated>
-    <link href="/news/777625"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667b41b7049bb38e33cccfa8_pmdg1.jpg"/>
-    <summary>Sim: MSFS. PMDG has recently released their long-awaited rendition of the Boeing 777-300ER for Microsoft Flight Simulator, bringing an advanced simulation of all avionics and systems, hundreds of mechanical failures, a high-detail cabin, and much more. The Boeing 777-300ER, officially introduced in 2004, is an upgraded version of the 777-300, with strengthened wings, additional fuel tanks, and, therefore, a much higher range, facilitating non-stop flights between continents. Its fuel-efficient philosophy quickly became an airline favorite, making it the most popular 777 variant, with over 800 built since its inception. The add-on features an accurate simulation of all systems and avionics, electronic checklists for normal and abnormal procedures, animated flight deck elements, a realistic lighting system, a fully modeled auto flight director and autopilot system with fly-by-wire capabilities, an advanced brake system with wear and tear simulation, and much more. The complete feature list follows below: â â Itâs available on PMDG.com for $77.73, and the Marketplace release is yet to be defined.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777sos</id>
     <title>PMDG Publishes Statement on 777 Launch Issues</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668802960cf517ff5ec927c2_Banner_Image.webp"/>
     <summary>Sim: MSFS. TropicalSim has recently launched the V2 version of its Martinique AimÃ© CÃ©saire International Airport (TFFF) for Microsoft Flight Simulator. Situated close to Fort-de-France, the capital city of Martinique, the airport is about 6 miles away from the city center. It serves just under 1.9 million passengers annually. The airport opened in 1950 and initially had limited traffic due to the island's reliance on maritime transport for its economy. However, after a decade, air traffic increased, leading to the CCIM being awarded the contract for managing and developing the airport in 1965. Further upgrades were completed in 1995 after construction began in 1991. The airport was renamed in 2007 and is currently a focus city for Air CaraÃ¯bes and Air Antilles Express. Together with other airlines, the airport offers destinations such as Miami, Paris, and Frankfurt, with an average yearly passenger count of just under 1.9 million. The V2 scenery of the airport includes a highly detailed rendition of the airport, full night illumination, dynamic lighting, animated jetways, use of PBR, and more.Â  The new V2 of Martinique Airport is available on SimMarket for around $17.84. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-07-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ina350</id>
+    <title>iniBuilds Previews Upcoming Airbus A350 for MSFS</title>
+    <updated>2024-07-06T00:00:00+00:00</updated>
+    <link href="/news/ina350"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6689511babff28b4c6f36de6_Banner_Image.webp"/>
+    <summary>Sim: MSFS. iniBuilds has provided a preview of its upcoming flagship iniBuilds A350 Airliner project for Microsoft Flight Simulator. After announcing the project in December, the team has recently shared a few screenshots of the upcoming airliner. iniBuilds posted the previews together with the announcement of its iniBuilds Summer Surprises Event. From July 15th to July 28th, iniBuilds plans to make some new product announcements as well as provide some development updates on iniBuilds aircraft and scenery. The team will host its first iniBuilds Developer Livestream on the 22nd of July. As part of the announcement, the team has previewed the upcoming Airbus A350. While iniBuilds has not yet announced a release date or pricing, the team has stated that they will provide a formal, comprehensive showcase and development update during the announced event. We will keep you informed once more information about the project is announced. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-06T00:00:00+00:00</published>
   </entry>
 </feed>
