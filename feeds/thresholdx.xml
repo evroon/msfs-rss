@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-06T18:24:18.485526+00:00</updated>
+  <updated>2024-07-07T18:24:18.864885+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777sos</id>
-    <title>PMDG Publishes Statement on 777 Launch Issues</title>
-    <updated>2024-06-26T00:00:00+00:00</updated>
-    <link href="/news/777sos"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667b6c00f4219d760e53957b_pmdg8.jpg"/>
-    <summary>Sim: MSFS. PMDG recently published a statement regarding checkout issues with their newly released Boeing 777-300ER for Microsoft Flight Simulator, blaming it on a much higher demand than initially expected. Their Triple Seven, one of the most anticipated add-ons of 2024, allegedly exceeded 20 sales per second for more than four minutes after release. This significantly exceeded the figures from their previous major releaseâthe 737-700 in 2022âand went well above their expected threshold, leading to orders being batched into holding. According to Robert Randazzo, the first-day unit sales of their 737 were surpassed within minutes, a demand much higher than they had initially planned with their eCommerce provider.Â  They have been actively working through the batches and providing everyone with a download link and license key. Customers are instructed to contact their support if the email is not sent within the expected time frame (60-120 minutes from their publication, with 60 minutes to go when our article is published). The brand-new airplane is available at PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jsnapp</id>
     <title>SharedFlight Release Date Announced</title>
@@ -150,6 +141,15 @@
     <link href="/news/ina350"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6689511babff28b4c6f36de6_Banner_Image.webp"/>
     <summary>Sim: MSFS. iniBuilds has provided a preview of its upcoming flagship iniBuilds A350 Airliner project for Microsoft Flight Simulator. After announcing the project in December, the team has recently shared a few screenshots of the upcoming airliner. iniBuilds posted the previews together with the announcement of its iniBuilds Summer Surprises Event. From July 15th to July 28th, iniBuilds plans to make some new product announcements as well as provide some development updates on iniBuilds aircraft and scenery. The team will host its first iniBuilds Developer Livestream on the 22nd of July. As part of the announcement, the team has previewed the upcoming Airbus A350. While iniBuilds has not yet announced a release date or pricing, the team has stated that they will provide a formal, comprehensive showcase and development update during the announced event. We will keep you informed once more information about the project is announced. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vst38a</id>
+    <title>Veco Simulations Releases Trailer for T-38A</title>
+    <updated>2024-07-06T00:00:00+00:00</updated>
+    <link href="/news/vst38a"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6689b05840328720f286ca10_Screenshot%20(81).webp"/>
+    <summary>Sim: DCS. Veco Simulations have recently released the trailer for their first community mod for DCS - T-38A Talon.Â  T-38 Talon is a two-seat, twinjet supersonic jet trainer produced by Northrop Corporation between 1961 and 1972. It was the first supersonic jet trainer, as well as the most produced jet trainer. After more than 63 years since its introduction, it has trained over 72,000 pilots in USAF and other NATO nations air forces, during the joint-training programs. Due to SDK limitations, the development group decided to focus on the 1970s avionic configuration, which will allow them to add every functionality, without the need for other modules or sacrificing fidelity. The mentioned configuration features a functional UHF radio, intercom for communication between pilot and instructor in the back seat, TACAN, ILS, and a mechanical Flight Director system. Veco Simulationsâ rendition of T-38 will be released as a free standalone, full-fidelity, community mod. The trailer provided us with amazing shots of the aircraft's exterior and short sneak peeks of the untextured model of the cockpit.Â  Currently, we have no feature list as of now, but we do however have an estimated release date! At the very end of the trailer, we could see 2025, which could be the possible release year. As of now, no more information about the release date has been released, however, as always, Threshold will keep you updated!Â  â Stay tuned to Threshold for flight sim news!</summary>
     <published>2024-07-06T00:00:00+00:00</published>
   </entry>
 </feed>
