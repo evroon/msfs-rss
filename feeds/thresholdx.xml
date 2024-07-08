@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-07T18:24:18.864885+00:00</updated>
+  <updated>2024-07-08T18:26:25.679711+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jsnapp</id>
-    <title>SharedFlight Release Date Announced</title>
-    <updated>2024-06-27T00:00:00+00:00</updated>
-    <link href="/news/jsnapp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667d7bf97e68eee7eb39172d_Frame_103.webp"/>
-    <summary>Sim: X-Plane. The developers of SharedFlight, a plugin for the shared cockpit for X-Plane 11 and 12, have just announced the release date of the highly-anticipated addon. After 4 years of development, SharedFlight will be released on June 28th.Â  It is supported for Windows, Linux and Mac, as well as X-Plane 11 and X-Plane 12. Unfortunately, cross-compatibility between XP11 and XP12 is impossible due to differences between the two simulators. Unlike other addons for sharing your cockpit for X-Plane, SharedFlight has built-in aircraft configurations, making it easier to use. In order for two (or more) users to connect and fly together, both of them will need to have the same aircraft version and AIRAC in sim.Â  The pricing will be tier-based. There are three tiers: Free, Basic and Premium. On release, 13 aircrafts will be supported: the Laminar C172 and C172 with G1000, Rotate MD-11, inBuilds A300/A310, ToLiss A319/A320neo/A321/A340-600, Zibo 737-800, Felis B747-200 and FlightFactor 757/767. More aircraft will be supported after release. â Stay tuned to Threshold for more flight sim news and reviews!</summary>
-    <published>2024-06-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfpar3</id>
     <title>Just Flight Releases Piper PA-28R Arrow III for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6689b05840328720f286ca10_Screenshot%20(81).webp"/>
     <summary>Sim: DCS. Veco Simulations have recently released the trailer for their first community mod for DCS - T-38A Talon.Â  T-38 Talon is a two-seat, twinjet supersonic jet trainer produced by Northrop Corporation between 1961 and 1972. It was the first supersonic jet trainer, as well as the most produced jet trainer. After more than 63 years since its introduction, it has trained over 72,000 pilots in USAF and other NATO nations air forces, during the joint-training programs. Due to SDK limitations, the development group decided to focus on the 1970s avionic configuration, which will allow them to add every functionality, without the need for other modules or sacrificing fidelity. The mentioned configuration features a functional UHF radio, intercom for communication between pilot and instructor in the back seat, TACAN, ILS, and a mechanical Flight Director system. Veco Simulationsâ rendition of T-38 will be released as a free standalone, full-fidelity, community mod. The trailer provided us with amazing shots of the aircraft's exterior and short sneak peeks of the untextured model of the cockpit.Â  Currently, we have no feature list as of now, but we do however have an estimated release date! At the very end of the trailer, we could see 2025, which could be the possible release year. As of now, no more information about the release date has been released, however, as always, Threshold will keep you updated!Â  â Stay tuned to Threshold for flight sim news!</summary>
     <published>2024-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42777</id>
+    <title>Parallel 42âs 777 Immersion Releasing on Friday</title>
+    <updated>2024-07-07T00:00:00+00:00</updated>
+    <link href="/news/p42777"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668b107a1cd3cc1c51cdfc81_simfx1.webp"/>
+    <summary>Sim: MSFS. Parallel 42 has recently announced a release date for their upcoming 777 Immersion package for Microsoft Flight Simulator - part of their SimFX add-on - aiming to improve the overall realism of the effects within the simulator, including condensation, new particle effects, and more. Available as a single package for all major renditions of the triple seven airframe regardless of the livery used, bringing immersive effects for the PMDG and CaptainSim (at a later date) and customized for each with performance as their top priority.Â  Built on the SimFx framework, it offers the best combination of effects and customizability via the SimFx interface. For the unaware, Parallel 42âs SimFX is a visual effects utility covering a range of immersive scenarios. Every particle on the screen is authentically governed by environmental variables and formulas, and dynamic effects appear under the right conditions, creating unique moments in the virtual skies. The effects include contrails, heat blurs, wing wash, rotor wash, and more. Their immersion package for the 777 builds on top of what SimFx already offers, bringing nineteen custom effects for the mighty triple seven, including swirling contrails, condensation effects, waste water drain every hour, engine cold start effects, fuel jettison, cloud illumination, hot brakes smoke, carbon brake dust, and water droplets. The APU heat blur and the St. Elmoâs fire are not supported because of a development choice by PMDG, using a deprecated technique preventing SimFX or 777 Immersion from injecting their version of those effects. The package will be available for $15.00 on Friday (July 12). Club 42 members are eligible to purchase an early access version of the product.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-07T00:00:00+00:00</published>
   </entry>
 </feed>
