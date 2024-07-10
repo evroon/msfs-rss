@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-09T18:26:18.968179+00:00</updated>
+  <updated>2024-07-10T18:28:15.369658+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfpar3</id>
-    <title>Just Flight Releases Piper PA-28R Arrow III for X-Plane 12</title>
-    <updated>2024-06-28T00:00:00+00:00</updated>
-    <link href="/news/jfpar3"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/667edde7ee0551d22a850899_piper1.jpg"/>
-    <summary>Sim: X-Plane. In partnership with Thranda Design, Just Flight has developed a rendition of the Piper PA-28R for X-Plane 12, featuring a highly detailed simulation of the popular four-seater first introduced in 1976. As the name suggests, the PA-28R Arrow III is the third iteration of the Piper Arrow lineup. It was launched in 1967 with the PA-28R-180, followed by the Arrow II. Five years later, it was majorly upgraded with a semi-tapered wing, larger fuel tanks (meaning increased range), and several other improvements and commercialized under the Arrow III moniker.  The add-on features high-quality 8K texturing throughout, reworked PBR materials, a brand new EFB tablet with aircraft configuration states, checklists, and customization options, a dynamic livery feature with color, design, and dirt level change on the fly, a high-quality FMOD sound set, and much more.Â  Itâs available on Just Flightâs website for roughly $42.99, requiring at least 2.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777034</id>
-    <title>PMDG Updates Boeing 777-300ER for MSFS</title>
-    <updated>2024-06-29T00:00:00+00:00</updated>
-    <link href="/news/777034"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6680370f026bdbb7a3de9eb8_1250410_20240626232724_1.webp"/>
-    <summary>Sim: MSFS. PMDG has recently issued an update to their newly released Boeing 777-300ER for Microsoft Flight Simulator, addressing some WASM crashes, FMC bugs, and geometry fixes.Â  They also anticipate a series of updates in the next 14 days, aiming to mitigate user experience-disrupting issues (primarily), and the other teams (model, art, and sound) will also push their fixes. What hasnât been fixed yet is an SU15-induced issue plaguing their 737 and 777, causing both to freeze entirely and stop responding. They have been working with Asobo to find out the root cause, and âvictimsâ are encouraged to file a support ticket with PMDG so they can be surveyed.Â  Update 2.00.0034, issued via Operations Center, addresses the CLR bug that plagued many day one 777 pilots; hitting cancel on the EICAS no longer freezes the aircraft, and many model adjustments were made. The changelog follows below: â The next update is already being tested and will fix long directory names preventing the installation process from working altogether.Â  The Triple Seven is available on PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-06-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ifly29</id>
-    <title>iFly Previews Upcoming 737 Max 8 for MSFS</title>
-    <updated>2024-06-29T00:00:00+00:00</updated>
-    <link href="/news/ifly29"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66807e97309d17b67d3695b2_ifly1.webp"/>
-    <summary>Sim: MSFS. iFly has recently published a new development update for their upcoming Boeing 737 Max 8 for Microsoft Flight Simulator, featuring a gallery with over 30 preview images. Other than the images (which say more than a thousand words, one could argue), iFly claims the development is moving along nicely. They have been considering creating a Discord channel to keep everyone updated on the project as it progresses. The 737Max is Boeingâs response to the A320Neo. It has bigger, high-tech, and very efficient engines, a different wing, and a completely new glass cockpit while operating in a similar fashion to its previous iteration, the 737NG. With that, airlines save money in training costs as the commonality is retained.Â  Thereâs no pricing or release date information, but Threshold will keep you informed! â</summary>
-    <published>2024-06-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tfdimd</id>
     <title>TFDi Releases MD-11 Trailer</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668b107a1cd3cc1c51cdfc81_simfx1.webp"/>
     <summary>Sim: MSFS. Parallel 42 has recently announced a release date for their upcoming 777 Immersion package for Microsoft Flight Simulator - part of their SimFX add-on - aiming to improve the overall realism of the effects within the simulator, including condensation, new particle effects, and more. Available as a single package for all major renditions of the triple seven airframe regardless of the livery used, bringing immersive effects for the PMDG and CaptainSim (at a later date) and customized for each with performance as their top priority.Â  Built on the SimFx framework, it offers the best combination of effects and customizability via the SimFx interface. For the unaware, Parallel 42âs SimFX is a visual effects utility covering a range of immersive scenarios. Every particle on the screen is authentically governed by environmental variables and formulas, and dynamic effects appear under the right conditions, creating unique moments in the virtual skies. The effects include contrails, heat blurs, wing wash, rotor wash, and more. Their immersion package for the 777 builds on top of what SimFx already offers, bringing nineteen custom effects for the mighty triple seven, including swirling contrails, condensation effects, waste water drain every hour, engine cold start effects, fuel jettison, cloud illumination, hot brakes smoke, carbon brake dust, and water droplets. The APU heat blur and the St. Elmoâs fire are not supported because of a development choice by PMDG, using a deprecated technique preventing SimFX or 777 Immersion from injecting their version of those effects. The package will be available for $15.00 on Friday (July 12). Club 42 members are eligible to purchase an early access version of the product.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/121709</id>
+    <title>Laminar Research Releases X-Plane 12.1.0</title>
+    <updated>2024-07-09T00:00:00+00:00</updated>
+    <link href="/news/121709"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668dbf4503efb099a6d9e868_xplane.jpg"/>
+    <summary>Sim: X-Plane. Laminar Research recently released the long-awaited 12.1.0 update for X-Plane 12, which introduces improved anti-aliasing, new particle effects, lighting tweaks, and more. With a strong focus on visual quality improvements, X-Planeâs new update takes the platform to a new level, making heavy strides toward making it sharper and more realistic overall. It brings MSAA improvements, RCAS (Robust Contrast Adaptive Sharpening), cloud shadows on water, improved CPU performance, better water opacity, a new screenshot utility with DOF (depth of field) control, and more. Â  The changelogs for both release candidates follow below: The update also enhances the G1000 navigation system, including an accurate startup splash screen, a NAV page, a stormscope, datalink weather support, Terrain, a WPT page, an AUX page, and new datarefs.Â  It also includes two additions to the supported flap systems, allowing the accurate simulation of manual flap controls such as the one in the Piper PA-28, with precise and gradual adjustments, and the dial-a-flap system, which is present in some McDonnell-Douglas aircraft. Refer to their webpage for more information on the 12.1.0 update.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dxb102</id>
+    <title>iniBuilds Updates Dubai International Airport for MSFS</title>
+    <updated>2024-07-09T00:00:00+00:00</updated>
+    <link href="/news/dxb102"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668dc4dd07f006309eb39837_dubai1.webp"/>
+    <summary>Sim: MSFS. iniBuilds recently issued an update to their rendition of Dubai International Airport (OMDB) for Microsoft Flight Simulator, which includes performance improvements, VRAM overhead reduction, bug fixes, and more. v1.0.2 focuses on improving the sceneryâs performance, with LOD optimizations for every airport building, texture updates to reduce the VRAM overhead, a parallax option for interiors, ground service equipment position fixes, a PAPI fix on runway 30L, lighting fixes, new approach lighting on all runways, and more scenery config options. The complete changelog follows below: The scenery is available on the iniBuilds Store for roughly $17.90 (currently on sale), requiring at least 4.44 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rwdc93</id>
+    <title>RetroWings Previews DC-9 for XP12</title>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <link href="/news/rwdc93"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668e657417f11e1321918aa0_Screenshot_2024-07-09_at_02%20(1).webp"/>
+    <summary>Sim: X-Plane. RetroWings have recently previewed their newest project, DC-9 for X-Plane 12. RetroWings is a relatively new development group, made by developers from TorqueSim and LES. The first project they began working on was a Metroliner SA227, and they made significant progress (You can check their discord server for more info). The Douglas DC-9 was an American-made narrow-body short-haul aircraft, produced between 1965 and 1982. It was introduced by Delta in 1965, and shortly after, it became the worldâs best-selling airliner. From 1965 until 1976, more than 720 aircraft were delivered, which was more than double the number of its competitors.Â  Unfortunately, after the Boeing 737 entered the market, it was overtaken as the best-selling airliner. Due to higher unit cost than estimated, the DC-9 turned out to be sold at a loss, and the economics negatively impacted Douglas. In 1967, Douglas merged with McDonnell Aircraft and the DC-9 was renamed to McDonnell Douglas DC-9.Â  However, the first generation of DC-9 proved to be a success, as it was (and still is!) one of the longest-lasting aircraft in both production and operation. It was later developed into MD-80, MD-90 and Boeing 717. In total, the DC-9 family was produced in 2441 units, 976 DC-9s, 1078 MD-80s, 116 MD-90s, and 155 Boeing 717s.Â  RetroWings is developing the DC-9-32 version, which had an increased MTOW, and interestingly enough, did not feature GPS or FMS originally. The developers announced that they may develop a device that would help the pilots, especially when flying online. Currently, we have no information about the release date or pricing, but as always Threshold will keep you updated! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-07-10T00:00:00+00:00</published>
   </entry>
 </feed>
