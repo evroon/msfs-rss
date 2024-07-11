@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-10T18:28:15.369658+00:00</updated>
+  <updated>2024-07-11T18:26:44.040614+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tfdimd</id>
-    <title>TFDi Releases MD-11 Trailer</title>
-    <updated>2024-07-01T00:00:00+00:00</updated>
-    <link href="/news/tfdimd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6683267f4cf56bfe16819c37_ext_5.webp"/>
-    <summary>Sim: MSFS. TFDi, a development group well-known for their products such as B717 and PACX, have just released the trailer for the long-awaited MD-11. Unveiled yesterday on TFDiâs YouTube channel, it showcased the progress through years of development, with an interesting song choice in the background.Â  The trailer previewed mostly internal and external visuals, unfortunately, we couldnât hear any sounds. We could see that significant effort has been made by the developer team in modelling and texturing. At the very end of the video, we could see the release date - 2nd July! TFDiâs MD-11 Base Pack will cost $69.99 (cargo or passenger), while the Expansion pack (conveniently named The One You Did Not Purchase Already), is priced at $9.99. Later in 2024, the Extended Simulation Package will also be available for purchase. The package will include operational failures, an advanced custom failures menu, and circuit breaker functionality. The MD-11 will be compatible with MSFS, P3Dv4/v5/v6, although support for MSFS2024 still hasnât been officially confirmed until the developers receive more information about the upcoming simulator. â Stay tuned to Threshold for more flightsim news and high-quality reviews! â</summary>
-    <published>2024-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p42vic</id>
-    <title>Parallel 42 Releases Victoria Falls Scenery Pack for MSFS</title>
-    <updated>2024-07-02T00:00:00+00:00</updated>
-    <link href="/news/p42vic"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6683e9d40a71c203a10f0034_Banner_Image%20(1).webp"/>
-    <summary>Sim: MSFS. After appointing Jeppeson2001 as the new Head of Scenery Design, Parallel 42 has re-released the Victoria Falls Scenery Pack for Microsoft Flight Simulator with some updates. The new pack allows users to explore the iconic Victoria Falls and enjoy its beauty. The updated scenery pack includes waterfalls, heliports, and bush strips located near Victoria Falls. It features 6 heliports, 4 bush strips, an animated Victoria Falls with sound and mist effects, 30 landable helipads, and various animations such as boats and rapids. You can purchase the add-on for $15.00 from the Parallel 42 Store, as well as from Orbx and Contrail. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/md1027</id>
-    <title>TFDi Releases MD-11 for MSFS</title>
-    <updated>2024-07-02T00:00:00+00:00</updated>
-    <link href="/news/md1027"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668458d15be9fb7c3b057a59_md1.webp"/>
-    <summary>Sim: MSFS. TFDi has recently released their rendition of the passenger and cargo variants of the McDonnell Douglas MD-11 for Microsoft Flight Simulator (and Prepar3d), an ETOPS-capable trijet introduced in 1990 and still in use by many cargo airlines around the World.Â  The original idea behind the MD-11 development was to take the DC-10 as a baseline and modernize it with the latest and greatest in technology from the early 90s, albeit without going overboard given McDonnellâs financial situation, which led to suboptimal fuel efficiency in comparison with the soon-to-be rivals at the time (Airbus A330/A340, Boeing 777), but with greater maximum range, even if briefly (which made it a relatively short-lived airplane, with only 200 units built).Â  The timing couldnât have been worse for a brand-new trijet, as airlines were already prioritizing fuel-efficient twin-engine airplanes and slowly phasing out their fuel-guzzling three, four-engine jets. Unsurprisingly enough, the MD-11 didnât take off in orders. TFDIâs rendition brings the General Electric engines (Pratt &amp; Whitney option to come later), with custom modeled systems, a custom-built flight management computer, high-resolution texturing, high-detail cabins (pax and cargo), and an onboard EFB allowing you to control payload and change specific settings.Â  Their âa la carteâ pricing model allows you to pick only the variant(s) you want: both cost $69.99 (cargo or passenger), and the other variant can be obtained for an extra $9.99, making it $80 for both. An â extended simulation packageâ is set to be released in late 2024, adding failures and circuit breakers. The base packages can be found on TFDiâs website. Shout out to SCOTSGOD for the screenshots! Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mcunus</id>
     <title>Microsoft Releases City Update 9: Northeastern United States for MSFS</title>
@@ -150,6 +123,33 @@
     <link href="/news/rwdc93"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668e657417f11e1321918aa0_Screenshot_2024-07-09_at_02%20(1).webp"/>
     <summary>Sim: X-Plane. RetroWings have recently previewed their newest project, DC-9 for X-Plane 12. RetroWings is a relatively new development group, made by developers from TorqueSim and LES. The first project they began working on was a Metroliner SA227, and they made significant progress (You can check their discord server for more info). The Douglas DC-9 was an American-made narrow-body short-haul aircraft, produced between 1965 and 1982. It was introduced by Delta in 1965, and shortly after, it became the worldâs best-selling airliner. From 1965 until 1976, more than 720 aircraft were delivered, which was more than double the number of its competitors.Â  Unfortunately, after the Boeing 737 entered the market, it was overtaken as the best-selling airliner. Due to higher unit cost than estimated, the DC-9 turned out to be sold at a loss, and the economics negatively impacted Douglas. In 1967, Douglas merged with McDonnell Aircraft and the DC-9 was renamed to McDonnell Douglas DC-9.Â  However, the first generation of DC-9 proved to be a success, as it was (and still is!) one of the longest-lasting aircraft in both production and operation. It was later developed into MD-80, MD-90 and Boeing 717. In total, the DC-9 family was produced in 2441 units, 976 DC-9s, 1078 MD-80s, 116 MD-90s, and 155 Boeing 717s.Â  RetroWings is developing the DC-9-32 version, which had an increased MTOW, and interestingly enough, did not feature GPS or FMS originally. The developers announced that they may develop a device that would help the pilots, especially when flying online. Currently, we have no information about the release date or pricing, but as always Threshold will keep you updated! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tmheca</id>
+    <title>Taimodels Releases Cairo International Airport for MSFS</title>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <link href="/news/tmheca"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668eed7419b98165c93ef99e_cairo1.webp"/>
+    <summary>Sim: MSFS. Taimodels recently released their rendition of Cairo International Airport (HECA) for Microsoft Flight Simulator. It's the largest and busiest airport in Egypt, with a yearly average of 14 million passengers.Â  It was built as John Payne Field Air Force Base during World War 2, a major Air Transport Command air cargo and passenger hub for the allied forces.Â  After the end of the war, the Civil Aviation Authority took over, using it for international civil aviation and ultimately replacing the old Heliopolis Airport in 1963. The first passenger terminal was inaugurated in 1963 by President Gamal Abdel Nasser. It was expanded over the following decades, with the construction of a second hall in the late 1970s and a third one in 1980.Â  Renovation work was carried out in the early 2000s to bring the airport up to modern standards and expand the departure hall. Terminal 2 was inaugurated in 1986, with seven boarding gates serving european, gulf, and east asian airlines. It closed in 2010 for renovation work, which took two years to complete. The newest terminal, Terminal 3, opened in 2004 after the administration realized the current structure wouldn't match the projected growth and neither of the terminals could be expanded any further. Twice as large as both terminals combined, it can handle 11 million passengers a year. It's a hub for EgyptAir, Nile Air, Air Cairo, and Air Arabia Egypt. Aegean Airlines, Aeroflot, Air Arabia, Air France, Austrian Airlines, British Airways, Emirates, Etihad Airways, ITA Airways, Kuwait Airways, Qatar Airways, Saudia, Transavia, Turkish Airlines, and Vueling also serve it. The scenery features an accurate rendition of the airport, with hand-made PBR texturing, realistic lighting, custom ground textures, an up-to-date ground layout, performance-friendly optimization, and custom jetways. It's available on SimMarket for roughly $23.24, requiring at least 1.60 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/htsvsm</id>
+    <title>Verticalsim Releases Huntington Tri-State Airport for MSFS</title>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <link href="/news/htsvsm"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668efe0fd8cc74fed320d854_hunt1.webp"/>
+    <summary>Sim: MSFS. Verticalsim has recently released its rendition of Huntington Tri-State Airport (KHTS) for Microsoft Flight Simulator. The airport serves Huntington, West Virginia, Ashland, Kentucky, and Ironton, Ohio, with a yearly average of 198,000 passengers. The seeds of the airport were sown in 1922 when the Huntington Chamber of Commerce formed an aviation committee tasked with finding a suitable location for an airfield. Recognizing the potential of air travel, the community rallied behind the initiative. Decades later, in 1952, Tri-State Airport was finally dedicated after years of planning and construction. In the early years, propeller planes like the Piedmont DC-3s arrived, followed by Eastern and Allegheny Airlines in 1953. As passenger demand grew, so did the airport. The runway was extended in 1956 to accommodate larger aircraft. This expansion paved the way for the introduction of jetliners, with Piedmont operating the first 737s in 1969. The present terminal building, a testament to the airport's commitment to modernization, was constructed between 1959 and 1961âfurther runway expansions followed in 1973, solidifying Tri-State's position as a vital regional transportation hub. Allegiant Air (Fort Walton Beach, Orlando/Sanford, Punta Gorda, FL, St. Petersburg) and American Eagle (Charlotte) serve it. The scenery features an accurate rendition of the airport, with custom ground textures, custom terraforming, performance-friendly optimization, high-resolution PBR texturing, custom aerial imagery, an up-to-date ground layout, and basic interiors for optimal performance. It's available on Contrail for roughly $12.59, requiring at least 1.56 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!  â â</summary>
+    <published>2024-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxiorb</id>
+    <title>MXI Design Releases Ãrebro Airport for X-Plane 12</title>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <link href="/news/mxiorb"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668f0ab78a9fb8a2eca3e18d_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. MXI Design recently released its version of Ãrebro Airport (ESOE) for X-Plane 12. Located just over 6 miles from the city of Ãrebro, the airport is the 23rd largest airport in Sweden in terms of passengers. It serves around 80,000 passengers yearly and is also involved in various cargo operations. Ãrebro Airport opened in 1978 after discussions about a new airport in the region were ongoing in the early 50s and 60s. The airport initially had a 1,300-meter-long runway, which has now been extended to 3,300 meters. In the 1990s, the airport started to focus on cargo operations in addition to passenger transport. In terms of regional freight, Ãrebro Airport is the largest in all of Sweden. The airport is currently used by several airlines, including Ryanair, Sunclass Airlines, and ASL Airlines France, for both passenger and cargo operations. The scenery package includes an accurate and highly detailed rendition of the airport, an up-to-date ground layout, basic interior, PBR implementation, animated flags, 3D passengers, custom aerial imagery, and more. The newly released Ãrebro Airport requires 2.14 GB of storage space, and it is available on both SimMarket and Orbx for approximately $13.10. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-07-10T00:00:00+00:00</published>
   </entry>
 </feed>
