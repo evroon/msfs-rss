@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-13T18:24:16.378892+00:00</updated>
+  <updated>2024-07-14T18:35:13.045683+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777036</id>
-    <title>PMDG Updates 777-300ER for MSFS</title>
-    <updated>2024-07-03T00:00:00+00:00</updated>
-    <link href="/news/777036"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6685d4f8cac256d1fa8d9ddf_klm.webp"/>
-    <summary>Sim: MSFS. PMDG recently issued the second update (2.00.0036) to their newly released Boeing 777-300ER for Microsoft Flight Simulator, aiming to improve the add-onâs performance and stability. As previously mentioned, the second update focuses primarily on stability and performance gains, aiming to mitigate the random WASM crashes, low framerate on lower-end systems, and getting rid of the infamous TA/RA bug inducing freezes on final approach. The full changelog follows below: â Randazzo also mentions itâs not usual practice to add every little change to the checklist, but they want to emphasize how many faults are being corrected in pursuit of optimal stability.Â  They say the next update is already being worked on and is anticipated to follow sometime this weekend unless they make a breakthrough in the areas affecting user experience (like fully mitigating the WASM lockups).Â  The add-on is available on PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bsegpk</id>
-    <title>Boundless Releases Glasgow Prestwick Airport for X-Plane 11 &amp; 12</title>
-    <updated>2024-07-04T00:00:00+00:00</updated>
-    <link href="/news/bsegpk"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6686bcada17eb2b333997824_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Boundless has recently launched its latest scenery for both X-Plane 11 and X-Plane 12. This time, they have introduced Glasgow Prestwick Airport (EGPK) for the flight simulator. Situated in Prestwick, Scotland, this international airport serves as a focus city for the airline Ryanair. Glasgow Prestwick Airport has been in operation as an airport since 1935. In 1938, passenger facilities were added to the airport. Over the years, the airport has seen commercial growth, resulting in various facility improvements. It has also served military purposes, with the RAF controlling transatlantic flights during World War II. Today, Ryanair operates the majority of flights from the airport, traveling to destinations like Alicante, Barcelona, and Malaga. Additionally, the airport hosts cargo operations for airlines such as Air France Cargo and Cargolux. Last year, the airport served 525,000 passengers, making it the fifth busiest airport in Scotland. It is also worth noting that Glasgow Prestwick Airport is the largest airport in Scotland in terms of land area. The recently released scenery includes a range of features such as up-to-date HD ortho imagery, 4K PBR terminal and airport buildings, 3D volumetric grass, HD custom clutter objects, realistic GSE, and much more. The recently released Glasgow Prestwick Airport scenery requires 2.6 GB of storage space, and is available on Boundless for approximately $24.24. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rkadcs</id>
     <title>rkApps Releases DCRealistic</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66916d0b19060b9b782afb42_par1.webp"/>
     <summary>Sim: MSFS. Parallel 42 recently released their 777 Immersion package for Microsoft Flight Simulatorâpart of their SimFX add-onâaiming to improve the overall realism of the effects for the PMDG 777 (and CaptainSim, eventually) with condensation, realistic chemtrails, brake smoke, and more. Available as a single package for all major renditions of the triple seven airframe regardless of the livery used, bringing immersive effects for the PMDG and CaptainSim (at a later date) and customized for each with performance as their top priority.Â  Built on the SimFx framework, it offers the best combination of effects and customizability via the SimFx interface. For the unaware, Parallel 42âs SimFX is a visual effects utility covering a range of immersive scenarios. Environmental variables and formulas authentically govern every particle on the screen, and dynamic effects appear under the right conditions, creating unique moments in the virtual skies. The effects include contrails, heat blurs, wing wash, rotor wash, and more. Their immersion package for the 777 builds on top of what SimFx already offers, bringing nineteen custom effects for the mighty triple seven, including swirling contrails, condensation effects, waste water drain every hour, engine cold start effects, fuel jettison, cloud illumination, hot brakes smoke, carbon brake dust, and water droplets. The APU heat blur and the St. Elmoâs fire are not supported because of a development choice by PMDG, using a deprecated technique preventing SimFX or 777 Immersion from injecting their version of those effects. The package is available on Contrail for roughly $15.00, requiring at least 2 MB of free hard disk space to install. Bear in mind that the 777 Package requires SimFX to work. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-07-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cdmoor</id>
+    <title>Cli4D Designs Releases Moorea, French Polynesia for MSFS</title>
+    <updated>2024-07-13T00:00:00+00:00</updated>
+    <link href="/news/cdmoor"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6692fcd7f7417e921894b5dc_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Cli4D Designs has recently released its latest add-on for Microsoft Flight Simulator, focusing on the island of Moorea. Situated in French Polynesia, Moorea is surrounded by the Pacific Ocean. This add-on enhances the area originally created by Asobo and Microsoft, aiming to capture the island's breathtaking beauty. Moorea is a volcanic island with about 18.000 residents, located roughly 11 miles northwest of Tahiti. Although it covers only 52 square miles, the island boasts stunning visuals, including the coastal area and the extinct volcano Mount Tohivea, providing users with plenty to explore. The newly released add-on is loaded with features, offering an enhanced coastal area with tropical vegetation, human models, custom buildings with PBR textures, stationary and moving boats, improved ground textures, as well as enhancements on the hills and mountains, numerous points of interest, and more. The Moorea add-on from Cli4D Designs requires 3.68 GB of storage space and is available on Orbx, SimMarket, and Contrail for around $13.00. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/egphii</id>
+    <title>Pyreegue Dev Coâs Edinburgh Airport II Gets Release Window</title>
+    <updated>2024-07-14T00:00:00+00:00</updated>
+    <link href="/news/egphii"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6694022df71e3916b6a85678_edinbruh1.webp"/>
+    <summary>Sim: MSFS. Pyreegue has recently teased their rendition of Edinburgh Airport V2 (EGPH) for Microsoft Flight Simulator, along with a release window: âPrepare for take-off. Next weekâ. It is the busiest airport in Scotland, with a yearly average of 14.7 million passengers. Over 200 scheduled flights connect Edinburgh to the world every day.Â  Aegean Airlines, Aer Lingus, Air Canada (seasonally), Air France, British Airways, Brussels Airlines, Delta Air Lines, easyJet, Edelweiss Air, Emirates, Eurowings, Finnair, Jet2.com, JetBlue, KLM, Loganair, Lufthansa, Norwegian Air Shuttle, Pegasus Airlines, Qatar Airways, Ryanair, Scandinavian Airlines, Turkish Airlines, United Airlines, Virgin Atlantic, and Vueling serve it. Edinburgh 2 fully rebuilds the first version with improved models and texturing, an up-to-date layout, improved custom jetways, a custom GSX profile, and much more. The pricing has yet to be revealed, but his last releases were around the $21 ballpark (roughly).Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-14T00:00:00+00:00</published>
   </entry>
 </feed>
