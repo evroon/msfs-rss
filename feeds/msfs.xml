@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-07-16T18:26:48.337905+00:00</updated>
+  <updated>2024-07-17T18:26:25.969993+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/june-27th-2024-development-update/</id>
-    <title>June 27th, 2024 – Development Update</title>
-    <updated>2024-06-27T23:08:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/june-27th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/@ukaka5656-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!The Microsoft Flight Simulator team had a fantastic time at FlightSimExpo 2024 in Las Vegas last weekend! Whether you were one of the thousands of simmers who attended … Continued</summary>
-    <published>2024-06-27T23:08:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/city-update-9/</id>
@@ -77,5 +68,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/THECHIZINATOR-Forums-1024x429.jpeg"/>
     <summary>We originally planned to host our July Developer Livestream earlier this week, but unfortunately due to a scheduling issue we had to move it to next week instead. The revised date is Wednesday, July 17 at 10:30am PDT (1730 UTC).</summary>
     <published>2024-07-11T22:53:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/summer-sale-2550-items-on-sale-now-in-the-marketplace/</id>
+    <title>Summer Sale: 2550+ Items On Sale Now in the Marketplace</title>
+    <updated>2024-07-17T17:01:09+00:00</updated>
+    <link href="https://www.flightsimulator.com/summer-sale-2550-items-on-sale-now-in-the-marketplace/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/MSFS_SummerSale2024_v1_1920x1080-1024x576.jpg"/>
+    <summary>For 15 Days starting on July 17th, save up to 85% on more than 2550 items.          
+ To purchase these discounted items, visit the Microsoft Flight Simulator Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See All’ and look for the savings.</summary>
+    <published>2024-07-17T17:01:09+00:00</published>
   </entry>
 </feed>

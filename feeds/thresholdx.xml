@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-16T18:26:49.755156+00:00</updated>
+  <updated>2024-07-17T18:26:27.553285+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rkadcs</id>
-    <title>rkApps Releases DCRealistic</title>
-    <updated>2024-07-04T00:00:00+00:00</updated>
-    <link href="/news/rkadcs"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66870936d9f5bb68aa5539cf_Screenshot%202024-07-04%20215109.webp"/>
-    <summary>Sim: DCS. After a long period of silence from rkApps, the developers behind XPRealistic and FSRealistic, have surprised everyone with the release of DCRealistic. The release of DCR marks the third addon from the Realistic series. The goal of DCRealistic is the same as with the other addons from this developer - add immersion to the sim experience. Using camera shaking and sound effects, this addon increases the level of immersion. There are 21 effects inside the app, some of them being: Afterburner, Airbrake Drag, Brakes Canopy Shut, Canopy Jettison, Ground Roll, Over G, Wind ambience, G force, touchdown and many more. Each one of these effects can be manually edited to the userâs liking.Â  It is also compatible with SimHaptic, another rkAppsâ addon that synchronises the Bass shaker with the simulator effects.Â All mods in DCS are supported, both official and community ones. VRÂ and TrackIR enthusiasts will also be able to enjoy this addon, as both are compatible with DCR. DCRealistic is available for purchase on the rkApps website for $19.99, and the 7-day trial version can also be found on the same page.Â  â Stay tuned to Threshold for more flight sim news! â</summary>
-    <published>2024-07-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tstfff</id>
-    <title>TropicalSim Releases Martinique Airport V2 for MSFS</title>
-    <updated>2024-07-05T00:00:00+00:00</updated>
-    <link href="/news/tstfff"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668802960cf517ff5ec927c2_Banner_Image.webp"/>
-    <summary>Sim: MSFS. TropicalSim has recently launched the V2 version of its Martinique AimÃ© CÃ©saire International Airport (TFFF) for Microsoft Flight Simulator. Situated close to Fort-de-France, the capital city of Martinique, the airport is about 6 miles away from the city center. It serves just under 1.9 million passengers annually. The airport opened in 1950 and initially had limited traffic due to the island's reliance on maritime transport for its economy. However, after a decade, air traffic increased, leading to the CCIM being awarded the contract for managing and developing the airport in 1965. Further upgrades were completed in 1995 after construction began in 1991. The airport was renamed in 2007 and is currently a focus city for Air CaraÃ¯bes and Air Antilles Express. Together with other airlines, the airport offers destinations such as Miami, Paris, and Frankfurt, with an average yearly passenger count of just under 1.9 million. The V2 scenery of the airport includes a highly detailed rendition of the airport, full night illumination, dynamic lighting, animated jetways, use of PBR, and more.Â  The new V2 of Martinique Airport is available on SimMarket for around $17.84. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ina350</id>
     <title>iniBuilds Previews Upcoming Airbus A350 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6694022df71e3916b6a85678_edinbruh1.webp"/>
     <summary>Sim: MSFS. Pyreegue has recently teased their rendition of Edinburgh Airport V2 (EGPH) for Microsoft Flight Simulator, along with a release window: âPrepare for take-off. Next weekâ. It is the busiest airport in Scotland, with a yearly average of 14.7 million passengers. Over 200 scheduled flights connect Edinburgh to the world every day.Â  Aegean Airlines, Aer Lingus, Air Canada (seasonally), Air France, British Airways, Brussels Airlines, Delta Air Lines, easyJet, Edelweiss Air, Emirates, Eurowings, Finnair, Jet2.com, JetBlue, KLM, Loganair, Lufthansa, Norwegian Air Shuttle, Pegasus Airlines, Qatar Airways, Ryanair, Scandinavian Airlines, Turkish Airlines, United Airlines, Virgin Atlantic, and Vueling serve it. Edinburgh 2 fully rebuilds the first version with improved models and texturing, an up-to-date layout, improved custom jetways, a custom GSX profile, and much more. The pricing has yet to be revealed, but his last releases were around the $21 ballpark (roughly).Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/omgthd</id>
+    <title>Orbx Previews Upcoming MSFS Global Trees HD</title>
+    <updated>2024-07-16T00:00:00+00:00</updated>
+    <link href="/news/omgthd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6696cb7a24581f1c5b72e369_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Orbx has recently added a new product named MSFS Global Trees HD to their "Upcoming Products" section on their website. The product page for this upcoming add-on is now available. This new add-on will replace all standard vegetation with high-quality specimens, enhancing the overall appearance of the flora in Microsoft Flight Simulator. The product page provides a lot of information about the add-on and includes numerous screenshots. Some key features to expect are high-quality replacement vegetation for the default, the option to change vegetation seasons, six new types of grass to replace the default grass, a tool to change vegetation seasons and grass type, and more. Although Orbx has not yet announced a release date or pricing, the comprehensive product page may indicate that a release is not too far away. We will keep you informed once more information about the add-on is announced. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/thirdwind-simulations-announce-feiseler-storch</id>
+    <title>ThirdWind Simulations Announce Feiseler Storch</title>
+    <updated>2024-07-16T00:00:00+00:00</updated>
+    <link href="/news/thirdwind-simulations-announce-feiseler-storch"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6696fe201feb3d9f115fe56b_image.webp"/>
+    <summary>Sim: MSFS. Thirdwind Simulations, a new collaborative venture between veteran developer Nervegas and flight sim content creator BurstixTV, has announced its first project: the Fieseler Fi 156 Storch. The announcement was made on the MSFS forums and featured a preview of the current 3d model being shown in Blender. The Storch was a liaison aircraft developed for the German Ministry of Aviation in the 1930s. The original aircraft was powered by an Argus V8 engine and had a range of 210nm at a cruise speed of 81 knots. The Storch was retired by the German military but went on to serve with French forces until the 70s. For more information on the Storch project by Thirdwind Simulations, you can check out their discord here.  â Stay tuned to Threshold for the latest in flight simulation! â</summary>
+    <published>2024-07-16T00:00:00+00:00</published>
   </entry>
 </feed>
