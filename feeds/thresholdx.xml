@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-17T18:26:27.553285+00:00</updated>
+  <updated>2024-07-18T18:27:32.103237+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ina350</id>
-    <title>iniBuilds Previews Upcoming Airbus A350 for MSFS</title>
-    <updated>2024-07-06T00:00:00+00:00</updated>
-    <link href="/news/ina350"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6689511babff28b4c6f36de6_Banner_Image.webp"/>
-    <summary>Sim: MSFS. iniBuilds has provided a preview of its upcoming flagship iniBuilds A350 Airliner project for Microsoft Flight Simulator. After announcing the project in December, the team has recently shared a few screenshots of the upcoming airliner. iniBuilds posted the previews together with the announcement of its iniBuilds Summer Surprises Event. From July 15th to July 28th, iniBuilds plans to make some new product announcements as well as provide some development updates on iniBuilds aircraft and scenery. The team will host its first iniBuilds Developer Livestream on the 22nd of July. As part of the announcement, the team has previewed the upcoming Airbus A350. While iniBuilds has not yet announced a release date or pricing, the team has stated that they will provide a formal, comprehensive showcase and development update during the announced event. We will keep you informed once more information about the project is announced. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vst38a</id>
     <title>Veco Simulations Releases Trailer for T-38A</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6696fe201feb3d9f115fe56b_image.webp"/>
     <summary>Sim: MSFS. Thirdwind Simulations, a new collaborative venture between veteran developer Nervegas and flight sim content creator BurstixTV, has announced its first project: the Fieseler Fi 156 Storch. The announcement was made on the MSFS forums and featured a preview of the current 3d model being shown in Blender. The Storch was a liaison aircraft developed for the German Ministry of Aviation in the 1930s. The original aircraft was powered by an Argus V8 engine and had a range of 210nm at a cruise speed of 81 knots. The Storch was retired by the German military but went on to serve with French forces until the 70s. For more information on the Storch project by Thirdwind Simulations, you can check out their discord here.  â Stay tuned to Threshold for the latest in flight simulation! â</summary>
     <published>2024-07-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdghh</id>
+    <title>FSDG Releases Hurghada International Airport for X-Plane 12</title>
+    <updated>2024-07-17T00:00:00+00:00</updated>
+    <link href="/news/fsdghh"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66982f6a315f9ccbe4defeb3_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FSDG has recently released its latest scenery for X-Plane 12, Hurghada International Airport (HEGN). Located in and serving the city of Hurghada, Egypt, the airport is one of the busiest in the Middle East. The airport serves as an important hub for a variety of leisure flights coming from Europe. Hurghada International Airport began operating in 1977. Over the years, it has expanded and is now the second busiest airport in Egypt, after Cairo International Airport. The airport consists of two terminals: Terminal 1 and Terminal 2. It is situated just 3.1 miles southwest of Hurghada's city center. Air Cairo considers the airport a focus city, and it serves many other airlines year-round as well as seasonally, including Corendon Airlines, easyJet, TUI Airways, and Wizz Air. The airport's diverse airline operations contribute to a significant influx of visitors from across Europe to the city of Hurghada. The new scenery for X-Plane 12 includes a fully accurate rendition of Hurghada International Airport and its surroundings, an updated airport layout, several hotels, resorts, and landmarks, dynamic lighting, animated jetways, and more. The newly released Hurghada International Airport scenery is now available on FSDG for around $21.87. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-17T00:00:00+00:00</published>
   </entry>
 </feed>
