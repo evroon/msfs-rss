@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-24T18:28:07.642897+00:00</updated>
+  <updated>2024-07-25T18:26:14.327819+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mxiorb</id>
-    <title>MXI Design Releases Ãrebro Airport for X-Plane 12</title>
-    <updated>2024-07-10T00:00:00+00:00</updated>
-    <link href="/news/mxiorb"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/668f0ab78a9fb8a2eca3e18d_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. MXI Design recently released its version of Ãrebro Airport (ESOE) for X-Plane 12. Located just over 6 miles from the city of Ãrebro, the airport is the 23rd largest airport in Sweden in terms of passengers. It serves around 80,000 passengers yearly and is also involved in various cargo operations. Ãrebro Airport opened in 1978 after discussions about a new airport in the region were ongoing in the early 50s and 60s. The airport initially had a 1,300-meter-long runway, which has now been extended to 3,300 meters. In the 1990s, the airport started to focus on cargo operations in addition to passenger transport. In terms of regional freight, Ãrebro Airport is the largest in all of Sweden. The airport is currently used by several airlines, including Ryanair, Sunclass Airlines, and ASL Airlines France, for both passenger and cargo operations. The scenery package includes an accurate and highly detailed rendition of the airport, an up-to-date ground layout, basic interior, PBR implementation, animated flags, 3D passengers, custom aerial imagery, and more. The newly released Ãrebro Airport requires 2.14 GB of storage space, and it is available on both SimMarket and Orbx for approximately $13.10. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777037</id>
-    <title>PMDG Updates 777-300ER for MSFS</title>
-    <updated>2024-07-11T00:00:00+00:00</updated>
-    <link href="/news/777037"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66904e3dbe652ec8847e6d37_ana1.webp"/>
-    <summary>Sim: MSFS. PMDG has recently issued a new update to their newly released Boeing 777-300ER for Microsoft Flight Simulator, bringing a few more fixes to the WASM issues, sound tweaks, and news on future updates for the DC-6 and 737s.Â  In an unusual fashion, the forum post begins with a paragraph on a future DC-6 update, which will improve texture clarity on gauges and dials and many of the placards and indicators throughout the flight deck. The update stems from what they have learned with the 737 and 777, which were initially applied on an experimental basis but were deemed too good to be kept private. The following bit details an SU15-induced issue that led to the aircraft freezing entirely, although the simulator would keep running. They claim it has to do with changes in how the platform handles C++ code issues that otherwise wouldnât cause crashes. PMDG has been working hard to find and mitigate the triggers to provide maximum stability.Â  Said fixes are being rolled out gradually on the 777 and will also be rolled out to the 737 in due time. A beta version has been pushed out to their testers so they can ensure itâs working fine before a full rollout. PMDG is confident that update 2.00.0037 will give the 777 stability and protection against the SU15 issues that were unmasked with the help of their testers and customers. They have found most of the root causes and dealt with them accordingly.Â  With that being said, their âguard is still up,â and bug reports are still being constantly evaluated, with more fixes on the way.Â  The next update is already being worked on, and itâs anticipated to include a fix for the long filenames problem and a potential new feature: Navigraph data might be updated through the Ultimate Flight Tablet. Other fixes are also pending. The changelog for todayâs update follows below: â The 777-300ER is available on PMDG.com for $77.73. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kolanf</id>
-    <title>Orbx Updates DCS Kola Map with New Features</title>
-    <updated>2024-07-12T00:00:00+00:00</updated>
-    <link href="/news/kolanf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66910148f92d9469c9e0c35b_Banner_Image.webp"/>
-    <summary>Sim: DCS. Orbx has released a new update for its Kola map for DCS. The update includes new features and improvements. The main feature of the update is a set of winter textures, allowing users to explore the harsh and cold climate of the North. Further improvements to the map have been made based on community feedback. The update includes new winter textures that accurately represent cold climates. These textures will be adjusted based on the date of the mission. Additionally, the update features the Port of Kirkenes and includes enhancements within the Russian/Finnish border. Based on community feedback, the new update includes several improvements. These include performance optimizations, corrected placement of wind turbines, removal of orange trees from fields, and increased depth of the Polyarny harbor. All these improvements have been made to ensure that the map is as accurate as possible. The updated add-on is currently available on Orbx for $57.66 during early access and will increase to $69.99 upon full release. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777ime</id>
     <title>Parallel 42 Releases 777 Immersion Pack for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a010f4e94078d32d9948e9_dub1.webp"/>
     <summary>Sim: MSFS. iniBuilds has recently released their rendition of Dubrovnik RuÄer BoÅ¡koviÄ Airport (LDDU) for Microsoft Flight Simulator, serving Dubrovnik-Neretva County with a yearly average of 2.4 million passengers. The airport opened in 1962 and quickly became Yugoslaviaâs busiest. By 1987, it had already served nearly a million passengers.Â  In the 2000s, a new passenger terminal was built to replace the original from 1962, costing the administration 70 million euros. Itâs the most modern terminal in the country so far.Â  Itâs a hub for Croatia Airlines and many other European carriers, including Air France, British Airways, easyJet, Eurowings, Finnair, Iberia, KLM, Lufthansa, Transavia, Volotea, Vueling, and Wizz Air, serve it on a seasonal basis. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, custom night lighting, highly detailed models of all airport buildings, an up-to-date layout, and a custom GSX profile.Â  Itâs available on the iniBuilds Store for roughly $19.36, requiring at least 3.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/350724</id>
+    <title>iniBuilds Teases Airbus A350 for MSFS</title>
+    <updated>2024-07-24T00:00:00+00:00</updated>
+    <link href="/news/350724"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a1789bec8bb4bc29f9939d_a3501.webp"/>
+    <summary>Sim: MSFS. iniBuilds has recently uploaded a teaser video and an in-depth development update of their upcoming Airbus A350 for Microsoft Flight Simulator, one of the most awaited addons for the platform so far. The short teaser video reveals some of the 3D art-focused details, along with a glimpse of the systems and sounds. Like their A300-600R, the A350 will feature fully modeled engine interiors, openable cowlings, and more. Users will be able to manage all possible maintenance options via EFB. The wear and tear system, also seen on the A300 to some extent, will be heavily improved. It will feature dynamic weathering of the aircraft, with paint peeling off the rivets, oil, and dirt streaks around potential leakage areas, dirt and grime on flaps, and more. It is said to build up as you fly the aircraft.Â  The cockpit features the same attention to detail, with PBR materials, high-resolution textures, and heavy optimization work to reduce VRAM usage without compromising visual quality.Â  Concerning the realism of the aircraft due to the apparent lack of data available, iniBuilds has said thatâcontrary to popular beliefâthereâs âquite a bitâ of data around for core systems and overall functionality. To fill all the gaps, the missing spots were covered by renting a full-motion A350 simulator for multiple hours. They have also gathered twelve dedicated A350 experts to serve as a complimentary source of information. iniBuilds claims it will be not only visually stunning but will also far exceed anything else they have produced.Â  They have also made a FAQ section with many frequently asked questions regarding their upcoming aircraft and its features.Stay tuned to Threshold for more flight simulation news! Â  â</summary>
+    <published>2024-07-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/300724</id>
+    <title>Just Flight Publishes A300B4 Development Update for MSFS</title>
+    <updated>2024-07-24T00:00:00+00:00</updated>
+    <link href="/news/300724"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a17f6e3df02ac1d8e38e9a_a3006.webp"/>
+    <summary>Sim: MSFS. Just Flight has recently published a new development update on their upcoming A300B4 for Microsoft Flight Simulator, covering their latest visual work on the cockpit. â Their lead artist has been working hard for the past four months on recreating the remaining sections of the A300B4âs cockpit, taking into account every individual gauge, screw, knob, and panel, all with custom weathering and discoloration as per their reference aircraft. With the work now complete, Just Flight will be teasing new bits of the cockpit through the remaining development updates, starting with the center pedestal. â They have authentically recreated the Carousel IV Inertial Navigation System (INS) Control Display Unit (CDU) on both sides. For those wishing for a more modern offering, the UNS-1 FMS will be an option. â The following bits to be showcased are the stabilizer trim wheels, the speed brake lever, a flap/slat lever, the throttle levers, fuel cut-off switches, the parking brake handle, and some buttons. Lastly, the communications suite has 2 VHF control units, a transponder unit, two audio selector panels, weather radar controls, ADF navigation radios, and lighting controls.Â  The next development update will focus on the forward panel and autopilot.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/init33</id>
+    <title>iniBuilds Announces T-33 Jet Trainer for MSFS</title>
+    <updated>2024-07-24T00:00:00+00:00</updated>
+    <link href="/news/init33"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a1853986721289168989ad_t331.webp"/>
+    <summary>Sim: MSFS. iniBuilds, working alongside SimWorks Studios &amp; AceMaker aviation, has announced the development of a T-33 Jet Trainer for Microsoft Flight Simulator, part of their new âPremierâ product line. Their Premier aircraft team comprises exceptional, high-quality 3D artists and programmers, as well as experts (pilots and engineers) who excel in crafting general aviation aircraft. The new project aims to further push the boundaries with extensive flight dynamic testing, greater system fidelity, and highly detailed visuals.Â  The T-33 is a turbojet training aircraft used by over 20 different air forces around the globe. Since its introduction, it has served a variety of roles, from an initial jet training platform to drone director, and even saw combat action during the Korean War! â The upcoming add-on will feature highly detailed textures, an in-depth systems simulation, true-to-life handling characteristics, and a fully functional cockpit where every switch is operable. It will be available in two cockpit configurations: classic and modern, with a matching avionics suite. The complete feature list follows below: Exterior Art Features list:Â  Interior Art Features list: The expected release window is sometime around mid-August, and media partners will be allowed to showcase it a few days earlier. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-07-24T00:00:00+00:00</published>
   </entry>
 </feed>
