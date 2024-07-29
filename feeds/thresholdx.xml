@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-28T18:26:09.354065+00:00</updated>
+  <updated>2024-07-29T18:27:14.192629+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/omgthd</id>
-    <title>Orbx Previews Upcoming MSFS Global Trees HD</title>
-    <updated>2024-07-16T00:00:00+00:00</updated>
-    <link href="/news/omgthd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6696cb7a24581f1c5b72e369_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Orbx has recently added a new product named MSFS Global Trees HD to their "Upcoming Products" section on their website. The product page for this upcoming add-on is now available. This new add-on will replace all standard vegetation with high-quality specimens, enhancing the overall appearance of the flora in Microsoft Flight Simulator. The product page provides a lot of information about the add-on and includes numerous screenshots. Some key features to expect are high-quality replacement vegetation for the default, the option to change vegetation seasons, six new types of grass to replace the default grass, a tool to change vegetation seasons and grass type, and more. Although Orbx has not yet announced a release date or pricing, the comprehensive product page may indicate that a release is not too far away. We will keep you informed once more information about the add-on is announced. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/thirdwind-simulations-announce-feiseler-storch</id>
-    <title>ThirdWind Simulations Announce Feiseler Storch</title>
-    <updated>2024-07-16T00:00:00+00:00</updated>
-    <link href="/news/thirdwind-simulations-announce-feiseler-storch"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6696fe201feb3d9f115fe56b_image.webp"/>
-    <summary>Sim: MSFS. Thirdwind Simulations, a new collaborative venture between veteran developer Nervegas and flight sim content creator BurstixTV, has announced its first project: the Fieseler Fi 156 Storch. The announcement was made on the MSFS forums and featured a preview of the current 3d model being shown in Blender. The Storch was a liaison aircraft developed for the German Ministry of Aviation in the 1930s. The original aircraft was powered by an Argus V8 engine and had a range of 210nm at a cruise speed of 81 knots. The Storch was retired by the German military but went on to serve with French forces until the 70s. For more information on the Storch project by Thirdwind Simulations, you can check out their discord here.  â Stay tuned to Threshold for the latest in flight simulation! â</summary>
-    <published>2024-07-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsdghh</id>
-    <title>FSDG Releases Hurghada International Airport for X-Plane 12</title>
-    <updated>2024-07-17T00:00:00+00:00</updated>
-    <link href="/news/fsdghh"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66982f6a315f9ccbe4defeb3_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. FSDG has recently released its latest scenery for X-Plane 12, Hurghada International Airport (HEGN). Located in and serving the city of Hurghada, Egypt, the airport is one of the busiest in the Middle East. The airport serves as an important hub for a variety of leisure flights coming from Europe. Hurghada International Airport began operating in 1977. Over the years, it has expanded and is now the second busiest airport in Egypt, after Cairo International Airport. The airport consists of two terminals: Terminal 1 and Terminal 2. It is situated just 3.1 miles southwest of Hurghada's city center. Air Cairo considers the airport a focus city, and it serves many other airlines year-round as well as seasonally, including Corendon Airlines, easyJet, TUI Airways, and Wizz Air. The airport's diverse airline operations contribute to a significant influx of visitors from across Europe to the city of Hurghada. The new scenery for X-Plane 12 includes a fully accurate rendition of Hurghada International Airport and its surroundings, an updated airport layout, several hotels, resorts, and landmarks, dynamic lighting, animated jetways, and more. The newly released Hurghada International Airport scenery is now available on FSDG for around $21.87. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vstboh</id>
     <title>Velocity SkyTech Releases Bournemouth Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a41da33330d51949727e3e_installer3.webp"/>
     <summary>Sim: MSFS. Fenix Simulations has recently issued a new update to their rendition of the Airbus A320 for Microsoft Flight Simulator, which includes bug fixes, improvements, and a new installer. A brand new installer has been developed to speed up their release and update process. It breaks files into smaller parts and only fetches the parts that have been altered, significantly speeding up the whole process. They have gathered comparison data, and the difference is astounding: from 2 minutes and 14 seconds total (download and installation) to 35 seconds (fastest result). They also reiterate that the figures may vary depending on hardware specs and storage speed. The sounds have also seen a rework, with binaural microphone recordings straight from a captainâs headset during a full flight, with cross-referenced ADS-B data to ensure the audio matches the correct phases of the flight. The result, balanced and adjusted accordingly, is much closer to the real thing. They have also improved the over- and behind-wing experience with new N1 bearing recordings, airflow, N2, and behind-intake buzzsaw on the CFM56s. They also have done further sound balancing on IAEs, with new airflow recordings, buzzsaw improvements, and a new window vibration/rattle on both at high power settings. The atmospheric sound model also received its fair share of refinement. Different ambient conditions influence the engine sounds, as demonstrated in the video below, which showcases the difference between a takeoff in the cold and dry versus hot and humid. Last but not least, still regarding sound improvements, Fenix added two hydraulic pump options: Vickers and Parker, as per the real thing (it can be fitted with either), and their subtly different sounds. The systems and flight model were not massively improved due to their strong focus on the upcoming expansion (A319 and A321). Still, they have improved the ADIRU wind simulation, so the airplane gathers wind data through its sensors rather than fetching it through the simulator. The fly-by-wire was made slightly smoother in pitch while retaining precision, and the ground-to-air blend was made creamier. The full changelog follows below: â The Fenix A320 is available on their website for roughly $64.33. Stay tuned to Threshold for more flight simulation news! â Â  â</summary>
     <published>2024-07-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fss727</id>
+    <title>FlightSim Studio Announces Release Date for Boeing 727-200F Add-on</title>
+    <updated>2024-07-28T00:00:00+00:00</updated>
+    <link href="/news/fss727"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a6b1d07204103b480e16cc_Banner_Image.webp"/>
+    <summary>Sim: MSFS. FlightSim Studio recently shared new information on its Discord about the upcoming Boeing 727-200F add-on for Microsoft Flight Simulator. The developer revealed details about the release date and price of the aircraft. The new 727 by FSS is now set to be released to the public on August 6th at around 08:00 UTC. Originally, the release was planned for the end of July, but the team has decided to delay it slightly to ensure that the aircraft includes all the necessary last-minute updates before the release. Moreover, the team has announced that various content creators, both big and small, will have access to the aircraft on August 1st at 00:00 UTC. This will allow everyone to have a proper look at the upcoming 727 before its public release. It's important to note that the GNS-XLS, initially scheduled for the first release, will be delayed to allow for improvements to the INS system. The GNS-XLS will still be added to the aircraft, but it is expected to be included 1-2 months after the initial release. Lastly, the team has announced that the long-awaited Boeing 727-200F will be priced at $42. The upcoming aircraft will be available in just 8 days, and Threshold will keep you updated. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orgthd</id>
+    <title>Orbx Releases MSFS Global Trees HD for MSFS</title>
+    <updated>2024-07-29T00:00:00+00:00</updated>
+    <link href="/news/orgthd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a755c101aeca5c1a18e946_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Orbx has recently released its newest add-on, MSFS Global Trees HD, for Microsoft Flight Simulator. This add-on, created by developer Dmytro Krykunov, aims to enhance realism by replacing all standard vegetation with high-quality specimens. The add-on allows users to customize and shape the landscape in Microsoft Flight Simulator according to their preferences. It offers features such as the ability to manage project data, change vegetation seasons, and replace the default grass. Dmytro designed the add-on to ensure that the biome and its vegetation are vibrant, diverse, and of high quality. MSFS Global Trees HD comes with various features, including high-quality replacement of default vegetation, the option to change vegetation seasons, the ability to replace default grass with six new types of grass, reworked biomes, and a software tool to adjust vegetation seasons and grass types. This add-on requires 2.78 GB of storage space and is available on Orbx for approximately $13.90. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/heca12</id>
+    <title>Taimodels Releases Cairo International Airport for X-Plane 12</title>
+    <updated>2024-07-29T00:00:00+00:00</updated>
+    <link href="/news/heca12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a7b13265af9e261ed19cb7_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Taimodels has recently released the X-Plane 12 version of Cairo International Airport (HECA). Following the release of its MSFS version, the team has now launched their rendition for X-Plane 12. Cairo International Airport serves the capital of Egypt, Cairo, and is situated approximately eight nautical miles from the city's central business district. The airport handles an average of 14 million passengers annually. The airport originally opened as John Payne Field Air Force Base during the Second World War. After the war, the airport was taken over by the Civil Aviation Authority, marking the start of its use for civil aviation. It eventually replaced the former Heliopolis Airport. Today, the airport has three terminals and serves as the hub for the airlines EgyptAir, Nile Air, Air Cairo, and Air Arabia Egypt. Additionally, a variety of other airlines operate to and from the airport, providing connections to destinations worldwide. The newly released Cairo International Airport for X-Plane 12 comes with a variety of features, including highly detailed models, SAM animated jetways, high-quality PBR textures on objects and ground, complete autogen around the airport, ground traffic, weather textures, and more. The scenery requires 1.87 GB of storage space and is available on SimMarket for about $25.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-29T00:00:00+00:00</published>
   </entry>
 </feed>
