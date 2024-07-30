@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-29T18:27:14.192629+00:00</updated>
+  <updated>2024-07-30T18:26:21.788744+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vstboh</id>
-    <title>Velocity SkyTech Releases Bournemouth Airport for MSFS</title>
-    <updated>2024-07-18T00:00:00+00:00</updated>
-    <link href="/news/vstboh"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66997e90f6ea520bbabe692b_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Velocity SkyTech has recently released its rendition of Bournemouth Airport (EGHH) for Microsoft Flight Simulator. The airport is located just 4 miles away from Bournemouth, England, and is an international airport that serves a variety of destinations, particularly warm and summer destinations. The airport first opened as a Royal Air Force station, called RAF Hurn, in 1941. In 1944, it was transferred to civil control and even served as London's international airport before the opening of Heathrow in 1946. Over the years, the airport has served a variety of airlines and destinations, growing to its current state. Last year, the airport served just over 950.000 passengers and had over 5000 aircraft movements. It is the focus city for Jet2.com, Ryanair, and TUI Airways, and also serves airlines like easyJet, offering flights to destinations including France, Greece, and Spain. The newly released Bournemouth Airport add-on for Microsoft Flight Simulator comes with several features, such as exterior and interior 3D modeling of the terminal buildings, PBR textures, performance optimization, and more. The add-on requires 375.07 MB of storage space and is currently on sale on SimMarket for approximately $13.02. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777038</id>
-    <title>PMDG Updates Entire MSFS Product Lineup</title>
-    <updated>2024-07-18T00:00:00+00:00</updated>
-    <link href="/news/777038"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66999818f0169fc6be3b28f7_anz1.webp"/>
-    <summary>Sim: MSFS. PMDG has recently issued significant updates to all of their products for Microsoft Flight Simulator, bringing stability improvements, bug fixes, new textures (DC-6), and more. â The newly released 777-300ER has been updated to 2.00.0039, focused once again on stability and performance improvements, mitigating new issues reported by the customers, with more to come in the near future as they are not convinced about finding all of them.Â  â The new update also brings the possibility of updating the Navigraph navdata via the Ultimate Flight Tablet, ultimately allowing seamless data updates straight from the flight deck on both PC and Xbox (when available). A QR code within the UFT also links people to the 777 online manual. â The complete changelog for 0039 follows below: Regarding the 777âs appearance on the Marketplace and Xbox, itâs set for a dual release and expected to happen within two to four weeks. The upcoming 77F is their current development focus and is nearing its beta testing stage. PMDG anticipates it to be a rather quick process, and they are already evaluating the next variant after that. A major update has also been pushed to the 737 lineup, bringing the stability and performance fixes they used on the 777. It has also been pushed to the marketplace and might take around two weeks to show up. â More 737 updates are expected as they continue squashing the issues with the 777, and some of the structural changes from the Triple Seven will be back-ported, including the new navdata format, updated lateral path solving, updated autopilot roll modes, updated EFB, and more. â Last but not least, the DC-6 has been updated with the new cockpit textures. It has also been rolled out to the marketplace and might take around two weeks to become available. â PMDG concluded the weekly update thread with a brief note on the 747âs progress. It has been in development since January and is progressing nicely, with âunexpected and very exciting things planned for this product line.âÂ  â PMDGâs product line is available on their website, with prices ranging from $34.99 to $77.73.Â  Stay tuned to Threshold for more flight simulation news! Â  â</summary>
-    <published>2024-07-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bai103</id>
     <title>iniBuilds Updates Dubai International Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a7b13265af9e261ed19cb7_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Taimodels has recently released the X-Plane 12 version of Cairo International Airport (HECA). Following the release of its MSFS version, the team has now launched their rendition for X-Plane 12. Cairo International Airport serves the capital of Egypt, Cairo, and is situated approximately eight nautical miles from the city's central business district. The airport handles an average of 14 million passengers annually. The airport originally opened as John Payne Field Air Force Base during the Second World War. After the war, the airport was taken over by the Civil Aviation Authority, marking the start of its use for civil aviation. It eventually replaced the former Heliopolis Airport. Today, the airport has three terminals and serves as the hub for the airlines EgyptAir, Nile Air, Air Cairo, and Air Arabia Egypt. Additionally, a variety of other airlines operate to and from the airport, providing connections to destinations worldwide. The newly released Cairo International Airport for X-Plane 12 comes with a variety of features, including highly detailed models, SAM animated jetways, high-quality PBR textures on objects and ground, complete autogen around the airport, ground traffic, weather textures, and more. The scenery requires 1.87 GB of storage space and is available on SimMarket for about $25.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-07-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fxsjer</id>
+    <title>Fly X Simulations Releases Jersey Airport for MSFS</title>
+    <updated>2024-07-29T00:00:00+00:00</updated>
+    <link href="/news/fxsjer"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a7e55a7fe96da13811c771_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Fly X Simulations has just released its version of Jersey Airport (EGJJ) for Microsoft Flight Simulator. It is located in Saint Peter, Jersey, and connects the largest of the Channel Islands with both domestic and international destinations. Jersey Airport was opened in 1937 when the States of Jersey decided to construct an airport with four grass runways. During the Second World War, the airport was taken over by the Admiralty and used as a Naval Air Station. The Luftwaffe occupied the airport and added concrete taxiways and hangars. In 1952, a tarmac runway was installed which led to the closure of the grass runway. Over the years, the runway has been extended and reached a length of 5.560 feet in 1976, which remains the same to this day. The airport is now a hub for the airline Blue Islands and serves various other airlines including British Airways, Eastern Airways, and easyJet. Annually, the airport welcomes around 1.3 million passengers and handles approximately 17.000 aircraft movements. The scenery package is feature-packed with accurate and highly detailed airport buildings, an extensive and detailed terminal interior, high-resolution custom PBR textures, custom ground markings, and more. The newly released Jersey Airport requires 1.62 GB of storage space, and it is available on iniBuilds for approximately $15.44. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-07-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gdsvix</id>
+    <title>GearDown Simulations Previews VitÃ³ria Airport &amp; City for MSFS</title>
+    <updated>2024-07-30T00:00:00+00:00</updated>
+    <link href="/news/gdsvix"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a9231acfd405410bb2e675_background72.jpg"/>
+    <summary>Sim: MSFS. GearDown Simulations has recently previewed their rendition of VitÃ³ria - Eurico de Aguiar Salles International Airport (SBVT) and its surroundings for Microsoft Flight Simulator, serving VitÃ³ria in EspÃ­rito Santo, Brazil, with a yearly average of 3.2 million passengers. Originally built in the 1930s, it was not until a decade later that it would get its first passenger terminal and a paved runway. Heavy renovation work, including a new passenger terminal and runway, was carried out in 2005. Although scheduled to be completed in 2007, a series of scandals led to a "temporary" halt for nearly a decade. Construction work only resumed in 2015 and concluded three years later, in 2018, sixteen years after the original planning.Â  A few years before the resumption of the expansion works, the airport's operator, Infraero, deemed it the country's worst airport. Operated by Zurich Airports AG since 2019, the new airport finally meets international standards and swiftly leaves its dark past behind. Azul (Belo Horizonte, Campinas, Recife), Gol (BrasÃ­lia, Porto Seguro, Rio de Janeiro, Salvador, SÃ£o Paulo), Latam (BrasÃ­lia, Rio de Janeiro, SÃ£o Paulo), and Voepass (Porto Seguro) serve it. The scenery will feature an accurate rendition of the airport, with custom ground textures, a highly detailed terminal, city POIs, custom ground clutter, and more.  There's no information on pricing and release date yet, but Threshold will keep you informed! â</summary>
+    <published>2024-07-30T00:00:00+00:00</published>
   </entry>
 </feed>
