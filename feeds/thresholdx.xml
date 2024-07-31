@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-07-30T18:26:21.788744+00:00</updated>
+  <updated>2024-07-31T18:25:38.393146+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bai103</id>
-    <title>iniBuilds Updates Dubai International Airport for MSFS</title>
-    <updated>2024-07-18T00:00:00+00:00</updated>
-    <link href="/news/bai103"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66999b04d8d3c84361a86bb5_dubai4.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently updated - again - their rendition of Dubai International Airport (OMDB) for Microsoft Flight Simulator, addressing the ILS/PAPI mismatch in previous versions and more. Update v1.0.3 brings a complete repositioning of the ILS beacons and PAPIs using GE coordinates to match real life, adjusted autogen building heights, and minor ground service equipment tweaks. The airport is available on the iniBuilds Store for roughly $18.11 (on sale), requiring at least 4.4 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dtw105</id>
-    <title>iniBuilds Updates Detroit Metropolitan Airport for MSFS</title>
-    <updated>2024-07-18T00:00:00+00:00</updated>
-    <link href="/news/dtw105"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66999f47a97a2a5f8a2322a9_dtw1.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently issued a new update to their rendition of Detroit Metropolitan Airport (KDTW) for Microsoft Flight Simulator, bringing new ground service equipment, new car models, reworked building LODs, and more. Update v1.0.5 brings newer variants of people, cars, vegetation, and ground service equipment, new building LODs for improved performance, an overall reduction in clutter, and other minor bug fixes. The changelog follows below: v1.0.5 - Rework of building LODs - Removed SD/HD option - Replaced all GSE with new versions - Replaced vegetation models - Replaced people models - Replaced car models - Updated terrain sculpting method - North terminal LOD radius issue fixed - Added A65 parking - Significant reduction in the number of parking and hash markings (replaced with more efficient decals) - no visual change. - Overall reduction in the number of people, cars, GSE etc. - Corrected missing ILS from VFR map. - Closed fence gap The scenery is available on the iniBuilds Store for roughly $16.30 (on sale), requiring at least 4.73 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/egphv2</id>
     <title>Pyreegue Dev Co. Releases Edinburgh Airport II for MSFS</title>
@@ -150,6 +132,24 @@
     <link href="/news/gdsvix"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a9231acfd405410bb2e675_background72.jpg"/>
     <summary>Sim: MSFS. GearDown Simulations has recently previewed their rendition of VitÃ³ria - Eurico de Aguiar Salles International Airport (SBVT) and its surroundings for Microsoft Flight Simulator, serving VitÃ³ria in EspÃ­rito Santo, Brazil, with a yearly average of 3.2 million passengers. Originally built in the 1930s, it was not until a decade later that it would get its first passenger terminal and a paved runway. Heavy renovation work, including a new passenger terminal and runway, was carried out in 2005. Although scheduled to be completed in 2007, a series of scandals led to a "temporary" halt for nearly a decade. Construction work only resumed in 2015 and concluded three years later, in 2018, sixteen years after the original planning.Â  A few years before the resumption of the expansion works, the airport's operator, Infraero, deemed it the country's worst airport. Operated by Zurich Airports AG since 2019, the new airport finally meets international standards and swiftly leaves its dark past behind. Azul (Belo Horizonte, Campinas, Recife), Gol (BrasÃ­lia, Porto Seguro, Rio de Janeiro, Salvador, SÃ£o Paulo), Latam (BrasÃ­lia, Rio de Janeiro, SÃ£o Paulo), and Voepass (Porto Seguro) serve it. The scenery will feature an accurate rendition of the airport, with custom ground textures, a highly detailed terminal, city POIs, custom ground clutter, and more.  There's no information on pricing and release date yet, but Threshold will keep you informed! â</summary>
+    <published>2024-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/737730</id>
+    <title>iFly Shares New 737 Max Previews for MSFS</title>
+    <updated>2024-07-30T00:00:00+00:00</updated>
+    <link href="/news/737730"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a9774c93f217c7f163769e_max1.webp"/>
+    <summary>Sim: MSFS. iFly has recently shared another set of images from their upcoming Boeing 737 Max 8 for Microsoft Flight Simulator, showcasing its flight deck, cabin, and externals. The development state is said to be far along to the point it can already complete a full flight, but itâs not yet in official beta. Other than that, the developers did not share any further information. They have also set up a Discord server to facilitate communication with current and future customers regarding their new product. Furthermore, they uploaded a cabin walkthrough video, from rear to front, into the flight deck. Thereâs still no information regarding pricing or a release date, but Threshold will keep you informed! â</summary>
+    <published>2024-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/darmal</id>
+    <title>David Rosenfeld Previews Milan Malpensa Airport for MSFS</title>
+    <updated>2024-07-30T00:00:00+00:00</updated>
+    <link href="/news/darmal"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a97bf1ae35da8173e5f8c5_mal1.webp"/>
+    <summary>Sim: MSFS. David Rosenfeld recently previewed the interior work on his rendition of Milan Malpensa Airport (LIMC) for Microsoft Flight Simulator. The airport serves the Milan metropolitan area and has a yearly average of 26.1 million passengers. The site where the airport was built has more than a century of aviation history, with records dating back to 1910 when the Caproni brothers flew their Cal biplane. It became a popular prototype testing site in Italy, eventually leading to its upgrade to an actual airfield.  During that same period, the Caproni brothers decided to build a factory there, and Giovanni Augusta followed suit. It became the largest aircraft production center in the country. The airfield hosted two Royal Italian Air Force squadrons in the following decades.  In September 1943, the German Luftwaffe captured the airfield, building its first concrete runway, which didn't last long: the airfield was heavily bombed during WW2.  With the retreat of the German forces from Italy and the eventual end of the war, the runway was rebuilt and extended to 1,800 meters. A small terminal was built to shelter passengers and cargo from adverse weather conditions. Its official inauguration was in 1948 as Aeroporto CittÃ  di Busto Arsizio, and Sabena and TWA were among the first international carriers to serve it. In 1952, now under the control of the municipality of Milan, it was decided that Malpensa would become Milan's international airport, and Linate (Milan's other airport) would handle domestic services.  Milan's main airport needed a respectable terminal, which was built between 1958 and 1962. The runways were also extended and were the longest in Europe at the time.  Even though their original intent was to make Linate domestic-only, major European carriers preferred it over Malpensa because it was closer to the city center, transforming it into a secondary airport for over 20 years.  Things only changed in the 1980s when Linate was forcibly downgraded to domestic, and Malpensa underwent heavy upgrade work. Construction started in 1990, and it only reopened eight years later. âIt's an operating base for AlbaStar, easyJet Europe, Malta Air, Neos, Ryanair, and Wizz Air. Aegean Airlines, Aer Lingus, Air Canada, Air France, Air India, AirBaltic, Austrian Airlines, British Airways, Brussels Airlines, Cathay Pacific, Emirates, Etihad Airways, KLM, Korean Air, Lufthansa, Qatar Airways, Scandinavian Airlines, TAP Air Portugal, Turkish Airlines, United Airlines, and Vueling also serve it. The developer has said that work on the interior is moving forward at full speed, and the goal is to finish it within a few weeks. Then, he is going to focus on the apron. A release date was not shared at the time, but he's aiming for late fall/early winter. The scenery will feature an accurate rendition of the airport, with custom jetways, custom terminal interiors, custom ground textures, and more. There's no release date or pricing yet, but Threshold will keep you informed! â</summary>
     <published>2024-07-30T00:00:00+00:00</published>
   </entry>
 </feed>
