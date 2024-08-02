@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-08-01T18:26:25.377056+00:00</updated>
+  <updated>2024-08-02T18:26:43.747571+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,16 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/summer-sale-2550-items-on-sale-now-in-the-marketplace/</id>
-    <title>Summer Sale: 2550+ Items On Sale Now in the Marketplace</title>
-    <updated>2024-07-17T17:01:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/summer-sale-2550-items-on-sale-now-in-the-marketplace/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/MSFS_SummerSale2024_v1_1920x1080-1024x576.jpg"/>
-    <summary>For 15 Days starting on July 17th, save up to 85% on more than 2550 items.          
- To purchase these discounted items, visit the Microsoft Flight Simulator Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See All’ and look for the savings.</summary>
-    <published>2024-07-17T17:01:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-18th-2024-development-update/</id>
@@ -78,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/@ukaka5656-Twitter-3-1024x576.jpeg"/>
     <summary>Earlier this week, we released World Update XVII: United Kingdom &amp; Ireland. This update includes 16 TIN cities, 79 Points of interest (POIs), and 5 handcrafted airports. As with all World Updates, it is available to download for FREE from the in-sim Marketplace.</summary>
     <published>2024-07-25T23:36:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-1st-2024-development-update/</id>
+    <title>August 1st, 2024 – Development Update</title>
+    <updated>2024-08-01T23:06:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-1st-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/tsujiKa_air-Twitter-1024x576.jpg"/>
+    <summary>For simmers in the Northern Hemisphere, July and August are frequent vacation months. To anyone currently enjoying time off work or school, we wish you a happy and restful break! We hope you’re able to enjoy some quality time in the virtual skies of Microsoft Flight Simulator!</summary>
+    <published>2024-08-01T23:06:43+00:00</published>
   </entry>
 </feed>
