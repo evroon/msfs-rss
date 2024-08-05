@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-04T18:25:00.800715+00:00</updated>
+  <updated>2024-08-05T18:27:50.522100+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniddu</id>
-    <title>iniBuilds Releases Dubrovnik Airport for MSFS</title>
-    <updated>2024-07-23T00:00:00+00:00</updated>
-    <link href="/news/iniddu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a010f4e94078d32d9948e9_dub1.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released their rendition of Dubrovnik RuÄer BoÅ¡koviÄ Airport (LDDU) for Microsoft Flight Simulator, serving Dubrovnik-Neretva County with a yearly average of 2.4 million passengers. The airport opened in 1962 and quickly became Yugoslaviaâs busiest. By 1987, it had already served nearly a million passengers.Â  In the 2000s, a new passenger terminal was built to replace the original from 1962, costing the administration 70 million euros. Itâs the most modern terminal in the country so far.Â  Itâs a hub for Croatia Airlines and many other European carriers, including Air France, British Airways, easyJet, Eurowings, Finnair, Iberia, KLM, Lufthansa, Transavia, Volotea, Vueling, and Wizz Air, serve it on a seasonal basis. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, custom night lighting, highly detailed models of all airport buildings, an up-to-date layout, and a custom GSX profile.Â  Itâs available on the iniBuilds Store for roughly $19.36, requiring at least 3.94 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/350724</id>
-    <title>iniBuilds Teases Airbus A350 for MSFS</title>
-    <updated>2024-07-24T00:00:00+00:00</updated>
-    <link href="/news/350724"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a1789bec8bb4bc29f9939d_a3501.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently uploaded a teaser video and an in-depth development update of their upcoming Airbus A350 for Microsoft Flight Simulator, one of the most awaited addons for the platform so far. The short teaser video reveals some of the 3D art-focused details, along with a glimpse of the systems and sounds. Like their A300-600R, the A350 will feature fully modeled engine interiors, openable cowlings, and more. Users will be able to manage all possible maintenance options via EFB. The wear and tear system, also seen on the A300 to some extent, will be heavily improved. It will feature dynamic weathering of the aircraft, with paint peeling off the rivets, oil, and dirt streaks around potential leakage areas, dirt and grime on flaps, and more. It is said to build up as you fly the aircraft.Â  The cockpit features the same attention to detail, with PBR materials, high-resolution textures, and heavy optimization work to reduce VRAM usage without compromising visual quality.Â  Concerning the realism of the aircraft due to the apparent lack of data available, iniBuilds has said thatâcontrary to popular beliefâthereâs âquite a bitâ of data around for core systems and overall functionality. To fill all the gaps, the missing spots were covered by renting a full-motion A350 simulator for multiple hours. They have also gathered twelve dedicated A350 experts to serve as a complimentary source of information. iniBuilds claims it will be not only visually stunning but will also far exceed anything else they have produced.Â  They have also made a FAQ section with many frequently asked questions regarding their upcoming aircraft and its features.Stay tuned to Threshold for more flight simulation news! Â  â</summary>
-    <published>2024-07-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/300724</id>
-    <title>Just Flight Publishes A300B4 Development Update for MSFS</title>
-    <updated>2024-07-24T00:00:00+00:00</updated>
-    <link href="/news/300724"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a17f6e3df02ac1d8e38e9a_a3006.webp"/>
-    <summary>Sim: MSFS. Just Flight has recently published a new development update on their upcoming A300B4 for Microsoft Flight Simulator, covering their latest visual work on the cockpit. â Their lead artist has been working hard for the past four months on recreating the remaining sections of the A300B4âs cockpit, taking into account every individual gauge, screw, knob, and panel, all with custom weathering and discoloration as per their reference aircraft. With the work now complete, Just Flight will be teasing new bits of the cockpit through the remaining development updates, starting with the center pedestal. â They have authentically recreated the Carousel IV Inertial Navigation System (INS) Control Display Unit (CDU) on both sides. For those wishing for a more modern offering, the UNS-1 FMS will be an option. â The following bits to be showcased are the stabilizer trim wheels, the speed brake lever, a flap/slat lever, the throttle levers, fuel cut-off switches, the parking brake handle, and some buttons. Lastly, the communications suite has 2 VHF control units, a transponder unit, two audio selector panels, weather radar controls, ADF navigation radios, and lighting controls.Â  The next development update will focus on the forward panel and autopilot.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/init33</id>
-    <title>iniBuilds Announces T-33 Jet Trainer for MSFS</title>
-    <updated>2024-07-24T00:00:00+00:00</updated>
-    <link href="/news/init33"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a1853986721289168989ad_t331.webp"/>
-    <summary>Sim: MSFS. iniBuilds, working alongside SimWorks Studios &amp; AceMaker aviation, has announced the development of a T-33 Jet Trainer for Microsoft Flight Simulator, part of their new âPremierâ product line. Their Premier aircraft team comprises exceptional, high-quality 3D artists and programmers, as well as experts (pilots and engineers) who excel in crafting general aviation aircraft. The new project aims to further push the boundaries with extensive flight dynamic testing, greater system fidelity, and highly detailed visuals.Â  The T-33 is a turbojet training aircraft used by over 20 different air forces around the globe. Since its introduction, it has served a variety of roles, from an initial jet training platform to drone director, and even saw combat action during the Korean War! â The upcoming add-on will feature highly detailed textures, an in-depth systems simulation, true-to-life handling characteristics, and a fully functional cockpit where every switch is operable. It will be available in two cockpit configurations: classic and modern, with a matching avionics suite. The complete feature list follows below: Exterior Art Features list:Â  Interior Art Features list: The expected release window is sometime around mid-August, and media partners will be allowed to showcase it a few days earlier. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-07-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777725</id>
     <title>PMDG Updates 777-300ER for MSFS</title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66adfb7c4f131c862f06e6ac_Banner_Image.webp"/>
     <summary>Sim: MSFS. CloudSurf Asia has recently released its version of Puerto Princesa International Airport (RPVP) for Microsoft Flight Simulator. Located in the province of Palawan, Philippines, the airport serves the area of Puerto Princesa. The airport welcomes just over 1.1 million passengers annually. Built by American prisoners of war during the Second World War, the airport was under construction from 1942 to 1944. After completion, the airport was used by Japanese transport aircraft alongside a former grass airstrip located near today's NCCC Mall Palawan. After the liberation of Palawan in 1945, various units from the US Army Air Forces were stationed at the airport. It wasn't until 1947 that Puerto Princesa opened and started with air travel. Since then, the airport has seen a variety of airlines and aircraft, and has also undergone several expansions and improvements due to the increasing demand for air transportation. Today, the airport is an operating base for Air Juan and serves airlines such as Cebu Pacific, Philippine Airlines, and Philippines Air Asia, with nearly 9000 aircraft movements and around 1.1 million passengers yearly. The newly released Puerto Princesa International Airport for MSFS includes a variety of features such as up-to-date airport data, a fully modeled terminal with an interior, full custom objects around the airport, custom ground markings, full PBR textures, and more.Â  The add-on requires a total of 0.99 GB of storage space and is now available on Orbx, SimMarket, and iniBuilds for approximately $15.00. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-08-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dfkjac</id>
+    <title>Dreamflight Releases Jackson Hole Airport for MSFS</title>
+    <updated>2024-08-04T00:00:00+00:00</updated>
+    <link href="/news/dfkjac"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66aff06032dddac583208ad5_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Dreamflight has just released its version of Jackson Hole Airport (KJAC) for Microsoft Flight Simulator. The airport serves the valley of Jackson Hole, located in the U.S. state of Wyoming, and welcomes just under 1 million passengers annually. The airport was constructed in the 1930s after it was determined that the chosen location would be the best place for an airport in Teton County. In 1943, the airport was designated as a national monument and in 1950 it was incorporated into the Grand Teton National Park. In 1959, the runway was extended to a length of 6,300 feet, which remains the same today. That year, Frontier Airlines became the first airline to operate at the airport. Between 2009 and 2014, the airport's terminal was completely rebuilt and received the American Institute of Architects Honor Award in 2014. Additional improvements were initiated in 2021 and 2022. Currently, the airport serves a variety of airlines such as Alaska Airlines, American Airlines, Delta Air Lines, United Airlines, and more, which collectively facilitate the annual arrival of around 1 million passengers. The newly released Jackson Hole Airport scenery for Microsoft Flight Simulator includes a range of features, such as an accurate representation of the airport, high-quality textures, detailed models, fully detailed interior, custom ground polynomials, realistic night lighting, PBR textures, GSX profile, and more. The entire scenery package requires 1.79 GB of storage space and can be purchased on Contrail for approximately $16.38. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/if73mmp</id>
+    <title>iFly Provides More Previews of 737 MAX8 for MSFS</title>
+    <updated>2024-08-04T00:00:00+00:00</updated>
+    <link href="/news/if73mmp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66afee6d904d4ddddea5ee05_453720661_906550331515825_3897020728462941253_n.webp"/>
+    <summary>Sim: MSFS. In their most recent post on the Flight One Software Facebook page, iFly provides more previews for their highly anticipated rendition of the Boeing 737 MAX8 for Microsoft Flight Simulator.  Following up on a preview video of the passenger cabin of the iFly 737 MAX, these photos share close-ups of various parts of the cockpit, such as the overhead, pedestal, and cockpit entryway. iFly states that these screenshots were taken during â[...] a departure from KDEN to KSFO at dusk.â Also showcased are shots of the cockpit lighting, large screens, and EFB, among others.  No release date has been announced yet by iFly, but Threshold will keep you informed whenever they do, so stay tuned for that and for more high quality news and reviews!</summary>
+    <published>2024-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksoah</id>
+    <title>MK Studios Announces Naha Airport for MSFS</title>
+    <updated>2024-08-04T00:00:00+00:00</updated>
+    <link href="/news/mksoah"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66aff1bc7ca272c5cc63e54f_naha1.webp"/>
+    <summary>Sim: MSFS. MK Studios has recently announced the development and imminent release of Naha Airport (ROAH) for Microsoft Flight Simulator, serving the Okinawa Prefecture with a yearly average of 21.5 million passengers. The Imperial Japanese Army built the airport in 1933 as Oroku Aerodrome. The United States took it over in 1945, and it was renamed Naha Airport. Scheduled service started two years later with Pan American World Airways and Northwest Orient.Â  â Refurbishment work began in the early 1950s, bringing the structure up to the standards of the time. â In the early 1980s, the US military transferred control of the airport to the Japanese forces, which then developed the airport. The first major upgrade happened in the 1990s, with a main passenger terminal expansion.Â  â Further development started in 2008 when the government agreed to expand the domestic terminal and construct a new parallel runway. The expansion required a new international terminal, which opened in 2014, and the construction of the new parallel runway started around that same year. The new international terminal was expanded again in 2016, gaining another 3000 square meters.Â  â The new runway started operation in 2020 after nearly six years of construction. â Itâs a hub for Japan Transocean Air and Ryukyu Air Commuter and a focus city for All Nippon Airways, Japan Airlines, and Peach. Air China, Asiana Airlines, Batik Air Malaysia, China Airlines, China Eastern Airlines, EVA Air, HK Express, Hong Kong Airlines, Jeju Air, Jetstar Asia, Juneyao Air, Korean Air, Spring Airlines, Starlux Airlines, and Tigerair Taiwan also serve it. â The scenery will feature an accurate rendition of the airport, with a highly detailed terminal, various POIs, an up-to-date ground layout, custom jetways, custom vehicle models, custom runway profile and elevation data, a high-quality terminal interior, custom taxiway labels, and more. Thereâs no information on pricing yet, but the scenery is set to release sometime next week.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ukeghq</id>
+    <title>UK2000 Releases Cornwall Airport Newquay for MSFS</title>
+    <updated>2024-08-05T00:00:00+00:00</updated>
+    <link href="/news/ukeghq"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b0ef7456e31ac2b9724a47_Banner_Image.webp"/>
+    <summary>Sim: MSFS. UK2000 has just released its latest airport for Microsoft Flight Simulator, Cornwall Airport Newquay (EGHQ). Located in England, the airport serves the areas of Newquay and Cornwall. Annually, the airport welcomes just over 400,000 passengers. The airport opened in 1933 as a civilian airfield. When the Second World War broke out, the airport was renamed RAF Trebelzue, and it was used to support other bases in the Cornwall area. In 1943, the airfield was renamed RAF St Mawgan and was handed over to the USAAF. After being put under maintenance in 1947, the airport reopened in 1951 as a Coastal Command base. Since then, various aircraft squadrons have operated at the airport, but those operations have since ceased. From 2006, a series of changes and upgrades gradually transformed the airport into a fully civilian airport. In 2008, the airport was officially separated from RAF St Mawgan and rebranded as Cornwall Airport Newquay. Today, the airport serves various airlines such as easyJet, Loganair, and Ryanair, and it is also a hub for the airline Eastern Airways. These airlines, along with others, contribute to the airport's annual 400,000 passengers and just over 19,000 aircraft movements. The scenery offers a range of features, including detailed buildings, realistic ground markings, high-resolution ground imagery, night effects, airport vehicles, vegetation, PBR materials, static aircraft, and more. The newly released Cornwall Airport Newquay is now available on SimMarket for approximately $16.46. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-08-05T00:00:00+00:00</published>
   </entry>
 </feed>
