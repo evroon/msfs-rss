@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-08-08T18:27:47.690928+00:00</updated>
+  <updated>2024-08-09T18:27:20.299274+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-18th-2024-development-update/</id>
-    <title>July 18th, 2024 – Development Update</title>
-    <updated>2024-07-18T22:30:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-18th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/@ukaka5656-Twitter-2-1024x576.jpeg"/>
-    <summary>Earlier this week, we hosted our July Developer Livestream on Twitch. If you missed watching it live, you can view the VOD on YouTube below. In addition to answering many questions from the community, our panel also discussed Sim Update 16, the upcoming Boeing 707, and revealed the location of World Update XVII: UK &amp; Ireland!</summary>
-    <published>2024-07-18T22:30:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xvii-united-kingdom-ireland/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/tsujiKa_air-Twitter-1024x576.jpg"/>
     <summary>For simmers in the Northern Hemisphere, July and August are frequent vacation months. To anyone currently enjoying time off work or school, we wish you a happy and restful break! We hope you’re able to enjoy some quality time in the virtual skies of Microsoft Flight Simulator!</summary>
     <published>2024-08-01T23:06:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-8th-2024-development-update/</id>
+    <title>August 8th, 2024 – Development Update</title>
+    <updated>2024-08-08T23:16:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-8th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/ZILLNIAZI17-Forum-1024x576.jpg"/>
+    <summary>Earlier today, we released a small update which contains the latest navdata and another round of improved airports from community members participating in the World Hub closed alpha test. You can see the full notes, including a list of every updated airport, on our forums here.</summary>
+    <published>2024-08-08T23:16:23+00:00</published>
   </entry>
 </feed>

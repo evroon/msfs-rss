@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-08T18:27:49.277912+00:00</updated>
+  <updated>2024-08-09T18:27:21.710524+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/heca12</id>
-    <title>Taimodels Releases Cairo International Airport for X-Plane 12</title>
-    <updated>2024-07-29T00:00:00+00:00</updated>
-    <link href="/news/heca12"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66a7b13265af9e261ed19cb7_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Taimodels has recently released the X-Plane 12 version of Cairo International Airport (HECA). Following the release of its MSFS version, the team has now launched their rendition for X-Plane 12. Cairo International Airport serves the capital of Egypt, Cairo, and is situated approximately eight nautical miles from the city's central business district. The airport handles an average of 14 million passengers annually. The airport originally opened as John Payne Field Air Force Base during the Second World War. After the war, the airport was taken over by the Civil Aviation Authority, marking the start of its use for civil aviation. It eventually replaced the former Heliopolis Airport. Today, the airport has three terminals and serves as the hub for the airlines EgyptAir, Nile Air, Air Cairo, and Air Arabia Egypt. Additionally, a variety of other airlines operate to and from the airport, providing connections to destinations worldwide. The newly released Cairo International Airport for X-Plane 12 comes with a variety of features, including highly detailed models, SAM animated jetways, high-quality PBR textures on objects and ground, complete autogen around the airport, ground traffic, weather textures, and more. The scenery requires 1.87 GB of storage space and is available on SimMarket for about $25.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-07-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fxsjer</id>
     <title>Fly X Simulations Releases Jersey Airport for MSFS</title>
@@ -150,6 +141,15 @@
     <link href="/news/mksoki"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b50b06bde4b5d5c16321ff_roah1.webp"/>
     <summary>Sim: MSFS. MK Studios recently released their rendition of Naha Airport (ROAH) for Microsoft Flight Simulator. The airport serves the Okinawa Prefecture and has a yearly average of 21. 5 million passengers. The Imperial Japanese Army built the airport in 1933 as Oroku Aerodrome. The United States took it over in 1945 and renamed it Naha Airport. Scheduled service started two years later with Pan American World Airways and Northwest Orient.Â  Refurbishment work began in the early 1950s, bringing the structure up to the standards of the time. In the early 1980s, the US military transferred control of the airport to Japanese forces, which then developed it. The first major upgrade happened in the 1990s, with a main passenger terminal expansion.Â  Further development started in 2008 when the government agreed to expand the domestic terminal and construct a new parallel runway. The expansion required a new international terminal, which opened in 2014, and the construction of the new parallel runway started around that same year. The new international terminal was expanded again in 2016, gaining another 3000 square meters.Â  The new runway started operation in 2020 after nearly six years of construction. Itâs a hub for Japan Transocean Air and Ryukyu Air Commuter and a focus city for All Nippon Airways, Japan Airlines, and Peach. Air China, Asiana Airlines, Batik Air Malaysia, China Airlines, China Eastern Airlines, EVA Air, HK Express, Hong Kong Airlines, Jeju Air, Jetstar Asia, Juneyao Air, Korean Air, Spring Airlines, Starlux Airlines, and Tigerair Taiwan also serve it. The scenery features an accurate rendition of the airport, with a highly detailed terminal, various POIs, an up-to-date ground layout, custom jetways, custom vehicle models, custom runway profile and elevation data, a high-quality terminal interior, custom taxiway labels, and more. Itâs available on Contrail and OrbxDirect for roughly $17.50, requiring at least 2.39 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777737</id>
+    <title>PMDG Publishes Development Update for MSFS</title>
+    <updated>2024-08-08T00:00:00+00:00</updated>
+    <link href="/news/777737"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b513e7ef7b99bf0023a0d0_77f.webp"/>
+    <summary>Sim: MSFS. PMDG has recently published a new development update concerning their upcoming Boeing 77F, further updates for their 737 lineup, the 77W's arrival in the Marketplace, and more.Â  Their newly released 777-300ER will be available in the MSFS Marketplace later today, albeit without any purchasable livery packs, which are scheduled to come later today or next week. The 737 Lineup will soon receive another update, which will be pushed for their testers soon and bring extra WASM freeze fixes inherited from the 777 development stream. It's supposed to be made public around the third week of August. â With their upcoming 77F going into testing, they anticipate moving the new features into the 737 lineup for testing (new navdata, etc). As mentioned in a previous development update, those will be rolled out gradually. â Upon completion of the backporting, their 737 will leave the "early adopter" phase, and the pricing will be adjusted accordingly. As of yesterday, PMDG turned 27 years old, and they will run a three-day celebratory sale through Friday, Saturday, and Sunday, with 27% off on any of their products (except for the 777-300ER).Â  Robert finishes the development update with information on their 77F, which is being prepared for beta testing. "We packed this new airplane full of features to bring you a feature-rich simulation experience for one of the world's most capable freight haulers!" he added, followed by hinting at a new project that "you don't know anything about" hidden somewhere in the update. The PMDG product lineup for MSFS is available at PMDG.com, with prices ranging from $34.99 to $77.73. Stay tuned to Threshold for more flight simulation news! Â  â</summary>
     <published>2024-08-08T00:00:00+00:00</published>
   </entry>
 </feed>
