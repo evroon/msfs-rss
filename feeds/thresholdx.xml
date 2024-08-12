@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-11T18:27:55.770700+00:00</updated>
+  <updated>2024-08-12T18:28:10.493158+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/maastr</id>
-    <title>ST Simulations Releases Maastricht Aachen Airport for MSFS</title>
-    <updated>2024-08-01T00:00:00+00:00</updated>
-    <link href="/news/maastr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66ac06874de014b56e05e7cc_aachen1.webp"/>
-    <summary>Sim: MSFS. ST Simulations has recently released their rendition of Maastricht Aachen Airport (EHBK) for Microsoft Flight Simulator. The airport serves Maastricht in the Netherlands and Aachen in Germany. As of 2022, it was the second busiest cargo airport in the Country, handling 108,000 tonnes of cargo. Plans to build an airport in southern Limburg (near Maastricht) started in 1919, but it didn't come to fruition until much later due to debates with various municipalities over its location and funding. It wasn't until 20 years later that an agreement was reached to back the project financially, but the start of World War 2 put the plans back in the drawer. In early 1945, the USAAF Ninth Air Force decided to build a temporary airfield in the area, using rubble from an unintentionally bombed city to level the area. Its first runway was around 1,700 meters long and reinforced with pierced steel planks. The whole construction work took an impressive two months to complete. Due to its completion closely matching the war's end, there wasn't any combat to speak of being operated out of there. It was rapidly transferred to the Dutch government in early August 1945 and named Beek Airfield. The first terminal was built in 1947, and the main runway was paved two years later, followed by a second runway in 1950. The Dutch Air Force offered help in 1951 to further expand the main runway and add night lighting (which only happened nine years later). Commercial operations greatly expanded in the late 50s/early 1960s, bringing operators such as KLM, Airnautical,Skytours, Euravia, Tradair, and Transair.Â  In the early 1970s, the airport was expanded again to accommodate larger aircraft. The runway was lengthened to 2,500 meters, taxiways were widened, and the aprons were made bigger.Â  The 1980s brought a new passenger terminal and ATC tower. The same terminal is still in use today, albeit significantly expanded since. Corendon, Pegasus, Ryanair, and Tarom serve it. Cargo-wise, it's often visited by Emirates SkyCargo, MASkargo, Qatar Airways Cargo, Royal Jordanian Cargo, Rom Cargo Airlines, Saudia Cargo, Turkish Cargo, and Zimex Aviation. The scenery features an accurate rendition of the airport, with a custom-modeled terminal, custom aerial imagery, custom static aircraft, custom night lighting, custom taxiway signs, custom ground vehicles, PBR textures, and an up-to-date ground layout as of 2024. â It's available on the Aerosoft Store for roughly $13.56, requiring at least 3 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/carpvp</id>
     <title>CloudSurf Asia Releases Puerto Princesa International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b76fd99e2499b6330c941e_Banner_Image.webp"/>
     <summary>Sim: MSFS. Aerosoft has released a new video showcasing its upcoming Airbus A330 CEO and NEO products. This video is the first in a series called "Discover the Aerosoft A330". In this video, the team focuses on the 3D model of the aircraft. The video previewed the exterior of various upcoming aircraft variants. According to the video, the different variants being made are the A330-302 (GE), A330-323 (PW), A330-343 (RR), and the A330-941 (NEO). There was also a quick glimpse inside the cockpit. The video created by AviationLads does not provide any information about a release date or potential price. However, we will keep you updated as more information becomes available.â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-08-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hase</id>
+    <title>Fly2High Releases Aspen/Pitkin County Airport for MSFS</title>
+    <updated>2024-08-12T00:00:00+00:00</updated>
+    <link href="/news/f2hase"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66ba15f1130f595c749b78c3_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Fly2High has just released its version of Aspen/Pitkin County Airport (KASE) for Microsoft Flight Simulator. The US airport serves the city of Aspen, Colorado and has an annual average of just over 625.000 passengers. In 1946, a private gravel airstrip was opened at the current location of the airport. The airstrip was open to the public. In 1956, the pavement of the runway began, and it has been expanded a total of four times since, with the latest expansion occurring in 2011. The airport is served by the following airlines: American Eagle, Delta Connection, and United Express. These three airlines offer flights to various destinations, including Chicago, Los Angeles, and San Francisco. The scenery includes various features such as an accurate representation of the airport, hand-made ground textures, dynamic airport lighting, highly detailed models, and more. Aspen/Pitkin County Airport is now available on Orbx for $7.91 and takes up around 1.77 GB of space on disk. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
+    <published>2024-08-12T00:00:00+00:00</published>
   </entry>
 </feed>
