@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-08-15T18:27:34.966074+00:00</updated>
+  <updated>2024-08-16T18:26:58.485809+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-xvii-united-kingdom-ireland/</id>
-    <title>Microsoft Flight Simulator Releases World Update XVII: United Kingdom &amp; Ireland</title>
-    <updated>2024-07-23T13:00:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-xvii-united-kingdom-ireland/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/07/MSFS_WU17_NoSnipe_Logo_NoText-1024x576.png"/>
-    <summary>Intended to coincide with the 2024 Farnborough International Airshow, World Update XVII unveils unprecedented detail to the United Kingdom and Ireland regions.</summary>
-    <published>2024-07-23T13:00:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-18/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/ZILLNIAZI17-Forum-1024x576.jpg"/>
     <summary>Earlier today, we released a small update which contains the latest navdata and another round of improved airports from community members participating in the World Hub closed alpha test. You can see the full notes, including a list of every updated airport, on our forums here.</summary>
     <published>2024-08-08T23:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-15th-2024-development-update/</id>
+    <title>August 15th, 2024 – Development Update</title>
+    <updated>2024-08-15T23:01:33+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-15th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/@2525ARW-Twitter-1024x576.jpeg"/>
+    <summary>A few days from now we will celebrate the fourth anniversary of the release of Microsoft Flight Simulator on August 18, 2020. From all of us on the team, we want to share a message of sincere gratitude to everyone in the flight sim community for making the last four years truly special.</summary>
+    <published>2024-08-15T23:01:33+00:00</published>
   </entry>
 </feed>
