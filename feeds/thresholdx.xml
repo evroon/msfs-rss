@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-18T18:24:54.614460+00:00</updated>
+  <updated>2024-08-19T18:27:00.936812+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a2a162</id>
-    <title>A2A Simulations Updates Accu-Sim Comanche 250 for MSFS</title>
-    <updated>2024-08-09T00:00:00+00:00</updated>
-    <link href="/news/a2a162"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b6a667d03737a221cfd962_comanche.jpg"/>
-    <summary>Sim: MSFS. A2A Simulations has recently issued a micro-update to their Accu-Sim Comanche 250 for Microsoft Flight Simulator, adding an accurate weight option for users wishing to fly with animal companions.Â  â Update 1.6.2 also fixes the to/from flags in GPS OBS mode, a small area of protruding mesh when the stabilator tips are fitted, and updates the tail number font logic for their new livery pack (available in the Marketplace). The complete changelog follows below: The Accu-Sim Comanche 250 is available in their store for $49.99.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kolaud</id>
     <title>Orbx Updates DCS Kola Map</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c0d7894ca0c3305ad044b4_Banner_Image.webp"/>
     <summary>Sim: MSFS. After their recent introduction of the upcoming Fenix A319 &amp; A321 expansion, the team has just released a new post featuring a variety of liveries and art previews. The developer has also provided details about the release window for the new expansion. The team has rebuilt the fuselage textures from the ground up for the new expansion. For example, the A319 will now have stronger skin deformation on the airframe due to being in a higher pressurisation cycle state. The team has also provided a screenshot clearly showing these changes both below and above the cockpit windows on the A319. Additionally, the team informed us about their decision to offer both dual overwing exit and single overwing emergency exit options on the A319. This choice was made to provide users with the most realistic experience, allowing them to replicate real-life aircraft configurations used by specific airlines. Implementing this new option required the team to update reflections on the ECAM, cabin artwork, wing layout, and other related aspects. When it comes to the A321, the team had to make a decision. This time, the choice was between a two-class or single-class layout for the A321. Again, the team decided to include both layouts and the option to change between them, similar to the A319's overwing exit option. The team has confirmed that the new window textures are included, along with the unique double-slotted flaps on the A321. Additionally, they have shared a video comparing the full TOGA on the various aircraft versions with their respective CFM versions. As of now, the livery manager boasts a total of 450 liveries, with even more on the way. Lastly, the team has announced that the highly anticipated A319 &amp; A321 expansion will launch next week. Once more information is available, or the expansion has been released, Threshold will keep you updated. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-08-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a31921</id>
+    <title>Fenix A319/321 Trailer Released, Release Date Revealed</title>
+    <updated>2024-08-19T00:00:00+00:00</updated>
+    <link href="/news/a31921"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c3397c9c9405bc5a432ec7_A319_SMOL_A320_FENX_A321_FBIG.webp"/>
+    <summary>Sim: MSFS. The long-awaited release date for Fenix A319 and A321 is finally here! In the Expansion trailer made in classic Fenix style, at the very end of the video, one can see that the Expansion is releasing today!Â  After âIntroduction to A319 and A321â and âThe Livery &amp; Art Previewâ dev updates were posted on Fenixâs website, lots of rumours began circulating the community about the release. Luckily, we didnât have to wait much for more news.Â  The exact time of release is not known yet, unfortunately, but we do know the price! As stated earlier, the Fenix A319 and A321 Expansion will cost Â£39.99 (â $51.79). And as always, Threshold will keep you updated as to when the Expansion will be available for purchase. If you do not own Fenix A320, the Fenix team has you covered! There will be a special limited-time bundle deal! Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-08-19T00:00:00+00:00</published>
   </entry>
 </feed>
