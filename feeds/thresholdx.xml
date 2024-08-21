@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-20T18:26:57.726389+00:00</updated>
+  <updated>2024-08-21T18:27:05.059529+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kolaud</id>
-    <title>Orbx Updates DCS Kola Map</title>
-    <updated>2024-08-10T00:00:00+00:00</updated>
-    <link href="/news/kolaud"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b74a3d1764368d8b095c2c_Banner_Image.webp"/>
-    <summary>Sim: DCS. Orbx has recently released a new update for its DCS add-on, Kola Map. The update includes a variety of new features and several improvements. It adds three new airfields and reduces the total size of the installed map by about 12 GB. The new update introduces three new airfields: Kirkenes (ENKR), Kallax (ESPA), and Vidsel (ESPE). Additionally, cities, towns, and infrastructure have been added around the new airfields. In addition to the new features, several fixes and updates have been implemented. Some noteworthy fixes include adjustments and revisions to the ILS at Bodo airfield (ENBO), improved ground imagery at new airfields, and a reduction of the installed map size by approximately 12 GB. The updated add-on is presently available on Orbx for $55.91 during early access and will increase to $69.99 upon full release. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/adta3v</id>
     <title>Aerosoft Posts First "Discover the Aerosoft A330" Video</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c3397c9c9405bc5a432ec7_A319_SMOL_A320_FENX_A321_FBIG.webp"/>
     <summary>Sim: MSFS. The long-awaited release date for Fenix A319 and A321 is finally here! In the Expansion trailer made in classic Fenix style, at the very end of the video, one can see that the Expansion is releasing today!Â  After âIntroduction to A319 and A321â and âThe Livery &amp; Art Previewâ dev updates were posted on Fenixâs website, lots of rumours began circulating the community about the release. Luckily, we didnât have to wait much for more news.Â  The exact time of release is not known yet, unfortunately, but we do know the price! As stated earlier, the Fenix A319 and A321 Expansion will cost Â£39.99 (â $51.79). And as always, Threshold will keep you updated as to when the Expansion will be available for purchase. If you do not own Fenix A320, the Fenix team has you covered! There will be a special limited-time bundle deal! Stay tuned to Threshold for more flight sim news and reviews! â</summary>
     <published>2024-08-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aeeddf</id>
+    <title>Aerosoft Further Previews Frankfurt Airport for MSFS</title>
+    <updated>2024-08-20T00:00:00+00:00</updated>
+    <link href="/news/aeeddf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c4f4dabf1b18f8b362076d_Banner_Image.webp"/>
+    <summary>Sim: MSFS. AviationLads has just released a new video featuring the highly anticipated Frankfurt Airport (EDDF) for Microsoft Flight Simulator by Aerosoft. In the video, Rafi, Jo, and Lukas discuss the development of the upcoming scenery while showcasing the airport. The 10-minute video provides an extensive look at the airport and includes the development conversation. The video provides a detailed look at all the features that the airport will have, demonstrating the extensive planning and consideration put into its creation. The pricing, release date, and features of the scenery have not been announced yet. We'll keep you updated with more information as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-08-20T00:00:00+00:00</published>
   </entry>
 </feed>
