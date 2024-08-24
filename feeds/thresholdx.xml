@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-23T18:26:45.575255+00:00</updated>
+  <updated>2024-08-24T18:25:13.882511+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/scr111</id>
-    <title>X-Crafts Publishes Summer Development Update for X-Plane</title>
-    <updated>2024-08-13T00:00:00+00:00</updated>
-    <link href="/news/scr111"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66bbbde97b061e914012e3e2_E-JETS_FAMILY_BY_X-CRAFTS_E175_027.webp"/>
-    <summary>Sim: X-Plane. X-Crafts recently published a new development update concerning their E-Jets Family for X-Plane, covering the beta release of the second release candidate for the long-awaited 1.1.0 update. Now available in early access, update V.1.1.0-RC2 brings many new features, improvements, and fixes, including ILS autotune, which is demonstrated in the video below: The new feature list also includes climb performance fine-tuning for the E170 and E175 - which now closely matches the real-world figures, FMS speed stability enhancements, VNAV recalculation improvements, and more. The complete changelog follows below: â  Fixed: There was a green edge on the cabin windows. This has been fixed â â Refer to their blog post for instructions on how to get early access builds.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/astorc</id>
-    <title>Astralis Studios Releases Ocean Reef Club Airport for MSFS</title>
-    <updated>2024-08-13T00:00:00+00:00</updated>
-    <link href="/news/astorc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66bbd034158f178bc7d3eef3_ence1.webp"/>
-    <summary>Sim: MSFS. Astralis Studios has recently released their rendition of Ocean Reef Club Airport (07FA) for Microsoft Flight Simulator, a private-use airport serving Key Largo, Florida. The Ocean Reef Club opened for business in 1951 on top of what used to be the Dispatch Creek Fishing Camp. The former structure consisted of four cabins, several docks, and a small harbor. It was then transformed into a proper club, accessible via land, sea, and air. Once upon a time, the airport even had scheduled passenger air service, with Ocean Reef Airways flying passengers to Miami, Fort Lauderdale, and Charters. It was successful at first, with route expansions throughout the 1970s. The scenery features an accurate rendition of the airport, with an up-to-date airport layout, custom buildings, custom houses, custom ground markings, Select Club facilities, and handcrafted airport surroundings. Itâs available on Contrail for roughly $12, requiring at least 493.5 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rjdevu</id>
     <title>Just Flight Releases Development Update for RJ Professional</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c7c6035adad60c48e07851_cardiff1.webp"/>
     <summary>Sim: MSFS. SoFly has recently announced the development and imminent release of Cardiff Airport (EGFF) for Microsoft Flight Simulator, serving Cardiff, Wales, with a yearly average of 859,000 passengers. It was built as RAF Rhoose in 1941 and started operations a year later as the home grounds for the No 53 Operational Training Unit, which trained future Spitfire pilots for World War 2 and beyond. It was abandoned right after World War 2, only to be brought back to life in the early 1950s after the Minister of Civil Aviation brought up his wish to build an airport in South Wales. After much deliberation between the options, they decided to repair the abandoned RAF station and invest whatever was necessary to convert it into a commercial airport.Â  It was then inaugurated in 1952 as Rhoose Airport, with Aer Lingus being the first to start scheduled commercial service routes from their base in Dublin. Flights from the former main airport in Cardiff (Pengam Moors) were transferred to Rhoose in 1954, featuring flights to France, Belfast, and Cork.Â  In early 1965, the airport was transferred to Glamorgan City Council, which started a five-year development plan that included a new tower, a new terminal building, and a runway extension. The runway was further extended in the 1980s, marking its renaming as Cardiff-Wales Airport. The new extension attracted British Airwaysâ attention, as it could accommodate their Boeing 747s for maintenance.Â  â A 100 million pound development strategy was announced in 2005, aiming to extend and upgrade the terminal. It was anticipated that it would attract up to 5 million passengers within a decade, a 150% increase. Only 3 million pounds were actually spent, half funded by the Welsh Government, refurbishing and redeveloping the passenger terminal. Further upgrade work was carried out in 2017 at an extra 4 million pounds. â Aer Lingus, KLM, Loganair, Play, Ryanair, TUI Airways, and Vueling serve it. â The upcoming scenery promises an accurate rendition of the airport, with an animated hangar, full GSX compatibility, highly detailed custom models, custom ground texturing, custom terminal interiors, and more. â Itâs set to release next Thursday (the 29th) for roughly $15.71.Stay tuned to Threshold for more flight simulation news! Â  â â Â  â</summary>
     <published>2024-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wed261</id>
+    <title>WorldEditor Updated to Version 2.6r1 for X-Plane</title>
+    <updated>2024-08-24T00:00:00+00:00</updated>
+    <link href="/news/wed261"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66c9a51af38b120466621386_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. The X-Plane developer software âWorldEditorâ has just received an update. The main portion of the update is set to bring new features for X-Plane scenery developers. The software is a key tool for devs, allowing them to modify and customize existing airports in X-Plane. One of the features to come with this update is the ability to now offer dual jetways. Each jetway can be assigned to a door on the aircraft, reducing the chances of jetways clipping through each other. In addition, devs can also export polygonal data (with exclusions) to third-party software to help design custom scenery elevations. Other minor updates include Shape Entities, Non-integer spacing for strings and tiles shader effects on ground textures. Finally, the team have added the feature to manually create 3D terrain. This feature was showcased on the iconic island of Saba and St Barths in the caribbean. Both airports have terrain around them that causes difficultly when departing or arriving. With all these new features, we can hope to see new sceneries being created for X-Plane, with high quality and exciting new options.Â  â Make sure to stay tuned to Threshold for more flight simulation news, and remember to join our Discord Server!</summary>
+    <published>2024-08-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/arfpfa</id>
+    <title>Aerosoft Release Further Previews of Frankfurt Airport for MSFS</title>
+    <updated>2024-08-24T00:00:00+00:00</updated>
+    <link href="/news/arfpfa"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66ca097c9e4cb3970791d815_Banner_Image.webp"/>
+    <summary>Sim: MSFS. After receiving the trailer in April this year, Areosoft has been hard at work developing their rendition of Frankfurt Main Airport. The team have released the second part of their interview to discuss progress. The video showcases the terminal interiors, airfield night lighting and some features that lie to the south of the airport. The video started with the team discussing how important being in touch with the real airport has been in development. The connection allowed them to stay accurate throughout the ground layout. The interior of an addon scenery plays an important role in improving the level of detail. 3D interiors create a depth of feel when pilots are parked on the stand. The team mentioned that it will not be 100% accurate as that level of detail will require an increase in resources and a reduction in performance. In addition, time spent modelling interiors could be spent on other finer details of the airport. The next portion of the video discusses night lighting. One challenge they faced was the vast amount of lights to be placed around the airport and the location they have. An interesting fact is that Frankfurt features over 40 different floodlights. Each has been modelled differently by the team. An approach into Runway 25R, will showcase the vast terminal and perimeter lighting system. The final portion of the video showcased some of the features you can find to the south of the airport. The largest apron is used by the Lufthansa Technical team, with most of the maintenance on Lufthansas fleet taking place there. Also, a new general aviation ramp to the southwest of the airport allows the flow of small aircraft operations. As the team close in on development, we will keep a close eye on the progress and make sure to provide the latest news!Â  â Make sure to stay tuned to Threshold and join our Discord Server.</summary>
+    <published>2024-08-24T00:00:00+00:00</published>
   </entry>
 </feed>
