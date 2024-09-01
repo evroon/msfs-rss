@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-08-31T18:25:48.141127+00:00</updated>
+  <updated>2024-09-01T18:26:07.488651+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/78v111</id>
-    <title>Magknight Releases an Update for B787 Aviator's Edition</title>
-    <updated>2024-08-27T00:00:00+00:00</updated>
-    <link href="/news/78v111"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66cde4c55e94802fad7f07dc_Ksea.jpg.55f4c3c17851c2c552b3844be06ba972.webp"/>
-    <summary>Sim: X-Plane. After more than 2 years since the last update, Magknight has finally released a major update for the B787. Alongside a couple of minor improvements, the v1.11.0 update brought a major feature: native X-Plane 12 compatibility! In the development update, Magknight has also revealed that another team has contacted them regarding partnering with them and continuing the work on their 787. The future plans include bringing the 787-8 and possibly the 787-10 to XP12, as well as working with the new partners on the 787 and re-doing the whole aircraft from scratch, but at much higher quality, at âhopefully little to no extra cost to our existing usersâ. More info will be revealed in a follow-up post that will be published in the next weeks. The full changelog is as follows: - Repaired EFB W/B- Reactivated Hoppie CPDLC - Reactivated Cabin PA systemÂ  - Introduced X-Plane 12 native compatibility - Minor improvements to performanceÂ  - New âCâ spec Flight ModelÂ  - New control logic - Controls override plugin to fix roll issues.Â  - New Wing model - Interim FBW augmentation mode â Unfortunately, there are a few issues that this update brought, such as inaccurate flaps reading on EICAS, unified GE/RR thrust and performance, functionality on MacOS and Linux isnât verified, and the FMOD error will pop up at launch. The team said that they are working on those issues currently.Â  As always, Threshold will keep you updated on the updates, progress of Magknight 787, and the reveal of the mysterious partner. Until then, stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-08-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mspw40</id>
-    <title>Mango Studios Releases PW4000 Engine Mod for X-Plane 11 &amp; 12</title>
-    <updated>2024-08-27T00:00:00+00:00</updated>
-    <link href="/news/mspw40"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66cdec64e1ddb0e383763ac2_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Mango Studios has recently released a new engine modification for X-Plane 11 &amp; 12. This mod specifically features the Pratt &amp; Whitney PW4000 for the 767. It allows X-Plane users to fly the 767 with the PW4000 engines and includes a variety of liveries. The engine modification comes with a range of features. It was entirely modelled from scratch to include small details such as screws and fins, making it as realistic as possible. The modification features 4K models and 2 spinner cone options. A variety of liveries are also included, but a paint kit is available upon request. For easy installation, the modification comes with a manual and a video tutorial. To use the add-on, you will need the FlightFactor Boeing 767. It's worth noting that the mod does not support the -400 variant. The engine mod is available on Mango Studiosâ website for $5.99. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msa319</id>
     <title>Mango Studios Releases ToLiss Airbus A319 Sound Pack for X-Plane 11 &amp; 12</title>
@@ -150,6 +132,24 @@
     <link href="/news/mmeddg"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d340e08b5356f704fffa23_Banner_Image.webp"/>
     <summary>Sim: MSFS. MM Simulations has recently released MÃ¼nster OsnabrÃ¼ck Airport (EDDG) for Microsoft Flight Simulator. The airport serves the two German cities of MÃ¼nster and OsnabrÃ¼ck and is considered a minor international airport. It welcomed just under 1 million passengers last year and offers flights to various leisure destinations and European cities. The airport was established in 1966 and has since undergone various developments, including upgrades and new constructions. Currently, it serves airlines like Eurowings, Ryanair, and Sundair, offering flights to destinations such as Palma de Mallorca, Rhodes, and Tenerife, among others. The airport accommodates nearly 1 million passengers annually and consists of one terminal building, which is divided into separate sections for arrivals and departures. The latest release of MÃ¼nster OsnabrÃ¼ck Airport includes several features such as custom night lighting, parking positions, surroundings, people and animated objects, PBR materials, and more. The add-on requires 2.28 GB of storage space and is available on Orbx for $18.94. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ukbear</id>
+    <title>UK2000 Scenery Releases Big Bear Airport for MSFS</title>
+    <updated>2024-08-31T00:00:00+00:00</updated>
+    <link href="/news/ukbear"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d396a4ca30c3b7fe75706b_bear1.webp"/>
+    <summary>Sim: MSFS. UK2000 Scenery has recently released their rendition of Big Bear City Airport (L35) for Microsoft Flight Simulator. The airport serves Big Bear City and San Bernardino, California, and has an average of 30,000 aircraft operations per year. The first airstrip in the area was established in the early 1920s. It was mainly utilized for private pilots and airmail service. The overall structure was precarious for its first two decades, and the runway was not paved.Â  The US Army Corps of Engineers constructed a new runway at the airport in the 1940s, allowing it to be used as a training airfield during World War 2. Following the war, Big Bear City Airport continued to expand. New hangars were built, and the airport's facilities were upgraded to accommodate the growing number of private aircraft and commercial flights. The airport's strategic location in the mountains made it a popular destination for pilots seeking scenic flights and challenging flying conditions. The region's ever-increasing popularity led to increased growth in traffic figures, which forced the administration to implement measures to manage the congestion in a safe - and less disruptive to the residents - manner: specific arrival and departure procedures and noise abatement rules.Â  The scenery features an accurate rendition of the airport, with detailed buildings, custom ground textures, high-resolution ground imagery, custom night lighting, performance-friendly optimization, PBR materials, custom static aircraft, and more. It's available on SimMarket for roughly $13.29, requiring at least 23.45 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftmcca</id>
+    <title>FOX TWO MODELS Releases Cherry Capital Airport for MSFS</title>
+    <updated>2024-08-31T00:00:00+00:00</updated>
+    <link href="/news/ftmcca"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d3a10dcc95ecdebc75d83a_fox1.webp"/>
+    <summary>Sim: MSFS. FOX TWO MODELS has recently released their rendition of Cherry Capital Airport (KTVC) for Microsoft Flight Simulator, serving Traverse City, Michigan, with a yearly average of 602,000 passengers, making it the third busiest in the state. It was opened in 1936 as Traverse City Airport, replacing Ransom Field. A decade later, it was moved to the Coast Guard Air Station and has been operational since. In 2004, a new terminal was opened, wholly replacing the old one, which had been demolished. The runways were also reconfigured, with the third diagonal runway removed. It won the Balchen/Post awards for three seasons in a row for outstanding snow and ice control achievement in the small commercial airport category.Â  The east-west runway was extended in 2017 to accommodate larger aircraft, attempting an international status promotion (not granted yet). Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Delta Air Lines, Delta Connection, Sun Country Airlines, United Airlines, and United Express serve it. The scenery features an accurate rendition of the airport, with PBR textures, custom night lighting, handcrafted models, custom taxi lines and ground markings, and more. â Itâs available on SimMarket for roughly $13.30, requiring at least 70.63 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-08-31T00:00:00+00:00</published>
   </entry>
 </feed>
