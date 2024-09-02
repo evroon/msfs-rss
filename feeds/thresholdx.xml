@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-01T18:26:07.488651+00:00</updated>
+  <updated>2024-09-02T18:27:42.045300+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msa319</id>
-    <title>Mango Studios Releases ToLiss Airbus A319 Sound Pack for X-Plane 11 &amp; 12</title>
-    <updated>2024-08-27T00:00:00+00:00</updated>
-    <link href="/news/msa319"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66cdf7b9ae507cf9677c1122_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Mango Studios has recently launched a new sound pack for the ToLiss Airbus in X-Plane 11 &amp; 12. The latest sound pack has been meticulously crafted to be as detailed and realistic as possible, enhancing the flying experience in the ToLiss Airbus. The sound pack includes a range of features for both the exterior and interior of the aircraft. For the exterior, the pack offers custom engine sounds for both the CFM International CFM-56-5 engines and the International Aero Engines IAE V2500-A5. Additionally, various miscellaneous effects and sounds are also included. The sound pack includes a wide range of high-quality cockpit sounds, covering everything from flaps to wipers. It also features a variety of real-world recorded sounds for the cabin. Additionally, the passenger effects can be easily toggled on or off using the Mango Studios Sounds Plugin, which offers full customization options for the sound pack. To use the add-on, you will need the ToLiss Airbus A319 aircraft. The sound pack is available on Mango Studiosâ website for $9.99. For those who want sound packs for the entire A320 Family by ToLiss, a bundle is available for $19.99. It's worth noting that the A320neo and A321 sound packs are still a work in progress and are yet to be released. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/frafra</id>
     <title>Aerosoft's Frankfurt Airport for MSFS Release Date Revealed</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d3a10dcc95ecdebc75d83a_fox1.webp"/>
     <summary>Sim: MSFS. FOX TWO MODELS has recently released their rendition of Cherry Capital Airport (KTVC) for Microsoft Flight Simulator, serving Traverse City, Michigan, with a yearly average of 602,000 passengers, making it the third busiest in the state. It was opened in 1936 as Traverse City Airport, replacing Ransom Field. A decade later, it was moved to the Coast Guard Air Station and has been operational since. In 2004, a new terminal was opened, wholly replacing the old one, which had been demolished. The runways were also reconfigured, with the third diagonal runway removed. It won the Balchen/Post awards for three seasons in a row for outstanding snow and ice control achievement in the small commercial airport category.Â  The east-west runway was extended in 2017 to accommodate larger aircraft, attempting an international status promotion (not granted yet). Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Delta Air Lines, Delta Connection, Sun Country Airlines, United Airlines, and United Express serve it. The scenery features an accurate rendition of the airport, with PBR textures, custom night lighting, handcrafted models, custom taxi lines and ground markings, and more. â Itâs available on SimMarket for roughly $13.30, requiring at least 70.63 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsskar</id>
+    <title>VueloSimple Releases Skardu International Airport for MSFS</title>
+    <updated>2024-09-02T00:00:00+00:00</updated>
+    <link href="/news/vsskar"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d5068ffd6f966d1f9a058e_skardu1.webp"/>
+    <summary>Sim: MSFS. VueloSimple has recently released their rendition of Skardu International Airport (OPSD) for Microsoft Flight Simulator, a civilian/military airport serving Skardu in Pakistan, with a yearly average of 127,124 passengers. Initially built as a Pakistani Air Force airbase in 1949, following their independence, it was later converted into a domestic airport for civilian use, albeit still serving as a forward operating base for the Pakistani Air Force.Â  In late 2021, the airport was designated and re-inaugurated as an international airport after undergoing several upgrades to its infrastructure to comply with the required standards. Itâs served by airblue (Islamabad) and Pakistan International Airlines (Dubai, Islamabad, Karachi, Lahore). The scenery features an accurate rendition of the airport, with custom 3D models, an up-to-date ground layout, custom dynamic lighting, and more.Â  Itâs available on SimMarket for roughly $11.08, requiring at least 119.62 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-02T00:00:00+00:00</published>
   </entry>
 </feed>
