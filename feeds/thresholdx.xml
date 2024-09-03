@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-02T18:27:42.045300+00:00</updated>
+  <updated>2024-09-03T18:28:01.255594+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/frafra</id>
-    <title>Aerosoft's Frankfurt Airport for MSFS Release Date Revealed</title>
-    <updated>2024-08-27T00:00:00+00:00</updated>
-    <link href="/news/frafra"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66ce411ad9cfda46f574798a_fra3.webp"/>
-    <summary>Sim: MSFS. Aerosoft has recently published the third part of their Frankfurt Airport (EDDF) interview series, showcasing more of the upcoming scenery, answering questions about an eventual port to Microsoft Flight Simulator 2024, and the product's official release date: September 5th.Â  Developed by Jo Erlend Sund and his team, the Frankfurt rendition was announced during FSExpo 2023. Aerosoft has been updating us with development progress reports on their official landing page for the scenery and via their YouTube channel. The busiest airport in Germany, with a yearly average of 59 million passengers, will land in the virtual realm of Microsoft Flight Simulator on Thursday, September 5th. That day, the development team, content creators, and others will attend an official launch party with questions and answers. There's not much information about the Microsoft Flight Simulator 2024 port other than the fact that it will happen. The timeframe is unknown, given that it is not known yet whether it will take a lot of work to port MSFS 2020 stuff over, but the developers are excited to get their hands on the new SDK. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/f2hbro</id>
     <title>Fly2High Releases Brownsville/South Padre Island International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d5068ffd6f966d1f9a058e_skardu1.webp"/>
     <summary>Sim: MSFS. VueloSimple has recently released their rendition of Skardu International Airport (OPSD) for Microsoft Flight Simulator, a civilian/military airport serving Skardu in Pakistan, with a yearly average of 127,124 passengers. Initially built as a Pakistani Air Force airbase in 1949, following their independence, it was later converted into a domestic airport for civilian use, albeit still serving as a forward operating base for the Pakistani Air Force.Â  In late 2021, the airport was designated and re-inaugurated as an international airport after undergoing several upgrades to its infrastructure to comply with the required standards. Itâs served by airblue (Islamabad) and Pakistan International Airlines (Dubai, Islamabad, Karachi, Lahore). The scenery features an accurate rendition of the airport, with custom 3D models, an up-to-date ground layout, custom dynamic lighting, and more.Â  Itâs available on SimMarket for roughly $11.08, requiring at least 119.62 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-09-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fratrai</id>
+    <title>Aerosoft Launches Mega Airport Frankfurt Trailer for MSFS</title>
+    <updated>2024-09-03T00:00:00+00:00</updated>
+    <link href="/news/fratrai"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d66345018e269f48d96e9b_trailer3.webp"/>
+    <summary>Sim: MSFS. Aerosoft, in collaboration with AviationLads, has recently launched the official trailer for their upcoming Frankfurt Airport (EDDF) for Microsoft Flight Simulator, which will be released on Thursday (05/09). Developed by Jo Erlend Sund and his team, Mega Airport Frankfurt promises a highly accurate rendition of Germanyâs busiest airport. It features custom ground textures, custom jetways, Â custom ground service equipment, terminal interiors, custom terraforming, and much more. The final minute of the trailer also provides details on the launch party, which is set to start at 1800Z on the 5th of September, with the presence of Jo Erlend and Lukas Vezyroglou (the lead developers), LondonController (a Twitch Streamer), and Calum (FSElite). IVAO and VATSIM will be fully staffed for the night, warranting a busy release night. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2024-09-03T00:00:00+00:00</published>
   </entry>
 </feed>
