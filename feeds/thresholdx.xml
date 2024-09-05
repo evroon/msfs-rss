@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-04T18:26:00.663128+00:00</updated>
+  <updated>2024-09-05T18:27:30.225872+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tla339</id>
-    <title>ToLiss Previews Upcoming Airbus A330-900 for X-Plane</title>
-    <updated>2024-08-29T00:00:00+00:00</updated>
-    <link href="/news/tla339"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d04e14300f7a9c1e98e55e_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. In April, ToLiss announced that their next aircraft type will be an A330-XXX. They have now revealed that the new aircraft will be the Airbus A330-900, which is part of the A330neo family. ToLiss has also provided some previews and a progress update. ToLiss has announced that the upcoming aircraft will be released in 2024. The aircraft will come equipped with a head-up display, new DRAIMS radio panels, and more. Most of the work on the aircraft has been completed, and the team is now focusing on the final texturing. ToLiss has not yet announced a release date or pricing, but the team has stated that they will provide an exact date soon. We will make sure to keep you informed once the release date and more information become available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/feu29m</id>
-    <title>Fenix Updates A321 and A319 for MSFS</title>
-    <updated>2024-08-29T00:00:00+00:00</updated>
-    <link href="/news/feu29m"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d086a33d3636fdcf344912_a319_a321_2.webp"/>
-    <summary>Sim: MSFS. Fenix Simulations' latest aircraft package was released 10 days ago, today it received an update to squash bugs and adjust parameters. The two aircraft have been popular addon, following their high-detail A320. The update brought fixes to the Avionics and Systems, Art and Sounds, EFB, Flight Model, Livery Manager and Installer. The full changelog can be found below:â â2.2.0.334 Avionics &amp; Systems Art and Sound EFB FM Livery Manager Installer The update is available from the Fenix Installer. In the meantime, make sure to keep tuned to Threshold for more flight simulation news and stay up to date by joining our Discord server!</summary>
-    <published>2024-08-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bbligh</id>
-    <title>BlueBird Simulations Preview Exterior Lighting on Upcoming 757</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/bbligh"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d200c5eded5217a808cdc0_Banner_Image.webp"/>
-    <summary>Sim: MSFS. BlueBird Simulations announced the development of their 757 back in February 2022, since then the team have been hard at work creating a highly detailed rendition of the aircraft. Today they released a video on their Discord server showcasing their work on the exterior wing and strobe lighting on the aircraft.Â  A key feature of the exterior lighting is the âshadow castingâ. As the light shines onto the engine, a shadow forms behind the engine and wing that can be seen at night. This is a key feature that adds to the realism of the aircraft during night operations.  To keep updated on further development of this aircraft, and more, make sure to stay tuned to Threshold and join our Discord server. </summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sfegff</id>
-    <title>SoFly Releases Cardiff for MSFS</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/sfegff"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d203ae2c1ad3372f178df4_Banner_Image.webp"/>
-    <summary>Sim: MSFS. Heading to the Welsh capital city, SoFly has released its debut scenery, Cardiff Airport, developed for SoFly by SkyHigh Studios. Having previously released add-ons such as Animals for MSFS, SoFly decided to head to the sunny city of Cardiff for their next project.Â  Cardiff Airport offers a gateway for Welsh travellers to venture to Southern Europe but also plays a key role in British Airways Maintenance. British Airways has a maintenance hangar that looks after a lot of their fleet. The team at SkyHigh Studios have animated the moving doors to this hangar, allowing users to take aircraft in and out of the hangar. Some of the key features included with the scenery are a realistic rendition of the airport, high-quality textures, dynamic lighting, terminal interior, custom AFCAD, custom GSX profile, and much more. SoFly Cardiff is available from the iniBuilds Store for $15.88 (excluding tax) â To keep up to date on future releases, be sure to stay tuned to Threshold and join our Discord server.</summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777v2i</id>
     <title>FightFactor Announces Imminent Public Release for its 777v2</title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d79c55b11a90ad9c3a4fce_shanghai1.webp"/>
     <summary>Sim: MSFS. WF Scenery Studio recently released their rendition of Shanghai Hongqiao International Airport (ZSSS) for Microsoft Flight Simulator. The airport serves Shanghai, the largest city in China, with a yearly average of 33.2 million passengers. Construction started more than a century ago, in 1921, and opened for mixed civilian use in 1923.Â  It was occupied by the Japanese during the Second Sino-Japanese War and used as an air force base. Even after being handed over to the Chinese government, it remained used for military purposes, only being fully converted into a civilian airport between 1963 and 1964. Two major expansions followed in 1984 and 1988, significantly increasing the airportâs passenger handling capabilities. Since the early 2000s, the airport has mainly operated domestic routes, with most international routes being transferred to Shanghai Pudong. The only exceptions to this rule are a couple of international flights to Taipei, Seoul, Hong Kong, and Tokyo.Â  It was expanded in 2010 for the Shanghai Expo, which included a new runway and a new terminal capable of handling up to 40 million passengers a year. Itâs four times the size of Terminal 1, inaugurated in 1964. It houses 80% of the domestic airlines at the airport. Terminal 1 underwent a major renovation at the end of 2014, bringing it up to modern standards. The renovation was done in two phases, with the final phase reaching completion in 2018. Itâs a hub for China Eastern Airlines, Juneyao Air, and Shanghai Airlines. Air China, Air Macau, All Nippon Airways, Asiana Airlines, Cathay Pacific, China Airlines, China Southern Airlines, China United Airlines, EVA Air, Hainan Airlines, Hebei Airlines, Hong Kong Airlines, Japan Airlines, Korean Air, Lucky Air, OTT Airlines, Shandong Airlines, Shenzhen Airlines, Spring Airlines, Tianjin Airlines, Tibet Airlines, and XiamenAir also serve it. The scenery features an accurate rendition of the airport, with PBR textures, realistic ground markings, a detailed terminal interior, custom jetways, animated vehicles, and more. Itâs available in the MSFS Marketplace for $23.99.Â Shout out to aca343 for the news scoop! Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-09-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfsnij</id>
+    <title>MFSG Releases Nijima Airport for MSFS</title>
+    <updated>2024-09-04T00:00:00+00:00</updated>
+    <link href="/news/mfsnij"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d8e264d33de41cc6819dc4_niji1.webp"/>
+    <summary>Sim: MSFS. MFSG has recently released their rendition of Nijima Airport (RJAN) for Microsoft Flight Simulator. The airport serves Nijima Village in Japan and has a yearly average of 32,170 passengers. It was opened in 1970 by the local government, and regularly scheduled flights were only to start nearly a decade later, in 1979, flying passengers to Chofu, in western Tokyo.Â  With the success of their early scheduled operations, the airport was granted a construction permit in 1984 to undergo upgrades to a national-standard tertiary airport. The work finished in 1987. New Central Airservice serves it with flights to Chofu. The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, AI traffic compatibility, and more. â Itâs available on SimMarket for roughly $5.52, requiring at least 7.26 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sibubu</id>
+    <title>The Secret Studio Releases Sibu Airport for MSFS</title>
+    <updated>2024-09-04T00:00:00+00:00</updated>
+    <link href="/news/sibubu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d8ec11743e29d1332e6d19_sibu1.webp"/>
+    <summary>Sim: MSFS. The Secret Studio has recently released their new rendition of Sibu Airport (WBGS) for Microsoft Flight Simulator (not to be confused with the one released in late 2022). It serves Bintangor, Sarikei, Kapit, and Sibu in East Malaysia, with a yearly average of 569,000 passengers, making it the 11th busiest airport in the country. It opened in 1994, replacing Sibuâs former airport, which was demolished to make way for the Laila Taib College (its runway can still be seen, albeit partially).Â  In 2010, the airport underwent a massive expansion project, upgrading the terminal building and car park. With the upgrade, the airport could handle 1.8 million passengers per year. AirAsia, Batik Air Malaysia, Malaysia Airlines, and MASwings serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, PBR texturing, custom ILS, highly detailed passenger terminal, custom aerial imagery, custom jetways, AI traffic compatibility, and custom ground textures. Itâs available on SimMarket for roughly $13.24, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
+    <published>2024-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/denup</id>
+    <title>X-Codr Designs Updates Denver for MSFS</title>
+    <updated>2024-09-05T00:00:00+00:00</updated>
+    <link href="/news/denup"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d9c562ce78f52521803bec_C%20Regional.webp"/>
+    <summary>Sim: MSFS. X-Codrâs rendition of Denver Airport has received an update to Version 1.1. The update brings many improvements to the terminals and beyond. Some main features include Increased terminal detail (with signs and boarding area enhancements) and higher-quality apron models and textures. The complete changelog follows below: The airport plays a key gateway into the Colorado, with a vast route network across North America and beyond. The airport is also an important hub for United Airlines and the main operating base for both Frontier Airlines and Southwest Airlines.Â  The updated X-Codr Denver can be purchased from Orbx for US$26.88 and will soon be available on the MSFS Marketplace. In the meantime, make sure to stay tuned to Threshold and join our discord server. </summary>
+    <published>2024-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/frafur</id>
+    <title>Aerosoft Releases Frankfurt Airport for MSFS</title>
+    <updated>2024-09-05T00:00:00+00:00</updated>
+    <link href="/news/frafur"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d9ca4fc7854f2e42602171_frankfurt1.jpg"/>
+    <summary>Sim: MSFS. Aerosoft has recently released their rendition of Frankfurt Airport (EDDF) for Microsoft Flight Simulator. It is Germanyâs busiest airport, with a yearly average of 59 million passengers. Inaugurated in mid-1936, Frankfurt quickly became a central distribution point for airmail transport to North America, and its passenger figures were not too shabby: It carried over 58,000 people during its first year of operation!Â  It was transferred to the Luftwaffe during World War 2, which led to the dismantling of the famous airships and their hangars. Then, the runway was fully converted into a military airfield. Four years later, Allied bombings destroyed it. Shortly after the war, the US Army took over the airport and built a new main runway and a base (Rhein-Main base).Â  In the early 1950s, civil air traffic slowly returned to normal: over 400,000 passengers passed through the airport in 1951. It wasnât until 1958 that Frankfurt would emerge as an international airline hub with the opening of East Terminal. Within four years, it was already too small for the figures at hand, with Frankfurt being the second busiest airport in Europe after Heathrow. In 1965, a new terminal was built to handle 30 million passengers per year, followed by a runway extension to accommodate larger aircraft. A new main terminal, known as the âCentral Terminal,â was built in 1972. It is divided into three concourses with 56 gates. At the time, it was assumed that the capacity would be sufficient for the next 30 years! Work on Terminal 2 started sooner than expected (in the early 1990s) because it turned out their Central Terminal was insufficient for the next thirty years. It opened in 1994, bringing the passenger handling capacity to 54 million passengers annually. Developed by Jo Erlend Sund, Lukas Vezyroglou, and their team, Mega Airport Frankfurt promises a highly accurate rendition of Germanyâs busiest airport. It features custom ground textures, custom jetways,Â  custom ground service equipment, terminal interiors, custom terraforming, and much more. Itâs available on the Aerosoft Shop for roughly $22.17 (excluding VAT) and requires at least 4.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-05T00:00:00+00:00</published>
   </entry>
 </feed>
