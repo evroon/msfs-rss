@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-05T18:27:30.225872+00:00</updated>
+  <updated>2024-09-06T18:28:42.651929+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777v2i</id>
-    <title>FightFactor Announces Imminent Public Release for its 777v2</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/777v2i"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d213e5f638dc83a87296ac_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. FlightFactor has announced that the public release of their highly anticipated 777v2 aircraft for X-Plane is imminent. The team mentioned that the public beta will be released on the 12th anniversary of the model. Along with the release statement, a trailer of the aircraft, created by Thomas Rasmussen, has been posted. The trailer showcases the aircraft and its features. The aircraft's store page has been up for a while after the aircraft was in beta pre-release for invited members. The page includes a detailed description of the aircraft and plenty of screenshots. The 777v2 will come with a range of features, including an accurate flight model, 3D modelling, accurately simulated systems, ground services, custom sounds, failure model, EFB, and much more. When this imminent release will occur has not been shared yet, but the fact that it is coming exactly on the 12th anniversary might be a hint. Once the aircraft is released, we will make sure to let you know. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/int-33</id>
-    <title>iniBuilds Releases T-33 Jet Trainer for MSFS</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/int-33"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d22835d306d0990731e3c3_Banner_Image.webp"/>
-    <summary>Sim: MSFS. iniBuilds has recently released its newest aircraft for Microsoft Flight Simulator, the T-33 Jet Trainer. In collaboration with SimWorks Studios and Ace Maker Aviation, the team has brought the aircraft to the virtual skies. The aircraft is equipped with a range of features, including detailed canopy covers, toggleable chocks, toggleable entry ladder, engine plugs, pitot covers, high-resolution liveries, forward and rear cockpits, authentic classic steam-gauge and modern glass cockpit, and much more. The aircraft requires 6.05 GB of storage space and is currently available for $26.41 on the iniBuilds Store.Â  For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a300ov</id>
-    <title>Just Flight Publishes New A300B4 Development Update for MSFS</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/a300ov"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d25607a14a1366c7bad0d6_airbus1.webp"/>
-    <summary>Sim: MSFS. Just Flight has recently published a new development update concerning their progress on the upcoming Airbus A300B4 for Microsoft Flight Simulator, showcasing their work on the overhead panel. Like most modern airliners, the overhead panel houses the controls for some of the most complex systems, albeit not in the same way: the A300B4 still had a flight engineer panel. Still, it paved the way for the two-pilot cockpit philosophy, which was present in every other Airbus from there on. That transitional period becomes quite evident when thereâs a mixture of awfully familiar switches and a plethora of annunciator lights, switches, and knobs that are no longer commonly seen in modern airplanes (replaced by automation or simplified). But even so, there are already glimpses of the contemporary Airbus philosophy that would dictate the future of their planes.Â  Panels are clearly and accurately labeled, annunciator lights are color-coded, and every rotating drum, knob, and switch is 3D modeled rather than a flat bidimensional texture. Every object has been texturized to look as realistically worn out as possible, as you would expect from an old airplane. They will showcase the engineerâs panel next, and there is still no information regarding the release date or pricing.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/surtha</id>
     <title>SIMMAN Releases Surat Thani International Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d9ca4fc7854f2e42602171_frankfurt1.jpg"/>
     <summary>Sim: MSFS. Aerosoft has recently released their rendition of Frankfurt Airport (EDDF) for Microsoft Flight Simulator. It is Germanyâs busiest airport, with a yearly average of 59 million passengers. Inaugurated in mid-1936, Frankfurt quickly became a central distribution point for airmail transport to North America, and its passenger figures were not too shabby: It carried over 58,000 people during its first year of operation!Â  It was transferred to the Luftwaffe during World War 2, which led to the dismantling of the famous airships and their hangars. Then, the runway was fully converted into a military airfield. Four years later, Allied bombings destroyed it. Shortly after the war, the US Army took over the airport and built a new main runway and a base (Rhein-Main base).Â  In the early 1950s, civil air traffic slowly returned to normal: over 400,000 passengers passed through the airport in 1951. It wasnât until 1958 that Frankfurt would emerge as an international airline hub with the opening of East Terminal. Within four years, it was already too small for the figures at hand, with Frankfurt being the second busiest airport in Europe after Heathrow. In 1965, a new terminal was built to handle 30 million passengers per year, followed by a runway extension to accommodate larger aircraft. A new main terminal, known as the âCentral Terminal,â was built in 1972. It is divided into three concourses with 56 gates. At the time, it was assumed that the capacity would be sufficient for the next 30 years! Work on Terminal 2 started sooner than expected (in the early 1990s) because it turned out their Central Terminal was insufficient for the next thirty years. It opened in 1994, bringing the passenger handling capacity to 54 million passengers annually. Developed by Jo Erlend Sund, Lukas Vezyroglou, and their team, Mega Airport Frankfurt promises a highly accurate rendition of Germanyâs busiest airport. It features custom ground textures, custom jetways,Â  custom ground service equipment, terminal interiors, custom terraforming, and much more. Itâs available on the Aerosoft Shop for roughly $22.17 (excluding VAT) and requires at least 4.5 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/virpil</id>
+    <title>VIRPIL Shares More Yoke Previews</title>
+    <updated>2024-09-05T00:00:00+00:00</updated>
+    <link href="/news/virpil"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66da17c920ad1df1cecbfffd_GWtl72oXAAATpr-.webp"/>
+    <summary>Sim: OTHER. VIRPIL, a hardware manufacturer well-known in the military flight sim community, has recently shared previews of their upcoming products. Until now, they have been mostly military-oriented, offering joystick bases and military plane grips, collective sticks, rudders, and control panels. Posted on their social media accounts, they showed a piece of hardware resembling a yoke, although a piece of cloth covered it. The following post presented more pieces of hardware that looked like they were connected to the yoke base, on the right side, one could see a knob with a switch that reminded of the Boeing-styled engine start panel.Â  The next post brought even more details, and caused more speculation. Again, a similar panel to the engine starter was present, except this time, the panel had light controls. The interesting part is that right next to the panel, a landing gear lever on an unscrewed panel. Not much information has been provided by VIRPIL, but one of the theories was that the panels are customisable and that one could set them up to their liking. The latest and the most exciting post, however, was released today. It featured two yokes, the left one shared a striking resemblance to the B737 and B747 yokes, although slightly modified, as the right side had hat switches which are most likely for view controls. The right yoke was a big surprise though, as it looked very similar to the good old bicycle yoke, commonly used on Embraer aircraft. Alongside the image of two yokes, VIRPIL posted a caption saying âPrepare for flight briefing - 06.09.2024!â Keep an eye out, as Threshold will keep you updated on the progress of VIRPIL yokes and any other big news about them. â Stay tuned to Threshold for more flight sim news and reviews!</summary>
+    <published>2024-09-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fask21</id>
+    <title>f7 Simulations Releases ASK 21 for MSFS</title>
+    <updated>2024-09-06T00:00:00+00:00</updated>
+    <link href="/news/fask21"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66db12266c078041daacb892_Microsoft_Flight_Simulator_Screenshot_2024.08.01_-_04.24.20.80_4472x.webp"/>
+    <summary>Sim: MSFS. f7 Simulations has recently released their rendition of Schleicher ASK21 for Microsoft Flight Simulator.Â  Designed as a replacement for the ageing ASK 13, ASK 21 became one of the most popular two-seat trainers, with over 1,000 of them being built by May 2024. Four versions of this glider were made: ASK 21, ASK 21 Mi (self-launching, equipped with a retractable rotary engine), Vanguard TX.1 (RAF training version), ASK 21B (improved version of ASK 21). This rendition of ASK 21 will feature three different panel layouts, custom sounds, a custom variometer, a realistic flight model, an aerobatic variant, a detailed manual, wingtip smoke, a fully clickable cockpit and a paint kit. It is available for purchase on the iniBuilds store for roughly 18.40 $ and takes up 2.37GB of disk space when installed.Â  â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-09-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vcayfp</id>
+    <title>VIRPIL Announces Advanced Flight Yoke Project</title>
+    <updated>2024-09-06T00:00:00+00:00</updated>
+    <link href="/news/vcayfp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66db1c388399e65924d7d94a_YokeReveal1.png.76195da414f9cd21a4ba5348ba7218f1.webp"/>
+    <summary>Sim: OTHER. After a couple of days of teasing, VIRPIL has finally revealed their newest project. The âVIRPIL Controls Advanced Flight Yoke Projectâ is their first project in the general aviation segment, with the goal of creating the best yoke on the market for an attainable price.Â  The project revealed two yokes, one of which looked like a Boeing-style yoke, while the second one looked very similar to the Embraer Phenom yoke. The VIRPIL Controls will feature metal construction, a wide range of adjustments, high-precision digital sensors, and swappable yoke handles. Alongside the yokes, VIRPIL confirmed that they will be working on a throttle unit and a lineup of panels.Â  The âAdvanced Flight Yoke Projectâ will be launched as a project on Kickstarter, starting October 1st 2024. The targeted Recommended Retail Price will be around â¬500. The Kickstart supporters will also receive early-bird pricing and have exclusive access to discussions about the VIRPIL future lineups.Â  As always, Threshold will keep you updated on the progress and news about the VIRPIL Flight Yoke Project! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-09-06T00:00:00+00:00</published>
   </entry>
 </feed>
