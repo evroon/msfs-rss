@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-06T18:28:42.651929+00:00</updated>
+  <updated>2024-09-07T18:26:03.689932+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/surtha</id>
-    <title>SIMMAN Releases Surat Thani International Airport for MSFS</title>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="/news/surtha"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d25ac8433627d94db59f76_thani1.webp"/>
-    <summary>Sim: MSFS. SIMMAN has recently released their rendition of Surat Thani International Airport (VTSB) for Microsoft Flight Simulator. The airport serves Surat Thani, Thailand, and has a yearly average of 1.3 million passengers. It was initially built as an airfield during World War 2 and left aside for many years after due to the existence of Donnok Airport, Surat Thaniâs former main airport. Although a development plan for the decrepit airfield was proposed in the early 1970s, the government decided to drop it and focus its financial resources elsewhere (Phuket International Airport). Two years later, the population pushed for a reconsideration, and the Ministry of Defence also embraced it. Development finally started in 1978, and the airport was officially opened in 1981.Â  Plans are underway to expand the airportâs apron and passenger terminal, doubling its passenger handling capabilities. Nok Air, Thai AirAsia, Thai Lion Air, and Thai VietJet Air serve it. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, custom night lighting, a custom-made terminal interior, and more. Itâs available on SimMarket for roughly $17.29, requiring at least 818.17 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
-    <published>2024-08-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsfyon</id>
     <title>FSFORMOSA Releases Yonaguni Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66db1c388399e65924d7d94a_YokeReveal1.png.76195da414f9cd21a4ba5348ba7218f1.webp"/>
     <summary>Sim: OTHER. After a couple of days of teasing, VIRPIL has finally revealed their newest project. The âVIRPIL Controls Advanced Flight Yoke Projectâ is their first project in the general aviation segment, with the goal of creating the best yoke on the market for an attainable price.Â  The project revealed two yokes, one of which looked like a Boeing-style yoke, while the second one looked very similar to the Embraer Phenom yoke. The VIRPIL Controls will feature metal construction, a wide range of adjustments, high-precision digital sensors, and swappable yoke handles. Alongside the yokes, VIRPIL confirmed that they will be working on a throttle unit and a lineup of panels.Â  The âAdvanced Flight Yoke Projectâ will be launched as a project on Kickstarter, starting October 1st 2024. The targeted Recommended Retail Price will be around â¬500. The Kickstart supporters will also receive early-bird pricing and have exclusive access to discussions about the VIRPIL future lineups.Â  As always, Threshold will keep you updated on the progress and news about the VIRPIL Flight Yoke Project! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
     <published>2024-09-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/imadfw</id>
+    <title>Imaginesim Previews Dallas Fort Worth International Airport for MSFS</title>
+    <updated>2024-09-07T00:00:00+00:00</updated>
+    <link href="/news/imadfw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66dc6fab0b1eb45b14733768_Banner_Image-1.webp"/>
+    <summary>Sim: MSFS. Imaginesim has offered a sneak peek into its upcoming scenery for Microsoft Flight Simulator, featuring the Dallas Fort Worth International Airport (KDFW). As the third busiest airport in the world, serving nearly 82 million passengers annually, this massive hub presents an exciting challenge for Imaginesim to replicate. Imaginesim has confirmed that most of the terminal buildings with complex geometry have been completed, and they are now moving on to work on the inter-terminal, support structures, towers, airside service buildings, Skylink structure, and all the jetways. Although no release date or price has been announced yet, we will keep you updated. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-09-07T00:00:00+00:00</published>
   </entry>
 </feed>
