@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-07T18:26:03.689932+00:00</updated>
+  <updated>2024-09-08T18:27:15.527329+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsfyon</id>
-    <title>FSFORMOSA Releases Yonaguni Airport for MSFS</title>
-    <updated>2024-08-31T00:00:00+00:00</updated>
-    <link href="/news/fsfyon"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d26191e45f5974c7c9459a_yona1.webp"/>
-    <summary>Sim: MSFS. FSFORMOSA has recently released their rendition of Yonaguni Airport (ROYN) for Microsoft Flight Simulator. The airport serves the city of Yonaguni in Okinawa Prefecture, Japan, with a yearly average of 100,000 passengers. It was constructed by the Japanese Army in 1943, being a vital airbase for their war strategy due to its location (awfully close to Taiwan). The post-war period led to abandonment, and its transformation into a civilian airport was only to happen over a decade later, in 1957. The airport's initial operations were modest, with small aircraft providing essential transportation links. As time passed, the airport's facilities were gradually upgraded to accommodate larger planes and growing passenger numbers. International service started in 2007, with flights to Taiwan operated by Uni Air. That helped consolidate the airport as a gateway to the island. It's currently served by Ryukyu Air Commuter, with routes to Ishigaki and Naha. The scenery features an accurate rendition of the airport, with PBR texturing, custom ground textures, custom POIs, performance-friendly optimization, custom vegetation, and more. It's available on SimMarket for roughly $15.41, requiring at least 1.09 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-08-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rexatm</id>
     <title>REX Simulations Announce REX Atmos</title>
@@ -150,6 +141,15 @@
     <link href="/news/imadfw"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66dc6fab0b1eb45b14733768_Banner_Image-1.webp"/>
     <summary>Sim: MSFS. Imaginesim has offered a sneak peek into its upcoming scenery for Microsoft Flight Simulator, featuring the Dallas Fort Worth International Airport (KDFW). As the third busiest airport in the world, serving nearly 82 million passengers annually, this massive hub presents an exciting challenge for Imaginesim to replicate. Imaginesim has confirmed that most of the terminal buildings with complex geometry have been completed, and they are now moving on to work on the inter-terminal, support structures, towers, airside service buildings, Skylink structure, and all the jetways. Although no release date or price has been announced yet, we will keep you updated. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-09-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/warsaw</id>
+    <title>Drzewiecki Design Releases Warsaw Chopin Airport for MSFS</title>
+    <updated>2024-09-07T00:00:00+00:00</updated>
+    <link href="/news/warsaw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66dca889811ee11ede54fadd_waw1.jpg"/>
+    <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Warsaw Chopin Airport (EPWA) for Microsoft Flight Simulator. The airport serves the Warsaw Metropolitan Area with a yearly average of 18.5 million passengers, roughly 40% of the countryâs total air passenger traffic. Urban development in the mid-1920s led to air traffic complications around Warsawâs former aerodrome, leading to the need to build a new airport elsewhere. A decade later, a new airport was finally ready to roll, built near the village of Okecie. It featured a ticket office, customs post, police station, newspaper kiosk, restaurant, and viewing terraceâstate-of-the-art infrastructure for early 1930 standards.Â  After the civilian infrastructure was considered ready, they began developing its military potential by constructing a Polish Air Force base, an Institute of Aviation building, an aircraft-building plant, and other military-related structures. In the late 1930s, the airport was equipped with radio navigation equipment to aid pilots during low-visibility conditions.Â  World War 2 wholly destroyed the airport, which happened to be a battleground between the Germans and the Polish Resistance. It was a bombing target from day one and was occupied by the Luftwaffe as soon as Germany took the country over.Â  The Germans built their first concrete runways and taxiways, which remained undamaged until the final days of the war when they were deliberately destroyed to prevent the enemies from using them. After the war, LOT Polish Airlines resumed operations at what used to be the airport, kicking off the reconstruction efforts. In two years, they have built a new terminal, a new control tower, and many aircraft parking stands, making it ready to serve people again. The airportâs terminal was reconstructed between 1964 and 1969 after LOT transferred its maintenance rights to state administration. By 1970, it already hit the one millionth passenger mark. It made them realize that their new terminal was already too small, leading to the construction of a temporary arrival hall, and a pre-war structure was used for domestic operations. While passenger numbers slightly declined in the early 1980s, the mid-80s and beyond were the opposite, with the administration urging further expansion of the airport. The expansion plans from the late 1980s only started after the fall of communism in the early 1990s. The new terminal was finally brought to life at the cost of 300 million German marks, using 164 subcontractors and 24 months of work. With a maximum capacity of 3.5 million passengers, it could handle 3.5 more people than the previous terminal, which was more than enough at the time. A new terminal (North Hall) was built in 2008, featuring a considerably larger footprint. It now handles arrivals for Star Alliance and Oneworld Airlines. Itâs a hub for LOT Polish Airlines and a focus city for Enter Air, Smartwings Poland, SprintAir, and Wizz Air. Aegean Airlines, Air China, Air France, British Airways, Brussels Airlines, Emirates, Ethiopian Airlines, Finnair, flydubai, KLM, Lufthansa, Norwegian Air Shuttle, Qatar Airways, TAP Air Portugal, and Turkish Airlines also serve it. The scenery features custom ground textures, PBR materials, performance-friendly optimization, custom jetways, custom ground service equipment, custom landside buildings, an up-to-date ground layout, and more. Itâs available on SimMarket or OrbxDirect for roughly $24.98/$24.00, requiring at least 1.91 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-09-07T00:00:00+00:00</published>
   </entry>
 </feed>
