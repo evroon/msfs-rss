@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-11T18:28:26.303318+00:00</updated>
+  <updated>2024-09-12T18:29:54.171757+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rexatm</id>
-    <title>REX Simulations Announce REX Atmos</title>
-    <updated>2024-08-31T00:00:00+00:00</updated>
-    <link href="/news/rexatm"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d32f6a576a46d8e93a759f_Banner_Image.webp"/>
-    <summary>Sim: MSFS. The popular plugin developers REX Simulations have announced their latest project, REX Atmos, a shader plugin for MSFS. The plugin will allow users to custom-tweak the weather, environment and atmosphere. Once tweaked they can generate a preset and will be able to share it with other REX Atmos users.Â  â A picture was shared to show the effects that can be expected on release. The shot showcased the difference between default MSFS and REX Weather Force with REX Atmos. Changes seen include sky colour changes, added true rayleigh scattering, altered environment colouring, and corrected cloud lighting and ozone.Â  At this point, we do not know any more information about the product, release date or price. However, make sure to keep tuned to Threshold for any further updates and join our Discord server.</summary>
-    <published>2024-08-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mmeddg</id>
-    <title>MM Simulations Releases MÃ¼nster OsnabrÃ¼ck Airport for MSFS</title>
-    <updated>2024-08-31T00:00:00+00:00</updated>
-    <link href="/news/mmeddg"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d340e08b5356f704fffa23_Banner_Image.webp"/>
-    <summary>Sim: MSFS. MM Simulations has recently released MÃ¼nster OsnabrÃ¼ck Airport (EDDG) for Microsoft Flight Simulator. The airport serves the two German cities of MÃ¼nster and OsnabrÃ¼ck and is considered a minor international airport. It welcomed just under 1 million passengers last year and offers flights to various leisure destinations and European cities. The airport was established in 1966 and has since undergone various developments, including upgrades and new constructions. Currently, it serves airlines like Eurowings, Ryanair, and Sundair, offering flights to destinations such as Palma de Mallorca, Rhodes, and Tenerife, among others. The airport accommodates nearly 1 million passengers annually and consists of one terminal building, which is divided into separate sections for arrivals and departures. The latest release of MÃ¼nster OsnabrÃ¼ck Airport includes several features such as custom night lighting, parking positions, surroundings, people and animated objects, PBR materials, and more. The add-on requires 2.28 GB of storage space and is available on Orbx for $18.94. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-08-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ukbear</id>
     <title>UK2000 Scenery Releases Big Bear Airport for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66dca889811ee11ede54fadd_waw1.jpg"/>
     <summary>Sim: MSFS. Drzewiecki Design has recently released their rendition of Warsaw Chopin Airport (EPWA) for Microsoft Flight Simulator. The airport serves the Warsaw Metropolitan Area with a yearly average of 18.5 million passengers, roughly 40% of the countryâs total air passenger traffic. Urban development in the mid-1920s led to air traffic complications around Warsawâs former aerodrome, leading to the need to build a new airport elsewhere. A decade later, a new airport was finally ready to roll, built near the village of Okecie. It featured a ticket office, customs post, police station, newspaper kiosk, restaurant, and viewing terraceâstate-of-the-art infrastructure for early 1930 standards.Â  After the civilian infrastructure was considered ready, they began developing its military potential by constructing a Polish Air Force base, an Institute of Aviation building, an aircraft-building plant, and other military-related structures. In the late 1930s, the airport was equipped with radio navigation equipment to aid pilots during low-visibility conditions.Â  World War 2 wholly destroyed the airport, which happened to be a battleground between the Germans and the Polish Resistance. It was a bombing target from day one and was occupied by the Luftwaffe as soon as Germany took the country over.Â  The Germans built their first concrete runways and taxiways, which remained undamaged until the final days of the war when they were deliberately destroyed to prevent the enemies from using them. After the war, LOT Polish Airlines resumed operations at what used to be the airport, kicking off the reconstruction efforts. In two years, they have built a new terminal, a new control tower, and many aircraft parking stands, making it ready to serve people again. The airportâs terminal was reconstructed between 1964 and 1969 after LOT transferred its maintenance rights to state administration. By 1970, it already hit the one millionth passenger mark. It made them realize that their new terminal was already too small, leading to the construction of a temporary arrival hall, and a pre-war structure was used for domestic operations. While passenger numbers slightly declined in the early 1980s, the mid-80s and beyond were the opposite, with the administration urging further expansion of the airport. The expansion plans from the late 1980s only started after the fall of communism in the early 1990s. The new terminal was finally brought to life at the cost of 300 million German marks, using 164 subcontractors and 24 months of work. With a maximum capacity of 3.5 million passengers, it could handle 3.5 more people than the previous terminal, which was more than enough at the time. A new terminal (North Hall) was built in 2008, featuring a considerably larger footprint. It now handles arrivals for Star Alliance and Oneworld Airlines. Itâs a hub for LOT Polish Airlines and a focus city for Enter Air, Smartwings Poland, SprintAir, and Wizz Air. Aegean Airlines, Air China, Air France, British Airways, Brussels Airlines, Emirates, Ethiopian Airlines, Finnair, flydubai, KLM, Lufthansa, Norwegian Air Shuttle, Qatar Airways, TAP Air Portugal, and Turkish Airlines also serve it. The scenery features custom ground textures, PBR materials, performance-friendly optimization, custom jetways, custom ground service equipment, custom landside buildings, an up-to-date ground layout, and more. Itâs available on SimMarket or OrbxDirect for roughly $24.98/$24.00, requiring at least 1.91 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2024-09-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/x12nue</id>
+    <title>Aerosoft Releases Nuremberg Airport for X-Plane 12</title>
+    <updated>2024-09-11T00:00:00+00:00</updated>
+    <link href="/news/x12nue"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e21471721051ac024049c6_nue1.webp"/>
+    <summary>Sim: X-Plane. Aerosoft has recently updated their Nuremberg Airport (EDDN) rendition for X-Plane 12, bringing revised lighting, revised orthophoto, reworked vegetation, custom weather effects, and more. Itâs the 9th busiest airport in Germany, with a yearly average of 4.5 million passengers. As an operating base for Ryanair and Corendon Europe, it connects the city to most of Europe, north and south. The updated rendition brings a standalone, fully customized XP12 version with revised lighting, revised orthoimagery, reworked vegetation, custom PBR textures, weather effects, full support for native XP12 seasons, reworked autogen, and revised static aircraft. Itâs available on the Aerosoft Store for roughly $23.10, requiring at least 6.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/brasil</id>
+    <title>Brazil Land Games Releases BrasÃ­lia International Airport for MSFS</title>
+    <updated>2024-09-11T00:00:00+00:00</updated>
+    <link href="/news/brasil"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e2179d721051ac0244294f_bruhsilia1.webp"/>
+    <summary>Sim: MSFS. Brazil Land Games recently released their rendition of BrasiliaâPresident Juscelino Kubitschek International Airport (SBBR) for Microsoft Flight Simulator. SBBR is the third busiest airport in Brazil, with a yearly average of 13.5 million passengers. The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more. It was divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, custom terminal interiors, custom landside representation, accurate runway profile, and more. Itâs available in their store for roughly $10. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-11T00:00:00+00:00</published>
   </entry>
 </feed>
