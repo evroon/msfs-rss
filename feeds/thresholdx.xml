@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-15T18:27:58.535863+00:00</updated>
+  <updated>2024-09-16T18:29:28.933860+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sibubu</id>
-    <title>The Secret Studio Releases Sibu Airport for MSFS</title>
-    <updated>2024-09-04T00:00:00+00:00</updated>
-    <link href="/news/sibubu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d8ec11743e29d1332e6d19_sibu1.webp"/>
-    <summary>Sim: MSFS. The Secret Studio has recently released their new rendition of Sibu Airport (WBGS) for Microsoft Flight Simulator (not to be confused with the one released in late 2022). It serves Bintangor, Sarikei, Kapit, and Sibu in East Malaysia, with a yearly average of 569,000 passengers, making it the 11th busiest airport in the country. It opened in 1994, replacing Sibuâs former airport, which was demolished to make way for the Laila Taib College (its runway can still be seen, albeit partially).Â  In 2010, the airport underwent a massive expansion project, upgrading the terminal building and car park. With the upgrade, the airport could handle 1.8 million passengers per year. AirAsia, Batik Air Malaysia, Malaysia Airlines, and MASwings serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, PBR texturing, custom ILS, highly detailed passenger terminal, custom aerial imagery, custom jetways, AI traffic compatibility, and custom ground textures. Itâs available on SimMarket for roughly $13.24, requiring at least 1.14 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!Â  â</summary>
-    <published>2024-09-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/denup</id>
     <title>X-Codr Designs Updates Denver for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e54bb831ba03c6717cb561_66e0e6d91890e.jpg"/>
     <summary>Sim: X-Plane. Orbx has released their latest scenery for X-Plane 12. The capital of Victoria, Melbourne, is home to many airlines offering flights around the country and beyond. Melbourne features a custom-detailed terminal interior as well as a control tower. It also utilises SAM and OpenSAM to incorporate jetway and VDGS into the scenery. A full feature list can be seen below: Melbourne International acts as a key gateway into the Victoria Capital. Serving as a base for Qantas and Virgin Australia, the routes from this scenery are broad. Suiting all flights from long hauls to other continents or domestic hops. Melbourne International can be purchased from OrbxDirect for $22.95AUD and will require 3.28GB worth of space.Â  Make sure to stay tuned to Threshold and join our discord server.Â  â</summary>
     <published>2024-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jslsgg</id>
+    <title>Jetstream Designs Further Previews Geneva Airport for MSFS</title>
+    <updated>2024-09-15T00:00:00+00:00</updated>
+    <link href="/news/jslsgg"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e73b60048e0618298b44db_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Jetstream Designs has recently shared additional previews of its highly anticipated Geneva Airport (LSGG) project for Microsoft Flight Simulator. The team has stated that this scenery is their most detailed and realistic creation to date, adding to the anticipation surrounding its release. The various screenshots offer a detailed glimpse of the airport's features. Although the pricing and release date of the scenery have not been announced yet, the team tells us to stay tuned for an official release date as it is coming very soon. We'll keep you updated with more information as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-09-15T00:00:00+00:00</published>
   </entry>
 </feed>
