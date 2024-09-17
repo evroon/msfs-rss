@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-09-16T18:29:27.357300+00:00</updated>
+  <updated>2024-09-17T18:30:03.118281+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-19-the-focke-wulf-fw-200-condor/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 19: The Focke-Wulf Fw 200 Condor</title>
-    <updated>2024-08-22T14:16:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-19-the-focke-wulf-fw-200-condor/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/MSFS_FW200-Condor_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>The Fw 200 was a record-setting airliner in a class of its own!A Bold VisionThe 1920s and 1930s witnessed incredible advances in aircraft innovation and accomplishments. One of the highlights of this era was transatlantic travel, as exemplified by Charles Lindbergh’s solo transatlantic journey in May of 1927. The nascent airline industry, inspired by rapidly … Continued</summary>
-    <published>2024-08-22T14:16:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-22nd-2024-development-update/</id>
@@ -77,5 +68,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/davegranstrom16-Forums-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user davegranstrom16! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!As we mentioned last week, our next Developer Livestream is scheduled for Wednesday, September 25 at 1730 UTC! During this broadcast, our panel of Jorg, Seb, and Martial … Continued</summary>
     <published>2024-09-12T22:57:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/top-rated-airport-sale/</id>
+    <title>Top-Rated Airport Sale</title>
+    <updated>2024-09-16T18:05:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/top-rated-airport-sale/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/FixedAirportSale-1920x1080-1-1024x576.jpg"/>
+    <summary>Enjoy discounted pricing during our Top-Rated Airport Sale!</summary>
+    <published>2024-09-16T18:05:29+00:00</published>
   </entry>
 </feed>

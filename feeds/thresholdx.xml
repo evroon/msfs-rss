@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-16T18:29:28.933860+00:00</updated>
+  <updated>2024-09-17T18:30:05.076341+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/denup</id>
-    <title>X-Codr Designs Updates Denver for MSFS</title>
-    <updated>2024-09-05T00:00:00+00:00</updated>
-    <link href="/news/denup"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66d9c562ce78f52521803bec_C%20Regional.webp"/>
-    <summary>Sim: MSFS. X-Codrâs rendition of Denver Airport has received an update to Version 1.1. The update brings many improvements to the terminals and beyond. Some main features include Increased terminal detail (with signs and boarding area enhancements) and higher-quality apron models and textures. The complete changelog follows below: The airport plays a key gateway into the Colorado, with a vast route network across North America and beyond. The airport is also an important hub for United Airlines and the main operating base for both Frontier Airlines and Southwest Airlines.Â  The updated X-Codr Denver can be purchased from Orbx for US$26.88 and will soon be available on the MSFS Marketplace. In the meantime, make sure to stay tuned to Threshold and join our discord server. </summary>
-    <published>2024-09-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/frafur</id>
     <title>Aerosoft Releases Frankfurt Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e73b60048e0618298b44db_Banner_Image.webp"/>
     <summary>Sim: MSFS. Jetstream Designs has recently shared additional previews of its highly anticipated Geneva Airport (LSGG) project for Microsoft Flight Simulator. The team has stated that this scenery is their most detailed and realistic creation to date, adding to the anticipation surrounding its release. The various screenshots offer a detailed glimpse of the airport's features. Although the pricing and release date of the scenery have not been announced yet, the team tells us to stay tuned for an official release date as it is coming very soon. We'll keep you updated with more information as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-09-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/feupaf</id>
+    <title>Fenix Updates Airbus Family for MSFS</title>
+    <updated>2024-09-16T00:00:00+00:00</updated>
+    <link href="/news/feupaf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e899efb536751c4841a97b_Banner_Image.webp"/>
+    <summary>Sim: MSFS. Fenix has recently released a new update for its Airbus Family for Microsoft Flight Simulator. The A319, A320, and A321 have received a variety of fixes. The team has also added an extra rear window configuration for the A319. The latest version, Fenix A32X 2.2.0.351, includes a number of fixes. The update has mainly addressed the issue of engines spontaneously combusting by fixing and preventing this from happening. Additionally, various other fixes have been implemented. The team has also added a new feature, which is an extra rear window configuration for the A319 variant. The new version Fenix A32X 2.2.0.351 has an extensive changelog, which can be found below: â Fenix A32X 2.2.0.351 changelog:  Known Issues Avionics and Systems Art and Sound EFB Flight and Engine Models The newly updated Airbus Family is available for download through the Fenix Installer. The entire family is available and on sale for Â£79.99 at Fenix Sim.Â  For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-09-16T00:00:00+00:00</published>
   </entry>
 </feed>
