@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-09-19T18:28:42.871228+00:00</updated>
+  <updated>2024-09-20T18:28:58.718466+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/community-spotlight-worldflight/</id>
-    <title>Community Spotlight: WorldFlight</title>
-    <updated>2023-11-01T16:00:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/community-spotlight-worldflight/"/>
-    <summary>An Introduction to WorldflightSince 1999 a group of flight simulator enthusiasts have been gathering together online during the first full week of November to raise money for multiple worldwide charities. In 23 years well over $1,000,000 has been raised for the charities handpicked by each team for causes that hold a special meaning. The event … Continued</summary>
-    <published>2023-11-01T16:00:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/in-memory-of-anton-logvynenko-digital-artist-aviation-enthusiast/</id>
     <title>In Memory of Anton Logvynenko: Digital Artist &amp; Aviation Enthusiast</title>
@@ -29,9 +21,17 @@
     <title>Microsoft Flight Simulator at FlightSimExpo 2024</title>
     <updated>2024-06-19T21:20:37+00:00</updated>
     <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-flightsimexpo-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/06/MSFSatFSExpo-1024x337.png"/>
     <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
     <published>2024-06-19T21:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
+    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
+    <updated>2024-09-19T18:08:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
+    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
+    <published>2024-09-19T18:08:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-announcement/</id>
@@ -70,13 +70,13 @@
     <published>2024-09-19T13:12:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/august-8th-2024-development-update/</id>
-    <title>August 8th, 2024 – Development Update</title>
-    <updated>2024-08-08T23:16:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-8th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/ZILLNIAZI17-Forum-1024x576.jpg"/>
-    <summary>Earlier today, we released a small update which contains the latest navdata and another round of improved airports from community members participating in the World Hub closed alpha test. You can see the full notes, including a list of every updated airport, on our forums here.</summary>
-    <published>2024-08-08T23:16:23+00:00</published>
+    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
+    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
+    <updated>2024-09-19T18:08:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
+    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
+    <published>2024-09-19T18:08:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-15th-2024-development-update/</id>
@@ -160,22 +160,13 @@
     <published>2024-09-16T18:05:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/august-15th-2024-development-update/</id>
-    <title>August 15th, 2024 – Development Update</title>
-    <updated>2024-08-15T23:01:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-15th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/@2525ARW-Twitter-1024x576.jpeg"/>
-    <summary>A few days from now we will celebrate the fourth anniversary of the release of Microsoft Flight Simulator on August 18, 2020. From all of us on the team, we want to share a message of sincere gratitude to everyone in the flight sim community for making the last four years truly special.</summary>
-    <published>2024-08-15T23:01:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/top-rated-scenery-sale/</id>
-    <title>Top-Rated Scenery Sale</title>
-    <updated>2024-08-20T18:09:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/top-rated-scenery-sale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/TopRatedScenerySale_1920x1080-1024x576.jpg"/>
-    <summary>Enjoy discounted pricing during our Top-Rated Scenery Sale!</summary>
-    <published>2024-08-20T18:09:12+00:00</published>
+    <id>https://www.flightsimulator.com/september-19th-2024-development-update/</id>
+    <title>September 19th, 2024 – Development Update</title>
+    <updated>2024-09-19T23:21:33+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-19th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/HolmesCZ6127-Forums-2-1024x429.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!So, quiet week, huh?…😉Starting today, you can pre-order Microsoft Flight Simulator 2024! As a special bonus, anyone who pre-orders will receive the De Havilland Canada CL-415 firefighting aircraft … Continued</summary>
+    <published>2024-09-19T23:21:33+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-xviii-germany-austria-and-switzerland/</id>
@@ -248,5 +239,23 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
     <summary>Microsoft Flight Simulator 2024 takes the franchise further than ever before with groundbreaking new elements like worldwide Aviation Careers, a white-knuckle Challenge League system, and a brand-new World Photographer mode. Learn more and pre-order now!</summary>
     <published>2024-09-19T13:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
+    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
+    <updated>2024-09-19T18:08:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
+    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
+    <published>2024-09-19T18:08:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-19th-2024-development-update/</id>
+    <title>September 19th, 2024 – Development Update</title>
+    <updated>2024-09-19T23:21:33+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-19th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/HolmesCZ6127-Forums-2-1024x429.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!So, quiet week, huh?…😉Starting today, you can pre-order Microsoft Flight Simulator 2024! As a special bonus, anyone who pre-orders will receive the De Havilland Canada CL-415 firefighting aircraft … Continued</summary>
+    <published>2024-09-19T23:21:33+00:00</published>
   </entry>
 </feed>
