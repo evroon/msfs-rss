@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-09-23T18:29:34.503740+00:00</updated>
+  <updated>2024-09-24T18:29:57.620237+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -79,15 +79,6 @@
     <published>2024-09-19T18:08:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/august-22nd-2024-development-update/</id>
-    <title>August 22nd, 2024 – Development Update</title>
-    <updated>2024-08-22T23:03:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-22nd-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/08/ZeekR5430-Forum-1024x576.png"/>
-    <summary>Happy anniversary! Earlier this week, we marked four years since the launch of Microsoft Flight Simulator on August 18, 2020.</summary>
-    <published>2024-08-22T23:03:22+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/august-29th-2024-development-update/</id>
     <title>August 29th, 2024 – Development Update</title>
     <updated>2024-08-29T22:44:40+00:00</updated>
@@ -133,13 +124,13 @@
     <published>2024-09-19T23:21:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/september-5th-2024-development-update/</id>
-    <title>September 5th, 2024 – Development Update</title>
-    <updated>2024-09-05T23:03:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-5th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/@KotetuP-Twitter-1024x551.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @KotetuP! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today we updated the sim with the latest Navdata (cycle 2409). This will install automatically as a mandatory update the next time you launch the sim. Additionally, … Continued</summary>
-    <published>2024-09-05T23:03:50+00:00</published>
+    <id>https://www.flightsimulator.com/famous-flyer-10/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 10: The Boeing 707-320C</title>
+    <updated>2024-09-24T15:30:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-10/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS_B707_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>Microsoft Flight Simulator pilots can now experience one of the most stellar versions of the renowned Boeing 707.</summary>
+    <published>2024-09-24T15:30:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-12th-2024-development-update/</id>
@@ -185,5 +176,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/HolmesCZ6127-Forums-2-1024x429.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!So, quiet week, huh?…😉Starting today, you can pre-order Microsoft Flight Simulator 2024! As a special bonus, anyone who pre-orders will receive the De Havilland Canada CL-415 firefighting aircraft … Continued</summary>
     <published>2024-09-19T23:21:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-10/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 10: The Boeing 707-320C</title>
+    <updated>2024-09-24T15:30:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-10/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS_B707_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>Microsoft Flight Simulator pilots can now experience one of the most stellar versions of the renowned Boeing 707.</summary>
+    <published>2024-09-24T15:30:16+00:00</published>
   </entry>
 </feed>
