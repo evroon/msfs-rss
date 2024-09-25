@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-09-24T18:30:00.322373+00:00</updated>
+  <updated>2024-09-25T18:29:43.453896+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/warsaw</id>
-    <title>Drzewiecki Design Releases Warsaw Chopin Airport for MSFS</title>
-    <updated>2024-09-07T00:00:00+00:00</updated>
-    <link href="/news/warsaw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66dca889811ee11ede54fadd_waw1.jpg"/>
-    <summary>Sim: MSFS20. Drzewiecki Design has recently released their rendition of Warsaw Chopin Airport (EPWA) for Microsoft Flight Simulator. The airport serves the Warsaw Metropolitan Area with a yearly average of 18.5 million passengers, roughly 40% of the countryâs total air passenger traffic. Urban development in the mid-1920s led to air traffic complications around Warsawâs former aerodrome, leading to the need to build a new airport elsewhere. A decade later, a new airport was finally ready to roll, built near the village of Okecie. It featured a ticket office, customs post, police station, newspaper kiosk, restaurant, and viewing terraceâstate-of-the-art infrastructure for early 1930 standards.Â  After the civilian infrastructure was considered ready, they began developing its military potential by constructing a Polish Air Force base, an Institute of Aviation building, an aircraft-building plant, and other military-related structures. In the late 1930s, the airport was equipped with radio navigation equipment to aid pilots during low-visibility conditions.Â  World War 2 wholly destroyed the airport, which happened to be a battleground between the Germans and the Polish Resistance. It was a bombing target from day one and was occupied by the Luftwaffe as soon as Germany took the country over.Â  The Germans built their first concrete runways and taxiways, which remained undamaged until the final days of the war when they were deliberately destroyed to prevent the enemies from using them. After the war, LOT Polish Airlines resumed operations at what used to be the airport, kicking off the reconstruction efforts. In two years, they have built a new terminal, a new control tower, and many aircraft parking stands, making it ready to serve people again. The airportâs terminal was reconstructed between 1964 and 1969 after LOT transferred its maintenance rights to state administration. By 1970, it already hit the one millionth passenger mark. It made them realize that their new terminal was already too small, leading to the construction of a temporary arrival hall, and a pre-war structure was used for domestic operations. While passenger numbers slightly declined in the early 1980s, the mid-80s and beyond were the opposite, with the administration urging further expansion of the airport. The expansion plans from the late 1980s only started after the fall of communism in the early 1990s. The new terminal was finally brought to life at the cost of 300 million German marks, using 164 subcontractors and 24 months of work. With a maximum capacity of 3.5 million passengers, it could handle 3.5 more people than the previous terminal, which was more than enough at the time. A new terminal (North Hall) was built in 2008, featuring a considerably larger footprint. It now handles arrivals for Star Alliance and Oneworld Airlines. Itâs a hub for LOT Polish Airlines and a focus city for Enter Air, Smartwings Poland, SprintAir, and Wizz Air. Aegean Airlines, Air China, Air France, British Airways, Brussels Airlines, Emirates, Ethiopian Airlines, Finnair, flydubai, KLM, Lufthansa, Norwegian Air Shuttle, Qatar Airways, TAP Air Portugal, and Turkish Airlines also serve it. The scenery features custom ground textures, PBR materials, performance-friendly optimization, custom jetways, custom ground service equipment, custom landside buildings, an up-to-date ground layout, and more. Itâs available on SimMarket or OrbxDirect for roughly $24.98/$24.00, requiring at least 1.91 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/x12nue</id>
-    <title>Aerosoft Releases Nuremberg Airport for X-Plane 12</title>
-    <updated>2024-09-11T00:00:00+00:00</updated>
-    <link href="/news/x12nue"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e21471721051ac024049c6_nue1.webp"/>
-    <summary>Sim: X-Plane. Aerosoft has recently updated their Nuremberg Airport (EDDN) rendition for X-Plane 12, bringing revised lighting, revised orthophoto, reworked vegetation, custom weather effects, and more. Itâs the 9th busiest airport in Germany, with a yearly average of 4.5 million passengers. As an operating base for Ryanair and Corendon Europe, it connects the city to most of Europe, north and south. The updated rendition brings a standalone, fully customized XP12 version with revised lighting, revised orthoimagery, reworked vegetation, custom PBR textures, weather effects, full support for native XP12 seasons, reworked autogen, and revised static aircraft. Itâs available on the Aerosoft Store for roughly $23.10, requiring at least 6.9 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-09-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/brasil</id>
-    <title>Brazil Land Games Releases BrasÃ­lia International Airport for MSFS</title>
-    <updated>2024-09-11T00:00:00+00:00</updated>
-    <link href="/news/brasil"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66e2179d721051ac0244294f_bruhsilia1.webp"/>
-    <summary>Sim: MSFS20. Brazil Land Games recently released their rendition of BrasiliaâPresident Juscelino Kubitschek International Airport (SBBR) for Microsoft Flight Simulator. SBBR is the third busiest airport in Brazil, with a yearly average of 13.5 million passengers. The airport was built in 1956, four years before the city it serves, which was still under construction. With a small wooden terminal and a 324-meter-long runway, it received its first flight and inauguration in 1957. The runway was later extended to its current length of 3,300 meters, which had been part of the original plan all along, but for whatever reason, they made it 90% shorter at first. The first major renovation happened in 1990, with terminal expansions, the first circular satellite, and more. It was divided into a two-phase project that reached total completion in 2004, followed by the construction of the second runway in 2005. New expansion work was announced in 2009 to prepare the airport for the 2014 World Cup. It consisted of an enlargement of the apron and taxiways, a passenger terminal renovation (and enlargement), and extra parking lots, mitigating an issue with the airport operating at capacity (85%) for many years. Itâs served by AerolÃ­neas Argentinas, Azul Brazilian Airlines, Copa Airlines, Gol Transportes AÃ©reos, LATAM Brasil, LATAM PerÃº, TAP Air Portugal, and Voepass Linhas AÃ©reas. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, custom terminal interiors, custom landside representation, accurate runway profile, and more. Itâs available in their store for roughly $10. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-09-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ddulli</id>
     <title>Digital Design Releases St. Petersburg Pulkovo Airport for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f14fa969afcc22cfd797fa_a319_a321_3.webp"/>
     <summary>Sim: MSFS20. Fenix Simulations recently released an update to its A320 family lineup for Microsoft Flight Simulator, which includes a small performance improvement, bug and texture fixes, and more. Version 2.2.0.359 fixes the compatibility with SayIntentions ACARS, a LVR ASYM ECAM message during an engine failure with the throttle levers on idle, flap rod animations, clickspot tweaks on the first officerâs side, and standby ADI vibrator volume,Â among other things. The complete changelog follows below: Avionics and Systems Art and Sound The developers have also stated they have run through 127 beta builds since the release of their A319/A321 expansion, averaging two builds a day. Â  The Fenix A320 base package and the A319/A321 expansion are available on their website for $106.49 (bundle).Â  â Stay tuned to Threshold for more flight simulation news!</summary>
     <published>2024-09-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flyt12</id>
+    <title>FlyTampa Updates Toronto Pearson International Airport for MSFS</title>
+    <updated>2024-09-25T00:00:00+00:00</updated>
+    <link href="/news/flyt12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f3fd39884196601723983c_toronto1.webp"/>
+    <summary>Sim: MSFS20. FlyTampa recently issued a long-awaited update to its Toronto Pearson International Airport (CYYZ) for Microsoft Flight Simulator. The update addresses terrain issues, adds new buildings, and brings full compatibility with World Update Canada. Update 1.2 brings substantial changes to the scenery, among their first products for the â then â new simulator. The complete changelog follows below: The scenery is available on OrbxDirect for roughly $20.03, requiring at least 2.30 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vfat30</id>
+    <title>VFlyteair Simulations Releases Piper Twin Comanche for MSFS</title>
+    <updated>2024-09-25T00:00:00+00:00</updated>
+    <link href="/news/vfat30"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f4046f8b60d3f790c73e98_twinkie3.webp"/>
+    <summary>Sim: MSFS20. VFlyteair Simulations has recently released their rendition of the Piper Twin Comanche PA-30 for Microsoft Flight Simulator, their first product for the new platform after many years of X-Plane add-on development. The PA-30 Twin Comanche is a twin-engined (as the name suggests) monoplane designed and built by Piper Aircraft, Inc. It is, in a nutshell, a PA-24 with two engines, developed to compete with the Cessna 310 and the Beechcraft Baron. It ultimately replaced the PA-23, also known as the Piper Apache, their former two-engine airplane. â The first prototype was converted from the single-engined Comanche (PA-24) by Ed Swearingen, who operated a facility that specialized in modifying production aircraft models. It was given two 160 hp Lycoming IO-320-B1A engines and flew out of San Antonio, Texas, for the first time in 1961. An official prototype was built a year later in Lock Haven (where their factory used to be at the time), and the FAAâs approval was given shortly after in 1963, with the first delivery following only a few months later. VFlyteairâs rendition replicates the analog version of the Twin Comanche, with an eventual update to bring glass panel options from their X-Plane 12 version under consideration for the future. The classic version sports a Century IIB autopilot and TDSSim GTN750Xi compatibility (a GTN750xi and 650xi stack) for improved situational awareness. The feature list includes an accurately modeled PA-30, using real-world aircraft blueprints and comprehensive photographic reference, with 4K texturing, PBR, detailed normal mapping, a truly 3D virtual cockpit, wear and tear on texturing, simulated electrical systems, and 26 different liveries from multiple countries. Itâs available on SimMarket for roughly $33.39, requiring at least 910.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rmd11p</id>
+    <title>Rotate Releases MD-11 Passenger for X-Plane 11 &amp; 12</title>
+    <updated>2024-09-25T00:00:00+00:00</updated>
+    <link href="/news/rmd11p"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f43294b290d2cb0c5988cf_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Rotate has just released its highly anticipated passenger configuration of the McDonnell Douglas MD-11 for X-Plane 11 and X-Plane 12. The iconic three-engined passenger aircraft is now available for everyone to take to the skies. The first MD-11 was delivered and entered service with Finnair in December 1990. Although the MD-11 resembled the DC-10, it had significant differences. The MD-11 featured updated engines, a larger wingspan, a higher maximum takeoff weight, an elongated fuselage, a glass cockpit, and most importantly, an extended range. The introduction of a glass cockpit eliminated the need for a flight engineer. In total, 200 MD-11 aircraft were built, including passenger, combi, and freighter versions. Rotate's MD-11 Passenger model is an enhanced version of their previous freighter variant. The passenger variant includes a passenger cabin, specific elements in the cockpit, an air panel, synoptic display, evacuation panel, attendant communication panels, and a load manager designed specifically for the passenger variant. According to the developer, the MD-11 offers in-depth system simulation, realistic flight dynamics, and high-performance features. The newly released Rotate MD-11 Passenger is available at X-Plane.Org Store for $83.95. If you own the Rotate MD-11 Freighter, the discounted price will be $34.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-09-25T00:00:00+00:00</published>
   </entry>
 </feed>
