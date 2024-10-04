@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-10-03T18:29:59.062810+00:00</updated>
+  <updated>2024-10-04T18:29:38.560122+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -88,15 +88,6 @@
     <published>2024-09-26T23:03:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/september-12th-2024-development-update/</id>
-    <title>September 12th, 2024 – Development Update</title>
-    <updated>2024-09-12T22:57:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-12th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/davegranstrom16-Forums-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user davegranstrom16! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!As we mentioned last week, our next Developer Livestream is scheduled for Wednesday, September 25 at 1730 UTC! During this broadcast, our panel of Jorg, Seb, and Martial … Continued</summary>
-    <published>2024-09-12T22:57:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/top-rated-airport-sale/</id>
     <title>Top-Rated Airport Sale</title>
     <updated>2024-09-16T18:05:29+00:00</updated>
@@ -142,13 +133,13 @@
     <published>2024-10-01T15:10:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/msfs2024-preorder-now-available/</id>
-    <title>Microsoft Flight Simulator 2024: The Many Enhancements That Make This the Most Ambitious Flight Sim Ever</title>
-    <updated>2024-09-19T13:12:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs2024-preorder-now-available/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
-    <summary>Microsoft Flight Simulator 2024 takes the franchise further than ever before with groundbreaking new elements like worldwide Aviation Careers, a white-knuckle Challenge League system, and a brand-new World Photographer mode. Learn more and pre-order now!</summary>
-    <published>2024-09-19T13:12:19+00:00</published>
+    <id>https://www.flightsimulator.com/october-3rd-2024-development-update/</id>
+    <title>October 3rd, 2024 – Development Update</title>
+    <updated>2024-10-03T23:05:13+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-3rd-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@pommes_l-Twitter-1024x576.jpeg"/>
+    <summary>Earlier this week, we launched Aircraft &amp; Avionics Update 3 (AAU3)! This release enhances three aircraft: the Airbus A310-300, Airbus A320neo V2, and Pilatus PC-6 Porter.</summary>
+    <published>2024-10-03T23:05:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2022/06/A310-300-1024x576.jpg"/>
     <summary>Aircraft and Avionics Update 3 is now available as a free download for all Microsoft Flight Simulator (2020) players! This update enhances three aircraft, the Airbus A320neo V2, Airbus A310-33, and Pilatus PC-6 Porter.If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior. … Continued</summary>
     <published>2024-10-01T15:10:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-3rd-2024-development-update/</id>
+    <title>October 3rd, 2024 – Development Update</title>
+    <updated>2024-10-03T23:05:13+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-3rd-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@pommes_l-Twitter-1024x576.jpeg"/>
+    <summary>Earlier this week, we launched Aircraft &amp; Avionics Update 3 (AAU3)! This release enhances three aircraft: the Airbus A310-300, Airbus A320neo V2, and Pilatus PC-6 Porter.</summary>
+    <published>2024-10-03T23:05:13+00:00</published>
   </entry>
 </feed>
