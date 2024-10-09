@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-10-08T18:29:49.430890+00:00</updated>
+  <updated>2024-10-09T18:29:47.383814+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
     <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
     <published>2024-09-19T18:08:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-announcement/</id>
-    <title>Microsoft Flight Simulator 2024: The Next Generation of the Legendary Franchise</title>
-    <updated>2023-06-11T19:18:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-announcement/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_v1_NoSnipe_Logo_NoText-1024x576.png"/>
-    <summary>Pursue your dream of an aviation career with Microsoft Flight Simulator 2024. This brand-new simulator is designed to take advantage of the latest technologies in simulation, cloud, machine learning, graphics and gaming to create the most sophisticated, immersive and awe-inspiring flight simulator of all time. To achieve this unprecedented level of accuracy, Microsoft Flight Simulator 2024 is powered by the significantly evolved … Continued</summary>
-    <published>2023-06-11T19:18:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/KnackBretzel-Forums-1024x429.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!It’s been another big week for Microsoft Flight Simulator news!Microsoft Flight Simulator 2024 is now available to pre-order on Steam! With pre-orders for Xbox and Windows Store going live … Continued</summary>
     <published>2024-09-26T23:03:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/</id>
+    <title>Join us for the Microsoft Flight Simulator 2024 Technical Alpha in October</title>
+    <updated>2024-10-08T21:00:09+00:00</updated>
+    <link href="https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/ForestLake_MSFS_2024-8947485a18dbf08ea082-1900x1080-1-1024x582.jpg"/>
+    <summary>In October we’re hosting a technical alpha to gather feedback on some of Microsoft Flight Simulator 2024’s new services. Please note the focus of this technical alpha is validating new services in Microsoft Flight Simulator 2024, and the scope of available content will be limited. Because the focus of this technical alpha is services, it … Continued</summary>
+    <published>2024-10-08T21:00:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/top-rated-airport-sale/</id>
@@ -142,15 +142,6 @@
     <published>2024-10-03T23:05:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
-    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
-    <updated>2024-09-19T18:08:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
-    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
-    <published>2024-09-19T18:08:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/september-19th-2024-development-update/</id>
     <title>September 19th, 2024 – Development Update</title>
     <updated>2024-09-19T23:21:33+00:00</updated>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@pommes_l-Twitter-1024x576.jpeg"/>
     <summary>Earlier this week, we launched Aircraft &amp; Avionics Update 3 (AAU3)! This release enhances three aircraft: the Airbus A310-300, Airbus A320neo V2, and Pilatus PC-6 Porter.</summary>
     <published>2024-10-03T23:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/</id>
+    <title>Join us for the Microsoft Flight Simulator 2024 Technical Alpha in October</title>
+    <updated>2024-10-08T21:00:09+00:00</updated>
+    <link href="https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/ForestLake_MSFS_2024-8947485a18dbf08ea082-1900x1080-1-1024x582.jpg"/>
+    <summary>In October we’re hosting a technical alpha to gather feedback on some of Microsoft Flight Simulator 2024’s new services. Please note the focus of this technical alpha is validating new services in Microsoft Flight Simulator 2024, and the scope of available content will be limited. Because the focus of this technical alpha is services, it … Continued</summary>
+    <published>2024-10-08T21:00:09+00:00</published>
   </entry>
 </feed>

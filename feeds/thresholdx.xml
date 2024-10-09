@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-08T18:29:53.245705+00:00</updated>
+  <updated>2024-10-09T18:29:50.338982+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flyt12</id>
-    <title>FlyTampa Updates Toronto Pearson International Airport for MSFS</title>
-    <updated>2024-09-25T00:00:00+00:00</updated>
-    <link href="/news/flyt12"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f3fd39884196601723983c_toronto1.webp"/>
-    <summary>Sim: MSFS20. FlyTampa recently issued a long-awaited update to its Toronto Pearson International Airport (CYYZ) for Microsoft Flight Simulator. The update addresses terrain issues, adds new buildings, and brings full compatibility with World Update 11: Canada. Update 1.2 brings substantial changes to the scenery, among their first products for the â then â new simulator. The complete changelog follows below: The scenery is available on OrbxDirect for roughly $20.03, requiring at least 2.30 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-09-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vfat30</id>
-    <title>VFlyteair Simulations Releases Piper Twin Comanche for MSFS</title>
-    <updated>2024-09-25T00:00:00+00:00</updated>
-    <link href="/news/vfat30"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f4046f8b60d3f790c73e98_twinkie3.webp"/>
-    <summary>Sim: MSFS20. VFlyteair Simulations has recently released their rendition of the Piper Twin Comanche PA-30 for Microsoft Flight Simulator, their first product for the platform after many years of add-on development for X-Plane. The PA-30 Twin Comanche is a twin-engined (as the name suggests) monoplane designed and built by Piper Aircraft, Inc. It is, in a nutshell, a PA-24 with two engines, developed to compete with the Cessna 310 and the Beechcraft Baron. It ultimately replaced the PA-23, also known as the Piper Apache, their former two-engine airplane. The first prototype was converted from the single-engined Comanche (PA-24) by Ed Swearingen, who operated a facility that specialized in modifying production aircraft models. It was given two 160 hp Lycoming IO-320-B1A engines and flew out of San Antonio, Texas, for the first time in 1961. An official prototype was built a year later in Lock Haven, Pennsylvania (where their factory used to be at the time), and the FAAâs approval was given shortly after in 1963, with the first delivery following only a few months later. VFlyteairâs rendition replicates the analog version of the Twin Comanche, with an eventual update to bring glass panel options from their X-Plane 12 version under consideration for the future. The classic version sports a Century IIB autopilot and TDSSim GTN750Xi compatibility (a GTN750Xi and 650Xi stack) for improved situational awareness. According to VFlyteair, the in-sim rendition features an accurately modeled PA-30, using real-world aircraft blueprints and comprehensive photographic reference, with 4K texturing, PBR, detailed normal mapping, a 3D virtual cockpit, wear and tear on texturing, simulated electrical systems, and 26 different liveries from multiple countries. Itâs available on SimMarket for roughly $33.39, requiring at least 910.13 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-09-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rmd11p</id>
-    <title>Rotate Releases MD-11 Passenger for X-Plane 11 &amp; 12</title>
-    <updated>2024-09-25T00:00:00+00:00</updated>
-    <link href="/news/rmd11p"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f43294b290d2cb0c5988cf_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Rotate has just released its highly anticipated passenger configuration of the McDonnell Douglas MD-11 for X-Plane 11 and X-Plane 12. The iconic three-engined passenger aircraft is now available for everyone to take to the virtual skies. The first MD-11 was delivered to Finnair in December of 1990, with the type entering service for the airline later that month. Although the MD-11 resembled the DC-10, it had significant differences. The MD-11 featured updated engines, a larger wingspan, a higher maximum takeoff weight, an elongated fuselage, a glass cockpit, and most importantly, an extended range. The introduction of a glass cockpit eliminated the need for a flight engineer. In total, 200 MD-11 aircraft were built, including passenger, combi, and freighter versions. Rotate's MD-11 Passenger model is an enhanced version of their previous freighter variant. The passenger variant includes a passenger cabin, specific elements in the cockpit, an air panel, synoptic display, evacuation panel, attendant communication panels, and a load manager designed specifically for the passenger variant. According to the developer, the MD-11 offers in-depth system simulation, realistic flight dynamics, and more. The newly released Rotate MD-11 Passenger is available at the X-Plane.Org Store for $83.95. If you own the Rotate MD-11 Freighter, the discounted price will be $34.95. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
-    <published>2024-09-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inijob</id>
-    <title>iniBuilds Announces Johannesburg O.R. Tambo International Airport for MSFS</title>
-    <updated>2024-09-26T00:00:00+00:00</updated>
-    <link href="/news/inijob"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f5620a8a54a6c83b90abdb_jobu1.webp"/>
-    <summary>Sim: MSFS20. iniBuilds has recently announced the development and imminent release of O.R. Tambo International (FAOR) for Microsoft Flight Simulator, serving Johannesburg and Pretoria in South Africa, with a yearly average of 17.8 million passengers. The airportâs history begins in 1943, when the South African government planned to build three international airports, one on the Witwatersrand and two smaller ones in Cape Town and Durban. Four possible sites around Johannesburg were picked, and only two made it through the final scrutiny: Kempton Park and the existing airport at Palmietfontein, Johannesburgâs main airport at the time. They decided on Kempton Park, preceding the expropriation around the area within the same year and kick-starting the construction work, which took roughly eight years and cost the government 8 million pounds.Â  The advent of jet aircraft led to expansion work in the following decades, which included improved airside facilities, extra parking areas, hotels, and more. In the early 1990s, the terminal was expanded, receiving thirteen passenger bridges and modernizing the preexisting infrastructure. By the mid-1990s, it had already overtaken Cairo as the busiest airport in Africa and was within the top five in the Africa-Middle East Region, only behind Dubai, Doha, and Abu Dhabi.Â  Itâs a hub for AirLink, CemAir, FlySafair, LIFT, and South African Airways. Air China, Air France, British Airways, Cathay Pacific, Delta Air Lines, Emirates, KLM, LATAM Brasil, Lufthansa, Qantas, Qatar Airways, Singapore Airlines, Swiss, Turkish, United, and Virgin Airlines also serve it.Â  The scenery promises an accurate rendition of the airport, with custom ground textures, true-to-life landside, custom night lighting, custom jetways, an up-to-date layout, and more. Thereâs no pricing or release date information yet, but Threshold will keep you updated! â</summary>
-    <published>2024-09-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dqas24</id>
     <title>Microsoft September Dev Q&amp;A: The Threshold Recap</title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6703f9e0da59a78affb1afc2_Banner_Image.webp"/>
     <summary>Sim: MSFS20. Aerosoft has recently launched the base pack for its long-awaited Airbus A330 expansion for Microsoft Flight Simulator, which includes the A330-300 PW variant. While some features are not included in the base pack, users can now fly this twin-engine wide-body aircraft. The first variant of the aircraft to fly the skies was the A330-300, which had its maiden flight in 1992. However, the plane did not enter service until 1994 with the airline Air Inter. After the A300, Airbus decided to design a new plane, the A330, as a descendant of the A300. Featuring fly-by-wire technology and a glass cockpit, the plane was very different from the original A300. In 2014, Airbus announced the new A330neo, making the A330 even more efficient. This variant entered service in 2018. As of the summer of 2024, a total of 1,610 A330 aircraft had been built. The plane is still being built and used to this day by airlines all over the world. The A330 CEO Base Pack includes the A330-300 with PW engines, with the RR and GE engine variants to be added later. The A330neo is also in development. The base pack offers various features such as a fully customized cockpit, custom fly-by-wire systems, custom autopilot systems, and more. It's important to note that there are some features not implemented in the base pack. Aerosoft has also confirmed that an update for MSFS 2024 will be provided free of charge. The newly released A330 CEO Base Pack requires 3 GB of storage space and is available at Aerosoft for $27.66. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-10-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fnx403</id>
+    <title>Fenix Simulations Updates A320 Family for MSFS</title>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <link href="/news/fnx403"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/670599b4f21739aca4db9393_1250410_20240307064302_1.webp"/>
+    <summary>Sim: MSFS20. Fenix Simulations recently issued a new update to its A320 family lineup for Microsoft Flight Simulator, which includes performance optimization improvements, new ATSU features, and more. Update 2.2.0.403 features a substantial amount of changes on the systems front, with a new source of GPS ephemeris data, ILS autotune improvements, multiple MCDU fixes and tweaks, the addition of AOC FREE TEXT and AOC ATIS request via VATSIM and IVAO, cargo distribution on loadsheet, along with weight and balance code changes to support sharklets and ACTs in the future. Furthermore, art fixes were rolled out to address a safety card mishap (the A319 and A321 safety cards showed up on the A320), flap rod fixes on the A319 and A320, overhead bin improvements, and more. The EFB has also seen minor improvements, such as better cargo distribution to target an optimal CG setting, better take-off performance figures based on airport elevation, and a bug fix that prevents the EFB from starting blank if it had been in sleep mode during the previous session. The Flight and engine Models had also undergone improvements, with a fully reworked FADEC providing accurate FLX data and wholly mitigating the discrepancy between its assigned trust rating and what was, in fact, displayed. The changes also make it so that the FADEC rating will subtly change during the take-off roll, as the system is continuously computing the appropriate thrust output, thus causing variation on the EPR/N1. IAEs are still going to see further tweaks. â The official changelog for the update follows below: â The A320 Family is available on their website for roughly $104.81. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tol339</id>
+    <title>Toliss Simulations Shares New A330-900 Previews for X-Plane 11 &amp; 12</title>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <link href="/news/tol339"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705a5043a20474ad655bd6c_tol10.webp"/>
+    <summary>Sim: X-Plane. Toliss Simulations recently shared new screenshots of their upcoming Airbus A330-900 for X-Plane 11 and 12, which will be released in 11 days (19/10). The fresh batch of pictures showcases some of the features that will be present in the aircraft, such as the Interactive Simulation Control System directly in the tablet, a new HUD (X-Plane 12 only), the brand new DRAIMS (Digital Radio and Audio Integrating Management System), and the runway overrun protection system. A few external screenshots were also shared a day prior, wearing the Airbus house livery in its full glory during multiple stages of a flight.Â  They have also stated that the beta phase has been well underway and that there are no major roadblocks to report, with the release still scheduled for the original date (19/10).Â  Thereâs no information on pricing yet, but Threshold will keep you informed. â</summary>
+    <published>2024-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kiwhok</id>
+    <title>KiwiFlightSim Releases Hokitika Airport for MSFS</title>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <link href="/news/kiwhok"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705af75ad660cb092e7069b_hok1.webp"/>
+    <summary>Sim: MSFS20. KiwiFlightSim Limited has recently released their rendition of Hokitika Airport (NZHK) for Microsoft Flight Simulator. This uncontrolled aerodrome serves the homonymous city in New Zealand and has a yearly average of 40,000 passengers. The airportâs history dates back to the early days of aviation, with records going as far back as 1923 when Captain Maurice Buckley landed his Avro 504 in Hokitika. This marked a significant milestone for aviation in the region and demonstrated air travelâs potential to connect isolated communities on the West Coast. Eleven years later, Captain Bert Mercer established New Zealandâs first commercial airline â Air Travel NZ Ltd â, operating flights between Hokitika and other settlements in South Westland. Air Travel NZâs route coverage expanded greatly during World War 2, taking passengers to Greymouth, Westport, and Nelson. Its location, though, has changed over the years because of the previous areaâs susceptibility to flooding, leading to the construction of an entirely new airport in 1951. The new aerodrome attracted new airlines, with its first indeed scheduled service starting in 1953 with NAC, flying their DC-3 from Paraparaumu, Nelson, and Westport. Itâs currently served by Air New Zealand, with ATR flights to Christchurch. The scenery features an accurate rendition of the airport, with custom aerial imagery, custom 3D modeling, custom ground service equipment, hand-crafted apron markings, custom night lighting, custom windsocks, and more. â Itâs available on SimMarket for roughly $10.43, requiring at least 1 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pesbia</id>
+    <title>Pilot Experience Sim Releases Biarritz Airport for MSFS</title>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <link href="/news/pesbia"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705b526454d14b3cd29b730_bia1.webp"/>
+    <summary>Sim: MSFS20. Pilot Experience Sim has recently released the second version of its Biarritz Pays Basque Airport (LFBZ) rendition for Microsoft Flight Simulator. The airport serves the homonymous city on the Bay of Biscay and has a yearly average of 970,000 passengers. The airportâs history dates back to 1936 when it was established as an airfield for private aviation, growing along with the demand for air travel in the area, which became exponential after the end of World War 2, leading to significant expansion work. The airport has continued to evolve over the previous decades, with infrastructure improvements, renovation work (the most recent one dating back to a decade ago), and more. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, an up-to-date ground layout, performance-friendly optimization, PBR texturing, custom night lighting, and more. Itâs available on the iniBuilds Store for roughly $16, requiring at least 1 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-08T00:00:00+00:00</published>
   </entry>
 </feed>
