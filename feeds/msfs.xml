@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-10-12T18:27:13.903991+00:00</updated>
+  <updated>2024-10-13T18:27:45.852923+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -88,15 +88,6 @@
     <published>2024-10-08T21:00:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-10/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 10: The Boeing 707-320C</title>
-    <updated>2024-09-24T15:30:16+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-10/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS_B707_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>Microsoft Flight Simulator pilots can now experience one of the most stellar versions of the renowned Boeing 707.</summary>
-    <published>2024-09-24T15:30:16+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/september-26th-2024-development-update/</id>
     <title>September 26th, 2024 – Development Update</title>
     <updated>2024-09-26T23:03:05+00:00</updated>
@@ -142,13 +133,14 @@
     <published>2024-10-10T23:01:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/september-26th-2024-development-update/</id>
-    <title>September 26th, 2024 – Development Update</title>
-    <updated>2024-09-26T23:03:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-26th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/KnackBretzel-Forums-1024x429.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!It’s been another big week for Microsoft Flight Simulator news!Microsoft Flight Simulator 2024 is now available to pre-order on Steam! With pre-orders for Xbox and Windows Store going live … Continued</summary>
-    <published>2024-09-26T23:03:05+00:00</published>
+    <id>https://www.flightsimulator.com/top-rated-aircraft-sale/</id>
+    <title>Top-Rated Aircraft Sale</title>
+    <updated>2024-10-13T17:06:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/top-rated-aircraft-sale/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/October2024_TopAircraftSale_1920x1080-1024x576.jpg"/>
+    <summary>We are excited to announce our Top-Rated Aircraft Sale to celebrate Aircraft with highest ratings on the Marketplace.
+This sale highlights our community’s favorite content and will run from 10am Sunday, October 13th – 10am Sunday October 20th.</summary>
+    <published>2024-10-13T17:06:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/aircraft-avionics-update-3/</id>
@@ -194,5 +186,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@BasedRaccoon-Twitter-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Twitter user @BasedRaccoon! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today we launched Expert Series 1: ATR 42/72-600 Expansion, which features a number of bug fixes and improvements to this popular turboprop. Additionally, this expansion also includes … Continued</summary>
     <published>2024-10-10T23:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/top-rated-aircraft-sale/</id>
+    <title>Top-Rated Aircraft Sale</title>
+    <updated>2024-10-13T17:06:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/top-rated-aircraft-sale/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/October2024_TopAircraftSale_1920x1080-1024x576.jpg"/>
+    <summary>We are excited to announce our Top-Rated Aircraft Sale to celebrate Aircraft with highest ratings on the Marketplace.
+This sale highlights our community’s favorite content and will run from 10am Sunday, October 13th – 10am Sunday October 20th.</summary>
+    <published>2024-10-13T17:06:12+00:00</published>
   </entry>
 </feed>

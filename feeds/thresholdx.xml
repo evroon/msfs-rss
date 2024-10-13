@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-12T18:27:17.382843+00:00</updated>
+  <updated>2024-10-13T18:27:49.429679+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/eje111</id>
-    <title>X-Crafts Releases E-Jets Family Update 1.1.0 for X-Plane 11 &amp; 12</title>
-    <updated>2024-09-27T00:00:00+00:00</updated>
-    <link href="/news/eje111"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f68dba429996de1751e939_eje1.webp"/>
-    <summary>Sim: X-Plane. X-Crafts recently updated their E-Jets Family lineup to version 1.1.0 for X-Plane 11 and 12, adding FMS speed mode, ILS autotune, steep approach capabilities (E170 &amp; 190 only), and over 160 new features, enhancements, and fixes. The update automates many things that were manual in the past, decreasing the required workload to operate the airplanes while also increasing the immersion factor. The speed management, for example, is now fully automatic, thanks to the new FMS Speed feature. The automation also extends to the ILS approach system, with an autotune feature that automatically tunes the correct frequency and handles the transition from LNAV&amp;VNAV to LOC&amp;GS, mimicking the expected real-life behavior. The E170 and 190 will also feature steep approach capability, making it possible to fly it into London City Airport realistically. It is famous for its 5,5-degree glide slope angle and the limited range of aircraft that can fly there. The E175 and E195 lack the certification in real life, therefore not sporting the feature. The displays can now be popped up, moved, and resized for a clearer, more accessible view. Positioning settings are persistent and will carry over on subsequent simulator loads. There are over 160 improvements in total, which follow below in the complete changelog: FMS SPEED ILS AUTOTUNE STEEP APPROACH (Available on the E170 &amp; E190) BRAND NEW POP-UP SCREENS OTHER NEW FEATURES FMS COCKPIT AUTOPILOT AUTOTHROTTLE (X-PLANE 12 ONLY) TAKEOFF AP MODES ENHANCED TO REFLECT REAL SYSTEMS PFD MFD EICAS EFB THRUST RATING SYSTEM ENGINE PERFORMANCE VNAV FLIGHT MODEL (X-Plane 12 only) SYSTEMS ANTI-ICE SYSTEM VR HARDWARE 3D MODEL SOUNDS â Refer to their blog post for further information on the update and its features. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-09-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pngpk3</id>
     <title>Orbx Releases PNG Highland Bush Strips Pack 3 for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67059a49775022bba0214876_fenixupdate3.webp"/>
     <summary>Sim: MSFS20. Fenix Simulations has recently issued a new updateâand a subsequent hotfixâto their Airbus A321, part of their A319/A321 expansion from a few months back. The update replaces the CFM engine option from a CFM56-5B2 to a CFM56-5B3, offering 2000 lbf of extra thrust, making it the most potent CFM variant fitted on any A32X CEO. Besides the new engine, the update also brings a series of EFB fixes and improvements, along with tweaks to the avionics, systems, and flight model to accommodate the new engine option. The complete changelog follows below: â A few hours later, they released a quick hotfix (2.2.0.426) to address an issue with contact points causing the A321âs nose wheel to sink into the ground and a preventive bug fix for low thrust output from the new engines under certain conditions. â The A320 Family is available on their website for roughly $104.81. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lpptv2</id>
+    <title>MK Studios Teases Upcoming Lisbon Airport V2 for MSFS</title>
+    <updated>2024-10-12T00:00:00+00:00</updated>
+    <link href="/news/lpptv2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/670b01271275ed3f0397b111_lppt1.webp"/>
+    <summary>Sim: MSFS20. MK Studios has recently teased their upcoming rendition of Humberto Delgado Airport (LPPT) V2 for Microsoft Flight Simulator, serving the city of Lisbon, in Portugal, with a yearly average of 33.6 million passengers, making it the busiest in the Country. Its history dates back to 1942, when it opened during the height of World War 2 as a neutral airport, smuggling people in and out of Europe, regardless of nationality. Such neutrality made it so it was heavily monitored by both the Axis and Allied forces and even earned it a movie plot. The post-war period saw a fast expansion, reaching the 100,000-passenger mark by 1954. At that point, it was served by Air France, British European Airways, Iberia, KLM, Sabena, Pan Am, and Trans World Airlines.Â  The late 50s/early 60s brought a runway upgrade to accommodate larger aircraft such as the 707 and the DC-8. In 1962, a new 3130-meter-long runway allowed even bigger aircraft, such as the Boeing 747, for Lisbonâs first direct route to New York in the 1970s. A new terminal was built in 2007 for exclusive use by low-cost carriers. It features 22 check-in desks and fifteen departure gates. â Terminal 1 was expanded shortly after, in 2011, with a large new shopping area, new airbridges and parking positions, and a new underground metro station. The airportâs infrastructure was also hugely improved during that period, with new cargo facilities, fuel storage, multiple refurbishments, and more. â In 2019, the government unveiled a new expansion program, which has been widely opposed due to environmental concerns. â Itâs a hub for TAP Air Portugal and an operating base for easyJet and Ryanair. Aer Lingus, Air France, American Airlines, Air Canada, British Airways, Brussels Airlines, Delta Air Lines, Emirates, Iberia, KLM, Latam Airlines, Lufthansa, Qatar Airways, Scandinavian Airlines, Swiss, Turkish, United, and Wizz Air also serve it. â The scenery is set to release in late October (23/10), and thereâs no information on pricing yet. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-12T00:00:00+00:00</published>
   </entry>
 </feed>
