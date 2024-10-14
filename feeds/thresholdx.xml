@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-13T18:27:49.429679+00:00</updated>
+  <updated>2024-10-14T18:29:47.507023+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pngpk3</id>
-    <title>Orbx Releases PNG Highland Bush Strips Pack 3 for MSFS</title>
-    <updated>2024-09-27T00:00:00+00:00</updated>
-    <link href="/news/pngpk3"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f6958c7e1df501c5651ef9_pap1.webp"/>
-    <summary>Sim: MSFS20. Orbx has recently released their third pack of Papua New Guinea Highland Bush Strips, featuring seven new airstrips (Nomane, Kora, Guwasa, Meninga, Herowenaq, Gimi, and Simogu) and 50 new models.Â  Bush airstrips in Papua New Guinea are generally the only gateway to certain remote villages, meaning itâs vital to their existence and the only way to bring supplies in. The weather is often harsh, the runways are often short and hand-carved, and the challenge is unparalleled. The new pack supplements Packs 1 and 2 with seven new destinations, 50 new models, custom runway elevation profiles, custom autogen, and more. Itâs available on OrbxDirect for roughly $13.09, requiring at least 2.68 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-09-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/infaor</id>
     <title>iniBuilds Releases Johannesburg O.R. Tambo International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/670b01271275ed3f0397b111_lppt1.webp"/>
     <summary>Sim: MSFS20. MK Studios has recently teased their upcoming rendition of Humberto Delgado Airport (LPPT) V2 for Microsoft Flight Simulator, serving the city of Lisbon, in Portugal, with a yearly average of 33.6 million passengers, making it the busiest in the Country. Its history dates back to 1942, when it opened during the height of World War 2 as a neutral airport, smuggling people in and out of Europe, regardless of nationality. Such neutrality made it so it was heavily monitored by both the Axis and Allied forces and even earned it a movie plot. The post-war period saw a fast expansion, reaching the 100,000-passenger mark by 1954. At that point, it was served by Air France, British European Airways, Iberia, KLM, Sabena, Pan Am, and Trans World Airlines.Â  The late 50s/early 60s brought a runway upgrade to accommodate larger aircraft such as the 707 and the DC-8. In 1962, a new 3130-meter-long runway allowed even bigger aircraft, such as the Boeing 747, for Lisbonâs first direct route to New York in the 1970s. A new terminal was built in 2007 for exclusive use by low-cost carriers. It features 22 check-in desks and fifteen departure gates. â Terminal 1 was expanded shortly after, in 2011, with a large new shopping area, new airbridges and parking positions, and a new underground metro station. The airportâs infrastructure was also hugely improved during that period, with new cargo facilities, fuel storage, multiple refurbishments, and more. â In 2019, the government unveiled a new expansion program, which has been widely opposed due to environmental concerns. â Itâs a hub for TAP Air Portugal and an operating base for easyJet and Ryanair. Aer Lingus, Air France, American Airlines, Air Canada, British Airways, Brussels Airlines, Delta Air Lines, Emirates, Iberia, KLM, Latam Airlines, Lufthansa, Qatar Airways, Scandinavian Airlines, Swiss, Turkish, United, and Wizz Air also serve it. â The scenery is set to release in late October (23/10), and thereâs no information on pricing yet. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-10-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/if73mp</id>
+    <title>iFly Releases 737 MAX8 for MSFS in Pre-Release</title>
+    <updated>2024-10-14T00:00:00+00:00</updated>
+    <link href="/news/if73mp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/670d2eb0b1defa971db61422_PIC08.jpg"/>
+    <summary>Sim: MSFS20. In an announcement on their Discord, developers at Flight One Software have made the pre-release version of the hotly anticipated iFly Boeing 737 MAX8 for Microsoft Flight Simulator 2020 available for purchase. The Boeing 737 MAX is Boeingâs newest narrow-body airliner series, developed in the 2000s and 2010s to replace the ageing 737 NG series. It features a redesigned fuselage, all-new winglets, and more efficient CFM LEAP-1B engines. It first flew in January 2016 and entered service in May 2017. In 2024, it is in service with 76 airlines across three variants. The 737 MAX is notable for the many technical problems that have plagued the aircraft.  In their announcement, Flight One Software said that this initial release is part of a âpre-releaseâ rollout to âstart testing purchasing through the iFly Managerâ. According to Flight One, the iFly 737 MAX8 will include many features, including comprehensive systems, detailed 3D modelling, accurate sounds created by BorisAudioWorks, functioning cabin systems, and even a lavatory that flushes, something never seen before for any addon of its kind in MSFS.  The developers say that more information about the plane will be âposted laterâ but donât specify an exact timeline. The aircraft is available for purchase at the Flight One Manager for $69.95 for new customers, but customers who have purchased the Prepar3D V5 version get a 40% discount, bringing the cost to $41.97, excluding local taxes. Support will be available via their Discord.  Flight One Software has not announced a date for the full release, but Threshold will keep you informed, so stay tuned for that and more high-quality flight simulation news and reviews!</summary>
+    <published>2024-10-14T00:00:00+00:00</published>
   </entry>
 </feed>
