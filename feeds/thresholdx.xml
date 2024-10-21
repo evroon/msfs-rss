@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-20T18:28:35.985336+00:00</updated>
+  <updated>2024-10-21T18:30:13.511584+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbgca</id>
-    <title>Orbx Previews Landmarks Gold Coast for MSFS</title>
-    <updated>2024-09-29T00:00:00+00:00</updated>
-    <link href="/news/orbgca"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66f9aa0bd8e37252ab50a2e6_11957-7ae170849d12b7159d37c7ee3cff89e3.webp"/>
-    <summary>Sim: MSFS20. Orbx have announced another product from the âLandmarkâ line - Landmarks Gold Coast. Joining the likes of Cape Town, Dubai, Singapore, London, Paris and such, the Gold Coast will be the 16th city to get its rendition developed for FS20 by Orbx. Gold Coast is Queenslandâs second-largest city with a population of over 640,00 and is known as one of Australiaâs best tourist destinations, the Gold Coast is famous for its long sandy beaches, surfing, and vibrant nightlife. Orbxâs rendition of âGoldyâ features over 40 custom buildings, animated boats along the coast, animated roller coasters, and the Gold Coast University Hospital with a helipad. The full feature list is as follows: No information about the pricing or the release date has been released. However, as always, Threshold will keep you updated! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-09-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sfo120</id>
     <title>Flightbeam Studios Updates San Francisco International Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67142bc21a3582be41760263_toliss.jpg"/>
     <summary>Sim: X-Plane. Toliss Simulations has recently released their rendition of the Airbus A330-900 for X-Plane 11 and 12, bringing the popular new widebody to the simulation realm with a vast feature list. The A330-900 is the largest widebody in the A330neo family. It retains the fuselage length of the A330-300 while offering unparalleled fuel efficiency and range. It also yields the lowest seat-mile costs among midsize widebody aircraft.Â  Tolissâ rendition includes a list of A330-900 specific features, such as the HUD (X-Plane 12 only), DRAIMS (Digital Radio and Audio Integrating Management System), ATSAW (Airborne Traffic Situational Awareness), ROW/ROPS (Runway Overrun Warning and Runway Overrun Prevention System), and TOS (takeoff surveillance). Their ISCS is now built into the EFB. It also includes a detailed Flight Management Guidance System with three independent MCDUs, two independent autopilots, SID/STAR and airways support, full VNAV guidance, altitude and speed constraints, equitime point computation, and more. Furthermore, it also sports a full-fledged fly-by-wire system with reversion between normal law, alternate law one and two, and direct law. The full feature list follows below: Detailed FMGS: Accurate systems: 3d modelling Usability features â Itâs available on X-Plane.Orgâs Store for $89.99, requiring at least 1.2 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â â</summary>
     <published>2024-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksdev</id>
+    <title>MK Studios Publishes Development Update for MSFS</title>
+    <updated>2024-10-21T00:00:00+00:00</updated>
+    <link href="/news/mksdev"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6715bb521f2e2d594da2efab_zurich1.webp"/>
+    <summary>Sim: MSFS20. MK Studios announced in their Discord server their plans for the remainder of 2024 and beyond, including a new airport on the North American West Coast (yet to be revealed) and two big airports in Europe.Â  Their upcoming Lisbon Airport V2 is still set to release on Wednesday (23/10), and the pricing is now known: roughly $18.46 (tax excluded). Owners of the previous version will get a 25% discount. V2 owners will be eligible for a free Microsoft Flight Simulator 2024 upgrade. Still on that Microsoft Flight Simulator 2024 note, all of their products released in 2024 will receive free upgrades, whereas older products will still demand further investigation as they were developed using different techniques which might impact performance negatively, and it may require the redevelopment of the ground poly and LODs. While the 2020 versions might work fine in 2024 without an upgrade patch, it wonât be officially supported and may induce issues. â They have also announced two new European airports: Zurich Airport (LSZH) and DÃ¼sseldorf Airport (EDDL), which will be released in 2024 and Q1 2025, respectively. They also plan to update La Guardia (KLGA) once terminal C is fully finished and develop a new airport âon the top of the West Coast.â â Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-21T00:00:00+00:00</published>
   </entry>
 </feed>
