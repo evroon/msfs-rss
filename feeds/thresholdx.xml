@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-22T18:30:02.080897+00:00</updated>
+  <updated>2024-10-23T18:29:48.203413+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfo120</id>
-    <title>Flightbeam Studios Updates San Francisco International Airport for MSFS</title>
-    <updated>2024-10-01T00:00:00+00:00</updated>
-    <link href="/news/sfo120"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66fc3f1c001ed29d56ddcabc_fran1.webp"/>
-    <summary>Sim: MSFS20. Flightbeam Studios recently issued a new update to their rendition of San Francisco International Airport (KSFO) for Microsoft Flight Simulator, which includes performance enhancements, bug fixes, extra customizability, and more. Update 1.2âthe second update since its release in mid-2024âbrings new custom taxi lights, which do not rely on the SDK to create their glow and appearance. They are tailored to their preferences to match their real-world counterparts and meticulously hand-placed throughout the airport. It also introduces an accurate representation of the ILS antennas used at SFO.Â  The update also allows you to remove ground clutter partially or entirely (so you donât get tangled with GSX stuff). The developers note that this will not improve performance much as itâs already extensively optimized as is (with the clutter enabled). Night lighting is said to have undergone improvements, with improved visibility and effects at close range. Geographic position markings were added to help with low visibility procedures, matching the real-life counterpart. The complete changelog for the update follows below: The scenery is available on Contrail for roughly $21, requiring at least 2.58 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/p42737</id>
     <title>Parallel 42 Releases 737 Immersion Pack for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6715bb521f2e2d594da2efab_zurich1.webp"/>
     <summary>Sim: MSFS20. MK Studios announced in their Discord server their plans for the remainder of 2024 and beyond, including a new airport on the North American West Coast (yet to be revealed) and two big airports in Europe.Â  Their upcoming Lisbon Airport V2 is still set to release on Wednesday (23/10), and the pricing is now known: roughly $18.46 (tax excluded). Owners of the previous version will get a 25% discount. V2 owners will be eligible for a free Microsoft Flight Simulator 2024 upgrade. Still on that Microsoft Flight Simulator 2024 note, all of their products released in 2024 will receive free upgrades, whereas older products will still demand further investigation as they were developed using different techniques which might impact performance negatively, and it may require the redevelopment of the ground poly and LODs. While the 2020 versions might work fine in 2024 without an upgrade patch, it wonât be officially supported and may induce issues. â They have also announced two new European airports: Zurich Airport (LSZH) and DÃ¼sseldorf Airport (EDDL), which will be released in 2024 and Q1 2025, respectively. They also plan to update La Guardia (KLGA) once terminal C is fully finished and develop a new airport âon the top of the West Coast.â â Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-10-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lisbon</id>
+    <title>MK Studios Releases Lisbon Airport V2 for MSFS</title>
+    <updated>2024-10-23T00:00:00+00:00</updated>
+    <link href="/news/lisbon"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67193e1b1e00562091dba77c_lisbon1.webp"/>
+    <summary>Sim: MSFS20. MK Studios recently released their revamped rendition of Humberto Delgado Airport (LPPT) for Microsoft Flight Simulator. The airport serves the city of Lisbon, Portugal, and has a yearly average of 33.6 million passengers, making it the busiest in the Country. Its history dates back to 1942, when it opened during the height of World War 2 as a neutral airport, smuggling people in and out of Europe, regardless of nationality. Such neutrality made it so it was heavily monitored by both the Axis and Allied forces and even earned it a movie plot. The post-war period saw a fast expansion, reaching the 100,000-passenger mark by 1954. At that point, it was served by Air France, British European Airways, Iberia, KLM, Sabena, Pan Am, and Trans World Airlines. The late 50s/early 60s brought a runway upgrade to accommodate larger aircraft such as the 707 and the DC-8. In 1962, a new 3130-meter-long runway allowed even bigger aircraft, such as the Boeing 747, for Lisbonâs first direct route to New York in the 1970s. A new terminal was built in 2007 for exclusive use by low-cost carriers. It features 22 check-in desks and fifteen departure gates. Terminal 1 was expanded shortly after, in 2011, with a large new shopping area, new airbridges and parking positions, and a new underground metro station. The airportâs infrastructure was also hugely improved during that period, with new cargo facilities, fuel storage, multiple refurbishments, and more. In 2019, the government unveiled a new expansion program, which has been widely opposed due to environmental concerns. Itâs a hub for TAP Air Portugal and an operating base for easyJet and Ryanair. Aer Lingus, Air France, American Airlines, Air Canada, British Airways, Brussels Airlines, Delta Air Lines, Emirates, Iberia, KLM, Latam Airlines, Lufthansa, Qatar Airways, Scandinavian Airlines, Swiss, Turkish, United, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life runway elevation profile data, custom jetways, custom vehicle models, PBR textures, an up-to-date ground layout, and more. Itâs available on Contrail and OrbxDirect for roughly $18.30, requiring at least 2.55 GB of free hard disk space to install. V1 owners are eligible for a 25% upgrade discount. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-10-23T00:00:00+00:00</published>
   </entry>
 </feed>
