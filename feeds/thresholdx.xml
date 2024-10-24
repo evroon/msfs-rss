@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-23T18:29:48.203413+00:00</updated>
+  <updated>2024-10-24T18:30:10.451665+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/p42737</id>
-    <title>Parallel 42 Releases 737 Immersion Pack for MSFS</title>
-    <updated>2024-10-01T00:00:00+00:00</updated>
-    <link href="/news/p42737"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66fc431a38d07bc6e9bb4a63_737im1.webp"/>
-    <summary>Sim: MSFS20. Parallel 42 recently released their 737 Immersion package for Microsoft Flight Simulatorâpart of their SimFX add-onâaiming to improve the overall realism of the effects for the PMDG 737 family with condensation, realistic chemtrails, brake smoke, and more. Built on the SimFx framework, it offers the best combination of effects and customizability via the SimFx interface. For the unaware, Parallel 42's SimFX is a visual effects utility covering a range of immersive scenarios. Environmental variables and formulas authentically govern every particle on the screen, and dynamic effects appear under the right conditions, creating unique moments in the virtual skies. The effects include contrails, heat blurs, wing wash, rotor wash, and more. Their immersion package for the 737 builds on SimFx's already extensive offerings, bringing nineteen custom effects for the 737 family (600,700,800 and 900), including swirling contrails, condensation effects, wastewater draining every hour, engine cold start effects, fuel jettison, cloud illumination, hot brake smoke, St. Elmo's fire, carbon brake dust, and water droplets.Â  It's available on Contrail and OrbxDirect for roughly $15.00. The add-on requires a SimFX copy to work. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777049</id>
     <title>PMDG Updates 777-300ER for MSFS </title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67193e1b1e00562091dba77c_lisbon1.webp"/>
     <summary>Sim: MSFS20. MK Studios recently released their revamped rendition of Humberto Delgado Airport (LPPT) for Microsoft Flight Simulator. The airport serves the city of Lisbon, Portugal, and has a yearly average of 33.6 million passengers, making it the busiest in the Country. Its history dates back to 1942, when it opened during the height of World War 2 as a neutral airport, smuggling people in and out of Europe, regardless of nationality. Such neutrality made it so it was heavily monitored by both the Axis and Allied forces and even earned it a movie plot. The post-war period saw a fast expansion, reaching the 100,000-passenger mark by 1954. At that point, it was served by Air France, British European Airways, Iberia, KLM, Sabena, Pan Am, and Trans World Airlines. The late 50s/early 60s brought a runway upgrade to accommodate larger aircraft such as the 707 and the DC-8. In 1962, a new 3130-meter-long runway allowed even bigger aircraft, such as the Boeing 747, for Lisbonâs first direct route to New York in the 1970s. A new terminal was built in 2007 for exclusive use by low-cost carriers. It features 22 check-in desks and fifteen departure gates. Terminal 1 was expanded shortly after, in 2011, with a large new shopping area, new airbridges and parking positions, and a new underground metro station. The airportâs infrastructure was also hugely improved during that period, with new cargo facilities, fuel storage, multiple refurbishments, and more. In 2019, the government unveiled a new expansion program, which has been widely opposed due to environmental concerns. Itâs a hub for TAP Air Portugal and an operating base for easyJet and Ryanair. Aer Lingus, Air France, American Airlines, Air Canada, British Airways, Brussels Airlines, Delta Air Lines, Emirates, Iberia, KLM, Latam Airlines, Lufthansa, Qatar Airways, Scandinavian Airlines, Swiss, Turkish, United, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life runway elevation profile data, custom jetways, custom vehicle models, PBR textures, an up-to-date ground layout, and more. Itâs available on Contrail and OrbxDirect for roughly $18.30, requiring at least 2.55 GB of free hard disk space to install. V1 owners are eligible for a 25% upgrade discount. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-10-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bmaadd</id>
+    <title>Barelli MSFS Addon Releases Addis Ababa Bole International Airport for MSFS</title>
+    <updated>2024-10-24T00:00:00+00:00</updated>
+    <link href="/news/bmaadd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/671a86267f4a10bd5e99c6cf_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. Barelli MSFS Addon has just released its version of Addis Ababa Bole International Airport (HAAB) for Microsoft Flight Simulator. This airport serves Ethiopia's capital, Addis Ababa, and welcomes over 11 million passengers annually. It is a vital hub with destinations all around the globe. Addis Ababa Bole International Airport opened in 1962, replacing the older Lideta Airport. Over the years, the airport has undergone numerous upgrades, including the addition of a secondary runway, an expansion of the original runway, a new terminal, and a new control tower, among other enhancements. Today, the airport serves over 11 million passengers annually and offers flights to various destinations. It acts as a hub for Ethiopian Airlines, and in conjunction with several other airlines, passengers can travel to locations such as Dubai, Tokyo, New York, and Paris. The newly released scenery package features detailed models, an updated taxiway, accurate taxiway signs, proper terrain elevation, dynamic lighting, custom jetways, and more. The add-on requires 1.02 GB of storage space and is available on SimMarket for approximately $17.25. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-10-24T00:00:00+00:00</published>
   </entry>
 </feed>
