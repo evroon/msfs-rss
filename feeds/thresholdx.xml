@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-24T18:30:10.451665+00:00</updated>
+  <updated>2024-10-25T18:29:53.912566+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777049</id>
-    <title>PMDG Updates 777-300ER for MSFS </title>
-    <updated>2024-10-03T00:00:00+00:00</updated>
-    <link href="/news/777049"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/660b6a529653d007ea9eda3d_777new.webp"/>
-    <summary>Sim: MSFS20. PMDG recently issued a new update to their Boeing 777-300ER for Microsoft Flight Simulator, bringing a series of visual and efficiency improvements to their latest airliner and a slight bit of information about their upcoming 777F. Update 2.00.0049 brings a substantial list of changes ranging from external model tweaks to sounds, EFB, and even LNAV tweaks. The complete changelog follows below: Randazzo has also taken a moment to explain why things have been so "slow" as of late with updates, with the culprit being a software reload on their deployment machine whose storage device had failed, taking the SDK to a slightly newer version that had a flaw with the memory allocation process, introducing memory corruption, and thus, instability. After weeks of research, tests, and failures, they managed to narrow down the issue, and the correction was as simple as rolling back to the previous version of the SDK, which fixed it. Narrowing down the problem, though, took them six weeks. They have also provided some information on the upcoming 777F, which entered beta last week. The plane's gameplay items are still not quite up to their standards, so they anticipate a few more beta builds before it's truly ready to leave the oven. The anticipated release date is around the end of October. PMDG has not said anything yet about the new simulator, but they plan to address the subject later today in a separate forum thread. The 777-300ER is available on their website and in the Marketplace for $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ran777</id>
     <title>PMDG Publishes New Development Update for MSFS 2020 and Beyond</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/671a86267f4a10bd5e99c6cf_Banner_Image.webp"/>
     <summary>Sim: MSFS20. Barelli MSFS Addon has just released its version of Addis Ababa Bole International Airport (HAAB) for Microsoft Flight Simulator. This airport serves Ethiopia's capital, Addis Ababa, and welcomes over 11 million passengers annually. It is a vital hub with destinations all around the globe. Addis Ababa Bole International Airport opened in 1962, replacing the older Lideta Airport. Over the years, the airport has undergone numerous upgrades, including the addition of a secondary runway, an expansion of the original runway, a new terminal, and a new control tower, among other enhancements. Today, the airport serves over 11 million passengers annually and offers flights to various destinations. It acts as a hub for Ethiopian Airlines, and in conjunction with several other airlines, passengers can travel to locations such as Dubai, Tokyo, New York, and Paris. The newly released scenery package features detailed models, an updated taxiway, accurate taxiway signs, proper terrain elevation, dynamic lighting, custom jetways, and more. The add-on requires 1.02 GB of storage space and is available on SimMarket for approximately $17.25. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-10-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/737105</id>
+    <title>PMDG Updates 737 Lineup for MSFS</title>
+    <updated>2024-10-25T00:00:00+00:00</updated>
+    <link href="/news/737105"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/671af5efc02bc4c34240722d_1250410_20240218194937_1.webp"/>
+    <summary>Sim: MSFS20. PMDG recently issued a major update to their Boeing 737 lineup for Microsoft Flight Simulator, bringing the new navigation database format from the 777, additional Ultimate Flight Tablet features, and a reworked flight model.Â  Update v3.00.0105 is claimed to be the most significant update since the first 737 variant was released two and a half years ago, representing PMDGâs âcontinuous commitment to provide new features and value to their Microsoft Flight Simulator customers on both PC and Xboxâ. With a backport of multiple features from their recently released 777-300ER, the 737 lineup will now match some of its niceties such as the new navdata format, ground crew commands, navdata updates, and more via the Ultimate Flight Tablet, along with flight model tweaks and autoflight control logic improvements. The complete changelog and feature list are below: The developers recommend updating their Operations Center before updating the aircraft, or it may not apply the update correctly. The official instructions are below: The 737 lineup is available on PMDG.com and in the Marketplace, with prices ranging from $34.99 to $69.99 (variant-dependent).Â â Stay tuned to Threshold for more flight simulation news!</summary>
+    <published>2024-10-25T00:00:00+00:00</published>
   </entry>
 </feed>

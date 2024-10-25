@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-10-24T18:30:05.866331+00:00</updated>
+  <updated>2024-10-25T18:29:49.995899+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -88,15 +88,6 @@
     <published>2024-10-08T21:00:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/aircraft-avionics-update-3/</id>
-    <title>Aircraft &amp; Avionics Update 3 Now Available</title>
-    <updated>2024-10-01T15:10:28+00:00</updated>
-    <link href="https://www.flightsimulator.com/aircraft-avionics-update-3/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2022/06/A310-300-1024x576.jpg"/>
-    <summary>Aircraft and Avionics Update 3 is now available as a free download for all Microsoft Flight Simulator (2020) players! This update enhances three aircraft, the Airbus A320neo V2, Airbus A310-33, and Pilatus PC-6 Porter.If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior. … Continued</summary>
-    <published>2024-10-01T15:10:28+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/october-3rd-2024-development-update/</id>
     <title>October 3rd, 2024 – Development Update</title>
     <updated>2024-10-03T23:05:13+00:00</updated>
@@ -143,13 +134,13 @@ This sale highlights our community’s favorite content and will run from 10am S
     <published>2024-10-17T22:44:53+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-3rd-2024-development-update/</id>
-    <title>October 3rd, 2024 – Development Update</title>
-    <updated>2024-10-03T23:05:13+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-3rd-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@pommes_l-Twitter-1024x576.jpeg"/>
-    <summary>Earlier this week, we launched Aircraft &amp; Avionics Update 3 (AAU3)! This release enhances three aircraft: the Airbus A310-300, Airbus A320neo V2, and Pilatus PC-6 Porter.</summary>
-    <published>2024-10-03T23:05:13+00:00</published>
+    <id>https://www.flightsimulator.com/october-24th-2024-development-update/</id>
+    <title>October 24th, 2024 – Development Update</title>
+    <updated>2024-10-24T23:23:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-24th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/JohnStarp-Forums-3-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user JohnStarp! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released an update to Expert Series 01: ATR 42-600/72-600. This update is available to download via the in-sim Content Manager, and you can read the … Continued</summary>
+    <published>2024-10-24T23:23:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/</id>
@@ -196,5 +187,14 @@ This sale highlights our community’s favorite content and will run from 10am S
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/HolmesCZ6127-Forums-2-1024x424.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!From October 11-14, we ran the Microsoft Flight Simulator 2024 Technical Alpha Test. The purpose of this test was to gather automatic telemetry data related to several online services … Continued</summary>
     <published>2024-10-17T22:44:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-24th-2024-development-update/</id>
+    <title>October 24th, 2024 – Development Update</title>
+    <updated>2024-10-24T23:23:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-24th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/JohnStarp-Forums-3-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user JohnStarp! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released an update to Expert Series 01: ATR 42-600/72-600. This update is available to download via the in-sim Content Manager, and you can read the … Continued</summary>
+    <published>2024-10-24T23:23:02+00:00</published>
   </entry>
 </feed>
