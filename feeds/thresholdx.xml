@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-29T18:30:37.040693+00:00</updated>
+  <updated>2024-10-30T18:30:44.901971+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tol339</id>
-    <title>Toliss Simulations Shares New A330-900 Previews for X-Plane 11 &amp; 12</title>
-    <updated>2024-10-08T00:00:00+00:00</updated>
-    <link href="/news/tol339"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705a5043a20474ad655bd6c_tol10.webp"/>
-    <summary>Sim: X-Plane. Toliss Simulations recently shared new screenshots of their upcoming Airbus A330-900 for X-Plane 11 and 12, which will be released in 11 days (19/10). The fresh batch of pictures showcases some of the features that will be present in the aircraft, such as the Interactive Simulation Control System directly in the tablet, a new HUD (X-Plane 12 only), the brand new DRAIMS (Digital Radio and Audio Integrating Management System), and the runway overrun protection system. A few external screenshots were also shared a day prior, wearing the Airbus house livery in its full glory during multiple stages of a flight.Â  They have also stated that the beta phase has been well underway and that there are no major roadblocks to report, with the release still scheduled for the original date (19/10).Â  Thereâs no information on pricing yet, but Threshold will keep you informed. â</summary>
-    <published>2024-10-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kiwhok</id>
     <title>KiwiFlightSim Releases Hokitika Airport for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/671eb170ec4e2455388d558d_Banner_Image.webp"/>
     <summary>Sim: MSFS20. SoFly has recently released its rendition of Ohrid St. Paul the Apostle Airport (LWOH) for Microsoft Flight Simulator. Located 5.6 miles from the city, this airport serves Ohrid, a city in North Macedonia. It accommodates over 250.000 passengers each year. Over the years, the airport has undergone several upgrades. In 2004, the runway was reconstructed and equipped with a new lighting system. In 2008, the airport was taken over by Tepe Akfen Ventures (TAV), which signed a contract to manage both Skopje and Ohrid airports. Currently, the airport can accommodate a total of nine aircraft on the apron at the same time. Its terminal is designed to handle up to 400.000 passengers annually. A variety of airlines operate seasonally at the airport, with year-round flights provided by companies such as Chair Airlines and Wizz Air to destinations including Zurich, Dortmund, Memmingen, and Vienna. The newly released Ohrid St. Paul the Apostle Airport add-on for Microsoft Flight Simulator includes various features such as realistic buildings, aprons, taxiways, parking areas, hangars, detailed interiors, dynamic snow, and more. The add-on requires 956.05 MB of storage space and is available on SimMarket for approximately $11.87. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nanaac</id>
+    <title>Navigraph Announces Navigraph Academy</title>
+    <updated>2024-10-29T00:00:00+00:00</updated>
+    <link href="/news/nanaac"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672132cda31812684ddf739e_Banner_Image.webp"/>
+    <summary>Sim: OTHER. Navigraph has recently announced Navigraph Academy, a new platform designed to enhance your aviation skills and knowledge. This platform will offer courses suitable for everyone, whether you are just starting out or already immersed in the virtual world of aviation. The new courses are designed to provide an in-depth understanding of how aircraft function and behave. You'll learn the basics to establish a solid foundation in aircraft operations, with the goal of becoming proficient in manoeuvring an aircraft in the simulator. With Andy, Jason, and Martin on the team, you can expect dedicated support to enhance your skills. The Navigraph Academy is scheduled for 2025. We will inform you when more details are available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-10-29T00:00:00+00:00</published>
   </entry>
 </feed>
