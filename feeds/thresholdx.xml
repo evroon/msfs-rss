@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-10-30T18:30:44.901971+00:00</updated>
+  <updated>2024-10-31T18:30:15.744998+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kiwhok</id>
-    <title>KiwiFlightSim Releases Hokitika Airport for MSFS</title>
-    <updated>2024-10-08T00:00:00+00:00</updated>
-    <link href="/news/kiwhok"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705af75ad660cb092e7069b_hok1.webp"/>
-    <summary>Sim: MSFS20. KiwiFlightSim Limited has recently released their rendition of Hokitika Airport (NZHK) for Microsoft Flight Simulator. This uncontrolled aerodrome serves the homonymous city in New Zealand and has a yearly average of 40,000 passengers. The airportâs history dates back to the early days of aviation, with records going as far back as 1923 when Captain Maurice Buckley landed his Avro 504 in Hokitika. This marked a significant milestone for aviation in the region and demonstrated air travelâs potential to connect isolated communities on the West Coast. Eleven years later, Captain Bert Mercer established New Zealandâs first commercial airline â Air Travel NZ Ltd â, operating flights between Hokitika and other settlements in South Westland. Air Travel NZâs route coverage expanded greatly during World War 2, taking passengers to Greymouth, Westport, and Nelson. Its location, though, has changed over the years because of the previous areaâs susceptibility to flooding, leading to the construction of an entirely new airport in 1951. The new aerodrome attracted new airlines, with its first indeed scheduled service starting in 1953 with NAC, flying their DC-3 from Paraparaumu, Nelson, and Westport. Itâs currently served by Air New Zealand, with ATR flights to Christchurch. The scenery features an accurate rendition of the airport, with custom aerial imagery, custom 3D modeling, custom ground service equipment, hand-crafted apron markings, custom night lighting, custom windsocks, and more. â Itâs available on SimMarket for roughly $10.43, requiring at least 1 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pesbia</id>
-    <title>Pilot Experience Sim Releases Biarritz Airport for MSFS</title>
-    <updated>2024-10-08T00:00:00+00:00</updated>
-    <link href="/news/pesbia"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6705b526454d14b3cd29b730_bia1.webp"/>
-    <summary>Sim: MSFS20. Pilot Experience Sim has recently released the second version of its Biarritz Pays Basque Airport (LFBZ) rendition for Microsoft Flight Simulator. The airport serves the homonymous city on the Bay of Biscay and has a yearly average of 970,000 passengers. The airportâs history dates back to 1936 when it was established as an airfield for private aviation, growing along with the demand for air travel in the area, which became exponential after the end of World War 2, leading to significant expansion work. The airport has continued to evolve over the previous decades, with infrastructure improvements, renovation work (the most recent one dating back to a decade ago), and more. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, an up-to-date ground layout, performance-friendly optimization, PBR texturing, custom night lighting, and more. Itâs available on the iniBuilds Store for roughly $16, requiring at least 1 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/321426</id>
-    <title>Fenix Simulations Updates A320 Family for MSFS</title>
-    <updated>2024-10-10T00:00:00+00:00</updated>
-    <link href="/news/321426"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67059a49775022bba0214876_fenixupdate3.webp"/>
-    <summary>Sim: MSFS20. Fenix Simulations has recently issued a new updateâand a subsequent hotfixâto their Airbus A321, part of their A319/A321 expansion from a few months back. The update replaces the CFM engine option from a CFM56-5B2 to a CFM56-5B3, offering 2000 lbf of extra thrust, making it the most potent CFM variant fitted on any A32X CEO. Besides the new engine, the update also brings a series of EFB fixes and improvements, along with tweaks to the avionics, systems, and flight model to accommodate the new engine option. The complete changelog follows below: â A few hours later, they released a quick hotfix (2.2.0.426) to address an issue with contact points causing the A321âs nose wheel to sink into the ground and a preventive bug fix for low thrust output from the new engines under certain conditions. â The A320 Family is available on their website for roughly $104.81. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lpptv2</id>
     <title>MK Studios Teases Upcoming Lisbon Airport V2 for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672132cda31812684ddf739e_Banner_Image.webp"/>
     <summary>Sim: OTHER. Navigraph has recently announced Navigraph Academy, a new platform designed to enhance your aviation skills and knowledge. This platform will offer courses suitable for everyone, whether you are just starting out or already immersed in the virtual world of aviation. The new courses are designed to provide an in-depth understanding of how aircraft function and behave. You'll learn the basics to establish a solid foundation in aircraft operations, with the goal of becoming proficient in manoeuvring an aircraft in the simulator. With Andy, Jason, and Martin on the team, you can expect dedicated support to enhance your skills. The Navigraph Academy is scheduled for 2025. We will inform you when more details are available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oxfs24</id>
+    <title>Orbx Releases an Update on FS2024 Product Compatibility</title>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <link href="/news/oxfs24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67227fc503596d64b591900b_Header2.png.80d4236c4db10cdc5155de38183ae3b1.webp"/>
+    <summary>Sim: FS24. As the Microsoft Flight Simulator 2024 release is scheduled to be in a little less than 21 days, Orbx has released a statement on the compatibility of their products with the upcoming simulator.Â  Even though existing FS20 addons should work out-of-the-box in FS24, the new simulator will bring loads of new features that many developers may want to utilise. One of them is Orbx. In the forum post, they stated that the product transition will be smooth, but will take some time. The most recent and popular sceneries will be the priority during the transition. â Another detail that was mentioned in the statement was the upgrade fee. In case the product update will take some advantages of the FS24, the customers may expect a small upgrade fee.Â  â As always, Threshold will keep you updated with all new information about FS2024! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/h8kcab</id>
+    <title>Hangar Studios 713 Releases Super Decathlon 8KCAB for MSFS</title>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <link href="/news/h8kcab"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6722921a08695077ddbdd620_670c9b225add7.webp"/>
+    <summary>Sim: MSFS20. Hangar Studios 713 has released previews of their upcoming aircraft for MSFS - Super Decathlon 8KCAB. Designed for flight training, this two-seat taildragger is capable of withstanding G-forces between +6G and -5G. Â Designed by the Champion Aircraft Corporation, the 8KCAB was based on the Citabria, another aircraft designed by the same manufacturer, although with higher resistance to the negative G forces, allowing it to perform more acrobatic manoeuvres. Powered by a single Lycoming IO-320, it can cruise at altitudes up to 15,800ft, with a cruise speed of around 125kts and a maximum range of around 420nmi. Hangar Studios 713âs rendition of Super Decathlon features an authentic flight model, detailed 3D texturing and modelling, a smoke system for airshows, and interactive elements such as a modelled engine and animated doors and windows. â The Super Decathlon 8KCAB is available for purchase at Hangar Studios 713 website, as well as Orbx Direct for roughly 19,99 $. â Stay tuned to Threshold fore more flight sim news and reviews! â</summary>
+    <published>2024-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ediraq</id>
+    <title>DCS Iraq Map Available for Pre-purchase</title>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <link href="/news/ediraq"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67229e95f2ee5ca8719d29c6_Screenshot%202024-10-30%20214806.webp"/>
+    <summary>Sim: DCS. Eagle Dynamics has just released another Middle-eastern map for pre-ordering: Iraq. One of the most important parts of the world for air combat in the 20th and 21st centuries finally received its own map. It will cover more than 1,820,000kmÂ² Three versions of this map are available for purchase: Iraq, Iraq North and Iraq South.Â  The map division is the same as with the previous maps, such as Afghanistan. For example, if one buys Iraq North, they will receive the whole map, however, only the northern part of the map (the blue area in the picture) will be of higher detail. The same can be applied to to Iraq South map. The full version of the map will include more detailed areas of both the North and South(green and blue areas), while the rest will be of lower detail. The Iraq North map will cover more than 321,700kmÂ² of the detail area with 17 highly detailed airfields, some of them being: Baghdad Intlâ, Erbil Intlâ, Sulayimaniyah Intlâ, Kirkuk Intlâ, K1 Base, H2/3 Base, Mosul and other. It will cover mostly the territory of Iraq, with smaller parts of Iran and Syria.Â  Its counterpart, the Iraq South map on the other hand covers around 491,500kmÂ² of detailed area with 14 detailed airfields: Kuwait Intlâ, King Fahd Intlâ (Dammam), Bahrain Intlâ, Doha Intlâ, King Abdulaziz (air base near Dammam), Jubail Navalâ¦Â  Unfortunately, the Iraq South Map will not be available for pre-purchasing or early access. The pricing of the maps during the pre-purchase period (ending in Q4 2024) is as follows: After the pre-purchase period ends, the early access -20% discount will only apply to the Iraq map, as the Iraq North map EA price will be the same as the full release price. Eagle Dynamics has released a trailer for the upcoming map on their YouTube channel. If you have any more questions about the Afghanistan map, you may find your answers here. â The Early Access release is expected for Q4 2024, but as always Threshold will keep you updated with new info about the map! â Stay tuned to Threshold for more flight sim news!</summary>
+    <published>2024-10-30T00:00:00+00:00</published>
   </entry>
 </feed>
