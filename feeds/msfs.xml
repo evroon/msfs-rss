@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-10-31T18:30:11.648306+00:00</updated>
+  <updated>2024-11-01T18:29:58.232620+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/in-memory-of-anton-logvynenko-digital-artist-aviation-enthusiast/</id>
-    <title>In Memory of Anton Logvynenko: Digital Artist &amp; Aviation Enthusiast</title>
-    <updated>2023-12-12T21:10:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/in-memory-of-anton-logvynenko-digital-artist-aviation-enthusiast/"/>
-    <summary>The team at Microsoft Flight Simulator would like to take a moment to pay our condolences and provide tribute to a beloved member of the flight sim community – Anton Logvynenko, who passed away while carrying out a combat mission in the Kharkiv region on November 27, 2023.</summary>
-    <published>2023-12-12T21:10:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-flightsimexpo-2024/</id>
     <title>Microsoft Flight Simulator at FlightSimExpo 2024</title>
@@ -29,18 +21,17 @@
     <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
     <updated>2024-09-19T18:08:37+00:00</updated>
     <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
     <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
     <published>2024-09-19T18:08:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/</id>
-    <title>Microsoft Flight Simulator 2024 FAQ</title>
-    <updated>2023-06-12T02:56:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_11-1024x576.jpg"/>
-    <summary>Top questions about the upcoming Microsoft Flight Simulator sequel.</summary>
-    <published>2023-06-12T02:56:46+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
+    <title>Peripheral Partner Spotlight: Pimax</title>
+    <updated>2024-11-01T16:16:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Pimax_Header_Gradient-1024x485.png"/>
+    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
+    <published>2024-11-01T16:16:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-release-date-announcement/</id>
@@ -88,22 +79,13 @@
     <published>2024-10-08T21:00:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-3rd-2024-development-update/</id>
-    <title>October 3rd, 2024 – Development Update</title>
-    <updated>2024-10-03T23:05:13+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-3rd-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/@pommes_l-Twitter-1024x576.jpeg"/>
-    <summary>Earlier this week, we launched Aircraft &amp; Avionics Update 3 (AAU3)! This release enhances three aircraft: the Airbus A310-300, Airbus A320neo V2, and Pilatus PC-6 Porter.</summary>
-    <published>2024-10-03T23:05:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/expert-series-01-atr-42-600-72-600-expansion/</id>
-    <title>Expert Series 01: ATR 42-600 / 72-600 Expansion</title>
-    <updated>2024-10-10T17:16:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/expert-series-01-atr-42-600-72-600-expansion/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Atr_Front-1024x576.png"/>
-    <summary>Since its release in April 2023, Expert Series 01: ATR 42-600 / 72-600 has become one of the most popular aircraft in the virtual skies of Microsoft Flight Simulator. Today we are pleased to update this versatile regional turboprop with many bug fixes and other improvements based on feedback from the community. Additionally, this expansion also … Continued</summary>
-    <published>2024-10-10T17:16:31+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
+    <title>Peripheral Partner Spotlight: Pimax</title>
+    <updated>2024-11-01T16:16:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Pimax_Header_Gradient-1024x485.png"/>
+    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
+    <published>2024-11-01T16:16:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-10th-2024-development-update/</id>
@@ -143,22 +125,22 @@ This sale highlights our community’s favorite content and will run from 10am S
     <published>2024-10-24T23:23:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/</id>
-    <title>Join us for the Microsoft Flight Simulator 2024 Technical Alpha in October</title>
-    <updated>2024-10-08T21:00:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/ForestLake_MSFS_2024-8947485a18dbf08ea082-1900x1080-1-1024x582.jpg"/>
-    <summary>In October we’re hosting a technical alpha to gather feedback on some of Microsoft Flight Simulator 2024’s new services. Please note the focus of this technical alpha is validating new services in Microsoft Flight Simulator 2024, and the scope of available content will be limited. Because the focus of this technical alpha is services, it … Continued</summary>
-    <published>2024-10-08T21:00:09+00:00</published>
+    <id>https://www.flightsimulator.com/october-31st-2024-development-update/</id>
+    <title>October 31st, 2024 – Development Update</title>
+    <updated>2024-10-31T22:54:20+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-31st-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Parorng-Forums-2-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. This week, Jorg was joined by … Continued</summary>
+    <published>2024-10-31T22:54:20+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/expert-series-01-atr-42-600-72-600-expansion/</id>
-    <title>Expert Series 01: ATR 42-600 / 72-600 Expansion</title>
-    <updated>2024-10-10T17:16:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/expert-series-01-atr-42-600-72-600-expansion/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Atr_Front-1024x576.png"/>
-    <summary>Since its release in April 2023, Expert Series 01: ATR 42-600 / 72-600 has become one of the most popular aircraft in the virtual skies of Microsoft Flight Simulator. Today we are pleased to update this versatile regional turboprop with many bug fixes and other improvements based on feedback from the community. Additionally, this expansion also … Continued</summary>
-    <published>2024-10-10T17:16:31+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
+    <title>Peripheral Partner Spotlight: Pimax</title>
+    <updated>2024-11-01T16:16:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Pimax_Header_Gradient-1024x485.png"/>
+    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
+    <published>2024-11-01T16:16:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-10th-2024-development-update/</id>
@@ -196,5 +178,23 @@ This sale highlights our community’s favorite content and will run from 10am S
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/JohnStarp-Forums-3-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user JohnStarp! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released an update to Expert Series 01: ATR 42-600/72-600. This update is available to download via the in-sim Content Manager, and you can read the … Continued</summary>
     <published>2024-10-24T23:23:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-31st-2024-development-update/</id>
+    <title>October 31st, 2024 – Development Update</title>
+    <updated>2024-10-31T22:54:20+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-31st-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Parorng-Forums-2-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. This week, Jorg was joined by … Continued</summary>
+    <published>2024-10-31T22:54:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
+    <title>Peripheral Partner Spotlight: Pimax</title>
+    <updated>2024-11-01T16:16:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Pimax_Header_Gradient-1024x485.png"/>
+    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
+    <published>2024-11-01T16:16:12+00:00</published>
   </entry>
 </feed>
