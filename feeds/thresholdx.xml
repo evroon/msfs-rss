@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-11-04T18:29:13.144118+00:00</updated>
+  <updated>2024-11-05T18:29:29.691715+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mksdev</id>
-    <title>MK Studios Publishes Development Update for MSFS</title>
-    <updated>2024-10-21T00:00:00+00:00</updated>
-    <link href="/news/mksdev"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6715bb521f2e2d594da2efab_zurich1.webp"/>
-    <summary>Sim: MSFS20. MK Studios announced in their Discord server their plans for the remainder of 2024 and beyond, including a new airport on the North American West Coast (yet to be revealed) and two big airports in Europe.Â  Their upcoming Lisbon Airport V2 is still set to release on Wednesday (23/10), and the pricing is now known: roughly $18.46 (tax excluded). Owners of the previous version will get a 25% discount. V2 owners will be eligible for a free Microsoft Flight Simulator 2024 upgrade. Still on that Microsoft Flight Simulator 2024 note, all of their products released in 2024 will receive free upgrades, whereas older products will still demand further investigation as they were developed using different techniques which might impact performance negatively, and it may require the redevelopment of the ground poly and LODs. While the 2020 versions might work fine in 2024 without an upgrade patch, it wonât be officially supported and may induce issues. â They have also announced two new European airports: Zurich Airport (LSZH) and DÃ¼sseldorf Airport (EDDL), which will be released in 2024 and Q1 2025, respectively. They also plan to update La Guardia (KLGA) once terminal C is fully finished and develop a new airport âon the top of the West Coast.â â Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lisbon</id>
-    <title>MK Studios Releases Lisbon Airport V2 for MSFS</title>
-    <updated>2024-10-23T00:00:00+00:00</updated>
-    <link href="/news/lisbon"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67193e1b1e00562091dba77c_lisbon1.webp"/>
-    <summary>Sim: MSFS20. MK Studios recently released their revamped rendition of Humberto Delgado Airport (LPPT) for Microsoft Flight Simulator. The airport serves the city of Lisbon, Portugal, and has a yearly average of 33.6 million passengers, making it the busiest in the Country. Its history dates back to 1942, when it opened during the height of World War 2 as a neutral airport, smuggling people in and out of Europe, regardless of nationality. Such neutrality made it so it was heavily monitored by both the Axis and Allied forces and even earned it a movie plot. The post-war period saw a fast expansion, reaching the 100,000-passenger mark by 1954. At that point, it was served by Air France, British European Airways, Iberia, KLM, Sabena, Pan Am, and Trans World Airlines. The late 50s/early 60s brought a runway upgrade to accommodate larger aircraft such as the 707 and the DC-8. In 1962, a new 3130-meter-long runway allowed even bigger aircraft, such as the Boeing 747, for Lisbonâs first direct route to New York in the 1970s. A new terminal was built in 2007 for exclusive use by low-cost carriers. It features 22 check-in desks and fifteen departure gates. Terminal 1 was expanded shortly after, in 2011, with a large new shopping area, new airbridges and parking positions, and a new underground metro station. The airportâs infrastructure was also hugely improved during that period, with new cargo facilities, fuel storage, multiple refurbishments, and more. In 2019, the government unveiled a new expansion program, which has been widely opposed due to environmental concerns. Itâs a hub for TAP Air Portugal and an operating base for easyJet and Ryanair. Aer Lingus, Air France, American Airlines, Air Canada, British Airways, Brussels Airlines, Delta Air Lines, Emirates, Iberia, KLM, Latam Airlines, Lufthansa, Qatar Airways, Scandinavian Airlines, Swiss, Turkish, United, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life runway elevation profile data, custom jetways, custom vehicle models, PBR textures, an up-to-date ground layout, and more. Itâs available on Contrail and OrbxDirect for roughly $18.30, requiring at least 2.55 GB of free hard disk space to install. V1 owners are eligible for a 25% upgrade discount. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bmaadd</id>
-    <title>Barelli MSFS Addon Releases Addis Ababa Bole International Airport for MSFS</title>
-    <updated>2024-10-24T00:00:00+00:00</updated>
-    <link href="/news/bmaadd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/671a86267f4a10bd5e99c6cf_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. Barelli MSFS Addon has just released its version of Addis Ababa Bole International Airport (HAAB) for Microsoft Flight Simulator. This airport serves Ethiopia's capital, Addis Ababa, and welcomes over 11 million passengers annually. It is a vital hub with destinations all around the globe. Addis Ababa Bole International Airport opened in 1962, replacing the older Lideta Airport. Over the years, the airport has undergone numerous upgrades, including the addition of a secondary runway, an expansion of the original runway, a new terminal, and a new control tower, among other enhancements. Today, the airport serves over 11 million passengers annually and offers flights to various destinations. It acts as a hub for Ethiopian Airlines, and in conjunction with several other airlines, passengers can travel to locations such as Dubai, Tokyo, New York, and Paris. The newly released scenery package features detailed models, an updated taxiway, accurate taxiway signs, proper terrain elevation, dynamic lighting, custom jetways, and more. The add-on requires 1.02 GB of storage space and is available on SimMarket for approximately $17.25. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-10-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/737105</id>
     <title>PMDG Updates 737 Lineup for MSFS</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672503c496a3c5fca79f85d7_Banner_Image.webp"/>
     <summary>Sim: MSFS20. iniBuilds has released its latest scenery for Microsoft Flight Simulator (both 2020 and 2024), featuring Innsbruck Airport (LOWI). This airport, known for its challenging approach, serves the Austrian city of Innsbruck, which is nestled between the Alps. Each year, Innsbruck Airport welcomes over 900.000 passengers. The airport opened in 1925 with the goal of connecting the city to Munich by air. However, it soon became evident how challenging it was to land and take off in an airport surrounded by mountains. The airport played a significant role during the Winter Olympics held in Innsbruck in 1964 and 1976. Over the years, the airport has undergone various upgrades and improvements, enhancing both its capacity and safety for travelers. Today, it offers a range of both year-round and seasonal routes, supported by airlines such as Austrian Airlines, easyJet, and Eurowings, among others. Last year, the airport served 900.000 passengers. The new rendition of Innsbruck Airport features hand-crafted ground textures, an authentic airport landside, dynamic lighting, highly detailed airport buildings, an official GSX profile, and much more. The scenery requires a total of 5.41 GB of storage space and is available for $19.48 on the iniBuilds Store.Â  For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfrjre</id>
+    <title>Just Flight RJ Professional Release Imminent </title>
+    <updated>2024-11-04T00:00:00+00:00</updated>
+    <link href="/news/jfrjre"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672933f0d151142928d69b1e_465288144_962022285964689_7810937860046070195_n.webp"/>
+    <summary>Sim: MSFS20. Just Flight has just confirmed on their social media accounts that the long-awaited RJ Professional for MSFS will be released soon! The pre-release coverage by streamers has already begun, and a couple of popular flight sim streamers have already received it.Â  The RJ Professional is based on Avro RJ, a modernised version of BAe 146, a 4-engined regional airliner that usually saw usage at smaller airports around the globe. With 387 numbers built, it was the most successful British-made civil aircraft. It has also received its rendition in the simulator by Just Flight. Along with pre-release streams, Just Flight has also started posting more details about the RJ, such as the guide to differences between RJ and BAe 146. Unfortunately, no news about the release date or the pricing has been revealed, but as always, Threshold will keep you updated! Stay tuned to Threshold for more news! â</summary>
+    <published>2024-11-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/linxp2</id>
+    <title>X-Crafts Publishes New Development Update for X-Plane</title>
+    <updated>2024-11-05T00:00:00+00:00</updated>
+    <link href="/news/linxp2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67297fe1a12555018842ecab_lineage1.webp"/>
+    <summary>Sim: X-Plane. X-Crafts recently published a new development update concerning their upcoming Embraer Lineage 1000 add-on, a 50 million dollar ultra-large business jet variant of the popular Embraer 190 with an 8500 km range. Cabin texturization is nearing completion. They will next animate the window blinds, cabin doors, and all tables, add customizable lighting throughout the cabin, create a custom fuel system with additional tanks, and add new EFB stuff. Their custom interior will include different zones made with ultra-high resolution materials and heavy optimization work to warrant smooth performance despite the level of detail. Regarding cabin accuracy, the developer claims to have access to a real Embraer Lineage, allowing them to capture each nook and cranny of the aircraft as realistically as possible, with precise dimensions, accurate furniture, and more. While there is no release date yet, X-Crafts expects it to be ready within a few months for X-Plane 11 and X-Plane 12. Owners of the complete E-jets Family will receive the new plane for free, whereas new owners can buy it separately. Thereâs also an upgrade path for owners of any individual E-Jet, which warrants access to the whole family for $67.45. Refer to their blog post for further information on the matter and purchase links. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-11-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/navuix</id>
+    <title>Navigraph Releases SimBrief Dispatch for MSFS</title>
+    <updated>2024-11-05T00:00:00+00:00</updated>
+    <link href="/news/navuix"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6729856646dc65696c3f4105_dispatch1.webp"/>
+    <summary>Sim: MSFS20. Navigraph has recently released a new tool for Microsoft Flight Simulator, allowing users to fully utilize SimBrief within the simulator for flight planning, thus removing the necessity to access SimBrief from a web browser. The new integration allows access to most of SimBriefâs flight planning features right from the simulator. It maintains a layout similar to that of the online version, retaining familiarity and ease of use. SimBrief dispatch is free to use and install. It is available through Navigraph Hub for Navigraph customers and through the SimBrief dashboard for all users.Â  Designed to create a seamless and straightforward workflow, the new tool can be launched straight from Microsoft Flight Simulatorâs world map through a button that reads âSimbriefâ above the âFly Nowâ button. Clicking it will open a SimBrief window within the simulator, where you are then prompted to put in your login details and presented with a familiar interface (translated to Microsoft Flight Simulatorâs User Interface design language), where you can generate your flight plan. Navigraph customers will benefit from updated navigational cycles, which will ensure the best possible data match for their flight plan generations. â After the planning stage, users can also launch the SimBrief UI at any moment during their flight by clicking on its toolbar icon. This will display the same interface, allowing for quickly booking a return leg or calculating take-off performance. â Navigraph has also mentioned that a Microsoft Flight Simulator 2024 version is in the works. This version is planned to be integrated into the simâs global electronic flight bag. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-11-05T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2,45 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-04T18:29:10.254181+00:00</updated>
+  <updated>2024-11-05T18:29:26.171554+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-flightsimexpo-2024/</id>
-    <title>Microsoft Flight Simulator at FlightSimExpo 2024</title>
-    <updated>2024-06-19T21:20:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-flightsimexpo-2024/"/>
-    <summary>FlightSimExpo 2024 — North America’s largest gathering of flight simulation enthusiasts — is taking place at the Rio Hotel &amp; Casino in Las Vegas, Nevada from June 21-23, and the Microsoft Flight Simulator team will be there!We’re so excited to meet simmers from all around the world in-person at the Expo, but we also know … Continued</summary>
-    <published>2024-06-19T21:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
-    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
-    <updated>2024-09-19T18:08:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
-    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
-    <published>2024-09-19T18:08:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
     <title>Peripheral Spotlight: Pimax</title>
     <updated>2024-11-01T16:16:12+00:00</updated>
     <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Pimax_Header_Gradient-1024x485.png"/>
     <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
     <published>2024-11-01T16:16:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/msfs2024-preorder-now-available/</id>
-    <title>Microsoft Flight Simulator 2024: The Many Enhancements That Make This the Most Ambitious Flight Sim Ever</title>
-    <updated>2024-09-19T13:12:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs2024-preorder-now-available/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
-    <summary>Microsoft Flight Simulator 2024 takes the franchise further than ever before with groundbreaking new elements like worldwide Aviation Careers, a white-knuckle Challenge League system, and a brand-new World Photographer mode. Learn more and pre-order now!</summary>
-    <published>2024-09-19T13:12:19+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
+    <title>Peripheral Spotlight: Turtle Beach</title>
+    <updated>2024-11-02T16:03:58+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/"/>
+    <summary>For day two of our Peripheral Spotlight series we’re featuring Turtle Beach! With a plethora of hardware products ranging from headsets, to keyboards, and of course flight simulation, Turtle Beach is one of the leading brands in the whole of the gaming industry for both Console and PC.In 2019, on a routine visit to Microsoft, … Continued</summary>
+    <published>2024-11-02T16:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
+    <title>Peripheral Spotlight: Tobii</title>
+    <updated>2024-11-05T17:21:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
+    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
+    <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
@@ -88,14 +79,13 @@
     <published>2024-11-02T16:03:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/top-rated-aircraft-sale/</id>
-    <title>Top-Rated Aircraft Sale</title>
-    <updated>2024-10-13T17:06:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/top-rated-aircraft-sale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/October2024_TopAircraftSale_1920x1080-1024x576.jpg"/>
-    <summary>We are excited to announce our Top-Rated Aircraft Sale to celebrate Aircraft with highest ratings on the Marketplace.
-This sale highlights our community’s favorite content and will run from 10am Sunday, October 13th – 10am Sunday October 20th.</summary>
-    <published>2024-10-13T17:06:12+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
+    <title>Peripheral Spotlight: Tobii</title>
+    <updated>2024-11-05T17:21:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
+    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
+    <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-17th-2024-development-update/</id>
@@ -143,14 +133,13 @@ This sale highlights our community’s favorite content and will run from 10am S
     <published>2024-11-02T16:03:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/top-rated-aircraft-sale/</id>
-    <title>Top-Rated Aircraft Sale</title>
-    <updated>2024-10-13T17:06:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/top-rated-aircraft-sale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/October2024_TopAircraftSale_1920x1080-1024x576.jpg"/>
-    <summary>We are excited to announce our Top-Rated Aircraft Sale to celebrate Aircraft with highest ratings on the Marketplace.
-This sale highlights our community’s favorite content and will run from 10am Sunday, October 13th – 10am Sunday October 20th.</summary>
-    <published>2024-10-13T17:06:12+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
+    <title>Peripheral Spotlight: Tobii</title>
+    <updated>2024-11-05T17:21:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
+    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
+    <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-17th-2024-development-update/</id>
@@ -196,5 +185,14 @@ This sale highlights our community’s favorite content and will run from 10am S
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/TurtleBeach_Header_Gradient-1-1024x485.png"/>
     <summary>For day two of our Peripheral Spotlight series we’re featuring Turtle Beach! With a plethora of hardware products ranging from headsets, to keyboards, and of course flight simulation, Turtle Beach is one of the leading brands in the whole of the gaming industry for both Console and PC.In 2019, on a routine visit to Microsoft, … Continued</summary>
     <published>2024-11-02T16:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
+    <title>Peripheral Spotlight: Tobii</title>
+    <updated>2024-11-05T17:21:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
+    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
+    <published>2024-11-05T17:21:19+00:00</published>
   </entry>
 </feed>
