@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-05T18:29:26.171554+00:00</updated>
+  <updated>2024-11-06T18:29:30.499373+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
-    <title>Peripheral Spotlight: Pimax</title>
-    <updated>2024-11-01T16:16:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
-    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
-    <published>2024-11-01T16:16:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
     <title>Peripheral Spotlight: Turtle Beach</title>
@@ -29,18 +21,17 @@
     <title>Peripheral Spotlight: Tobii</title>
     <updated>2024-11-05T17:21:19+00:00</updated>
     <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
     <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
     <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/msfs2024-preview-round-up/</id>
-    <title>Microsoft Flight Simulator 2024: Preview Round Up</title>
-    <updated>2024-09-19T18:08:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs2024-preview-round-up/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/MSFS_Limitless_Screenshot_12-1024x576.jpg"/>
-    <summary>Earlier in September a collection of community content creators and press representatives were given a hands-on early preview of Microsoft Flight Simulator 2024. Stay tuned to this page where we’ll be highlighting some of their impressions and thoughts.</summary>
-    <published>2024-09-19T18:08:37+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
+    <title>Peripheral Spotlight: Elgato</title>
+    <updated>2024-11-06T17:36:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
+    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
+    <published>2024-11-06T17:36:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-26th-2024-development-update/</id>
@@ -88,13 +79,13 @@
     <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-17th-2024-development-update/</id>
-    <title>October 17th, 2024 – Development Update</title>
-    <updated>2024-10-17T22:44:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-17th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/HolmesCZ6127-Forums-2-1024x424.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!From October 11-14, we ran the Microsoft Flight Simulator 2024 Technical Alpha Test. The purpose of this test was to gather automatic telemetry data related to several online services … Continued</summary>
-    <published>2024-10-17T22:44:53+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
+    <title>Peripheral Spotlight: Elgato</title>
+    <updated>2024-11-06T17:36:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
+    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
+    <published>2024-11-06T17:36:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-24th-2024-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2024-11-05T17:21:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-17th-2024-development-update/</id>
-    <title>October 17th, 2024 – Development Update</title>
-    <updated>2024-10-17T22:44:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-17th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/HolmesCZ6127-Forums-2-1024x424.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HolmesCZ6127! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!From October 11-14, we ran the Microsoft Flight Simulator 2024 Technical Alpha Test. The purpose of this test was to gather automatic telemetry data related to several online services … Continued</summary>
-    <published>2024-10-17T22:44:53+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
+    <title>Peripheral Spotlight: Elgato</title>
+    <updated>2024-11-06T17:36:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
+    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
+    <published>2024-11-06T17:36:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-24th-2024-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
     <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
     <published>2024-11-05T17:21:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
+    <title>Peripheral Spotlight: Elgato</title>
+    <updated>2024-11-06T17:36:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
+    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
+    <published>2024-11-06T17:36:19+00:00</published>
   </entry>
 </feed>
