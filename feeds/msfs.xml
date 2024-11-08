@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-07T18:29:00.543403+00:00</updated>
+  <updated>2024-11-08T18:29:04.178963+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
-    <title>Peripheral Spotlight: Tobii</title>
-    <updated>2024-11-05T17:21:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
-    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
-    <published>2024-11-05T17:21:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
     <title>Peripheral Spotlight: Elgato</title>
     <updated>2024-11-06T17:36:19+00:00</updated>
@@ -29,18 +21,17 @@
     <title>Peripheral Spotlight: Thrustmaster</title>
     <updated>2024-11-07T17:28:07+00:00</updated>
     <link href="https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
     <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
     <published>2024-11-07T17:28:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/</id>
-    <title>Join us for the Microsoft Flight Simulator 2024 Technical Alpha in October</title>
-    <updated>2024-10-08T21:00:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/join-us-for-the-microsoft-flight-simulator-technical-alpha-in-october/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/ForestLake_MSFS_2024-8947485a18dbf08ea082-1900x1080-1-1024x582.jpg"/>
-    <summary>In October we’re hosting a technical alpha to gather feedback on some of Microsoft Flight Simulator 2024’s new services. Please note the focus of this technical alpha is validating new services in Microsoft Flight Simulator 2024, and the scope of available content will be limited. Because the focus of this technical alpha is services, it … Continued</summary>
-    <published>2024-10-08T21:00:09+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
+    <title>Peripheral Spotlight: Next Level Racing</title>
+    <updated>2024-11-08T17:14:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
+    <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
@@ -88,22 +79,13 @@
     <published>2024-11-07T17:28:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-31st-2024-development-update/</id>
-    <title>October 31st, 2024 – Development Update</title>
-    <updated>2024-10-31T22:54:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-31st-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Parorng-Forums-2-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. This week, Jorg was joined by … Continued</summary>
-    <published>2024-10-31T22:54:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
-    <title>Peripheral Spotlight: Pimax</title>
-    <updated>2024-11-01T16:16:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Pimax_Header_Gradient-1024x485.png"/>
-    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
-    <published>2024-11-01T16:16:12+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
+    <title>Peripheral Spotlight: Next Level Racing</title>
+    <updated>2024-11-08T17:14:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
+    <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
@@ -142,22 +124,22 @@
     <published>2024-11-07T17:28:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/october-31st-2024-development-update/</id>
-    <title>October 31st, 2024 – Development Update</title>
-    <updated>2024-10-31T22:54:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-31st-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/10/Parorng-Forums-2-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user Parorng! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. This week, Jorg was joined by … Continued</summary>
-    <published>2024-10-31T22:54:20+00:00</published>
+    <id>https://www.flightsimulator.com/november-7-2024-development-update/</id>
+    <title>November 7, 2024 Development Update</title>
+    <updated>2024-11-08T00:40:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-7-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/ukaka5656-Twitter-1024x576.jpg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter/X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. Joining Jorg this week were Mike … Continued</summary>
+    <published>2024-11-08T00:40:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
-    <title>Peripheral Spotlight: Pimax</title>
-    <updated>2024-11-01T16:16:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Pimax_Header_Gradient-1024x485.png"/>
-    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
-    <published>2024-11-01T16:16:12+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
+    <title>Peripheral Spotlight: Next Level Racing</title>
+    <updated>2024-11-08T17:14:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
+    <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
@@ -194,5 +176,23 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
     <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
     <published>2024-11-07T17:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-7-2024-development-update/</id>
+    <title>November 7, 2024 Development Update</title>
+    <updated>2024-11-08T00:40:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-7-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/ukaka5656-Twitter-1024x576.jpg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter/X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. Joining Jorg this week were Mike … Continued</summary>
+    <published>2024-11-08T00:40:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
+    <title>Peripheral Spotlight: Next Level Racing</title>
+    <updated>2024-11-08T17:14:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
+    <published>2024-11-08T17:14:25+00:00</published>
   </entry>
 </feed>
