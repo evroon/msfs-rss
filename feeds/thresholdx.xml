@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-11-08T18:29:07.891570+00:00</updated>
+  <updated>2024-11-09T18:26:34.996023+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/oxfs24</id>
-    <title>Orbx Releases an Update on FS2024 Product Compatibility</title>
-    <updated>2024-10-30T00:00:00+00:00</updated>
-    <link href="/news/oxfs24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67227fc503596d64b591900b_Header2.png.80d4236c4db10cdc5155de38183ae3b1.webp"/>
-    <summary>Sim: FS24. As the Microsoft Flight Simulator 2024 release is scheduled to be in a little less than 21 days, Orbx has released a statement on the compatibility of their products with the upcoming simulator.Â  Even though existing FS20 addons should work out-of-the-box in FS24, the new simulator will bring loads of new features that many developers may want to utilise. One of them is Orbx. In the forum post, they stated that the product transition will be smooth, but will take some time. The most recent and popular sceneries will be the priority during the transition. â Another detail that was mentioned in the statement was the upgrade fee. In case the product update will take some advantages of the FS24, the customers may expect a small upgrade fee.Â  â As always, Threshold will keep you updated with all new information about FS2024! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-10-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/h8kcab</id>
     <title>Hangar Studios 713 Releases Super Decathlon 8KCAB for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672e4d368f3171d57da27d35_erejota1.webp"/>
     <summary>Sim: MSFS20. Just Flight has recently released their rendition of the Avro RJ for Microsoft Flight Simulator 2020, bringing a high fidelity simulation of all three variants (RJ70, RJ85, and RJ100) of the popular short-haul regional airliner manufactured by British Aerospace. â The RJ is objectively an upgraded BAE 146, featuring a modern cockpit (for the early 1990s), and newer engines featuring FADEC and digital avionics. Their revamp allowed the model to remain relevant in times when the 146 was getting too old for modern-day aviation due to its analog systems, and other manufacturers already had their own âfuture-proofâ alternatives. The add-on features an accurate rendition of the airplane, with all three variants created from real-world aircraft plans and comprehensive photography of the real thing, sporting a highly detailed passenger cabin and galleys customized for each variant, custom-modeled ground equipment, high-resolution textures, a custom-coded GNLU-910A FMS, and more. The complete feature list follows below: â VARIANTS â All three variants of the RJ are included: â â MODEL â Â  COCKPIT â Â  LIVERIES â The RJ comes with a variety of liveries representing the aircraft's numerous operators from all around the world: Â  RJ70 â RJ85 â Â RJ100 â Â A PSD Paint Kit is also available to download, allowing for the creation of custom livery and cabin textures. â Â  SYSTEMS â RJ Professional features fully custom-coded aircraft systems with a high degree of complexity and depth, including: Â  Air-conditioning and pressurisation system â APU â Auto-flight system â Communication system â Doors and stairs â Electrical system â Electronic Flight Bag (EFB) â The aircraft is equipped with a tablet EFB for controlling various aircraft options and payloads, including: â The EFB can also be used for flight planning and monitoring: â FDE and effects â Fire protection system â Flight controls â Flight Management System â Fuel system â Hydraulic system â Ice and rain protection system â Indicating and recording systems â Landing gear â Lighting â Navigation systems â Oxygen system â Passenger cabins â Pneumatic system â Power plant â Sounds â â OTHER FEATURES â The add-on is available in their store for $69.99 (or in a bundle with the 146), requiring at least 2.6 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-11-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fs24cd</id>
+    <title>FS24 Collector's Edition Delayed: Aerosoft</title>
+    <updated>2024-11-09T00:00:00+00:00</updated>
+    <link href="/news/fs24cd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672eff2b71d294a8af0119f8_MSFS2024_Steelbook.jpg.avif"/>
+    <summary>Sim: FS24. In an email sent out to customers this week, Aerosoft has stated that orders for the Microsoft Flight Simulator 2024 Collectorâs Edition have been delayed. Delays will affect orders made on Aerosoftâs EU Store, but orders made on their US Store will be delivered on schedule. According to the email, the delay has been caused by âunexpected shipping delays to our warehouse in Germanyâ. Aerosoft has not expanded on what specifically caused those delays. An exact timeline has not been given as of the time of writing, but they expect shipments to begin to customers âin the first week of Decemberâ. Aerosoft has further confirmed that activation codes will not be sent in advance of delivery on release day of FS24 on November 19th, but instead come delivered with the physical items, so simmers who bought the Collectorâs Edition in Europe will have to wait until their package arrives. As of the time of writing, Microsoft has not yet commented on the delays, but Threshold will keep you updated, so stay tuned!</summary>
+    <published>2024-11-09T00:00:00+00:00</published>
   </entry>
 </feed>
