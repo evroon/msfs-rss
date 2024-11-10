@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-09T18:26:31.881506+00:00</updated>
+  <updated>2024-11-10T18:26:44.207382+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
-    <title>Peripheral Spotlight: Elgato</title>
-    <updated>2024-11-06T17:36:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
-    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
-    <published>2024-11-06T17:36:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
     <title>Peripheral Spotlight: Thrustmaster</title>
     <updated>2024-11-07T17:28:07+00:00</updated>
@@ -29,18 +21,17 @@
     <title>Peripheral Spotlight: Next Level Racing</title>
     <updated>2024-11-08T17:14:25+00:00</updated>
     <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
     <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
     <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/</id>
-    <title>Peripheral Spotlight: Pimax</title>
-    <updated>2024-11-01T16:16:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-pimax/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Pimax_Header_Gradient-1024x485.png"/>
-    <summary>We have an incredible, dedicated VR fanbase in our community, and we know how important the right headset is when flying! Today we are pleased to highlight Pimax, a technology company that specializes in virtual reality hardware products. Their Pimax Crystal Light is a great PCVR headset for flight simmers who crave stunning clarity to … Continued</summary>
-    <published>2024-11-01T16:16:12+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
+    <title>Peripheral Spotlight: Yawman Arrow</title>
+    <updated>2024-11-09T19:57:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Yawman_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
+    <published>2024-11-09T19:57:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
@@ -88,13 +79,67 @@
     <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
-    <title>Peripheral Spotlight: Turtle Beach</title>
-    <updated>2024-11-02T16:03:58+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/TurtleBeach_Header_Gradient-1-1024x485.png"/>
-    <summary>For day two of our Peripheral Spotlight series we’re featuring Turtle Beach! With a plethora of hardware products ranging from headsets, to keyboards, and of course flight simulation, Turtle Beach is one of the leading brands in the whole of the gaming industry for both Console and PC.In 2019, on a routine visit to Microsoft, … Continued</summary>
-    <published>2024-11-02T16:03:58+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
+    <title>Peripheral Spotlight: Yawman Arrow</title>
+    <updated>2024-11-09T19:57:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Yawman_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
+    <published>2024-11-09T19:57:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
+    <title>Peripheral Spotlight: Tobii</title>
+    <updated>2024-11-05T17:21:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
+    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
+    <published>2024-11-05T17:21:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
+    <title>Peripheral Spotlight: Elgato</title>
+    <updated>2024-11-06T17:36:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
+    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
+    <published>2024-11-06T17:36:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
+    <title>Peripheral Spotlight: Thrustmaster</title>
+    <updated>2024-11-07T17:28:07+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
+    <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
+    <published>2024-11-07T17:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-7-2024-development-update/</id>
+    <title>November 7, 2024 Development Update</title>
+    <updated>2024-11-08T00:40:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-7-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/ukaka5656-Twitter-1024x576.jpg"/>
+    <summary>This week’s Screenshot Challenge winner is Twitter/X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. Joining Jorg this week were Mike … Continued</summary>
+    <published>2024-11-08T00:40:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
+    <title>Peripheral Spotlight: Next Level Racing</title>
+    <updated>2024-11-08T17:14:25+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
+    <published>2024-11-08T17:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
+    <title>Peripheral Spotlight: Yawman Arrow</title>
+    <updated>2024-11-09T19:57:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Yawman_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
+    <published>2024-11-09T19:57:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
@@ -142,57 +187,12 @@
     <published>2024-11-08T17:14:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/</id>
-    <title>Peripheral Spotlight: Turtle Beach</title>
-    <updated>2024-11-02T16:03:58+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-partner-spotlight-turtle-beach/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/TurtleBeach_Header_Gradient-1-1024x485.png"/>
-    <summary>For day two of our Peripheral Spotlight series we’re featuring Turtle Beach! With a plethora of hardware products ranging from headsets, to keyboards, and of course flight simulation, Turtle Beach is one of the leading brands in the whole of the gaming industry for both Console and PC.In 2019, on a routine visit to Microsoft, … Continued</summary>
-    <published>2024-11-02T16:03:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
-    <title>Peripheral Spotlight: Tobii</title>
-    <updated>2024-11-05T17:21:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
-    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
-    <published>2024-11-05T17:21:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
-    <title>Peripheral Spotlight: Elgato</title>
-    <updated>2024-11-06T17:36:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
-    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
-    <published>2024-11-06T17:36:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
-    <title>Peripheral Spotlight: Thrustmaster</title>
-    <updated>2024-11-07T17:28:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
-    <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
-    <published>2024-11-07T17:28:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/november-7-2024-development-update/</id>
-    <title>November 7, 2024 Development Update</title>
-    <updated>2024-11-08T00:40:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-7-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/ukaka5656-Twitter-1024x576.jpg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter/X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. Joining Jorg this week were Mike … Continued</summary>
-    <published>2024-11-08T00:40:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
-    <title>Peripheral Spotlight: Next Level Racing</title>
-    <updated>2024-11-08T17:14:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
-    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
-    <published>2024-11-08T17:14:25+00:00</published>
+    <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
+    <title>Peripheral Spotlight: Yawman Arrow</title>
+    <updated>2024-11-09T19:57:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Yawman_Header_Gradient-1024x485.png"/>
+    <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
+    <published>2024-11-09T19:57:04+00:00</published>
   </entry>
 </feed>
