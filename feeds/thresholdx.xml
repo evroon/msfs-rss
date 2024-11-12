@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-11-11T18:29:03.976848+00:00</updated>
+  <updated>2024-11-12T18:29:19.237633+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fb380a</id>
-    <title>FlyByWire Simulations Releases Airbus A380 for MSFS</title>
-    <updated>2024-10-31T00:00:00+00:00</updated>
-    <link href="/news/fb380a"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672403756f57fd8552c33ac1_a380-01.webp"/>
-    <summary>Sim: MSFS20. FlyByWire Simulations recently released their long-awaited rendition of the Airbus A380 for Microsoft Flight Simulator in an open alpha stage. It has enough operability for A to B flights, but many systems are still under development.Â  Their goal is to enable access to outside contributors and developers, provide the community with an early look, and actively work on further developing it over time with more features and tweaks. Due to the aircraft's sheer complexity and its current open alpha nature, performance is significantly more demanding than that of most payware aircraft. It requires at least an RTX 4080 Super for 1440p@60 at ultra and at least a GTX 1060 6 GB for 1080p at 30 fps on low settings. The current release (subject to change in the future as it is an early alpha) features a custom flight management system based on their updated fms-v2 implementation, with support for all ARINC424 leg types, holding support, and more. Furthermore, it accurately represents the primary flight display, navigation display, engine and warning display, and system display, with precise MEMOs for numerous systems and integrated checklists for normal and abnormal procedures. It also includes a comprehensive simulation of the core aircraft systems and 140 potential failures, although full simulation is not guaranteed at this development stage. Other features include realistic flight control surfaces, dynamic wing flex, Brake to Vacate capabilities, Runway Overrun Warning/Protection, and OANS (Onboard Airport Navigation System), which aids situational awareness by displaying a virtual airport map.Â  â Regarding future MSFS 2024 compatibility, FlyByWire has stated that it won't be available for the new platform as soon as it is out due to the significant amount of effort required due to differences in system requirements and 3D model optimizations, among other things. They will not be sticking to any specific timeline at the moment. â The A380X is available for free on the FlyByWire installer. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kfsrar</id>
-    <title>KiwiFlightSim Releases Rarotonga International Airport for MSFS</title>
-    <updated>2024-10-31T00:00:00+00:00</updated>
-    <link href="/news/kfsrar"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6724080eba7a9a50472d80d8_raro1.webp"/>
-    <summary>Sim: MSFS20. KiwiFlightSim has recently released their rendition of Rarotonga International Airport (NCRG) for Microsoft Flight Simulator, serving Avarua in the Cook Islands, with a yearly average of 350,000 passengers. Built in 1944 by the United States Army Air Forces to support their Pacific campaign, establishing a vital link in the Allied supply chain by facilitating the transportation of troops and supplies to the frontlines, it marked a significant milestone in Rarotongaâs development, opening up the island to the outside world. The 5000-foot-long airstrip remained operational after the war, serving as a stopover point for trans-Pacific flights. It was not until the 1970s that it underwent a major overhaul to properly embrace the jet age and its steeper runway length and ground infrastructure requirements.Â  Twenty-one years ago, the terminal, departure, and check-in areas were heavily revamped to meet modern standards, and six years later, the terminal was reconstructed and expanded to accommodate the new passenger traffic demands. Itâs a hub for Air Rarotonga, and Air New Zealand, Air Tahiti, Hawaiian Airlines, and JetStar also serve it. The scenery features an accurate rendition of the airport, with custom airport buildings, custom ground markings, five detailed interiors, detailed surrounding buildings, custom night lighting, custom runway textures, and more. Itâs available on SimMarket for roughly $17.29, requiring at least 1.82 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-10-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/p74710</id>
     <title>PMDG Updates 737 Lineup and Previews Upcoming Boeing 747</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6731c0376ba223ae6bb08c33_pmdgtext.webp"/>
     <summary>Sim: MSFS20. PMDG recently released their own Document Center for their current product line. It features all of the documentation and support files, which are fully and freely available online with a wealth of content. Whereas they once used to be provided with the product files only, they will now be entirely available online, so Xbox and xCloud users can access the manuals from the comfort of any web-browsing capable device. Given its online nature, the manual can be updated much faster than usual, allowing them to quickly roll out any necessary changes or tweaks to their guides without requiring an actual aircraft update â or extra download â for that.Â  The manuals are available without a log-in wall, allowing potential customers to skim through them and judge the quality without committing to purchasing the aircraft. The Document Center is available through this link. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsl321</id>
+    <title>FSLabs Confirms Airbus A321-X for MSFS</title>
+    <updated>2024-11-11T00:00:00+00:00</updated>
+    <link href="/news/fsl321"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67325a8b59834d034f96e79f_labus.webp"/>
+    <summary>Sim: MSFS20. FSLabs recently confirmed the development and potential imminent release of their A321-X for Microsoft Flight Simulator after one of their forum members found a link to a new FSL webpage with references to the new product, which has yet to be officially announced.Â  Lefteris Kalamaras, FSLabsâ CEO, has confirmed the veracity of the leaked information and even attached two screenshots of the upcoming product. He also reiterated that some leaked information was merely placeholders and not representative of what would come. â FSLabs rose to fame in 2016 after releasing the first high-fidelity Airbus A320 add-on in history. This add-on allowed Microsoft Flight Simulator X and Prepar3d users to experience the day-to-day operation of one of the most popular airliners of all time, one that had not yet been developed to such standards (which quickly changed within five years). â While thereâs no official feature list or any other concrete information for the time being, the company is known for pushing the boundaries of realism with most of their products, and that might be the case with their first step into the ânewâ simulator.Â  â Itâs also unknown whether it will be available for MSFS 2020, 2024, or both. Threshold will ensure that you are covered should further information be revealed. â</summary>
+    <published>2024-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bmwiad</id>
+    <title>BMWorld &amp; AmSim Release Washington Dulles International Airport for MSFS</title>
+    <updated>2024-11-12T00:00:00+00:00</updated>
+    <link href="/news/bmwiad"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67339250778ee59c56758176_iad1.webp"/>
+    <summary>Sim: MSFS20. BMWorld and AmSim recently released their rendition of Washington Dulles International Airport (KIAD) for Microsoft Flight Simulator. The airport serves Washington, D.C., with an average yearly of 25 million passengers. Opened in 1962, itâs one of the three major airports â and second busiest â serving the Metropolitan Washington Area, along with Ronald Reagan Washington National Airport (KDCA) and Baltimore/Washington International Airport (KBWI).Â  The original design was tweaked for the first time in 1985 when it no longer suited its role as Washingtonâs main airport. Midfield concourses were constructed to facilitate walking between terminals for connecting flights and other such activities, consequently unclogging the main terminal. Concourses C and D were the first to be built, followed by A and B, with the former only reaching completion in 2004. Plans call for a new three-story south concourse covering 51,000 square meters in total area, ultimately replacing Concourse Aâs regional gates from the late 1990s. Itâs a hub for Southern Airways Express and United Airlines and served by Aer Lingus, Air Canada, Air China, Air France, Allegiant Air, All Nippon Airways, American Airlines, Austrian Airlines, British Airways, Brussels Airlines, Emirates, ITA Airways, KLM, Lufthansa, Scandinavian Airlines, Swiss, Turkish Airlines, United Express, Virgin Atlantic, and WestJet. The scenery features an accurate rendition of the airport, with high-resolution custom ground textures, custom ground markings, an up-to-date airport layout, a detailed terminal area, animated jetways, fully modeled terminal interiors, and more. Itâs available on the iniBuilds Store for roughly $21.09, requiring at least 1.58 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-11-12T00:00:00+00:00</published>
   </entry>
 </feed>
