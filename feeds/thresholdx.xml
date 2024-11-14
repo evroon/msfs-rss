@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-11-13T18:29:50.859537+00:00</updated>
+  <updated>2024-11-14T18:31:05.341422+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniinn</id>
-    <title>iniBuilds Releases Innsbruck Airport for MSFS</title>
-    <updated>2024-11-01T00:00:00+00:00</updated>
-    <link href="/news/iniinn"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672503c496a3c5fca79f85d7_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. iniBuilds has released its latest scenery for Microsoft Flight Simulator (both 2020 and 2024), featuring Innsbruck Airport (LOWI). This airport, known for its challenging approach, serves the Austrian city of Innsbruck, which is nestled between the Alps. Each year, Innsbruck Airport welcomes over 900.000 passengers. The airport opened in 1925 with the goal of connecting the city to Munich by air. However, it soon became evident how challenging it was to land and take off in an airport surrounded by mountains. The airport played a significant role during the Winter Olympics held in Innsbruck in 1964 and 1976. Over the years, the airport has undergone various upgrades and improvements, enhancing both its capacity and safety for travelers. Today, it offers a range of both year-round and seasonal routes, supported by airlines such as Austrian Airlines, easyJet, and Eurowings, among others. Last year, the airport served 900.000 passengers. The new rendition of Innsbruck Airport features hand-crafted ground textures, an authentic airport landside, dynamic lighting, highly detailed airport buildings, an official GSX profile, and much more. The scenery requires a total of 5.41 GB of storage space and is available for $19.48 on the iniBuilds Store.Â  For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-11-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfrjre</id>
     <title>Just Flight RJ Professional Release Imminent </title>
@@ -136,7 +127,7 @@
   </entry>
   <entry>
     <id>/news/ms24ti</id>
-    <title>Microsoft Announces Release Times for MSFS 2024</title>
+    <title>Microsoft Announces Release Times for FS24</title>
     <updated>2024-11-12T00:00:00+00:00</updated>
     <link href="/news/ms24ti"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6733cf07b5cc85101ff1202a_Banner_Image.webp"/>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6734e35f06867cbd9b73a4b1_atc1.webp"/>
     <summary>Sim: OTHER. Navigraph has recently added live traffic functionality and ATC sectors to their Charts app, albeit in beta. The new functionalities will allow users to visualize virtual network traffic from VATSIM or IVAO and easily spot where to load in for the best coverage possible. â The all-new real-time traffic visualization will show online traffic on major networks and display highly useful information upon clicking on the aircraft, such as ETA, PIC, type, current airspeed, altitude, etc. Toggling the ATC sector info will also display all current active sectors with ATC on, revealing extra information upon interaction, such as frequencies, controllerâs name and rating, uptime, and more. Furthermore, they have also added a âgate availabilityâ system on the map to ensure you never load on top of another pilot again. The system even displays a handy list with all the available stands so that you donât have to do that work yourself. Navigraph has also mentioned they wonât stop there, with more to come in the future, and even subtly hint at a potential live traffic display on their built-in in-game panel for Microsoft Flight Simulator. Itâs already available for Navigraph subscribers on the appâs newest update. New subscribers can get the charts app and their updated navdata on their website. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jet111</id>
+    <title>X-Crafts Updates E-Jets for X-Plane</title>
+    <updated>2024-11-14T00:00:00+00:00</updated>
+    <link href="/news/jet111"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67361a028366088a0243d02d_E-JETS_FAMILY_BY_X-CRAFTS_E170_016.webp"/>
+    <summary>Sim: X-Plane. X-Crafts has recently issued a new update to their E-Jets lineup for X-Plane, bringing ILS autotune compatibility improvements, pitch attitude tweaks, and more. They have also announced their biggest Black Friday sale yet, with discounts ranging from 30 to 50%.Â  Update v1.1.1 focuses on improving what had been implemented in 1.1.0, which added automatic speed management, ILS autotune, steep approach capabilities on compatible aircraft, and next-gen pop-up displays. The changelog follows below: As previously mentioned, they have also announced their biggest Black Friday discounts yet. The E170 will be a record 50% off, and the other E-Jets will get a 30% discount. X-Crafts also plans to add an upgrade discount for users wanting the full lineup. Refer to their official blog post for further information. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-11-14T00:00:00+00:00</published>
   </entry>
 </feed>
