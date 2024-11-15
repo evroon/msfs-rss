@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-11-14T18:31:05.341422+00:00</updated>
+  <updated>2024-11-15T18:30:50.380920+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfrjre</id>
-    <title>Just Flight RJ Professional Release Imminent </title>
-    <updated>2024-11-04T00:00:00+00:00</updated>
-    <link href="/news/jfrjre"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672933f0d151142928d69b1e_465288144_962022285964689_7810937860046070195_n.webp"/>
-    <summary>Sim: MSFS20. Just Flight has just confirmed on their social media accounts that the long-awaited RJ Professional for MSFS will be released soon! The pre-release coverage by streamers has already begun, and a couple of popular flight sim streamers have already received it.Â  The RJ Professional is based on Avro RJ, a modernised version of BAe 146, a 4-engined regional airliner that usually saw usage at smaller airports around the globe. With 387 numbers built, it was the most successful British-made civil aircraft. It has also received its rendition in the simulator by Just Flight. Along with pre-release streams, Just Flight has also started posting more details about the RJ, such as the guide to differences between RJ and BAe 146. Unfortunately, no news about the release date or the pricing has been revealed, but as always, Threshold will keep you updated! Stay tuned to Threshold for more news! â</summary>
-    <published>2024-11-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/linxp2</id>
     <title>X-Crafts Publishes New Development Update for X-Plane</title>
@@ -86,7 +77,7 @@
     <updated>2024-11-09T00:00:00+00:00</updated>
     <link href="/news/fs24cd"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672eff2b71d294a8af0119f8_MSFS2024_Steelbook.jpg.avif"/>
-    <summary>Sim: FS24. In an email sent out to customers this week, Aerosoft has stated that orders for the Microsoft Flight Simulator 2024 Collectorâs Edition have been delayed. Delays will affect orders made on Aerosoftâs EU Store, but orders made on their US Store will be delivered on schedule. According to the email, the delay has been caused by âunexpected shipping delays to our warehouse in Germanyâ. Aerosoft has not expanded on what specifically caused those delays. An exact timeline has not been given as of the time of writing, but they expect shipments to begin to customers âin the first week of Decemberâ. Aerosoft has further confirmed that activation codes will not be sent in advance of delivery on release day of FS24 on November 19th, but instead come delivered with the physical items, so simmers who bought the Collectorâs Edition in Europe will have to wait until their package arrives. As of the time of writing, Microsoft has not yet commented on the delays, but Threshold will keep you updated, so stay tuned!</summary>
+    <summary>Sim: FS24. Update Nov. 15 - 1700z: Microsoft have now provided comment on the delays and have outlined a plan to address the situation. Read more about it here. â In an email sent out to customers this week, Aerosoft has stated that orders for the Microsoft Flight Simulator 2024 Collectorâs Edition have been delayed. Delays will affect orders made on Aerosoftâs EU Store, but orders made on their US Store will be delivered on schedule. According to the email, the delay has been caused by âunexpected shipping delays to our warehouse in Germanyâ. Aerosoft has not expanded on what specifically caused those delays. An exact timeline has not been given as of the time of writing, but they expect shipments to begin to customers âin the first week of Decemberâ. Aerosoft has further confirmed that activation codes will not be sent in advance of delivery on release day of FS24 on November 19th, but instead come delivered with the physical items, so simmers who bought the Collectorâs Edition in Europe will have to wait until their package arrives. As of the time of writing, Microsoft has not yet commented on the delays, but Threshold will keep you updated, so stay tuned!</summary>
     <published>2024-11-09T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67361a028366088a0243d02d_E-JETS_FAMILY_BY_X-CRAFTS_E170_016.webp"/>
     <summary>Sim: X-Plane. X-Crafts has recently issued a new update to their E-Jets lineup for X-Plane, bringing ILS autotune compatibility improvements, pitch attitude tweaks, and more. They have also announced their biggest Black Friday sale yet, with discounts ranging from 30 to 50%.Â  Update v1.1.1 focuses on improving what had been implemented in 1.1.0, which added automatic speed management, ILS autotune, steep approach capabilities on compatible aircraft, and next-gen pop-up displays. The changelog follows below: As previously mentioned, they have also announced their biggest Black Friday discounts yet. The E170 will be a record 50% off, and the other E-Jets will get a 30% discount. X-Crafts also plans to add an upgrade discount for users wanting the full lineup. Refer to their official blog post for further information. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-11-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mu24cd</id>
+    <title>Microsoft Provides Update on FS24 Collector's Edition Delay</title>
+    <updated>2024-11-15T00:00:00+00:00</updated>
+    <link href="/news/mu24cd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67377c6b80ea609535670160_IMG_3422.jpg"/>
+    <summary>Sim: FS24. In an announcement made on their website Wednesday, Microsoft addressed the delay in shipping the Limited Collectorâs Edition of the upcoming Microsoft Flight Simulator 2024, as well as outlining their plan to make sure customers are able to access FS24 on release, in just four days. For context, Aerosoft, the vendor for the Limited Collectorâs Edition, sent out an email to customers on Nov. 5, announcing that people who have pre-ordered the Limited Collectorâs Edition outside of the US before Nov. 6 can expect delays in shipping and delivery. However, U.S. customers will not be affected. You can read more about that here. Microsoft begins by thanking customers who pre-ordered the Limited Collectorâs Edition, and apologising, saying that they are âheartbroken that our shipping solution for regions outside of the United States have suffered an unexpected delayâ.They also confirm that Limited Collectorâs Edition pre-order customers outside of the U.S. can expect deliveries to start in the first week of December. To address these delays, Microsoft has announced a plan to ensure affected customers are able to play on release day, which is as follows: Additionally, when customers receive their Limited Collectorâs Edition package, they will have to redeem the code on the physical token provided for the Aviatorâs Edition of Microsoft Flight Simulator 2024 to keep access to the sim. According to Microsoft, âAs long as you sign in with the same account when redeeming the token, then all your progress in the simulator will remainâ. They also posted a FAQ addressing inquiries from the community. As of the time of publication, pre-orders for the Limited Collectorâs Edition are still available on the Aerosoft Store for $259.99 USD. â If youâre wondering when FS24 will be available for you, check out our article covering release times for FS24. Us on the Threshold team are excited for the imminent release of Microsoft Flight Simulator 2024, and we will keep you updated on all of the newest developments regarding the new sim, so stay tuned to Threshold!</summary>
+    <published>2024-11-15T00:00:00+00:00</published>
   </entry>
 </feed>

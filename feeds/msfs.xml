@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-14T18:31:01.086644+00:00</updated>
+  <updated>2024-11-15T18:30:47.376371+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,15 +34,6 @@
     <published>2024-11-13T21:41:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
-    <title>Peripheral Spotlight: Tobii</title>
-    <updated>2024-11-05T17:21:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
-    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
-    <published>2024-11-05T17:21:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
     <title>Peripheral Spotlight: Elgato</title>
     <updated>2024-11-06T17:36:19+00:00</updated>
@@ -88,13 +79,13 @@
     <published>2024-11-13T21:41:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-tobii/</id>
-    <title>Peripheral Spotlight: Tobii</title>
-    <updated>2024-11-05T17:21:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-tobii/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Tobii_Header_Gradient-1024x485.png"/>
-    <summary>We are thrilled to shine a light on Tobii, most known in the flight simulation community for the Tobii Eye Tracker 5. If you attended the past two FlightSimExpos (Houston or Las Vegas), you may have had the chance to try it out at our booth!Tobii Eye Tracker 5 translates your eye and head movements, … Continued</summary>
-    <published>2024-11-05T17:21:19+00:00</published>
+    <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
+    <title>November 14, 2024 Development Update</title>
+    <updated>2024-11-14T23:49:11+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-14-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
+    <published>2024-11-14T23:49:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
@@ -142,13 +133,13 @@
     <published>2024-11-09T19:57:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
-    <title>Peripheral Spotlight: Elgato</title>
-    <updated>2024-11-06T17:36:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
-    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
-    <published>2024-11-06T17:36:19+00:00</published>
+    <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
+    <title>November 14, 2024 Development Update</title>
+    <updated>2024-11-14T23:49:11+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-14-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
+    <published>2024-11-14T23:49:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/IMG_3422-1024x576.jpg"/>
     <summary>Thank you for pre-ordering the Limited Collector’s Edition (LCE) of Microsoft Flight Simulator 2024 (MSFS 2024). This special edition is a love letter to you, our flight simulation fans, and we are heartbroken that our shipping solution for regions outside of the United States have suffered an unexpected delay. To be clear, there is no … Continued</summary>
     <published>2024-11-13T21:41:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
+    <title>November 14, 2024 Development Update</title>
+    <updated>2024-11-14T23:49:11+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-14-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
+    <published>2024-11-14T23:49:11+00:00</published>
   </entry>
 </feed>
