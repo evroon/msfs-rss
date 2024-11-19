@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-18T18:31:27.785910+00:00</updated>
+  <updated>2024-11-19T18:31:19.868210+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,33 +34,6 @@
     <published>2024-11-13T21:41:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
-    <title>Peripheral Spotlight: Elgato</title>
-    <updated>2024-11-06T17:36:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
-    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
-    <published>2024-11-06T17:36:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
-    <title>Peripheral Spotlight: Thrustmaster</title>
-    <updated>2024-11-07T17:28:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
-    <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
-    <published>2024-11-07T17:28:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
-    <title>Peripheral Spotlight: Next Level Racing</title>
-    <updated>2024-11-08T17:14:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
-    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
-    <published>2024-11-08T17:14:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
     <title>Peripheral Spotlight: Yawman Arrow</title>
     <updated>2024-11-09T19:57:04+00:00</updated>
@@ -86,6 +59,33 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
     <published>2024-11-14T23:49:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/2024-launch-sweepstakes/</id>
+    <title>Microsoft Flight Simulator 2024 Launch Sweepstakes</title>
+    <updated>2024-11-19T06:51:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/2024-launch-sweepstakes/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/LaunchPackage_Sweepstakes_Graphic-1024x1024.png"/>
+    <summary>Together with some of our fantastic partners we have put together an extra special sweepstakes opportunity. We’re working with Next Level Racing, Elgato, Thrustmaster and Tobii to bring you a launch package that contains almost everything a simmer needs to set up their own home cockpit and jump into Microsoft Flight Simulator 2024.Continue reading for … Continued</summary>
+    <published>2024-11-19T06:51:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-is-available-today/</id>
+    <title>Microsoft Flight Simulator 2024 is Available Today</title>
+    <updated>2024-11-19T16:05:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-is-available-today/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS2024_JPG-9de6e8972db1e3f8fc95-scaled-2-1024x576.jpg"/>
+    <summary>Microsoft Flight Simulator 2024 is by far our most ambitious simulator to date, and we are incredibly excited for all of you – from our core sim fans to all gamers and those who want to explore the world with us – to join us on this journey. With authentic realism of all environments, aviation … Continued</summary>
+    <published>2024-11-19T16:05:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs-2024-top-known-issues/</id>
+    <title>MSFS 2024 Top Known Issues</title>
+    <updated>2024-11-19T16:10:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-2024-top-known-issues/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS2024_JPG-9de6e8972db1e3f8fc95-scaled-2-1024x576.jpg"/>
+    <summary>Microsoft Flight Simulator 2024 has launched! We are incredibly proud of what we were able to accomplish with this new release and this is without any doubt our most ambitious simulator ever. During the final days of development of this huge project, we discovered a few issues too late to address for the launch:Xbox Series X|S … Continued</summary>
+    <published>2024-11-19T16:10:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
@@ -142,33 +142,6 @@
     <published>2024-11-14T23:49:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
-    <title>Peripheral Spotlight: Thrustmaster</title>
-    <updated>2024-11-07T17:28:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Thrustmaster_Header_Gradient-1024x485.png"/>
-    <summary>For today’s Microsoft Flight Simulator Peripheral Spotlight, we’re focusing on one of flight simulations leading hardware providers for both PC and Xbox: Thrustmaster!Established in 1990, Thrustmaster has become one of the leading names in the world of flight simulation peripherals by consistently producing a range of high-quality joysticks and other controls across civilian, military, and … Continued</summary>
-    <published>2024-11-07T17:28:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/november-7-2024-development-update/</id>
-    <title>November 7, 2024 Development Update</title>
-    <updated>2024-11-08T00:40:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-7-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/ukaka5656-Twitter-1024x576.jpg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter/X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday we hosted another of our planned weekly Developer Livestreams leading up to the release of Microsoft Flight Simulator 2024 on November 19. Joining Jorg this week were Mike … Continued</summary>
-    <published>2024-11-08T00:40:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/</id>
-    <title>Peripheral Spotlight: Next Level Racing</title>
-    <updated>2024-11-08T17:14:25+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-next-level-racing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/NLR_Header_Gradient-1024x485.png"/>
-    <summary>In today’s Peripheral Spotlight, we’re thrilled to showcase Next Level Racing! As their company name might suggest, Next Level Racing got their start making racing seats and cockpits for home auto racing simmers. Following the launch of Microsoft Flight Simulator in 2020, NLR expanded their business by offering a new line of products for flight … Continued</summary>
-    <published>2024-11-08T17:14:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
     <title>Peripheral Spotlight: Yawman Arrow</title>
     <updated>2024-11-09T19:57:04+00:00</updated>
@@ -194,5 +167,32 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
     <published>2024-11-14T23:49:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/2024-launch-sweepstakes/</id>
+    <title>Microsoft Flight Simulator 2024 Launch Sweepstakes</title>
+    <updated>2024-11-19T06:51:49+00:00</updated>
+    <link href="https://www.flightsimulator.com/2024-launch-sweepstakes/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/LaunchPackage_Sweepstakes_Graphic-1024x1024.png"/>
+    <summary>Together with some of our fantastic partners we have put together an extra special sweepstakes opportunity. We’re working with Next Level Racing, Elgato, Thrustmaster and Tobii to bring you a launch package that contains almost everything a simmer needs to set up their own home cockpit and jump into Microsoft Flight Simulator 2024.Continue reading for … Continued</summary>
+    <published>2024-11-19T06:51:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-is-available-today/</id>
+    <title>Microsoft Flight Simulator 2024 is Available Today</title>
+    <updated>2024-11-19T16:05:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-is-available-today/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS2024_JPG-9de6e8972db1e3f8fc95-scaled-2-1024x576.jpg"/>
+    <summary>Microsoft Flight Simulator 2024 is by far our most ambitious simulator to date, and we are incredibly excited for all of you – from our core sim fans to all gamers and those who want to explore the world with us – to join us on this journey. With authentic realism of all environments, aviation … Continued</summary>
+    <published>2024-11-19T16:05:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs-2024-top-known-issues/</id>
+    <title>MSFS 2024 Top Known Issues</title>
+    <updated>2024-11-19T16:10:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-2024-top-known-issues/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS2024_JPG-9de6e8972db1e3f8fc95-scaled-2-1024x576.jpg"/>
+    <summary>Microsoft Flight Simulator 2024 has launched! We are incredibly proud of what we were able to accomplish with this new release and this is without any doubt our most ambitious simulator ever. During the final days of development of this huge project, we discovered a few issues too late to address for the launch:Xbox Series X|S … Continued</summary>
+    <published>2024-11-19T16:10:50+00:00</published>
   </entry>
 </feed>
