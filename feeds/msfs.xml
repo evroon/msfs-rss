@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-21T18:31:21.064204+00:00</updated>
+  <updated>2024-11-22T18:31:44.042601+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -23,15 +23,6 @@
     <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
     <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
     <published>2024-11-09T19:57:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/lce-update/</id>
-    <title>A message to people who preordered the Limited Collector’s Edition outside the US</title>
-    <updated>2024-11-13T21:41:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/lce-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/IMG_3422-1024x576.jpg"/>
-    <summary>Thank you for pre-ordering the Limited Collector’s Edition (LCE) of Microsoft Flight Simulator 2024 (MSFS 2024). This special edition is a love letter to you, our flight simulation fans, and we are heartbroken that our shipping solution for regions outside of the United States have suffered an unexpected delay. To be clear, there is no … Continued</summary>
-    <published>2024-11-13T21:41:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/lce-update/</id>
@@ -88,13 +79,13 @@
     <published>2024-11-20T01:00:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-elgato/</id>
-    <title>Peripheral Spotlight: Elgato</title>
-    <updated>2024-11-06T17:36:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-elgato/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Elgato_Header_Gradient-1-1024x485.png"/>
-    <summary>Today we’re pleased to highlight Elgato as our Peripheral Highlight of the Day! We had the pleasure of meeting several members of the Elgato team during last June’s FlightSimExpo event in Las Vegas where we demoed how Elgato Stream Deck can be used in conjunction with Microsoft Flight Simulator.Elgato Stream Deck has long been considered … Continued</summary>
-    <published>2024-11-06T17:36:19+00:00</published>
+    <id>https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/</id>
+    <title>November 21st Microsoft Flight Simulator (2020) Marketplace Update</title>
+    <updated>2024-11-22T01:14:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
+    <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
+    <published>2024-11-22T01:14:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
@@ -142,13 +133,13 @@
     <published>2024-11-14T23:49:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/lce-update/</id>
-    <title>A message to people who preordered the Limited Collector’s Edition outside the US</title>
-    <updated>2024-11-13T21:41:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/lce-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/IMG_3422-1024x576.jpg"/>
-    <summary>Thank you for pre-ordering the Limited Collector’s Edition (LCE) of Microsoft Flight Simulator 2024 (MSFS 2024). This special edition is a love letter to you, our flight simulation fans, and we are heartbroken that our shipping solution for regions outside of the United States have suffered an unexpected delay. To be clear, there is no … Continued</summary>
-    <published>2024-11-13T21:41:26+00:00</published>
+    <id>https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/</id>
+    <title>November 21st Microsoft Flight Simulator (2020) Marketplace Update</title>
+    <updated>2024-11-22T01:14:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
+    <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
+    <published>2024-11-22T01:14:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS2024_JPG-9de6e8972db1e3f8fc95-scaled-2-1024x576.jpg"/>
     <summary>We have worked hard with our partners, including Asobo and others, to bring you an amazing sim experience. The excitement for the sim today has been overwhelming, but we encountered an issue with one of our services handling the new systems in the game like career mode and various missions. The server responsible for handling … Continued</summary>
     <published>2024-11-20T01:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/</id>
+    <title>November 21st Microsoft Flight Simulator (2020) Marketplace Update</title>
+    <updated>2024-11-22T01:14:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
+    <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
+    <published>2024-11-22T01:14:02+00:00</published>
   </entry>
 </feed>
