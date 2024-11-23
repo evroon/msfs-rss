@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-11-22T18:31:44.042601+00:00</updated>
+  <updated>2024-11-23T18:28:28.550814+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/IMG_3422-1024x576.jpg"/>
     <summary>Thank you for pre-ordering the Limited Collector’s Edition (LCE) of Microsoft Flight Simulator 2024 (MSFS 2024). This special edition is a love letter to you, our flight simulation fans, and we are heartbroken that our shipping solution for regions outside of the United States have suffered an unexpected delay. To be clear, there is no … Continued</summary>
     <published>2024-11-13T21:41:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
-    <title>November 14, 2024 Development Update</title>
-    <updated>2024-11-14T23:49:11+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-14-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
-    <published>2024-11-14T23:49:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/2024-launch-sweepstakes/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
     <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
     <published>2024-11-22T01:14:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/</id>
+    <title>Microsoft Flight Simulator 2024 Update 1.1.9.0 Available Now</title>
+    <updated>2024-11-22T21:02:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
+    <summary>Microsoft flight simulator 2024 1.1.9.0 RELEASE NOTESIf you are playing on PC, outdated packages in your Community Folder may have an unexpected impact on the title’s performance and behavior. If you suffer from stability issues or long loading times, move your Community package(s) to another folder before relaunching the title.Stability &amp; Performance Fixed a crash … Continued</summary>
+    <published>2024-11-22T21:02:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/peripheral-spotlight-thrustmaster/</id>
@@ -142,15 +142,6 @@
     <published>2024-11-22T01:14:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
-    <title>November 14, 2024 Development Update</title>
-    <updated>2024-11-14T23:49:11+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-14-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/KnackBretzel-Forums-1024x512.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user KnackBretzel! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!There’s only five more days until the release of Microsoft Flight Simulator 2024! The launch will be a single global release for all time zones simultaneously at 8:00am … Continued</summary>
-    <published>2024-11-14T23:49:11+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/2024-launch-sweepstakes/</id>
     <title>Microsoft Flight Simulator 2024 Launch Sweepstakes</title>
     <updated>2024-11-19T06:51:49+00:00</updated>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
     <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
     <published>2024-11-22T01:14:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/</id>
+    <title>Microsoft Flight Simulator 2024 Update 1.1.9.0 Available Now</title>
+    <updated>2024-11-22T21:02:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
+    <summary>Microsoft flight simulator 2024 1.1.9.0 RELEASE NOTESIf you are playing on PC, outdated packages in your Community Folder may have an unexpected impact on the title’s performance and behavior. If you suffer from stability issues or long loading times, move your Community package(s) to another folder before relaunching the title.Stability &amp; Performance Fixed a crash … Continued</summary>
+    <published>2024-11-22T21:02:12+00:00</published>
   </entry>
 </feed>
