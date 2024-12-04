@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-03T18:30:47.087735+00:00</updated>
+  <updated>2024-12-04T18:33:34.818777+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/siaban</id>
-    <title>SiamFlight Releases Bang Phra Airfield for MSFS</title>
-    <updated>2024-11-21T00:00:00+00:00</updated>
-    <link href="/news/siaban"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/673fa0e6530024a565ee4305_bang1.webp"/>
-    <summary>Sim: MSFS20. SiamFlight recently released their rendition of Bang Phra Airfield (VTBT) for Microsoft Flight Simulator 2020. Due to its surrounding geography, this airfield is one of the most challenging in Thailand. Located about 3 kilometers east of Bang Phra, a small village in Thailand, the airfield is home to the Thai Flying Club, the country's first and oldest club. The club is highly committed to developing and promoting General Aviation in the area. With a mountain on one end and power lines obstructing the approach on the opposite end, Bang Phra is known as one of the trickiest airfields in Thailand. It requires great dexterity with airplane controls. The scenery accurately depicts the airfield, with custom ground textures, hangars, village landmarks, a custom windsock, custom night lighting, a sloped runway, high power tension lines, and more. It's available on SimMarket for roughly $7.38, requiring at least 7.12 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-11-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jf2024</id>
-    <title>Just Flight Publishes Update on MSFS 2024 Compatibility</title>
-    <updated>2024-11-22T00:00:00+00:00</updated>
-    <link href="/news/jf2024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/673fe163ad892655e82bbbe2_jr1.webp"/>
-    <summary>Sim: FS24. Just Flight recently updated the community regarding their plans for Microsoft Flight Simulator 2024 and eventual upgrades to include the new features made possible with the newly released platform.Â  Their development team has begun evaluating their in-house aircraft in the release build, with promising results in terms of visuals and performance. They plan on bringing their fleet to MSFS 2024 as soon as possible. Asobo has addressed many of the compatibility issues previously found, and they have successfully completed full flights in their newly released RJ Professional, the most complex aircraft in their fleet. However, some compatibility issues still exist and will be worked on. Considering the sheer size of their MSFS fleet, consisting of nine airplanes, the porting process might take a while to complete. Still, Just Flight will keep everyone updated through regular development updates. They also remind users that until the official compatibility update is released, they will not offer support for adventurous users trying to run their 2020 builds in 2024.Â  Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-11-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/afl737</id>
     <title>Airfoillabs Publishes 737 MAX Development Updates </title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674c4bddb5e54ac15b98b97d_Banner_Image.webp"/>
     <summary>Sim: FS24. Taimodels has recently launched its rendition of Beijing Daxing International Airport (ZBAD) for Microsoft Flight Simulator 2020 and 2024. This airport, which serves the capital of China alongside Beijing Capital International Airport, opened just five years ago. It accommodates nearly 40 million passengers each year. After years of proposals, the construction of the new airport was officially approved in 2014. Following five years of construction, the airport opened its doors on September 25, 2019, with its first commercial flight occurring the next day. The airport serves as a hub for six airlines: Air China, Beijing Capital Airlines, China Eastern Airlines, China Southern Airlines, China United Airlines, and XiamenAir. Additionally, it is a focus city for Hebei Airlines. However, the airport is not limited to these carriers; it accommodates numerous airlines from around the globe, offering flights to various destinations, including Hong Kong, Amsterdam, Doha, and many more. The newly released version of Beijing Daxing International Airport includes realistic terminals, airport buildings, PBR ground markings, realistic lighting, custom jetways, and other features. The scenery requires 4.54 GB of storage space and is available on SimMarket for about $23.44. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jacxpl</id>
+    <title>Fly2High Releases Jackson-Medgar Wiley Evers International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-12-03T00:00:00+00:00</updated>
+    <link href="/news/jacxpl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674f6e84f0807b34805888e7_jackson1.webp"/>
+    <summary>Sim: X-Plane. Fly2High recently released their rendition of Jackson-Medgar Wiley Evers International Airport (KJAN) for X-Plane 11 and 12. The airport serves the Jackson metropolitan area and has a yearly average of 1 million passengers. The airport opened in 1963, replacing Hawkins Field, Jacksonâs former main airport since 1928. Construction took around three years and cost 6 million USD (equivalent to 56,000,000 USD in 2023).Â  Itâs named after Medgar Evers (since 2005), a Mississippi Field Secretary for the National Association for the Advancement of Colored People (NAACP), who was assassinated in June 1963.Â Â Â  The airport is served by American Eagle (Charlotte, Dallas-Fort Worth, Washington-National), Delta Air Lines (Atlanta), Southwest Airlines (Atlanta, Baltimore, Houston-Hobby, Orlando), and United Express (Houston-Intercontinental). In addition to passenger flights, the airport handles cargo shipments, with UPS flying to Louisville. The scenery features an accurate rendition of the airport, with hand-placed night lighting, 3D vegetation, weather effects (X-Plane 12 only), high-quality PBR texturing, custom terminal interior, and more. Itâs available on X-Plane.Orgâs Store for $17.99, requiring at least 1.6 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/224110</id>
+    <title>Microsoft Launches New MSFS 2024 Update</title>
+    <updated>2024-12-03T00:00:00+00:00</updated>
+    <link href="/news/224110"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674f726a66e24230f8910eb8_msfs24-1.webp"/>
+    <summary>Sim: FS24. Microsoft recently issued a new update to their newly released Microsoft Flight Simulator 2024, bringing a series of stability, performance fixes, and minor SDK tweaks. Update 1.1.10.0 â the second update since release so far â fixes a crash when navigating fast between the challenges, mitigates an issue with adjusting Tobii Eye Tracker settings in the menu, and addresses various crashes that were reported by the users. Furthermore, the update fixes the floating jetway issue that has plagued the simulator since its release. It also corrects the unloading and reloading of WASM gauges upon restarting a flight. â The complete changelog for the update follows below: Stability &amp; Performance â General Bug Fixes â SDK JS API â Aircraft â Aircraft tech â Model behavior â Flow/Progression â MyLibrary â The update is available right now on Steam and Microsoft Store.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-03T00:00:00+00:00</published>
   </entry>
 </feed>
