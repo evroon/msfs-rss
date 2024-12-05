@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-04T18:33:34.818777+00:00</updated>
+  <updated>2024-12-05T18:31:09.947024+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/afl737</id>
-    <title>Airfoillabs Publishes 737 MAX Development Updates </title>
-    <updated>2024-11-22T00:00:00+00:00</updated>
-    <link href="/news/afl737"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674068dae54a24aec3f3888e_image-1731963660340.webp"/>
-    <summary>Sim: X-Plane. Airfoillabs has released a couple of development updates for their upcoming 737 MAX for X-Plane, just weeks after announcing it.Â  â The first part of the update covered the progress of 3D development. The modelling team has fully finished the texturing of the upper overhead panel, with a focus on precise geometric accuracy and mechanical detail. The developers have also implemented a custom shader, which they claim has improved visual fidelity. Meanwhile, the flight systems have also received progress, as the engine performance and aerodynamic model have been polished to match real-life behaviour (a video of the flight model in action can be found here). An interesting part of the update is the progress made on the Electronic Flight Bag (EFB). Thanks to the new Web API available for X-Plane, the developers will be able to provide a highly functional EFB.Â  The last part dealt with display rendering. The previously mentioned custom shaders also enhanced the instrument displays. The displays that received development were the Primary Flight Display (PFD), Navigational Display (ND) and Engine Indication System. The video of the current state of displays can be seen here. As always, Threshold will keep you updated with all development updates and progress of AFLÂ 737 MAX! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-11-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fir321</id>
-    <title>FlightSimLabs Posts First A321 Video</title>
-    <updated>2024-11-23T00:00:00+00:00</updated>
-    <link href="/news/fir321"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674229141bb7f09ce4fc9e6f_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. FlightSimLabs has recently released its first video showcasing the upcoming FlightSimLabs A321 for Microsoft Flight Simulator. The video highlights the appearance of icing and demonstrates the de-icing process on the new aircraft. The team has also confirmed that the A321 will be compatible with both Microsoft Flight Simulator 2020 and will offer a free upgrade for Microsoft Flight Simulator 2024. The video and its descriptions provide a wealth of information about the icing and de-icing features of the aircraft. It will offer realistic environmental interactions in conjunction with the weather engine from Microsoft Flight Simulator. The short video showcases some of the enhanced immersion that the upcoming aircraft will feature. The video does not provide a specific release date but mentions "coming soon," which suggests that the aircraft's arrival is hopefully imminent. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-11-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/whale1</id>
-    <title>PMDG Publishes New Development Update for MSFS 20/24</title>
-    <updated>2024-11-24T00:00:00+00:00</updated>
-    <link href="/news/whale1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67428686aadfc99ec3353245_whale1.webp"/>
-    <summary>Sim: FS24. PMDG has recently published a lengthy two-part development update regarding their plans for Microsoft Flight Simulator 2024, the upcoming Boeing 777F, and their ongoing work on the 747 Classic (with pictures). The first part is very similar to their previous statement on their plans for Microsoft Flight Simulator 2024, with their plan to rebuild their product line in Microsoft Flight Simulator 2024âs SDK and feature all the new niceties still in place:Â  â â Their position regarding pure compatibility without the 2024 niceties is still the same. The compatibility claim made by Asobo didnât prove to be true, with the airplanes not functioning as they should in the new simulator. They have been working together with Asobo to figure out a potential fix that would allow the straightforward drag-and-drop compatibility to work. â The second part concerns their upcoming products (777F, 747 Classic) and further information on their issues with Microsoft Flight Simulator 2024âs SDK. It lists some of the âblockersâ that have been making their lives slightly harder and draws a parallel with Microsoft Flight Simulator 2020âs initial period and its initial lack of development tooling.Â  â The 777F remains under beta testing in Microsoft Flight Simulator 2020, with the latest beta build featuring small fixes, a completed simulation of the cargo deck lighting systems, operational controls of the cargo deck door, safety nets, and âother fun features within the main deck cargo area,â in Randazzoâs words. They have also included further integration with FSDTâs GSX, allowing the software to seamlessly manage their doors, entries, cargo loading, and unloading.Â  â Their best-case scenario plan was to release it for Microsoft Flight Simulator 2024 only if the release went well enough, which did not happen. Thus, they are moving ahead with the release for Microsoft Flight Simulator 2020.Â  â They anticipate another beta cycle, âlikely earlier next week or the early following week,â and then âshe will roll out of the hangar to support your cargo hauling adventures.â PMDG will let people know when they have the release date set. â The work on the upcoming 747 Classic continues to roll forward, with code-side preparation for the 747-400 reaching an advanced stage of readiness. As the code is running within MSFS 2020 for now, they are beginning mapping changes that will be required to make it MSFS 2024 compatible, making for a âtruly magnificent simulation of this airliner.â â â On the other hand, the 747-100 Classic Whale is shaping up nicely, with feature sets mapped up that will âopen this product line up to a greater swath of users.â âAfter all, while navigating via fixes defined by their lat/lon positions was revolutionary back in 1971, it can be intimidating and confusing for folks who donât understand how the process works or who might not be inclined to take the time to learn it just for their weekend simming experienceâ, justified Randazzo. Their 747 Classic will come with the CIVA triple INS systemâfully modeled to a high degree of detailâwith a built-in flight engineer ready to assist the user should they struggle with its sheer complexity. Hardcore pilots will have the option to handle it all by themselves if they so desire. In addition to the CIVA INS, they will also offer a relatively more modern option: a Honeywell FMS, which equipped many 747-100s later in their service cycle. â They anticipate it will be the âmost detailed classic airliner yet produced for desktop flight simulation.â â PMDGâs lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-11-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fuf24c</id>
     <title>Fenix Updates A320 Series for MSFS24 Compatibility</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674f726a66e24230f8910eb8_msfs24-1.webp"/>
     <summary>Sim: FS24. Microsoft recently issued a new update to their newly released Microsoft Flight Simulator 2024, bringing a series of stability, performance fixes, and minor SDK tweaks. Update 1.1.10.0 â the second update since release so far â fixes a crash when navigating fast between the challenges, mitigates an issue with adjusting Tobii Eye Tracker settings in the menu, and addresses various crashes that were reported by the users. Furthermore, the update fixes the floating jetway issue that has plagued the simulator since its release. It also corrects the unloading and reloading of WASM gauges upon restarting a flight. â The complete changelog for the update follows below: Stability &amp; Performance â General Bug Fixes â SDK JS API â Aircraft â Aircraft tech â Model behavior â Flow/Progression â MyLibrary â The update is available right now on Steam and Microsoft Store.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inibne</id>
+    <title>iniBuilds Releases Brisbane Airport for MSFS 2024 </title>
+    <updated>2024-12-04T00:00:00+00:00</updated>
+    <link href="/news/inibne"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6750c883263c47b2d10e1674_bri1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently released their rendition of Brisbane Airport (YBBN) for Microsoft Flight Simulator 2024. Brisbane Airport is the largest airport in Australia by land area and the third busiest in passenger traffic, with a yearly average of 23.2 million passengers. The airportâs construction started in 1980. Built by Leighton Contractors, it cost 400 million dollars and opened eight years later. It initially had a domestic terminal and two runways. Nearly a decade later, in September 1995, the international terminal was inaugurated, bringing in further passenger traffic. In 2007, the government approved the construction of a new parallel runway, which was expected to take eight years to build on swamp land 2 kilometers west of the terminal area. The unexpectedly long construction time was due to the settling period of the 13,000,000 cubic meters of sand gathered from Moreton Bay to cover the swamp. Work was completed in 2020, costing $1 billion and taking precisely eight years from start to finish. Itâs a hub for Qantas and Virgin Australia. Air Canada, Air Niugini, Alliance Airlines, American Airlines, Batik Air Malaysia, Cathay Pacific, China Airlines, China Eastern Airlines, China Southern Airlines, Delta Air Lines, Emirates, EVA Air, Fiji Airways, FlyPelican, Jetstar, Korean Air, Link Airways, National Jet Express, Nauru Airlines, Philippine Airlines, Qantas, QantasLink, Qatar Airways, Singapore Airlines, Skytrans Airlines, Solomon Airlines, United Airlines, VietJet Air, and Virgin Australia also serve it. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, custom dynamic lighting, highly detailed models of all airport buildings, and an up-to-date layout.Â  Itâs available on the iniBuilds Store for roughly $22.72, requiring at least 8.32 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fnx541</id>
+    <title>Fenix Simulations Updates A320 Lineup for MSFS 20/24</title>
+    <updated>2024-12-04T00:00:00+00:00</updated>
+    <link href="/news/fnx541"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672ad38675d6fc222fc4587a_sharklets9.webp"/>
+    <summary>Sim: FS24. Fenix Simulations has recently issued another update â the third in the span of a few weeks â to their A320 lineup (A319/A320/A321) for Microsoft Flight Simulator 2020 and 2024, adding Quality of Life improvements and warranting further stability on both platforms. Update 2.3.0.541, very much like the previous update, primarily focuses on improving the stability and usability of the add-on in both platforms, addressing issues that would lead to CTDs, improving the robustness of displays, fixing pause at the top of descent, further improving the loading and unloading of the product in MSFS 2024, and wholly mitigating a clickspot issue in the EFB, also a 2024-only issue. The complete changelog follows below: Avionics and Systems EFB Their product lineup is available on their website for roughly $114 (at the time of writing). Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lj35ac</id>
+    <title>Flysimware Releases Learjet 35A Cargo Expansion</title>
+    <updated>2024-12-05T00:00:00+00:00</updated>
+    <link href="/news/lj35ac"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6751c9d7364aab7d9f5528cf_flysimware-learjet-35a-cargo-expansion-pack-msfs2020%20(2).jpg"/>
+    <summary>Sim: MSFS20. Flysimware has released an expansion pack for their Learjet 35A for MSFS. The expansion pack contains three versions of Learjet 35A Cargo - LJ35A equipped with GNS530, GTN750 and GTN750Xi (the latter two require PMS50 GTN750 and GTN750Xi respectively). Based on one of the most popular business jets - the Learjet 35A, the cargo version is capable of carrying up to 900kg, and with the power from two TFE731-2-2B of payload to distances up to 3000km (~1620nmi). The cargo version features a modelled cargo hold, 4K PBR textures and 8 liveries. The expansion pack is available for purchase at Flysimwareâs store for $14.99.Â  For more information about the product, check out the Flysimware Discord. â</summary>
+    <published>2024-12-05T00:00:00+00:00</published>
   </entry>
 </feed>
