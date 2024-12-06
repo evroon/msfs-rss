@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-05T18:31:09.947024+00:00</updated>
+  <updated>2024-12-06T18:32:27.931142+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fuf24c</id>
-    <title>Fenix Updates A320 Series for MSFS24 Compatibility</title>
-    <updated>2024-11-24T00:00:00+00:00</updated>
-    <link href="/news/fuf24c"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674369b7a42c6b89513c8803_livery_6.jpg"/>
-    <summary>Sim: FS24. Developers at Fenix Simulations have recently updated their Airbus A320 series, originally developed for Microsoft Flight Simulator 2020, to bring compatibility with the newly released Microsoft Flight Simulator 2024, among other updates. In a blog post on their website, Fenix founder and director Aamir Thacker announces the update, as well as their plans for MSFS 2024. Thacker says that this new update is ânot simply the 2020 version portedâ, and that they ârebuilt the package with the 2024 SDKâ¦[and] have taken advantage of several of the new features present in 2024â. This includes adding experimental support for 4x SimRate, changes to support MSFS 2024 walkaround mode, and more. The update also brings improvements to the aircraft itself, with a rebuilt airmass temperature simulation, rewritten fuel flow and estimated fuel onboard (EFOB) math, and various improvements to the flight model. Thacker provides a disclaimer that the support for MSFS 2024 is âentirely experimental at this stage and DO NOT consider 2024 compatibility an âadvertisedâ featureâ due to MSFS 2024 being unstable, and they âdo not want to begin taking customersâ money on this basis while being unable to guarantee a smooth experienceâ. He continues to say that Fenix âwill not be considering refund requests on the basis of MSFS 2024 experiences/issuesâ, and they âwill not be accepting customer support tickets in the 2024 environment at this timeâ. Additionally, Thacker mentions that they know of certain issues with the aircraft in MSFS 2024, but most of them are related to simulator-level issues which are not necessarily specific to the A320 series. Finally, Thacker adds that Fenix is not yet done with MSFS 2024, stating that âOnce weâve all had more time with the new platform and a few of the bigger issues are resolved, weâll be back to really sink our teeth into new itemsâ. The full changelog can be found in their blog post. â Stay tuned to Threshold for more high-quality flight simulation news and reviews! Join our Discord and follow us on social media to never miss another article!</summary>
-    <published>2024-11-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tds024</id>
     <title>TDS Sim Software Publishes Statement on MSFS 2024 Compatibility</title>
@@ -150,6 +141,15 @@
     <link href="/news/lj35ac"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6751c9d7364aab7d9f5528cf_flysimware-learjet-35a-cargo-expansion-pack-msfs2020%20(2).jpg"/>
     <summary>Sim: MSFS20. Flysimware has released an expansion pack for their Learjet 35A for MSFS. The expansion pack contains three versions of Learjet 35A Cargo - LJ35A equipped with GNS530, GTN750 and GTN750Xi (the latter two require PMS50 GTN750 and GTN750Xi respectively). Based on one of the most popular business jets - the Learjet 35A, the cargo version is capable of carrying up to 900kg, and with the power from two TFE731-2-2B of payload to distances up to 3000km (~1620nmi). The cargo version features a modelled cargo hold, 4K PBR textures and 8 liveries. The expansion pack is available for purchase at Flysimwareâs store for $14.99.Â  For more information about the product, check out the Flysimware Discord. â</summary>
+    <published>2024-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/md8024</id>
+    <title>Leonardo Announces Upcoming Maddog X Compatibility for MSFS 2024</title>
+    <updated>2024-12-05T00:00:00+00:00</updated>
+    <link href="/news/md8024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67520b59256ee91652e619eb_Banner_Image.webp"/>
+    <summary>Sim: FS24. Leonardo recently shared information on their forum regarding compatibility with Microsoft Flight Simulator 2024 for their Maddog X. The team noted the learning curve presented by the new simulator but emphasized their commitment to addressing the various issues it has introduced. The team has announced that the Maddog X will soon be available for MSFS 2024 as a native upgrade. This upgrade will be free for customers who own the aircraft for MSFS 2020. Additionally, the team is working on an optional expansion to further enhance the add-on, ensuring it meets what they refer to as âFS2020 standardsâ in terms of modelling, texturing, and sound. There is currently no ETA for this expansion. We will keep you updated as soon as the Maddog X is available for Microsoft Flight Simulator 2024. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-12-05T00:00:00+00:00</published>
   </entry>
 </feed>
