@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-07T18:30:18.711552+00:00</updated>
+  <updated>2024-12-08T18:29:59.513067+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfl126</id>
-    <title>Just Flight Publishes A300B4 Professional Development Update for MSFS 2020</title>
-    <updated>2024-11-26T00:00:00+00:00</updated>
-    <link href="/news/jfl126"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6746460bd816149160d57716_ovh1.webp"/>
-    <summary>Sim: MSFS20. Just Flight has recently published a development update on their progress with their upcoming Airbus A300B4 Professional for Microsoft Flight Simulator 2020, showcasing the airplaneâs upper flight engineerâs station and its many switches and lights.Â  They claim every single object has been recreated from high-resolution imagery of a real A300B4 based at the Aeroscopia museum in Toulouse, France; meaning all fonts and scales of the gauge backgrounds and annunciator lights are âas accurate as you can get in any simulator.â The showcase begins with the left-hand column, showing where pilots manage passenger and crew oxygen, hydraulics, and fuel.Â  Then, they skip over to the systems related to the landing gear, brakes, and fire detection, with the APU control panel lying at the very bottom and its three vertically stacked gauges for parameter monitoring, a bank of fault annunciators, switches for fuel pumps and starting, and itâs dedicated fire shut-off handle.Â  The upper right section houses the magnetic annunciators, which display a trefoil pattern when a piece of equipment or its circuitry shows some fault. Underneath lies the air conditioning and pressurization system, arranged from the bottom up and following on from the air bleed section. Its sheer size is explained by the dual pressurization systems for redundancy and the separate temperature controls and displays for the six passenger and cargo compartments. The last column features the panels for the flight data recorder, probe heat, and a large metal guard covering the fuel jettison switches, efficiently protecting it from accidental operation. Just Flight also mentioned on their Facebook page that the A300B4 is a MSFS 2020 product for now, and MSFS 2024 compatibility hasnât been looked at yet. â Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2024-11-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aslimc</id>
-    <title>Aerosoft Announces Release Date for Milan Malpensa Airport for MSFS 2020</title>
-    <updated>2024-11-27T00:00:00+00:00</updated>
-    <link href="/news/aslimc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67477af908984b9cbc357485_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. Aerosoft has just released the official trailer and announced the release date for their upcoming rendition of Milan Malpensa Airport (LIMC) for Microsoft Flight Simulator 2020. The airport is set to be available tomorrow, and while it is initially designed for Microsoft Flight Simulator 2020, a version compatible with Microsoft Flight Simulator 2024 will be available later at no extra cost. Although the pricing has not yet been announced, we will learn more about it tomorrow at the release. Aerosoft has, however, revealed the key features of the new scenery. These include an accurate representation and updated layout of the airport, detailed terminal buildings, high-quality custom structures, realistic nighttime lighting, and much more. We will keep you updated as soon as the scenery is released and available. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-11-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/asmxpr</id>
     <title>Aerosoft Releases Milan Malpensa Airport for MSFS 2020</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536cf0ffa8a38bf570aa36_frei1.webp"/>
     <summary>Sim: MSFS20. PMDG recently released their long-awaited Boeing 777F for Microsoft Flight Simulator 2020. This is one of the worldâs most popular cargo haulers still in production, famous for its fuel efficiency and range. Developed by Boeing to meet the ever-growing demand for highly efficient air cargo transport, it has been hugely successful since its introduction in 2009. Ever since, it has been carrying massive payloads across the globe for many different operators.Â  Powered by two GE90-110B1 engines, which generate enough thrust to lift over 100,000 kilograms of cargo within 550 cubic meters, easily carrying oversized â and heavy â cargo to virtually any destination with a long enough runway. The add-on features an advanced simulation of all avionics and system management operations of the 777 flight deck, an accurately simulated display drawing process, a full electronic checklist, the PMDG Universal Flight Tablet, a full simulation of the 777âs autoflight director and autopilot systems, and more. The complete feature list follows below: â PMDG 777F features Avionics &amp; Flight Deck: Air Conditioning System: Auto-flight System: Brakes and Tires: Cargo Main Deck: Datalink (Currently limited to Hopie Network for ATC services, but more coming!): Doors: Electrical System: Engines: Failures: Flight Controls and Flight Surfaces: Fly By Wire System: Fuel System: Ground Service Vehicles: Hydraulic System: Landing Gear: Lighting Systems: Navigation Data: Physics-based Flexing: Pneumatic System: Simulator Features: As mentioned in their last development update, the 777F is not yet compatible with Microsoft Flight Simulator 2024 due to issues with the new SDK. The airplane is available at PMDG.com for $54.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rj2024</id>
+    <title>Just Flight Updates RJ Professional Bringing MSFS 2024 Compatibility</title>
+    <updated>2024-12-07T00:00:00+00:00</updated>
+    <link href="/news/rj2024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6754a4fc8eb5cbcaf2f90904_Banner_Image.webp"/>
+    <summary>Sim: FS24. Just Flight has updated its RJ Professional add-on to version 1.2. The most notable change is the added compatibility with Microsoft Flight Simulator 2024. Additionally, the aircraft has undergone various fixes and improvements. The new update includes several fixes and improvements. The EFB has received various updates, and the previous issue with the GSX fuel truck not disconnecting after refueling has also been resolved. Additionally, several manuals have been updated. The changelog for the update is provided below: â v1.2 (0.1.2) â - Added MSFS 2024 compatibility - Fixed GSX fuel truck not disconnecting after refuelling complete - Fixed overlapping text on EFB Aircraft &gt; Configuration menu - Fixed cabin GND PWR AVAIL light logic â Now remains illuminated whenever external power is available - Added âfade inâ / âfade outâ effects to exterior lighting to simulated incandescent bulbs - Fixed unable to change speeds flipchart after toggle EFB option on/off - Improved EFB page transition between WASM and JS/HTML pages - Improved navigation light electrical source â One Nav light on each wing tip is powered by ESS DC, the other by the Ground Service Bus. - Updated RJ Professional Operations manual - Updated RJ Professional EFB manual - Updated GNLU-910A FMS Operations manual The updated RJ Professional is now available for both Microsoft Flight Simulator 2020 and 2024. The aircraft can be purchased directly from Just Flight for $69.99. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ardfse</id>
+    <title>FSA Announces FSExpo 2025 Registration Opening December 14</title>
+    <updated>2024-12-07T00:00:00+00:00</updated>
+    <link href="/news/ardfse"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6754b7fc2343ec8a89e6e6e6_Banner_Image.webp"/>
+    <summary>Sim: OTHER. The Flight Simulation Association (FSA) announced in a recent press release that registration for FlightSimExpo 2025 will open on December 14th. Starting next Saturday at 12 PM Eastern Time, you can sign up for the upcoming FlightSimExpo, which will be held in Providence, Rhode Island. For non-members, access from Friday to Sunday is priced at $80. For FSA First Officers, the cost is $72. If you are an FSA Captain, you will pay $64. However, if you are among the first 250 FSA Captains to register, your price will be just $50.Â  â All pricing options include access to seminars and exhibit halls from Friday to Sunday. Participants will also receive access to post-event seminar recordings, a welcome drink during Fridayâs reception, and coffee and tea provided on Saturday and Sunday mornings.Â  â If you are unable to attend FlightSimExpo in person, you can register for live and recorded seminar access for $15. FSA Captains can access this content for free. If you or your team would like to sponsor, exhibit, or speak at the Expo, FlightSimExpo invites developers to register using the following link. Regarding travel and accommodation, discounted rates are currently available. According to co-founder Evan Reiter, one-third of the available rooms have already been booked. The discounted hotel rates represent some of the lowest group rates for a 4-star hotel in downtown Providence during a summer event. You can find more details about accommodation and travel at the following link. FlightSimExpo 2025 will be held in Providence from June 27 to June 29. Registration will open next week on December 14, so set your alarms if you plan to attend next year's FlightSimExpo. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-07T00:00:00+00:00</published>
   </entry>
 </feed>
