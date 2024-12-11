@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-10T18:33:35.085352+00:00</updated>
+  <updated>2024-12-11T18:33:29.613458+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asmxpr</id>
-    <title>Aerosoft Releases Milan Malpensa Airport for MSFS 2020</title>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="/news/asmxpr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67484e8088b8fa00e0945b51_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. Aerosoft has recently launched its version of Milan Malpensa Airport (LIMC) for Microsoft Flight Simulator. As the second busiest airport in Italy and the largest in northern Italy, it serves the city of Milan. The airport welcomes approximately 26.1 million passengers each year. Aviation activities have been taking place in the area of the current airport since 1910. In the early years, the airfield served both general and military aviation. It was not until 1948 that Milan Malpensa Airport began commercial operations. Over the years, the airport has undergone various expansions and continues to develop. In 1998, the Italian airline Alitalia relocated its main hub from the country's largest airport, Rome Fiumicino, to Milan Malpensa. Today, the airport welcomes over 26 million passengers annually, handling approximately 187.000 aircraft movements. It serves as a base for airlines such as easyJet, Neos, and Ryanair, while also accommodating a variety of other airlines that offer destinations around the world, including Rome, Amsterdam, and Singapore. David Rosenfeld has developed the newly released version of Milan Malpensa Airport, featuring an accurate and up-to-date representation of the airport, detailed terminal buildings, high-quality custom objects, realistic night lighting, and more. The add-on requires 3.4 GB of storage space and is available on Aerosoft for approximately $24.21. It's worth noticing that MSFS 2024 compatibility will be available for free in the coming weeks. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-11-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/zdpdud</id>
-    <title>Zero Dollar Payware Posts Development Update</title>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="/news/zdpdud"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6748571a4fc14894e2191251_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Zero Dollar Payware has recently provided an update on their Discord regarding their current products and future plans. The team announced that they have entered the sustaining phase of their lifecycle, which means they will continue to support their existing projects. However, their capacity to start new projects is limited. The focus will be on v2 updates for their current projects. If they do take on any new projects, these will likely be smaller airports, similar in size to Gold Coast Airport. Next year will be dedicated to these v2 updates, although it is possible for a new project to emerge, none are currently planned. The team has provided updates on their current projects. EGLL is making steady progress, with a significant update expected in the first half of 2025, likely to include T5A.Â  â The ZDP Library v1.2 update is nearly complete and is scheduled for release before the end of the year. â RKSI will receive a v2 update featuring an updated taxiway layout, a new runway, new aprons, new buildings, and new ground textures.Â  â MDPC is also set for a v2 update, which will include new ground textures, new vegetation, updated ortho, an updated taxiway layout, an updated apron layout, and completely redone buildings. â The team intends to provide RJAA with a v2 update featuring new ground textures, ortho, vegetation, and more. However, this is a substantial task, and no timeline has been established for its completion. â As for KSDF, PANC, EGNR, KCLL, and YBCG, no updates are currently planned.Â  â Lastly, the EDHI project is unfortunately no longer active due to a lack of cooperation from iniBuilds concerning the Beluga Halle. Additionally, the source files were lost due to a hard drive failure. Consequently, the team has determined that reviving this project is not feasible at this time. The team has stated that they are monitoring the development of X-Plane 12 and the release of next-generation scenery. If any compatibility issues arise from these developments or releases, they will pause their current projects to focus on updates. As a result, the team's plans may be affected and are subject to change. â We will keep you informed as soon as the team shares more information or releases any updates. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-11-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fnx532</id>
-    <title>Fenix Simulations Updates A320 Lineup for MSFS 20/24</title>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="/news/fnx532"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672ad36ef2cdccb6b9a18c44_sharklets12.webp"/>
-    <summary>Sim: FS24. Fenix Simulations has recently issued a new update to their A320 Lineup for Microsoft Flight Simulator 2020 and 2024, focusing on stability and code infrastructure. Update 2.3.0.532 fixes an issue where the aircraft's systems would not load or unload correctly, a bug with the CAB ALT gauge not showing the correct value and a few crash fixes. The model was also improved for MSFS 2024, with a cockpit blend mask fix across ambient occlusion, metalness, and roughness.Â  Their installer was also updated, and it now automatically cleans up old log files when installing a new product. MS Store is preferred over Steam if both are installed, as well as additional data logging and more. The full changelog follows below: The complete lineup (A319, A320, A321) is available on their website for roughly $114. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-11-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inibbn</id>
-    <title>iniBuilds Announces Brisbane Airport for MSFS 2024</title>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="/news/inibbn"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6748ed0df5b2a6430f3c2c5f_bris1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently announced the development and imminent release of Brisbane Airport (YBBN) for Microsoft Flight Simulator 2024. Brisbane Airport is the largest airport in Australia by land area and the third busiest in passenger traffic, with a yearly average of 23.2 million passengers. The airportâs construction started in 1980. Built by Leighton Contractors, it cost 400 million dollars and opened eight years later. It initially had a domestic terminal and two runways. Nearly a decade later, in September 1995, the international terminal was inaugurated, bringing in further passenger traffic. In 2007, the government approved the construction of a new parallel runway, which was expected to take eight years to build on swamp land 2 kilometers west of the terminal area. The unexpectedly long construction time was due to the settling period of the 13,000,000 cubic meters of sand gathered from Moreton Bay to cover the swamp. Work was completed in 2020, costing $1 billion and taking precisely eight years from start to finish. Itâs a hub for Qantas and Virgin Australia. Air Canada, Air Niugini, Alliance Airlines, American Airlines, Batik Air Malaysia, Cathay Pacific, China Airlines, China Eastern Airlines, China Southern Airlines, Delta Air Lines, Emirates, EVA Air, Fiji Airways, FlyPelican, Jetstar, Korean Air, Link Airways, National Jet Express, Nauru Airlines, Philippine Airlines, Qantas, QantasLink, Qatar Airways, Singapore Airlines, Skytrans Airlines, Solomon Airlines, United Airlines, VietJet Air, and Virgin Australia also serve it. â Thereâs no information regarding pricing or features yet, but Threshold will keep you informed.Â  â</summary>
-    <published>2024-11-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/777612</id>
-    <title>PMDGâs Boeing 777F Release Date Confirmed, 737 Lineup Update, and More</title>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="/news/777612"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6748f61a71e1eca5334fa74f_777f1.webp"/>
-    <summary>Sim: MSFS20. PMDG has published yet another development update, bringing further information on Microsoft Flight Simulator 2024 add-on compatibility, the release date of their upcoming 777F, and a micro-update for their 737 Lineup, bringing it to full parity with the marketplace version. The 737NG lineup has been updated to version 3.00.0108, matching the marketplace version to be made available in early December (according to Randazzo's predictions). It's mostly a micro-update, removing "some cruft that was determined to be unneeded in the release build of the product" at the request of the Marketplace's intake team. In their previous development update, they mentioned that the 777F would get a release date once they had issued a few cleanup builds to their beta testers. This has happened, and now they have a date in mind: next Friday (06/12), during the evening, for Microsoft Flight Simulator 2020. Pricing will be announced at release. The add-on will feature accurately modeled supernumary controls and functions, main deck lighting systems, manual or automatic operation of the main deck cargo door, safety guards, and more. They have also increased the GSX compatibility by allowing FSDT's plugin to control the doors, loading process, etc. Their take on MSFS 2024, compatibility-wise, is still the same as that of the previous development updates: they have not yet been able to fully gauge the amount of work required because the new simulator does not yet provide the required tooling. Randazzo shared PMDG's thoughts on Microsoft Flight Simulator 2024: "My answer remains optimistic. I have been exploring the new sim while flying the PMDG DC-6 which is not yet fully compatible, but overlooking the dim displays and some font issues, gives a very good representation of what it will be like once we get the fleet compatible with the new platform". "MSFS24 is to my eye more convincing visually than any simulation platform we have ever seen [...] It offers more opportunity to engage in interesting flying, varied degrees of flying, community participation and engaged learning than any simulation platform we have had access to in the short 40+ years I've called myself a simmer", he concluded. PMDG's aircraft lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-11-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fslweb</id>
     <title>FSLabs Launches New Website with Further A321ceo Details Included</title>
@@ -151,5 +106,50 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6754b7fc2343ec8a89e6e6e6_Banner_Image.webp"/>
     <summary>Sim: OTHER. The Flight Simulation Association (FSA) announced in a recent press release that registration for FlightSimExpo 2025 will open on December 14th. Starting next Saturday at 12 PM Eastern Time, you can sign up for the upcoming FlightSimExpo, which will be held in Providence, Rhode Island. For non-members, access from Friday to Sunday is priced at $80. For FSA First Officers, the cost is $72. If you are an FSA Captain, you will pay $64. However, if you are among the first 250 FSA Captains to register, your price will be just $50.Â  â All pricing options include access to seminars and exhibit halls from Friday to Sunday. Participants will also receive access to post-event seminar recordings, a welcome drink during Fridayâs reception, and coffee and tea provided on Saturday and Sunday mornings.Â  â If you are unable to attend FlightSimExpo in person, you can register for live and recorded seminar access for $15. FSA Captains can access this content for free. If you or your team would like to sponsor, exhibit, or speak at the Expo, FlightSimExpo invites developers to register using the following link. Regarding travel and accommodation, discounted rates are currently available. According to co-founder Evan Reiter, one-third of the available rooms have already been booked. The discounted hotel rates represent some of the lowest group rates for a 4-star hotel in downtown Providence during a summer event. You can find more details about accommodation and travel at the following link. FlightSimExpo 2025 will be held in Providence from June 27 to June 29. Registration will open next week on December 14, so set your alarms if you plan to attend next year's FlightSimExpo. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-12-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fslr21</id>
+    <title>FlightSimLabs Releases Airbus A321ceo for MSFS 2020</title>
+    <updated>2024-12-10T00:00:00+00:00</updated>
+    <link href="/news/fslr21"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67588ec007ded34d968da4ad_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. FlightSimLabs has just launched its highly anticipated version of the Airbus A321ceo for Microsoft Flight Simulator 2020. This rendition of the longest variant in the Airbus A320ceo family is now available to take to the virtual skies. The Airbus A321ceo is a twin-engine, single-aisle commercial aircraft that had its first flight in 1993. Since then, a total of 1,784 A321ceos have been built and delivered. This model can be equipped with either CFM or IAE engines and can feature sharklets or wingtip fences. The A321ceo is the predecessor to the newer A321neo, with the primary difference being the new engine option in the neo version. The A321ceo is operated by airlines around the world, including American Airlines, Turkish Airlines, and Lufthansa. FlightSimLabâs rendition of the Airbus A321ceo includes a wide range of features. It offers options for both CFM and IAE engines, as well as variants with wingtip fences and sharklets. The aircraft model is highly detailed, showcasing realistic weather and environmental effects. Additional features include dynamic failures, aircraft aging, an electronic flight bag (EFB), GSX integration, and much more, all contributing to a highly realistic simulation of the aircraft and its systems. The newly released Airbus A321ceo is now available for purchase directly from FlightSimLabs for $69.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/300113</id>
+    <title>iniBuilds Updates A300-600R for MSFS 2024 Compatibility</title>
+    <updated>2024-12-10T00:00:00+00:00</updated>
+    <link href="/news/300113"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/661a650af25ee1803d0c545c_Banner_Image.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently issued an update to their A300-600R product line, making it compatible with Microsoft Flight Simulator 2024, albeit in a Beta state with a few caveats. Version 1.1.3 introduces compatibility with the newly released flight simulator, but there are some known issues to be aware of for the time being: terrain display problems, loss of overhead Korry switch and ambient packs/bleed sounds when switching views, random TCAS RA errors from the plane itself and networking issues. Initially released a year ago for MSFS 2020, the add-on features a detailed custom flight management system with SIDs, STARs, an SEC flight plan, custom VNAV and LNAV, an IDC radio with CPDLC and ACARS, custom systems, two engine options (PW and GE), a realistic RNAV, custom maintenance functions, and more. Itâs available on the iniBuilds Store for roughly $44.59, requiring at least 8.81 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/m24127</id>
+    <title>Microsoft Releases New MSFS 2024 Update</title>
+    <updated>2024-12-11T00:00:00+00:00</updated>
+    <link href="/news/m24127"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674f7277bb1f0ce33ab07974_msfs24-2.webp"/>
+    <summary>Sim: FS24. Microsoft recently issued a new update (1.2.7.0) to its newly released Microsoft Flight Simulator 2024. This update allows users to enable/disable MSFS 2020âs (Marketplace) individually ported content, provides additional stability and performance fixes, and more. Update 1.2.7.0 is the most significant so far, addressing a few items that were previously requested by the community, such as the option to individually enable or disable ported marketplace content from Microsoft Flight Simulator 2020, and bringing a considerable list of fixes, warranting further stability and better performance. The complete changelog (for stability and bug fixes) follows below: â Stability &amp; Performance â General Bug Fixes â Please refer to the official release notes for the full spectrum on a per-aircraft basis. â The update is available right now on all supported platforms. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkslszh</id>
+    <title>MK Studios Release Zurich for MSFS</title>
+    <updated>2024-12-11T00:00:00+00:00</updated>
+    <link href="/news/mkslszh"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6759af67cdc516021ba75d3f_lszh_slider_2_1600x.webp"/>
+    <summary>Sim: FS24. MK Studios has released its latest scenery for MSFS20 and 24. The team has headed to Zurich, Switzerland's largest city, offering many custom features and high-quality models. Zurich acts as the main gateway into Switzerland having served 28.9 million passengers in 2023. It is also the main base for the flag carrier airline: Swiss. Allowing for routes across Europe and further. The team have made sure to allow for compatibility with both sims allowing users from FS20 &amp; 24 to utilise it. The scenery is filled with high-quality textures on the building's exteriors, interiors and groundwork. All working together to give an accurate depiction of the airport. This is paired with custom objects to match real life, increasing realism. Concourse A,B and E feature a modelled interior, this is a growing feature we are seeing in sceneries that adds a level of depth to the terminal buildings when parked at the gates.Â Below is the full feature list: MK Studios Zurich is priced atÂ Â£15.11excl.VAT and can be purchased from the Contrail Shop.Â  Make sure to stay tuned to Threshold for more flight simulation news and join the community through our Discord.</summary>
+    <published>2024-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hsupda</id>
+    <title>Headwind Simulations Updates Airbus A339X and SU95X for MSFS 2020</title>
+    <updated>2024-12-11T00:00:00+00:00</updated>
+    <link href="/news/hsupda"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6759c353fc21d89e622f2dbd_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. Headwind Simulations has recently released updates for its A339X and SU95X projects for MSFS. The new update integrates SayIntentions.AI ACARS and CPDLC into both aircraft. SayIntentions.AI is an AI ATC (Air Traffic Control) plugin designed for various flight simulators. It provides features such as ATC, copilots, cabin crew, and more, all powered by artificial intelligence. A key component of the ATC functionality in SayIntentions.AI includes ACARS (Aircraft Communications Addressing and Reporting System) and CPDLC (Controller-Pilot Data Link Communications). These systems facilitate communication between the ground and the aircraft, allowing for interactions between air traffic controllers and pilots. â With the recent integration of ACARS and CPDLC from SayIntentions.AI into Headwind Simulationâs aircraft, users can now access these features. Please note that a Premium Membership is required to utilise this feature.  The latest updates for the A339X and the SU95X are now accessible via the Headwind Simulations installer. Since the update is part of the pre-release channels, be sure to select this option for the most recent update. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-11T00:00:00+00:00</published>
   </entry>
 </feed>
