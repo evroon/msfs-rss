@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-12-12T18:33:10.285019+00:00</updated>
+  <updated>2024-12-13T18:32:19.376893+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS_BlackFridaySale2024_v2_1920x1080-1024x576.jpg"/>
     <summary>For 6 Days starting on November 27th, save up to 90% on more than 3500 items.</summary>
     <published>2024-11-27T19:21:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/</id>
-    <title>Microsoft Flight Simulator 2024 Update 1.1.9.0 Available Now</title>
-    <updated>2024-11-22T21:02:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-update-1-1-9-0-available-now/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
-    <summary>Microsoft flight simulator 2024 1.1.9.0 RELEASE NOTESIf you are playing on PC, outdated packages in your Community Folder may have an unexpected impact on the title’s performance and behavior. If you suffer from stability issues or long loading times, move your Community package(s) to another folder before relaunching the title.Stability &amp; Performance Fixed a crash … Continued</summary>
-    <published>2024-11-22T21:02:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-november-27-update/</id>
@@ -88,13 +79,13 @@
     <published>2024-12-10T23:01:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/</id>
-    <title>Peripheral Spotlight: Yawman Arrow</title>
-    <updated>2024-11-09T19:57:04+00:00</updated>
-    <link href="https://www.flightsimulator.com/peripheral-spotlight-yawman-arrow/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Yawman_Header_Gradient-1024x485.png"/>
-    <summary>In today’s Peripheral Spotlight, we’re pleased to highlight the Yawman Arrow! The brainchild of Yawman’s co-founder Thomas Nield, the Arrow is designed for simmers on the go who want a complete flight control peripheral device that doesn’t make any sacrifices to sim features and input precision but is small enough to fit into a laptop bag.Nield initially … Continued</summary>
-    <published>2024-11-09T19:57:04+00:00</published>
+    <id>https://www.flightsimulator.com/december-12th-2024-development-update/</id>
+    <title>December 12th, 2024 Development Update</title>
+    <updated>2024-12-13T00:37:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-12th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/ZeekR5430-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user ZeekR5430! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Tuesday, we released Patch 3 (v1.2.7.0) for Microsoft Flight Simulator 2024. This update contains fixes to hundreds of bugs and issues that players have experienced since the November … Continued</summary>
+    <published>2024-12-13T00:37:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-14-2024-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2024-12-06T00:33:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale-3500-items-on-sale-now-in-the-marketplace-msfs-2020/</id>
-    <title>BLACK FRIDAY SALE: 3500+ ITEMS ON SALE NOW IN THE MARKETPLACE | MSFS (2020)</title>
-    <updated>2024-11-27T19:21:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale-3500-items-on-sale-now-in-the-marketplace-msfs-2020/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS_BlackFridaySale2024_v2_1920x1080-1024x576.jpg"/>
-    <summary>For 6 Days starting on November 27th, save up to 90% on more than 3500 items.</summary>
-    <published>2024-11-27T19:21:34+00:00</published>
+    <id>https://www.flightsimulator.com/december-12th-2024-development-update/</id>
+    <title>December 12th, 2024 Development Update</title>
+    <updated>2024-12-13T00:37:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-12th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/ZeekR5430-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user ZeekR5430! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Tuesday, we released Patch 3 (v1.2.7.0) for Microsoft Flight Simulator 2024. This update contains fixes to hundreds of bugs and issues that players have experienced since the November … Continued</summary>
+    <published>2024-12-13T00:37:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-november-27-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
     <summary>A new update is now available in Microsoft Flight Simulator 2024 on all platforms.</summary>
     <published>2024-12-10T23:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/december-12th-2024-development-update/</id>
+    <title>December 12th, 2024 Development Update</title>
+    <updated>2024-12-13T00:37:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/december-12th-2024-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/ZeekR5430-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user ZeekR5430! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Tuesday, we released Patch 3 (v1.2.7.0) for Microsoft Flight Simulator 2024. This update contains fixes to hundreds of bugs and issues that players have experienced since the November … Continued</summary>
+    <published>2024-12-13T00:37:40+00:00</published>
   </entry>
 </feed>

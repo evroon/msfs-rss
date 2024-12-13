@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-12T18:33:13.767717+00:00</updated>
+  <updated>2024-12-13T18:32:23.318066+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/224110</id>
-    <title>Microsoft Launches New MSFS 2024 Update</title>
-    <updated>2024-12-03T00:00:00+00:00</updated>
-    <link href="/news/224110"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/674f726a66e24230f8910eb8_msfs24-1.webp"/>
-    <summary>Sim: FS24. Microsoft recently issued a new update to their newly released Microsoft Flight Simulator 2024, bringing a series of stability, performance fixes, and minor SDK tweaks. Update 1.1.10.0 â the second update since release so far â fixes a crash when navigating fast between the challenges, mitigates an issue with adjusting Tobii Eye Tracker settings in the menu, and addresses various crashes that were reported by the users. Furthermore, the update fixes the floating jetway issue that has plagued the simulator since its release. It also corrects the unloading and reloading of WASM gauges upon restarting a flight. â The complete changelog for the update follows below: Stability &amp; Performance â General Bug Fixes â SDK JS API â Aircraft â Aircraft tech â Model behavior â Flow/Progression â MyLibrary â The update is available right now on Steam and Microsoft Store.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inibne</id>
     <title>iniBuilds Releases Brisbane Airport for MSFS 2024 </title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672ad407b9d14c3f4c8b8d0e_sharklets19.webp"/>
     <summary>Sim: FS24. Fenix Simulations has issued a micro-update to their A320 Family (A319/A320/A321) for Microsoft Flight Simulator 2020 and 2024, bringing more fixes to their 2024 port on systems, art, and tweaks to the EFB (both platforms). Update 2.3.0.553 is the fourth product line update since it was made compatible with Microsoft Flight Simulator 2024. It further enhances compatibility and improves overall stability by mitigating an issue where the aircraft would restart upon switching camera views or changing settings. A potential crash when handling inputs was also found and addressed. On the art side of things, they have fixed the registration and SELCAL not appearing at all, although they still appear black for the time being, and rain now travels in the correct direction. Their EFB has also undergone tweaking to fix potential errors when retrieving METARs with invalid data and to remove a slight pixel gap at the bottom of the app bar. The product line is available on their website for roughly $114 at the time of writing. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tc52rd</id>
+    <title>TorqueSim Announces CitationJet C525 Release Date</title>
+    <updated>2024-12-12T00:00:00+00:00</updated>
+    <link href="/news/tc52rd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/675b6d68a1e84a15d670efcc_CJ_05.jpg"/>
+    <summary>Sim: X-Plane. X-Plane developer TorqueSim has announced the release date of their CitationJet C525. The aircraft has been in development for over five years and is slated for release on December 12th at 17:00Z TorqueSim has stated that the aircraft will be âstudy levelâ, and says it will include a fully custom Honeywell avionics suite designed to closely replicate the functionality of the real-world aircraft, including immersive sounds, as well as a highly detailed cabin. The CitationJet family includes the original C525, along with the C525A, B, and C variants, each of them having their own submodels. The aircraft depicted in the simulator is the original Model 525, which had its first flight in 1991.  The CitationJet is part of the Take Command! product line sold on the X-Aviation store. It has previously featured the Cirrus SR22 G1000 series by TorqueSim. The developers, who started in 2018 are also the ones behind aircraft like the Take Command! SR20 and BN-2 Islander. The Take Command! TorqueSim CitationJet C525 will be exclusive to X-Plane 12, and will be available for purchase on the X-Aviation store on December 12th at 17:00Z for $84.95. â Stay tuned to Threshold for news, reviews, and more! Additionally, join our vibrant community on Discord.</summary>
+    <published>2024-12-12T00:00:00+00:00</published>
   </entry>
 </feed>
