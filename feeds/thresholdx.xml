@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-13T18:32:23.318066+00:00</updated>
+  <updated>2024-12-14T18:30:06.384015+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inibne</id>
-    <title>iniBuilds Releases Brisbane Airport for MSFS 2024 </title>
-    <updated>2024-12-04T00:00:00+00:00</updated>
-    <link href="/news/inibne"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6750c883263c47b2d10e1674_bri1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently released their rendition of Brisbane Airport (YBBN) for Microsoft Flight Simulator 2024. Brisbane Airport is the largest airport in Australia by land area and the third busiest in passenger traffic, with a yearly average of 23.2 million passengers. The airportâs construction started in 1980. Built by Leighton Contractors, it cost 400 million dollars and opened eight years later. It initially had a domestic terminal and two runways. Nearly a decade later, in September 1995, the international terminal was inaugurated, bringing in further passenger traffic. In 2007, the government approved the construction of a new parallel runway, which was expected to take eight years to build on swamp land 2 kilometers west of the terminal area. The unexpectedly long construction time was due to the settling period of the 13,000,000 cubic meters of sand gathered from Moreton Bay to cover the swamp. Work was completed in 2020, costing $1 billion and taking precisely eight years from start to finish. Itâs a hub for Qantas and Virgin Australia. Air Canada, Air Niugini, Alliance Airlines, American Airlines, Batik Air Malaysia, Cathay Pacific, China Airlines, China Eastern Airlines, China Southern Airlines, Delta Air Lines, Emirates, EVA Air, Fiji Airways, FlyPelican, Jetstar, Korean Air, Link Airways, National Jet Express, Nauru Airlines, Philippine Airlines, Qantas, QantasLink, Qatar Airways, Singapore Airlines, Skytrans Airlines, Solomon Airlines, United Airlines, VietJet Air, and Virgin Australia also serve it. The scenery features an accurate rendition of the airport, with hand-made ground textures, true-to-life landside recreation, custom dynamic lighting, highly detailed models of all airport buildings, and an up-to-date layout.Â  Itâs available on the iniBuilds Store for roughly $22.72, requiring at least 8.32 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fnx541</id>
     <title>Fenix Simulations Updates A320 Lineup for MSFS 20/24</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/675b6d68a1e84a15d670efcc_CJ_05.jpg"/>
     <summary>Sim: X-Plane. X-Plane developer TorqueSim has announced the release date of their CitationJet C525. The aircraft has been in development for over five years and is slated for release on December 12th at 17:00Z TorqueSim has stated that the aircraft will be âstudy levelâ, and says it will include a fully custom Honeywell avionics suite designed to closely replicate the functionality of the real-world aircraft, including immersive sounds, as well as a highly detailed cabin. The CitationJet family includes the original C525, along with the C525A, B, and C variants, each of them having their own submodels. The aircraft depicted in the simulator is the original Model 525, which had its first flight in 1991.  The CitationJet is part of the Take Command! product line sold on the X-Aviation store. It has previously featured the Cirrus SR22 G1000 series by TorqueSim. The developers, who started in 2018 are also the ones behind aircraft like the Take Command! SR20 and BN-2 Islander. The Take Command! TorqueSim CitationJet C525 will be exclusive to X-Plane 12, and will be available for purchase on the X-Aviation store on December 12th at 17:00Z for $84.95. â Stay tuned to Threshold for news, reviews, and more! Additionally, join our vibrant community on Discord.</summary>
     <published>2024-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777060</id>
+    <title>PMDG Updates 777 Lineup for MSFS </title>
+    <updated>2024-12-13T00:00:00+00:00</updated>
+    <link href="/news/777060"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
+    <summary>Sim: MSFS20. PMDG has recently issued an update to their 777 lineup (777-300R and 777F) for Microsoft Flight Simulator 2020. The update cleans up a few items that required attention after the 777F release and addresses issues on the 777-300R caused by code changes to accommodate the 777F.Â  Update v2.00.0060 eliminates the ghost cargo door advisory and its associated TOCWS trigger on the 777-300ER and adds numerous model cleanups, logic fixes, and more. The changelog follows below: â They have also published new information on the status of their Microsoft Flight Simulator 2024 port: they are now able to run code and debugging in MSFS 2024 after a recent update, but the memory allocation error from 2020 appears to be present in 2024 as well â despite PMDG reporting it in the past â, bringing the development effort to a halt as C++ WASM projects seem to rely heavily on advanced memory allocation techniques used by modern C++ compilers. That means they cannot run, build, or test code properly within MSFS 2024. The 737 family will soon receive an update to address the issue with the Universal Flight Tablet not loading properly. Thereâs no exact prediction of when it will be available for Marketplace users, but it should be coming soon for PMDG.com customers. PMDGâs aircraft lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-13T00:00:00+00:00</published>
   </entry>
 </feed>
