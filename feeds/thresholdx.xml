@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-14T18:30:06.384015+00:00</updated>
+  <updated>2024-12-15T18:30:01.509302+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fnx541</id>
-    <title>Fenix Simulations Updates A320 Lineup for MSFS 20/24</title>
-    <updated>2024-12-04T00:00:00+00:00</updated>
-    <link href="/news/fnx541"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/672ad38675d6fc222fc4587a_sharklets9.webp"/>
-    <summary>Sim: FS24. Fenix Simulations has recently issued another update â the third in the span of a few weeks â to their A320 lineup (A319/A320/A321) for Microsoft Flight Simulator 2020 and 2024, adding Quality of Life improvements and warranting further stability on both platforms. Update 2.3.0.541, very much like the previous update, primarily focuses on improving the stability and usability of the add-on in both platforms, addressing issues that would lead to CTDs, improving the robustness of displays, fixing pause at the top of descent, further improving the loading and unloading of the product in MSFS 2024, and wholly mitigating a clickspot issue in the EFB, also a 2024-only issue. The complete changelog follows below: Avionics and Systems EFB Their product lineup is available on their website for roughly $114 (at the time of writing). Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lj35ac</id>
-    <title>Flysimware Releases Learjet 35A Cargo Expansion</title>
-    <updated>2024-12-05T00:00:00+00:00</updated>
-    <link href="/news/lj35ac"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6751c9d7364aab7d9f5528cf_flysimware-learjet-35a-cargo-expansion-pack-msfs2020%20(2).jpg"/>
-    <summary>Sim: MSFS20. Flysimware has released an expansion pack for their Learjet 35A for MSFS. The expansion pack contains three versions of Learjet 35A Cargo - LJ35A equipped with GNS530, GTN750 and GTN750Xi (the latter two require PMS50 GTN750 and GTN750Xi respectively). Based on one of the most popular business jets - the Learjet 35A, the cargo version is capable of carrying up to 900kg, and with the power from two TFE731-2-2B of payload to distances up to 3000km (~1620nmi). The cargo version features a modelled cargo hold, 4K PBR textures and 8 liveries. The expansion pack is available for purchase at Flysimwareâs store for $14.99.Â  For more information about the product, check out the Flysimware Discord. â</summary>
-    <published>2024-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/md8024</id>
-    <title>Leonardo Announces Upcoming Maddog X Compatibility for MSFS 2024</title>
-    <updated>2024-12-05T00:00:00+00:00</updated>
-    <link href="/news/md8024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67520b59256ee91652e619eb_Banner_Image.webp"/>
-    <summary>Sim: FS24. Leonardo recently shared information on their forum regarding compatibility with Microsoft Flight Simulator 2024 for their Maddog X. The team noted the learning curve presented by the new simulator but emphasized their commitment to addressing the various issues it has introduced. The team has announced that the Maddog X will soon be available for MSFS 2024 as a native upgrade. This upgrade will be free for customers who own the aircraft for MSFS 2020. Additionally, the team is working on an optional expansion to further enhance the add-on, ensuring it meets what they refer to as âFS2020 standardsâ in terms of modelling, texturing, and sound. There is currently no ETA for this expansion. We will keep you updated as soon as the Maddog X is available for Microsoft Flight Simulator 2024. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmr77f</id>
     <title>PMDG Releases Boeing 777F for MSFS 2020</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
     <summary>Sim: MSFS20. PMDG has recently issued an update to their 777 lineup (777-300R and 777F) for Microsoft Flight Simulator 2020. The update cleans up a few items that required attention after the 777F release and addresses issues on the 777-300R caused by code changes to accommodate the 777F.Â  Update v2.00.0060 eliminates the ghost cargo door advisory and its associated TOCWS trigger on the 777-300ER and adds numerous model cleanups, logic fixes, and more. The changelog follows below: â They have also published new information on the status of their Microsoft Flight Simulator 2024 port: they are now able to run code and debugging in MSFS 2024 after a recent update, but the memory allocation error from 2020 appears to be present in 2024 as well â despite PMDG reporting it in the past â, bringing the development effort to a halt as C++ WASM projects seem to rely heavily on advanced memory allocation techniques used by modern C++ compilers. That means they cannot run, build, or test code properly within MSFS 2024. The 737 family will soon receive an update to address the issue with the Universal Flight Tablet not loading properly. Thereâs no exact prediction of when it will be available for Marketplace users, but it should be coming soon for PMDG.com customers. PMDGâs aircraft lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tscj52</id>
+    <title>TorqueSim Releases TakeCommand! CitationJet 525 for X-Plane 12</title>
+    <updated>2024-12-14T00:00:00+00:00</updated>
+    <link href="/news/tscj52"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/675dd9b123b88309489808a8_CJ525_1.webp"/>
+    <summary>Sim: X-Plane. TorqueSim has released their long-awaited CItationJet 525 for X-Plane 12. After more than six years of development, one of the most popular business jets is finally here! Produced to replace the ageing Citation I and IIs, the Cessna CitationJet 525 had its first flight in April 1991 and has since been developed into Model 525A, 525B, and 525C. Over 2000 CitationJets have been produced, making them the most produced business jets. Capable of cruising up to altitudes of 41,000ft and equipped with two Williams R-R FJ44-1A turbofan engines, this T-tail jet can fly at Mach 0.65 for around 1560 nautical miles ( ~2880km). The TorqueSimâs rendition of CitationJet 525 features an authentic flight model with custom airfoils, custom soundpack, high-resolution textures, custom-developed electrical, hydraulic, fuel, and pneumatic systems, custom Honeywell avionics. It also supports RealityXP GNS/GTN, as well as the upcoming TDS Sim GTNXi. The TakeCommand! CitationJet 525 is available for purchase at the X-Aviation store for $84.95.Â  It is compatible with X-Plane 12 only and can be used on MacOS 12+ (at least Monterey), Windows 10+, and Linux (support is provided only for Ubuntu 24.02 LTS). The recommended specifications for it are CPU with 4+ Cores (3 GHz+), 16+ GB RAM, and NVIDIA or AMD GPU with 4+ GB VRAM. â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tds113</id>
+    <title>TDS Sim Software Updates GTNXi Pro for MSFS 2024</title>
+    <updated>2024-12-14T00:00:00+00:00</updated>
+    <link href="/news/tds113"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/65e10a747dd07f4648ff2d5e_tds3.webp"/>
+    <summary>Sim: FS24. TDS Sim Software has recently released an update to their GTNXi Pro Suite, adding compatibility with Microsoftâs latest flight simulator. While their original plan was to make it compatible as soon as MSFS 2024 was out, a WASM gauge issue made it impossible for a few weeks. However, Asobo has finally managed to address the show stopperâto an extentâas another update blocked the display. A community developer found a workaround that will suffice until an official fix is out. The development team is excited about the new platform and all its possibilities, gauging what they can benefit from and the work it would entail. They have coded the new executable to detect the exact MSFS platform (whether 2020 or 2024) and correctly share it between platforms. Each MSFS version has its own different WASM gauge. â Owners of the base GTNXi package will have to upgrade in order to get compatibility with Microsoft Flight Simulator 2024. Refer to this link for further information on acquiring the upgrade. â The GTNXi Pro is available on their website for $68.20, whereas the pro upgrade from the standard package retails for $26.20. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsreli</id>
+    <title>FlightSimExpo 2025 Registration Now Live</title>
+    <updated>2024-12-15T00:00:00+00:00</updated>
+    <link href="/news/fsreli"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/675eb096c9332f13371db2d2_Banner_Image.webp"/>
+    <summary>Sim: OTHER. Registration for FlightSimExpo 2025 is now open. The event will be held in Providence, Rhode Island, providing an opportunity for aviation enthusiasts to engage with the latest advancements in flight simulation. Tickets are now available for purchase. There are various ticket options available for the event, detailed below: â - Non-FSA Members: The ticket price from Friday to Sunday is $80. - FSA First Officers: The price is $72. - FSA Captains: The price is $64. However, the first 250 FSA Captains to register will only pay $50. â Please note that ticket prices will increase on March 1st, so be sure to purchase your tickets before then to take advantage of the best pricing. â All ticket packages include entry to seminars and exhibition halls from Friday through Sunday. Attendees will also receive access to recordings of post-event seminars, a complimentary drink at Fridayâs reception, and coffee and tea on Saturday and Sunday mornings. â If you cannot attend FlightSimExpo in person, you can sign up for live and recorded seminar access for $15. FSA Captains will have free access to this content. For information about travel and logistics for attending the expo, please visit the FlightSimExpo website. FlightSimExpo 2025 will take place in Providence from June 27 to June 29. Registration is now open, and you can purchase your tickets online. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-15T00:00:00+00:00</published>
   </entry>
 </feed>
