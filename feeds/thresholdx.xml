@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-17T18:33:15.876060+00:00</updated>
+  <updated>2024-12-18T18:32:20.292773+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ardfse</id>
-    <title>FSA Announces FSExpo 2025 Registration Opening December 14</title>
-    <updated>2024-12-07T00:00:00+00:00</updated>
-    <link href="/news/ardfse"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6754b7fc2343ec8a89e6e6e6_Banner_Image.webp"/>
-    <summary>Sim: OTHER. The Flight Simulation Association (FSA) announced in a recent press release that registration for FlightSimExpo 2025 will open on December 14th. Starting next Saturday at 12 PM Eastern Time, you can sign up for the upcoming FlightSimExpo, which will be held in Providence, Rhode Island. For non-members, access from Friday to Sunday is priced at $80. For FSA First Officers, the cost is $72. If you are an FSA Captain, you will pay $64. However, if you are among the first 250 FSA Captains to register, your price will be just $50.Â  â All pricing options include access to seminars and exhibit halls from Friday to Sunday. Participants will also receive access to post-event seminar recordings, a welcome drink during Fridayâs reception, and coffee and tea provided on Saturday and Sunday mornings.Â  â If you are unable to attend FlightSimExpo in person, you can register for live and recorded seminar access for $15. FSA Captains can access this content for free. If you or your team would like to sponsor, exhibit, or speak at the Expo, FlightSimExpo invites developers to register using the following link. Regarding travel and accommodation, discounted rates are currently available. According to co-founder Evan Reiter, one-third of the available rooms have already been booked. The discounted hotel rates represent some of the lowest group rates for a 4-star hotel in downtown Providence during a summer event. You can find more details about accommodation and travel at the following link. FlightSimExpo 2025 will be held in Providence from June 27 to June 29. Registration will open next week on December 14, so set your alarms if you plan to attend next year's FlightSimExpo. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fslr21</id>
-    <title>FlightSimLabs Releases Airbus A321ceo for MSFS 2020</title>
-    <updated>2024-12-10T00:00:00+00:00</updated>
-    <link href="/news/fslr21"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67588ec007ded34d968da4ad_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. FlightSimLabs has just launched its highly anticipated version of the Airbus A321ceo for Microsoft Flight Simulator 2020. This rendition of the longest variant in the Airbus A320ceo family is now available to take to the virtual skies. The Airbus A321ceo is a twin-engine, single-aisle commercial aircraft that had its first flight in 1993. Since then, a total of 1,784 A321ceos have been built and delivered. This model can be equipped with either CFM or IAE engines and can feature sharklets or wingtip fences. The A321ceo is the predecessor to the newer A321neo, with the primary difference being the new engine option in the neo version. The A321ceo is operated by airlines around the world, including American Airlines, Turkish Airlines, and Lufthansa. FlightSimLabâs rendition of the Airbus A321ceo includes a wide range of features. It offers options for both CFM and IAE engines, as well as variants with wingtip fences and sharklets. The aircraft model is highly detailed, showcasing realistic weather and environmental effects. Additional features include dynamic failures, aircraft aging, an electronic flight bag (EFB), GSX integration, and much more, all contributing to a highly realistic simulation of the aircraft and its systems. The newly released Airbus A321ceo is now available for purchase directly from FlightSimLabs for $69.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/300113</id>
     <title>iniBuilds Updates A300-600R for MSFS 2024 Compatibility</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6760852a77a0b142abb11e5a_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Flight Sim Development Group (FSDG) has just released its newest scenery for X-Plane 12. The developer revisits the Maldives, a region they have previously created sceneries for in other flight simulators. According to FSDG, the scenery includes a detailed and accurate depiction of Velana International Airport (VRMM), featuring its new terminal and a large seaplane base. The scenery also includes the islands of HulhumalÃ© and several surrounding islands. â Velana International Airport is located on HulhulÃ© Island in the southern Kaafu Atoll, surrounded by crystal-clear blue water. In recent years the airport has undergone significant changes including the construction of a new code F runway, and a new seaplane terminal. Additionally, a new passenger terminal is under construction, slated for completion in 2025. â A full feature list can be found below: The scenery is now available on the FSDG website for approximately $21. â FSDG promises additional Christmas surprises later this week. For updates on that and more, stay tuned to Threshold. Additionally, remember to join our vibrant community on Discord.</summary>
     <published>2024-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsl289</id>
+    <title>FSLabs Updates A321ceo for MSFS 2020</title>
+    <updated>2024-12-18T00:00:00+00:00</updated>
+    <link href="/news/fsl289"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676214f7f4048962925fc0b5_geni1.webp"/>
+    <summary>Sim: MSFS20. FSLabs recently released their first update for the Airbus A321ceo package for Microsoft Flight Simulator 2020, bringing AOC service performance improvements, EFB enhancements, system tweaks, external model changes, and more. Update v11.0.1.289 incorporates a range of improvements, fixes, and optimizations (in Lefteris Kalamarasâ own words), aiming to enhance functionality and user experience. The key highlights follow below: AOC Service: EFB Enhancements: Systems Improvements: Exterior Model Updates: Sound Enhancements:Â  Documentation Updates:Â  â The update is now available through the FSLabs Control Center (Experimental channel).Â  â The aircraft is available in their store for roughly $69.  Screenshots were gently provided by Genista on Discord. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/erjx12</id>
+    <title>X-Crafts Publishes ERJ Family Development Update for X-Plane 12</title>
+    <updated>2024-12-18T00:00:00+00:00</updated>
+    <link href="/news/erjx12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676228db8f59052d3782d60f_erj1.webp"/>
+    <summary>Sim: X-Plane. X-Crafts recently published a blog post outlining their plans for a future update to its ERJ Family, which will add many new features and be fully compatible with Laminar Researchâs latest flight simulation platform.Â  â The development update begins with a quick explanation of why the ERJs have not seen many updates since their focus shifted to the E-Jets, which required further attention due to their heavy reliance on automation and increased system complexity.Â  â When X-Plane 12 came out, X-Crafts intended on making it compatible as soon as possible, but they quickly realized it was not going to be as straightforward of a job as they thought it would due to how different the new simulator was in some ways, rendering the airplane unusable without workarounds. â Addressing the issues would require a lot of extra work and effort, which made creating a compatibility patch rather unfeasible and illogical, given they could rebuild it instead and make a major upgrade out of it rather than just a mere patch.Â  â They have been working on the ERJ Family v2 upgrade for a while now and feel ready to share how things are progressing and bring a close look at the new features that will accompany the new version. â An industry specialist created the flight model from scratch, fully optimized for X-Plane 12. Real ERJ pilots are currently testing it to ensure it is as accurate as possible within the simulation. Unlike the X-Plane 11 version, where default X-Plane systems drove hydraulics, fuel, and anti-ice systems, v2 will bring custom-made systems and a new and more accurate FADEC system to control the Thrust Rating. The pop-up screensâfamiliar to E-Jets customersâwere also implemented in V2. There is an openable PFD, MFD, and EICAS that can be freely moved around the screen or placed on another display. Autopilot settings can be controlled directly from the pop-up PFD by scrolling while hovering over the values. The nav map has also seen a substantial visual upgrade, with a brand-new, high-resolution display, including the PLAN mode.Â  They are also working on implementing the Electronic Flight Bag from the E-Jets into the ERJs, which will allow users to control ground objects, doors, performance calculations, weight and balance, and more. A secret set of featuresâwhich remains unmentionedâis also in the works. The update will also improve the sounds, taking full advantage of the new audio technologies embedded within X-Plane 12. â Due to the amount of work involved and all the new features, the ERJ v2 Update will not be a free upgrade. They intend to charge a $20 fee for v1 owners, and the base price for new customers will also suffer a slight increase.Â  â There is no release date yet, but X-Crafts plans on releasing the Lineage 1000 first, which is scheduled to come out before the end of February if everything goes according to plan.Â  â Please refer to the original blog post for further information on the update. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-18T00:00:00+00:00</published>
   </entry>
 </feed>
