@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-19T18:30:38.918549+00:00</updated>
+  <updated>2024-12-20T18:29:35.586678+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mkslszh</id>
-    <title>MK Studios Release Zurich for MSFS</title>
-    <updated>2024-12-11T00:00:00+00:00</updated>
-    <link href="/news/mkslszh"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6759af67cdc516021ba75d3f_lszh_slider_2_1600x.webp"/>
-    <summary>Sim: FS24. MK Studios has released its latest scenery for MSFS20 and 24. The team has headed to Zurich, Switzerland's largest city, offering many custom features and high-quality models. Zurich acts as the main gateway into Switzerland having served 28.9 million passengers in 2023. It is also the main base for the flag carrier airline: Swiss. Allowing for routes across Europe and further. The team have made sure to allow for compatibility with both sims allowing users from FS20 &amp; 24 to utilise it. The scenery is filled with high-quality textures on the building's exteriors, interiors and groundwork. All working together to give an accurate depiction of the airport. This is paired with custom objects to match real life, increasing realism. Concourse A,B and E feature a modelled interior, this is a growing feature we are seeing in sceneries that adds a level of depth to the terminal buildings when parked at the gates.Â Below is the full feature list: MK Studios Zurich is priced atÂ Â£15.11excl.VAT and can be purchased from the Contrail Shop.Â  Make sure to stay tuned to Threshold for more flight simulation news and join the community through our Discord.</summary>
-    <published>2024-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hsupda</id>
-    <title>Headwind Simulations Updates Airbus A339X and SU95X for MSFS 2020</title>
-    <updated>2024-12-11T00:00:00+00:00</updated>
-    <link href="/news/hsupda"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6759c353fc21d89e622f2dbd_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. Headwind Simulations has recently released updates for its A339X and SU95X projects for MSFS. The new update integrates SayIntentions.AI ACARS and CPDLC into both aircraft. SayIntentions.AI is an AI ATC (Air Traffic Control) plugin designed for various flight simulators. It provides features such as ATC, copilots, cabin crew, and more, all powered by artificial intelligence. A key component of the ATC functionality in SayIntentions.AI includes ACARS (Aircraft Communications Addressing and Reporting System) and CPDLC (Controller-Pilot Data Link Communications). These systems facilitate communication between the ground and the aircraft, allowing for interactions between air traffic controllers and pilots. â With the recent integration of ACARS and CPDLC from SayIntentions.AI into Headwind Simulationâs aircraft, users can now access these features. Please note that a Premium Membership is required to utilise this feature.  The latest updates for the A339X and the SU95X are now accessible via the Headwind Simulations installer. Since the update is part of the pre-release channels, be sure to select this option for the most recent update. For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ejpmsf</id>
-    <title>easyJet Partners with MSFS to Bring Aircraft to MSFS24</title>
-    <updated>2024-12-11T00:00:00+00:00</updated>
-    <link href="/news/ejpmsf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6759dc526043566e92a3dd29_easyJet%20takes%20flight%20in%20Microsoft%20Flight%20Simulator%202024%20%20.jpg"/>
-    <summary>Sim: FS24. Low-cost-carrier easyJet has announced that they have partnered with Microsoft Flight Simulator to âbring its aircraft to Microsoft Flight Simulator 2024â, according to a press release put out on Monday. To promote this new partnership, they have announced a competition to win the âPremium Jumbo Deluxe Editionâ of Microsoft Flight Simulator 2024 for Xbox Series X|S. To participate, one must be a citizen of the UK or Ireland and over 18 at the time of entry, follow both easyJet and Xbox UK on Instagram, and commenting where you would fly to using the in-game easyJet livery on their Instagram post. Contestants have until Dec 13, when Microsoft will pick three winners for the âPremium Jumbo Deluxe Editionâ. âWeâre excited to be a part of the Microsoft Flight Simulator community, which is not only a fantastic opportunity for us to share our passion for flying with players around the world, but something we hope will help to inspire the next generation of pilots and aviation enthusiastsâ, commented Captain David Morgan, easyJetâs Chief Operating Officer. In their press release, easyJet also says that Microsoft Flight Simulator 2024 âfeatures easyJetâs A320 family of aircraft including the A319, A320, A320neo and A321neoâ; however, the base sim only includes the A320neo and A321LR, both by iniBuilds. Whether this means that there is an effort to bring the rest of easyJetâs fleet, including the A319ceo and A320ceo, to the base game is still unknown. â Threshold has contacted easyJet for comment, but as of the time of publication, they have not responded. â Stay tuned to Threshold for more high-quality flight simulation news and reviews!</summary>
-    <published>2024-12-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/319110</id>
     <title>ToLiss Updates A319 to v1.10</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6763918853f52013fbc15f42_tsm1.webp"/>
     <summary>Sim: FS24. TropicalSim has recently released their rendition of Guarulhos International Airport (SBGR) for Microsoft Flight Simulator 2024. The airport serves SÃ£o Paulo, Brazil, and has a yearly average of 41.3 million passengers, making it the busiest airport in the country. The airport's planning started back in 1967, when the government first considered renovating the airport infrastructure in the country and ran some studies to figure out which step to take next, leading to a straightforward conclusion: Congonhas (SÃ£o Paulo's main airport at the time) was not big enough to sustain the ever-growing demand, nor could it be easily expanded, which led to a plan B: transforming a former Air Force Base into a full-fledged international airport. After decades of planning, construction started in 1980, initially with three runways and four passenger terminals in mind, which turned into two runways and two terminals due to time and cost constraints. It was inaugurated five years later and quickly became the city's primary airport.Â  Four years after the inauguration, the runways were extended, and the passenger terminals were expanded, bringing the overall capacity from 7.5 million passengers a year to 8.5.Â  A third terminal, planned for 2001, was built a decade later, along with Terminal 4. The first phase (of Terminal 4's construction) had it holding up to 5.5 million passengers a year, and the second phase brought it to its intended capacity of 8 million passengers, making it so the airport could handle 28.5 million passengers in total. The terminals were renumbered in 2015, with Terminal 4 becoming Terminal 1, Terminals 1 and 2 becoming Terminal 2, and Terminal 3 retaining its numbering. It's a hub for Gol Transportes AÃ©reos and LATAM Brasil and served by Azul, Air Canada, Air China, Air France, American Airlines, Avianca, British Airways, Copa Airlines, Delta Air Lines, Emirates, Iberia, ITA Airways, KLM, Lufthansa, TAP Air Portugal, United Airlines, and more. The scenery features an accurate rendition of the airport, with custom night lighting, animated jetways, an up-to-date ground layout, and much more. It's available on SimMarket for roughly $18.88, requiring at least 243.58 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jflf71</id>
+    <title>Just Flight Publishes New F70/F100 Development Update for MSFS</title>
+    <updated>2024-12-19T00:00:00+00:00</updated>
+    <link href="/news/jflf71"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6764b1e1ae016d9183fe0f7a_fokka1.webp"/>
+    <summary>Sim: MSFS20. Just Flight has shared more details on how their upcoming Fokkers (F70 and F100) for Microsoft Flight Simulator 2020 are progressing through the development process, accompanied by images of the flight deck and exterior. They claim to have achieved âsome exciting milestonesâ with the project, with their coders being hard at implementing the F100âs complex systems, which should be entering beta stage soon. âFortunately we have a great testing team to help us, full of eager real world F70/F100 pilots, engineers, and knowledgeable simmers, ready to pick through every single detailâ, they add.Â  Most of the new screenshots showcase the recently upgraded liveries, now in 8K resolution and built with the utmost attention to detail using high-resolution reference photos.Â  Regarding MSFS 2024 compatibility, Just Flight claims that itâs still âearly daysâ for the new platform. Core development will remain on Microsoft Flight Simulator 2020 for now, with an eventual port once the new simulator is more stable. However, they remain committed to supporting both simulators.Â  The Fokkers will be their next airliner release for MSFS, set to land on the virtual shelves in the first half of 2025.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sexkir</id>
+    <title>SimulaciÃ³n Extrema Releases Kirkwall Airport for MSFS </title>
+    <updated>2024-12-20T00:00:00+00:00</updated>
+    <link href="/news/sexkir"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6764c1e654f2be63857ec790_kirk1.webp"/>
+    <summary>Sim: MSFS20. SimulaciÃ³n Extrema has recently released their rendition of Kirkwall Airport (EGPA) for Microsoft Flight Simulator 2020. The airport serves the Orkney Islands in Scotland and has a yearly average of 143,000 passengers. Built in 1940 as RAF Grimsetter to defend the Scapa Flow Naval base, taking its name from the homonymous farm it was built over.Â  Three years later, the Royal Navy took over and renamed it Royal Naval Air Station Grimsetter. Control was passed over to the Ministry of Civil Aviation in 1948 and handed over to an administration company in the mid-1980s, ultimately ending its military roles. Nowadays, Kirkwall Airport serves as a vital connection between the Orkney Islands and the mainland, operating services to Aberdeen, Belfast City, Dundee, Ebay, Edinburgh, Glasgow, Inverness, London Heathrow, Manchester, North Ronaldsay, Papa Westray, Sanday, Stronsay, Sumburgh, and Westray through Loganair, which is the only airline serving the airport as of 2024. The airport is home to the Sustainable Aviation Test Environment (SATE), the United Kingdomâs first low-carbon aviation test center. It is helping to pave aviationâs future one test flight at a time. The scenery features an accurate rendition of the airport, with a 3D-modeled terminal, custom landside buildings and hangars, custom ground textures, custom runway textures, a custom interior, and more. Itâs available in the MSFS Marketplace for $11.99 and is currently compatible with Microsoft Flight Simulator 2024. Once the in-sim marketplace is launched, an MSFS 2024 exclusive version will be available. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/300119</id>
+    <title>Just Flight Publishes New A300B4 Development Update for MSFS</title>
+    <updated>2024-12-20T00:00:00+00:00</updated>
+    <link href="/news/300119"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6764c9ef92e4948c0ccbf80e_pit1.webp"/>
+    <summary>Sim: MSFS20. Just Flight recently published a new development update on the upcoming Airbus A300B4 for Microsoft Flight Simulator 2020, showcasing the night lighting logic in the flight deck and addressing its compatibility with MSFS 2024. The developers are finishing work on the animation and lighting logic for nearly two thousand switches, dials, and annunciator lights. This process required coding each element, verifying its operability within the simulator, and tweaking the animations or artwork further when needed.Â  Their systems coders have made great progress over the last 18 months. They will soon be able to âbring the aircraft to lifeâ as the cockpit artwork and animations are ready. They look forward to sharing systems previews early next year. The exterior has not been previewed yet because it is undergoing work on refining its overall geometry, adding extra details such as panels, lines, wiring around the landing gear, and a detailed cargo hold, to name a few. The modeling has recently reached completion, and texturing is now underway, with previews to come in 2025. Similarly to their upcoming Fokkers, core development will remain on Microsoft Flight Simulator 2020 for now while they wait for greater stability. The commitment to support both simulators remains. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-20T00:00:00+00:00</published>
   </entry>
 </feed>
