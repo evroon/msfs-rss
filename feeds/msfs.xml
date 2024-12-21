@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2024-12-20T18:29:31.021213+00:00</updated>
+  <updated>2024-12-21T18:27:31.330696+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -88,15 +88,6 @@
     <published>2024-12-20T16:01:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/</id>
-    <title>November 21st Microsoft Flight Simulator (2020) Marketplace Update</title>
-    <updated>2024-11-22T01:14:02+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-21st-microsoft-flight-simulator-2020-marketplace-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
-    <summary>Hello folks,We have an abbreviated blog post for you this week as our team is currently focused entirely on resolving the launch issues for Microsoft Flight Simulator 2024. We will be back with a regular Development Update Blog next week. In the meantime, please see this message from Head of Microsoft Flight Simulator Jorg Neumann about … Continued</summary>
-    <published>2024-11-22T01:14:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/black-friday-sale-3500-items-on-sale-now-in-the-marketplace-msfs-2020/</id>
     <title>BLACK FRIDAY SALE: 3500+ ITEMS ON SALE NOW IN THE MARKETPLACE | MSFS (2020)</title>
     <updated>2024-11-27T19:21:34+00:00</updated>
@@ -142,13 +133,13 @@
     <published>2024-12-20T00:50:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-1-10-0-available-now-msfs-2024/</id>
-    <title>Release Notes – [1.1.10.0] Available Now | MSFS 2024</title>
-    <updated>2024-12-02T19:01:35+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-1-10-0-available-now-msfs-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
-    <summary>A new update is now available in Microsoft Flight Simulator 2024 on all platforms.</summary>
-    <published>2024-12-02T19:01:35+00:00</published>
+    <id>https://www.flightsimulator.com/holiday-sale-3400-items-on-sale-now-in-the-marketplace/</id>
+    <title>HOLIDAY SALE: 3400+ ITEMS ON SALE NOW IN THE MARKETPLACE</title>
+    <updated>2024-12-21T00:19:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/holiday-sale-3400-items-on-sale-now-in-the-marketplace/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/MSFS_HolidaySale2024_v1_1920x1080-1024x576.jpg"/>
+    <summary>For 14 Days starting on December 20th, save up to 90% on more than 3400 items! Enjoy discounted pricing during our Microsoft Flight Simulator Holiday Sale!For 14 Days starting on December 20th, save up to 90% on more than 3400 items.          To purchase these discounted items, visit the Microsoft Flight Simulator (2020) Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See … Continued</summary>
+    <published>2024-12-21T00:19:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/december-5th-2024-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
     <summary>RELEASE NOTES 1.2.8.0If you are playing on PC, outdated packages in your Community Folder may have an unexpected impact on the title’s performance and behavior. If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.Stability &amp; Performance Fixed various crashes across the title Fixed … Continued</summary>
     <published>2024-12-20T16:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/holiday-sale-3400-items-on-sale-now-in-the-marketplace/</id>
+    <title>HOLIDAY SALE: 3400+ ITEMS ON SALE NOW IN THE MARKETPLACE</title>
+    <updated>2024-12-21T00:19:40+00:00</updated>
+    <link href="https://www.flightsimulator.com/holiday-sale-3400-items-on-sale-now-in-the-marketplace/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/MSFS_HolidaySale2024_v1_1920x1080-1024x576.jpg"/>
+    <summary>For 14 Days starting on December 20th, save up to 90% on more than 3400 items! Enjoy discounted pricing during our Microsoft Flight Simulator Holiday Sale!For 14 Days starting on December 20th, save up to 90% on more than 3400 items.          To purchase these discounted items, visit the Microsoft Flight Simulator (2020) Marketplace, select ‘Featured’, scroll down to ‘Special Offers’, then select ‘See … Continued</summary>
+    <published>2024-12-21T00:19:40+00:00</published>
   </entry>
 </feed>
