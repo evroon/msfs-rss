@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-22T18:27:23.550453+00:00</updated>
+  <updated>2024-12-23T18:29:30.926691+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777060</id>
-    <title>PMDG Updates 777 Lineup for MSFS </title>
-    <updated>2024-12-13T00:00:00+00:00</updated>
-    <link href="/news/777060"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
-    <summary>Sim: MSFS20. PMDG has recently issued an update to their 777 lineup (777-300R and 777F) for Microsoft Flight Simulator 2020. The update cleans up a few items that required attention after the 777F release and addresses issues on the 777-300R caused by code changes to accommodate the 777F.Â  Update v2.00.0060 eliminates the ghost cargo door advisory and its associated TOCWS trigger on the 777-300ER and adds numerous model cleanups, logic fixes, and more. The changelog follows below: â They have also published new information on the status of their Microsoft Flight Simulator 2024 port: they are now able to run code and debugging in MSFS 2024 after a recent update, but the memory allocation error from 2020 appears to be present in 2024 as well â despite PMDG reporting it in the past â, bringing the development effort to a halt as C++ WASM projects seem to rely heavily on advanced memory allocation techniques used by modern C++ compilers. That means they cannot run, build, or test code properly within MSFS 2024. The 737 family will soon receive an update to address the issue with the Universal Flight Tablet not loading properly. Thereâs no exact prediction of when it will be available for Marketplace users, but it should be coming soon for PMDG.com customers. PMDGâs aircraft lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tscj52</id>
-    <title>TorqueSim Releases TakeCommand! CitationJet 525 for X-Plane 12</title>
-    <updated>2024-12-14T00:00:00+00:00</updated>
-    <link href="/news/tscj52"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/675dd9b123b88309489808a8_CJ525_1.webp"/>
-    <summary>Sim: X-Plane. TorqueSim has released their long-awaited CItationJet 525 for X-Plane 12. After more than six years of development, one of the most popular business jets is finally here! Produced to replace the ageing Citation I and IIs, the Cessna CitationJet 525 had its first flight in April 1991 and has since been developed into Model 525A, 525B, and 525C. Over 2000 CitationJets have been produced, making them the most produced business jets. Capable of cruising up to altitudes of 41,000ft and equipped with two Williams R-R FJ44-1A turbofan engines, this T-tail jet can fly at Mach 0.65 for around 1560 nautical miles ( ~2880km). The TorqueSimâs rendition of CitationJet 525 features an authentic flight model with custom airfoils, custom soundpack, high-resolution textures, custom-developed electrical, hydraulic, fuel, and pneumatic systems, custom Honeywell avionics. It also supports RealityXP GNS/GTN, as well as the upcoming TDS Sim GTNXi. The TakeCommand! CitationJet 525 is available for purchase at the X-Aviation store for $84.95.Â  It is compatible with X-Plane 12 only and can be used on MacOS 12+ (at least Monterey), Windows 10+, and Linux (support is provided only for Ubuntu 24.02 LTS). The recommended specifications for it are CPU with 4+ Cores (3 GHz+), 16+ GB RAM, and NVIDIA or AMD GPU with 4+ GB VRAM. â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-12-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tds113</id>
-    <title>TDS Sim Software Updates GTNXi Pro for MSFS 2024</title>
-    <updated>2024-12-14T00:00:00+00:00</updated>
-    <link href="/news/tds113"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/65e10a747dd07f4648ff2d5e_tds3.webp"/>
-    <summary>Sim: FS24. TDS Sim Software has recently released an update to their GTNXi Pro Suite, adding compatibility with Microsoftâs latest flight simulator. While their original plan was to make it compatible as soon as MSFS 2024 was out, a WASM gauge issue made it impossible for a few weeks. However, Asobo has finally managed to address the show stopperâto an extentâas another update blocked the display. A community developer found a workaround that will suffice until an official fix is out. The development team is excited about the new platform and all its possibilities, gauging what they can benefit from and the work it would entail. They have coded the new executable to detect the exact MSFS platform (whether 2020 or 2024) and correctly share it between platforms. Each MSFS version has its own different WASM gauge. â Owners of the base GTNXi package will have to upgrade in order to get compatibility with Microsoft Flight Simulator 2024. Refer to this link for further information on acquiring the upgrade. â The GTNXi Pro is available on their website for $68.20, whereas the pro upgrade from the standard package retails for $26.20. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsreli</id>
     <title>FlightSimExpo 2025 Registration Now Live</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67682a79fb34524f95dfb2e6_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Ever since the highly anticipated LevelUp released on January 1st, 2022, numerous users are eagerly awaiting the next update for the comprehensive Boeing 737 NG addon. However, a mixture of real-life happenings and internal development issues led to the addon being left alone for two years, until now. Just recently, the LevelUp team announced that after a series of cumulative internal updates, the much-anticipated Update 1 will be released this Christmas Eve, December 24th, 2024. According to the LevelUp team, the team has been hard at work to revamp the flight model, adding several new features, and most importantly, making the addon compatible with X-Plane 12. Snippets of the update were initially teased by streamer SkyMatix just earlier this year, showcasing new features such as openable cockpit windows, and so on. The team thanks the ZiboMod team for their full support on the project, as well as their flight model artist Allan who have revamped the flight model along the way. With Update 1 out of the way, the LevelUp team now will move on to the next phase, which is focusing on a visual update that will lay the foundation for the highly anticipated 737 MAX expansion, which will be dubbed Update 2.For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/klaxv2</id>
+    <title>ShortFinal Design KLAX for XP12 Updated to V2</title>
+    <updated>2024-12-22T00:00:00+00:00</updated>
+    <link href="/news/klaxv2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67688e487225e4ae619b357d_1000010296.webp"/>
+    <summary>Sim: X-Plane. ShortFinal Design (SFD) has updated KLAX to V2. This is the first update since 2020, and it includes numerous changes. Los Angeles International Airport (KLAX), with its four runways, served 75 million travellers in 2023. This makes it the second-largest airport in the US and one of the worldâs busiest airports in terms of both arrivals and departures. â According to SFD, the most notable update in version 2 is the introduction of native support for X-Plane 12. This allows for a variety of enhancements, such as 3D vegetation, dynamic airport vehicles equipped with FMOD sounds, and native rain effects. Users of X-Plane 11 will also benefit from updated hangars and terminals, as well as significant structures like the SoFi Stadium and the LAX Automated People Mover. Furthermore, the update enhances textures and lighting, improves various structures, and streamlines animations through LST integration. â The full list of changes is as follows: â Version 2.0 (December 20th 2024): The update is free for all current owners of the scenery and is available for $26.95 on the x-plane.org store for those who do not already own it. Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord.</summary>
+    <published>2024-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/321290</id>
+    <title>FSLabs Updates A321Ceo for MSFS</title>
+    <updated>2024-12-23T00:00:00+00:00</updated>
+    <link href="/news/321290"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de45dfff6dd35cf791aa_labsup1.webp"/>
+    <summary>Sim: MSFS20. FSLabs recently issued a new update to their A321Ceo for Microsoft Flight Simulator 2020. The update addresses core functionality issues that were affecting a subset of users with their Simbrief, Pushover, Printer, and Techlog integrations, fixes several crash-to-desktop issues, provides additional System fixes, and more. Update v11.0.1.290 â the second in rapid succession since the productâs release in early December â is currently only available via the experimental channel, bringing the fixes mentioned above and adding hardware access to the FCU, EFIS, and glareshield, with an expansion planned over the coming weeks. Work with their industry partners to integrate the interface into their software is underway. The update highlights follow below: â FWC (F9C &amp; F3P) ATSU/EFB/Techlog Systems Improvements: Exterior Model Updates: Sound Enhancements: Simconnect Hardware Based on user feedback, FSLabs is working on improving the sounds, which are expected to land in the experimental channel early next week. The add-on is available on their website for $69. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2024-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xe134r</id>
+    <title>xEnviro Version 1.34 Released</title>
+    <updated>2024-12-23T00:00:00+00:00</updated>
+    <link href="/news/xe134r"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6769a110a8ad8347894fbcfe_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. xEnviro has been updated to version 1.34, introducing new and reintroduced features to the environmental plugin. This update includes various new features and fixes, further polishing the plugin for X-Plane. The new update for X-Plane 12 introduces a range of enhancements. It includes adjustments for camera exposure and a bloom slider to improve visuals. Additionally, the update features improved weather effects, realistic lightning strikes, and reflections from city lights on the clouds and atmosphere. Light scattering has been refined for enhanced realism, and NVIDIA graphics cards in X-Plane 12 have received an anti-aliasing update. Enhancements have been made to cloud and shadow rendering, as well as to thunderstorm formation. Airport lights now function correctly at night. Haze effects and the white edges of clouds in mountainous regions have been addressed, and fixes have been implemented for Vulkan crashes. Additionally, a recent update has improved performance when minimizing windows. A full changelog of the new features, fixes and improvements can be found below: â Whatâs New: -X-Plane 12 Enhancements. -Camera exposure adjustments. -A new bloom slider for fine-tuning visuals. -Improved Weather Effects. -Lightning strikes with cloud-to-cloud and cloud-to-ground variations. -City lights reflecting on both the atmosphere and clouds. â Key Fixes &amp; Improvements: -Light scattering adjustments for better realism. -Anti-aliasing fix for NVIDIA cards in X-Plane 12. -Multiple cloud and shadow rendering enhancements. -Fixed haze effects and cloud white edges in mountainous areas. -Vulkan crash fixes and improved performance when minimizing windows. -Airport lights reappearing properly at night. -Thunderstorm formation improvements. The team behind xEnviro is optimistic about the future, stating that this winter and spring, they expect to restore all the features that were temporarily removed during the transition to X-Plane 12. Additionally, they anticipate the introduction of new features.Â  â While this update primarily focuses on X-Plane 12, the team confirms that compatibility with X-Plane 11 will still be maintained. They caution, however, that they cannot guarantee 100% compatibility, although it should function as intended for most users.Â  â When asked about the duration of X-Plane 11 compatibility, Magnus indicated that it will remain partially or fully supported at least until all features currently removed due to the transition to X-Plane 12 are fully restored. The update is now available for download from xEnviro's website. If you do not yet own xEnviro, the team is excited to announce a temporary price reduction from $69.69 to $49.69 while they work on restoring all features. This is a great opportunity for anyone interested in trying xEnviro for the first time, and it can be found in our store. â With the update, the xEnviro team thanks everyone for their support and wishes everyone a happy holiday. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-23T00:00:00+00:00</published>
   </entry>
 </feed>
