@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-24T18:29:11.780717+00:00</updated>
+  <updated>2024-12-25T18:28:47.967224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vrmm12</id>
-    <title>FSDG Releases The Maldives for X-Plane 12</title>
-    <updated>2024-12-16T00:00:00+00:00</updated>
-    <link href="/news/vrmm12"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6760852a77a0b142abb11e5a_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Flight Sim Development Group (FSDG) has just released its newest scenery for X-Plane 12. The developer revisits the Maldives, a region they have previously created sceneries for in other flight simulators. According to FSDG, the scenery includes a detailed and accurate depiction of Velana International Airport (VRMM), featuring its new terminal and a large seaplane base. The scenery also includes the islands of HulhumalÃ© and several surrounding islands. â Velana International Airport is located on HulhulÃ© Island in the southern Kaafu Atoll, surrounded by crystal-clear blue water. In recent years the airport has undergone significant changes including the construction of a new code F runway, and a new seaplane terminal. Additionally, a new passenger terminal is under construction, slated for completion in 2025. â A full feature list can be found below: The scenery is now available on the FSDG website for approximately $21. â FSDG promises additional Christmas surprises later this week. For updates on that and more, stay tuned to Threshold. Additionally, remember to join our vibrant community on Discord.</summary>
-    <published>2024-12-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsl289</id>
     <title>FSLabs Updates A321ceo for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676ac2266a510b51e7d9f498_Banner_Image.webp"/>
     <summary>Sim: FS24. MM Simulations has recently launched its version of Oulu Airport (EFOU) for Microsoft Flight Simulator 2020 and 2024. This airport, located approximately 6.6 miles from the city center of Oulu, Finland, welcomes around 550.000 passengers each year and handles nearly 6.000 aircraft movements. The airport opened in 1953, following the commencement of construction in 1949. Initially, the airport featured only gravel runways. This changed in 1958 when the runways were paved, and the airport received its terminal and air traffic control (ATC) building. In 1973, the current terminal building replaced the earlier structure, which was later demolished in 2005. The terminal underwent further expansion and renovation in 2002 and 2011. Regarding the runways, the second runway was removed in 2000, shortly after the completion of the current ATC tower in 1998. Today, the airport operates flights from Finnair, Lufthansa, and Aegean Airlines, offering various regular and charter destinations, including Helsinki, Munich, Chania, and Rhodes. The scenery package is filled with features including custom night lighting, custom parking positions, custom surroundings, custom people, PBR materials, and much more. The add-on requires slightly over 1 GB of storage space and is available on SimMarket for $17.16. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2024-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcfs24</id>
+    <title>X-Codr Updates Sceneries for MSFS24</title>
+    <updated>2024-12-25T00:00:00+00:00</updated>
+    <link href="/news/xcfs24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b8771e662f70ff37689ea4_Screenshot%20(116).webp"/>
+    <summary>Sim: FS24. X-Codr Designs have recently updated all of their MSFS20 sceneries for the MSFS24. The update focuses on compatibility with the newest simulator and will be completely free.Â  â The Grand Canyon West Airport (1G4) has received many improvements, such as a fully remodelled skywalk bridge, texture improvements for the Skywalk complex, airport ground markings and airport facilities, an updated airport layout, and various other minor enhancements. This update is available for both MSFS20 and MSFS24 on Orbx, and will soon be available on the MSFS marketplace. The development update also mentioned that the West Yellowstone Airport has undergone a lot of changes in the past years: a new hangar, an expanded FBO, as well as a brand-new terminal set to open in 2025. Because of that, a free update containing all the changes will be released in 2025! â As the differences between MSFS24 and MSFS20 are quite considerable, there are still some issues with some sceneries. The list of issues can be found here. The last part of the development update also mentioned an upcoming airport for X-Plane, with a little sneak peek. If you have any ideas about which airport this might be, let us know in the comments down below! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2024-12-25T00:00:00+00:00</published>
   </entry>
 </feed>
