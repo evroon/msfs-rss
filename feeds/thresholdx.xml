@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-26T18:29:25.963119+00:00</updated>
+  <updated>2024-12-27T18:29:10.722765+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsl289</id>
-    <title>FSLabs Updates A321ceo for MSFS 2020</title>
-    <updated>2024-12-18T00:00:00+00:00</updated>
-    <link href="/news/fsl289"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676214f7f4048962925fc0b5_geni1.webp"/>
-    <summary>Sim: MSFS20. FSLabs recently released their first update for the Airbus A321ceo package for Microsoft Flight Simulator 2020, bringing AOC service performance improvements, EFB enhancements, system tweaks, external model changes, and more. Update v11.0.1.289 incorporates a range of improvements, fixes, and optimizations (in Lefteris Kalamarasâ own words), aiming to enhance functionality and user experience. The key highlights follow below: AOC Service: EFB Enhancements: Systems Improvements: Exterior Model Updates: Sound Enhancements:Â  Documentation Updates:Â  â The update is now available through the FSLabs Control Center (Experimental channel).Â  â The aircraft is available in their store for roughly $69.  Screenshots were gently provided by Genista on Discord. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/erjx12</id>
     <title>X-Crafts Publishes ERJ Family Development Update for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b8771e662f70ff37689ea4_Screenshot%20(116).webp"/>
     <summary>Sim: FS24. X-Codr Designs have recently updated all of their MSFS20 sceneries for the MSFS24. The update focuses on compatibility with the newest simulator and will be completely free.Â  â The Grand Canyon West Airport (1G4) has received many improvements, such as a fully remodelled skywalk bridge, texture improvements for the Skywalk complex, airport ground markings and airport facilities, an updated airport layout, and various other minor enhancements. This update is available for both MSFS20 and MSFS24 on Orbx, and will soon be available on the MSFS marketplace. The development update also mentioned that the West Yellowstone Airport has undergone a lot of changes in the past years: a new hangar, an expanded FBO, as well as a brand-new terminal set to open in 2025. Because of that, a free update containing all the changes will be released in 2025! â As the differences between MSFS24 and MSFS20 are quite considerable, there are still some issues with some sceneries. The list of issues can be found here. The last part of the development update also mentioned an upcoming airport for X-Plane, with a little sneak peek. If you have any ideas about which airport this might be, let us know in the comments down below! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
     <published>2024-12-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wwmcd</id>
+    <title>WinWing Launches MCDU/CDU Panels</title>
+    <updated>2024-12-26T00:00:00+00:00</updated>
+    <link href="/news/wwmcd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676de815866d63712d7aba09_Skjermbilde%202024-12-26%20233711.webp"/>
+    <summary>Sim: OTHER. We now have more information about the WinWing MCDU and CDU panels announced this spring at FSWeekend and further showcased at FSExpo, thanks to a promotional video shared on their social media. The video showcases their new âMIP Series Airline Panelsâ lineup, which includes the previously mentioned A320 MCDU and 737 FMC, as well as two new additions: the 747 and 777 FMCs. After being a key player in the military flight simulation market, WinWing entered the commercial flight simulation market earlier this year with the A320 FCU, having big aspirations. WinWing says its new product line will feature a full-scale design aimed at delivering maximum authenticity, with a panel thickness of 28.5 mm. The panels will be fully backlit, and equipped with adjustable lighting and realistic light sensors. Their SimAppPro plug-and-play system will allow users to manually switch positions among captain, co-pilot, and observer roles, making the panels suitable for a variety of cockpit configurations. The video also shows mounting solutions that make the panels ideal for both desk setups and home cockpit builders. Each unit in the lineup costs the same, being priced at $129.95 before tax and shipping, with small price differences depending on currency exchange rates. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord!</summary>
+    <published>2024-12-26T00:00:00+00:00</published>
   </entry>
 </feed>
