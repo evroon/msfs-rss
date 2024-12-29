@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2024-12-28T18:27:46.574559+00:00</updated>
+  <updated>2024-12-29T18:27:18.728182+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a352k2</id>
-    <title>iniBuilds Publishes Statement on Upcoming Airbus A350 for MSFS</title>
-    <updated>2024-12-19T00:00:00+00:00</updated>
-    <link href="/news/a352k2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67638d8f5ebff9b2391ea58c_borpa1.webp"/>
-    <summary>Sim: MSFS20. iniBuilds recently published a short statement on the future of their upcoming Airbus A350 add-on for Microsoft Flight Simulator 2024. Due to stability and reliability issues with Microsoft's newest flight simulator, they decided to make it also compatible with Microsoft Flight Simulator 2020. First announced in late 2023, iniBuilds' original intent was to make it available for Microsoft Flight Simulator 2020 first and later provide a port to MSFS 2024, but a lot has changed since then, and at one point, they decided to make it MSFS 2024 only.Â  Microsoft Flight Simulator 2024 has not lived up to many people's expectations, leading to an increasing number of people begging iniBuilds to consider making it compatible with the olderâand significantly more stableâsimulator.Â  â While the asset streaming idea looked pretty good and promising on paper, its practicality had proven quite questionable after a disastrous release day and the following couple of weeks before things got under control. From not being able to get into the simulator at all to aircraft sounds vanishing halfway through the flight, Microsoft Flight Simulator 2024 managed to become one of the worst-rated triple-A titles on Steam.Â  â Considering that, iniBuilds decided to release the A350 for both simulators in one purchase, with two distinct development cycles, allowing people the freedom of choice. â They have also briefly hinted at revealing more information about the upcoming product on Saturday (21/12), almost one year after its official announcement. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tsmgru</id>
     <title>TropicalSim Releases Guarulhos International Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de3df1ae2d10ada9d7bc_labsup2.webp"/>
     <summary>Sim: MSFS20. FSLabs has released another update to their experimental branch for the newly released Airbus A321Ceo, addressing CTDs, further system fixes, extending hardware support, and more. Update v11.0.1.291 â the third since the productâs rollout in early December â brings improvements to the sound sets in the cockpit, mitigates an issue affecting a subset of users with a lot of add-on products in their community folder, and further refines its overall stability. It also extends hardware access to more EFIS and ECP events. The highlights for the update are below: DMC Systems Improvements: FWC:Â  ATSU:Â  Sound Enhancements: Simconnect Hardware FSLabs will continue the sound work through the holidays, as they are aware that some issues still exist. However, they wanted to provide part of the ongoing work with this update to gather feedback and eventually warrant a polished result. The add-on is available on their website for $69.95. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2024-12-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asrpvi</id>
+    <title>Airwil Sceneries Releases Iloilo International Airport for X-Plane 11 &amp; 12</title>
+    <updated>2024-12-29T00:00:00+00:00</updated>
+    <link href="/news/asrpvi"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/677134fce3f78e3a0a8f9c6b_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Airwil Sceneries has recently launched its latest scenery for X-Plane 11 and X-Plane 12: Iloilo International Airport (RPVI). As the fifth busiest airport in the Philippines, Iloilo International Airport welcomes over 2.3 million passengers each year. Commercial traffic at the airport began in 2007, serving as a replacement for the former Mandurriao Airport. Although it did not operate as a commercial airport before 2007, the site of the current airport has been involved in various aviation activities since 1942. During World War II, an airfield was constructed in 1942. After the war, this airfield gradually transitioned into a civilian airport, accommodating both military and general aviation traffic. Over the years, the airport underwent several changes and construction projects before commencing commercial operations in 2007. â Today, the airport serves airlines such as Cebu Pacific and PAL Express, offering flights to destinations including Cebu, Manila, Singapore, Hong Kong, and many others. Airwil Sceneries' depiction of the airport boasts numerous features, including hundreds of custom-made objects, a modeled interior of the passenger terminal, a modeled interior of the control tower, and more. The scenery requires 1.99 GB of storage space and is now available at SimMarket for approximately $11.46. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2024-12-29T00:00:00+00:00</published>
   </entry>
 </feed>
