@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-02T18:29:57.305038+00:00</updated>
+  <updated>2025-01-03T18:29:33.882047+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/300114</id>
-    <title>iniBuilds Updates A300-600R for MSFS 20/24</title>
-    <updated>2024-12-21T00:00:00+00:00</updated>
-    <link href="/news/300114"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67662bed8e6f4073bff78846_mj1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently issued an update to their Airbus A300-600R for Microsoft Flight Simulator 2020 and 2024 (compatibility and Premium), addressing stability issues, tweaking VNAV, and more. Updates v1.1.4 (Compatibility patch) and v1.0.1 (Premium) are the first to be released since its arrival in Microsoft Flight Simulator 2024, further improving its compatibility with the new platform and enhancing its overall stability on both platforms. The changelogs follow below:Â  v1.0.1 Fixed - Rain effects for wheels are showing above the wing not located at the wheels themselves sometimes Fixed - PW Engine covers don't have any text Fixed - Pitch Trim 1 Switch size anomaly Fixed - Missing backlight on CPT/FO Side panel &amp; PW Oil gauges Fixed - Tire rain/snow fx coming from fuse instead of wheelsÂ  Fixed - Z-fighting on rear MLG tire textures Fixed - Z-fighting/flickering on left NOSE taxi/landing light bulb emissive Fixed - [GE Pax] Left landing light inop Fixed - OEW Difference between Simbrief profile and Aircraft - 19.4t LBS / 8.8t KG. Note Simbiref profiles have been updated v1.1.4 Fixed - Random Crash - Fuel runs out Fixed - SEC F-Plan crash Fixed - VNAV Issues - Descending too early / capturing speed target too early Fixed - EFB Door Arming Logic / Option Reversed Fixed - APU keeps running if start is aborted Fixed - FMS Progress Page VOR/DME Station behaviour &amp; formatting Fixed - THR and ACCEL altitude logic and behaviour The add-on is available on the iniBuilds Store for roughly $43.92 (compatibility patch) and an additional $12.56 is required to purchase the 2024 upgrade. New owners can get the 2024-only version for approximately $39.52. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/350121</id>
     <title>iniBuilds Publishes A350 Trailer &amp; Development Update for MSFS 20/24</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6776d2394c5864217e932caa_Banner_Image.webp"/>
     <summary>Sim: FS24. Taimodels has recently released its rendition of Orlando Sanford International Airport (KSFB) for Microsoft Flight Simulator 2020 and 2024, as well as X-Plane 12. Located in Sanford, Florida, this airport serves as the secondary commercial airport for the Orlando area, alongside Orlando International Airport. Last year, nearly 3 million passengers traveled through the airport. The airport was established as Naval Air Station Sanford in 1942 and was utilized by the United States Navy until 1969. That year, the city of Sanford took control of the airport and renamed it Sanford Airport. For the next 25 years, the airport was primarily used for general aviation. In the mid-1990s, a new passenger terminal designed for jet airliners was constructed, marking the beginning of commercial flights to the airport. Since then, the airport has undergone various improvements. Today, Allegiant Air operates the majority of flights from the airport, offering destinations across the country. Both the MSFS 20/24 and X-Plane 12 versions of Orlando Sanford International Airport feature an accurate depiction of the airport, realistic buildings, and a variety of other features to make it as realistic as possible. The MSFS 20/24 version of the airport is priced at roughly $17.95 on SimMarket, while the X-Plane 12 version is available on SimMarket for approximately $19.49.  â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2025-01-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cows40</id>
+    <title>COWS Previews DA-40XLS for MSFS</title>
+    <updated>2025-01-03T00:00:00+00:00</updated>
+    <link href="/news/cows40"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6777ba733775d04f1b4677f9_IMG_0221.webp"/>
+    <summary>Sim: FS24. COWS recently previewed its upcoming aircraft on their YouTube channel - the DA40-XLS. This marks the second aircraft they have developed, after the DA42. The Austrian single-engine light aircraft is one of the most popular trainer aircraft, with over 2,200 DA40s produced. Based on the also successful DA20, Diamond Aircraft Industries designed a four-seat prototype, named DA40 Diamond Star.Â  The COWS DA40 is based on the XLS version. Considered as a âdeluxeâ version,Â it features a G1000 glass cockpit with WAAS (Wide Area Augmentation System) capability, Garmin GDL69 datalink, and a TAS traffic alert system.Â  Their rendition will feature custom-designed systems with interactive circuit breakers, EIS, and custom cylinder simulation. While the price and the release date for X-Plane 12 are still undisclosed, the developers have mentioned that they are targeting the release of FS20 and FS24 in early 2025.Â  As always, Threshold will keep you updated with any news and updates about the COWS DA40-XLS! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
+    <published>2025-01-03T00:00:00+00:00</published>
   </entry>
 </feed>
