@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-03T18:29:33.882047+00:00</updated>
+  <updated>2025-01-04T18:28:09.637198+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/350121</id>
-    <title>iniBuilds Publishes A350 Trailer &amp; Development Update for MSFS 20/24</title>
-    <updated>2024-12-21T00:00:00+00:00</updated>
-    <link href="/news/350121"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67674183ad3c69b10fa62d67_emi1.webp"/>
-    <summary>Sim: FS24. iniBuilds recently launched the trailer for their upcoming Airbus A350 for Microsoft Flight Simulator 2020 and 2024, along with a comprehensive development update listing some of its features and shedding light on a potential release date. As previously covered, iniBuilds decided to make it compatible with 2020 due to stability and reliability issues with Microsoftâs new flight simulator, thus investing in two development cycles under a single purchase and allowing the freedom of platform choice. âWe will do our very best to have parity in feature sets between both versions of the aircraft, but please note this will not be possible all the way, and more details will be shared close to release,â they conclude. The feature list promises a detailed 3D cabin with a cabin announcement system, a comprehensive flight attendant panel, custom terrain radar, detailed systems simulation, Navigraph integration with SimBrief import feature, a situation manager, ABEAM &amp; Offset simulation, intricate 3D model and texturing, GPS jamming, multiple failures, Brake-to-Vacate, and structural vibrations.Â  They claim to have worked very hard to provide a top-tier simulation of its electrical parts and systems, with a full-fledged electrical bus simulation, dynamic load computation, distinct battery options (NiCad or Lithium, with varying capacities and amperage), and noise-optimized N1 settings for NADP procedures. iniBuilds will be commencing their usual Aircraft showcase series on YouTube within the next few weeks, walking people through some of these new features. While the A350 was originally set to be released in 2024, iniBuilds has made the difficult decision to postpone the release to Q1 2025 to warrant a âfantastic product on launch.â Both variants will be available on day one, and the XLR will come at a later date. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/luu1rd</id>
-    <title>LevelUp Announces Update 1 Release Date</title>
-    <updated>2024-12-22T00:00:00+00:00</updated>
-    <link href="/news/luu1rd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67682a79fb34524f95dfb2e6_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Ever since the highly anticipated LevelUp released on January 1st, 2022, numerous users are eagerly awaiting the next update for the comprehensive Boeing 737 NG addon. However, a mixture of real-life happenings and internal development issues led to the addon being left alone for two years, until now. Just recently, the LevelUp team announced that after a series of cumulative internal updates, the much-anticipated Update 1 will be released this Christmas Eve, December 24th, 2024. According to the LevelUp team, the team has been hard at work to revamp the flight model, adding several new features, and most importantly, making the addon compatible with X-Plane 12. Snippets of the update were initially teased by streamer SkyMatix just earlier this year, showcasing new features such as openable cockpit windows, and so on. The team thanks the ZiboMod team for their full support on the project, as well as their flight model artist Allan who have revamped the flight model along the way. With Update 1 out of the way, the LevelUp team now will move on to the next phase, which is focusing on a visual update that will lay the foundation for the highly anticipated 737 MAX expansion, which will be dubbed Update 2.For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/klaxv2</id>
     <title>ShortFinal Design KLAX for XP12 Updated to V2</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6777ba733775d04f1b4677f9_IMG_0221.webp"/>
     <summary>Sim: FS24. COWS recently previewed its upcoming aircraft on their YouTube channel - the DA40-XLS. This marks the second aircraft they have developed, after the DA42. The Austrian single-engine light aircraft is one of the most popular trainer aircraft, with over 2,200 DA40s produced. Based on the also successful DA20, Diamond Aircraft Industries designed a four-seat prototype, named DA40 Diamond Star.Â  The COWS DA40 is based on the XLS version. Considered as a âdeluxeâ version,Â it features a G1000 glass cockpit with WAAS (Wide Area Augmentation System) capability, Garmin GDL69 datalink, and a TAS traffic alert system.Â  Their rendition will feature custom-designed systems with interactive circuit breakers, EIS, and custom cylinder simulation. While the price and the release date for X-Plane 12 are still undisclosed, the developers have mentioned that they are targeting the release of FS20 and FS24 in early 2025.Â  As always, Threshold will keep you updated with any news and updates about the COWS DA40-XLS! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
     <published>2025-01-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/in350l</id>
+    <title>iniBuilds Teases Liveries Launching with their A350</title>
+    <updated>2025-01-04T00:00:00+00:00</updated>
+    <link href="/news/in350l"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6778e2ab7a1ff80d75622940_Skjermbilde_2025-01-03_223440.webp"/>
+    <summary>Sim: MSFS20. iniBuilds has released another teaser for their upcoming A350, showcasing the liveries that will be included at launch through a video shared on their social media. The video showcases six liveries belonging to airlines from around the world: Delta, Japan Airlines, Scandinavian Airlines, China Eastern Airlines, Lufthansa, and Emirates. This is in addition to Cathay Pacific, Iberia, and British Airways, which have also been teased previously. Highly anticipated, the iniBuilds A350 aims to become the first study-level A350 in Microsoft Flight Simulator. According to iniBuilds, the aircraft will feature detailed 3D cabins, a comprehensive flight attendant panel, custom terrain radar, and intricate system simulation. It also includes Navigraph integration, SimBrief import, complex maintenance simulation, and a multitude of failures and emergency situations. â The aircraft was originally scheduled for release in 2024, but its launch has been postponed to 2025 to ensure a "fantastic product at launch." Additionally, the aircraft will be available for both Microsoft Flight Simulator 2024 and 2020, despite it being initially planned as an exclusive for the 2024 version. IniBuilds cited stability issues with Microsoft Flight Simulator 2024 as the reason for this decision. Stay tuned to Threshold for additional updates on the iniBuilds A350, and more. Additionally, join our vibrant community on Discord! â</summary>
+    <published>2025-01-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/headwind-simulations-previews-custom-cockpit-for-airbus-a339x</id>
+    <title>Headwind Simulations Previews Custom Cockpit for Airbus A339X</title>
+    <updated>2025-01-04T00:00:00+00:00</updated>
+    <link href="/news/headwind-simulations-previews-custom-cockpit-for-airbus-a339x"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6778e366f5752188801a943d_Skjermbilde_2025-01-04_023619.webp"/>
+    <summary>Sim: MSFS20. Freeware developer Headwind Simulations has recently showcased a preview of the upcoming custom cockpit for its A339X project, in a video posted on the AviatorCro YouTube channel. Until now, the aircraft has had a cockpit based on the FlyByWire A32NX [...] According to Headwind, the footage presented does not feature a completely new model or a full A330 cockpit; however, it represents a significant improvement in quality. Several changes are immediately apparent, with the design and geometry of the main panel standing out as the most notable. It is no longer a "hybrid" between an A320 and an A330. Additionally, a third Multi-Function Control Display Unit (MCDU) has been added, and lighting controls have been fully integrated. Some systems have also been improved, such as adding the "north reference" feature, which allows for switching navigational reference from magnetic to true north. This update is Phase 1 and will not include a redesigned overhead panel, as that will be part of Phase 2. Headwind Simulations has also indicated that Phase 2 will be released once the necessary systems are in place.Â  The update is scheduled for release in January 2025 and will be exclusive to Microsoft Flight Simulator 2020 for the time being. â For additional updates on the Headwind Simulations A339X, and more, stay tuned to Threshold.Â  Additionally, join our vibrant community on Discord!</summary>
+    <published>2025-01-04T00:00:00+00:00</published>
   </entry>
 </feed>
