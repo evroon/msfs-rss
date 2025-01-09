@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-08T18:30:39.970478+00:00</updated>
+  <updated>2025-01-09T18:31:15.892088+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/klaxv2</id>
-    <title>ShortFinal Design KLAX for XP12 Updated to V2</title>
-    <updated>2024-12-22T00:00:00+00:00</updated>
-    <link href="/news/klaxv2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67688e487225e4ae619b357d_1000010296.webp"/>
-    <summary>Sim: X-Plane. ShortFinal Design (SFD) has updated KLAX to V2. This is the first update since 2020, and it includes numerous changes. Los Angeles International Airport (KLAX), with its four runways, served 75 million travellers in 2023. This makes it the second-largest airport in the US and one of the worldâs busiest airports in terms of both arrivals and departures. â According to SFD, the most notable update in version 2 is the introduction of native support for X-Plane 12. This allows for a variety of enhancements, such as 3D vegetation, dynamic airport vehicles equipped with FMOD sounds, and native rain effects. Users of X-Plane 11 will also benefit from updated hangars and terminals, as well as significant structures like the SoFi Stadium and the LAX Automated People Mover. Furthermore, the update enhances textures and lighting, improves various structures, and streamlines animations through LST integration. â The full list of changes is as follows: â Version 2.0 (December 20th 2024): The update is free for all current owners of the scenery and is available for $26.95 on the x-plane.org store for those who do not already own it. Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord.</summary>
-    <published>2024-12-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/321290</id>
     <title>FSLabs Updates A321Ceo for MSFS</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6778e366f5752188801a943d_Skjermbilde_2025-01-04_023619.webp"/>
     <summary>Sim: MSFS20. Freeware developer Headwind Simulations has recently showcased a preview of the upcoming custom cockpit for its A339X project, in a video posted on the AviatorCro YouTube channel. Until now, the aircraft has had a cockpit based on the FlyByWire A32NX [...] According to Headwind, the footage presented does not feature a completely new model or a full A330 cockpit; however, it represents a significant improvement in quality. Several changes are immediately apparent, with the design and geometry of the main panel standing out as the most notable. It is no longer a "hybrid" between an A320 and an A330. Additionally, a third Multi-Function Control Display Unit (MCDU) has been added, and lighting controls have been fully integrated. Some systems have also been improved, such as adding the "north reference" feature, which allows for switching navigational reference from magnetic to true north. This update is Phase 1 and will not include a redesigned overhead panel, as that will be part of Phase 2. Headwind Simulations has also indicated that Phase 2 will be released once the necessary systems are in place.Â  The update is scheduled for release in January 2025 and will be exclusive to Microsoft Flight Simulator 2020 for the time being. â For additional updates on the Headwind Simulations A339X, and more, stay tuned to Threshold.Â  Additionally, join our vibrant community on Discord!</summary>
     <published>2025-01-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aeda20</id>
+    <title>Aerobask Releases Diamond DA20 for X-Plane 12</title>
+    <updated>2025-01-08T00:00:00+00:00</updated>
+    <link href="/news/aeda20"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/677eface2fec9895be78714f_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Aerobask has recently launched its version of the Diamond DA20 for X-Plane 12. This small two-seat aircraft is now available for flight simulation enthusiasts looking to expand their general aviation options in the X-Plane 12 hangar. The Diamond DA20 is a Canadian-built aircraft that originated from the Austrian-built DV20. It is manufactured by Diamond Aircraft. Over 1,000 DA20s have been produced, and production is still ongoing. The DA20 serves as the predecessor to the larger Diamond DA40. This aircraft is utilized for both civilian and military purposes and is particularly popular among flight schools around the world, where it is used to train future pilots. Aerobask's version of the DA20 features a 3D cockpit, PBR textures, a flight model by X-Aerodynamics, custom dual Dynon SkyView Touch, Synthetic Vision, a full FMOD environment, windshield effects, and more. The newly released Diamond DA20 is now available at the X-Plane.Org Software Store for $34.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-08T00:00:00+00:00</published>
   </entry>
 </feed>
