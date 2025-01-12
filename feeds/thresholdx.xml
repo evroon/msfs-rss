@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-11T18:27:57.220876+00:00</updated>
+  <updated>2025-01-12T18:27:48.059163+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mmefou</id>
-    <title>MM Simulations Releases Oulu Airport for MSFS 20/24</title>
-    <updated>2024-12-24T00:00:00+00:00</updated>
-    <link href="/news/mmefou"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676ac2266a510b51e7d9f498_Banner_Image.webp"/>
-    <summary>Sim: FS24. MM Simulations has recently launched its version of Oulu Airport (EFOU) for Microsoft Flight Simulator 2020 and 2024. This airport, located approximately 6.6 miles from the city center of Oulu, Finland, welcomes around 550.000 passengers each year and handles nearly 6.000 aircraft movements. The airport opened in 1953, following the commencement of construction in 1949. Initially, the airport featured only gravel runways. This changed in 1958 when the runways were paved, and the airport received its terminal and air traffic control (ATC) building. In 1973, the current terminal building replaced the earlier structure, which was later demolished in 2005. The terminal underwent further expansion and renovation in 2002 and 2011. Regarding the runways, the second runway was removed in 2000, shortly after the completion of the current ATC tower in 1998. Today, the airport operates flights from Finnair, Lufthansa, and Aegean Airlines, offering various regular and charter destinations, including Helsinki, Munich, Chania, and Rhodes. The scenery package is filled with features including custom night lighting, custom parking positions, custom surroundings, custom people, PBR materials, and much more. The add-on requires slightly over 1 GB of storage space and is available on SimMarket for $17.16. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2024-12-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcfs24</id>
     <title>X-Codr Updates Sceneries for MSFS24</title>
@@ -150,6 +141,15 @@
     <link href="/news/bornor"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6781dc88da0536d7773933d9_norr1.webp"/>
     <summary>Sim: MSFS20. Borgillios Scenery recently released their rendition of NorrkÃ¶ping Airport (ESSP) for Microsoft Flight Simulator 2020. The airport serves NorrkÃ¶ping and has a yearly average of 103,298 passengers.Â  Founded in 1934, NorrkÃ¶ping is Sweden's oldest commercial travel airport. Although mostly commercial throughout its history, the Swedish Air Forces briefly used it during World War 2.Â  The airport's traffic peaked in the 1980s, followed by a significant decline shortly afterward due to the rise of high-speed rail connections and the development of larger commercial airports.Â  Despite the challenges, efforts have been made to revitalize the airport and attract new airlines and routes. The airport's location in a strategically important region and its history and infrastructure offer potential for future growth and development. Nowadays, the airport only gets seasonal charter traffic from Braathens International Airways, Pegasus Airlines, and TUI fly Nordic. The scenery features an accurate rendition of the airport, with PBR textures, high-detail buildings (terminal, hangars, etc), and more. It's available on SimMarket for roughly $10.30, requiring at least 166.64 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmltbj</id>
+    <title>MM Simulations Teases Izmir Adnan Menderes Airport for MSFS 20/24</title>
+    <updated>2025-01-11T00:00:00+00:00</updated>
+    <link href="/news/mmltbj"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6782dd3880656284ae181f69_Banner_Image.webp"/>
+    <summary>Sim: FS24. MM Simulations has recently teased its next project, likely for Microsoft Flight Simulator 2020 and 2024, based on the teaser. The team is travelling to Turkey, specifically to the city of Izmir. It appears that Izmir Adnan Menderes Airport (LTBJ) will be the next scenery developed by MM Simulations. Izmir is a popular holiday destination in Turkey, renowned for its beautiful coastal views. It attracts numerous vacationers from across Europe. Each year, Izmir Airport handles over 10.5 million passengers and serves a wide range of destinations, including scheduled seasonal, and charter flights. â Details regarding the release date, features, and pricing have yet to be announced, but we will keep you updated as soon as this information becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2025-01-11T00:00:00+00:00</published>
   </entry>
 </feed>
