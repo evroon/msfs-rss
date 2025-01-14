@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-13T18:31:52.915738+00:00</updated>
+  <updated>2025-01-14T18:29:03.687649+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xcfs24</id>
-    <title>X-Codr Updates Sceneries for MSFS24</title>
-    <updated>2024-12-25T00:00:00+00:00</updated>
-    <link href="/news/xcfs24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/66b8771e662f70ff37689ea4_Screenshot%20(116).webp"/>
-    <summary>Sim: FS24. X-Codr Designs have recently updated all of their MSFS20 sceneries for the MSFS24. The update focuses on compatibility with the newest simulator and will be completely free.Â  â The Grand Canyon West Airport (1G4) has received many improvements, such as a fully remodelled skywalk bridge, texture improvements for the Skywalk complex, airport ground markings and airport facilities, an updated airport layout, and various other minor enhancements. This update is available for both MSFS20 and MSFS24 on Orbx, and will soon be available on the MSFS marketplace. The development update also mentioned that the West Yellowstone Airport has undergone a lot of changes in the past years: a new hangar, an expanded FBO, as well as a brand-new terminal set to open in 2025. Because of that, a free update containing all the changes will be released in 2025! â As the differences between MSFS24 and MSFS20 are quite considerable, there are still some issues with some sceneries. The list of issues can be found here. The last part of the development update also mentioned an upcoming airport for X-Plane, with a little sneak peek. If you have any ideas about which airport this might be, let us know in the comments down below! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2024-12-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wwmcd</id>
-    <title>WinWing Launches MCDU/CDU Panels</title>
-    <updated>2024-12-26T00:00:00+00:00</updated>
-    <link href="/news/wwmcd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/676de815866d63712d7aba09_Skjermbilde%202024-12-26%20233711.webp"/>
-    <summary>Sim: OTHER. We now have more information about the WinWing MCDU and CDU panels announced this spring at FSWeekend and further showcased at FSExpo, thanks to a promotional video shared on their social media. The video showcases their new âMIP Series Airline Panelsâ lineup, which includes the previously mentioned A320 MCDU and 737 FMC, as well as two new additions: the 747 and 777 FMCs. After being a key player in the military flight simulation market, WinWing entered the commercial flight simulation market earlier this year with the A320 FCU, having big aspirations. WinWing says its new product line will feature a full-scale design aimed at delivering maximum authenticity, with a panel thickness of 28.5 mm. The panels will be fully backlit, and equipped with adjustable lighting and realistic light sensors. Their SimAppPro plug-and-play system will allow users to manually switch positions among captain, co-pilot, and observer roles, making the panels suitable for a variety of cockpit configurations. The video also shows mounting solutions that make the panels ideal for both desk setups and home cockpit builders. Each unit in the lineup costs the same, being priced at $129.95 before tax and shipping, with small price differences depending on currency exchange rates. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord!</summary>
-    <published>2024-12-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsl291</id>
-    <title>FSLabs Updates A321Ceo for MSFS</title>
-    <updated>2024-12-28T00:00:00+00:00</updated>
-    <link href="/news/fsl291"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de3df1ae2d10ada9d7bc_labsup2.webp"/>
-    <summary>Sim: MSFS20. FSLabs has released another update to their experimental branch for the newly released Airbus A321Ceo, addressing CTDs, further system fixes, extending hardware support, and more. Update v11.0.1.291 â the third since the productâs rollout in early December â brings improvements to the sound sets in the cockpit, mitigates an issue affecting a subset of users with a lot of add-on products in their community folder, and further refines its overall stability. It also extends hardware access to more EFIS and ECP events. The highlights for the update are below: DMC Systems Improvements: FWC:Â  ATSU:Â  Sound Enhancements: Simconnect Hardware FSLabs will continue the sound work through the holidays, as they are aware that some issues still exist. However, they wanted to provide part of the ongoing work with this update to gather feedback and eventually warrant a polished result. The add-on is available on their website for $69.95. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2024-12-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/asrpvi</id>
     <title>Airwil Sceneries Releases Iloilo International Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6782dd3880656284ae181f69_Banner_Image.webp"/>
     <summary>Sim: FS24. MM Simulations has recently teased its next project, likely for Microsoft Flight Simulator 2020 and 2024, based on the teaser. The team is travelling to Turkey, specifically to the city of Izmir. It appears that Izmir Adnan Menderes Airport (LTBJ) will be the next scenery developed by MM Simulations. Izmir is a popular holiday destination in Turkey, renowned for its beautiful coastal views. It attracts numerous vacationers from across Europe. Each year, Izmir Airport handles over 10.5 million passengers and serves a wide range of destinations, including scheduled seasonal, and charter flights. â Details regarding the release date, features, and pricing have yet to be announced, but we will keep you updated as soon as this information becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
     <published>2025-01-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asrpns</id>
+    <title>Airwil Sceneries Releases Sayak Airport for X-Plane 11 &amp; 12</title>
+    <updated>2025-01-14T00:00:00+00:00</updated>
+    <link href="/news/asrpns"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67863c34bfe29fd5a5b0a5d6_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Airwil Sceneries has just released its rendition of Sayak Airport (RPNS) for both X-Plane 11 and X-Plane 12. Located on Siargao Island in the Philippines, the airport is also referred to as Siargao Airport. Originally built in 1963 under former President Diosdado Macapagal, the airport was designed to accommodate small 19-seater planes. However, significant changes occurred in 2008 when the airport underwent renovations as part of a program aimed at boosting economic activity. Following these improvements, the airport could handle larger aircraft capable of carrying over 70 passengers. Further modernization and expansion took place in 2013. Today, airlines such as Cebgo, PAL Express, and Sunlight Air operate flights to destinations including Cebu, Clark, Davao, and Manila. The newly released rendition of Sayak Airport is rich in features, offering a realistic representation of the airport, including a detailed passenger terminal, a modelled control tower, and more. The scenery requires 1.27 GB of storage space and is now available at SimMarket for approximately $6.15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xskttn</id>
+    <title>XWind Studios Releases Trenton-Mercer Airport for MSFS 20/24</title>
+    <updated>2025-01-14T00:00:00+00:00</updated>
+    <link href="/news/xskttn"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67868dd52f5e0ed382d2481d_Banner_Image.webp"/>
+    <summary>Sim: FS24. XWind Studios has recently launched its latest scenery for Microsoft Flight Simulator 2020 and 2024: Trenton-Mercer Airport (KTTN). Located in Trenton, the capital city of New Jersey, this airport is a hub for Frontier Airlines, serving approximately 600.000 passengers annually. Trenton-Mercer Airport's history dates back to 1907 when the first airplane landed on Alfred Reeder's field in Ewing. Skillman Airport opened to the public in 1929. During World War II, the local General Motors plant transitioned to manufacturing torpedo bombers, leading to airport expansions to accommodate test flights for these aircraft. The airport was later renamed Mercer County Airport and eventually became Trenton-Mercer Airport in 1995, linking it to the city of Trenton. In 1998, the airport replaced human weather observers with an automated weather system. Although the county plans to replace the old terminal, residents have opposed this idea. Today, Frontier Airlines is the only airline operating at the airport, offering flights to destinations such as Atlanta, Orlando, Tampa, Fort Myers, and West Palm Beach. The newly released scenery features a host of features, including high-quality, optimized textures, detailed terminal interior designs, custom taxiway signage, comprehensive imagery of the entire airport, and much more. The scenery requires 3.95 GB of storage space and is available on iniBuilds for $10.38. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jlgrp4</id>
+    <title>JustSim Releases Rhodes International Airport for MSFS 2024</title>
+    <updated>2025-01-14T00:00:00+00:00</updated>
+    <link href="/news/jlgrp4"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67869650a2fb9d490056cc95_Banner_Image.webp"/>
+    <summary>Sim: FS24. JustSim has released its first scenery fully adapted for Microsoft Flight Simulator 2024, revisiting a previous destination: Rhodes International Airport (LGRP). Rhodes is a popular summer destination in the Greek Islands, attracting over 6 million annual passengers. Civil aviation on the island began after World War II with the opening of Rhodes Maritsa Airport, which served as the main airport until Rhodes International Airport, also known as Diagoras International Airport, was inaugurated in 1977. Over the years, the airport has seen improvements, including expanded taxiways and a new passenger terminal that opened in 2005. In 2015, the airport was privatized and is now managed by Fraport AG/Copelouzos Group for a period of 40 years. Today, Rhodes International Airport hosts numerous airlines offering scheduled, seasonal, and charter flights to various destinations across Europe. The new scenery features high-resolution ground textures, high-resolution building textures, highly detailed 3D models, custom animated ground vehicles, and much more. The scenery requires 1.66 GB of storage space and is available on SimMarket for approximately $17.28. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-14T00:00:00+00:00</published>
   </entry>
 </feed>
