@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-17T18:28:50.224758+00:00</updated>
+  <updated>2025-01-18T18:26:32.737479+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xp1213</id>
-    <title>X-Plane 12.1.3 Released</title>
-    <updated>2024-12-31T00:00:00+00:00</updated>
-    <link href="/news/xp1213"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/677405a51140e8830db3ab17_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. X-Plane 12.1.3 has just been fully released, one and a half months after the first beta release. ATC, the user interface, and sounds are among the most improved aspects of this update. â ATC and sounds According to Laminar Research, the ATC system has undergone a significant overhaul. Radio communications have become much more realistic, including features such as radio checks, clearance requests, and VFR and IFR procedures that support SIDs and STARs. Additionally, the default navigation data has been updated to AIRAC 2306. Users can now copy and paste routes from tools like Navigraph and Simbrief directly into their flight plans. They can also request alternative SIDs and STARs, ask for altitude exceptions, and receive per-turn instructions. Furthermore, X-Plane can now be configured to output ATC audio to a separate audio device. Weather A full weather update is planned, but some changes have been made in version 12.1.3. Issues with sudden altitude and pressure changes during mid flight have been resolved. Additionally, improvements have been made to cloud visualization and interpreting METAR information and wind data. Errors related to the NEXRAD display for document number G1000 have also been addressed. User interface The flight configuration menu now provides more detailed information about gates and ramps. Additionally, the map highlights active runways and shows taxi routes. Several smaller improvements have also been made, including fixing rendering stutters that occurred when displaying UI elements and ensuring that VR windows maintain their positions. X-Plane identity In preparation for the X-Plane Store, the X-Plane identity feature has been released in early access. This feature allows you to link your purchase key to your X-Plane identity. Once you complete the migration, your X-Plane key will no longer be necessary; a simple login will grant you access to the simulator. In the future, purchases from the X-Plane Store will be linked to your X-Plane identity. According to Laminar Research, migrating to X-Plane identity is entirely optional. Several other changes have been implemented, including a handcrafted overhaul of The Downtown Manhattan Heliport (KJRB) and enhancements to the default A330, Cirrus SR22, and Cessna Citation X. â The full list of changes can be found on X-Plane.com. â Version 12.1.4, âThe Flightlessons Updateâ is next up. â For more on that, and more, stay tuned to Threshold. Additionally, join our vibrant community on Discord!</summary>
-    <published>2024-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mksdus</id>
-    <title>MK Studios Publishes Development Update for MSFS 20/24</title>
-    <updated>2025-01-02T00:00:00+00:00</updated>
-    <link href="/news/mksdus"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6775dc412102eff05c4cba15_dus2.webp"/>
-    <summary>Sim: FS24. MK Studios recently published a short development update concerning the status of their ongoing projects, future products, MSFS 2024 product compatibility, and finally, their new scenery in the Pacific Northwest. Their upcoming rendition of DÃ¼sseldorf Airport (EDDL) is coming along nicely, with a late Q1 2025 release date in mind. MK Studios has also shared four work-in-progress screenshots as an extra appetizer.Â  Their next project, briefly mentioned last time as an airport in the Pacific Northwest, will be Seattle-Tacoma International (KSEA) in the United States.  Helsinki and Rome Rebootedâthe new name for their V2sâare also progressing nicely and will be totally focused once they get DÃ¼sseldorf and Seattle out of the way. In the meantime, they are collecting pictures and data, and any help is greatly appreciated. â Regarding the new simulation platform, MK Studios is working on compatibility issues. Montreal and Dublin will soon receive an update that includes major fixes and improvements, with other airports to be updated in the coming months. They are trying to find a good balance between updating pre-existing products and developing new stuff, which is said to be a tricky task due to how unstable the new sim and SDK can be at times. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/blgflo</id>
     <title>Brazil Land Games Releases FlorianÃ³polis International Airport V3 for MSFS</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678a9159a7f32bf69bada631_Banner_Image.webp"/>
     <summary>Sim: DCS. Eagle Dynamics has unveiled its DCS 2025 and Beyond video, marking the start of the year for the team. This annual preview highlights new features and add-ons that will enhance the DCS experience. Viewers can expect an in-depth look at upcoming innovations for the flight simulation platform. The video begins by introducing Dynamic Campaigns, a feature that has been highly requested by the community for some time. For the first time since its announcement in last year's video, footage of the upcoming MiG-29A is shown in-game. Additionally, the Eurofighter Typhoon Tranche 1 and 2 are showcased after being absent for two years. Throughout the video, there are glimpses of Berlin, hinting at a potential new map, likely set in Germany. Other teasers include enhanced ground assets, a new variant of the Mirage F1M, the C-130 from Airplane Simulation Company, the Sparrowhawk HUD for both the F-14A and F-14B, and the F-100 Super Sabre. The video suggests that there is a wealth of exciting upcoming content to look forward to. At the video's conclusion, developers announced two exciting new aircraft for DCS. Development will begin in 2025 for a full-fidelity F-15C, an agile air superiority fighter, and an F-35A, a stealthy multirole fighter. Both are expected to be released in 2026. Once more information about any of the teasers is available, we will make sure to let you know. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
     <published>2025-01-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsl292</id>
+    <title>FSLabs Updates Airbus A321Ceo for MSFS</title>
+    <updated>2025-01-18T00:00:00+00:00</updated>
+    <link href="/news/fsl292"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de4adcd06a5053536bb2_labsup3.webp"/>
+    <summary>Sim: MSFS20. FSLabs has released another update to their newly released Airbus A321Ceo for Microsoft Flight Simulator 2020. This update brings a realistic implementation of the Rockwell Collins WXR-2100 system (weather radar) and a series of fixes and improvements. Update v11.0.1.292âthe fourth since its releaseâhighlights the weather radar implementation. It seamlessly integrates the powerful Rockwell Collins suite, which has been meticulously designed to interact with the live weather environment in MSFS and produce accurate radar returns. They have also expanded their hardware integration, adding compatibility with WinWing, MiniCockpit, WingFlex, and more.Â  Besides the weather radar and new hardware integration, the update also brings numerous bug fixes, improvements based on user feedback, performance improvements, and an overall more stable system behavior. The highlights follow below: â AOC â Display and Cockpit Updates: â Electrical and Power Systems: â Flight Control Logic and Sensors: â Flight Deck and Hardware Integration: â â FMGC: â Flight Warning and Control: â â Navigation and Radios: â â Performance and Calculations: â â Sounds: â Techlog: â Weather Radar: â The add-on is available on their website for $69.95. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/simgmz</id>
+    <title>SimulaciÃ³n Extrema Releases Guardia Marina ZaÃ±artu Airport for MSFS 2020</title>
+    <updated>2025-01-18T00:00:00+00:00</updated>
+    <link href="/news/simgmz"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678bc9aad9d514fbfc2b3dd7_zanartu1.webp"/>
+    <summary>Sim: MSFS20. SimulaciÃ³n Extrema has recently released its rendition of Guardia Marina ZaÃ±artu Airport (SCGZ) for Microsoft Flight Simulator, which serves Puerto Williams on Navarino Island, Chile. It was inaugurated in 1957 by President Carlos IbÃ¡Ã±ez del Campo and named after a local naval aviation pilot, Guillermo ZaÃ±artu Irigoyen. It's the world's southernmost airport with scheduled flights, solidifying its history in aviation. âÂ It connects Navarino Island to Chile and the rest of the world, providing a vital link to an otherwise isolated region. AerovÃ­as DAP serves it with scheduled flights to Punta Arenas and Santiago del Chile. The scenery features an accurate rendition of the airport, with a fully modeled passenger terminal, custom ground textures, custom ground clutter, and more.  It's available in the MSFS Marketplace for $11.99.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-18T00:00:00+00:00</published>
   </entry>
 </feed>
