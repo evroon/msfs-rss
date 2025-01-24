@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-01-23T18:29:31.073653+00:00</updated>
+  <updated>2025-01-24T18:29:15.378777+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,24 +34,6 @@
     <published>2024-11-27T19:21:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/december-12th-2024-development-update/</id>
-    <title>December 12th, 2024 Development Update</title>
-    <updated>2024-12-13T00:37:40+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-12th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/ZeekR5430-Forums-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user ZeekR5430! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Tuesday, we released Patch 3 (v1.2.7.0) for Microsoft Flight Simulator 2024. This update contains fixes to hundreds of bugs and issues that players have experienced since the November … Continued</summary>
-    <published>2024-12-13T00:37:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/december-19th-2024-development-update/</id>
-    <title>December 19th, 2024 Development Update</title>
-    <updated>2024-12-20T00:50:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-19th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/HeKa48-Forums-1-1024x429.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!This will be the final Development Update blog of 2024. Additionally, there will be no New or Updated product releases for the Marketplace (MSFS 2020) on either Monday, … Continued</summary>
-    <published>2024-12-20T00:50:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/release-notes-1-2-8-0-available-now-msfs-2024/</id>
     <title>Release Notes – [1.2.8.0] Available Now | MSFS 2024</title>
     <updated>2024-12-20T16:01:08+00:00</updated>
@@ -88,13 +70,22 @@
     <published>2025-01-17T00:01:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/december-5th-2024-development-update/</id>
-    <title>December 5th, 2024 Development Update</title>
-    <updated>2024-12-06T00:33:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-5th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/@vp_sim-Twitter-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Twitter user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Yesterday, our regular panel of Jorg, Seb, and Martial hosted the first Developer Livestream since the release of Microsoft Flight Simulator 2024. The panel acknowledged the rocky launch of … Continued</summary>
-    <published>2024-12-06T00:33:26+00:00</published>
+    <id>https://www.flightsimulator.com/sim-update-1-beta-now-available-to-join-msfs-2024/</id>
+    <title>Sim Update 1 Beta Now Available to Join | MSFS 2024</title>
+    <updated>2025-01-23T22:04:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-1-beta-now-available-to-join-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
+    <summary>Welcome to the Microsoft Flight Simulator 2024 Sim Update 1 public beta test!The Sim Update 01 Beta is now available on Steam, Windows PC, and Xbox.Please find instructions to join the Sim Update 01 Beta below. You must own Microsoft Flight Simulator 2024 (or have an appropriate Xbox Game Pass subscription) to participate on the platform of … Continued</summary>
+    <published>2025-01-23T22:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-23rd-2025-development-update/</id>
+    <title>January 23rd, 2025 Development Update</title>
+    <updated>2025-01-23T23:30:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-23rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/COOPERDUDE6177-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner for the second week running is Forum user COOPERDUDE6177! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released the regular monthly Navdata Update for AIRAC Cycle 2501. This update also included a small number of bug fixes … Continued</summary>
+    <published>2025-01-23T23:30:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/december-12th-2024-development-update/</id>
@@ -142,22 +133,13 @@
     <published>2025-01-17T00:01:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/december-19th-2024-development-update/</id>
-    <title>December 19th, 2024 Development Update</title>
-    <updated>2024-12-20T00:50:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-19th-2024-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/12/HeKa48-Forums-1-1024x429.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!This will be the final Development Update blog of 2024. Additionally, there will be no New or Updated product releases for the Marketplace (MSFS 2020) on either Monday, … Continued</summary>
-    <published>2024-12-20T00:50:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/release-notes-1-2-8-0-available-now-msfs-2024/</id>
-    <title>Release Notes – [1.2.8.0] Available Now | MSFS 2024</title>
-    <updated>2024-12-20T16:01:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/release-notes-1-2-8-0-available-now-msfs-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/Release_Notes_Feature-1024x576.png"/>
-    <summary>RELEASE NOTES 1.2.8.0If you are playing on PC, outdated packages in your Community Folder may have an unexpected impact on the title’s performance and behavior. If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.Stability &amp; Performance Fixed various crashes across the title Fixed … Continued</summary>
-    <published>2024-12-20T16:01:08+00:00</published>
+    <id>https://www.flightsimulator.com/january-23rd-2025-development-update/</id>
+    <title>January 23rd, 2025 Development Update</title>
+    <updated>2025-01-23T23:30:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-23rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/COOPERDUDE6177-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner for the second week running is Forum user COOPERDUDE6177! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released the regular monthly Navdata Update for AIRAC Cycle 2501. This update also included a small number of bug fixes … Continued</summary>
+    <published>2025-01-23T23:30:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/holiday-sale-3400-items-on-sale-now-in-the-marketplace/</id>
@@ -194,5 +176,23 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/ZeekR5430-Forums-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner for the second week running is Forum user ZeekR5430! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!As announced in the January 9 Development Update Blog, we have an updated Feedback Snapshot for Microsoft Flight Simulator 2024 to share with … Continued</summary>
     <published>2025-01-17T00:01:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-1-beta-now-available-to-join-msfs-2024/</id>
+    <title>Sim Update 1 Beta Now Available to Join | MSFS 2024</title>
+    <updated>2025-01-23T22:04:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-1-beta-now-available-to-join-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
+    <summary>Welcome to the Microsoft Flight Simulator 2024 Sim Update 1 public beta test!The Sim Update 01 Beta is now available on Steam, Windows PC, and Xbox.Please find instructions to join the Sim Update 01 Beta below. You must own Microsoft Flight Simulator 2024 (or have an appropriate Xbox Game Pass subscription) to participate on the platform of … Continued</summary>
+    <published>2025-01-23T22:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/january-23rd-2025-development-update/</id>
+    <title>January 23rd, 2025 Development Update</title>
+    <updated>2025-01-23T23:30:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/january-23rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/COOPERDUDE6177-Forums-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner for the second week running is Forum user COOPERDUDE6177! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!Earlier today, we released the regular monthly Navdata Update for AIRAC Cycle 2501. This update also included a small number of bug fixes … Continued</summary>
+    <published>2025-01-23T23:30:32+00:00</published>
   </entry>
 </feed>

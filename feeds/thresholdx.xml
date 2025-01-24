@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-23T18:29:35.798510+00:00</updated>
+  <updated>2025-01-24T18:29:18.753273+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cows40</id>
-    <title>COWS Previews DA-40XLS for MSFS</title>
-    <updated>2025-01-03T00:00:00+00:00</updated>
-    <link href="/news/cows40"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6777ba733775d04f1b4677f9_IMG_0221.webp"/>
-    <summary>Sim: FS24. COWS recently previewed its upcoming aircraft on their YouTube channel - the DA40-XLS. This marks the second aircraft they have developed, after the DA42. The Austrian single-engine light aircraft is one of the most popular trainer aircraft, with over 2,200 DA40s produced. Based on the also successful DA20, Diamond Aircraft Industries designed a four-seat prototype, named DA40 Diamond Star.Â  The COWS DA40 is based on the XLS version. Considered as a âdeluxeâ version,Â it features a G1000 glass cockpit with WAAS (Wide Area Augmentation System) capability, Garmin GDL69 datalink, and a TAS traffic alert system.Â  Their rendition will feature custom-designed systems with interactive circuit breakers, EIS, and custom cylinder simulation. While the price and the release date for X-Plane 12 are still undisclosed, the developers have mentioned that they are targeting the release of FS20 and FS24 in early 2025.Â  As always, Threshold will keep you updated with any news and updates about the COWS DA40-XLS! â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2025-01-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/in350l</id>
-    <title>iniBuilds Teases Liveries Launching with their A350</title>
-    <updated>2025-01-04T00:00:00+00:00</updated>
-    <link href="/news/in350l"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6778e2ab7a1ff80d75622940_Skjermbilde_2025-01-03_223440.webp"/>
-    <summary>Sim: MSFS20. iniBuilds has released another teaser for their upcoming A350, showcasing the liveries that will be included at launch through a video shared on their social media. The video showcases six liveries belonging to airlines from around the world: Delta, Japan Airlines, Scandinavian Airlines, China Eastern Airlines, Lufthansa, and Emirates. This is in addition to Cathay Pacific, Iberia, and British Airways, which have also been teased previously. Highly anticipated, the iniBuilds A350 aims to become the first study-level A350 in Microsoft Flight Simulator. According to iniBuilds, the aircraft will feature detailed 3D cabins, a comprehensive flight attendant panel, custom terrain radar, and intricate system simulation. It also includes Navigraph integration, SimBrief import, complex maintenance simulation, and a multitude of failures and emergency situations. â The aircraft was originally scheduled for release in 2024, but its launch has been postponed to 2025 to ensure a "fantastic product at launch." Additionally, the aircraft will be available for both Microsoft Flight Simulator 2024 and 2020, despite it being initially planned as an exclusive for the 2024 version. IniBuilds cited stability issues with Microsoft Flight Simulator 2024 as the reason for this decision. Stay tuned to Threshold for additional updates on the iniBuilds A350, and more. Additionally, join our vibrant community on Discord! â</summary>
-    <published>2025-01-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/headwind-simulations-previews-custom-cockpit-for-airbus-a339x</id>
-    <title>Headwind Simulations Previews Custom Cockpit for Airbus A339X</title>
-    <updated>2025-01-04T00:00:00+00:00</updated>
-    <link href="/news/headwind-simulations-previews-custom-cockpit-for-airbus-a339x"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6778e366f5752188801a943d_Skjermbilde_2025-01-04_023619.webp"/>
-    <summary>Sim: MSFS20. Freeware developer Headwind Simulations has recently showcased a preview of the upcoming custom cockpit for its A339X project, in a video posted on the AviatorCro YouTube channel. Until now, the aircraft has had a cockpit based on the FlyByWire A32NX [...] According to Headwind, the footage presented does not feature a completely new model or a full A330 cockpit; however, it represents a significant improvement in quality. Several changes are immediately apparent, with the design and geometry of the main panel standing out as the most notable. It is no longer a "hybrid" between an A320 and an A330. Additionally, a third Multi-Function Control Display Unit (MCDU) has been added, and lighting controls have been fully integrated. Some systems have also been improved, such as adding the "north reference" feature, which allows for switching navigational reference from magnetic to true north. This update is Phase 1 and will not include a redesigned overhead panel, as that will be part of Phase 2. Headwind Simulations has also indicated that Phase 2 will be released once the necessary systems are in place.Â  The update is scheduled for release in January 2025 and will be exclusive to Microsoft Flight Simulator 2020 for the time being. â For additional updates on the Headwind Simulations A339X, and more, stay tuned to Threshold.Â  Additionally, join our vibrant community on Discord!</summary>
-    <published>2025-01-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aeda20</id>
-    <title>Aerobask Releases Diamond DA20 for X-Plane 12</title>
-    <updated>2025-01-08T00:00:00+00:00</updated>
-    <link href="/news/aeda20"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/677eface2fec9895be78714f_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Aerobask has recently launched its version of the Diamond DA20 for X-Plane 12. This small two-seat aircraft is now available for flight simulation enthusiasts looking to expand their general aviation options in the X-Plane 12 hangar. The Diamond DA20 is a Canadian-built aircraft that originated from the Austrian-built DV20. It is manufactured by Diamond Aircraft. Over 1,000 DA20s have been produced, and production is still ongoing. The DA20 serves as the predecessor to the larger Diamond DA40. This aircraft is utilized for both civilian and military purposes and is particularly popular among flight schools around the world, where it is used to train future pilots. Aerobask's version of the DA20 features a 3D cockpit, PBR textures, a flight model by X-Aerodynamics, custom dual Dynon SkyView Touch, Synthetic Vision, a full FMOD environment, windshield effects, and more. The newly released Diamond DA20 is now available at the X-Plane.Org Software Store for $34.95. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2025-01-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/akdupd</id>
-    <title>AKD Studio Updates GLF550 and GLF650</title>
-    <updated>2025-01-09T00:00:00+00:00</updated>
-    <link href="/news/akdupd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678034ce29020b7a799c59d2_GLF650ER_AKD%20-%202024-11-07%2021.09.37.webp"/>
-    <summary>Sim: X-Plane. AKD Studios has released the first update of the year for its whole lineup. The v2.21 for GLF550 and v1.02 for GLF650 improve engine performance and MCDU, along with many bug fixes. The update introduced the new SASL (3.18.0), engine start-up times, and external light improvements for both aircraft, while the 650 received interactive window shades in the passenger cabin, as well as the option to store the RAT. The bug-fixing part brought in various fixes for the MCDU, logic improvements for TCAS, AP, and air condition temperature management. The full changelog is as follows: â¢ Added option to stow the RAT(use option in the Menu)(XP11/XP12) - GLF650 ONLY â¢ Added windows shades in the cabin (XP11/XP12) - GLF650 ONLYÂ  â¢ Mapped flight number in MCDU to x-plane dataref "sim/cockpit2/radios/actuators/flight_id"(XP12/XP11)Â  â¢ Added improvements to Engines Start-UP time(XP11/XP12)Â  â¢ Added improvements to external lights(XP11/XP12) â¢ Updated SASL to 3.18.0(XP12/XP11)Â  Fixed:Â  â¢ Fixed Map line disappears when proceeding to a waypoint with a holding pattern(XP12/XP11)Â  â¢ Fixed MCDU Flight plan list page (Part of the text not visible on the screen)(XP12/XP11)Â  â¢ Fixed MCDU HOLD page sometimes not working in XP11(XP11) â¢ Fixed MCDU "Check IRS Position" msg bug(XP11/XP12)Â  â¢ Improved logic for changing from IAS to MACH(XP12/XP11) â¢ Fixed Overspeed sound and Stall warning(XP12/XP11)Â  â¢ Fixed minor bugs with air-cond temperature logic(XP12/XP11)Â  â¢ Fixed LAT/LONG waypoints entering(XP12/XP11)Â  â¢ Fixed display of N2/N1 on EICAS(XP12/XP11)Â  â¢ Fixed FMOD clicking sound bug(XP12/XP11)Â  â¢ Fixed Custom TCAS logic bugs(XP11/XP12)Â  â¢ Fixed Minor bugs(XP12/XP11) The update can be downloaded via the Skunkcrafts updater, or downloaded from the X-Plane.org store. The GLF business jets are available for purchase at the X-Plane.org store for $44.95. â Stay tuned to Threshold for more flight sim news and reviews! â</summary>
-    <published>2025-01-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cvdtro</id>
-    <title>Colombian Virtual Design Releases Troll Airfield for MSFS 20/24</title>
-    <updated>2025-01-11T00:00:00+00:00</updated>
-    <link href="/news/cvdtro"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6781d8ab03eaea950555458b_troll1.webp"/>
-    <summary>Sim: FS24. Colombian Virtual Design recently released their rendition of Troll Airfield (ENOE) for Microsoft Flight Simulator 2020 and 2024, which serves the homonymous Norwegian Research Station in Antarctica. Opened in 2005, the airfield was purpose-built to serve as the center of the Dronning Maud Land Air Network (DROMLAN), which is essentially a multinational cooperation using Troll as a hub to provide intercontinental service to Antarctica, supporting up to long-range planes such as the 767. With a 3,000-meter-long ice runway and no infrastructure, it can only operate under visual flight rules. The airport itself doesnât have any buildings or structures, and the research station provides all services, including ground handling. â They follow strict safety protocols to prevent damage to the Antarctic soil. These protocols include storing all fuel in large barrels or tanks placed on special absorbent mats, and thereâs a plethora of equipment to handle any potential spillage disaster. Itâs served by Hi Fly, Icelandair, Norse Atlantic, Royal Air Force, Smartwings, and PrivatAir on a chartered basis. â The scenery features an accurate rendition of the airfield, sporting a highly detailed modeling of the research station, true-to-life landmarks, ground clutter, and much more. â Itâs available on SimMarket for roughly $7.73, requiring at least 61.84 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bornor</id>
     <title>Borgillios Scenery Releases NorrkÃ¶ping Airport for MSFS 2020</title>
@@ -151,5 +97,59 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678c68106aa799876b0f315e_1250410_20240201232908_1.webp"/>
     <summary>Sim: FS24. PMDG recently published their first development update of the year, which includes further information on the progress of porting their current product line over to Microsoft Flight Simulator 2024, their upcoming 777-200ER, and more. They are still waiting for Asobo to address specific issues with MSFS 2024 that seem to be blocking the conversion for the time being (memory allocation issues, instability, etc). They have forwarded their findings to the development team and hope these fixes will be made available by SU1.Â  While they hope that SU1 will allow them to work with MSFS 2024, they are not entirely optimistic yet: âIn our experience, there is still downside risk that getting these two fixes rolled into the platform might simply move us forward a few spots, so that we can crack our shins on the next obstacle,â explained Randazzo. The plans for product line compatibility remain similar, with the DC-6 being made compatible yet not bringing any new features per se, the triple sevens eventually making their way into the new platform, and the 737 is undergoing a major overhaul with new sim features such as walkaround, career mode features, upgraded textures, new models, a brand new cabin with a working cockpit door, enhanced gameplay features and interactivity within the cabin environment, and new sounds.Â  The 737 will also receive an update for Microsoft Flight Simulator 2020, which aims to fix the spinning logo bug on the Universal Flight Tablet. Their upcoming 777-200ER is entering beta testing, and PMDG plans to release it for MSFS 2020 and 2024 (like the 777F). Due to the existing workload, no new features are planned for the product. â PMDGâs product lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kiad20</id>
+    <title>FeelThere Releases Washington Dulles International Airport for MSFS 2020</title>
+    <updated>2025-01-23T00:00:00+00:00</updated>
+    <link href="/news/kiad20"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6792c47e55378a8b549eb1bb_354130_24.webp"/>
+    <summary>Sim: MSFS20. FeelThere has just released its latest scenery for Microsoft Flight Simulator 2020: Washington Dulles International Airport (KIAD). Located in Dulles, Virginia, Washington Dulles International Airport is situated 26 miles west of downtown Washington, D.C., the primary city it serves. The airport is the 10th busiest in the United States for international passenger traffic, handling over 20 million passengers annually. It opened on the 17th of November 1962 and is named after John Foster Dulles, a former U.S. Secretary of State. Today, Dulles serves as a hub for United Airlines and is frequently utilised by codeshare partners. According to FeelThere, the airport scenery features highly detailed buildings with PBR texturing, fully modelled terminal interiors, and a realistic ground polygon with authentic decals, dirt, and taxi lines. Additional enhancements include custom animated jetways, an updated AFCAD with accurate parking and signage, and improved lighting for taxiways, runways, and aprons. â The full feature list follows: â Highly detailed buildings with PBR texturing. â Terminal interiors modelled. â Complete modelled ground polygon including realistic decals, dirt, taxi lines and surfaces. â Custom animated jetways. â Airline parking codes and modified airport services. â Updated AFCAD, parking spots, taxiway names and taxi signs. â Improved taxiway and runway lighting. â Custom modelled clutter and unique objects placed throughout the airport. â Improved night lighting and apron lamps. The scenery requires 1.2 GB of storage space and is available for $10.79, which is a 10% discount off the regular price of $11.99, through the FeelThere website. â Stay tuned to Threshold for news, reviews, and more. Also, join our vibrant community on Discord!</summary>
+    <published>2025-01-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/samkun</id>
+    <title>SamScene Releases Kunming Changshui International Airport for MSFS20/24</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="/news/samkun"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6792ffaae00d09465038149c_kun1.webp"/>
+    <summary>Sim: FS24. SamScene recently released their rendition of Kunming Changshui International Airport (ZPPP) for Microsoft Flight Simulator 2020 and 2024. The airport serves Kunming, China, with a yearly average of 42 million passengers. Built in 2009 as a replacement for Kunming Wujiaba International Airport, it quickly became one of the busiest airports in the world.Â  Its construction time was marked by tragedy, with seven construction workers dying in 2010 after an incomplete overpass collapsed, and eleven workers were injured a year later when a tunnel under construction also collapsed. Such was the cost of finishing such a large project within two years. Its main terminal is China's second-largest terminal building, with 548,300 square meters and 66 gates with jet bridges, 88 in total.Â  It's a hub for China Eastern Airlines, Hongtu Airlines, Kunming Airlines, Lucky Air, Ruili Airlines, and Sichuan Airlines. AirAsia, Air China, Batik Air Malaysia, Beijing Capital Airlines, Chengdu Airlines, China Express Airlines, China United Airlines, Hainan Airlines, Hebei Airlines, Juneyao Air, Korean Air, Scoot, Spring Airlines, Thai AirAsia, Tibet Airlines, and Vietnam Airlines also serve it. The scenery features an accurate rendition of the airport, with detailed terminal buildings, custom ground markings, custom jetways, 50 iconic buildings, detailed surroundings, and performance-friendly optimization. It's available on SimMarket for roughly $17.16, requiring at least 3.31 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mfssub</id>
+    <title>MFSG Releases Subang Airport for MSFS 20/24</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="/news/mfssub"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679304607662732e128c5caf_subang1.webp"/>
+    <summary>Sim: FS24. MFSG recently released their rendition of Sultan Abdul Aziz Shah Airport (WMSA) for Microsoft Flight Simulator 2020 and 2024. The airport serves Greater Kuala Lumpur and has a yearly average of 949,934 passengers. Inaugurated as Subang International Airport in 1965, it was Kuala Lumpurâs main gateway until Kuala Lumpur International Airport was constructed in Sepang (1998).Â  It was designed by architects Kington Loo and C.H.R. Bailey, featuring an innovative design for the time, with an iconic floating concrete shell roof supported by mushroom-shaped columns.Â  By the late 1990s, its growth became an issue and a potential hazard, as two major fires - with casualties - had already occurred in the early 1990s. With its capacity stretched to the maximum, the government decided to build an entirely new airport elsewhere. Nowadays, the airport serves mainly as a central hub for regional and charter carriers, attracting many domestic travelers due to its proximity to the city center and overall convenient location. Itâs a hub for Firefly, and AirAsia, Batik Air Malaysia, Berjaya Air, Scoot, and TransNusa also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, performance-friendly optimization, and more. â Itâs available on SimMarket for roughly $14.57, requiring at least 102.21 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsw25t</id>
+    <title>FlightSimWeekend 2025 Tickets Now Available</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="/news/fsw25t"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679386cbf9de5d70d60d9a34_Banner_Image.webp"/>
+    <summary>Sim: OTHER. Tickets for the upcoming FlightSimWeekend 2025 are now on sale! This annual event will take place at the Aviodrome Aviation Museum in Lelystad, the Netherlands, on March 15th and 16th. Each year, it brings together flight simulation enthusiasts to explore the latest innovations in flight simulation software and hardware. There are a total of two ticket types available. They are as follows: â â If you plan to attend both days, purchasing the two-day ticket will save you 25% compared to buying two separate one-day tickets. For more information about the event, including travel, logistics, and other details, please visit the FlightSimWeekend website.Â  FlightSimWeekend 2025 will be held at the Aviodrome Aviation Museum on March 15th and 16th. Tickets are available for purchase online. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inipvd</id>
+    <title>IniBuilds Teases Rhode Island T.F Green International Airport</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="/news/inipvd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6793c42dddab1ca4d22dabc3_Rhode_Island_T._F._Green_International_Airport_sign.jpg"/>
+    <summary>Sim: FS24. Renowned developer IniBuilds has recently teased its next project: Rhode Island T.F. Green Airport (KPVD), through a story on its Instagram and Facebook pagesÂ  T.F. Green Airport is located 10 miles south of Providence, Rhode Island, the primary city it serves. The airport features two runways and accommodates approximately 3.5 million passengers annually. â The airport, named after former Rhode Island governor Theodore Francis Green, opened in 1931 and was rebuilt in 1966. It now primarily serves the East Coast. â IniBuilds is one of the leading developers in flight simulation. They have created the A330-300 and Airbus Beluga for Microsoft Flight Simulator 2024. Additionally, they have developed several classic Airbus aircraft for both Microsoft Flight Simulator 2020 and X-Plane 11. â Details regarding features, compatibility, and other specifics remain unknown.Â  â For further updates on T.F. Green Airport, iniBuilds, and more, stay tuned to Threshold! â Additionally, join our vibrant community on Discord! â â</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/x-plane-12-1-4-released-in-public-beta</id>
+    <title>X-Plane 12.1.4 Released in Public Beta</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="/news/x-plane-12-1-4-released-in-public-beta"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6793da062f37a769aea67c68_Flightlessons_Title_6.webp"/>
+    <summary>Sim: X-Plane. The latest version of Laminar Researchâs X-Plane, 12.1.4, is now available in public beta. This update, known as the flight lessons update, introduces numerous quality-of-life improvements, along with new flight lessons. â Flight lessons Version 12.1.4 introduces new flight lessons for beginners. Users will be guided through four introductory lessons in the Cirrus SR-22 before moving on to the Lancair Evolution. All of this is led by Austin Meyer, the creator of X-Plane. âCamera updates The new build introduces a new physics-based camera option. According to Laminar Research it will simulate the forces experienced while flying a real aircraft. The new camera system is primarily focused on enhancing the interior view, however a new hand-held camera mode has also been added for external views. Scenery Salzburg Airport (LOWS) has undergone significant improvements, particularly in its local autogen, which has been enhanced considerably. Additionally, the Red Bull hangars and Salzburg Castle are now featured.Â  â Parts of southern Germany, northern Italy, and Austria are now the demo area, with Salzburg being the location for the new flight lessons. â In addition Barra Airport (EGPL) has also been updated. The Scottish airport is known for its unique runwayâor lack thereof. Safe Mode Laminar Research is introducing a "safe mode" feature. This allows plugins to be isolated without needing to delete them manually one at a time when searching for the source of a crash. Additional improvements were made, including new library objects and enhancements to the G1000 with the introduction of the SAR function, along with other general updates. â Refer to the X-Plane blog post for further details on the update. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
   </entry>
 </feed>
