@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-24T18:29:18.753273+00:00</updated>
+  <updated>2025-01-25T18:26:25.582182+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bornor</id>
-    <title>Borgillios Scenery Releases NorrkÃ¶ping Airport for MSFS 2020</title>
-    <updated>2025-01-11T00:00:00+00:00</updated>
-    <link href="/news/bornor"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6781dc88da0536d7773933d9_norr1.webp"/>
-    <summary>Sim: MSFS20. Borgillios Scenery recently released their rendition of NorrkÃ¶ping Airport (ESSP) for Microsoft Flight Simulator 2020. The airport serves NorrkÃ¶ping and has a yearly average of 103,298 passengers.Â  Founded in 1934, NorrkÃ¶ping is Sweden's oldest commercial travel airport. Although mostly commercial throughout its history, the Swedish Air Forces briefly used it during World War 2.Â  The airport's traffic peaked in the 1980s, followed by a significant decline shortly afterward due to the rise of high-speed rail connections and the development of larger commercial airports.Â  Despite the challenges, efforts have been made to revitalize the airport and attract new airlines and routes. The airport's location in a strategically important region and its history and infrastructure offer potential for future growth and development. Nowadays, the airport only gets seasonal charter traffic from Braathens International Airways, Pegasus Airlines, and TUI fly Nordic. The scenery features an accurate rendition of the airport, with PBR textures, high-detail buildings (terminal, hangars, etc), and more. It's available on SimMarket for roughly $10.30, requiring at least 166.64 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mmltbj</id>
-    <title>MM Simulations Teases Izmir Adnan Menderes Airport for MSFS 20/24</title>
-    <updated>2025-01-11T00:00:00+00:00</updated>
-    <link href="/news/mmltbj"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6782dd3880656284ae181f69_Banner_Image.webp"/>
-    <summary>Sim: FS24. MM Simulations has recently teased its next project, likely for Microsoft Flight Simulator 2020 and 2024, based on the teaser. The team is travelling to Turkey, specifically to the city of Izmir. It appears that Izmir Adnan Menderes Airport (LTBJ) will be the next scenery developed by MM Simulations. Izmir is a popular holiday destination in Turkey, renowned for its beautiful coastal views. It attracts numerous vacationers from across Europe. Each year, Izmir Airport handles over 10.5 million passengers and serves a wide range of destinations, including scheduled, seasonal, and charter flights. â Details regarding the release date, features, and pricing have yet to be announced, but we will keep you updated as soon as this information becomes available. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
-    <published>2025-01-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/asrpns</id>
     <title>Airwil Sceneries Releases Sayak Airport for X-Plane 11 &amp; 12</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6793da062f37a769aea67c68_Flightlessons_Title_6.webp"/>
     <summary>Sim: X-Plane. The latest version of Laminar Researchâs X-Plane, 12.1.4, is now available in public beta. This update, known as the flight lessons update, introduces numerous quality-of-life improvements, along with new flight lessons. â Flight lessons Version 12.1.4 introduces new flight lessons for beginners. Users will be guided through four introductory lessons in the Cirrus SR-22 before moving on to the Lancair Evolution. All of this is led by Austin Meyer, the creator of X-Plane. âCamera updates The new build introduces a new physics-based camera option. According to Laminar Research it will simulate the forces experienced while flying a real aircraft. The new camera system is primarily focused on enhancing the interior view, however a new hand-held camera mode has also been added for external views. Scenery Salzburg Airport (LOWS) has undergone significant improvements, particularly in its local autogen, which has been enhanced considerably. Additionally, the Red Bull hangars and Salzburg Castle are now featured.Â  â Parts of southern Germany, northern Italy, and Austria are now the demo area, with Salzburg being the location for the new flight lessons. â In addition Barra Airport (EGPL) has also been updated. The Scottish airport is known for its unique runwayâor lack thereof. Safe Mode Laminar Research is introducing a "safe mode" feature. This allows plugins to be isolated without needing to delete them manually one at a time when searching for the source of a crash. Additional improvements were made, including new library objects and enhancements to the G1000 with the introduction of the SAR function, along with other general updates. â Refer to the X-Plane blog post for further details on the update. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â</summary>
     <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baw737</id>
+    <title>Boris Audio Works Releases PMDG 737NG Sound Set for MSFS 2020</title>
+    <updated>2025-01-25T00:00:00+00:00</updated>
+    <link href="/news/baw737"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67943969ef071b7748080568_boris5.webp"/>
+    <summary>Sim: MSFS20. Boris Audio Works has recently released their long-awaited sound set for the PMDG 737 lineup for Microsoft Flight Simulator 2020. The set brings meticulously engineered sound captures from the cabin, engines, environment, and more. Recorded with state-of-the-art audio equipment from a real 737NG airplane, Boris Audio Worksâ latest product promises a comprehensive audio package with a clear engine, cabin, fans, pack, ground roll, buttons, hydraulic pump sounds, and cabin chatter for extra immersion. Furthermore, the package also features a headphone simulation with noise canceling for those who aim to get a more realistic audio experience during their virtual journeys. The complete feature list follows below: The product is available on OrbxDirect for roughly $9.47, requiring at least 391.17 MB of free hard disk to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/737112</id>
+    <title>PMDG Updates 737 Lineup &amp; Shares 747 Previews </title>
+    <updated>2025-01-25T00:00:00+00:00</updated>
+    <link href="/news/737112"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679444116a9bb190466e481a_randy.webp"/>
+    <summary>Sim: FS24. PMDG recently published a new development update for their current and future products, including a new 737 lineup update, a 777 product line (new and upcoming variants), and a 747 Classic project. The 737NG lineup has been updated to v3.00.0112. This update primarily focuses on fixing the ongoing issues with the Universal Flight Tablet, trying to reduce or wholly eliminate the eternally spinning PMDG logo bug. Minor fixes on other fronts also further refine the productâs stability. â Their main plan for the 737NG lineup was to stabilize it further, and their focus has now shifted back to their upcoming products. Extra effort will eventually be put into the revamped version for MSFS 2024, with new model upgrades, sounds, and an entirely new sound engine. â The 777-200ER is still being readied for beta testing. Its release is planned to be MSFS 2020 only at first and then a free upgrade to MSFS 2024 later. The 200LR, which is set to come right after, will follow the same order. â Regarding the upcoming 747 project, PMDG is still unsure whether the first to be released will be the -100 or the -400, as both are advancing as core development projects. Work has sped up quite significantly since they moved part of the 777 development team to the project. â They have also previewed part of the modeling work on the 747-100s cockpit, reinforcing that wear, tear, and proper labeling have not yet been added.Â  Given the 747-100s manual nature of systems management, they will implement a virtual copilot and virtual flight engineer to help manage their systems efficiently and realistically, albeit with an option to disable them if desired. PMDG claims itâs still âtoo soonâ for 747-400 cockpit previews, but the systems simulation work is well advanced. â The 747-100 previews are the first to deviate from PMDGâs usual modus operandi: instead of sharing images only when the product is nearly finished / ready for testing, they show it early in its development stage. â Their product lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-25T00:00:00+00:00</published>
   </entry>
 </feed>
