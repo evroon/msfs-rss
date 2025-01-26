@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-25T18:26:25.582182+00:00</updated>
+  <updated>2025-01-26T18:27:04.127219+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asrpns</id>
-    <title>Airwil Sceneries Releases Sayak Airport for X-Plane 11 &amp; 12</title>
-    <updated>2025-01-14T00:00:00+00:00</updated>
-    <link href="/news/asrpns"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67863c34bfe29fd5a5b0a5d6_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. Airwil Sceneries has just released its rendition of Sayak Airport (RPNS) for both X-Plane 11 and X-Plane 12. Located on Siargao Island in the Philippines, the airport is also referred to as Siargao Airport. Originally built in 1963 under former President Diosdado Macapagal, the airport was designed to accommodate small 19-seater planes. However, significant changes occurred in 2008 when the airport underwent renovations as part of a program aimed at boosting economic activity. Following these improvements, the airport could handle larger aircraft capable of carrying over 70 passengers. Further modernization and expansion took place in 2013. Today, airlines such as Cebgo, PAL Express, and Sunlight Air operate flights to destinations including Cebu, Clark, Davao, and Manila. The newly released rendition of Sayak Airport is rich in features, offering a realistic representation of the airport, including a detailed passenger terminal, a modelled control tower, and more. The scenery requires 1.27 GB of storage space and is now available at SimMarket for approximately $6.15. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2025-01-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xskttn</id>
-    <title>XWind Studios Releases Trenton-Mercer Airport for MSFS 20/24</title>
-    <updated>2025-01-14T00:00:00+00:00</updated>
-    <link href="/news/xskttn"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67868dd52f5e0ed382d2481d_Banner_Image.webp"/>
-    <summary>Sim: FS24. XWind Studios has recently launched its latest scenery for Microsoft Flight Simulator 2020 and 2024: Trenton-Mercer Airport (KTTN). Located in Trenton, the capital city of New Jersey, this airport is a hub for Frontier Airlines, serving approximately 600,000 passengers annually. Trenton-Mercer Airport's history dates back to 1907 when the first airplane landed on Alfred Reeder's field in Ewing. Skillman Airport opened to the public in 1929. During World War II, the local General Motors plant transitioned to manufacturing torpedo bombers, leading to airport expansions to accommodate test flights for these aircraft. The airport was later renamed Mercer County Airport and eventually became Trenton-Mercer Airport in 1995, linking it to the city of Trenton. In 1998, the airport replaced human weather observers with an automated weather system. Although the county plans to replace the old terminal, residents have opposed this idea. Today, Frontier Airlines is the only airline operating at the airport, offering flights to destinations such as Atlanta, Orlando, Tampa, Fort Myers, and West Palm Beach. The newly released scenery hosts a range of features, including high-quality, optimized textures, detailed terminal interior designs, custom taxiway signage, comprehensive imagery of the entire airport, and much more. The scenery requires 3.95 GB of storage space and is available on the iniBuilds Store for $10.38. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
-    <published>2025-01-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jlgrp4</id>
     <title>JustSim Releases Rhodes International Airport for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679444116a9bb190466e481a_randy.webp"/>
     <summary>Sim: FS24. PMDG recently published a new development update for their current and future products, including a new 737 lineup update, a 777 product line (new and upcoming variants), and a 747 Classic project. The 737NG lineup has been updated to v3.00.0112. This update primarily focuses on fixing the ongoing issues with the Universal Flight Tablet, trying to reduce or wholly eliminate the eternally spinning PMDG logo bug. Minor fixes on other fronts also further refine the productâs stability. â Their main plan for the 737NG lineup was to stabilize it further, and their focus has now shifted back to their upcoming products. Extra effort will eventually be put into the revamped version for MSFS 2024, with new model upgrades, sounds, and an entirely new sound engine. â The 777-200ER is still being readied for beta testing. Its release is planned to be MSFS 2020 only at first and then a free upgrade to MSFS 2024 later. The 200LR, which is set to come right after, will follow the same order. â Regarding the upcoming 747 project, PMDG is still unsure whether the first to be released will be the -100 or the -400, as both are advancing as core development projects. Work has sped up quite significantly since they moved part of the 777 development team to the project. â They have also previewed part of the modeling work on the 747-100s cockpit, reinforcing that wear, tear, and proper labeling have not yet been added.Â  Given the 747-100s manual nature of systems management, they will implement a virtual copilot and virtual flight engineer to help manage their systems efficiently and realistically, albeit with an option to disable them if desired. PMDG claims itâs still âtoo soonâ for 747-400 cockpit previews, but the systems simulation work is well advanced. â The 747-100 previews are the first to deviate from PMDGâs usual modus operandi: instead of sharing images only when the product is nearly finished / ready for testing, they show it early in its development stage. â Their product lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-01-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdsu1</id>
+    <title>PMDG Publishes Optimistic Statement on MSFS 2024 SU1 Public Beta Compatibility </title>
+    <updated>2025-01-26T00:00:00+00:00</updated>
+    <link href="/news/pmdsu1"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6700743a43d6279dcc6fba41_randy3.webp"/>
+    <summary>Sim: FS24. Robert Randazzo, PMDG's CEO, recently made an announcement post in their forum with further information on how their product line is faring with Microsoft Flight Simulator 2024's latest public beta update and where they now stand regarding the eventual compatibility upgrade. They built the triple 777 in MSFS 2024 using the latest SDK, and it ran in a "mostly stable fashion" with debuggers attached. The airplane operated through an entire flight, and the many issues that showed up in the process were cataloged. They will be addressed starting next week to warrant the best experience possible. That means they have removed the "blockers" that were preventing them from starting work on the compatibility upgrade, and now they can finally begin the process. â While it does run in MSFS 2024 already, it's not truly usable yet as many things don't work properly and require further adjustment. â In Randazzo's words, their optimism needle for MSFS 2024 has "moved to the mid position," and PMDG looks forward to bringing its simulation value to the new platform.Â  â PMDG's product lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/grutbf</id>
+    <title>Orbx Releases Grumman TBF Avenger for MSFS 2020/2024</title>
+    <updated>2025-01-26T00:00:00+00:00</updated>
+    <link href="/news/grutbf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6795c3d361a267f1da7cc5f4_avenger5.webp"/>
+    <summary>Sim: FS24. Orbx has recently released their rendition of the Grumman TBF Avenger for Microsoft Flight Simulator 2020 and 2024. This WW2-era airplane was developed for the United States Navy and Marine Corps and eventually adopted by many air and naval aviation services worldwide. It was designed in 1940 to replace the Douglas TBD Devastator, offering an airplane that was very much in line with the technology adopted by the Axis forces at the time, in complete contrast to the Devastator, which was considered obsolete by 1939. The Avenger was designed to easily fit in aircraft carriers, with easily stowable wings that allowed way more airplanes to fit in the same carrier.Â  With a maximum speed of 447 km/h, 1456km of total range, and a service ceiling of 22,600 feet, the mighty Avenger was one of the most iconic World War 2 bombers, permanently changing naval warfare.Â  Crafted with Paul Bennetâs expertise (an aerobatic pilot who happens to own one of the last airworthy Avengers), the add-on features realistic aerodynamics, high-quality sounds, high-quality 3D modeling and texturing, and much more. Itâs available on OrbxDirect for roughly $17.68, requiring at least 2.23 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-26T00:00:00+00:00</published>
   </entry>
 </feed>
