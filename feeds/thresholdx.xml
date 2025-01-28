@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-27T18:29:33.519734+00:00</updated>
+  <updated>2025-01-28T18:29:22.415839+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jlgrp4</id>
-    <title>JustSim Releases Rhodes International Airport for MSFS 2024</title>
-    <updated>2025-01-14T00:00:00+00:00</updated>
-    <link href="/news/jlgrp4"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67869650a2fb9d490056cc95_Banner_Image.webp"/>
-    <summary>Sim: FS24. JustSim has released its first scenery fully adapted for Microsoft Flight Simulator 2024, revisiting a previous destination: Rhodes International Airport (LGRP). Rhodes is a popular summer destination in the Greek Islands, attracting over six million passengers annually. Civil aviation on the island began after World War II with the opening of Rhodes Maritsa Airport, which served as the main airport until Rhodes International Airport, also known as Diagoras International Airport, was inaugurated in 1977. Over the years, the airport has seen improvements, including expanded taxiways and a new passenger terminal that opened in 2005. In 2015, the airport was privatized and is now managed by Fraport AG/Copelouzos Group for a period of 40 years. Today, Rhodes International Airport hosts numerous airlines offering scheduled, seasonal, and charter flights to various destinations across Europe. According to JustFlight, the new scenery features high-resolution ground textures, high-resolution building textures, highly detailed 3D models, custom animated ground vehicles, and much more. The scenery requires 1.66 GB of storage space and is available on SimMarket for approximately $17.28. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2025-01-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ed2025</id>
     <title>Eagle Dynamics Posts DCS 2025 and Beyond Video</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6795c3d361a267f1da7cc5f4_avenger5.webp"/>
     <summary>Sim: FS24. Orbx has recently released their rendition of the Grumman TBF Avenger for Microsoft Flight Simulator 2020 and 2024. This WW2-era airplane was developed for the United States Navy and Marine Corps and eventually adopted by many air and naval aviation services worldwide. It was designed in 1940 to replace the Douglas TBD Devastator, offering an airplane that was very much in line with the technology adopted by the Axis forces at the time, in complete contrast to the Devastator, which was considered obsolete by 1939. The Avenger was designed to easily fit in aircraft carriers, with easily stowable wings that allowed way more airplanes to fit in the same carrier.Â  With a maximum speed of 447 km/h, 1456km of total range, and a service ceiling of 22,600 feet, the mighty Avenger was one of the most iconic World War 2 bombers, permanently changing naval warfare.Â  Crafted with Paul Bennetâs expertise (an aerobatic pilot who happens to own one of the last airworthy Avengers), the add-on features realistic aerodynamics, high-quality sounds, high-quality 3D modeling and texturing, and much more. Itâs available on OrbxDirect for roughly $17.68, requiring at least 2.23 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-01-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cp2020</id>
+    <title>Parallel 42 Announces ChasePlane for MSFS 2020</title>
+    <updated>2025-01-27T00:00:00+00:00</updated>
+    <link href="/news/cp2020"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67980a55024e3305b1018fc0_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. Parallel 42 has recently announced that ChasePlane will soon be available for Microsoft Flight Simulator 2020. They have released a video teasing this exciting new camera plugin, after releasing an initial teaser video on their social media pages which is unfortunately now gone. ChasePlane was widely recognized within the Prepar3D community and was considered a must-have tool for many flight simulation enthusiasts. Since the launch of Microsoft Flight Simulator 2020, there has been a strong demand for this plugin; however, development faced challenges due to the limitations of the original camera API. Thankfully, it appears that these issues have now been resolved, and the plugin will soon be ready for users. The teaser and announcement video revealed that the upcoming plugin will offer a fully customizable camera system for MSFS and will incorporate real physics as well as view sharing, and various modes like FlyBy and Cinematic Mode. While no specific release date or price has been provided, the video concludes with a message stating "coming soon," suggesting that the release is not far off. â We will keep you updated as more information becomes available. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
+    <published>2025-01-27T00:00:00+00:00</published>
   </entry>
 </feed>
