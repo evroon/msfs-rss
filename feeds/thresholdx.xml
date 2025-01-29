@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-28T18:29:22.415839+00:00</updated>
+  <updated>2025-01-29T18:29:39.417753+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ed2025</id>
-    <title>Eagle Dynamics Posts DCS 2025 and Beyond Video</title>
-    <updated>2025-01-17T00:00:00+00:00</updated>
-    <link href="/news/ed2025"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678a9159a7f32bf69bada631_Banner_Image.webp"/>
-    <summary>Sim: DCS. Eagle Dynamics has unveiled its DCS 2025 and Beyond video, marking the start of the year for the team. This annual preview highlights new features and add-ons that will enhance the DCS experience. Viewers can expect an in-depth look at upcoming innovations for the flight simulation platform. The video begins by introducing Dynamic Campaigns, a feature that has been highly requested by the community for some time. For the first time since its announcement in last year's video, footage of the upcoming MiG-29A is shown in-game. Additionally, the Eurofighter Typhoon Tranche 1 and 2 are showcased after being absent for two years. Throughout the video, there are glimpses of Berlin, hinting at a potential new map, likely set in Germany. Other teasers include enhanced ground assets, a new variant of the Mirage F1M, the C-130 from Airplane Simulation Company, the Sparrowhawk HUD for both the F-14A and F-14B, and the F-100 Super Sabre. The video suggests that there is a wealth of exciting upcoming content to look forward to. At the video's conclusion, developers announced two exciting new aircraft for DCS. Development will begin in 2025 for a full-fidelity F-15C, an agile air superiority fighter, and an F-35A, a stealthy multirole fighter. Both are expected to be released in 2026. Once more information about any of the teasers is available, we will make sure to let you know. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
-    <published>2025-01-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsl292</id>
-    <title>FSLabs Updates Airbus A321Ceo for MSFS</title>
-    <updated>2025-01-18T00:00:00+00:00</updated>
-    <link href="/news/fsl292"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de4adcd06a5053536bb2_labsup3.webp"/>
-    <summary>Sim: MSFS20. FSLabs has released another update to their newly released Airbus A321Ceo for Microsoft Flight Simulator 2020. This update brings a realistic implementation of the Rockwell Collins WXR-2100 system (weather radar) and a series of fixes and improvements. Update v11.0.1.292âthe fourth since its releaseâhighlights the weather radar implementation. It seamlessly integrates the powerful Rockwell Collins suite, which has been meticulously designed to interact with the live weather environment in MSFS and produce accurate radar returns. They have also expanded their hardware integration, adding compatibility with WinWing, MiniCockpit, WingFlex, and more.Â  Besides the weather radar and new hardware integration, the update also brings numerous bug fixes, improvements based on user feedback, performance improvements, and an overall more stable system behavior. The highlights follow below: â AOC â Display and Cockpit Updates: â Electrical and Power Systems: â Flight Control Logic and Sensors: â Flight Deck and Hardware Integration: â â FMGC: â Flight Warning and Control: â â Navigation and Radios: â â Performance and Calculations: â â Sounds: â Techlog: â Weather Radar: â The add-on is available on their website for $69.95. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/simgmz</id>
     <title>SimulaciÃ³n Extrema Releases Guardia Marina ZaÃ±artu Airport for MSFS 2020</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67980a55024e3305b1018fc0_Banner_Image.webp"/>
     <summary>Sim: MSFS20. Parallel 42 has recently announced that ChasePlane will soon be available for Microsoft Flight Simulator 2020. They have released a video teasing this exciting new camera plugin, after releasing an initial teaser video on their social media pages which is unfortunately now gone. ChasePlane was widely recognized within the Prepar3D community and was considered a must-have tool for many flight simulation enthusiasts. Since the launch of Microsoft Flight Simulator 2020, there has been a strong demand for this plugin; however, development faced challenges due to the limitations of the original camera API. Thankfully, it appears that these issues have now been resolved, and the plugin will soon be ready for users. The teaser and announcement video revealed that the upcoming plugin will offer a fully customizable camera system for MSFS and will incorporate real physics as well as view sharing, and various modes like FlyBy and Cinematic Mode. While no specific release date or price has been provided, the video concludes with a message stating "coming soon," suggesting that the release is not far off. â We will keep you updated as more information becomes available. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
     <published>2025-01-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hcak</id>
+    <title>Fly2High Releases Akron-Canton Airport for MSFS 20/24</title>
+    <updated>2025-01-28T00:00:00+00:00</updated>
+    <link href="/news/f2hcak"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6799508b8ef5699f6a6d0ec7_Banner_Image.webp"/>
+    <summary>Sim: FS24. Fly2High has recently launched its version of Akron-Canton Airport (KCAK) for Microsoft Flight Simulator 2020 and 2024. Situated in Ohio, the airport serves the cities of Akron, Canton, Cleveland, and Massillon. Each year, the airport welcomes nearly 700.000 passengers. The airport opened in 1946, initially intended for defense purposes during World War II, although its construction was delayed. In 1948, passenger flights began operating at the airport. The first terminal was established in 1955 and underwent expansions in 1962 and 2020. Today, the airport accommodates passenger airlines such as Allegiant Air, American Eagle, Breeze Airways, and United Express, along with the cargo airline Castle Aviation. These airlines offer destinations including Chicago, Las Vegas, Los Angeles, and many more. The scenery features a highly detailed rendition of the airport, main terminal interiors, custom jetways, custom lights, and more. The newly released scenery requires 3.9 GB of disk space and is available on iniBuilds for $15.59. â For the latest flight simulation news, remember to stay tuned to Threshold!</summary>
+    <published>2025-01-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsogal</id>
+    <title>FSoares Previews Upcoming GaleÃ£o International Airport for MSFS 2020/2024</title>
+    <updated>2025-01-29T00:00:00+00:00</updated>
+    <link href="/news/fsogal"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6799bd57d8d9954f53198017_gig1.webp"/>
+    <summary>Sim: FS24. FSoares has recently teased the development progress on his Rio de Janeiro/GaleÃ£o International Airport (SBGL) rendition for Microsoft Flight Simulator 2020 and 2024. This is the main airport serving Rio de Janeiro, Brazil, with a yearly average of 14.5 million passengers. It was opened in 1952 on top of a preexisting Brazilian Air Force base that was utilized by international long-haulers, which were too heavy and too large for SBRJâs (Rioâs domestic airport) 1300m runway. With the ever-increasing international demand, they finally built a passenger terminal, which was progressively expanded until 1977. A new terminal building was opened that year, and all scheduled passenger traffic was transferred there. Itâs still in use today as Terminal 1. Terminal 1 was first renovated in 1991 in preparation for the United Nations Earth Summit (held in 1992), and its annual capacity increased to 7.5 million passengers. Eight years later, Terminal 2 was opened, with 24 jetways and a capacity of up to 7.5 million passengers yearly. âWith the imminence of the World Cup and the Olympic Games in 2014 and 2016, respectively, Infraero (the airportâs former manager) unveiled a $431 million upgrade and expansion plan for GaleÃ£o, including the renovation of Terminal 1, the completion of Terminal 2, and the expansion of the parking lots. The new concessionary revised the plans and included a new pier with 26 jetways, a new apron for 97 aircraft, and 2640 parking spaces. The $400 million sum quickly jumped to $800 million instead. AerolÃ­neas Argentinas, Air France, American Airlines, Avianca, Azul, British Airways, Copa Airlines, Delta Air Lines, Emirates, Flybondi, Gol, Iberia, ITA Airways, JetSmart Argentina, JetSmart Chile, KLM, Latam Brasil, Latam Chile, Latam Peru, Lufthansa, Paranair, Sky Airlines, TAP, United Airlines, and Voepass serve it. â There is no information on features, pricing, or a release date yet, but Threshold will keep you informed! â</summary>
+    <published>2025-01-29T00:00:00+00:00</published>
   </entry>
 </feed>
