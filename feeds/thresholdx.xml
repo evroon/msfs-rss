@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-29T18:29:39.417753+00:00</updated>
+  <updated>2025-01-30T18:29:20.641383+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simgmz</id>
-    <title>SimulaciÃ³n Extrema Releases Guardia Marina ZaÃ±artu Airport for MSFS 2020</title>
-    <updated>2025-01-18T00:00:00+00:00</updated>
-    <link href="/news/simgmz"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678bc9aad9d514fbfc2b3dd7_zanartu1.webp"/>
-    <summary>Sim: MSFS20. SimulaciÃ³n Extrema has recently released its rendition of Guardia Marina ZaÃ±artu Airport (SCGZ) for Microsoft Flight Simulator, which serves Puerto Williams on Navarino Island, Chile. It was inaugurated in 1957 by President Carlos IbÃ¡Ã±ez del Campo and named after a local naval aviation pilot, Guillermo ZaÃ±artu Irigoyen. It's the world's southernmost airport with scheduled flights, solidifying its history in aviation. âÂ It connects Navarino Island to Chile and the rest of the world, providing a vital link to an otherwise isolated region. AerovÃ­as DAP serves it with scheduled flights to Punta Arenas and Santiago del Chile. The scenery features an accurate rendition of the airport, with a fully modeled passenger terminal, custom ground textures, custom ground clutter, and more.  It's available in the MSFS Marketplace for $11.99.Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/psgmff</id>
-    <title>PerfectSoft Studio Releases FÃ¨s-SaÃ¯ss Airport for MSFS 2024</title>
-    <updated>2025-01-18T00:00:00+00:00</updated>
-    <link href="/news/psgmff"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678c2e986aa799876bcc8f50_Banner_Image.webp"/>
-    <summary>Sim: FS24. PerfectSoft Studio has released its rendition of FÃ¨sâSaÃ¯ss Airport (GMFF) for Microsoft Flight Simulator 2024. Located in Morocco, it serves the city of Fez and connects various destinations across Europe, welcoming approximately 1.4 million passengers annually. FÃ¨sâSaÃ¯ss Airport is one of the busiest airports in Morocco. It aims to connect the region to Europe, a goal it has successfully achieved with a steady increase in flights. The airport reached the milestone of welcoming over one million passengers annually back in 2017. Operated by the Moroccan Airports Authority, it features a runway that is 10,500 feet long, capable of accommodating a variety of aircraft. The airport serves airlines such as Air Arabia and Ryanair, offering destinations like Amsterdam, Barcelona, Brussels, and many more. The newly released scenery features realistic modelling, PBR texturing, 4K textures, high-detail 3D models, and hand-placed vegetation, among other features. The scenery is available for around $15.41 on the SimMarket. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2025-01-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmd118</id>
     <title>PMDG Publishes Development Update for MSFS 20/24</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6799bd57d8d9954f53198017_gig1.webp"/>
     <summary>Sim: FS24. FSoares has recently teased the development progress on his Rio de Janeiro/GaleÃ£o International Airport (SBGL) rendition for Microsoft Flight Simulator 2020 and 2024. This is the main airport serving Rio de Janeiro, Brazil, with a yearly average of 14.5 million passengers. It was opened in 1952 on top of a preexisting Brazilian Air Force base that was utilized by international long-haulers, which were too heavy and too large for SBRJâs (Rioâs domestic airport) 1300m runway. With the ever-increasing international demand, they finally built a passenger terminal, which was progressively expanded until 1977. A new terminal building was opened that year, and all scheduled passenger traffic was transferred there. Itâs still in use today as Terminal 1. Terminal 1 was first renovated in 1991 in preparation for the United Nations Earth Summit (held in 1992), and its annual capacity increased to 7.5 million passengers. Eight years later, Terminal 2 was opened, with 24 jetways and a capacity of up to 7.5 million passengers yearly. âWith the imminence of the World Cup and the Olympic Games in 2014 and 2016, respectively, Infraero (the airportâs former manager) unveiled a $431 million upgrade and expansion plan for GaleÃ£o, including the renovation of Terminal 1, the completion of Terminal 2, and the expansion of the parking lots. The new concessionary revised the plans and included a new pier with 26 jetways, a new apron for 97 aircraft, and 2640 parking spaces. The $400 million sum quickly jumped to $800 million instead. AerolÃ­neas Argentinas, Air France, American Airlines, Avianca, Azul, British Airways, Copa Airlines, Delta Air Lines, Emirates, Flybondi, Gol, Iberia, ITA Airways, JetSmart Argentina, JetSmart Chile, KLM, Latam Brasil, Latam Chile, Latam Peru, Lufthansa, Paranair, Sky Airlines, TAP, United Airlines, and Voepass serve it. â There is no information on features, pricing, or a release date yet, but Threshold will keep you informed! â</summary>
     <published>2025-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsrbir</id>
+    <title>FlightSimExpo 2025 Receives Record-Breaking Initial Registrations</title>
+    <updated>2025-01-29T00:00:00+00:00</updated>
+    <link href="/news/fsrbir"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665de94849a2f1d685a19e71_2.webp"/>
+    <summary>Sim: OTHER. The organisers of FlightSimExpo 2025 have announced a record number of initial registrations for the event. Over 500 people have already registered for the expo, which will take place in Providence, RI, from June 27th to June 29th. The current ticket prices for the event are valid until March 1st.Â  â Here are the ticket prices by category: â - Non-FSA Members: $80 - FSA First Officers: $72 - FSA Captains: $64 (The first 250 FSA registrants will receive a special price of $50.) â All tickets include access to seminars and exhibition halls from Friday to Sunday, as well as recordings of the sessions. â For virtual access to seminars, the fee is $15, which is free for FSA Captains. For the latest updates on discounts and information related to travel and logistics for the expo, please visit the FlightSimExpo website. The best ticket rates for FlightSimExpo 2025 are available until March 1st and can be purchased online. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
+    <published>2025-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lisvra</id>
+    <title>Lisium Releases Riga International Airport for MSFS 2020</title>
+    <updated>2025-01-30T00:00:00+00:00</updated>
+    <link href="/news/lisvra"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679b0f7cb8872e8bab39f912_riga1.webp"/>
+    <summary>Sim: MSFS20. Lisium has recently released their rendition of Riga International Airport (EVRA) for Microsoft Flight Simulator 2020 (full compatibility with Microsoft Flight Simulator 2024 will come shortly). The airport serves Riga, Latvia, and has a yearly average of 6.6 million passengers. It was built in 1973 to replace Spilve Airport, which was deemed outdated and unable to accommodate the projected passenger figures for the next few decades. The passenger terminal was expanded twice (2006 and 2016), gradually increasing its passenger handling capabilities to ensure the airport could keep up with the ever-growing demand. Itâs a hub for airBaltic, Norwegian Air Shuttle, SmartLynx Airlines, RAF-Avia, and Ryanair. British Airways, Finnair, LOT Polish Airlines, Lufthansa, Skyline Express Airlines, Smartwings, Turkish Airlines, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom PBR materials, parallax interiors, an up-to-date ground layout, highly detailed models, and accurately modeled interiors.Â  Itâs available on SimMarket for roughly $19.75, requiring at least 1.03 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-30T00:00:00+00:00</published>
   </entry>
 </feed>
