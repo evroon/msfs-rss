@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-01-30T18:29:20.641383+00:00</updated>
+  <updated>2025-01-31T18:28:41.982035+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmd118</id>
-    <title>PMDG Publishes Development Update for MSFS 20/24</title>
-    <updated>2025-01-19T00:00:00+00:00</updated>
-    <link href="/news/pmd118"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/678c68106aa799876b0f315e_1250410_20240201232908_1.webp"/>
-    <summary>Sim: FS24. PMDG recently published their first development update of the year, which includes further information on the progress of porting their current product line over to Microsoft Flight Simulator 2024, their upcoming 777-200ER, and more. They are still waiting for Asobo to address specific issues with MSFS 2024 that seem to be blocking the conversion for the time being (memory allocation issues, instability, etc). They have forwarded their findings to the development team and hope these fixes will be made available by SU1.Â  While they hope that SU1 will allow them to work with MSFS 2024, they are not entirely optimistic yet: âIn our experience, there is still downside risk that getting these two fixes rolled into the platform might simply move us forward a few spots, so that we can crack our shins on the next obstacle,â explained Randazzo. The plans for product line compatibility remain similar, with the DC-6 being made compatible yet not bringing any new features per se, the triple sevens eventually making their way into the new platform, and the 737 is undergoing a major overhaul with new sim features such as walkaround, career mode features, upgraded textures, new models, a brand new cabin with a working cockpit door, enhanced gameplay features and interactivity within the cabin environment, and new sounds.Â  The 737 will also receive an update for Microsoft Flight Simulator 2020, which aims to fix the spinning logo bug on the Universal Flight Tablet. Their upcoming 777-200ER is entering beta testing, and PMDG plans to release it for MSFS 2020 and 2024 (like the 777F). Due to the existing workload, no new features are planned for the product. â PMDGâs product lineup is available on their website, with prices ranging from $34.99 to $74.99. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kiad20</id>
-    <title>FeelThere Releases Washington Dulles International Airport for MSFS 2020</title>
-    <updated>2025-01-23T00:00:00+00:00</updated>
-    <link href="/news/kiad20"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6792c47e55378a8b549eb1bb_354130_24.webp"/>
-    <summary>Sim: MSFS20. FeelThere has just released its latest scenery for Microsoft Flight Simulator 2020: Washington Dulles International Airport (KIAD). Located in Dulles, Virginia, Washington Dulles International Airport is situated 26 miles west of downtown Washington, D.C., the primary city it serves. The airport is the 10th busiest in the United States for international passenger traffic, handling over 20 million passengers annually. It opened on the 17th of November 1962 and is named after John Foster Dulles, a former U.S. Secretary of State. Today, Dulles serves as a hub for United Airlines and is frequently utilised by codeshare partners. According to FeelThere, the airport scenery features highly detailed buildings with PBR texturing, fully modelled terminal interiors, and a realistic ground polygon with authentic decals, dirt, and taxi lines. Additional enhancements include custom animated jetways, an updated AFCAD with accurate parking and signage, and improved lighting for taxiways, runways, and aprons. â The full feature list follows: â Highly detailed buildings with PBR texturing. â Terminal interiors modelled. â Complete modelled ground polygon including realistic decals, dirt, taxi lines and surfaces. â Custom animated jetways. â Airline parking codes and modified airport services. â Updated AFCAD, parking spots, taxiway names and taxi signs. â Improved taxiway and runway lighting. â Custom modelled clutter and unique objects placed throughout the airport. â Improved night lighting and apron lamps. The scenery requires 1.2 GB of storage space and is available for $10.79, which is a 10% discount off the regular price of $11.99, through the FeelThere website. â Stay tuned to Threshold for news, reviews, and more. Also, join our vibrant community on Discord!</summary>
-    <published>2025-01-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/samkun</id>
-    <title>SamScene Releases Kunming Changshui International Airport for MSFS20/24</title>
-    <updated>2025-01-24T00:00:00+00:00</updated>
-    <link href="/news/samkun"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6792ffaae00d09465038149c_kun1.webp"/>
-    <summary>Sim: FS24. SamScene recently released their rendition of Kunming Changshui International Airport (ZPPP) for Microsoft Flight Simulator 2020 and 2024. The airport serves Kunming, China, with a yearly average of 42 million passengers. Built in 2009 as a replacement for Kunming Wujiaba International Airport, it quickly became one of the busiest airports in the world.Â  Its construction time was marked by tragedy, with seven construction workers dying in 2010 after an incomplete overpass collapsed, and eleven workers were injured a year later when a tunnel under construction also collapsed. Such was the cost of finishing such a large project within two years. Its main terminal is China's second-largest terminal building, with 548,300 square meters and 66 gates with jet bridges, 88 in total.Â  It's a hub for China Eastern Airlines, Hongtu Airlines, Kunming Airlines, Lucky Air, Ruili Airlines, and Sichuan Airlines. AirAsia, Air China, Batik Air Malaysia, Beijing Capital Airlines, Chengdu Airlines, China Express Airlines, China United Airlines, Hainan Airlines, Hebei Airlines, Juneyao Air, Korean Air, Scoot, Spring Airlines, Thai AirAsia, Tibet Airlines, and Vietnam Airlines also serve it. The scenery features an accurate rendition of the airport, with detailed terminal buildings, custom ground markings, custom jetways, 50 iconic buildings, detailed surroundings, and performance-friendly optimization. It's available on SimMarket for roughly $17.16, requiring at least 3.31 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mfssub</id>
-    <title>MFSG Releases Subang Airport for MSFS 20/24</title>
-    <updated>2025-01-24T00:00:00+00:00</updated>
-    <link href="/news/mfssub"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679304607662732e128c5caf_subang1.webp"/>
-    <summary>Sim: FS24. MFSG recently released their rendition of Sultan Abdul Aziz Shah Airport (WMSA) for Microsoft Flight Simulator 2020 and 2024. The airport serves Greater Kuala Lumpur and has a yearly average of 949,934 passengers. Inaugurated as Subang International Airport in 1965, it was Kuala Lumpurâs main gateway until Kuala Lumpur International Airport was constructed in Sepang (1998).Â  It was designed by architects Kington Loo and C.H.R. Bailey, featuring an innovative design for the time, with an iconic floating concrete shell roof supported by mushroom-shaped columns.Â  By the late 1990s, its growth became an issue and a potential hazard, as two major fires - with casualties - had already occurred in the early 1990s. With its capacity stretched to the maximum, the government decided to build an entirely new airport elsewhere. Nowadays, the airport serves mainly as a central hub for regional and charter carriers, attracting many domestic travelers due to its proximity to the city center and overall convenient location. Itâs a hub for Firefly, and AirAsia, Batik Air Malaysia, Berjaya Air, Scoot, and TransNusa also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, performance-friendly optimization, and more. â Itâs available on SimMarket for roughly $14.57, requiring at least 102.21 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsw25t</id>
-    <title>FlightSimWeekend 2025 Tickets Now Available</title>
-    <updated>2025-01-24T00:00:00+00:00</updated>
-    <link href="/news/fsw25t"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679386cbf9de5d70d60d9a34_Banner_Image.webp"/>
-    <summary>Sim: OTHER. Tickets for the upcoming FlightSimWeekend 2025 are now on sale! This annual event will take place at the Aviodrome Aviation Museum in Lelystad, the Netherlands, on March 15th and 16th. Each year, it brings together flight simulation enthusiasts to explore the latest innovations in flight simulation software and hardware. There are a total of two ticket types available. They are as follows: â â If you plan to attend both days, purchasing the two-day ticket will save you 25% compared to buying two separate one-day tickets. For more information about the event, including travel, logistics, and other details, please visit the FlightSimWeekend website.Â  FlightSimWeekend 2025 will be held at the Aviodrome Aviation Museum on March 15th and 16th. Tickets are available for purchase online. â For the latest flight simulation news, remember to stay tuned on Threshold!</summary>
-    <published>2025-01-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inipvd</id>
     <title>IniBuilds Teases Rhode Island T.F Green International Airport</title>
@@ -151,5 +106,50 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679b0f7cb8872e8bab39f912_riga1.webp"/>
     <summary>Sim: MSFS20. Lisium has recently released their rendition of Riga International Airport (EVRA) for Microsoft Flight Simulator 2020 (full compatibility with Microsoft Flight Simulator 2024 will come shortly). The airport serves Riga, Latvia, and has a yearly average of 6.6 million passengers. It was built in 1973 to replace Spilve Airport, which was deemed outdated and unable to accommodate the projected passenger figures for the next few decades. The passenger terminal was expanded twice (2006 and 2016), gradually increasing its passenger handling capabilities to ensure the airport could keep up with the ever-growing demand. Itâs a hub for airBaltic, Norwegian Air Shuttle, SmartLynx Airlines, RAF-Avia, and Ryanair. British Airways, Finnair, LOT Polish Airlines, Lufthansa, Skyline Express Airlines, Smartwings, Turkish Airlines, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom PBR materials, parallax interiors, an up-to-date ground layout, highly detailed models, and accurately modeled interiors.Â  Itâs available on SimMarket for roughly $19.75, requiring at least 1.03 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-01-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/da4xls</id>
+    <title>COWS Releases DA40-XLS for MSFS 2020/2024</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <link href="/news/da4xls"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c4be2e4cdede0dcd9c1d4_moo1.webp"/>
+    <summary>Sim: FS24. COWS has recently released their long-awaited rendition of the DA40-XLS for Microsoft Flight Simulator 2020 and 2024. With over 2,200 built, it is one of the most popular trainer aircraft in existence. Their rendition reproduces the XLS variant, which is a âdeluxeâ version of the DA40 with a full Garmin G1000 suite, WAAS (Wide Area Augmentation System), TAS (Traffic Alert System), and more. The add-on features a high-fidelity model with high-resolution textures, an accurate model based on reference imagery, properly placed placards, true-to-life performance and handling based on over 1000 hours of testing from real-world pilots, a full suite of custom systems with fully customizable circuit breakers, EIS and cylinder physics simulation, custom combustion simulation for startup, and much more. The complete feature list follows below: â The add-on is available on OrbxDirect for roughly $25.02, requiring at least 1.30 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/avapia</id>
+    <title>FlightFX Announces Release Date for Upcoming Piaggio Avanti II for MSFS 2020</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <link href="/news/avapia"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c91d63c4ee07a49406e99_pia1.webp"/>
+    <summary>Sim: MSFS20. FlightFX recently announced a release date for their upcoming Piaggio Avanti II for Microsoft Flight Simulator 2020, along with the release of a launch trailer and pricing information. The Piaggio Avanti II is an evolution of the Piaggio Avanti, originally introduced in late 1990 after four years of flight testing. The original concept goes even further back to 1979, when engineering studies started, and design choices were tested in wind tunnels in the subsequent years by Professor Jan Roskam from the University of Kansas and Professor Gerald Gregorek from Ohio State University. The final design choice was finally made in 1982, with the fuselage development starting a year later. The first prototype only took off in 1986, with the Italian certification to come in early 1990. The Avanti II got certified in late 2005, featuring an uprated Pratt &amp; Whitney Canada PT6A-66B turboprop engines, flying faster and more economically, and a new Rockwell Collins glass cockpit set. With 70 planes ordered in the first few months after the certification, the fastest civilian turboprop twin (according to Flying Magazine) was rather successful. The add-on promises a faithful recreation of the Piaggio Avanti II. It will be available in the MSFS Marketplace for $24.99 next Thursday (06/02).Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/uk2uni</id>
+    <title>UK2000 Releases University of Illinois Willard Airport for MSFS 2020/2024</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <link href="/news/uk2uni"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c96d1974e436502d15024_uni1.webp"/>
+    <summary>Sim: FS24. UK2000 Scenery recently released their rendition of the University of Illinois Willard Airport (KCMI), serving the Urbana metropolitan area, for Microsoft Flight Simulator 2020.Â  While it was dedicated in late 1945, airline flights were to start nearly a decade later, in 1954, albeit in a very barebones manner, as the passenger terminal was only erected in 1960. By the late 1960s, Willard was the second-busiest airport in the state. However, it crumbled within a decade after the Airline Deregulation Act of 1978. Airlines found service to smaller airports inefficient and expensive. Airfares went up, whereas they went down at bigger airports like Chicago OâHare, quickly killing the demand and leading many airlines to leave the airport altogether. A new passenger terminal was built in the late 1980s and remains used today. Until eleven years ago, the airport was home to the University of Illinois Institute of Aviation, which was voted by trustees to be closed in 2011, and everything was transferred over to Parkland College in 2013 so that the enrolled students could complete their courses.Â  Parkland College still operates the airport, providing an annual subsidy of $433,000. Itâs currently served by a single airline, American Eagle, which flies passengers to Chicago OâHare and Dallas/Fort Worth.Â  The scenery features an accurate rendition of the airport, with full-detail buildings, realistic ground markings, performance-friendly optimization, custom vegetation, PBR materials, custom static aircraft, custom night lighting, and more. Itâs available on SimMarket for roughly $14.84, requiring at least 70.42 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mci224</id>
+    <title>TropicalSim Releases Kansas City International Airport V2 for MSFS 2024</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <link href="/news/mci224"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c9bb1bd800d775e97af72_kanser1.webp"/>
+    <summary>Sim: FS24. TropicalSim has recently released an updated version of their Kansas City International Airport (KMCI) V2 for Microsoft Flight Simulator 2024. The airport is the second busiest in Missouri after St. Louis, with a yearly average of 9 million passengers. The newly released version brings the airport layout up to current standards, with the new single terminal opened in 2023 that replaces Terminals B and C, with 40 gates in total. It also uses new SDK features such as the new LOD system, night lighting improvements, and ground layout edits to match the latest satellite imagery, excludes, and vegetation.Â  Air Canada Express, Alaska Airlines, Allegiant Air, American Airlines, American Eagle, Delta Air Lines, Delta Connection, Frontier, JetBlue, Southwest, Spirit, Sun Country Airlines, United Airlines, and United Express currently serve it. SWA has the majority of the market share, with 45.43% of the traffic figures, followed by American and Delta, which have 14.27% and 14.08%, respectively. The scenery features an accurate rendition of the new airport, with an up-to-date ground layout, native MSFS24 night lighting, PBR texturing, custom jetways, and a custom interior. Itâs available on SimMarket for roughly $22.91 and requires at least 457.73 MB of free hard disk space to install. V2 for MSFS 2020 owners are entitled to a free upgrade, and V1 owners can purchase the new scenery for a discounted price of $17.28. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rafhon</id>
+    <title>IM Scenery Releases RAF Honington for MSFS 2020/2024</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <link href="/news/rafhon"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679ca2f0e51d1bb0e7efbc6f_hon1.webp"/>
+    <summary>Sim: FS24. IM Scenery recently released their rendition of RAF Honington (EGXH), a Royal Air Force station in Suffolk, England, for Microsoft Flight Simulator 2020 and 2024.Â  Construction started in 1935 and was undertaken by John Laing &amp; Son, an investment group now known as John Laing Group, which boasts 177 years of history. The opening occurred two years later, nearly right in time for the beginning of World War 2. Based in Honington at the start of the war, the IX Squadron ran the first British bombing raid of the Second World War, attacking the Kriegsmarine in the Baltic. In 1942, the airfield was transferred to the United States Army Air Forces and upgraded to a class A Bomber base. It was eventually transferred back to the RAF once the war was over, primarily utilized by the RAF Transport Command and later by the RAF Bomber Command in 1949. In the 1950s, a 9,000 ft concrete runway was built and completed in 1956. In the 1980s, it was selected to become a base for the RAFâs Panavia Tornado fleet, with the IX Squadron being reformed there and becoming the worldâs first operational Tornado squadron. â In mid-1992, it was decided that Honington would become an RAF Regiment Depot, with the Tornado fleet wholly leaving the airport. â The scenery features an accurate rendition of the airport, with fully custom objects with PBR textures, custom night lighting, custom ground poly, custom terraforming, and custom static aircraft. Itâs available on Contrail for roughly $8.30, requiring at least 712.1 MB of free hard disk space to install.Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-01-31T00:00:00+00:00</published>
   </entry>
 </feed>
