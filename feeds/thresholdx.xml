@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-05T18:30:02.131451+00:00</updated>
+  <updated>2025-02-06T18:29:55.139917+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/grutbf</id>
-    <title>Orbx Releases Grumman TBF Avenger for MSFS 2020/2024</title>
-    <updated>2025-01-26T00:00:00+00:00</updated>
-    <link href="/news/grutbf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6795c3d361a267f1da7cc5f4_avenger5.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of the Grumman TBF Avenger for Microsoft Flight Simulator 2020 and 2024. This WW2-era airplane was developed for the United States Navy and Marine Corps and eventually adopted by many air and naval aviation services worldwide. It was designed in 1940 to replace the Douglas TBD Devastator, offering an airplane that was very much in line with the technology adopted by the Axis forces at the time, in complete contrast to the Devastator, which was considered obsolete by 1939. The Avenger was designed to easily fit in aircraft carriers, with easily stowable wings that allowed way more airplanes to fit in the same carrier.Â  With a maximum speed of 447 km/h, 1456km of total range, and a service ceiling of 22,600 feet, the mighty Avenger was one of the most iconic World War 2 bombers, permanently changing naval warfare.Â  Crafted with Paul Bennetâs expertise (an aerobatic pilot who happens to own one of the last airworthy Avengers), the add-on features realistic aerodynamics, high-quality sounds, high-quality 3D modeling and texturing, and much more. Itâs available on OrbxDirect for roughly $17.68, requiring at least 2.23 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cp2020</id>
     <title>Parallel 42 Announces ChasePlane for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a1df1c67b05e122e6a0820_phu1.webp"/>
     <summary>Sim: MSFS20. SiamFlight recently released their rendition of Phuket International Airport (VTSP) for Microsoft Flight Simulator 2020. The airport serves the island of Phuket, Thailand, and has a yearly average of 17.2 million passengers, making it the third busiest airport in Thailand. Built in 1988 to accommodate only 6.5 million passengers yearly, it operated nearly at capacity for almost 30 years, until a new expansion project brought the figures to 20 million passengers per year (12.5 million passengers on the new terminal, 6.5 on the old one). It currently has three terminals: Terminal 2 handles international flights, Terminal 3 handles domestic operations, and Terminal X exclusively handles charters. Due to space constraints, Phuket has reached its capacity limit, which led the authorities to consider a rail link to Krabi International Airport for traffic alleviation in the near â or distant â future. In addition to the link, thereâs a plan to build an entirely new airport elsewhere to serve Phang Nga, Phuket, and Krabi. It was supposed to be a multi-phase project, with phase one to start in 2022 and reach completion by 2025, but everything was indefinitely put on hold.Â  Itâs a focus city for Thai Airways International and an operating base for Bangkok Airways, Thai Lion Air, and Thai AirAsia. Aeroflot, Air Arabia,Â  Air China, Air India, Azur Air, Batik Air Malaysia, Cathay Pacific, China Eastern Airlines, China Southern Airlines, Condor, Emirates, HK Express, IndiGo, Jetstar, Korean Air, Mahan Air, Nok Air, Qatar Airways, Scoot, Singapore Airlines, TUI, and Turkish Airlines also serve it. The scenery features an accurate rendition of the airport, with custom terminals with an interior, custom ground textures, custom jetways, landside buildings, hand-placed taxiway guidance signs, custom night lighting, and more. Itâs available on SimMarket for roughly $21.38, requiring at least 196.68 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-02-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rwa350</id>
+    <title>iniBuilds Announces the Release Window and Price Range for their A350</title>
+    <updated>2025-02-06T00:00:00+00:00</updated>
+    <link href="/news/rwa350"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a4dbf809e49f35e64e9429_471422468_1095337999269447_6998084516673360667_n.webp"/>
+    <summary>Sim: FS24. IniBuilds recently announced the release window and price range for their highly anticipated A350, during a recent livestream event. While a replay of the stream is not available, highlights will be uploaded to their YouTube channel. IniBuilds aims to release the product by the end of February, with a price set at under $83 (Excl. VAT). Both the -900 and -1000 variants will be available at launch for MSFS 2020 and 2024. Customers will receive both variants through a single purchase.Â  â Initially, the aircraft will be available on PC through the IniManager software, with a marketplace release planned for a later date. IniBuilds also emphasized that MSFS 2024 for PC is their primary development platform, which may result in some features being unavailable on MSFS 2020 or the Xbox versions. The iniBuilds A350 has been one of the most anticipated addon aircraft for MSFS, since its announcement in late 2023, with iniBuilds aiming to develop the first study-level A350 aircraft for MSFS. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
+    <published>2025-02-06T00:00:00+00:00</published>
   </entry>
 </feed>
