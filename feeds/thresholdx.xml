@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-07T18:29:45.048597+00:00</updated>
+  <updated>2025-02-08T18:26:52.718170+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lisvra</id>
-    <title>Lisium Releases Riga International Airport for MSFS 2020</title>
-    <updated>2025-01-30T00:00:00+00:00</updated>
-    <link href="/news/lisvra"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679b0f7cb8872e8bab39f912_riga1.webp"/>
-    <summary>Sim: MSFS20. Lisium has recently released their rendition of Riga International Airport (EVRA) for Microsoft Flight Simulator 2020 (full compatibility with Microsoft Flight Simulator 2024 will come shortly). The airport serves Riga, Latvia, and has a yearly average of 6.6 million passengers. It was built in 1973 to replace Spilve Airport, which was deemed outdated and unable to accommodate the projected passenger figures for the next few decades. The passenger terminal was expanded twice (2006 and 2016), gradually increasing its passenger handling capabilities to ensure the airport could keep up with the ever-growing demand. Itâs a hub for airBaltic, Norwegian Air Shuttle, SmartLynx Airlines, RAF-Avia, and Ryanair. British Airways, Finnair, LOT Polish Airlines, Lufthansa, Skyline Express Airlines, Smartwings, Turkish Airlines, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom PBR materials, parallax interiors, an up-to-date ground layout, highly detailed models, and accurately modeled interiors.Â  Itâs available on SimMarket for roughly $19.75, requiring at least 1.03 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/da4xls</id>
     <title>COWS Releases DA40-XLS for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/fsl293"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de3df1ae2d10ada9d7bc_labsup2.webp"/>
     <summary>Sim: MSFS20. FSLabs recently issued a new experimental update to their A321ceo for Microsoft Flight Simulator 2020, which includes a series of fixes and improvements. Update v11.0.1.293 âÂ  the fifth since its release â includes a fix for a memory leak issue when the weather radar is active, a new way to set up Thrust Lever detents via their MCDU options page, and several other fixes which were observed and thoroughly reported by the community. The full changelog follows below: The add-on is available on their website for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon.</summary>
+    <published>2025-02-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/omdb24</id>
+    <title>iniBuilds Announces Enhanced 2024 Version of Dubai Scenery</title>
+    <updated>2025-02-07T00:00:00+00:00</updated>
+    <link href="/news/omdb24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a66d895be20c00df82a27d_KDyHgLtf9WQ-HD.webp"/>
+    <summary>Sim: FS24. iniBuilds has released a trailer for the Enhanced 2024 version of their Dubai Airport (OMDB) scenery, and its surrounding area, for Microsoft Flight Simulator 2024. IniBuilds stated âThe new scenery brings a host of changes to the already impressive sceneryâ. These changes include an integrated Dubai landmarks pack, with the ability to be toggled on and off, a new terminal interior for Concourse A, and optimized Level of Detail (LOD) work for smoother performance.Â  The new version will build upon the previous MSFS 2020 version of iniBuilds' Dubai scenery. It currently features detailed ground textures, realistic airport landside elements, accurate dynamic lighting, intricately designed airport building models, and custom taxi signage. Dubai International Airport (OMDB) is one of the largest airports in the world, offering connections to over 260 destinations as of January 2024. It serves as the primary hub for Emirates, opening up for numerous routes to be flown with the upcoming iniBuilds A350. Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
     <published>2025-02-07T00:00:00+00:00</published>
   </entry>
 </feed>
