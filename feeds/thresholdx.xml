@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-08T18:26:52.718170+00:00</updated>
+  <updated>2025-02-09T18:26:52.827477+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/da4xls</id>
-    <title>COWS Releases DA40-XLS for MSFS 2020/2024</title>
-    <updated>2025-01-31T00:00:00+00:00</updated>
-    <link href="/news/da4xls"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c4be2e4cdede0dcd9c1d4_moo1.webp"/>
-    <summary>Sim: FS24. COWS has recently released their long-awaited rendition of the DA40-XLS for Microsoft Flight Simulator 2020 and 2024. With over 2,200 built, it is one of the most popular trainer aircraft in existence. Their rendition reproduces the XLS variant, which is a âdeluxeâ version of the DA40 with a full Garmin G1000 suite, WAAS (Wide Area Augmentation System), TAS (Traffic Alert System), and more. The add-on features a high-fidelity model with high-resolution textures, an accurate model based on reference imagery, properly placed placards, true-to-life performance and handling based on over 1000 hours of testing from real-world pilots, a full suite of custom systems with fully customizable circuit breakers, EIS and cylinder physics simulation, custom combustion simulation for startup, and much more. The complete feature list follows below: â The add-on is available on OrbxDirect for roughly $25.02, requiring at least 1.30 GB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/avapia</id>
     <title>FlightFX Announces Release Date for Upcoming Piaggio Avanti II for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a66d895be20c00df82a27d_KDyHgLtf9WQ-HD.webp"/>
     <summary>Sim: FS24. iniBuilds has released a trailer for the Enhanced 2024 version of their Dubai Airport (OMDB) scenery, and its surrounding area, for Microsoft Flight Simulator 2024. IniBuilds stated âThe new scenery brings a host of changes to the already impressive sceneryâ. These changes include an integrated Dubai landmarks pack, with the ability to be toggled on and off, a new terminal interior for Concourse A, and optimized Level of Detail (LOD) work for smoother performance.Â  The new version will build upon the previous MSFS 2020 version of iniBuilds' Dubai scenery. It currently features detailed ground textures, realistic airport landside elements, accurate dynamic lighting, intricately designed airport building models, and custom taxi signage. Dubai International Airport (OMDB) is one of the largest airports in the world, offering connections to over 260 destinations as of January 2024. It serves as the primary hub for Emirates, opening up for numerous routes to be flown with the upcoming iniBuilds A350. Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
     <published>2025-02-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbemd</id>
+    <title>Orbx Release Emerald Airport for MSFS 20/24</title>
+    <updated>2025-02-08T00:00:00+00:00</updated>
+    <link href="/news/orbemd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a7ca88e52dd7ce05062a2a_Skjermbilde%202025-02-08%20221803.webp"/>
+    <summary>Sim: FS24. Orbx has released Emerald Airport (YEML), developed by Rob Byrne, for MSFS 2020 and 2024. Emerald Airport is situated in the Central Highlands region of Queensland, Australia, approximately 6 km south of Emerald, the main town it serves. QantasLink, Virgin Australia Regional, and Alliance Airlines operate an average of 54 return flights to Brisbane every week. The area is sparsely populated, with fewer than two inhabitants per square kilometre. Additionally, it experiences very little rainfall, averaging around 830 millimetres of precipitation per year. Orbx says Emerald Airport for MSFS offers detailed exteriors and interiors of its terminals. The airport features subtle terraforming, with night lighting for both the terminal and aprons, as well as custom ground markings. There is also custom lighting on the runway, taxiway, and aprons. â In addition, the airport includes a detailed helicopter hangar, general aviation hangars, fuel facilities, and functioning anemometers that respond to changes in wind speed. â A full feature list follows: The scenery can be purchased for $16.36 at the Orbx store and is compatible with both MSFS 2020 and 2024. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
+    <published>2025-02-08T00:00:00+00:00</published>
   </entry>
 </feed>
