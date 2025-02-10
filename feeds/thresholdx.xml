@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-09T18:26:52.827477+00:00</updated>
+  <updated>2025-02-10T18:30:23.913451+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/avapia</id>
-    <title>FlightFX Announces Release Date for Upcoming Piaggio Avanti II for MSFS 2020</title>
-    <updated>2025-01-31T00:00:00+00:00</updated>
-    <link href="/news/avapia"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c91d63c4ee07a49406e99_pia1.webp"/>
-    <summary>Sim: MSFS20. FlightFX recently announced a release date for their upcoming Piaggio Avanti II for Microsoft Flight Simulator 2020, along with the release of a launch trailer and pricing information. The Piaggio Avanti II is an evolution of the Piaggio Avanti, originally introduced in late 1990 after four years of flight testing. The original concept goes even further back to 1979, when engineering studies started, and design choices were tested in wind tunnels in the subsequent years by Professor Jan Roskam from the University of Kansas and Professor Gerald Gregorek from Ohio State University. The final design choice was finally made in 1982, with the fuselage development starting a year later. The first prototype only took off in 1986, with the Italian certification to come in early 1990. The Avanti II got certified in late 2005, featuring an uprated Pratt &amp; Whitney Canada PT6A-66B turboprop engines, flying faster and more economically, and a new Rockwell Collins glass cockpit set. With 70 planes ordered in the first few months after the certification, the fastest civilian turboprop twin (according to Flying Magazine) was rather successful. The add-on promises a faithful recreation of the Piaggio Avanti II. It will be available in the MSFS Marketplace for $24.99 next Thursday (06/02).â Stay tuned to Threshold for more flight simulation news!</summary>
-    <published>2025-01-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/uk2uni</id>
     <title>UK2000 Releases University of Illinois Willard Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a7ca88e52dd7ce05062a2a_Skjermbilde%202025-02-08%20221803.webp"/>
     <summary>Sim: FS24. Orbx has released Emerald Airport (YEML), developed by Rob Byrne, for MSFS 2020 and 2024. Emerald Airport is situated in the Central Highlands region of Queensland, Australia, approximately 6 km south of Emerald, the main town it serves. QantasLink, Virgin Australia Regional, and Alliance Airlines operate an average of 54 return flights to Brisbane every week. The area is sparsely populated, with fewer than two inhabitants per square kilometre. Additionally, it experiences very little rainfall, averaging around 830 millimetres of precipitation per year. Orbx says Emerald Airport for MSFS offers detailed exteriors and interiors of its terminals. The airport features subtle terraforming, with night lighting for both the terminal and aprons, as well as custom ground markings. There is also custom lighting on the runway, taxiway, and aprons. â In addition, the airport includes a detailed helicopter hangar, general aviation hangars, fuel facilities, and functioning anemometers that respond to changes in wind speed. â A full feature list follows: The scenery can be purchased for $16.36 at the Orbx store and is compatible with both MSFS 2020 and 2024. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
     <published>2025-02-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/prifer</id>
+    <title> PhotoRico Releases Fernando Luis Ribas Dominicci Airport for MSFS 2020/2024</title>
+    <updated>2025-02-10T00:00:00+00:00</updated>
+    <link href="/news/prifer"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67aa3e2cb61abb5ebf52e943_fer1.webp"/>
+    <summary>Sim: FS24. PhotoRico has recently released their rendition of Fernando Luis Ribas Dominicci Airport (TJIG) for Microsoft Flight Simulator 2020/2024. The airport serves the municipality of San Juan in Puerto Rico and has a yearly average of 37,000 passengers. Constructed by the US Navy in 1929 as Naval Station Isla Grande, it served as Puerto Ricoâs main international gateway until 1954, when it was ultimately replaced by Isla Verde International Airport. All international airlines moved there shortly after. The airportâs future was questioned a few times in the early 2000s, but a definitiveâfavorableâdecision was eventually reached in 2006 due to its key function as a primary reliever for Puerto Ricoâs main airport. In early 2011, the airportâs future went through another scare: the FAA wanted to close the airportâs control tower because they operated it themselves and intended to cut costs. Air Flamenco, Fly the Whale, M&amp;N Aviation, and Vieques Air Link regularly serve it. The scenery features an accurate rendition of the airport, with high-detail buildings, custom ground textures, detailed landside, real static GA aircraft, and more. Itâs available on OrbxDirect for roughly $12.70, requiring at least 873.59 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
+    <published>2025-02-10T00:00:00+00:00</published>
   </entry>
 </feed>
