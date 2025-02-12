@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-11T18:29:03.375080+00:00</updated>
+  <updated>2025-02-12T18:30:40.832902+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/uk2uni</id>
-    <title>UK2000 Releases University of Illinois Willard Airport for MSFS 2020/2024</title>
-    <updated>2025-01-31T00:00:00+00:00</updated>
-    <link href="/news/uk2uni"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/679c96d1974e436502d15024_uni1.webp"/>
-    <summary>Sim: FS24. UK2000 Scenery recently released their rendition of the University of Illinois Willard Airport (KCMI), serving the Urbana metropolitan area, for Microsoft Flight Simulator 2020.Â  While it was dedicated in late 1945, airline flights were to start nearly a decade later, in 1954, albeit in a very barebones manner, as the passenger terminal was only erected in 1960. By the late 1960s, Willard was the second-busiest airport in the state. However, it crumbled within a decade after the Airline Deregulation Act of 1978. Airlines found service to smaller airports inefficient and expensive. Airfares went up, whereas they went down at bigger airports like Chicago OâHare, quickly killing the demand and leading many airlines to leave the airport altogether. A new passenger terminal was built in the late 1980s and remains used today. Until eleven years ago, the airport was home to the University of Illinois Institute of Aviation, which was voted by trustees to be closed in 2011, and everything was transferred over to Parkland College in 2013 so that the enrolled students could complete their courses.Â  Parkland College still operates the airport, providing an annual subsidy of $433,000. Itâs currently served by a single airline, American Eagle, which flies passengers to Chicago OâHare and Dallas/Fort Worth.Â  The scenery features an accurate rendition of the airport, with full-detail buildings, realistic ground markings, performance-friendly optimization, custom vegetation, PBR materials, custom static aircraft, custom night lighting, and more. Itâs available on SimMarket for roughly $14.84, requiring at least 70.42 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-01-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mci224</id>
     <title>TropicalSim Releases Kansas City International Airport V2 for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67aa3e2cb61abb5ebf52e943_fer1.webp"/>
     <summary>Sim: FS24. PhotoRico has recently released their rendition of Fernando Luis Ribas Dominicci Airport (TJIG) for Microsoft Flight Simulator 2020/2024. The airport serves the municipality of San Juan in Puerto Rico and has a yearly average of 37,000 passengers. Constructed by the US Navy in 1929 as Naval Station Isla Grande, it served as Puerto Ricoâs main international gateway until 1954, when it was ultimately replaced by Isla Verde International Airport. All international airlines moved there shortly after. The airportâs future was questioned a few times in the early 2000s, but a definitiveâfavorableâdecision was eventually reached in 2006 due to its key function as a primary reliever for Puerto Ricoâs main airport. In early 2011, the airportâs future went through another scare: the FAA wanted to close the airportâs control tower because they operated it themselves and intended to cut costs. Air Flamenco, Fly the Whale, M&amp;N Aviation, and Vieques Air Link regularly serve it. The scenery features an accurate rendition of the airport, with high-detail buildings, custom ground textures, detailed landside, real static GA aircraft, and more. Itâs available on OrbxDirect for roughly $12.70, requiring at least 873.59 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
     <published>2025-02-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsaw25</id>
+    <title>Flight Sim Awards 2025 at FSWeekend Announced</title>
+    <updated>2025-02-11T00:00:00+00:00</updated>
+    <link href="/news/fsaw25"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ab94377fd2a9c99ad186bd_16_9_static.jpg"/>
+    <summary>Sim: OTHER. Threshold, cruiselevel, and FSElite are excited to announce the Flight Sim Awards, taking place at FSWeekend 2025! The Flight Sim Awards aim to celebrate the developers, creators, and innovators who make our enjoyment of flight simulation possible. The jury, selected from members of the Threshold, cruiselevel, and FSElite teams have reviewed all product releases from 2024.  After careful deliberation, the nominees have been narrowed down to a select few finalists in each category. In MSFS and X-Plane, there are three categories: airliners, aircraft and scenery. Additionally, the best add-on for DCS has its own category, along with the best tools, hardware, and freeware for the entire flight sim genre. To conclude, there is a special Content Creator category where you, along with thousands of other fans, determine the winner! â Members of the jury are not the only ones who have a say in the decision. Starting this Friday, February 14, you can vote for your favourites! The final result will be determined by a 50/50 split between the jury and the public votes. Categories will be scored using a point system. Award five points to your favourite, four points to your second favourite, three points to your third favourite, and so on for your top five. Juries will follow the same scoring system. The entry with the most combined points at the end will be declared the winner! â The flight simulation community has no shortage of great content creators. The Flight Sim Awards aim to recognize your favourites, and this category will truly showcase who your top choice is, as 100 percent of the points are determined by the public. â The 2025 Flight Sim Awards will take place on Friday, March 14, the eve before FSWeekend in Lelystad at the Captain's Dinner. For those who cannot attend the event in person, a live stream will be available. â As we celebrate this yearâs achievements, we also look ahead to the future. The jury is eager to hear your thoughts and feedback to make the 2026 Flight Sim Awards even better! âIf you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-02-11T00:00:00+00:00</published>
   </entry>
 </feed>
