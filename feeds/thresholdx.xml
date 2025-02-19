@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-18T18:31:18.074363+00:00</updated>
+  <updated>2025-02-19T18:29:17.559291+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asrwi2</id>
-    <title>Astralis Studios Previews Region of Waterloo International for MSFS 2020</title>
-    <updated>2025-02-03T00:00:00+00:00</updated>
-    <link href="/news/asrwi2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a0ec4443dfbc3c35f6cf94_Screenshot_2025-02-02_204543.jpg"/>
-    <summary>Sim: MSFS20. Astralis Studios has recently showcased their upcoming Region of Waterloo International Airport (CYKF) for Microsoft Flight Simulator. This airport serves Kitchener-Waterloo and surrounding areas seeing 118,541 aircraft movements in 2018. The airport was opened in 1930 and was used mainly for flight instruction. At the end of World War 2 there was a push for a larger and more appropriate place for private and commercial aviation in the area. In 1948, the Waterloo-Wellington Airport Commission acquired a larger site in the Breslau area and a new airfield was completed there in 1950. The then K-W Municipal Airport became a general aviation facility in 1969. Today, it is served by airlines such as WestJet, Sunwing, and Flair Airlines. Non-stop commercial flights from Waterloo include destinations such as Calgary, Vancouver, Cancun, Halifax and more. In addition to commercial traffic, the airport is a popular general aviation hub and is home to the second largest flight training centre in Canada, Waterloo Wellington Flight Centre, as well as a plethora of privately owned hangars. This scenery includes over 60 custom objects, custom ground markings, enhanced night lighting as well as PBR texturing. It will be released on February 6th and will be available for $15.99 on all platforms. â Stay tuned to Threshold for all of your flight simulation news!</summary>
-    <published>2025-02-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kra024</id>
     <title>FlyDesign Releases Krakow-Balice Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67b3be5532cc84d8a9e2e6da_2023_20.jpg"/>
     <summary>Sim: OTHER. The Flight Simulation Association has recently released a survey to decide the venue and dates for FSExpo 2026. FSExpo is North Americaâs largest flight simulation conference, drawing thousands of attendees each year and featuring exhibitors from across the industry, from developers to content creators, and more! âAs North Americaâs community-driven flight sim convention, attendee and partner feedback is a key input to where and when we host the showâ, says FSAâs Evan Reiter, a volunteer air traffic controller on VATSIM and an organizer of the show. âThree of the options on our survey were suggested to me in Discord DMs or comments from attendees at FSExpoâkeep them coming!â â âClick here to vote and influence one of flight simulationâs largest events! â As for this yearâs expo, Registration is open for FSExpo 2025 in Providence, RI from June 27 to 29 at the Rhode Island Convention Center. â While Expo organizers are already looking ahead to next yearâs event, FSExpo 2025 is just a few months away, and Threshold will be there on site covering all the latest from the event! However, we would not be able to do this without the support of our amazing community, so consider supporting us on Patreon, and joining our vibrant Discord community!</summary>
     <published>2025-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42dee</id>
+    <title>Parallel 42 Publishes Deep Dive Video on Upcoming ChasePlane for MSFS</title>
+    <updated>2025-02-19T00:00:00+00:00</updated>
+    <link href="/news/p42dee"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67980a55024e3305b1018fc0_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. Parallel 42 recently published a video on their YouTube channel showcasing ChasePlaneâs onboarding tutorial. The video walks you through setting up all the necessary items to get the best experience and provides further information on the optional community access. The 10-minute video covers the entirety of the introductory steps, walking you through removing your bindings in Microsoft Flight Simulator (ChasePlane âkidnapsâ the camera system), configuring your bindings, setting up different camera presets, enabling cinematics, and sharing views with the community. â Itâs important to note thatâunlike Flow, one of their best-selling products for MSFSâcloud storage canât be provided for free, as it takes significantly more space. Therefore, they have chosen to make the cost optional, lowering the productâs final price tag and allowing customers to decide whether they want to pay extra for community access. The prices for community access range from 5 dollars for the yearly subscription to 20 dollars for a lifetime.Â  â P42 also reiterates that community access is NOT needed to share camera views, as they have built powerful importing and exporting methods that allow you to share camera views via any platform outside of their community ecosystem. â Refer to this blog post for further information on the optional community access system. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-19T00:00:00+00:00</published>
   </entry>
 </feed>
