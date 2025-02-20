@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-19T18:29:17.559291+00:00</updated>
+  <updated>2025-02-20T18:30:38.518566+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kra024</id>
-    <title>FlyDesign Releases Krakow-Balice Airport for MSFS 2024</title>
-    <updated>2025-02-04T00:00:00+00:00</updated>
-    <link href="/news/kra024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a1d90118932095932e524d_kra1.webp"/>
-    <summary>Sim: FS24. FlyDesign has recently released their rendition of John Paul International Krakow-Balice Airport for Microsoft Flight Simulator 2024, serving KrakÃ³w, Poland, with a yearly average of 11 million passengers.Â  Its construction started in 1964, opening for civil aviation three years later, in 1967. A passenger terminal was only built four years after its civil opening. The 1970s brought further development work to accommodate larger aircraft: a longer runway, new taxiways, and high-intensity runway lights. A new terminal was inaugurated in the late 1980s after the authorities deemed the actual capacity to be subpar compared to the projected traffic figures for the upcoming decade. Thus, it was inaugurated in 1993, followed by apron upgrades in 1995. New modernization work was carried out in 2002, focusing on improving the international passenger experience. Such effort was not in vain, and international routes increased in the following years. A separate domestic terminal (Terminal 2) was opened in 2007, and at the time, plans were underway to build an entirely new terminal in addition to Terminal 2. Ryanair opened their second Polish base in KrakÃ³w in 2012, basing two 737-800 aircraft there and connecting KrakÃ³w to many destinations across Europe.Â  Krakow-Balice became the first regional airport in Poland to reach over 9 million passengers yearly in 2023.Â  â â Due to the recent increase in traffic, the authorities have announced an upgrade plan to build a new terminal. The current terminal is not large enough to meet the projected demand for the future. â Itâs a focus city for Buzz Air (Ryanair Poland), Wizz Air, and LOT Polish Airlines. Aegean Airlines, airBaltic, Air France, Austrian Airlines, British Airways, Brussels Airlines, easyJet, Eurowings, Finnair, KLM, Lufthansa, Norwegian Air Shuttle, Scandinavian Airlines, Swiss, and Turkish Airlines also serve it. The scenery features an accurate rendition of the airport, with high-resolution ground textures, hand-placed vegetation, fully dynamic lighting, high-definition buildings, and more. â Itâs available on SimMarket for roughly $22.00, requiring at least 924.68 MB of free hard disk space to install. Stay tuned to Threshold for more flight simulation news! â</summary>
-    <published>2025-02-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sflphu</id>
     <title>SiamFlight Releases Phuket International Airport for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67980a55024e3305b1018fc0_Banner_Image.webp"/>
     <summary>Sim: MSFS20. Parallel 42 recently published a video on their YouTube channel showcasing ChasePlaneâs onboarding tutorial. The video walks you through setting up all the necessary items to get the best experience and provides further information on the optional community access. The 10-minute video covers the entirety of the introductory steps, walking you through removing your bindings in Microsoft Flight Simulator (ChasePlane âkidnapsâ the camera system), configuring your bindings, setting up different camera presets, enabling cinematics, and sharing views with the community. â Itâs important to note thatâunlike Flow, one of their best-selling products for MSFSâcloud storage canât be provided for free, as it takes significantly more space. Therefore, they have chosen to make the cost optional, lowering the productâs final price tag and allowing customers to decide whether they want to pay extra for community access. The prices for community access range from 5 dollars for the yearly subscription to 20 dollars for a lifetime.Â  â P42 also reiterates that community access is NOT needed to share camera views, as they have built powerful importing and exporting methods that allow you to share camera views via any platform outside of their community ecosystem. â Refer to this blog post for further information on the optional community access system. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-02-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdmon</id>
+    <title>FSDG Releases Monastir Airport for MSFS 2020/2024</title>
+    <updated>2025-02-20T00:00:00+00:00</updated>
+    <link href="/news/fsdmon"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67b75a1f81f063cb854f0eb5_mon1.webp"/>
+    <summary>Sim: FS24. FSDG recently released their Monastir Habib Bourguiba International Airport (DTMB) rendition for Microsoft Flight Simulator 2020 and 2024. The airport serves Monastir, Tunisia, and has a yearly average of 1.6 million passengers. Its origins date back to World War 2, when it was known as Monastir Airfield and utilized by the United States Army Air Force during the North African Campaign. In the following decades, Monastir Airport experienced significant growth and expansion, driven by Tunisia's increasing popularity as a tourist destination. It's a hub for Nouvelair and is served seasonally by Air France, Air Serbia, Austrian Airlines, Brussels Airlines, Discover Airlines, Eurowings, Smartwings, Sundair, TAP Air Portugal, Transavia, and Tunisair. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom night lighting, performance-friendly optimization, custom ground clutter, and more. It's available on SimMarket for roughly $14.02, requiring at least 872.30 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-20T00:00:00+00:00</published>
   </entry>
 </feed>
