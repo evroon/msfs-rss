@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-22T18:27:40.692502+00:00</updated>
+  <updated>2025-02-23T18:27:36.595073+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbatl</id>
-    <title>Orbx Announces Atlanta International Airport for MSFS 2020</title>
-    <updated>2025-02-07T00:00:00+00:00</updated>
-    <link href="/news/orbatl"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a5bdb3d847fb25daeab4e2_jac1.webp"/>
-    <summary>Sim: MSFS20. Orbx recently announced the development of Hartsfield-Jackson Atlanta International Airport (KATL) for Microsoft Flight Simulator 2020. The airport serves the Atlanta metropolitan area and has a yearly average of 104.6 million passengers, making it the worldâs busiest airport. Developed by Matteo Veneziani, the creator of Sacramento Airport (KSMF)âpreviously reviewed on Threshold â, Burbank, and Olbia (also reviewed by us), Orbxâs Atlanta promises a highly detailed and fully up-to-date rendition of the airport, including the very recent Concourse T extension. Due to its single-creator nature, it claims to boast remarkable consistency across the board, with top-tier optimization and unparalleled realism. The unveiled feature list includes a fully up-to-date ground layout as of 2025, accurate ground elevation, detailed interior modeling, high-quality photorealistic textures, custom ground service equipment vehicles, and more. There is no pricing or release date information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon. â</summary>
-    <published>2025-02-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/afsc25</id>
-    <title>Date and Location for the FS Conference 2025 Announced</title>
-    <updated>2025-02-07T00:00:00+00:00</updated>
-    <link href="/news/afsc25"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a6206487d2fefed3f23e15_Banner_Image.webp"/>
-    <summary>Sim: OTHER. The FS Conference 2025 will be the 20th edition of the event. The date and location have just been announced: it will take place on November 15th at the terminal of Paderborn Lippstadt Airport in Germany. The German flight simulator event aims to showcase the latest developments in the flight simulation community, including both hardware and software. This event also provides visitors with the opportunity to meet and interact with industry professionals. The very first FS Conference took place in 2002, and since then, the event has been held at various airports across Germany. Last year, our very own Magnus attended the FS Conference. If you are interested in learning about his experience at the event, be sure to check out his travelogue. For more information about the upcoming event, visit the official website.Â  â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon: https://www.patreon.com/c/thresholdx</summary>
-    <published>2025-02-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsl293</id>
-    <title>FSLabs Updates A321ceo for MSFS 2020</title>
-    <updated>2025-02-07T00:00:00+00:00</updated>
-    <link href="/news/fsl293"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6768de3df1ae2d10ada9d7bc_labsup2.webp"/>
-    <summary>Sim: MSFS20. FSLabs recently issued a new experimental update to their A321ceo for Microsoft Flight Simulator 2020, which includes a series of fixes and improvements. Update v11.0.1.293 âÂ  the fifth since its release â includes a fix for a memory leak issue when the weather radar is active, a new way to set up Thrust Lever detents via their MCDU options page, and several other fixes which were observed and thoroughly reported by the community. The full changelog follows below: The add-on is available on their website for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon.</summary>
-    <published>2025-02-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/omdb24</id>
-    <title>iniBuilds Announces Enhanced 2024 Version of Dubai Scenery</title>
-    <updated>2025-02-07T00:00:00+00:00</updated>
-    <link href="/news/omdb24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a66d895be20c00df82a27d_KDyHgLtf9WQ-HD.webp"/>
-    <summary>Sim: FS24. iniBuilds has released a trailer for the Enhanced 2024 version of their Dubai Airport (OMDB) scenery, and its surrounding area, for Microsoft Flight Simulator 2024. IniBuilds stated âThe new scenery brings a host of changes to the already impressive sceneryâ. These changes include an integrated Dubai landmarks pack, with the ability to be toggled on and off, a new terminal interior for Concourse A, and optimized Level of Detail (LOD) work for smoother performance.Â  The new version will build upon the previous MSFS 2020 version of iniBuilds' Dubai scenery. It currently features detailed ground textures, realistic airport landside elements, accurate dynamic lighting, intricately designed airport building models, and custom taxi signage. Dubai International Airport (OMDB) is one of the largest airports in the world, offering connections to over 260 destinations as of January 2024. It serves as the primary hub for Emirates, opening up for numerous routes to be flown with the upcoming iniBuilds A350. Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
-    <published>2025-02-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbemd</id>
     <title>Orbx Release Emerald Airport for MSFS 20/24</title>
@@ -149,7 +113,43 @@
     <updated>2025-02-21T00:00:00+00:00</updated>
     <link href="/news/tdsxpl"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67b8aa3b775bfb8b837cd407_Torquesim_CJ525_1.webp"/>
-    <summary>Sim: X-Plane. TDS Sim Software has recently released GTNXi for X-Plane 11 and 12. The GTNXi is a rendition of Garming 650Xi and 750Xi navigation with support for both Navigraph charts and data. Like its real-life counterpart, the GTNXi provides the pilot with various features, such as full autopilot control laterally and vertically (including support for LPV approaches), 8.33kHz COM frequency spacing, the ability to fly RF legs, a Glide Range Ring, a Smart Glide, and a Nearest Airport Indication Arrow. It also supports dual GPS/Flight plans, per-device CDI, mouse wheel zoom-in/out of the map page, full VC integration and a 2D pop-up available concurrently, worldwide live METAR, SmartGlide, and much more. The full list is rather lengthy, but it can be found in the .pdf manual included with the addon. The TDS GTNXi comes with VC integration support for X-Plane 12 for the following add-ons: If your favourite general aviation plane isnât on the list, don't worry! The GTNXi comes with Legacy VC Integration, which can detect and install the TDS add-on into all add-on aircraft that provide a legacy GTN 3D bezel unit. According to the developers, this will be useful for users with X-Plane 11 aircraft, as those will not come with TDS GTNXi VC Integration standards. More information about this can also be found in the .pdf manual. If the aircraft doesnât have VC-integrated GPS support, you can always use it as a 2D pop-up. The TDS Sim Softwareâs GTNXi can be purchased here for roughly $ 68.20. It requires X-Plane 11/12, Windows 10 (version 1909) or Windows 11, Intel Core i5-12600K or AMD Ryzen 5 3500, at least 16GB of RAM memory, Nvidia RTX2070 or AMD Radeon RX 5700XT, with at least 4GB of video card memory, and at least 6GB of free space on hard disk. Navigraph subscription is also required for database updates and charts. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <summary>Sim: X-Plane. TDS Sim Software has recently released GTNXi for X-Plane 11 and 12. The GTNXi is a rendition of the Garmin 650Xi and 750Xi navigation with support for both Navigraph charts and data. Like its real-life counterpart, the GTNXi provides the pilot with various features, such as full autopilot control laterally and vertically (including support for LPV approaches), 8.33kHz COM frequency spacing, the ability to fly RF legs, a Glide Range Ring, a Smart Glide, and a Nearest Airport Indication Arrow. It also supports dual GPS/Flight plans, per-device CDI, mouse wheel zoom-in/out of the map page, full VC integration and a 2D pop-up available concurrently, worldwide live METAR, SmartGlide, and much more. The full list is rather lengthy, but it can be found in the .pdf manual included with the addon. The TDS GTNXi comes with VC integration support for X-Plane 12 for the following add-ons: If your favourite general aviation plane isnât on the list, don't worry! The GTNXi comes with Legacy VC Integration, which can detect and install the TDS add-on into all add-on aircraft that provide a legacy GTN 3D bezel unit. According to the developers, this will be useful for users with X-Plane 11 aircraft, as those will not come with TDS GTNXi VC Integration standards. More information about this can also be found in the .pdf manual. If the aircraft doesnât have VC-integrated GPS support, you can always use it as a 2D pop-up. The TDS Sim Softwareâs GTNXi can be purchased here for roughly $ 68.20. It requires X-Plane 11/12, Windows 10 (version 1909) or Windows 11, Intel Core i5-12600K or AMD Ryzen 5 3500, at least 16GB of RAM memory, Nvidia RTX2070 or AMD Radeon RX 5700XT, with at least 4GB of video card memory, and at least 6GB of free space on hard disk. Navigraph subscription is also required for database updates and charts. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-02-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcejf2</id>
+    <title>X-Crafts Releases E-Jets Family Version 2.0 in Open Beta</title>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="/news/xcejf2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67bafc7338327ff2605895b8_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. The E-Jets Family for X-Plane, developed by X-Crafts, has just launched version 2.0 in an open beta. The full release is expected in just a few weeks. This update includes a variety of new features, improvements, and fixes, and introduces a rendition of the Embraer Lineage 1000. The latest update is filled with exciting new features. The E-Jets now offer three distinct lighting options: X-Plane default, dynamic, or natural lighting. Please note that these features are only available in X-Plane 12 and not in X-Plane 11. Additionally, users can now simulate the real-life noise-cancelling headsets used by pilots. The Electronic Flight Bag (EFB) has also been updated significantly. Both the fuel and auto brake systems have been completely overhauled. These are just a few highlights of the changes; for the complete list, please refer to the release notes. The current price for the full E-Jets Family is $134.95. It is important to note that once version 2.0 is fully released, the price will increase to $149.95. Additionally, the upgrade price will rise to $74.48. If you choose to purchase or upgrade to the full E-Jets Family before the 2.0 release, you will receive the Lineage 1000 for free. The full release is currently estimated to be on the 1st of March. The E-Jets Family can be found at the X-Plane.Org Software Store. For instructions on using the open beta for the E-Jets, refer to the helpful guide provided by X-Crafts. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddtind</id>
+    <title>DominicDesignTeam Releases Indianapolis International Airport v2 for MSFS 2020/2024</title>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="/news/ddtind"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67baff41eb25e6456b1a9a05_kind1.webp"/>
+    <summary>Sim: FS24. DominicDesignTeam recently released their new rendition of Indianapolis International Airport (KIND)Â for Microsoft Flight Simulator 2020 and 2024. The airport serves Indianapolis with a yearly average of 4.7 million passengers, making it the busiest in Indiana and the 43rd busiest in the United States. It opened in 1931 to replace Stout Field, which used to be the cityâs main airport at the time.Â  Indianapolis was one of the main transcontinental flights and rail service stops between Los Angeles and New York City. It was started by Trans World Airlinesâ precursor, Transcontinental Air Transport. Its original terminal used to be on the east side of the airfield, now demolished (1957-2008). It was replaced by a new terminal in late 2008, with 110,000 square meters of built area between parallel runways.Â  Itâs a hub for FedEx Express and an operating base for Allegiant Air and Republic Airways. Aer Lingus (to begin in May), Air Canada Express, Alaska Airlines, American Airlines, American Eagle, Delta Air Lines, Delta Connection, Frontier Airlines, Southwest Airlines, Spirit Airlines, Sun Country Airlines, United Airlines,.and United Express. The scenery features an accurate rendition of the airport, with PBR textures, dynamic lighting, custom ground markings, custom jetway, custom animations, performance-friendly optimization, and more. Itâs available on SimMarket for roughly $20.41, requiring at least 960.10 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddipkk</id>
+    <title>Drzewiecki Design Releases KrakÃ³w John Paul II International Airport V2 for Microsoft Flight Simulator 2020/2024</title>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="/news/ddipkk"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67bb05fb1759e5bb4273fc8d_epkk1.webp"/>
+    <summary>Sim: FS24. Drzewiecki Design has recently released their new rendition of KrakÃ³w John Paul II International Airport v2 (EPKK) for Microsoft Flight Simulator 2020 and 2024. The airport serves the city of KrakÃ³w, Poland, and has a yearly average of 11 million passengers, making it the second busiest airport in Poland. Its construction began in 1964, with its eventual opening for civil aviation three years later, in 1967.Â  During its first four years of operation, KrakÃ³w Airport didnât have a passenger terminal, which was only built in 1971. The 1970s also brought a runway extension, new taxiways, and the installation of high-intensity runway lights. In the late 1980s, the administration decided to build a new terminal, which opened in 1993. Shortly after, in 1995, an apron modernization followed. Further modernization was carried on in 2002 to ensure readiness for more international operations. A brand new terminal was constructed between 2013 and 2016 to ensure it could handle the extra traffic brought by Ryanairâs second Polish base, which opened in 2012. Two years ago, KrakÃ³w became Polandâs first regional airport to pass the 9 million passenger threshold. Such impressive traffic figures and eventual projected growth led to plans for a new terminal to better accommodate the extra influx.Â  The scenery features a high-quality rendition of the airport, with PBR materials, custom night lighting, a high-definition terrain mesh, performance-friendly interior modeling, an up-to-date ground layout, static aircraft, custom ground service equipment, and more. Itâs available on SimMarket for roughly $19.88, requiring at least 1.52 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cploot</id>
+    <title>Parallel 42 Publishes More ChasePlane Footage</title>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="/news/cploot"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a03568493d826e0a991328_cp1.webp"/>
+    <summary>Sim: MSFS20. Parallel 42 has recently published two more videos showcasing their upcoming ChasePlane add-on for Microsoft Flight Simulator 2020, going through setting up custom views and shortcuts. â The first video goes in depth about views and smart views, demonstrating how to import default views, adjust and rename views, delete and create passenger views, use smart views in the cockpit and cabin, create external views, and reorganize views. The second video, on the other hand, demonstrates the shortcut system, including their mini-bar HUD, view configuration, compatible devices, camera mode assignments, view, group, and world shortcuts, rotating through views, and flyby and tower cameras. Please refer to this post for further information on ChasePlane's many features. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-23T00:00:00+00:00</published>
   </entry>
 </feed>
