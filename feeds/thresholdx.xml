@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-23T18:27:36.595073+00:00</updated>
+  <updated>2025-02-24T18:31:20.939379+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbemd</id>
-    <title>Orbx Release Emerald Airport for MSFS 20/24</title>
-    <updated>2025-02-08T00:00:00+00:00</updated>
-    <link href="/news/orbemd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a7ca88e52dd7ce05062a2a_Skjermbilde%202025-02-08%20221803.webp"/>
-    <summary>Sim: FS24. Orbx has released Emerald Airport (YEML), developed by Rob Byrne, for MSFS 2020 and 2024. Emerald Airport is situated in the Central Highlands region of Queensland, Australia, approximately 6 km south of Emerald, the main town it serves. QantasLink, Virgin Australia Regional, and Alliance Airlines operate an average of 54 return flights to Brisbane every week. The area is sparsely populated, with fewer than two inhabitants per square kilometre. Additionally, it experiences very little rainfall, averaging around 830 millimetres of precipitation per year. Orbx says Emerald Airport for MSFS offers detailed exteriors and interiors of its terminals. The airport features subtle terraforming, with night lighting for both the terminal and aprons, as well as custom ground markings. There is also custom lighting on the runway, taxiway, and aprons. â In addition, the airport includes a detailed helicopter hangar, general aviation hangars, fuel facilities, and functioning anemometers that respond to changes in wind speed. â A full feature list follows: The scenery can be purchased for $16.36 at the Orbx store and is compatible with both MSFS 2020 and 2024. â Stay tuned to Threshold for news, reviews, and more. Additionally, join our vibrant community on Discord! â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
-    <published>2025-02-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/prifer</id>
     <title> PhotoRico Releases Fernando Luis Ribas Dominicci Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a03568493d826e0a991328_cp1.webp"/>
     <summary>Sim: MSFS20. Parallel 42 has recently published two more videos showcasing their upcoming ChasePlane add-on for Microsoft Flight Simulator 2020, going through setting up custom views and shortcuts. â The first video goes in depth about views and smart views, demonstrating how to import default views, adjust and rename views, delete and create passenger views, use smart views in the cockpit and cabin, create external views, and reorganize views. The second video, on the other hand, demonstrates the shortcut system, including their mini-bar HUD, view configuration, compatible devices, camera mode assignments, view, group, and world shortcuts, rotating through views, and flyby and tower cameras. Please refer to this post for further information on ChasePlane's many features. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/cplpri</id>
+    <title>Parallel 42 Announces Changes to ChasePlaneâs Pricing System</title>
+    <updated>2025-02-24T00:00:00+00:00</updated>
+    <link href="/news/cplpri"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67bca30a67eda37f60e7572b_chase.webp"/>
+    <summary>Sim: MSFS20. Parallel 42 recently made a blog post announcing their decision to stop charging an extra fee for cloud storageÂ and offerÂ the full experience in a singleÂ lifetimeÂ package. The community did not take too well to their original idea of charging extra for cloud storage due to how much it would cost Parallel 42 to keep the structure running. The options ranged from 5 dollars for a yearly subscription to 20 dollars for lifetime access.Â  â Even though community access was not required to share camera presets, as ChasePlane also features a powerful importer/exporter tool that allows people to simply share the files over on Discord or any file hoster, the backlash was immense due to how negatively the subscription system is generally viewed by simmers and gamers alike.Â  â With that in mind, Parallel 42 has decided to include the access with the base package without any extra charges. They will commit to the ever-growing expenses of running such cloud infrastructure while meeting their original price target.Â  â Such a decision was not made haphazardly; they conducted a very deep cost analysis to ensure it wouldnât eventually backfire.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-24T00:00:00+00:00</published>
   </entry>
 </feed>
