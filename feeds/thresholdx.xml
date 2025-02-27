@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-02-26T18:31:18.259177+00:00</updated>
+  <updated>2025-02-27T18:31:42.018403+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbsan</id>
-    <title>Orbx Releases Sandane Airport for MSFS 2024</title>
-    <updated>2025-02-16T00:00:00+00:00</updated>
-    <link href="/news/orbsan"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67b179b7fc990e8699d30e42_sandane1.webp"/>
-    <summary>Sim: FS24. Orbx recently released their rendition of Sandane Airport (ENSD) for Microsoft Flight Simulator 2024. The airport serves the village of Sandane in Norway and has a yearly average of 37,000 passengers.Â  The airport was built in the early 1970s and opened in 1975, then the only airport serving the district of Nordfjord. Due to its geography and low regularity, its initial years were plagued by severe turbulence, which was eventually partially mitigated in the following decades by a terminal expansion and a runway extension. The regularity issue was addressed relatively recently by installing navigation systems, ultimately reducing the canceled flights to a mere 5% in 2022. Its pre-ILS days were rather grim, with airplanes often dealing with low visibility, extreme winds, and insufficient runway. Itâs served by WiderÃ¸e, which has obligatory public service flights to Bergen, Oslo, and Sogndal, flown with Dash 8-100 airplanes. The Norwegian government subsidizes all of the routes. The scenery features an accurate rendition of the airport, with 2K PBR textures, custom ground decals, crisp orthoimagery, custom approach lighting and ground equipment, and more. Itâs available on OrbxDirect for roughly $11.97, requiring at least 842.51 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-02-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/salbgn</id>
     <title>Salvuz Releases Bergen Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67bf1797199e80fda0eaa13a_fitty1.webp"/>
     <summary>Sim: FS24. iniBuilds has recently released their long-awaited rendition of the Airbus A350 for Microsoft Flight Simulator 2020 and 2024, featuring advanced flight systems, immersive cockpit details, interactive avionics, and more. After a day of exclusive live streams and a statement concerning some of the observed issues and their respective fixes, iniBuildsâ latest widebody is finally landing on everybodyâs desktops after a fourteen-month wait since its official announcement in December 2023. Their A350 features realistic systems based on real-world data and pilot feedback, with over 200 ECAM messages, ADS-B TCAS, a custom terrain radar, GPS jamming simulation, CPDLC integration, Navigraph and SimBrief support, a true-to-life 3D cockpit model with 1:1 proportions, a true-to-life cabin (MSFS 2024 only), a detailed exterior model of both available variants at launch (-900 and -1000), an authentic WWise sound set, authentically recreated A350-specific system sounds, an advanced EFB with full ground equipment control, LIDO charts (MSFS 24 only), comprehensive GSX integration, detailed take-off and landing performance calculation, and much more. Regarding platform differences, the Microsoft Flight Simulator 2020 version does not feature the passenger cabin, per-livery configuration, dynamic livery weathering, and LIDO charts. For the full experience, iniBuilds recommends Microsoft Flight Simulator 2024 on the SU1 Beta branch. Itâs available on the iniBuilds Store for roughly $75.71, requiring at least 10.63 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nic024</id>
+    <title>JustSim Releases Nice CÃ´te DâAzur Airport for MSFS 2024 </title>
+    <updated>2025-02-27T00:00:00+00:00</updated>
+    <link href="/news/nic024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67c08e965c6bec6720738c3c_neat1.webp"/>
+    <summary>Sim: FS24. JustSim has recently released their rendition of Nice CÃ´te DâAzur (LFMN) for Microsoft Flight Simulator 2024, serving Bouches-du-RhÃ´ne, Alpes-Maritimes, and Monaco, with a yearly average of 14.1 million passengers. It covers an area of roughly 3.7 square kilometers partially reclaimed from the sea, with 72% of it utilized by its two parallel runways and the passenger terminals, which can handle 52 aircraft movements per hour.Â  Terminal 1 has 25 gates and a total area of 52,000 square meters, handling domestic and intra-European flights. The newest terminal, Terminal 2, has 29 gates and a total area of 57,800 square meters and can take up to 8.5 million passengers annually.Â  Itâs a focus city for Air France and easyJet. It is served by Aegean Airlines, Aer Lingus, Air Canada, Air Transat, British Airways, Brussels Airlines, Condor, Delta Air Lines, Eurowings, Finnair, Iberia, Icelandair, KLM, Jet2.com, Lufthansa, Ryanair, Scandinavian Airlines, Swiss, Transavia, and more. The scenery is part of their âNGâ series, now ported to Microsoft Flight Simulator 2024. It features custom ground textures, highly detailed 3D models, animated custom ground vehicles, custom animated jetways, and performance-friendly optimization. Itâs available on SimMarket for roughly $18.25, requiring at least 3.20 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-02-27T00:00:00+00:00</published>
   </entry>
 </feed>
