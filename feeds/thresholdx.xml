@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-03-04T18:32:20.637258+00:00</updated>
+  <updated>2025-03-05T18:32:44.676653+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xcejf2</id>
-    <title>X-Crafts Releases E-Jets Family Version 2.0 in Open Beta</title>
-    <updated>2025-02-23T00:00:00+00:00</updated>
-    <link href="/news/xcejf2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67bafc7338327ff2605895b8_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. The E-Jets Family for X-Plane, developed by X-Crafts, has just launched version 2.0 in an open beta. The full release is expected in just a few weeks. This update includes a variety of new features, improvements, and fixes, and introduces a rendition of the Embraer Lineage 1000. The latest update is filled with exciting new features. The E-Jets now offer three distinct lighting options: X-Plane default, dynamic, or natural lighting. Please note that these features are only available in X-Plane 12 and not in X-Plane 11. Additionally, users can now simulate the real-life noise-cancelling headsets used by pilots. The Electronic Flight Bag (EFB) has also been updated significantly. Both the fuel and auto brake systems have been completely overhauled. These are just a few highlights of the changes; for the complete list, please refer to the release notes. The current price for the full E-Jets Family is $134.95. It is important to note that once version 2.0 is fully released, the price will increase to $149.95. Additionally, the upgrade price will rise to $74.48. If you choose to purchase or upgrade to the full E-Jets Family before the 2.0 release, you will receive the Lineage 1000 for free. The full release is currently estimated to be on the 1st of March. The E-Jets Family can be found at the X-Plane.Org Software Store. For instructions on using the open beta for the E-Jets, refer to the helpful guide provided by X-Crafts. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-02-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ddtind</id>
     <title>DominicDesignTeam Releases Indianapolis International Airport v2 for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67c6cb626d041ac1ee463202_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Magknight has released an update for the Magknight 787: Aviator's Edition, now at version V1.11.5. While the changelog is brief, this update introduces the final variant of the aircraft, the Boeing 787-10, to the add-on. Additionally, it includes several fixes. The most noticeable feature of the latest update is the introduction of the Boeing 787-10 variant, which is the longest version of the 787 series now available for virtual pilots. Itâs important to note that the 787-10 is only compatible with X-Plane 12, whereas the 787-9 and 787-8 variants can be used with both X-Plane 12 and X-Plane 11. In addition to the new variant, the update includes improvements in pitch sensitivity and the FMA pitch limiter, as well as ensuring that the aileron lockout returns at high speed. The newly updated Magknight 787: Aviator's Edition is now available on X-Plane.Org Software Store for $44.95. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f70f1k</id>
+    <title>Just Flight Publishes Fokker 70/100 Development Update for MSFS</title>
+    <updated>2025-03-05T00:00:00+00:00</updated>
+    <link href="/news/f70f1k"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67c89321fa9e45fab494fead_fok1.webp"/>
+    <summary>Sim: MSFS20. Just Flight recently published a new development update for their upcoming Fokker 70/100 for Microsoft Flight Simulator 2020, which provides information on the overall status, new features, and more. They have been busy recently working on basic aircraft systems such as lift dumpers, airbrake, external and internal (flight deck) lighting, and polished LCD backlights.Â  Some time has also been spent on the more complex aircraft systems, mostly related to the EFIS (Electronic Flight Information System), which includes implementing the FWS (Flight Warning System), monitoring aircraft systems for both normal and abnormal situations, and displaying various memos, alerts, messages, and procedures on the MFDUs. The autopilot has undergone in-depth testing to ensure everything works across all areas of the envelope without throwing any surprises like a nose-dive into the ground.Â  With the systems starting to come together, they have stepped up the testing with the involvement of F100 pilots and engineers. Said process is said to take a while due to the inherently complex nature of a modern airliner. As the F100 systems reach maturity, they will soon turn their attention to the F70, which will require some changes to the cockpit panels and tweaks to the flight model to account for its shorter fuselage length, lower weight, and different engine performance. The next stepâwhich is set to start next monthâis integrating the sounds from Sim Acoustics. Their team âcannot waitâ to get their hands on it and share footage of the new sounds in action when possible.Â  Just Flight will delve deeper into the systems when the time comes.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-03-05T00:00:00+00:00</published>
   </entry>
 </feed>
