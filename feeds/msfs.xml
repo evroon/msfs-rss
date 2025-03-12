@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-03-11T18:32:33.056985+00:00</updated>
+  <updated>2025-03-12T18:32:24.116647+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/11/MSFS_BlackFridaySale2024_v2_1920x1080-1024x576.jpg"/>
     <summary>For 6 Days starting on November 27th, save up to 90% on more than 3500 items.</summary>
     <published>2024-11-27T19:21:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/february-20th-2025-development-update/</id>
-    <title>February 20th, 2025 Development Update</title>
-    <updated>2025-02-21T00:45:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-20th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/02/@ARROW2929-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X/Twitter user @ARROW2929! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!In this week’s Development Update blog, we are pleased to share with you new versions of the Feedback Snapshot and SDK Update. You can see them both by … Continued</summary>
-    <published>2025-02-21T00:45:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-27-2025-development-update/</id>
@@ -88,13 +79,13 @@
     <published>2025-03-11T16:29:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-6th-2025-development-update/</id>
-    <title>February 6th, 2025 Development Update</title>
-    <updated>2025-02-07T00:38:09+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-6th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/02/HeKa48-Forums-1024x429.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!On Wednesday, we hosted our latest Developer Livestream on our official Twitch channel. In case you missed it, you can watch the VOD on our YouTube channel embedded … Continued</summary>
-    <published>2025-02-07T00:38:09+00:00</published>
+    <id>https://www.flightsimulator.com/local-legend-20/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha</title>
+    <updated>2025-03-11T18:23:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-20/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_Paulistinha_NoSnipe_Logo_NoText-1024x576.png"/>
+    <summary>A beloved classic known for its easy handling and forgivingness is ready to take to the sky in Microsoft Flight Simulator.</summary>
+    <published>2025-03-11T18:23:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-13th-2025-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2025-03-11T16:29:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-20th-2025-development-update/</id>
-    <title>February 20th, 2025 Development Update</title>
-    <updated>2025-02-21T00:45:05+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-20th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/02/@ARROW2929-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X/Twitter user @ARROW2929! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below!In this week’s Development Update blog, we are pleased to share with you new versions of the Feedback Snapshot and SDK Update. You can see them both by … Continued</summary>
-    <published>2025-02-21T00:45:05+00:00</published>
+    <id>https://www.flightsimulator.com/local-legend-20/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha</title>
+    <updated>2025-03-11T18:23:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-20/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_Paulistinha_NoSnipe_Logo_NoText-1024x576.png"/>
+    <summary>A beloved classic known for its easy handling and forgivingness is ready to take to the sky in Microsoft Flight Simulator.</summary>
+    <published>2025-03-11T18:23:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/february-27-2025-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS2024_WU19_Rio_12K_300dpi-1024x540.png"/>
     <summary>Experience South America’s most alluring regions in fresh, vibrant detail for both Microsoft Flight Simulator 2024 and Microsoft Flight Simulator.</summary>
     <published>2025-03-11T16:29:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-20/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha</title>
+    <updated>2025-03-11T18:23:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-20/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_Paulistinha_NoSnipe_Logo_NoText-1024x576.png"/>
+    <summary>A beloved classic known for its easy handling and forgivingness is ready to take to the sky in Microsoft Flight Simulator.</summary>
+    <published>2025-03-11T18:23:23+00:00</published>
   </entry>
 </feed>
