@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-03-13T18:32:03.235984+00:00</updated>
+  <updated>2025-03-14T18:31:07.846577+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfo024</id>
-    <title>Flightbeam Studios Updates San Francisco International Airport for MSFS 2024</title>
-    <updated>2025-03-06T00:00:00+00:00</updated>
-    <link href="/news/sfo024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ca27a25d89df6bdc0ab71b_amogus1.webp"/>
-    <summary>Sim: FS24. Flightbeam Studios recently updated their rendition of San Francisco International Airport (KSFO), ensuring compatibility with Microsoft Flight Simulator 2024 and introducing enhanced ground textures, performance-optimized assets, built-in native VDGS, and more. The update takes advantage of Microsoft Flight Simulator 2024âs modern SDK to further improve their rendition of San Francisco International, now without barriers imposed by the previous platformâs limitations: it would enforce, for example, a default detail map on all aprons, which is no longer the case, allowing Flightbeam to further increase the quality on the ground textures with higher resolution samples, more oil stains, tire marks and gunk, accurately matching the real counterpart. Furthermore, every single asset in the scenery was re-optimized and re-exported for the best possible performance. It also brings a native VDGS system on A, B, E, and G gates, completely custom taxiway lights with correct runway entry/exit colors, diverse fauna and flora around the airport, and new scanned assets from their multiple visits to SFO in real life. The update is completely free for previous owners, and new purchasers can find it on Contrail for roughly $13.29 (promotional price), requiring at least 2.44 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/su1m24</id>
     <title>Microsoft Releases Sim Update 1 for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d1dc724732690bcb80c4de_chi1.webp"/>
     <summary>Sim: X-Plane. Drzewiecki Design recently released their rendition of Chicago Midway International Airport (KMDW) for X-Plane 12. The airport serves the Chicago Metropolitan Area and has a yearly average of 22 million passengers. Established in 1927, Midway was Chicagoâs main airport until the advent of OâHare International in 1944. This did not stop it from being one of the busiest airports in the nation.Â  It is an operating base for Frontier Airlines and Southwest Airlines. Allegiant Air, Avelo Airlines, Delta Air Lines, Delta Connection, Porter Airlines, and Volaris also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, high-quality 3D models, PBR materials, custom animated jetways, VDGS, custom night lighting, and more. Itâs available on SimMarket for roughly $19.64, requiring at least 1.73 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f28two</id>
+    <title>Just Flight Releases F28 Professional V2 for MSFS 2020/2024</title>
+    <updated>2025-03-13T00:00:00+00:00</updated>
+    <link href="/news/f28two"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d324880615470b16ee888a_fuk1.webp"/>
+    <summary>Sim: FS24. Just Flight has recently released the Fokker F28 Professional Version 2 for Microsoft Flight Simulator 2020 and 2024. This version brings many significant upgrades over the first version, such as a new flight management system (UNS-1), new cockpit equipment, boarding/refueling simulation, and more. The Fokker F28 Fellowship is a twin-engined regional jet developed in the late 60s. Its first flight was in 1967 and its introduction happened in 1969, with 241 units built after a 20-year run (production ended in 1987). Multiple variants were developed, with the F28-1000 seating up to 70 passengers, the F28-2000 housing 79 people, and the later revision, the F28-4000, featuring quieter engines (Rolls-Royce Spey 555-15H), a redesigned cockpit and modified wings, and increased seating (up to 85 passengers). It was then superseded by the Fokker 70 and 100.Â  As of 2019, there are no current operators of the F28 around, with Fly-SAX being the last to operate it commercially. Garuda Indonesia was the largest former operator, with 62 of them. Other Major operators include the Ansett Group (13), AirQuarius Aviation (4), and Biman Bangladesh Airlines (4). The Ansett Group was also responsible for the longest nonstop F28 route in the world, between Perth and Kununurra, roughly 2300 km apart.Â  Version two of the F28 ensures compatibility with Microsoft Flight Simulator 2024. It adds many new features to the product, further enriching its realism, such as the new UNS-1 flight management system, new cockpit equipment, boarding and refueling simulation, and more. Please refer to this page for further information on all the features included.Â  Itâs available in their store for $50.39 (a promotional price to celebrate the new update). V1 owners are entitled to a free upgrade. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-03-13T00:00:00+00:00</published>
   </entry>
 </feed>
