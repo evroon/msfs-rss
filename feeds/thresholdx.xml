@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-03-14T18:31:07.846577+00:00</updated>
+  <updated>2025-03-15T18:29:12.554096+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/su1m24</id>
-    <title>Microsoft Releases Sim Update 1 for MSFS 2024</title>
-    <updated>2025-03-06T00:00:00+00:00</updated>
-    <link href="/news/su1m24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ca2f5c3abc46e6eee8d9a9_Banner_Image.webp"/>
-    <summary>Sim: FS24. Microsoft has just released the first Sim Update for Microsoft Flight Simulator 2024, Sim Update 1. This update has transitioned from beta to full release and is filled with various fixes and improvements aimed at enhancing the simulator further. The update prioritizes stability and performance, while also addressing general bug fixes and implementing changes across a variety of aircraft. Additionally, the Software Development Kit (SDK) has received numerous fixes, along with updates in several other areas of the simulator, making this a significant update. As with previous Sim Updates for Microsoft Flight Simulator 2020, the changelog is extensive, featuring numerous fixes, enhancements, and new features. For those interested, the full changelog is available here.Â  Moreover, the Microsoft team has announced that the highly anticipated Marketplace will be coming soon. They are currently making final adjustments to ensure it's readiness upon launch. Sim Update 1 is now available for download. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-03-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/nv2024</id>
     <title>Navigraph Launches Community Survey 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d324880615470b16ee888a_fuk1.webp"/>
     <summary>Sim: FS24. Just Flight has recently released the Fokker F28 Professional Version 2 for Microsoft Flight Simulator 2020 and 2024. This version brings many significant upgrades over the first version, such as a new flight management system (UNS-1), new cockpit equipment, boarding/refueling simulation, and more. The Fokker F28 Fellowship is a twin-engined regional jet developed in the late 60s. Its first flight was in 1967 and its introduction happened in 1969, with 241 units built after a 20-year run (production ended in 1987). Multiple variants were developed, with the F28-1000 seating up to 70 passengers, the F28-2000 housing 79 people, and the later revision, the F28-4000, featuring quieter engines (Rolls-Royce Spey 555-15H), a redesigned cockpit and modified wings, and increased seating (up to 85 passengers). It was then superseded by the Fokker 70 and 100.Â  As of 2019, there are no current operators of the F28 around, with Fly-SAX being the last to operate it commercially. Garuda Indonesia was the largest former operator, with 62 of them. Other Major operators include the Ansett Group (13), AirQuarius Aviation (4), and Biman Bangladesh Airlines (4). The Ansett Group was also responsible for the longest nonstop F28 route in the world, between Perth and Kununurra, roughly 2300 km apart.Â  Version two of the F28 ensures compatibility with Microsoft Flight Simulator 2024. It adds many new features to the product, further enriching its realism, such as the new UNS-1 flight management system, new cockpit equipment, boarding and refueling simulation, and more. Please refer to this page for further information on all the features included.Â  Itâs available in their store for $50.39 (a promotional price to celebrate the new update). V1 owners are entitled to a free upgrade. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/atekos</id>
+    <title>Atelic Releases Kos International Airport for MSFS 2020/2024</title>
+    <updated>2025-03-14T00:00:00+00:00</updated>
+    <link href="/news/atekos"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d4a1380e553fb3265e9e27_kos1.webp"/>
+    <summary>Sim: FS24. Atelic has recently released their rendition of Kos International Airport (LGKO) forÂ Microsoft Flight Simulator 2020 and 2024. The airport serves Kos Island, Greece, and has a yearly average of 2.8 million passengers. It opened in early 1964, and the first expansion work was carried out within a decade, bringing the runway to 2,400m and thus enabling it to accommodate larger jet aircraft. The ever-increasing passenger traffic figures led to the construction of a new passenger terminal in 1980, which underwent renovation and expansion seventeen years later. Upon winning the airportâs concession in late 2015, Fraport was heavily committed to improving the infrastructure through heavy maintenance and upgrades and ensuring it was within the safety regulations. Itâs a focus airport for Aegean Airlines and seasonally served by Aer Lingus, airBaltic, Air Serbia, Austrian Airways, British Airways, Brussels Airlines, Condor, Discover Airlines, easyJet, Enter Air, Eurowings, Lufthansa, Ryanair, Scandinavian Airlines, Smartwings, Swiss, Transavia, TUI (multiple), and Wizz Air. The scenery features an accurate rendition of the airport, with custom ground textures, high-quality PBR textures, realistic night lighting, an up-to-date ground layout, detailed terminal and tower interiors, realistic terrain profile, custom vegetation, custom roads, and more. Itâs available on SimMarket for roughly $17.32, requiring at least 2.37 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-03-14T00:00:00+00:00</published>
   </entry>
 </feed>
