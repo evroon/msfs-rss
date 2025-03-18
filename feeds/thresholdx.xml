@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-03-17T18:30:54.359849+00:00</updated>
+  <updated>2025-03-18T18:33:01.141201+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mmsnuu</id>
-    <title>MM Simulations Releases Nuuk Airport for MSFS 2020/2024</title>
-    <updated>2025-03-10T00:00:00+00:00</updated>
-    <link href="/news/mmsnuu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67cf3dc1a1b70d124f258a84_nuuk1.webp"/>
-    <summary>Sim: FS24. MM Simulations has recently released their rendition of Nuuk Airport (BGGH) for Microsoft Flight Simulator 2020 and 2024. The airport serves Nuuk, Greenland, and has a yearly average of 69,324 passengers. The airport was built in 1979 when the government decided to create a network of STOL-capable domestic airports. It originally featured a 950-meter-long asphalt runway located 86 meters above sea level. The terminal and apron were built on a leveled platform on an undulating slope under a mountain.Â  After many years of expansion proposals, the administration decided to expand the runway to 2,200 meters, build a new terminal to accommodate the expected passenger traffic figures, and expand the apron and service buildings. Construction started in 2019 and reached partial completion in 2022. The new terminal was only inaugurated two years later, in 2024. The scenery accurately depicts the airport, including its new terminal, the 2,200-meter-long runway, handcrafted terrain elevation, detailed 3D terminal with a custom interior, animated objects, custom ground service equipment, up-to-date ground layout, and more. Itâs available on SimMarket for roughly $16.82, requiring at least 747.95 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/m24mar</id>
     <title>Microsoft Rolls Out Marketplace for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d75244a47f8ad7c024a98c_syd1.webp"/>
     <summary>Sim: FS24. Drzewiecki Design recently announced the development of Western Sydney International Airport (YSWS) for Microsoft Flight Simulator 2024. The airport is set to begin operating in late 2026 and supplement Sydneyâs Kingsford Smith International, which has been operating at capacity due to a legislated curfew. After a more than decade-long debate on the location, the government officially designated the site in April 2014. It was conceived to operate 24 hours a day, with no curfews whatsoever, helping mitigate the fact Sydneyâs main airport is already operating at capacity and with limited slots. The administration has decided to build the airport in multiple phases, starting with a smaller terminal and a single runway and eventually building up as required. Phase one â which is nearing completion â consists of that one âsmallâ terminal, able to handle up to 10 million passengers a year, and a single 3700m runway. As of June 2024, the terminal was 80% ready and set to reach total completion by January 2026. Itâs going to be Australiaâs first fully digital air traffic control system, using a 45-meter-tall mast with over twenty high-definition cameras instead of a traditional control tower. The developer plans to fully utilize Microsoft Flight Simulator 2024âs capabilities, aiming to deliver highly detailed visuals, optimized performance, and an immersive flight simulation experience. For that, they seek reference materials, including airport documentation, high-quality images, charts, blueprints, and operational insights. If you fit the criteria, feel free to contact the developer here.Â  Thereâs no information on pricing or a release date yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pdsszc</id>
+    <title>Papa Delta Studio Releases Szczecin-GoleniÃ³w Airport for MSFS 2020/2024</title>
+    <updated>2025-03-18T00:00:00+00:00</updated>
+    <link href="/news/pdsszc"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d9aa154505b7b8b1fce749_scz1.webp"/>
+    <summary>Sim: FS24. Papa Delta Studio recently released their rendition of Szczecin-GoleniÃ³w Airport (EPSC) for Microsoft Flight Simulator 2020 and 2024. The airport serves Szczecin, Poland, and has a yearly average of 600,000 passengers. It was built as a standard military airport between 1953 and 1956 during the Cold War, with a 1,800-meter runway and basic infrastructure. It wasnât until eleven years later that it became a civilian airport. In the late 1970s, the runway was extended to 2,500 meters, and a new passenger terminal was built. Extra effort was made in the late 1990s to improve the runway and the main apron, followed by the opening of a new passenger terminal in 2001.Â  Four years after its inauguration, the new terminal underwent expansion to accommodate the predicted passenger figures for the decade. Completion was achieved a year later, in 2006. LOT Polish Airlines, Norwegian Air Shuttle, Ryanair, Smartwings Poland, and Wizz Air serve it. The scenery features an accurate rendition of the airport, with a high-quality terminal model, custom ground textures, an up-to-date ground layout, custom static aircraft, custom 3D people models, custom ground service equipment, custom clutter, and more. â Itâs available on SimMarket for roughly $7.31, requiring at least 87.55 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-03-18T00:00:00+00:00</published>
   </entry>
 </feed>
