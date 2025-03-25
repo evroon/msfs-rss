@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-03-24T18:33:03.806668+00:00</updated>
+  <updated>2025-03-25T18:32:35.328867+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,13 +34,58 @@
     <published>2024-11-27T19:21:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/in-sim-marketplace-now-available-in-microsoft-flight-simulator-2024/</id>
-    <title>In-Sim Marketplace Now Available in Microsoft Flight Simulator 2024</title>
-    <updated>2025-03-11T16:06:00+00:00</updated>
-    <link href="https://www.flightsimulator.com/in-sim-marketplace-now-available-in-microsoft-flight-simulator-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
-    <summary>We’re very happy to announce that the Microsoft Flight Simulator 2024 Marketplace is now available. This is an exciting day for Creators, Simmers and Microsoft.</summary>
-    <published>2025-03-11T16:06:00+00:00</published>
+    <id>https://www.flightsimulator.com/local-legend-20/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha</title>
+    <updated>2025-03-11T18:23:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-20/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_Paulistinha_NoSnipe_Logo_NoText-1024x576.png"/>
+    <summary>A beloved classic known for its easy handling and forgivingness is ready to take to the sky in Microsoft Flight Simulator.</summary>
+    <published>2025-03-11T18:23:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-13-2025-development-update/</id>
+    <title>March 13, 2025 Development Update</title>
+    <updated>2025-03-13T23:29:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-13-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@MihamaBlend-Twitter-1024x576.jpeg"/>
+    <summary>Following hot on the heels of Microsoft Flight Simulator 2024 Sim Update 1 launching on March 6, we’re pleased to follow it up with three big releases earlier this week!</summary>
+    <published>2025-03-13T23:29:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs-embraer-collab/</id>
+    <title>Microsoft Flight Simulator and Embraer Announce Strategic Collaboration</title>
+    <updated>2025-03-14T12:57:13+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-embraer-collab/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/Image-1-1024x541.jpg"/>
+    <summary>Microsoft Flight Simulator announces the Praetor 600 and enters a long-term strategic collaboration with Embraer</summary>
+    <published>2025-03-14T12:57:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
+    <title>March 20, 2025 Development Update</title>
+    <updated>2025-03-20T23:45:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-20-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
+    <published>2025-03-20T23:45:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
+    <updated>2025-03-25T14:51:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
+    <published>2025-03-25T14:51:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/join-the-sim-update-2-beta-test/</id>
+    <title>Join the Sim Update 2 Beta Test</title>
+    <updated>2025-03-25T17:11:54+00:00</updated>
+    <link href="https://www.flightsimulator.com/join-the-sim-update-2-beta-test/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
+    <summary>Are you interested in joining the Microsoft Flight Simulator 2024 Sim Update 2 public beta test? The Sim Update 02 Beta is now available on Steam, Windows PC, and Xbox.</summary>
+    <published>2025-03-25T17:11:54+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-19/</id>
@@ -88,22 +133,13 @@
     <published>2025-03-20T23:45:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/march-6th-2025-development-update/</id>
-    <title>March 6th, 2025 Development Update</title>
-    <updated>2025-03-07T00:37:44+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-6th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/woooshboom-Forums-1024x576.jpeg"/>
-    <summary>Microsoft Flight Simulator 2024 Sim Update 1 (1.3.23.0) is available now on all platforms! You can read the (very lengthy) release notes here. Sim Update 1 contains hundreds of bug fixes and improvements and is one of the largest updates released yet for either MSFS (2020) or MSFS 2024. Once again, we would like to thank everyone who participated in the public beta test for your feedback and bug reports.</summary>
-    <published>2025-03-07T00:37:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-19/</id>
-    <title>Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana</title>
-    <updated>2025-03-11T16:29:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-19/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS2024_WU19_Rio_12K_300dpi-1024x540.png"/>
-    <summary>Experience South America’s most alluring regions in fresh, vibrant detail for both Microsoft Flight Simulator 2024 and Microsoft Flight Simulator.</summary>
-    <published>2025-03-11T16:29:31+00:00</published>
+    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
+    <updated>2025-03-25T14:51:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
+    <published>2025-03-25T14:51:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-20/</id>
@@ -142,57 +178,21 @@
     <published>2025-03-20T23:45:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/in-sim-marketplace-now-available-in-microsoft-flight-simulator-2024/</id>
-    <title>In-Sim Marketplace Now Available in Microsoft Flight Simulator 2024</title>
-    <updated>2025-03-11T16:06:00+00:00</updated>
-    <link href="https://www.flightsimulator.com/in-sim-marketplace-now-available-in-microsoft-flight-simulator-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-1024x576.jpg"/>
-    <summary>We’re very happy to announce that the Microsoft Flight Simulator 2024 Marketplace is now available. This is an exciting day for Creators, Simmers and Microsoft.</summary>
-    <published>2025-03-11T16:06:00+00:00</published>
+    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
+    <updated>2025-03-25T14:51:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
+    <published>2025-03-25T14:51:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/world-update-19/</id>
-    <title>Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana</title>
-    <updated>2025-03-11T16:29:31+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-19/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS2024_WU19_Rio_12K_300dpi-1024x540.png"/>
-    <summary>Experience South America’s most alluring regions in fresh, vibrant detail for both Microsoft Flight Simulator 2024 and Microsoft Flight Simulator.</summary>
-    <published>2025-03-11T16:29:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-20/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha</title>
-    <updated>2025-03-11T18:23:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-20/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_Paulistinha_NoSnipe_Logo_NoText-1024x576.png"/>
-    <summary>A beloved classic known for its easy handling and forgivingness is ready to take to the sky in Microsoft Flight Simulator.</summary>
-    <published>2025-03-11T18:23:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-13-2025-development-update/</id>
-    <title>March 13, 2025 Development Update</title>
-    <updated>2025-03-13T23:29:16+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-13-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@MihamaBlend-Twitter-1024x576.jpeg"/>
-    <summary>Following hot on the heels of Microsoft Flight Simulator 2024 Sim Update 1 launching on March 6, we’re pleased to follow it up with three big releases earlier this week!</summary>
-    <published>2025-03-13T23:29:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/msfs-embraer-collab/</id>
-    <title>Microsoft Flight Simulator and Embraer Announce Strategic Collaboration</title>
-    <updated>2025-03-14T12:57:13+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs-embraer-collab/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/Image-1-1024x541.jpg"/>
-    <summary>Microsoft Flight Simulator announces the Praetor 600 and enters a long-term strategic collaboration with Embraer</summary>
-    <published>2025-03-14T12:57:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
-    <title>March 20, 2025 Development Update</title>
-    <updated>2025-03-20T23:45:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-20-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
-    <published>2025-03-20T23:45:30+00:00</published>
+    <id>https://www.flightsimulator.com/join-the-sim-update-2-beta-test/</id>
+    <title>Join the Sim Update 2 Beta Test</title>
+    <updated>2025-03-25T17:11:54+00:00</updated>
+    <link href="https://www.flightsimulator.com/join-the-sim-update-2-beta-test/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
+    <summary>Are you interested in joining the Microsoft Flight Simulator 2024 Sim Update 2 public beta test? The Sim Update 02 Beta is now available on Steam, Windows PC, and Xbox.</summary>
+    <published>2025-03-25T17:11:54+00:00</published>
   </entry>
 </feed>
