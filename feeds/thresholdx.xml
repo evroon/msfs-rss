@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-01T18:32:29.369274+00:00</updated>
+  <updated>2025-04-02T18:33:06.104647+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dblhnd</id>
-    <title>DarkBlue Releases Tokyo Haneda Airport for X-Plane 11 &amp; 12</title>
-    <updated>2025-03-18T00:00:00+00:00</updated>
-    <link href="/news/dblhnd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d9c0401ed6ab22aff643d0_tyo1.webp"/>
-    <summary>Sim: X-Plane. DarkBlue has recently released their rendition of Haneda Airport (RJTT) for X-Plane 11 and 12. The airport serves the Greater Tokyo Area and has a yearly average of 78.7 million passengers, making it the busiest airport in Japan. The airport started its life in 1931 as a tiny airfield with a 300-meter-long concrete runway, a small passenger terminal, and two hangars.Â  Traffic figures grew throughout the 1930s, leading to the extension of the runway to 800 meters and the construction of a newâalso 800-meter-long ârunway. The airport's land size also grew from the initial 53 hectares to 72.8 hectares.Â  It was also during that time period that the Japanese government started planning to build a new Tokyo Municipal Airport on an artificial island in Koto Ward. At the time, it was five times the size of Haneda and easily the largest airport in the world by the era's standards. Work was scheduled to start in 1939 and reach completion by 1941, but World War 2 put a permanent stop to it. Post World War 2, Haneda was occupied by the United States Army, becoming Haneda Army Air Base. Many nearby residents were evicted during that time so they could carry out further expansion to accommodate their infrastructure. Both runways were extended to 1,650 meters and 2,100 meters, respectively. By the time everything was finally completed in 1946, the airport was already occupying 257.4 hectares, slightly larger than the old Tokyo Municipal Airport project. Part of the base was returned to Japan in 1952 and named Tokyo International Airport. The remainder remained under American control until it was returned to Japan in 1958. When Japan Airlines started its domestic operations out of the airport, there was no passenger terminal. This became a reality in 1955 after two years of hard work, followed by an extension for international flights in 1963. The introduction of jet aircraft in the 1960s led to many changes and improvements, including runway extensions, the repurposing of a runway as an apron, and a new international arrivals facility. In the late 1970s, Narita Airport was inaugurated, taking most of the international service in the area and relegating Haneda to a majorly domestic airport. For the next 32 years, Haneda lived through its "domestic era," a period in which many expansion projects were carried out to ensure it could actually serve Greater Tokyo properly: a new landfill in the mid-1980s, a new passenger terminal, new runways in the late 1990s/early 2000s, and a new international terminal in 1998. â After completing a third international terminal in October 2010, the government opened the airport again to overseas operations as long as they operated between 11 p.m. and 7 a.m. â The international terminal was further expanded in 2014 with a new eight-gate pier, an expanded apron, an expanded check-in, and more.Â  It's a hub for All Nippon Airways and Japan Airlines and an operating base for Air Do, Skymark Airlines, Solaseed Air, and StarFlyer. Air Canada, Air China, Air France, American Airlines, Asiana Airlines, British Airways, Cathay Pacific, China Airlines, Delta Air Lines, Emirates, EVA Air, Finnair, Garuda Indonesia, ITA Airways, Korean Air, Lufthansa, Qantas, Scandinavian Airlines, Singapore Airlines, Thai, Turkish Airlines, United Airlines, and Vietnam Airlines also serve it. â The scenery features an accurate rendition of the airport, with 4K textures, highly detailed passenger terminal and airport buildings, custom ground markings, an up-to-date ground layout, performance-friendly optimization, and more. â It's available on OrbxDirect for roughly $15.89, requiring at least 2 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/edcwgm</id>
     <title>Eagle Dynamics Previews Cold War Germany Map</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67eb0d3ca829f44b5b577767_bovec1.webp"/>
     <summary>Sim: FS24. ST Simulations recently released their rendition of Bovec Airport (LJBO) for Microsoft Flight Simulator 2024, which serves the municipality of Tolmin in Slovenia. Built in 1962, Bovec is an important airfield in the country. It is located in the Slovenian Julian Alps at an elevation of nearly 1450 feet, which makes it perfect for parachuting events (which are held yearly) and general aviation. Its single 900x40-meter asphalt runway and slightly high elevation make it a great challenge regardless of the size of the airplane. The scenery features an accurate rendition of the airport, with custom 3D models and an up-to-date ground layout. It also offers performance-friendly optimization with MSFS 2024âs new LOD system, a custom hangar with an interior, landside buildings, custom objects, and more. Itâs available on SimMarket for roughly $10.79, requiring at least 349.29 MB of free hard disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-03-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/crj041</id>
+    <title>Aerosoft Releases CRJ V2 for MSFS 2020/2024</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <link href="/news/crj041"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ec63171d5d53f777a4e4e1_crj1.webp"/>
+    <summary>Sim: FS24. Aerosoft has recently issued a major update to their CRJ 550/700/900/1000 for Microsoft Flight Simulator 2020 and 2024, bringing a list of improvements, compatibility with MSFS 2024, and much more. Version 2 features a fully remodeled cabin (on a per-variant basis), a revised flight model based on the simulatorâs new aerodynamics, full Navigraph charts implementation, partial GSX integration, weather radar, a landing distance calculator, extensive customization options for knob acceleration, sounds, autopilot configuration, throttle calibration, etc. The full changelog follows below: The update is free for V1 owners, and new customers can acquire it directly from the Aerosoft Shop for roughly $50.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-01T00:00:00+00:00</published>
   </entry>
 </feed>
