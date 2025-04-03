@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-02T18:33:06.104647+00:00</updated>
+  <updated>2025-04-03T18:32:26.114303+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/edcwgm</id>
-    <title>Eagle Dynamics Previews Cold War Germany Map</title>
-    <updated>2025-03-19T00:00:00+00:00</updated>
-    <link href="/news/edcwgm"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67db15617263341757b24d3e_In_Dev_14.03.2025.7.webp"/>
-    <summary>Sim: DCS. A new map has been announced by Eagle Dynamics! This time, it is a âgreen mapâ - based on Germany in the Cold War. â The map features an accurate rendition of West and East Germany in the 1980s, as well as smaller parts of Czechoslovakia, Poland, France, Belgium, the Netherlands, and Denmark. The map has quite a large size 980x800km and has an accurate and faithful representation of cities such as Frankfurt am Main, Leipzig, Berlin, Magdeburg, Hannover, Lubeck, and others.Â  Aside from the cities, the map has over 100 detailed civil and military airfields with the likes of Rammstein, Spangdahlem, Hahn, Bitburg, Sembach, Tegel, SchÃ¶nefeld, Tempelhof, Frankfurt, Hamburg, and Hannover. Additionally, a multitude of army bases, naval bases, training grounds, listening posts and weapons storage facilities as well as the East and West German militarized borderline have been implemented. Ugra-Media, a development group known for their work on the Syria and Normandy 2 maps, provides users with a precise rendition of rail, road networks and core infrastructure such as industrial areas, power plants, train stations, and tunnels, alongside prominent historical landmarks. As is usually the case, the initial release will mainly focus on the central part of both West and East Germany, and will only contain summer textures. Future updates and releases will of course bring more detail to the other parts of the map and bring Spring, Autumn and Winter textures! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-03-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kpdx2</id>
     <title>iBlueYonder set to Launch Portland International Airport v2 for MSFS on the 21st of March</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ec63171d5d53f777a4e4e1_crj1.webp"/>
     <summary>Sim: FS24. Aerosoft has recently issued a major update to their CRJ 550/700/900/1000 for Microsoft Flight Simulator 2020 and 2024, bringing a list of improvements, compatibility with MSFS 2024, and much more. Version 2 features a fully remodeled cabin (on a per-variant basis), a revised flight model based on the simulatorâs new aerodynamics, full Navigraph charts implementation, partial GSX integration, weather radar, a landing distance calculator, extensive customization options for knob acceleration, sounds, autopilot configuration, throttle calibration, etc. The full changelog follows below: The update is free for V1 owners, and new customers can acquire it directly from the Aerosoft Shop for roughly $50.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vol111</id>
+    <title>Orbx Releases Volanta Tracking Update</title>
+    <updated>2025-04-03T00:00:00+00:00</updated>
+    <link href="/news/vol111"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ede84006d2282d11f6d3c5_social.jpg"/>
+    <summary>Sim: OTHER. Orbx recently updated Volanta with a real-time tracking feature for premium members, polling the aircraftâs position locally every second. The new update also brings several bug fixes and new enhancements. Update 1.11 is one of Volantaâs most significant updates yet, featuring real-time tracking for premium members, improved map performance, ultra-low hardware usage when minimized, 3D mode tweaks, and much more. The complete changelog follows below: â Volanta can be downloaded for free on their website. Certain features require a premium membership.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-03T00:00:00+00:00</published>
   </entry>
 </feed>
