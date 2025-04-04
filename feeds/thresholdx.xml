@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-03T18:32:26.114303+00:00</updated>
+  <updated>2025-04-04T18:32:06.594602+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/kpdx2</id>
-    <title>iBlueYonder set to Launch Portland International Airport v2 for MSFS on the 21st of March</title>
-    <updated>2025-03-20T00:00:00+00:00</updated>
-    <link href="/news/kpdx2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67dc2755ab67caf2f6718ab9_Skjermbilde%202025-03-20%20152315.webp"/>
-    <summary>Sim: MSFS20. iBlueYonder is set to launch an extensive update for their KPDX scenery on the 21st of March. Portland International Airport is the largest airport in Oregon, located approximately 14 kilometres northeast of downtown Portland. It serves around 17 million passengers each year, with Alaska Airlines being the largest carrier, serving about 4 million passengers annually. In 2016, a new expansion plan was approved. This plan includes the expansion of Concourse E, the demolition of Concourse A, and the extension of the newer Concourse B. Additionally, the main terminal is currently undergoing an expansion project, which is expected to be completed soon. According to iBlueYonder, their rendition of Portland International Airport is set to be a highly detailed representation of the airport as it will appear by the end of the year. It will include the new terminal building, as well as the updated B and E concourses, all featuring full interior modelling. The scenery will also have improved ground textures, an expanded network of taxiway signs, and several new buildings and garages. Additionally, it will include four custom jetways with branding and a tailored GSX profile. Portland International Airport V2 by iBlueYonder is set to be released on the 21st of March. For more details, refer to the iBlueYonder website. â If you enjoy our content and want to support Threshold, consider joining us on Patreon â â</summary>
-    <published>2025-03-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfpa12</id>
     <title>Just Flight Releases PA-28-161 Warrior II for X-Plane 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/vol111"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ede84006d2282d11f6d3c5_social.jpg"/>
     <summary>Sim: OTHER. Orbx recently updated Volanta with a real-time tracking feature for premium members, polling the aircraftâs position locally every second. The new update also brings several bug fixes and new enhancements. Update 1.11 is one of Volantaâs most significant updates yet, featuring real-time tracking for premium members, improved map performance, ultra-low hardware usage when minimized, 3D mode tweaks, and much more. The complete changelog follows below: â Volanta can be downloaded for free on their website. Certain features require a premium membership.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp1222</id>
+    <title>Laminar Research Releases X-Plane 12.2.0 Update</title>
+    <updated>2025-04-03T00:00:00+00:00</updated>
+    <link href="/news/xp1222"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ef0ee9572b607093dd0c18_lgt1.webp"/>
+    <summary>Sim: X-Plane. Laminar Research recently released a major update to X-Plane 12, which brings massive improvements to cloud rendering, lighting, environmental effects, and graphics performance. Their graphics team has been working to mitigate the famed dark cockpit issue, bringing significantly improved interior rendering quality. The light coming into the cockpit correctly follows the aircraft's contours and structural details. Furthermore, the graphics engine's exposure handling has also been improved, bringing exposure fusionâa familiar feature on most modern smartphonesâto the virtual realm of X-Plane 12. It consists of taking multiple photos at various levels of exposure and then automatically stitching them together, yielding a potentially impressive-looking result.Â  The sky brightness has also been tweaked to ensure it's more natural and doesn't burn people's retinas. Ground object brightness values have also been tweaked to ensure they are not overly bright. Their graphics engine as a whole has also undergone changes, with an upgrade to their shader compiler, which manages resources more efficiently and thus brings smoother performance figures. Texture handling has also been tweaked to ensure faster loading times and more efficient rendering. Their VRAM management method has also been tweaked, ensuring it prioritizes smaller memory requests before large ones, aiding total memory allocation. Additionally, it makes multiple attempts to allocate memory before giving up, allowing the system to free up space when needed and ultimately reduce the chances of blurry textures or slow performance overall. The cloud rendering system has also been changed, with a small radius surrounding the camera's viewport sporting high-quality clouds, nearly eliminating cloud pixelation effects around the airplane. They hint at it being a stepping stone to other cool rendering effects in the future. Last but not least, they have also changed how their light rendering system works by breaking them into tiles, yielding better performance in demanding environments such as large airports and cities. In addition, they have also made minor changes to colors, bringing more realistic color accuracy, improved sky rendering, better cloud shadows, cloud shadows on clouds, cloud-aware ambient light, and more realistic shadows overall. Detail has also been enhanced on surface textures around airports, and weather effects now also show outside of the airport's area, accumulating on main roads, as suggested by the community. â The complete changelog follows below: â Known Issues â Fixes and Enhancements General â Graphics â â Scenery â The update is currently available on the public_beta branch on Steam. Laminar customers can get the update by toggling âCheck for new betas as well as updatesâ. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â â</summary>
     <published>2025-04-03T00:00:00+00:00</published>
   </entry>
 </feed>
