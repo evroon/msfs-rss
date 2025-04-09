@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-07T18:32:38.153180+00:00</updated>
+  <updated>2025-04-09T18:33:28.646046+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777321</id>
-    <title>PMDG Publishes New Development Update for MSFS 2020/2024</title>
-    <updated>2025-03-21T00:00:00+00:00</updated>
-    <link href="/news/777321"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
-    <summary>Sim: FS24. PMDG has recently published a new development update with further information on their effort to bring the 777 product line to Microsoft Flight Simulator 2024 in what appears to be a âbig week for 777 testingâ. Their beta team has recently been given access to working beta builds of the 777-300ER, 777-200ER, and 777F for Microsoft Flight Simulator 2024. PMDG finally feels confident enough in the platform to let their testers try it out without feeling like they would be wasting their time and effort. For those unfamiliar with the saga so far, PMDG was initially somewhat skeptical about Microsoft Flight Simulator 2024, not in regards to the platformâs capabilities per se but more so on the compatibility aspect, even though Asobo had promised it would be pretty straightforward to port content over. Their skepticism was proven right over time, and the transition has been anything but smooth, with the first glimmer of hope only showing up with the release of SU1 beta in January 2025. They launched an all-hands effort at the time using undocumented methods and practices for the new platform, ensuring it would not be a merely âhalf-assedâ drag-and-drop port but an actual solid conversion that would last and show their quality. The so-called herculean effort has apparently paid off, and they continue to work hard to ensure it will be stable and compliant in MSFS 2024 on PC and Xbox. â Despite sharing many common elements with Microsoft Flight Simulator 2020, the new platform has plenty of significant changes that were not documented yet or were partially/wrongly documented, which has contributed to slowing down the process quite substantially. â On top of ensuring compatibility, PMDG has also been hard at work upgrading the 777 product line with new MSFS 2024-only features and further polishing it with hundreds of bug fixes, tweaks, changes to handling characteristics, performance improvements, and a near-full refactor of the sound environment using new recording equipment, new processes, and even collaborating with their coding team to build even more fidelity to the airplaneâs relatively rich sound environment. â The company is excited to be testing the 777 lineup in MSFS 2024 finally (and soon the DC-6, or so they hint), but there is still no release date in mind until they know for sure itâs ready. â PMDGâs product lineup is available on their official website, with prices ranging from $34.99 to $74.99 If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pdxv2o</id>
     <title>iBlueYonder Releases Portland International Airport V2 for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f30b0e7e45b39b5eaa9034_power1.webp"/>
     <summary>Sim: FS24. Orbx has recently released a realistic pack of Power Lines for Microsoft Flight Simulator 2020 and 2024. The pack replaces the generic power tower models in the simulator with highly detailed, handcrafted 3D models, aiding VFR navigation and low-level flying. The package features 19 unique tower types for realistic regional variation, with an extended draw distance for improved visibility, performance-friendly optimization (no performance impact), and the promise of ongoing updates with additional towers and refinements. Furthermore, it comes with a management tool for adjusting specific settings, such as wire omission in certain cases.Â  Microsoft Flight Simulatorâs data set still controls their placement and orientation, as placing them manually would require over 100 GB of additional data and significantly impact the overall performance.Â  The add-on is available on OrbxDirect for roughly $8.38, requiring at least 103.38 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-04-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aeedlw</id>
+    <title>Aerosoft Releases Dortmund Airport for MSFS 20/24</title>
+    <updated>2025-04-08T00:00:00+00:00</updated>
+    <link href="/news/aeedlw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f4e4183593a99a5d0b7617_Banner_Image.webp"/>
+    <summary>Sim: FS24. Aerosoft has recently released its rendition of Dortmund Airport (EDLW) for Microsoft Flight Simulator 2020 and 2024. Located only 6.2 miles east of Dortmund, this international airport serves over 3 million passengers each year. The airport began its first commercial flights in 1925, and service continued to expand until the Second World War, during which it served as a German airbase. After the war, commercial service to the airport was not reinstated until 1979. Construction of a new terminal started in 1998 and was completed in 2000. Since then, the airport has experienced rapid growth in traffic. Today, airlines such as Condor, Eurowings, Wizz Air, and many others provide a variety of year-round and seasonal destinations, resulting in over 3 million passengers traveling through the airport each year. The scenery includes various features such as terminal interiors, animated passengers, custom jetways, functional VDGS, a custom GSX profile, and much more. The newly released rendition of Dortmund Airport is now available from Aerosoft for approximately $13.75. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-08T00:00:00+00:00</published>
   </entry>
 </feed>
