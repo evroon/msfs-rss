@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-09T18:33:28.646046+00:00</updated>
+  <updated>2025-04-10T18:30:14.912499+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pdxv2o</id>
-    <title>iBlueYonder Releases Portland International Airport V2 for MSFS 2020</title>
-    <updated>2025-03-21T00:00:00+00:00</updated>
-    <link href="/news/pdxv2o"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ddde94c2dcf4adcd6c94eb_pdx1.webp"/>
-    <summary>Sim: MSFS20. iBlueYonder has recently released their upgraded rendition of Portland International Airport (KPDX) for Microsoft Flight Simulator 2020, bringing its ground layout and overall infrastructure up to 2025 standards. The airport opened in 1936, replacing Portlandâs Swan Island Municipal Airport, which was deemed too small and impossible to expand due to space constraints. The new project had a much larger area to work with and generated a greatly needed number of jobs, helping many families during the Great Depression.Â  Employing over 1000 workers, the airportâs construction was said to be one of Portlandâs most significant public works improvements during the New Deal era. It was not without its challenges, though: the airportâs low-lying area was highly susceptible to flooding due to its proximity to the Columbia River, which led to the workers having to cover the area with over 4 million cubic yards of sand to help drain the water, along with a series of dikes to keep flooding at bay. By 1941, two runways capable of handling larger commercial aircraft were ready, and it temporarily served as a military airfield for the United States Army Air Forces during World War II. A new terminal opened in 1959, still serving as the present facility, albeit heavily upgraded.Â  The terminal was first renovated in the 1980s, ensuring Portland was ready for future needs. Ticketing and baggage claim areas were expanded and renovated, and a new concourse was added in 1986. A full reconstruction of Concourse E in 1992 and the opening of Concourse D in 1994 followed. New concourses (A, B, and C) were inaugurated a day before 9/11, giving its present H-shape. Further terminal expansion was only carried out in the early 2020s (part of it was absent from iBlueYonderâs first rendition). Part of the new expansion work is still ongoing and scheduled to launch in late 2025, but the developer has already brought it to the virtual realm of Microsoft Flight Simulator 2020. Itâs a hub for Alaska Airlines and served by Air Canada Express, Allegiant Air, American Airlines, American Eagle, British Airways, Condor, Delta Air Lines, Frontier Airlines, Hawaiian Airlines, Icelandair, JetBlue, KLM, Southwest Airlines, Spirit Airlines, Sun Country Airlines, United Airlines, United Express, Volaris, and WestJet Encore. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, a highly detailed terminal building with full interiors, custom jetways, many new buildings and garages, custom ground service equipment, and a custom GSX Pro profile. Itâs available on Contrail for roughly $19.96, requiring at least 3.67 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inilgw</id>
-    <title>iniBuilds Announces London Gatwick Airport for MSFS 2024</title>
-    <updated>2025-03-21T00:00:00+00:00</updated>
-    <link href="/news/inilgw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67dde76ffe85203834ea32a1_lgw.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently announced the development of London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024. The airport serves the Greater London Urban Area and has a yearly average of 40.9 million passengers, making it the second busiest airport in London and the eighth busiest in Europe. â The airport was built in the mid-1950s on top of a preexisting military facility (RAF Gatwick), and its buildings were designed by Yorke Rosenberg Mardall.Â  â On the other hand, RAF Gatwick took over an aerodrome from the 1920s, which had been operating commercially since the 1930s after authorization from the Air Ministry. Its first terminal, the Beehive, was inaugurated in 1935.Â  â The 1990s saw huge upgrades to the airport due to British Airwaysâ decision to build Gatwick as their secondary hub upon acquiring Dan Air, which led to their significant dominance at the turn of the millennium. â Shortly after that, though, British Airways decided to de-hub the airport, which led to the growth of a popular low-cost carrier, easyJet. â Itâs a British Airways hub and an operating base for BA Euro Flyer, easyJet UK, Norse Atlantic UK, TUI Airways, Vueling, and Wizz Air UK. Aegean Airlines, Air China, Air Europa, Air India, Air Transat, airBaltic, Atlantic Airways, China Eastern Airlines, China Southern Airlines, Corendon, Croatia Airlines, Delta Air Lines, Eastern Airways, Emirates, Ethiopian, Freebird Airlines, Gulf Air, Iberia Express, Icelandair, ITA, JetBlue, Kenya Airways, Norwegian Air Shuttle, Nouvelair, Qatar Airways, Royal Air Maroc, Ryanair, Saudia, Singapore Airlines, SunExpress, Swiss, TAP Air Portugal, TUI Airways, Turkish Airlines, Volotea, Vueling, and WestJet also serve it. â Thereâs no information on pricing or release date yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/350105</id>
     <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f4e4183593a99a5d0b7617_Banner_Image.webp"/>
     <summary>Sim: FS24. Aerosoft has recently released its rendition of Dortmund Airport (EDLW) for Microsoft Flight Simulator 2020 and 2024. Located only 6.2 miles east of Dortmund, this international airport serves over 3 million passengers each year. The airport began its first commercial flights in 1925, and service continued to expand until the Second World War, during which it served as a German airbase. After the war, commercial service to the airport was not reinstated until 1979. Construction of a new terminal started in 1998 and was completed in 2000. Since then, the airport has experienced rapid growth in traffic. Today, airlines such as Condor, Eurowings, Wizz Air, and many others provide a variety of year-round and seasonal destinations, resulting in over 3 million passengers traveling through the airport each year. The scenery includes various features such as terminal interiors, animated passengers, custom jetways, functional VDGS, a custom GSX profile, and much more. The newly released rendition of Dortmund Airport is now available from Aerosoft for approximately $13.75. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aeeddl</id>
+    <title>Aerosoft Releases DÃ¼sseldorf Airport for MSFS 2024</title>
+    <updated>2025-04-10T00:00:00+00:00</updated>
+    <link href="/news/aeeddl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f79a478fc41918dd7ee9bc_Banner_Image.webp"/>
+    <summary>Sim: FS24. Aerosoft has just released its latest scenery: DÃ¼sseldorf Airport (EDDL) for Microsoft Flight Simulator 2024. As the fourth busiest airport in Germany, it welcomes over 19 million passengers each year, thanks to more than 150,000 annual aircraft movements. The airport opened in 1927 and welcomed its first international flights two years later, in 1929. As World War II approached, the airport ceased operations for civil aviation in 1939. However, it reopened for civilian use in 1948. From 1969 to 1986, the airport underwent significant developments, including a runway extension and the addition of three new terminals, reflecting the rapid increase in air traffic. In subsequent years, the airport has continued to expand and improve, with the construction of a new parking garage, railway station, and more. Today, it serves as a base for airlines such as Condor, Corendon Airlines, Eurowings, SunExpress, and TUI fly Deutschland, among others, offering numerous destinations around the globe. The scenery features a detailed recreation of DÃ¼sseldorf Airport, including accurate airport buildings and facilities, an updated airport layout, custom terrain elevation mesh, custom aerial imagery, custom jetway models, and more. The newly released version of DÃ¼sseldorf Airport is now available from Aerosoft for approximately $18.53. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pfs600</id>
+    <title>Propair Flight Releases Shark 600 for MSFS 20/24</title>
+    <updated>2025-04-10T00:00:00+00:00</updated>
+    <link href="/news/pfs600"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f7a44f8ae921fb2be68cb1_Banner_Image.webp"/>
+    <summary>Sim: FS24. Propair Flight has released its Shark 600 add-on for Microsoft Flight Simulator 2020 and 2024. The ultralight aircraft, produced by Shark.Aero, is now available for flight simulation enthusiasts in the virtual sky. The Shark 600 is a two-seat aircraft manufactured by Shark.Aero. As a lightweight aircraft, it is designed for efficiency, high speed, and comfort. The Shark 600 also incorporates modern technology, ensuring it meets the latest standards in aviation. The add-on includes a 3D model based on the real aircraft, detailed textures, animations, a custom Dynon SkyView HDX avionics suite, a custom flap system, and more. The new Shark 600 from Propair Flight is now available on the Propair Flight website for $5.53. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-10T00:00:00+00:00</published>
   </entry>
 </feed>
