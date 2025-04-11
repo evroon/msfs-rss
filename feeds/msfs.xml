@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-04-10T18:30:10.693838+00:00</updated>
+  <updated>2025-04-11T18:32:59.819240+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,6 +34,60 @@
     <published>2025-03-28T16:16:23+00:00</published>
   </entry>
   <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
+    <updated>2025-03-25T14:51:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
+    <published>2025-03-25T14:51:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/join-the-sim-update-2-beta-test/</id>
+    <title>Join the Sim Update 2 Beta Test</title>
+    <updated>2025-03-25T17:11:54+00:00</updated>
+    <link href="https://www.flightsimulator.com/join-the-sim-update-2-beta-test/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
+    <summary>Are you interested in joining the Microsoft Flight Simulator 2024 Sim Update 2 public beta test? The Sim Update 02 Beta is now available on Steam, Windows PC, and Xbox.</summary>
+    <published>2025-03-25T17:11:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-27th-2025-development-update/</id>
+    <title>March 27th, 2025 Development Update</title>
+    <updated>2025-03-27T23:01:03+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-27th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/JohnnyT5000-Forums-1024x400.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Two days ago, we began the public beta test for Sim Update 2, the next major update to Microsoft Flight Simulator 2024. This is one of — if not the — … Continued</summary>
+    <published>2025-03-27T23:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
+    <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
+    <updated>2025-03-28T16:16:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/IMG_5780-copy-1024x576.png"/>
+    <summary>Our April Creator Highlight focuses on Meagan S. Hobson, founder of Women Rocks Wings; a media and lifestyle brand dedicated to celebrating and amplifying the voices of women in aviation and related communities. We had the opportunity to interview Meagan to find out more about her career, and her connection to Microsoft Flight Simulator!</summary>
+    <published>2025-03-28T16:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-3rd-2025-development-update/</id>
+    <title>April 3rd, 2025 Development Update</title>
+    <updated>2025-04-03T22:41:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-3rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/@CpuGeta486-Twitter-1024x543.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user @CpuGeta486! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Beta testing for Sim Update 2 continues! Since last week’s Development Update blog post, we have released two additional pre-release test builds to volunteer testers. You can read … Continued</summary>
+    <published>2025-04-03T22:41:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-10th-2025-development-update/</id>
+    <title>April 10th, 2025 Development Update</title>
+    <updated>2025-04-10T23:37:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-10th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/JohnStarp-Forums-1024x576.jpeg"/>
+    <summary>Beta testing for Sim Update 2 continues! Earlier this week, we released another pre-release test build, 1.4.11.0, which includes improvements to performance and stability on both PC and Xbox platforms plus some other bug fixes.</summary>
+    <published>2025-04-10T23:37:37+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
     <title>March 20, 2025 Development Update</title>
     <updated>2025-03-20T23:45:30+00:00</updated>
@@ -41,6 +95,51 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
     <published>2025-03-20T23:45:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
+    <updated>2025-03-25T14:51:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
+    <published>2025-03-25T14:51:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/march-27th-2025-development-update/</id>
+    <title>March 27th, 2025 Development Update</title>
+    <updated>2025-03-27T23:01:03+00:00</updated>
+    <link href="https://www.flightsimulator.com/march-27th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/JohnnyT5000-Forums-1024x400.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Two days ago, we began the public beta test for Sim Update 2, the next major update to Microsoft Flight Simulator 2024. This is one of — if not the — … Continued</summary>
+    <published>2025-03-27T23:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
+    <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
+    <updated>2025-03-28T16:16:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/IMG_5780-copy-1024x576.png"/>
+    <summary>Our April Creator Highlight focuses on Meagan S. Hobson, founder of Women Rocks Wings; a media and lifestyle brand dedicated to celebrating and amplifying the voices of women in aviation and related communities. We had the opportunity to interview Meagan to find out more about her career, and her connection to Microsoft Flight Simulator!</summary>
+    <published>2025-03-28T16:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-3rd-2025-development-update/</id>
+    <title>April 3rd, 2025 Development Update</title>
+    <updated>2025-04-03T22:41:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-3rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/@CpuGeta486-Twitter-1024x543.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user @CpuGeta486! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Beta testing for Sim Update 2 continues! Since last week’s Development Update blog post, we have released two additional pre-release test builds to volunteer testers. You can read … Continued</summary>
+    <published>2025-04-03T22:41:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-10th-2025-development-update/</id>
+    <title>April 10th, 2025 Development Update</title>
+    <updated>2025-04-10T23:37:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-10th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/JohnStarp-Forums-1024x576.jpeg"/>
+    <summary>Beta testing for Sim Update 2 continues! Earlier this week, we released another pre-release test build, 1.4.11.0, which includes improvements to performance and stability on both PC and Xbox platforms plus some other bug fixes.</summary>
+    <published>2025-04-10T23:37:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-11/</id>
@@ -88,111 +187,12 @@
     <published>2025-04-03T22:41:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/msfs-embraer-collab/</id>
-    <title>Microsoft Flight Simulator and Embraer Announce Strategic Collaboration</title>
-    <updated>2025-03-14T12:57:13+00:00</updated>
-    <link href="https://www.flightsimulator.com/msfs-embraer-collab/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/Image-1-1024x541.jpg"/>
-    <summary>Microsoft Flight Simulator announces the Praetor 600 and enters a long-term strategic collaboration with Embraer</summary>
-    <published>2025-03-14T12:57:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
-    <title>March 20, 2025 Development Update</title>
-    <updated>2025-03-20T23:45:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-20-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
-    <published>2025-03-20T23:45:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
-    <updated>2025-03-25T14:51:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
-    <published>2025-03-25T14:51:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-27th-2025-development-update/</id>
-    <title>March 27th, 2025 Development Update</title>
-    <updated>2025-03-27T23:01:03+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-27th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/JohnnyT5000-Forums-1024x400.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Two days ago, we began the public beta test for Sim Update 2, the next major update to Microsoft Flight Simulator 2024. This is one of — if not the — … Continued</summary>
-    <published>2025-03-27T23:01:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
-    <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
-    <updated>2025-03-28T16:16:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/IMG_5780-copy-1024x576.png"/>
-    <summary>Our April Creator Highlight focuses on Meagan S. Hobson, founder of Women Rocks Wings; a media and lifestyle brand dedicated to celebrating and amplifying the voices of women in aviation and related communities. We had the opportunity to interview Meagan to find out more about her career, and her connection to Microsoft Flight Simulator!</summary>
-    <published>2025-03-28T16:16:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-3rd-2025-development-update/</id>
-    <title>April 3rd, 2025 Development Update</title>
-    <updated>2025-04-03T22:41:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-3rd-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/@CpuGeta486-Twitter-1024x543.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @CpuGeta486! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Beta testing for Sim Update 2 continues! Since last week’s Development Update blog post, we have released two additional pre-release test builds to volunteer testers. You can read … Continued</summary>
-    <published>2025-04-03T22:41:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
-    <title>March 20, 2025 Development Update</title>
-    <updated>2025-03-20T23:45:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-20-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
-    <published>2025-03-20T23:45:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
-    <updated>2025-03-25T14:51:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
-    <published>2025-03-25T14:51:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/join-the-sim-update-2-beta-test/</id>
-    <title>Join the Sim Update 2 Beta Test</title>
-    <updated>2025-03-25T17:11:54+00:00</updated>
-    <link href="https://www.flightsimulator.com/join-the-sim-update-2-beta-test/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/01/Release_Notes_Feature-1024x576.png"/>
-    <summary>Are you interested in joining the Microsoft Flight Simulator 2024 Sim Update 2 public beta test? The Sim Update 02 Beta is now available on Steam, Windows PC, and Xbox.</summary>
-    <published>2025-03-25T17:11:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/march-27th-2025-development-update/</id>
-    <title>March 27th, 2025 Development Update</title>
-    <updated>2025-03-27T23:01:03+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-27th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/JohnnyT5000-Forums-1024x400.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Two days ago, we began the public beta test for Sim Update 2, the next major update to Microsoft Flight Simulator 2024. This is one of — if not the — … Continued</summary>
-    <published>2025-03-27T23:01:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
-    <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
-    <updated>2025-03-28T16:16:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/IMG_5780-copy-1024x576.png"/>
-    <summary>Our April Creator Highlight focuses on Meagan S. Hobson, founder of Women Rocks Wings; a media and lifestyle brand dedicated to celebrating and amplifying the voices of women in aviation and related communities. We had the opportunity to interview Meagan to find out more about her career, and her connection to Microsoft Flight Simulator!</summary>
-    <published>2025-03-28T16:16:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-3rd-2025-development-update/</id>
-    <title>April 3rd, 2025 Development Update</title>
-    <updated>2025-04-03T22:41:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-3rd-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/@CpuGeta486-Twitter-1024x543.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @CpuGeta486! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Beta testing for Sim Update 2 continues! Since last week’s Development Update blog post, we have released two additional pre-release test builds to volunteer testers. You can read … Continued</summary>
-    <published>2025-04-03T22:41:29+00:00</published>
+    <id>https://www.flightsimulator.com/april-10th-2025-development-update/</id>
+    <title>April 10th, 2025 Development Update</title>
+    <updated>2025-04-10T23:37:37+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-10th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/JohnStarp-Forums-1024x576.jpeg"/>
+    <summary>Beta testing for Sim Update 2 continues! Earlier this week, we released another pre-release test build, 1.4.11.0, which includes improvements to performance and stability on both PC and Xbox platforms plus some other bug fixes.</summary>
+    <published>2025-04-10T23:37:37+00:00</published>
   </entry>
 </feed>
