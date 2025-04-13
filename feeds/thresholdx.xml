@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-12T18:29:51.893514+00:00</updated>
+  <updated>2025-04-13T18:30:20.726123+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/m80324</id>
-    <title>Rotate Updates MD-80 Pro for X-Plane 12</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <link href="/news/m80324"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67e1cec6612a8f7902706a25_amd1.webp"/>
-    <summary>Sim: X-Plane. Rotate recently issued an update to their MD-80 Pro for X-Plane 12, adding new features, a tuned performance model and predictions to match X-Plane 12âs latest flight model adjustments, and many bug fixes. Update 1.51 also brings Apple Silicon support, an autoland mode, and more. The changelog follows below:Â  â - Added AUTO LAND mode to autopilot. - Added AUTO LAND test. - Added AUTO G/A mode and annunciators. - Added MAP mode with terrain display to the WX instrument. - Added compatibility with Apple Silicon architecture. - Added PUSH position for altitude control in FGCP. - Added compatibility of lights for NewSky and other third party addons. - Added compatibility with improved X-Plane de-icing system. - Improved outflow valve wheel behavior. - Improved autobrake friction to match landing distances. - Improved brake temperatures logic. - Tuned engine performance and fuel burn. - Tuned aerodynamics. - Tuned localizer guidance. - Improved FMC performance predictions. - Fixed CTD when xPilot or other addons write to multiplayer plane's datarefs. - Fixed RTO triggered with aircraft stopped. - Fixed transmission for MIC selection in Audio Control Panel. - Fixed vertical speed control wheel actuator in VR. - Fine tuned some sounds. - Fixed pressurization loss when descending in idle. - Fixed a bug in vertical deviation indication. - Fixed a bug in VVI display. - Fixed autopilot mode transition from FMS-EPR to EPR-LIM. - Fixed geometry in IRS annunciator. - Added commands to control lights. - Fixed minor bug in OpenAL initialization. - Fixed a memory leak in VR when floating windows are resized. - Fixed a bug in navaids processing during initialization. â The add-on is available on X-Plane.Org for $59.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/acrjd</id>
-    <title>Aerosoft CRJ v2 Release Delayed by a Week</title>
-    <updated>2025-03-25T00:00:00+00:00</updated>
-    <link href="/news/acrjd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67dc39b062c86ebb2893ef2a_axky3iklicjt5fyrt05l.webp"/>
-    <summary>Sim: FS24. Aerosoft CRJ owners awaiting the launch of the CRJ v2 will have to wait a little bit longer than first anticipated, as the release has been delayed by one week. Nearly four years after its initial release, the CRJ is receiving a free v2 update, set to feature a remodelled cabin and an improved flight model. However, Aerosoft has decided to push back the update by one week to ensure the best possible experience for users at launch. Originally scheduled for March 25th, the update is now set to launch on April 1st â Benjamin from Aerosoft shared an official statement earlier today: â âWe would like to inform you that the CRJ v2 update has been delayed by one week. The new release date is April 1st. This is to ensure the best possible quality and that the update ships with as few issues as possible, including some you may have seen in the preview streams/videos this weekend. We know you all have been waiting for a long time for this update, but we would rather release a few days later than publish the update in an incomplete state. Thank you for your patience and understanding!â Stay updated with Threshold for the latest news, reviews, and more. â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
-    <published>2025-03-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ufkasc</id>
     <title>UFK Announces Airbus Steering Console</title>
@@ -150,6 +132,24 @@
     <link href="/news/pmdoc3"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
     <summary>Sim: MSFS20. PMDG recently unveiled its new Operations Center 3.0, a complete overhaul of their product management application, which has been roughly the same since 2017. The new application features a fresh design, additional diagnostic tools, in-software add-on installation, streamlined livery handling, and much more. The rollout from OC2 to OC3 will be gradual, with the 777F being the first product to transition to the new suite. People who might be interested in checking the new Operations Center are instructed to uninstall their 777F, download OC3 from here, install it, enter their PMDG credentials, and then install the 777F from there. The 777-300ER will follow shortly (within the next few days), and once it is available, the procedure is expected to be the same as the one listed above. â PMDG will also provide full documentation on operating the new Operations Center, which is said to be available âin time for the weekend.â â As they move their entire product line to OC3, installers will no longer be available once the rollout is complete, as they want people managing their product line straight from OC3. â They also hint at making a new 777 available soon, with âmore news on that on the next update.â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsesae</id>
+    <title>FlightSimExpo 2025 Schedule and Addon Experiences Announced</title>
+    <updated>2025-04-12T00:00:00+00:00</updated>
+    <link href="/news/fsesae"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67faceea35be38addd774d5d_Banner_Image.webp"/>
+    <summary>Sim: OTHER. The schedule for the upcoming FlightSimExpo 2025 has been announced, along with various addon experiences that will soon be available for booking. New information about the three-day event has just been revealed. A seminar schedule has been shared, outlining what to expect on each day of the event. On Friday, attendees can look forward to a range of product reveals, announcements, and updates covering various software and hardware developments. Saturday and Sunday will feature exhibits, seminars, and workshops. The schedule for the Community Stage is available now available online, while the schedules for the FSElite Stage and the SayIntensions.AI Stage will be announced closer to the event. In addition, several different addon experiences have been announced. These activities are available alongside the main event and include options such as tours at the local airport, workshops, and more. Registration for these experiences will open on April 19th at 12 PM ET. You can find more information about the various experiences here. As we look forward to all that the FlightSimExpo 2025 has to offer, more information about the event is available on the official website.Â  â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pd2024</id>
+    <title>PMDG Shares Development Update for MSFS 20/24</title>
+    <updated>2025-04-12T00:00:00+00:00</updated>
+    <link href="/news/pd2024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fad7245aa3ed1bc5dbd717_Banner_Image.webp"/>
+    <summary>Sim: FS24. PMDG has recently released another development update regarding nearly all of its products for Microsoft Flight Simulator 2020 and 2024. Key highlights from the update include the announcement of a release window for the upcoming PMDG 777-200ER for both MSFS 2020 and 2024, as well as a rollout sequence for the product line tailored for MSFS 2024. The development team has announced that the 777-200ER will be released simultaneously for both Microsoft Flight Simulator 2020 and 2024, with the launch expected between April 16th and April 29th. The add-on will feature different engine types, including the GE90-92 and the Rolls Royce Trent 892. Additionally, it will include a new generation of sound packages. There will be only one package available, which will include versions for both simulators. With the release of the first PMDG product for Microsoft Flight Simulator 2024 approaching, the team has announced a rollout schedule for their product lineup. The expected release dates are as follows:Â  â - The 777-200ER is anticipated between April 16th and April 29th. - The DC-6 is scheduled for early May. - The 777F and 777-300ER are expected to be released between mid and late May. - The 777-200LR will be available from late May to early June. - The 737NGs do not yet have an estimated arrival time, as their conversion to 2024 has not yet begun. The team has announced that the 747 product lines will only be developed for Microsoft Flight Simulator 2024, and not for 2020. Additionally, the PMDG Operations Center 3 has been expanded to include the 777F and 777-300ER. The DC-6 and all 737NG variants will be added very soon. Once these aircraft are added to OC3, they will be removed from OC2. We will inform you if we receive any further details about upcoming updates and releases. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-04-12T00:00:00+00:00</published>
   </entry>
 </feed>
