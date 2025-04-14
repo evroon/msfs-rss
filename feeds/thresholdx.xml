@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-13T18:30:20.726123+00:00</updated>
+  <updated>2025-04-14T18:33:27.587899+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ufkasc</id>
-    <title>UFK Announces Airbus Steering Console</title>
-    <updated>2025-03-27T00:00:00+00:00</updated>
-    <link href="/news/ufkasc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67e59ffe599fef467f7f3067_3.webp"/>
-    <summary>Sim: OTHER. Universal Flight Kit, one of the new players in the world of flight sim hardware producers, has just announced their first product - the Airbus Steering Console. As the name suggests, the console is a 1:1 replica of the A320 steering console, with a 12-bit plug-and-play steering tiller with a metal base, 5V console/floor light, and attachment templates for various sidesticks (some of them being VKB, VIRPIL, Thrustmaster). As mentioned earlier, the console features an aluminum steering tiller, along with a functional PEDAL DISC button with a metal base, realistic amber built-in backlit panel (BIBL - one of their upcoming products), aluminum trash tray with a lid, and comes with screws, hardware and instruction manual. The console is made out of an MDF frame and has realistic vent grills. UKFâs newest product can be bough from their website for $299.95 during the pre-order period, and $399.99 as a standard price.The shipment begins on 2nd April, and it is also possible to order the F/O side version. It is compatible with all FS20 and FS24 aircrafts (including the most popular ones coming from developers like Fenix, PMDG, iniBuilds, Aerosoft, FBW, FSLabs, ProSim etc.), and with X-Plane 12 and ToLiss products.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fx320n</id>
-    <title>Fenix Announces A320NEO family for Microsoft Flight Simulator</title>
-    <updated>2025-03-28T00:00:00+00:00</updated>
-    <link href="/news/fx320n"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67e6e1610162be660eaedf2e_neo-leap-hero.webp"/>
-    <summary>Sim: FS24. Fenix has just posted its 2025 roadmap, detailing planned updates for the current A320 CEO family, compatibility improvements for MSFS 2024, and a new NEO variant. A320 and A321 NEO Announcement The major highlight of the roadmap is the announcement of an all-new A320 and A321 NEO. After extensive research and development, Fenix has created a completely new âNEOâ standard ECAM system from the ground up, which is independent of ProSim. This advancement allows for even deeper system modeling. This is not merely an updated A320 CEO with new engines; it is a fully developed A320 NEO simulation. According to Fenix, the entire aircraft has been rewired, encompassing every sensor and generator. They have also developed a fully functional DRAIMS panel, although visuals are not yet available for display. Both the CFM LEAP engine and the Pratt and Whitney Geared Turbofan will be fully represented in the simulation. Additionally, the Fenix A320 NEO will be a standalone product, meaning that prior ownership of the A320 CEO family is not a requirement. Upcoming Big Fenix Update Fenix has announced that a major update for the A320 CEO family will be released in a couple of weeks. This update will include the addition of A139 sharklets, the implementation of the Weather Radar, and new landing dynamics that enhance flare and ground effect behavior. Several upgrades to the Electronic Flight Bag (EFB) will also be introduced, such as support for Lido charts and a improvedV-Speeds calculations. Additionally, there will be audio improvements, including a new 3D AEVC soundscape for the flight deck and a redesigned IAAE V2500 soundset. Fenix says they will provide a full changelog shortly. â For more details on the Fenix A320 NEO and A321 NEO, along with the upcoming big Fenix update, refer to Fenixâs website. â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
-    <published>2025-03-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/305106</id>
     <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fad7245aa3ed1bc5dbd717_Banner_Image.webp"/>
     <summary>Sim: FS24. PMDG has recently released another development update regarding nearly all of its products for Microsoft Flight Simulator 2020 and 2024. Key highlights from the update include the announcement of a release window for the upcoming PMDG 777-200ER for both MSFS 2020 and 2024, as well as a rollout sequence for the product line tailored for MSFS 2024. The development team has announced that the 777-200ER will be released simultaneously for both Microsoft Flight Simulator 2020 and 2024, with the launch expected between April 16th and April 29th. The add-on will feature different engine types, including the GE90-92 and the Rolls Royce Trent 892. Additionally, it will include a new generation of sound packages. There will be only one package available, which will include versions for both simulators. With the release of the first PMDG product for Microsoft Flight Simulator 2024 approaching, the team has announced a rollout schedule for their product lineup. The expected release dates are as follows:Â  â - The 777-200ER is anticipated between April 16th and April 29th. - The DC-6 is scheduled for early May. - The 777F and 777-300ER are expected to be released between mid and late May. - The 777-200LR will be available from late May to early June. - The 737NGs do not yet have an estimated arrival time, as their conversion to 2024 has not yet begun. The team has announced that the 747 product lines will only be developed for Microsoft Flight Simulator 2024, and not for 2020. Additionally, the PMDG Operations Center 3 has been expanded to include the 777F and 777-300ER. The DC-6 and all 737NG variants will be added very soon. Once these aircraft are added to OC3, they will be removed from OC2. We will inform you if we receive any further details about upcoming updates and releases. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/scpg36</id>
+    <title>SimCoders and PAE Releases Beechcraft Bonanza G36 for X-Plane 12</title>
+    <updated>2025-04-13T00:00:00+00:00</updated>
+    <link href="/news/scpg36"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fc10d25955f6f85c05d172_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. SimCoders and PAE have recently collaborated to release the Beechcraft Bonanza G36 for X-Plane 12. This general aviation aircraft, renowned for its reliability and performance, has been meticulously recreated for the simulator with study-level detail. The Beechcraft Bonanza has a rich history. Manufactured by the US company Beechcraft, the first variant, the Model 35 Bonanza, was introduced in 1947 and produced until 1982. This model featured a distinctive v-tail design. In 1960, the Model 33 Debonair/Bonanza was introduced. It featured a conventional tail and remained in production until 1995. The latest variant is the Model 36 Bonanza, which was introduced in 1968 and is still in production today. The Model 36 is an extended version of the Model 33 Debonair/Bonanza. As of 2024, a total of 18,546 Beechcraft Bonanzas have been built. This general aviation aircraft is popular worldwide and can be found in many locations across the globe. The aircraft is equipped with a variety of features, including a fully simulated IO-550 engine, a custom fuel system, a custom G1000, realistic 3D modelling, REP features, and much more. The newly released aircraft is now available for purchase at the X-Plane.Org Software Store for $45.00. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ftat17</id>
+    <title>FlyTampa Updates Athens International Airport to Version 1.7</title>
+    <updated>2025-04-14T00:00:00+00:00</updated>
+    <link href="/news/ftat17"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fd40640c76383ff4a99a23_Banner_Image.webp"/>
+    <summary>Sim: FS24. FlyTampa has recently updated its Athens International Airport (LGAV) to version 1.7. This new version includes a range of fixes, improvements, and additional features. The most notable update is the compatibility with Microsoft Flight Simulator 2024, in addition to maintaining compatibility with Microsoft Flight Simulator 2020. The scenery has undergone various enhancements as part of these updates. Some new features included in the update are improved terraforming, an extended solar farm, a newly added general aviation ramp, enhanced compatibility with MSFS 2024, and much more. See the full changelog below: â Version 1.7: The updated version of Athens International Airport is now available, and can be purchased from FlyTampa for $17.99. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-14T00:00:00+00:00</published>
   </entry>
 </feed>
