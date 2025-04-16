@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-15T19:11:54.981598+00:00</updated>
+  <updated>2025-04-16T18:33:53.608969+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/stsbov</id>
-    <title>ST Simulations Releases Bovec Airport for MSFS 2024</title>
-    <updated>2025-03-31T00:00:00+00:00</updated>
-    <link href="/news/stsbov"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67eb0d3ca829f44b5b577767_bovec1.webp"/>
-    <summary>Sim: FS24. ST Simulations recently released their rendition of Bovec Airport (LJBO) for Microsoft Flight Simulator 2024, which serves the municipality of Tolmin in Slovenia. Built in 1962, Bovec is an important airfield in the country. It is located in the Slovenian Julian Alps at an elevation of nearly 1450 feet, which makes it perfect for parachuting events (which are held yearly) and general aviation. Its single 900x40-meter asphalt runway and slightly high elevation make it a great challenge regardless of the size of the airplane. The scenery features an accurate rendition of the airport, with custom 3D models and an up-to-date ground layout. It also offers performance-friendly optimization with MSFS 2024âs new LOD system, a custom hangar with an interior, landside buildings, custom objects, and more. Itâs available on SimMarket for roughly $10.79, requiring at least 349.29 MB of free hard disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/crj041</id>
-    <title>Aerosoft Releases CRJ V2 for MSFS 2020/2024</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <link href="/news/crj041"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ec63171d5d53f777a4e4e1_crj1.webp"/>
-    <summary>Sim: FS24. Aerosoft has recently issued a major update to their CRJ 550/700/900/1000 for Microsoft Flight Simulator 2020 and 2024, bringing a list of improvements, compatibility with MSFS 2024, and much more. Version 2 features a fully remodeled cabin (on a per-variant basis), a revised flight model based on the simulatorâs new aerodynamics, full Navigraph charts implementation, partial GSX integration, weather radar, a landing distance calculator, extensive customization options for knob acceleration, sounds, autopilot configuration, throttle calibration, etc. The full changelog follows below: The update is free for V1 owners, and new customers can acquire it directly from the Aerosoft Shop for roughly $50.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vol111</id>
     <title>Orbx Releases Volanta Tracking Update</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fd635b4d099c2c8d076380_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Scenery Developer X-Codr Designs has recently updated its Denver International Airport (KDEN) scenery for X-Plane 12, bringing it to version V2.2. This update includes performance improvements that enhance efficiency by an average of 37%. Additionally, the update introduces various enhancements, new features, and fixes to improve the overall experience. Among the added features, we find higher resolution pavement, an updated gate layout, improvements to terminal exterior models, new details in terminal interiors, and much more. See the full changelog below: â Version V2.2: The newly updated rendition of Denver International Airport is now available from the X-Plane.Org Software Store for $29.95. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lvabmt</id>
+    <title>Lata Voadora Releases Campo de Marte Airport for MSFS 2024</title>
+    <updated>2025-04-15T00:00:00+00:00</updated>
+    <link href="/news/lvabmt"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fedd7dd8e78778841c5559_THRESHOLD.webp"/>
+    <summary>Sim: FS24. Lata Voadora has recently released their rendition of Campo de Marte Airport (SBMT) for Microsoft Flight Simulator 2024, the first airport ever to open in Sao Paulo, Brazil.Â  It was founded in 1929 (95 years ago), and its first few years were far from glorious: it was bombarded during the Constitutionalist Revolution of 1932. That did not stop it from having its commercial debut a year later, with scheduled flights to Sao Carlos and Sao Jose do Rio Preto, Ribeirao Preto, and Uberaba. It was Sao Paulo's main airport until the opening of Congonhas Airport in 1936, which was bigger and less flood-prone (Campo de Marte had been flooded in 1929).Â  Nowadays, it mainly handles helicopters and general aviation and still hosts a nearly hundred-year-old flying club.Â  The traffic figures are around 60,000 aircraft operations per year, a massive drop from a decade ago when they reached almost twice that amount. The scenery features an accurate rendition of the airport, with custom ground textures, a high-detail model of the passenger terminal and its interior, custom landclass buildings, custom hangars, and much more. It's available on their website for roughly $7. Due to popular demand, an MSFS 2020-compatible version is in the works and set to be released by the end of the month. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fss72p</id>
+    <title>Release Date Announced for FlightSim Studio Boeing 727 Passenger Version</title>
+    <updated>2025-04-16T00:00:00+00:00</updated>
+    <link href="/news/fss72p"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ffc467cbce30a170ff83b6_Banner_Image.webp"/>
+    <summary>Sim: MSFS20. FlightSim Studio recently made an announcement on its Discord channel, providing a quick update on the forthcoming passenger version of their Boeing 727 add-on for Microsoft Flight Simulator 2020. The developer revealed details regarding the release date, pricing, and more. The highly anticipated passenger version of the 727 is set to be released on April 17th, between 10:00 and 14:00 UTC. The aircraft will first be available at Aerosoft, followed by Contrail shortly after. Other stores will have it available in the next 1 to 2 weeks, and the in-Sim Marketplace is planned to launch in about 2 to 3 months. The price for the passenger version will be the same as the freighter version, set at approximately $45.45. The passenger version will be offered as a standalone add-on and does not require the freighter version. Customers who own the freighter version will receive a 20% crossgrade discount. For those inquiring about compatibility with Microsoft Flight Simulator 2024, the team is actively addressing an issue where the APU fails to start. Once this problem is resolved, a free update will be released to ensure compatibility with the latest simulator. With the official release set for tomorrow, various streamers have already gained access to the aircraft, showcasing it for those interested in a sneak peek. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-16T00:00:00+00:00</published>
   </entry>
 </feed>
