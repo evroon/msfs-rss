@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-04-16T18:33:49.187060+00:00</updated>
+  <updated>2025-04-17T18:32:51.072688+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -88,15 +88,6 @@
     <published>2025-04-10T23:37:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/march-20-2025-development-update/</id>
-    <title>March 20, 2025 Development Update</title>
-    <updated>2025-03-20T23:45:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/march-20-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/@vp_sim-Twitter-1-1024x576.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user @vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.As announced during last Friday’s Developer Livestream, the Sim Update 2 Public Beta Test will begin very shortly! During the broadcast, Martial mentioned that the beta could begin as … Continued</summary>
-    <published>2025-03-20T23:45:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/famous-flyer-11/</id>
     <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
     <updated>2025-03-25T14:51:12+00:00</updated>
@@ -142,13 +133,13 @@
     <published>2025-04-10T23:37:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-11/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 11: The Cessna 185F Skywagon</title>
-    <updated>2025-03-25T14:51:12+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/03/MSFS_C185_NoSnipe_NoLogo_NoText-1024x576.png"/>
-    <summary>One of the most renowned utilitarian workhorses of the aviation world is ready to take flight in Microsoft Flight Simulator and Microsoft Flight Simulator 2024</summary>
-    <published>2025-03-25T14:51:12+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2020-spring-sale/</id>
+    <title>Microsoft Flight Simulator (2020) Spring Sale</title>
+    <updated>2025-04-17T17:13:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2020-spring-sale/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/MSFS_SpringSale2025_v1_1920x1080-1024x576.png"/>
+    <summary>For 14 Days starting on December 20th, save up to 90% on more than 3400 items!</summary>
+    <published>2025-04-17T17:13:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/join-the-sim-update-2-beta-test/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/JohnStarp-Forums-1024x576.jpeg"/>
     <summary>Beta testing for Sim Update 2 continues! Earlier this week, we released another pre-release test build, 1.4.11.0, which includes improvements to performance and stability on both PC and Xbox platforms plus some other bug fixes.</summary>
     <published>2025-04-10T23:37:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2020-spring-sale/</id>
+    <title>Microsoft Flight Simulator (2020) Spring Sale</title>
+    <updated>2025-04-17T17:13:32+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2020-spring-sale/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/MSFS_SpringSale2025_v1_1920x1080-1024x576.png"/>
+    <summary>For 14 Days starting on December 20th, save up to 90% on more than 3400 items!</summary>
+    <published>2025-04-17T17:13:32+00:00</published>
   </entry>
 </feed>
