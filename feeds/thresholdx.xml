@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-21T18:32:29.667706+00:00</updated>
+  <updated>2025-04-22T18:33:20.675362+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pfs600</id>
-    <title>Propair Flight Releases Shark 600 for MSFS 20/24</title>
-    <updated>2025-04-10T00:00:00+00:00</updated>
-    <link href="/news/pfs600"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f7a44f8ae921fb2be68cb1_Banner_Image.webp"/>
-    <summary>Sim: FS24. Propair Flight has released its Shark 600 add-on for Microsoft Flight Simulator 2020 and 2024. The ultralight aircraft, produced by Shark.Aero, is now available for flight simulation enthusiasts in the virtual sky. The Shark 600 is a two-seat aircraft manufactured by Shark.Aero. As a lightweight aircraft, it is designed for efficiency, high speed, and comfort. The Shark 600 also incorporates modern technology, ensuring it meets the latest standards in aviation. The add-on includes a 3D model based on the real aircraft, detailed textures, animations, a custom Dynon SkyView HDX avionics suite, a custom flap system, and more. The new Shark 600 from Propair Flight is now available on the Propair Flight website for $5.53. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/imkdfw</id>
     <title>Imaginesim Releases Dallas Fort Worth International Airport for MSFS 2020</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68046b2c6eaabeb0fbcfcf9e_case1.webp"/>
     <summary>Sim: FS24. SLH Sim Designs has recently released their rendition of Grand Case-EspÃ©rance Airport (TFFG) for Microsoft Flight Simulator 2020 and 2024. This airport serves the collectivity of Saint Martin in the Caribbean and has a yearly average of 192,000 passengers. The airportâs origins date back to the mid-20th century, when it started as a small airstrip catering to small private planes and the occasional charter aircraft. With the flourishing of tourism in the region in the following decades, expansion work was carried out to ensure it could accommodate larger propeller-driven aircraft, facilitating air travel to and from the island. In the 1980s, the islandâs Dutch side handled most of the international traffic, while Grand Case was still a major player regionally, especially between French territories. Many upgrades occurred in the following years, including runway extensions, infrastructure modernization, and more. Eight years ago, it underwent major renovation work, including a modernized terminal building, a fire station upgrade, an extended parking apron, and a new control tower. Air Antilles, Air CaraÃ¯bes, St Barth Commuter, Trans Anguilla Airways, and West Indies Helicopters serve it. The scenery features an accurate rendition of the airport, with 4K texturing, animated ground equipment, custom dynamic lighting, a modeled tower interior, a custom GSX profile, and more. Itâs available on SimMarket for roughly $15.34, requiring at least 767.78 MB of free hard disk space to install. Click here for the MSFS 2024 version. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42421</id>
+    <title>Parallel 42 Releases ChasePlane for MSFS 2020</title>
+    <updated>2025-04-22T00:00:00+00:00</updated>
+    <link href="/news/p42421"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a03568493d826e0a991328_cp1.webp"/>
+    <summary>Sim: MSFS20. After nearly a month of being a Club 42 exclusive for testing and refinement purposes, Parallel 42âs ChasePlane is now available to the public. This brings their advanced physics-based camera system to Microsoft Flight Simulator 2020. For the unfamiliar, ChasePlane was originally released in 2016 for Microsoft Flight Simulator X, later being made compatible with Prepar3d and rapidly becoming the de facto camera application for ESP-based simulators at the time. It would only be natural for them to develop it for Microsoft Flight Simulator 2020 when that came about, but technical limitations have made that impossible until very recently, which is why itâs only a thing now, almost five years after the simulatorâs release.Â  The add-on features highly realistic physics-based camera behavior based on extensive research and real-world pilot footage. This warrants realistic motion that dynamically responds to the environment, embracing the flight model rather than altering it. Pilots can feel the vibration during the take-off roll, the rush of turbulence, and the fluid shifts during maneuvers. â As previously mentioned, a subscription system will no longer be required to store and share your settings in their cloud. Parallel 42 will now offer the service as a courtesy and take the costs upon themselves. â Furthermore, ChasePlane 2020 owners will be entitled to a free upgrade once the Microsoft Flight Simulator 2024 version is available.Â  â The add-on is available in their store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-22T00:00:00+00:00</published>
   </entry>
 </feed>
