@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-23T18:34:58.504312+00:00</updated>
+  <updated>2025-04-24T18:33:16.137749+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/imkdfw</id>
-    <title>Imaginesim Releases Dallas Fort Worth International Airport for MSFS 2020</title>
-    <updated>2025-04-11T00:00:00+00:00</updated>
-    <link href="/news/imkdfw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67f9662923c500293d805c4a_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. Imaginesim has just released its version of Dallas Fort Worth International Airport (KDFW) for Microsoft Flight Simulator 2020. It is the third busiest airport in the world in terms of passenger traffic and aircraft movements. Last year, nearly 88 million passengers travelled through the airport. Planning for the airport began in 1927, but the plans underwent numerous revisions over the years, delaying construction until 1969. After several years of discussions, planning, and construction, the airport finally opened in 1974. At the time of its opening, it was the largest airport in the world by land area. Since then, the airport has experienced significant growth in traffic, and various expansion projects are currently underway or planned for the future. Today, the airport serves a variety of airlines, accommodating nearly 88 million passengers annually through just over 743,000 aircraft movements. The scenery package includes a variety of features, such as highly detailed terminals, high-definition texturing, custom SafeGateâ¢ Visual Docking Guidance, and custom jetways, among many others. A version for Microsoft Flight Simulator 2024 is also in development, and it will be available as a free upgrade for current owners. Additionally, animations for the Skylink train are in progress. The newly released Dallas Fort Worth International Airport for Microsoft Flight Simulator 2020 is now available from Imaginesim for approximately $32.64. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmdoc3</id>
     <title>PMDG Unveils Operations Center 3.0</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a03568493d826e0a991328_cp1.webp"/>
     <summary>Sim: MSFS20. After nearly a month of being a Club 42 exclusive for testing and refinement purposes, Parallel 42âs ChasePlane is now available to the public. This brings their advanced physics-based camera system to Microsoft Flight Simulator 2020. For the unfamiliar, ChasePlane was originally released in 2016 for Microsoft Flight Simulator X, later being made compatible with Prepar3d and rapidly becoming the de facto camera application for ESP-based simulators at the time. It would only be natural for them to develop it for Microsoft Flight Simulator 2020 when that came about, but technical limitations have made that impossible until very recently, which is why itâs only a thing now, almost five years after the simulatorâs release.Â  The add-on features highly realistic physics-based camera behavior based on extensive research and real-world pilot footage. This warrants realistic motion that dynamically responds to the environment, embracing the flight model rather than altering it. Pilots can feel the vibration during the take-off roll, the rush of turbulence, and the fluid shifts during maneuvers. â As previously mentioned, a subscription system will no longer be required to store and share your settings in their cloud. Parallel 42 will now offer the service as a courtesy and take the costs upon themselves. â Furthermore, ChasePlane 2020 owners will be entitled to a free upgrade once the Microsoft Flight Simulator 2024 version is available.Â  â The add-on is available in their store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pdb772</id>
+    <title>PMDG 777-200ER Release Window Updated</title>
+    <updated>2025-04-24T00:00:00+00:00</updated>
+    <link href="/news/pdb772"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680a391a1d741e51793f3f54_Banner_Image.webp"/>
+    <summary>Sim: FS24. PMDG has recently updated the planned release window for the upcoming 777-200ER for Microsoft Flight Simulator 2020 and 2024. Additionally, the team has provided a more specific release window for the compatibility of the 777F and 777-300ER with MSFS 2024. A variety of other information has also been shared in the update. The release window for the PMDG 777-200ER has been updated. The original timeframe was between April 16th and April 29th, but it is now set for April 29th to May 1st, moving the release by just a few days. The team has confirmed that they will provide advance notice the day before the release.Â  â This add-on will include various engine types, such as the GE90-92 and the Rolls Royce Trent 892, along with a new generation of sound packages. At launch, only one package will be available, which will include versions of the add-on for both simulators. Compatibility for Microsoft Flight Simulator 2024 is scheduled for the second half of May for the 777F freighter variant, followed by the 777-300ER variant within 10-14 days after the freighter release. Finally, the team has shared updates on the 2024 compatibility for its DC-6. The overhaul for compatibility is nearing completion, and everything is coming together nicely. However, there are still some minor cosmetic improvements that need to be made. We will let you know if we receive any updates. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-04-24T00:00:00+00:00</published>
   </entry>
 </feed>
