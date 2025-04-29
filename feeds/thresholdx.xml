@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-04-28T18:34:02.871704+00:00</updated>
+  <updated>2025-04-29T18:33:01.964257+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsesae</id>
-    <title>FlightSimExpo 2025 Schedule and Addon Experiences Announced</title>
-    <updated>2025-04-12T00:00:00+00:00</updated>
-    <link href="/news/fsesae"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67faceea35be38addd774d5d_Banner_Image.webp"/>
-    <summary>Sim: OTHER. The schedule for the upcoming FlightSimExpo 2025 has been announced, along with various addon experiences that will soon be available for booking. New information about the three-day event has just been revealed. A seminar schedule has been shared, outlining what to expect on each day of the event. On Friday, attendees can look forward to a range of product reveals, announcements, and updates covering various software and hardware developments. Saturday and Sunday will feature exhibits, seminars, and workshops. The schedule for the Community Stage is available now available online, while the schedules for the FSElite Stage and the SayIntensions.AI Stage will be announced closer to the event. In addition, several different addon experiences have been announced. These activities are available alongside the main event and include options such as tours at the local airport, workshops, and more. Registration for these experiences will open on April 19th at 12 PM ET. You can find more information about the various experiences here. As we look forward to all that the FlightSimExpo 2025 has to offer, more information about the event is available on the official website.Â  â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pd2024</id>
-    <title>PMDG Shares Development Update for MSFS 20/24</title>
-    <updated>2025-04-12T00:00:00+00:00</updated>
-    <link href="/news/pd2024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fad7245aa3ed1bc5dbd717_Banner_Image.webp"/>
-    <summary>Sim: FS24. PMDG has recently released another development update regarding nearly all of its products for Microsoft Flight Simulator 2020 and 2024. Key highlights from the update include the announcement of a release window for the upcoming PMDG 777-200ER for both MSFS 2020 and 2024, as well as a rollout sequence for the product line tailored for MSFS 2024. The development team has announced that the 777-200ER will be released simultaneously for both Microsoft Flight Simulator 2020 and 2024, with the launch expected between April 16th and April 29th. The add-on will feature different engine types, including the GE90-92 and the Rolls Royce Trent 892. Additionally, it will include a new generation of sound packages. There will be only one package available, which will include versions for both simulators. With the release of the first PMDG product for Microsoft Flight Simulator 2024 approaching, the team has announced a rollout schedule for their product lineup. The expected release dates are as follows:Â  â - The 777-200ER is anticipated between April 16th and April 29th. - The DC-6 is scheduled for early May. - The 777F and 777-300ER are expected to be released between mid and late May. - The 777-200LR will be available from late May to early June. - The 737NGs do not yet have an estimated arrival time, as their conversion to 2024 has not yet begun. The team has announced that the 747 product lines will only be developed for Microsoft Flight Simulator 2024, and not for 2020. Additionally, the PMDG Operations Center 3 has been expanded to include the 777F and 777-300ER. The DC-6 and all 737NG variants will be added very soon. Once these aircraft are added to OC3, they will be removed from OC2. We will inform you if we receive any further details about upcoming updates and releases. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/scpg36</id>
-    <title>SimCoders and PAE Releases Beechcraft Bonanza G36 for X-Plane 12</title>
-    <updated>2025-04-13T00:00:00+00:00</updated>
-    <link href="/news/scpg36"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fc10d25955f6f85c05d172_Banner_Image.webp"/>
-    <summary>Sim: X-Plane. SimCoders and PAE have recently collaborated to release the Beechcraft Bonanza G36 for X-Plane 12. This general aviation aircraft, renowned for its reliability and performance, has been meticulously recreated for the simulator with study-level detail. The Beechcraft Bonanza has a rich history. Manufactured by the US company Beechcraft, the first variant, the Model 35 Bonanza, was introduced in 1947 and produced until 1982. This model featured a distinctive v-tail design. In 1960, the Model 33 Debonair/Bonanza was introduced. It featured a conventional tail and remained in production until 1995. The latest variant is the Model 36 Bonanza, which was introduced in 1968 and is still in production today. The Model 36 is an extended version of the Model 33 Debonair/Bonanza. As of 2024, a total of 18,546 Beechcraft Bonanzas have been built. This general aviation aircraft is popular worldwide and can be found in many locations across the globe. The aircraft is equipped with a variety of features, including a fully simulated IO-550 engine, a custom fuel system, a custom G1000, realistic 3D modelling, REP features, and much more. The newly released aircraft is now available for purchase at the X-Plane.Org Software Store for $45.00. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ftat17</id>
-    <title>FlyTampa Updates Athens International Airport to Version 1.7</title>
-    <updated>2025-04-14T00:00:00+00:00</updated>
-    <link href="/news/ftat17"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67fd40640c76383ff4a99a23_Banner_Image.webp"/>
-    <summary>Sim: FS24. FlyTampa has recently updated its Athens International Airport (LGAV) to version 1.7. This new version includes a range of fixes, improvements, and additional features. The most notable update is the compatibility with Microsoft Flight Simulator 2024, in addition to maintaining compatibility with Microsoft Flight Simulator 2020. The scenery has undergone various enhancements as part of these updates. Some new features included in the update are improved terraforming, an extended solar farm, a newly added general aviation ramp, enhanced compatibility with MSFS 2024, and much more. See the full changelog below: â Version 1.7: The updated version of Athens International Airport is now available, and can be purchased from FlyTampa for $17.99. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcdd22</id>
     <title>X-Codr Designs Updates Denver International Airport for X-Plane 12 to Version V2.2</title>
@@ -150,6 +114,42 @@
     <link href="/news/772428"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fc3c0c19e59717089bbb2_772-1.webp"/>
     <summary>Sim: FS24. PMDG recently published a showcase trailer for their upcoming Boeing 777-200ER for Microsoft Flight Simulator 2020 and 2024, which is set to be released sometime this week. After a few months of SDK struggles with the new platform, PMDG is finally close to releasing their first fully compatible release while retaining compatibility with Microsoft Flight Simulator 2020.Â  The add-on will include three engine models with their respective characteristics, sounds, and performance profiles, along with a number of new features for the product line (some of which are showcased in the trailer). It will also be available in the marketplace, albeit not within the same timeframe due to Microsoftâs verification process, which takes a few days/weeks.Â  Images are courtesy of SCOTSGOD. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/uk2nor</id>
+    <title>Uk2000 Scenery Releases Norwich Airport for MSFS 2020/2024</title>
+    <updated>2025-04-28T00:00:00+00:00</updated>
+    <link href="/news/uk2nor"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fcd5910d6e1413e7c0614_norwich.webp"/>
+    <summary>Sim: FS24. Uk2000 Scenery has recently released their rendition of Norwich Airport (EGSH) for Microsoft Flight Simulator 2020 and 2024. The airport serves Norwich in the United Kingdom and has a yearly average of 319,040 passengers. It was first created as an RAF bomber station in 1939 and later made available to the United States Air Force, becoming Station 123. In 1967, the Royal Air Force left Norwich Airport, and some of the airfield and its buildings were sold to city and county councils, eventually developing it into Norwich International Airport. The main terminal opened in 1988, but it had been operating charter flights since 1971. 80% of the ownership rights were sold from the city and county councils to Omniport, which transformed Norwich into a hub for the now-bankrupt Flybe, consequently increasing its number of flights and destinations. Itâs a focus city for TUI Airways and is served by Blue Islands, KLM, Loganair, and Ryanair. The scenery features an accurate rendition of the airport, with custom ground textures, full-detail buildings, custom night lighting, performance-friendly optimization, PBR textures, custom vegetation, static GA aircraft, and more. Itâs available on SimMarket for roughly $15.89, requiring at least 77.52 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfk024</id>
+    <title>iniBuilds Releases John F. Kennedy International Airport for MSFS 2024</title>
+    <updated>2025-04-28T00:00:00+00:00</updated>
+    <link href="/news/jfk024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd1a760a2fe12ceb1ffa7_jfk24-1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently released their revamped rendition of John F. Kennedy International Airport (KJFK) for Microsoft Flight Simulator 2024, the busiest airport in New York City with a yearly average of 60 million passengers. Built on top of an old golf course 74 years ago, the then-called Idlewild Airport had a single 7,365 square meter terminal and six runways. The current name only came to be in late 1963, after John F. Kennedyâs assassination. It also marked the important leap to the busiest airport in the region, beating LaGuardia and reaching a respectable second place overall in the United States. The busiest international gateway to the United States is served and visited by over 90 airlines, covering all the inhabited continents around the globe. JetBlue tops the market share chart, with 28.8% or 15,624,961 passengers, followed by Delta Air Lines and American Airlines, with 28.4% (15,390,437) and 14.5% (7,870,971), respectively. From foreign operators, Air France leads the way with 1.9% of the total market share or 1,025,339 passengers. The scenery features an accurate rendition of the airport, with an all-new high-quality set of ground textures, an up-to-date ground layout (as of March 2025), new custom jetway models, new LOD work for extra performance, a true-to-life landside recreation, and highly detailed airport buildings and surroundings. Itâs available on their store for roughly $29.28, requiring at least 4.8 GB of free hard disk space to install. Owners of the MSFS 2020 version can upgrade their licenses for only $6.70 by using the KJFK-UG coupon.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lgw428</id>
+    <title>iniBuilds Shares Previews of Upcoming London Gatwick Airport for MSFS 2024</title>
+    <updated>2025-04-28T00:00:00+00:00</updated>
+    <link href="/news/lgw428"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd52e5c9765c26f5e5b37_gatters1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently previewed their upcoming London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024, which is said to be reaching the final stages of its development cycle and nearing a potential release. â iniBuilds has been working along with Gatwick staff team members to ensure the utmost accuracy on layout and details, showcased in the screenshots below: It's soon to enter beta testing, where their working group and internal staff "will ensure it's released in a good state." â Content creators will be granted a copy when the release day draws near for showcasing purposes. â The feature list will include an up-to-date ground layout, custom ground textures, custom ground service equipment, custom jetways, an official GSX profile, and more. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniham</id>
+    <title>iniBuilds Announces Doha Hamad International for MSFS 24</title>
+    <updated>2025-04-28T00:00:00+00:00</updated>
+    <link href="/news/iniham"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd99150e442b99b8da636_hamad1.webp"/>
+    <summary>Sim: FS24. iniBuilds recently announced the development of Doha Hamad International Airport (OTHH) for Microsoft Flight Simulator 2024, the busiest airport in Qatar with a yearly average of 36 million passengers. Opened in 2014, it replaces Doha International Airport as Qatar's main airport. Built on 22 square kilometers of land, it can handle 320,000 aircraft movements and 2 million tonnes of cargo per year. DOH is the first Middle Eastern airport to get Skytrax's World Best Airport award (2021 and 2022), ending a nearly decade-long streak of Singapore's Changi. It's the hub for Qatar Airways, with a route network that covers most of the globe, from their next-door neighbors of Abu Dhabi to San Francisco. Such high coverage makes it so other carriers don't have much of a financially logical reason to fly to Doha, but there are still a couple of them, such as Air Canada, Air India, British Airways, Conviasa, Finnair, and Malaysia Airlines. Despite still being in very early development stages, iniBuilds has shared a few previews of the work they already got done while also justifying why they didn't go for it sooner. "We've been wanting to do this one for a while, however there's been lots of construction which has made it difficult to ensure we get it right. With this construction now getting to the point where we can accurately see what is being worked on, it has allowed us to get the references we need!". â There is no release date or pricing information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-04-28T00:00:00+00:00</published>
   </entry>
 </feed>
