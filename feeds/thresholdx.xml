@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-02T18:33:06.688430+00:00</updated>
+  <updated>2025-05-03T18:31:12.771143+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/slhgce</id>
-    <title>SLH Sim Designs Releases Grand Case-EspÃ©rance Airport for MSFS 2020/2024</title>
-    <updated>2025-04-20T00:00:00+00:00</updated>
-    <link href="/news/slhgce"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68046b2c6eaabeb0fbcfcf9e_case1.webp"/>
-    <summary>Sim: FS24. SLH Sim Designs has recently released their rendition of Grand Case-EspÃ©rance Airport (TFFG) for Microsoft Flight Simulator 2020 and 2024. This airport serves the collectivity of Saint Martin in the Caribbean and has a yearly average of 192,000 passengers. The airportâs origins date back to the mid-20th century, when it started as a small airstrip catering to small private planes and the occasional charter aircraft. With the flourishing of tourism in the region in the following decades, expansion work was carried out to ensure it could accommodate larger propeller-driven aircraft, facilitating air travel to and from the island. In the 1980s, the islandâs Dutch side handled most of the international traffic, while Grand Case was still a major player regionally, especially between French territories. Many upgrades occurred in the following years, including runway extensions, infrastructure modernization, and more. Eight years ago, it underwent major renovation work, including a modernized terminal building, a fire station upgrade, an extended parking apron, and a new control tower. Air Antilles, Air CaraÃ¯bes, St Barth Commuter, Trans Anguilla Airways, and West Indies Helicopters serve it. The scenery features an accurate rendition of the airport, with 4K texturing, animated ground equipment, custom dynamic lighting, a modeled tower interior, a custom GSX profile, and more. Itâs available on SimMarket for roughly $15.34, requiring at least 767.78 MB of free hard disk space to install. Click here for the MSFS 2024 version. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/p42421</id>
     <title>Parallel 42 Releases ChasePlane for MSFS 2020</title>
@@ -150,6 +141,15 @@
     <link href="/news/dalxp1"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68150e3626daf7aa76c4b9e4_yonder1.jpg"/>
     <summary>Sim: X-Plane. iBlueYonder recently announced the development of a Dallas Love Field (KDAL) rendition for X-Plane 12 in partnership with StableSystem and joshomoore, which handled the porting process (the scenery was originally made for Microsoft Flight Simulator 2020). Dallas Love Field is the 31st busiest airport in the United States, with a yearly average of 6 million passengers, opened 105 years ago as a training camp for WW1 pilots and then converted into a storage facility for surplus aircraft right after the war, where it barely saw any action for nearly ten years. It was then purchased by the city of Dallas in 1928 and opened for civilian use, with the first set of paved runways to come four years later.Â  The first proper terminal was built in 1940, serving 21 weekday airline departures from American, Braniff, and Delta.Â  World War 2 forced the airport to return to its training school roots, only ceasing after it was all over when it once again returned to being a civil airport.Â  With the increased passenger numbers during the late 1950s came the need for a new terminal (T3) designed by Donald S. Nelson. It would have three concourses, 26 gates, and the worldâs first moving walkways.Â  Nowadays, the airport has a single terminal with 20 gates, with Alaska and Delta Air Lines having one each, and the remaining 18 are under Southwestâs helm. Not coincidentally, Southwest Airlines has 95.3% of the passenger market share, followed by Delta with 2.2% and Alaska with 1.7%. Houston (387,000), Denver (367,000), and Atlanta (358,000) compose the top list of busiest destinations from Love Field. While an official feature list hasnât been revealed yet, its ported nature probably means it wonât differ much from the original, which features custom ground textures, a high-detail terminal model with its interior, hand-crafted and hand-placed signage, custom night lighting, and more. Thereâs yet to be any information on pricing or a release date, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcdblu</id>
+    <title>X-Codr Designs Releases Blue Canyon Nyack and Scott Valley for X-Plane 12</title>
+    <updated>2025-05-02T00:00:00+00:00</updated>
+    <link href="/news/xcdblu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681523df7ba5d6403cd5f684_codr1.webp"/>
+    <summary>Sim: X-Plane. X-Codr Designs recently released their renditions of Blue Canyon Nyack (KBLU) and Scott Valley (A30) for X-Plane 12. Both are in California, 190 miles apart and have completely different infrastructures.Â  Scott Valley (A30) is located in northern California. It is covered in farmland, surrounded by mountains, and significantly elevated in some areas. In direct contrast with Blue Canyon, it features basic facilities like 100LL fuel, individual hangar units, etc. Blue Canyon (KBLU) is located 30 miles west of Lake Tahoe and 190 miles south of Scott Valley in the Sierra Nevada, with a thrilling approach on top of a canyon ridge over Interstate 80. Facility-wise, itâs as barebones as it gets, but hugely scenic to make up for that. Both sceneries feature accurate renditions with near-photoreal textures, ultra-detailed ground textures, immersive seasonal and weather effects, custom objects, pilot-controlled lighting, and more. Itâs available on their website for $7.99 (KBLU) and $9.99 (A30). Buying both at once warrants a 25% discount on both, or 25% in one if you already bought the other. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-02T00:00:00+00:00</published>
   </entry>
 </feed>
