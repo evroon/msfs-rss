@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-05T18:30:48.232047+00:00</updated>
+  <updated>2025-05-06T18:33:21.289243+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/p42421</id>
-    <title>Parallel 42 Releases ChasePlane for MSFS 2020</title>
-    <updated>2025-04-22T00:00:00+00:00</updated>
-    <link href="/news/p42421"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67a03568493d826e0a991328_cp1.webp"/>
-    <summary>Sim: MSFS20. After nearly a month of being a Club 42 exclusive for testing and refinement purposes, Parallel 42âs ChasePlane is now available to the public. This brings their advanced physics-based camera system to Microsoft Flight Simulator 2020. For the unfamiliar, ChasePlane was originally released in 2016 for Microsoft Flight Simulator X, later being made compatible with Prepar3d and rapidly becoming the de facto camera application for ESP-based simulators at the time. It would only be natural for them to develop it for Microsoft Flight Simulator 2020 when that came about, but technical limitations have made that impossible until very recently, which is why itâs only a thing now, almost five years after the simulatorâs release.Â  The add-on features highly realistic physics-based camera behavior based on extensive research and real-world pilot footage. This warrants realistic motion that dynamically responds to the environment, embracing the flight model rather than altering it. Pilots can feel the vibration during the take-off roll, the rush of turbulence, and the fluid shifts during maneuvers. â As previously mentioned, a subscription system will no longer be required to store and share your settings in their cloud. Parallel 42 will now offer the service as a courtesy and take the costs upon themselves. â Furthermore, ChasePlane 2020 owners will be entitled to a free upgrade once the Microsoft Flight Simulator 2024 version is available.Â  â The add-on is available in their store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pdb772</id>
     <title>PMDG 777-200ER Release Window Updated</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681523df7ba5d6403cd5f684_codr1.webp"/>
     <summary>Sim: X-Plane. X-Codr Designs recently released their renditions of Blue Canyon Nyack (KBLU) and Scott Valley (A30) for X-Plane 12. Both are in California, 190 miles apart and have completely different infrastructures.Â  Scott Valley (A30) is located in northern California. It is covered in farmland, surrounded by mountains, and significantly elevated in some areas. In direct contrast with Blue Canyon, it features basic facilities like 100LL fuel, individual hangar units, etc. Blue Canyon (KBLU) is located 30 miles west of Lake Tahoe and 190 miles south of Scott Valley in the Sierra Nevada, with a thrilling approach on top of a canyon ridge over Interstate 80. Facility-wise, itâs as barebones as it gets, but hugely scenic to make up for that. Both sceneries feature accurate renditions with near-photoreal textures, ultra-detailed ground textures, immersive seasonal and weather effects, custom objects, pilot-controlled lighting, and more. Itâs available on their website for $7.99 (KBLU) and $9.99 (A30). Buying both at once warrants a 25% discount on both, or 25% in one if you already bought the other. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/almaty</id>
+    <title>MFSG Releases Almaty International Airport for MSFS 20/24</title>
+    <updated>2025-05-05T00:00:00+00:00</updated>
+    <link href="/news/almaty"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68191441a22b41f9d14f1214_alma1.webp"/>
+    <summary>Sim: FS24. MFSG recently released their rendition of Almaty International Airport (UAAA) for Microsoft Flight Simulator 2020 and 2024. The airport serves Almaty, Kazakhstan, and has a yearly average of 11.4 million passengers. It was built in 1935 for civil and military aviation. Propeller aircraft operated occasional scheduled flights between Alma-Ata (Almaty's name under the Soviet Union) and other Soviet cities. It played an important role during World War 2, logistically supporting Soviet aviation operations. Between the 1950s and 1960s, the airport underwent modernization and expansion to accommodate jet aircraft and a new passenger terminal was constructed in 1967. After earning its independence in 1991, Kazakhstan renamed the airport to its current name. â The airport was granted its international status in 1998 after a runway reconstruction and a CAT II certificate. â A new passenger terminal was completed in 2004, ensuring the airport could meet the region's ever-growing demand for air travel. â 20 years later, they launched a brand new Terminal â Terminal 2 â increasing the airport's passenger handling capabilities to 14 million a year. â It's a hub for Air Astana, FlyArystan, Qazaq Air, Sunday Airlines, and a focus city for SCAT Airlines. Aeroflot, Air Arabia, AirAsia X, Air Cairo, Asiana Airlines, China Eastern Airlines, China Southern Airlines, Flydubai, Lufthansa, Neos, Qatar Airways, Rossiya Airlines, S7 Airlines, Turkish Airlines, Wizz Air, and Yakutia Airlines also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom groundpoly, custom photoreal terrain, custom jetways, and performance-friendly optimization. â It's available on SimMarket for roughly $15.31, requiring at least 54.95 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-05T00:00:00+00:00</published>
   </entry>
 </feed>
