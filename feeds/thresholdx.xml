@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-06T18:33:21.289243+00:00</updated>
+  <updated>2025-05-07T18:33:35.040228+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pdb772</id>
-    <title>PMDG 777-200ER Release Window Updated</title>
-    <updated>2025-04-24T00:00:00+00:00</updated>
-    <link href="/news/pdb772"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680a391a1d741e51793f3f54_Banner_Image.webp"/>
-    <summary>Sim: FS24. PMDG has recently updated the planned release window for the upcoming 777-200ER for Microsoft Flight Simulator 2020 and 2024. Additionally, the team has provided a more specific release window for the compatibility of the 777F and 777-300ER with MSFS 2024. A variety of other information has also been shared in the update. The release window for the PMDG 777-200ER has been updated. The original timeframe was between April 16th and April 29th, but it is now set for April 29th to May 1st, moving the release by just a few days. The team has confirmed that they will provide advance notice the day before the release.Â  â This add-on will include various engine types, such as the GE90-92 and the Rolls Royce Trent 892, along with a new generation of sound packages. At launch, only one package will be available, which will include versions of the add-on for both simulators. Compatibility for Microsoft Flight Simulator 2024 is scheduled for the second half of May for the 777F freighter variant, followed by the 777-300ER variant within 10-14 days after the freighter release. Finally, the team has shared updates on the 2024 compatibility for its DC-6. The overhaul for compatibility is nearing completion, and everything is coming together nicely. However, there are still some minor cosmetic improvements that need to be made. We will let you know if we receive any updates. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-04-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/772428</id>
     <title>PMDG Publishes 777-200ERs Preview Trailer for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68191441a22b41f9d14f1214_alma1.webp"/>
     <summary>Sim: FS24. MFSG recently released their rendition of Almaty International Airport (UAAA) for Microsoft Flight Simulator 2020 and 2024. The airport serves Almaty, Kazakhstan, and has a yearly average of 11.4 million passengers. It was built in 1935 for civil and military aviation. Propeller aircraft operated occasional scheduled flights between Alma-Ata (Almaty's name under the Soviet Union) and other Soviet cities. It played an important role during World War 2, logistically supporting Soviet aviation operations. Between the 1950s and 1960s, the airport underwent modernization and expansion to accommodate jet aircraft and a new passenger terminal was constructed in 1967. After earning its independence in 1991, Kazakhstan renamed the airport to its current name. â The airport was granted its international status in 1998 after a runway reconstruction and a CAT II certificate. â A new passenger terminal was completed in 2004, ensuring the airport could meet the region's ever-growing demand for air travel. â 20 years later, they launched a brand new Terminal â Terminal 2 â increasing the airport's passenger handling capabilities to 14 million a year. â It's a hub for Air Astana, FlyArystan, Qazaq Air, Sunday Airlines, and a focus city for SCAT Airlines. Aeroflot, Air Arabia, AirAsia X, Air Cairo, Asiana Airlines, China Eastern Airlines, China Southern Airlines, Flydubai, Lufthansa, Neos, Qatar Airways, Rossiya Airlines, S7 Airlines, Turkish Airlines, Wizz Air, and Yakutia Airlines also serve it. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom groundpoly, custom photoreal terrain, custom jetways, and performance-friendly optimization. â It's available on SimMarket for roughly $15.31, requiring at least 54.95 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/duspre</id>
+    <title>MK Studios Shares Interior Previews from Upcoming DÃ¼sseldorf Airport for MSFS 2020/2024</title>
+    <updated>2025-05-06T00:00:00+00:00</updated>
+    <link href="/news/duspre"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681a68479bd99857e2db0d41_dussy1.webp"/>
+    <summary>Sim: FS24. MK Studios has recently shared three new previews from their upcoming DÃ¼sseldorf Airport (EDDL) rendition for Microsoft Flight Simulator 2020 and 2024, showing the ongoing work on the interiors. Set to release soon (according to information from their Discord community), their DÃ¼sseldorf is said to be coming along nicely, with their efforts now centered on creating detailed interiors. Work on the custom GSX profile for the scenery is also set to start relatively soon, meaning the customers might not even have to wait for that to become available once the scenery is out. â Thereâs no information about pricing or a release date yet, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-06T00:00:00+00:00</published>
   </entry>
 </feed>
