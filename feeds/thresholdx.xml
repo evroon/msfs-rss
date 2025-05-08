@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-07T18:33:35.040228+00:00</updated>
+  <updated>2025-05-08T18:34:15.314187+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/772428</id>
-    <title>PMDG Publishes 777-200ERs Preview Trailer for MSFS 2020/2024</title>
-    <updated>2025-04-28T00:00:00+00:00</updated>
-    <link href="/news/772428"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fc3c0c19e59717089bbb2_772-1.webp"/>
-    <summary>Sim: FS24. PMDG recently published a showcase trailer for their upcoming Boeing 777-200ER for Microsoft Flight Simulator 2020 and 2024, which is set to be released sometime this week. After a few months of SDK struggles with the new platform, PMDG is finally close to releasing their first fully compatible release while retaining compatibility with Microsoft Flight Simulator 2020.Â  The add-on will include three engine models with their respective characteristics, sounds, and performance profiles, along with a number of new features for the product line (some of which are showcased in the trailer). It will also be available in the marketplace, albeit not within the same timeframe due to Microsoftâs verification process, which takes a few days/weeks.Â  Images are courtesy of SCOTSGOD. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/uk2nor</id>
-    <title>Uk2000 Scenery Releases Norwich Airport for MSFS 2020/2024</title>
-    <updated>2025-04-28T00:00:00+00:00</updated>
-    <link href="/news/uk2nor"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fcd5910d6e1413e7c0614_norwich.webp"/>
-    <summary>Sim: FS24. Uk2000 Scenery has recently released their rendition of Norwich Airport (EGSH) for Microsoft Flight Simulator 2020 and 2024. The airport serves Norwich in the United Kingdom and has a yearly average of 319,040 passengers. It was first created as an RAF bomber station in 1939 and later made available to the United States Air Force, becoming Station 123. In 1967, the Royal Air Force left Norwich Airport, and some of the airfield and its buildings were sold to city and county councils, eventually developing it into Norwich International Airport. The main terminal opened in 1988, but it had been operating charter flights since 1971. 80% of the ownership rights were sold from the city and county councils to Omniport, which transformed Norwich into a hub for the now-bankrupt Flybe, consequently increasing its number of flights and destinations. Itâs a focus city for TUI Airways and is served by Blue Islands, KLM, Loganair, and Ryanair. The scenery features an accurate rendition of the airport, with custom ground textures, full-detail buildings, custom night lighting, performance-friendly optimization, PBR textures, custom vegetation, static GA aircraft, and more. Itâs available on SimMarket for roughly $15.89, requiring at least 77.52 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfk024</id>
     <title>iniBuilds Releases John F. Kennedy International Airport for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681a68479bd99857e2db0d41_dussy1.webp"/>
     <summary>Sim: FS24. MK Studios has recently shared three new previews from their upcoming DÃ¼sseldorf Airport (EDDL) rendition for Microsoft Flight Simulator 2020 and 2024, showing the ongoing work on the interiors. Set to release soon (according to information from their Discord community), their DÃ¼sseldorf is said to be coming along nicely, with their efforts now centered on creating detailed interiors. Work on the custom GSX profile for the scenery is also set to start relatively soon, meaning the customers might not even have to wait for that to become available once the scenery is out. â Thereâs no information about pricing or a release date yet, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lgw507</id>
+    <title>iniBuilds Publishes Trailer for Upcoming London Gatwick Airport</title>
+    <updated>2025-05-07T00:00:00+00:00</updated>
+    <link href="/news/lgw507"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd53f2f3e6e4936252f9b_gatwick3.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently published the trailer for their upcoming London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024, which is said to be coming soon. As mentioned in their previous development update, they have been working with Gatwick staff to achieve the utmost accuracy on layout and details, with lots of on-site imagery for reference. The feature list will include an up-to-date ground layout, custom ground textures, custom ground service equipment, custom jetways, an official GSX profile, and more. Content creators will be granted a pre-release copy when the release day draws near for showcasing purposes. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hamx12</id>
+    <title>JustSim Releases Hamburg Airport for X-Plane 12</title>
+    <updated>2025-05-07T00:00:00+00:00</updated>
+    <link href="/news/hamx12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681bd7b64bd379a771f1980c_ham1.webp"/>
+    <summary>Sim: X-Plane. JustSim has recently released their rendition of Hamburg Airport (EDDH) for X-Plane 12, serving the Hamburg metropolitan area with a yearly average of 14.8 million passengers, making it the fifth-busiest airport in Germany. It opened in January 1911, making it the oldest International airport in operation in the world and the second oldest in Germany after Tempelhof, which is now closed. It was given its current name â Hamburg Airport â during the British occupation of Hamburg starting in 1945. Its importance was proven in 1948 when it was an essential part of the Berlin Airlift, where allies carried supplies to West Berlin after the Soviets had blockaded every land access, effectively cutting their supply lines. It was Lufthansa's hub in the mid-50s, although Frankfurt eventually replaced it due to growth constraints that couldn't be overcome. While this did not affect the airport's potential as a non-hub, it could not meet Lufthansa's expectations as a large hub.Â  It wasn't long until the government started discussing the construction of a new airport, away from the city and thus, not suffering from any potential growth constraints. While the idea seemed nice on paper, they quickly dismissed it due to how bad it was back in the 1960s to have your airport away from the city (transport infrastructure was far from efficient at the time). Thus, they settled with what they had, which could not grow much, but was at least within the city's heart and easily accessible. Furthermore, Lufthansa had already moved to Frankfurt, so the traffic demands were not justifiably high anymore. The 1990s saw extensive modernization work at the airport, including a pier extension, a new terminal, and an airport plaza between the two terminals. It's a focus city for Condor, Eurowings, Ryanair, and Wizz Air. Aegean Airlines, Aer Lingus, airBaltic, Air Cairo, Air France, Air Serbia, Austrian Airlines, British Airways, Brussels Airlines, Condor, Croatia Airlines, Emirates, Finnair, Iberia, KLM, Norwegian Air Shuttle, Ryanair, Scandinavian Airlines, Swiss, TAP, Tunisair, Turkish, Volotea, and Vueling also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, detailed objects, custom surroundings, high-resolution textures, custom night lighting, custom weather effects, performance-friendly optimization, and more.Â  It's available on SimMarket for roughly $18.69, requiring at least 914.79 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-07T00:00:00+00:00</published>
   </entry>
 </feed>
