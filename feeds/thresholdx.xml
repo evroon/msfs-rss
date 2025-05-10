@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-09T18:33:40.629470+00:00</updated>
+  <updated>2025-05-10T18:30:23.685098+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/iniham</id>
-    <title>iniBuilds Announces Doha Hamad International for MSFS 24</title>
-    <updated>2025-04-28T00:00:00+00:00</updated>
-    <link href="/news/iniham"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd99150e442b99b8da636_hamad1.webp"/>
-    <summary>Sim: FS24. iniBuilds recently announced the development of Doha Hamad International Airport (OTHH) for Microsoft Flight Simulator 2024, the busiest airport in Qatar with a yearly average of 36 million passengers. Opened in 2014, it replaces Doha International Airport as Qatar's main airport. Built on 22 square kilometers of land, it can handle 320,000 aircraft movements and 2 million tonnes of cargo per year. DOH is the first Middle Eastern airport to get Skytrax's World Best Airport award (2021 and 2022), ending a nearly decade-long streak of Singapore's Changi. It's the hub for Qatar Airways, with a route network that covers most of the globe, from their next-door neighbors of Abu Dhabi to San Francisco. Such high coverage makes it so other carriers don't have much of a financially logical reason to fly to Doha, but there are still a couple of them, such as Air Canada, Air India, British Airways, Conviasa, Finnair, and Malaysia Airlines. Despite still being in very early development stages, iniBuilds has shared a few previews of the work they already got done while also justifying why they didn't go for it sooner. "We've been wanting to do this one for a while, however there's been lots of construction which has made it difficult to ensure we get it right. With this construction now getting to the point where we can accurately see what is being worked on, it has allowed us to get the references we need!". â There is no release date or pricing information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-04-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mkssea</id>
     <title>MK Studios Releases Seattle-Tacoma Airport for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/rh7672"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681e48390832ea5b2e44e767_rhd1.webp"/>
     <summary>Sim: MSFS20. RHDSimulations has recently released their rendition of the Boeing 767-200/200ER for Microsoft Flight Simulator 2020, featuring a high-detail 3D model, PBR textures, true-to-life animations, and more. The 767-200 was the first variant of the 767 family to take flight, first flying in late 1981 and obtaining its certification a few months later. By September of that same year, the 767 was already operating commercially with United Airlines. It was designed to complement the larger Boeing 747, offering an intermediate option for lower-density long-haul routes. It was Boeingâs first wide-body twinjet, and its success led to the conception of the 777 nearly 13 years later (they were originally intending to develop a larger-capacity 767). It was launched in the late 1980s and is powered by General Electric CF6 engines. The normal variant has a total range of 7,200 km, and the extended range variant has 12,200 km.Â  The add-on features an accurate 3D model of the airplane, with PBR texturing, realistic animations, an authentic flight model for both variants, a simple IRS system simulation, custom dynamic cockpit lighting, modified PFD, MFD, and EICAS screens, and much more. The complete feature list follows below: Â  Although heavily modified, the developers mention that itâs still rooted in the default 747 systems, meaning itâs not a study-level product. Itâs available on SimMarket for roughly $28.23, requiring at least 4.92 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lgwrel</id>
+    <title>iniBuilds Releases London Gatwick Airport for MSFS 2024</title>
+    <updated>2025-05-09T00:00:00+00:00</updated>
+    <link href="/news/lgwrel"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681e533954bc7892ac645910_gatter1.webp"/>
+    <summary>Sim: FS24. iniBuilds recently released their rendition of London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024. It is the second-busiest airport in the United Kingdom, with a yearly average of 40.9 million passengers. The airport was established in the late 1920s as an aerodrome, but commercial use only started in 1933. The first passenger terminal, called âThe Beehive,â was built two years after its commercial debut. Scheduled air services started a year later. Gatwick was taken by the Royal Air Force during World War 2 and converted to RAF Gatwick, returning to civilian capacity shortly after the war was over. Itâs a hub for British Airways and a focus city for BA EuroFlyer, easyJet UK, Norse Atlantic UK, TUI Airways, Vueling, and Wizz Air UK. Aegean Airlines, Air Arabia, Air China, Air Europa, Air India, Air Peace, Air Transat, airBaltic, Atlantic Airways, Aurigny, Azerbaijan Airlines, Azores Airlines, China Eastern, China Southern, Corendon, Croatia Airlines, Delta, Eastern Airways, Emirates, Iberia Express, ITA, Norwegian Air Shuttle, Nouvelair, Qatar, Ryanair, Singapore Airlines, Swiss, TAP Air Portugal, Tunisair, Turkish, Volotea, Vueling, and WestJet also serve it. The scenery features an accurate rendition of the airport with hand-made ground textures, a true-to-life landside recreation, 180+ hand-crafted models, HD jetways, full HD ground poly, an up-to-date ground layout, an official GSX profile, and much more. Itâs available on the iniBuilds Store for roughly $29.39, requiring at least 11 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-09T00:00:00+00:00</published>
   </entry>
 </feed>
