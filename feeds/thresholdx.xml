@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-13T18:33:34.457534+00:00</updated>
+  <updated>2025-05-14T18:32:41.933441+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sog024</id>
-    <title>Orbx Releases Sogndal Airport for MSFS 2024</title>
-    <updated>2025-05-01T00:00:00+00:00</updated>
-    <link href="/news/sog024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6813df8ff2bc1690d6c068b8_sogndal1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of Sogndal Airport (ENSG) for Microsoft Flight Simulator 2024, serving the homonymous municipality with a yearly average of 70,000 passengers. The airport was opened in mid-1971, with a single, 800-meter-long runway and a small 70mx45m apron, which is only suitable for small regional airliners like the Twin Otter (one of the first to serve Sogndal with flights to Bergen and Alesund). In the early 1980s, the construction of a fire station allowed the airport to accommodate more types of regional airliners, and Wideroe introduced their Dash 7s on the route to Oslo Fornebu. Two years later, a significantly larger terminal was built, and the tower underwent renovation work. Ownership was transferred from the Municipality to Avinor on January 1st, 1997. Between 2004 and 2007, Sogndal underwent several upgrades to its infrastructure, with expanded safety areas, lights, parking, a new arrival terminal, a navigation system, and more. The scenery features an accurate rendition of the airport, with custom ground textures, full PBR 4K texturing, custom orthoimagery, realistic representation of the PLASI (Pulse Light Approach System), and more.Â  Itâs available on OrbxDirect for roughly $12.03, requiring at least 1.57 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/777015</id>
     <title>PMDG Releases 777-200ER for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/rsgpri"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68238bd438bddc19932f45b4_rsg1.jpg"/>
     <summary>Sim: OTHER. RealSimGear has recently announced a permanent price cut on some of their products. This is due to streamlining production and consequently lowering the manufacturing costs while keeping the same build quality, allowing them to sell the products at a more inviting price tag. Products such as their G1000 suite, for example, went from $2,199 to $1,699 while retaining the same build quality and not compromising on anything. The individual unit went down from $899 to $699.Â  Another price cut worth mentioning is the GNS530, which is now down to $299 from its original $449.Â  Please refer to their store page for further information on the products and their respective discounts. Itâs worth noting that the discounts do not apply to the entire product line. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/syd2d5</id>
+    <title>FlyTampa Updates Sydney Airport for MSFS 2020/2024</title>
+    <updated>2025-05-13T00:00:00+00:00</updated>
+    <link href="/news/syd2d5"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6823a35fc4d91a1d439dde4b_sid1.webp"/>
+    <summary>Sim: FS24. FlyTampa recently issued an update to their rendition of Sydney Airport (YSSY) for Microsoft Flight Simulator 2020 and 2024, which improves compatibility with the newly released platform, provides layout updates, fixes bugs, and more. Update 2.5 brings a vast list of changes and improvements, such as the addition of new ramp parking spots as per real life, new taxiways (D and J), the reworking of certain parking spots, the remodeling of the motorway tunnels under the runway, the addition of 3D fences, new taxiway lights, performance optimization work, etc. The complete changelog follows below: According to FlyTampa's Facebook page post, the update will be available for free in the next few hours.Â  The scenery is available on OrbxDirect for roughly $15.21, requiring at least 1.71 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-13T00:00:00+00:00</published>
   </entry>
 </feed>
