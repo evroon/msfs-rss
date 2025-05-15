@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-14T18:32:41.933441+00:00</updated>
+  <updated>2025-05-15T18:34:43.970525+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/777015</id>
-    <title>PMDG Releases 777-200ER for MSFS 2020/2024</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <link href="/news/777015"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fc3c0c19e59717089bbb2_772-1.webp"/>
-    <summary>Sim: FS24. PMDG recently released their long-awaited rendition of the Boeing 777-200ER for Microsoft Flight Simulator 2020 and 2024, marking the start of a new era for their product line (the first to land in Microsoft Flight Simulator 2024). After a few months of struggles with the SDK, PMDG has finally managed to get their new airplane in working order within the new simulator. The compatibility news went from sour at first to promising after SU 1âs first release earlier this year. The 777-200ER is an extended range â as per the nomenclature â variant of the 777-200, flying further and carrying more passengers than the original. It flew for the first time in October 1996, obtaining its certification only three months later and entering service in February of that same year with British Airways. It retains the same airframe as the original model, albeit with larger engines (three variants) and a higher maximum take-off weight (a direct consequence of the larger, more powerful engines). It has greatly helped to establish the 777 family as a leading wide-body airliner, which reached ultimate consolidation in 2004 with the advent of the 777-300ER, their most popular 777 variant to date. The add-on features an advanced simulation of all avionics and system management operations of the 777 flight deck, an accurately simulated display drawing process, a full electronic checklist, the PMDG Universal Flight Tablet, a full simulation of the 777âs autoflight director and autopilot systems, and more. The complete feature list follows below: PMDG 777-200ER features Avionics &amp; Flight Deck: Air Conditioning System: Auto-flight System: Brakes and Tires: Cabin: Datalink (Currently limited to Hopie Network for ATC services, but more coming!): Doors: Electrical System: Engines: Failures: Flight Controls and Flight Surfaces: Fly By Wire System: Fuel System: Ground Service Vehicles: Hydraulic System: Landing Gear: Lighting Systems: Navigation Data: Physics-based Flexing: Pneumatic System: Simulator Features: Â  Distribution: Users will receive a download link to the PMDG Operations Center software that is used to manage customer access to the software, along with access rights and installation. Â  Features and capabilities unique to the MSFS 2024 platform may not be available on the MSFS 2020 platform. â Itâs available on PMDGâs website for $77.72 Images are courtesy of SCOTSGOD. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dalxp1</id>
     <title>iBlueYonder Announces Dallas Love Field for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6823a35fc4d91a1d439dde4b_sid1.webp"/>
     <summary>Sim: FS24. FlyTampa recently issued an update to their rendition of Sydney Airport (YSSY) for Microsoft Flight Simulator 2020 and 2024, which improves compatibility with the newly released platform, provides layout updates, fixes bugs, and more. Update 2.5 brings a vast list of changes and improvements, such as the addition of new ramp parking spots as per real life, new taxiways (D and J), the reworking of certain parking spots, the remodeling of the motorway tunnels under the runway, the addition of 3D fences, new taxiway lights, performance optimization work, etc. The complete changelog follows below: According to FlyTampa's Facebook page post, the update will be available for free in the next few hours.Â  The scenery is available on OrbxDirect for roughly $15.21, requiring at least 1.71 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfeddv</id>
+    <title>SoFly Releases Hannover Airport for MSFS 20/24</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <link href="/news/sfeddv"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/682607e144d0006aa59c3fb9_Banner_Image.webp"/>
+    <summary>Sim: FS24. SoFly has released its highly anticipated version of Hannover Airport (EDDV) for Microsoft Flight Simulator 2020 and 2024. The international airport serves over 5 million passengers annually, making it the ninth-largest airport in Germany. Hannover Airport opened its doors in 1952. In 1973, it expanded with the introduction of two modern passenger terminals, A and B, which are still in operation today. The final terminal, C, was inaugurated in 1998. In the year 2000, the airport was connected by rail to the town of Hamelin through Hannover, and Paderborn was linked by rail a few years later in 2003. Today, Hannover Airport serves as a focus city for several airlines, including Corendon Airlines Europe, Eurowings, and TUI fly Deutschland. With a range of other airlines operating, the airport offers destinations across Europe, accommodating over 5 million passengers each year. The scenery comes packed with features such as interactive scenery technology, dynamic airport environment, moving ground transport, interior modelling, high-resolution texturing and modelling, and so much more. The newly released Hannover Airport is now available directly from SoFly for approximately $25.22. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-05-15T00:00:00+00:00</published>
   </entry>
 </feed>
