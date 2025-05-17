@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-16T18:33:58.148698+00:00</updated>
+  <updated>2025-05-17T18:31:47.164679+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/duspre</id>
-    <title>MK Studios Shares Interior Previews from Upcoming DÃ¼sseldorf Airport for MSFS 2020/2024</title>
-    <updated>2025-05-06T00:00:00+00:00</updated>
-    <link href="/news/duspre"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681a68479bd99857e2db0d41_dussy1.webp"/>
-    <summary>Sim: FS24. MK Studios has recently shared three new previews from their upcoming DÃ¼sseldorf Airport (EDDL) rendition for Microsoft Flight Simulator 2020 and 2024, showing the ongoing work on the interiors. Set to release soon (according to information from their Discord community), their DÃ¼sseldorf is said to be coming along nicely, with their efforts now centered on creating detailed interiors. Work on the custom GSX profile for the scenery is also set to start relatively soon, meaning the customers might not even have to wait for that to become available once the scenery is out. â Thereâs no information about pricing or a release date yet, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lgw507</id>
     <title>iniBuilds Publishes Trailer for Upcoming London Gatwick Airport</title>
@@ -150,6 +141,15 @@
     <link href="/news/146p12"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/682777dc36ed58fea3d9941b_Banner_Image.webp"/>
     <summary>Sim: X-Plane. Just Flight has recently launched the store page for the upcoming 146 Professional add-on for X-Plane 12. This new store page officially announces and provides a preview of the add-on, which has been specifically developed for X-Plane 12 in partnership with Thranda Design. The new add-on includes an enhanced flight model specifically reworked for X-Plane 12. The artwork has been upgraded as well, featuring decal-based text on the exterior. It also natively supports rain and wiper effects. Additionally, over 40 high-quality liveries will be included, and performance has been optimised to the fullest extent. Just Flight has announced that the add-on will be available at a new, lower price. Owners of the X-Plane 11 version of the 146 Professional will receive a discount. A specific release date and price have not been announced, but the website indicates that the add-on is coming soon. You can find the full store page here. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/772516</id>
+    <title>PMDG Publishes Development Update for MSFS 2024</title>
+    <updated>2025-05-16T00:00:00+00:00</updated>
+    <link href="/news/772516"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
+    <summary>Sim: FS24. PMDG has recently published a new development update concerning the arrival of Microsoft Flight Simulator 2024âs Sim Update 2 and what it means to their product line and upcoming updates. According to Robert Randazzo, the update caught them off guard as they were preparing an update to make the 777F compatible with 24 and another update for the newly released 777-200ER (for both platforms). They were already getting the cloud services to distribute the files, but SU2 has temporarily halted it. The new SDK changes with SU 2 introduce a bunch of auditing features that threw many warnings on their 777, which they had to spend plenty of time (until this morning) fixing. However, as they donât want any extra surprises, it was decided that it would be best to send the update over to the testing team to make sure everything is okay before actually rolling out an update. â They anticipate the 777F going live on Monday for Microsoft Flight Simulator 2024; the same applies to the 777-200ER update. â The 777-300ER update for MSFS 2024 is still on track for next week, even though they ran into this little roadblock with the 777F. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-16T00:00:00+00:00</published>
   </entry>
 </feed>
