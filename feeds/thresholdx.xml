@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-17T18:31:47.164679+00:00</updated>
+  <updated>2025-05-18T18:31:49.068093+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lgw507</id>
-    <title>iniBuilds Publishes Trailer for Upcoming London Gatwick Airport</title>
-    <updated>2025-05-07T00:00:00+00:00</updated>
-    <link href="/news/lgw507"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/680fd53f2f3e6e4936252f9b_gatwick3.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently published the trailer for their upcoming London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024, which is said to be coming soon. As mentioned in their previous development update, they have been working with Gatwick staff to achieve the utmost accuracy on layout and details, with lots of on-site imagery for reference. The feature list will include an up-to-date ground layout, custom ground textures, custom ground service equipment, custom jetways, an official GSX profile, and more. Content creators will be granted a pre-release copy when the release day draws near for showcasing purposes. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hamx12</id>
     <title>JustSim Releases Hamburg Airport for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67536d0cda476a2b5d5c3f25_frei5.webp"/>
     <summary>Sim: FS24. PMDG has recently published a new development update concerning the arrival of Microsoft Flight Simulator 2024âs Sim Update 2 and what it means to their product line and upcoming updates. According to Robert Randazzo, the update caught them off guard as they were preparing an update to make the 777F compatible with 24 and another update for the newly released 777-200ER (for both platforms). They were already getting the cloud services to distribute the files, but SU2 has temporarily halted it. The new SDK changes with SU 2 introduce a bunch of auditing features that threw many warnings on their 777, which they had to spend plenty of time (until this morning) fixing. However, as they donât want any extra surprises, it was decided that it would be best to send the update over to the testing team to make sure everything is okay before actually rolling out an update. â They anticipate the 777F going live on Monday for Microsoft Flight Simulator 2024; the same applies to the 777-200ER update. â The 777-300ER update for MSFS 2024 is still on track for next week, even though they ran into this little roadblock with the 777F. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsmrsw</id>
+    <title>Verticalsim Releases Southwest Florida International Airport for MSFS 2020/2024</title>
+    <updated>2025-05-17T00:00:00+00:00</updated>
+    <link href="/news/vsmrsw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6829098bd5aaec989e683a71_rsw1.webp"/>
+    <summary>Sim: FS24. Verticalsim has recently released their rendition of Southwest Florida International Airport (KRSW) for Microsoft Flight Simulator 2020 and 2024. The airport serves Fort Myers and Southwest Florida and has a yearly average of 11 million passengers. RSW was built to replace Fort Myers' former main airport, Page Field, as it was considered too small and difficult to expand due to certain constraints (like a major highway, for example), starting anew elsewhere seemed the better idea. Construction started in 1980, and the airport was inaugurated on schedule three years later. It featured an 8400-foot runway and a terminal with 14 gates on two concourses. In 1993, a 50,000-square-foot Federal Inspection facility was annexed to the main concourse, and the runway was lengthened to 12,000 feet to better accommodate international service. The terminal underwent expansion in 1998 to keep up with the region's ever-growing demand for air travel. A new wing and three additional gates were added to Concourse B. An entirely new terminal project, with three concourses and 28 gates, started in 2002. Part of the original terminal had to be demolished to make room for the new one. It's an operating base for Breeze Airways, and served by Air Canada Rouge, Alaska Airlines, American Airlines, Avelo Airlines, Delta Air Lines, Discover Airlines, Frontier Airlines, JetBlue, Porter Airlines, Southwest Airlines, Spirit Airlines, Sun Country Airlines, United Airlines, and WestJet. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, custom ground textures, performance-friendly optimization, an official GSX profile, custom high-grade aerial imagery, basic interiors for performance, and much more. It's available on Contrail for roughly $18.00, requiring at least 3.82 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-17T00:00:00+00:00</published>
   </entry>
 </feed>
