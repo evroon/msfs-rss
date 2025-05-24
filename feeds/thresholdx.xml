@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-23T18:33:12.639647+00:00</updated>
+  <updated>2025-05-24T18:31:40.925501+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/lgwrel</id>
-    <title>iniBuilds Releases London Gatwick Airport for MSFS 2024</title>
-    <updated>2025-05-09T00:00:00+00:00</updated>
-    <link href="/news/lgwrel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681e533954bc7892ac645910_gatter1.webp"/>
-    <summary>Sim: FS24. iniBuilds recently released their rendition of London Gatwick Airport (EGKK) for Microsoft Flight Simulator 2024. It is the second-busiest airport in the United Kingdom, with a yearly average of 40.9 million passengers. The airport was established in the late 1920s as an aerodrome, but commercial use only started in 1933. The first passenger terminal, called âThe Beehive,â was built two years after its commercial debut. Scheduled air services started a year later. Gatwick was taken by the Royal Air Force during World War 2 and converted to RAF Gatwick, returning to civilian capacity shortly after the war was over. Itâs a hub for British Airways and a focus city for BA EuroFlyer, easyJet UK, Norse Atlantic UK, TUI Airways, Vueling, and Wizz Air UK. Aegean Airlines, Air Arabia, Air China, Air Europa, Air India, Air Peace, Air Transat, airBaltic, Atlantic Airways, Aurigny, Azerbaijan Airlines, Azores Airlines, China Eastern, China Southern, Corendon, Croatia Airlines, Delta, Eastern Airways, Emirates, Iberia Express, ITA, Norwegian Air Shuttle, Nouvelair, Qatar, Ryanair, Singapore Airlines, Swiss, TAP Air Portugal, Tunisair, Turkish, Volotea, Vueling, and WestJet also serve it. The scenery features an accurate rendition of the airport with hand-made ground textures, a true-to-life landside recreation, 180+ hand-crafted models, HD jetways, full HD ground poly, an up-to-date ground layout, an official GSX profile, and much more. Itâs available on the iniBuilds Store for roughly $29.39, requiring at least 11 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/350109</id>
     <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/682f8512b28460b396118fa3_simbrief1.webp"/>
     <summary>Sim: OTHER. Navigraph recently issued an update to its flight planning tool, SimBrief, adding an advanced thunderstorm avoidance system, a new route calculation engine, and more. SimBriefâs latest versionâsubscriber-only, thoughâadded a wealth of features that, according to Navigraph, beat real-life dispatching tools even before the update.Â  With their all-new route calculator, itâs now possible to avoid specific SIGMETs along the way and plan a path around the weather. Furthermore, avoiding temporary flight restriction or ETOPS areas is also a breeze. ETOPS area avoidance makes it easier for people intending to replicate certain ferry flights on non-ETOPS-certified airplanes, providing them with a realistic and safe route.Â  In addition to these new features, you can now easily add oceanic tracks, instantly preview the route before its generation, choose specific SIDs and STARs from a dropdown list on the route calculator, and visualize them on the interactive map before ultimately picking one. â Non-subscribers have not been forgotten, and they received three new updates: a flight history overhaul, expanded aircraft options, and easier equipment editing. â The update is available right now and accessible through their website or app. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mxisaw</id>
+    <title>MXI Design Releases Sabiha GÃ¶kÃ§en International Airport for MSFS 20/24</title>
+    <updated>2025-05-23T00:00:00+00:00</updated>
+    <link href="/news/mxisaw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6830ef392ddd872a848df044_Banner_Image.webp"/>
+    <summary>Sim: FS24. MXI Design has recently launched its version of Sabiha GÃ¶kÃ§en International Airport for Microsoft Flight Simulator 2020 and 2024. Serving as Istanbul's secondary international airport, it is also the second busiest airport in Turkey, accommodating over 41 million passengers each year. The airport opened in 2001, created to accommodate the growing number of both domestic and international passengers that AtatÃ¼rk Airport could no longer handle. Construction of a new terminal began in 2008 and was completed in 2009. In 2023, the airport added a second runway, and there are plans to build new passenger terminals between the two runways. Today, the airport serves over 41 million passengers annually, facilitated by more than 240,000 aircraft movements. It operates as a hub for AJet and Pegasus Airlines, while also serving airlines such as British Airways, Flydubai, Qatar Airways, and many others. The newly released scenery features high-resolution PBR textures and modelling, interior modelling, custom jetways, an up-to-date airport layout, a custom GSX profile, and much more. MXI Design's version of Sabiha GÃ¶kÃ§en International Airport is now available on Contrail for approximately $27.28. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-05-23T00:00:00+00:00</published>
   </entry>
 </feed>
