@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-27T18:33:44.094477+00:00</updated>
+  <updated>2025-05-28T18:34:06.090340+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ibydlf</id>
-    <title>iBlueYonder Publishes Trailer for Upcoming Dallas Love Field for X-Plane 12</title>
-    <updated>2025-05-12T00:00:00+00:00</updated>
-    <link href="/news/ibydlf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68150eebd242e9706093cee7_yonder9.webp"/>
-    <summary>Sim: X-Plane. iBlueYonder has recently published a trailer for their upcoming Dallas Love Field (KDAL) for X-Plane 12, developed in partnership with StableSystem and joshomoore (they handled the porting process, as the scenery was originally made for Microsoft Flight Simulator 2020). Dallas Love Field is the 31st busiest airport in the United States, with a yearly average of 6 million passengers, opened 105 years ago as a training camp for WW1 pilots and then converted into a storage facility for surplus aircraft right after the war, where it barely saw any action for nearly ten years. It was then purchased by the city of Dallas in 1928 and opened for civilian use, with the first set of paved runways to come four years later.Â  The first proper terminal was built in 1940, serving 21 weekday airline departures from American, Braniff, and Delta.Â  World War 2 forced the airport to return to its training school roots, only ceasing after it was all over when it once again returned to being a civil airport.Â  With the increased passenger numbers during the late 1950s came the need for a new terminal (T3) designed by Donald S. Nelson. It would have three concourses, 26 gates, and the worldâs first moving walkways.Â  Nowadays, the airport has a single terminal with 20 gates, with Alaska and Delta Air Lines having one each, and the remaining 18 are under Southwestâs helm. Not coincidentally, Southwest Airlines has 95.3% of the passenger market share, followed by Delta with 2.2% and Alaska with 1.7%. Houston (387,000), Denver (367,000), and Atlanta (358,000) compose the top list of busiest destinations from Love Field. While an official feature list hasnât been revealed yet, its ported nature probably means it wonât differ much from the original, which features custom ground textures, a high-detail terminal model with its interior, hand-crafted and hand-placed signage, custom night lighting, and more. Thereâs yet to be any information on pricing or a release date, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/kiwsam</id>
-    <title>KiwiFlightSim Releases Faleolo International Airport for MSFS 2020/2024</title>
-    <updated>2025-05-13T00:00:00+00:00</updated>
-    <link href="/news/kiwsam"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6823881bc83840ff694a2260_fale1.webp"/>
-    <summary>Sim: FS24. KiwiFlightSim has recently released their rendition of Faleolo International Airport (NSFA) for Microsoft Flight Simulator 2020 and 2024, serving Apia, in Samoa. The United States Navy built it in the 1940s on land reclaimed by the New Zealand colonial administration as an airfield and naval base. The original runway was only 1,200 meters long, but it eventually expanded to 1,829 meters in 1943 to accommodate larger fighter jets. After the war, the airport became relatively underutilized, only seeing proper traffic after an upgrade in 1957 that allowed the conversion from seaplanes to land-based aircraft. An upgrade followed in the 1970s to create a 1,700-meter-long sealed runway less vulnerable to floods (common in the region). The new addition would allow larger jets like the Boeing 737 to fly into the airport. Further upgrades followed in the mid-1980s and early 2000s to make it able to handle even larger jet aircraft. Air New Zealand, Fiji Airways, Qantas, Samoa Airways, Talofa Airways, and Virgin Australia serve it. The scenery features an accurate rendition of the airport, with a 3D modeled main terminal and its interior (plus VIP terminal, regional terminal, and tower, all with their respective interiors), custom night lighting, custom ground textures, custom jetways, custom GSX profile, and much more. Itâs available on SimMarket for roughly $15.33, requiring at least 1.39 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rsgpri</id>
-    <title>RealSimGear to Slash Prices Effective Immediately</title>
-    <updated>2025-05-13T00:00:00+00:00</updated>
-    <link href="/news/rsgpri"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68238bd438bddc19932f45b4_rsg1.jpg"/>
-    <summary>Sim: OTHER. RealSimGear has recently announced a permanent price cut on some of their products. This is due to streamlining production and consequently lowering the manufacturing costs while keeping the same build quality, allowing them to sell the products at a more inviting price tag. Products such as their G1000 suite, for example, went from $2,199 to $1,699 while retaining the same build quality and not compromising on anything. The individual unit went down from $899 to $699.Â  Another price cut worth mentioning is the GNS530, which is now down to $299 from its original $449.Â  Please refer to their store page for further information on the products and their respective discounts. Itâs worth noting that the discounts do not apply to the entire product line. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/syd2d5</id>
     <title>FlyTampa Updates Sydney Airport for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6833a63b82a463bafdc16e6a_lauderdale.jpg"/>
     <summary>Sim: FS24. Verticalsim recently posted an announcement on its Facebook page concerning the cancellation of their Fort Lauderdale-Hollywood International Airport (KFLL) rendition for Microsoft Flight Simulator 2020 and 2024 due to various factors. âThis wasnât an easy decision,â they said, âespecially with much of the work already completed, but - after careful reflection - I believe itâs the right one.â The ever-rising expectations for Microsoft Flight Simulator sceneries, their lack of reference material for the airport, and shifting market demands have made the project non-viable and impractical to continue.Â  â Furthermore, their commitment to delivering high-standard scenery that meets or exceeds expectations would not be compatible with delivering KFLL, as they like to take their time to do things right and never cut corners.Â  â Verticalsim will now focus on completing Palm Beach International Airport (KPBI) and outlining a clear roadmap for 2025, âdelivering high-quality airports that I know I can bring the community the right way.â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aessdr</id>
+    <title>Aerosoft Publishes Scenery Development Roadmap for 2025</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <link href="/news/aessdr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68362df620c971183c17379c_aerosoftroadmap.webp"/>
+    <summary>Sim: FS24. Aerosoft recently delineated its development roadmap for 2025, which so far comprises a DÃ¼sseldorf Airport (EDDL) backport to Microsoft Flight Simulator 2020, optimization work for Frankfurt Airport (EDDF), and a rendition of Paris Charles de Gaulle (LFPG). â Due to popular demand, Aerosoft has decided to backport their newly released DÃ¼sseldorf Airport to Microsoft Flight Simulator 2020. They appear to have found a solution to make the scenery backward compatible, even though it was built from the ground up with the new technology in mind. â All 2024 version customers will get the 2020 version free of charge, and they will ensure it also applies to Marketplace customers. Due to certain core differences, they will be provided as separate installations. â Their Mega Airport Frankfurt is undergoing heavy optimization work, with the LOD levels being revised, improved memory and CPU utilization, optimization of all 3D models and textures, and better balance between LOD and FPS. Furthermore, they will also be working on implementing Terminal 3 and updating the ground layout to reflect the latest changes. The update is going to be free for all current owners. â They have also announced a rendition of Paris Charles de Gaulle (LFPG) for Microsoft Flight Simulator 2024 (and maybe 2020, if their backporting process works as intended). They promise a heavily optimized flagship scenery with a large scope, ambition, and transparent step-by-step development process. â Lastly, they announced a rendition of Stuttgart Airport (EDDS) for Microsoft Flight Simulator 2024 (which may be backported depending on demand), developed by Jo Erlend and Lukas Vezyroglou. Itâs said to be already in development and will feature a highly detailed implementation focused on realism and atmosphere. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/msfeav</id>
+    <title>Microsoft to Attend South Americaâs First Flight Simulation Exposition</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <link href="/news/msfeav"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6836365d2c00ce07f62f40e0_expoav1.webp"/>
+    <summary>Sim: OTHER. Microsoft has recently confirmed its attendance at Expo AviaÃ§Ã£o Virtual 2025, South Americaâs first flight simulation exposition. Now, in its second editionâwith a much larger scopeâit expects up to 2000 visitors within its two-day run and a much larger number of speakers and brands. The first edition welcomed big names in the industry, such as PMDG, Say Intentions AI, Azul Airlines, and popular scenery developers from Brazil (Geardown Simulations, Flyt Simulations). They intended on expanding their international reach for 2025, with Microsoft now confirming their presence. Talks are still in place with other global leaders in simulation and training. Over 14 expert speakers are already confirmed at the event, including many Brazilian aviation figures from both the simulation and real-life spectrum, sharing their experience and knowledge with all the attendees.Â  The event stands out for their inclusive approach, offering a half-price ticket to attendees who donate one kilogram of non-perishable food, which will be donated to charity. Furthermore, they will be welcoming deaf pilots who will share their stories with the audience.Â  â Expo AviaÃ§Ã£o Virtual will be held between November 22 and 23 at Shopping Center 3, Avenida Paulista, 2064, SÃ£o Paulo. Click here for further information and registration details. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mjc400</id>
+    <title>Majestic Software Shares Renders of Upcoming Q400 for MSFS </title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <link href="/news/mjc400"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68363a6811e46f74690f1310_q4001.webp"/>
+    <summary>Sim: FS24. Majestic Software has made their first public appearance in a long while with fiveÂ render images of their upcoming Bombardier Q400, a popular turboprop airliner widely used in North America and Europe. Announced during the early days of Microsoft Flight Simulator 2020, the Q400 project hasnât seen much tangible information other than the occasional âwe are working on it,â but Majestic has finally taken a bold step, showing renders of their project (still not in-sim, though). They say they will be sharing in-sim screenshots when it is permissible to do so. It is also not yet known whether it will be available for Microsoft Flight Simulator 2020, 2024, or both, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-05-27T00:00:00+00:00</published>
   </entry>
 </feed>
