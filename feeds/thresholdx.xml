@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-28T18:34:06.090340+00:00</updated>
+  <updated>2025-05-29T18:35:12.215883+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/syd2d5</id>
-    <title>FlyTampa Updates Sydney Airport for MSFS 2020/2024</title>
-    <updated>2025-05-13T00:00:00+00:00</updated>
-    <link href="/news/syd2d5"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6823a35fc4d91a1d439dde4b_sid1.webp"/>
-    <summary>Sim: FS24. FlyTampa recently issued an update to their rendition of Sydney Airport (YSSY) for Microsoft Flight Simulator 2020 and 2024, which improves compatibility with the newly released platform, provides layout updates, fixes bugs, and more. Update 2.5 brings a vast list of changes and improvements, such as the addition of new ramp parking spots as per real life, new taxiways (D and J), the reworking of certain parking spots, the remodeling of the motorway tunnels under the runway, the addition of 3D fences, new taxiway lights, performance optimization work, etc. The complete changelog follows below: According to FlyTampa's Facebook page post, the update will be available for free in the next few hours.Â  The scenery is available on OrbxDirect for roughly $15.21, requiring at least 1.71 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sfeddv</id>
     <title>SoFly Releases Hannover Airport for MSFS 20/24</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68363a6811e46f74690f1310_q4001.webp"/>
     <summary>Sim: FS24. Majestic Software has made their first public appearance in a long while with fiveÂ render images of their upcoming Bombardier Q400, a popular turboprop airliner widely used in North America and Europe. Announced during the early days of Microsoft Flight Simulator 2020, the Q400 project hasnât seen much tangible information other than the occasional âwe are working on it,â but Majestic has finally taken a bold step, showing renders of their project (still not in-sim, though). They say they will be sharing in-sim screenshots when it is permissible to do so. It is also not yet known whether it will be available for Microsoft Flight Simulator 2020, 2024, or both, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkeddl</id>
+    <title>MK Studios Releases DÃ¼sseldorf Airport for MSFS 2020/2024</title>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+    <link href="/news/mkeddl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6838767cf2aea972b052dbf4_Banner_Image.webp"/>
+    <summary>Sim: FS24. MK Studios has just released its version of DÃ¼sseldorf Airport (EDDL) for Microsoft Flight Simulator 2020 and 2024. The airport serves over 19 million passengers annually, making it the fourth-busiest airport in Germany. DÃ¼sseldorf Airport, opened in 1927, did not have any international flights until two years later, in 1929. During the Second World War, the airport ceased civil aviation operations from 1939 to 1948. From 1969 to 1986, the airport underwent various upgrades, including the construction of three new terminals and an extension of the runway. As traffic to the airport grew rapidly, additional expansions were made, including the addition of a railway station and a new parking garage. Today, DÃ¼sseldorf Airport serves as a base for airlines such as Condor, Corendon Airlines, Eurowings, SunExpress, and TUI fly Deutschland, while also accommodating a variety of other airlines. The newly released scenery features a detailed rendition of the airport, high-quality 3D models and textures, fully modelled terminal interiors, an up-to-date ground layout, custom jetways, and more. DÃ¼sseldorf Airport, created by MK Studios, is now available for purchase from Contrail for approximately $20.43. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-05-29T00:00:00+00:00</published>
   </entry>
 </feed>
