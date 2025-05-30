@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-05-29T18:35:12.215883+00:00</updated>
+  <updated>2025-05-30T18:34:43.375410+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfeddv</id>
-    <title>SoFly Releases Hannover Airport for MSFS 20/24</title>
-    <updated>2025-05-15T00:00:00+00:00</updated>
-    <link href="/news/sfeddv"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/682607e144d0006aa59c3fb9_Banner_Image.webp"/>
-    <summary>Sim: FS24. SoFly has released its highly anticipated version of Hannover Airport (EDDV) for Microsoft Flight Simulator 2020 and 2024. The international airport serves over 5 million passengers annually, making it the ninth-largest airport in Germany. Hannover Airport opened its doors in 1952. In 1973, it expanded with the introduction of two modern passenger terminals, A and B, which are still in operation today. The final terminal, C, was inaugurated in 1998. In the year 2000, the airport was connected by rail to the town of Hamelin through Hannover, and Paderborn was linked by rail a few years later in 2003. Today, Hannover Airport serves as a focus city for several airlines, including Corendon Airlines Europe, Eurowings, and TUI fly Deutschland. With a range of other airlines operating, the airport offers destinations across Europe, accommodating over 5 million passengers each year. The scenery comes packed with features such as interactive scenery technology, dynamic airport environment, moving ground transport, interior modelling, high-resolution texturing and modelling, and so much more. The newly released Hannover Airport is now available directly from SoFly for approximately $25.22. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-05-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/m24su2</id>
     <title>Microsoft Releases Sim Update 2 for MSFS 2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/mkeddl"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6838767cf2aea972b052dbf4_Banner_Image.webp"/>
     <summary>Sim: FS24. MK Studios has just released its version of DÃ¼sseldorf Airport (EDDL) for Microsoft Flight Simulator 2020 and 2024. The airport serves over 19 million passengers annually, making it the fourth-busiest airport in Germany. DÃ¼sseldorf Airport, opened in 1927, did not have any international flights until two years later, in 1929. During the Second World War, the airport ceased civil aviation operations from 1939 to 1948. From 1969 to 1986, the airport underwent various upgrades, including the construction of three new terminals and an extension of the runway. As traffic to the airport grew rapidly, additional expansions were made, including the addition of a railway station and a new parking garage. Today, DÃ¼sseldorf Airport serves as a base for airlines such as Condor, Corendon Airlines, Eurowings, SunExpress, and TUI fly Deutschland, while also accommodating a variety of other airlines. The newly released scenery features a detailed rendition of the airport, high-quality 3D models and textures, fully modelled terminal interiors, an up-to-date ground layout, custom jetways, and more. DÃ¼sseldorf Airport, created by MK Studios, is now available for purchase from Contrail for approximately $20.43. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/777529</id>
+    <title>PMDG Faces âTurbulenceâ with MSFS 2024</title>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+    <link href="/news/777529"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67007455f9c93f4f4c4607ef_randy4.webp"/>
+    <summary>Sim: FS24. PMDG has recently published another development update concerning certain delays related to the 777-200ER and 777F's marketplace launch, the 777W update for MSFS 2024, and more. In Randazzo's own words, today's update "would be done in Captain PA's voice, if that was possible" as PMDG experiences another unexpected "turbulence" affecting the progress of their projects for Microsoft Flight Simulator 2024. They hit a new roadblock during their marketplace submission of the 777-200ER and the 777F by making an error in the naming convention for the 777 product line in MSFS 2024. This error is present in all of their products and will have to be addressed as it affects product placement and the relationship between the 2020 and the 2024 product versions within the marketplace's ecosystem and their own Operations Center. â Said issue must be fixed in all of their products before submitting to the marketplace again, and they are well aware of what the error is and how to fix it. However, time and testing are required to validate the changes and ensure they don't break anything.Â  â They plan to spend at least a week testing and then submit the 777-200ER, the 777F, and the 777-300ER to the marketplace one week from Friday. â The 777-300ER's compatibility update, which was supposed to come out this week, has been hit with the naming convention roadblock, preventing it from being rolled out. They anticipate it will be released almost immediately after confirming the fix works for the 777-200ER and the 777F. â Due to all the turbulence, the beta testing process for their upcoming 777-200LR has been delayed until further notice. â An update for the 777 product line has been in the works for a while. It is part of a larger fix they have been brewing, but the naming convention issue has become a priority for now.Â  â The DC-6 should be entering testing within the next few days, now that PMDG has seemingly addressed their level of detail issues with Microsoft Flight Simulator 2024. â The 737 update project was the topic of their weekly all-hands meeting, where they mapped out the work required to bring the product into MSFS 2024. They have frozen the product scope, and the schedule is based on the remainder of the work required. Their work on the 777 has been stealing all their attention for now, but they will soon return it to the 737. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-05-29T00:00:00+00:00</published>
   </entry>
 </feed>
