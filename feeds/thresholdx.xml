@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-06-10T18:35:28.922495+00:00</updated>
+  <updated>2025-06-11T18:36:15.375381+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cwb103</id>
-    <title>flyt Updates Curitiba International Airport for MSFS 2020/2024</title>
-    <updated>2025-05-25T00:00:00+00:00</updated>
-    <link href="/news/cwb103"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/682a2ec98cde4f7895ea56e2_1250410_20250514215235_1.webp"/>
-    <summary>Sim: FS24. flyt Simulations has recently updated their newly released Curitiba International Airport (SBCT) for Microsoft Flight Simulator 2020 and 2024. The update fixes the ILS approach for runway 15/33 (for non-Navigraph users), adds minor quality-of-life improvements, and more. Update 1.0.3 is now available via the in-game Content Manager, fixing the ILS approach for runway 15/33, adding the BR Air service helipad, minor quality-of-life improvements, and minor texture adjustments. The next update, including the apron extension, updated parking stands, and new jetways, is scheduled to arrive in the next few weeks. The scenery is available in the MSFS Marketplace for $12.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vsmfll</id>
-    <title>Verticalsim Cancels Fort Lauderdale-Hollywood International Airport for MSFS 2020/2024</title>
-    <updated>2025-05-25T00:00:00+00:00</updated>
-    <link href="/news/vsmfll"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6833a63b82a463bafdc16e6a_lauderdale.jpg"/>
-    <summary>Sim: FS24. Verticalsim recently posted an announcement on its Facebook page concerning the cancellation of their Fort Lauderdale-Hollywood International Airport (KFLL) rendition for Microsoft Flight Simulator 2020 and 2024 due to various factors. âThis wasnât an easy decision,â they said, âespecially with much of the work already completed, but - after careful reflection - I believe itâs the right one.â The ever-rising expectations for Microsoft Flight Simulator sceneries, their lack of reference material for the airport, and shifting market demands have made the project non-viable and impractical to continue.Â  â Furthermore, their commitment to delivering high-standard scenery that meets or exceeds expectations would not be compatible with delivering KFLL, as they like to take their time to do things right and never cut corners.Â  â Verticalsim will now focus on completing Palm Beach International Airport (KPBI) and outlining a clear roadmap for 2025, âdelivering high-quality airports that I know I can bring the community the right way.â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aessdr</id>
-    <title>Aerosoft Publishes Scenery Development Roadmap for 2025</title>
-    <updated>2025-05-27T00:00:00+00:00</updated>
-    <link href="/news/aessdr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68362df620c971183c17379c_aerosoftroadmap.webp"/>
-    <summary>Sim: FS24. Aerosoft recently delineated its development roadmap for 2025, which so far comprises a DÃ¼sseldorf Airport (EDDL) backport to Microsoft Flight Simulator 2020, optimization work for Frankfurt Airport (EDDF), and a rendition of Paris Charles de Gaulle (LFPG). â Due to popular demand, Aerosoft has decided to backport their newly released DÃ¼sseldorf Airport to Microsoft Flight Simulator 2020. They appear to have found a solution to make the scenery backward compatible, even though it was built from the ground up with the new technology in mind. â All 2024 version customers will get the 2020 version free of charge, and they will ensure it also applies to Marketplace customers. Due to certain core differences, they will be provided as separate installations. â Their Mega Airport Frankfurt is undergoing heavy optimization work, with the LOD levels being revised, improved memory and CPU utilization, optimization of all 3D models and textures, and better balance between LOD and FPS. Furthermore, they will also be working on implementing Terminal 3 and updating the ground layout to reflect the latest changes. The update is going to be free for all current owners. â They have also announced a rendition of Paris Charles de Gaulle (LFPG) for Microsoft Flight Simulator 2024 (and maybe 2020, if their backporting process works as intended). They promise a heavily optimized flagship scenery with a large scope, ambition, and transparent step-by-step development process. â Lastly, they announced a rendition of Stuttgart Airport (EDDS) for Microsoft Flight Simulator 2024 (which may be backported depending on demand), developed by Jo Erlend and Lukas Vezyroglou. Itâs said to be already in development and will feature a highly detailed implementation focused on realism and atmosphere. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-05-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/msfeav</id>
     <title>Microsoft to Attend South Americaâs First Flight Simulation Exposition</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684591974b4e7f149299ecde_Banner_Image.webp"/>
     <summary>Sim: FS24. Imaginesim has just launched the Microsoft Flight Simulator 2024 version of Dallas Fort Worth International Airport (KDFW). After releasing this airport for Microsoft Flight Simulator 2020 a few months ago, the team is excited to introduce the highly anticipated MSFS 2024 version. Dallas Fort Worth International Airport is the third busiest airport in the world and serves a variety of airlines. It is a hub for American Airlines, Ameriflight, Southern Airways Express, and UPS Airlines. Since opening in 1974, the airport has undergone several expansions and improvements. It features a total of seven runways and five terminals, with a sixth terminal currently under construction. With nearly 750,000 aircraft movements each year, the airport accommodates approximately 88 million passengers annually. The scenery is filled with features like detailed terminals, high-definition building texturing, custom jetways, Skylink train animation, and much more. The recently released Microsoft Flight Simulator 2024 version of Dallas Fort Worth International Airport is now available from Imaginesim for approximately $33.81. Customers who own the Microsoft Flight Simulator 2020 version are eligible to receive it for free. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inirho</id>
+    <title>iniBuilds Releases Rhode Island T.F. Green International Airport for MSFS 2024</title>
+    <updated>2025-06-10T00:00:00+00:00</updated>
+    <link href="/news/inirho"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6848c21fb73891b4af4d1d51_pvd1.webp"/>
+    <summary>Sim: FS24. iniBuilds recently released their rendition of Rhode Island T.F. Green International Airport (KPVD) for Microsoft Flight Simulator 2024, which serves Providence with a yearly average of 4 million passengers. It was dedicated in 1931 as Hillsgrove State Airport, and its first passenger terminal was only built in 1933. Its original layout consisted of three 910-meter-long concrete runways. It was used for flight training by the United States Army Air Force during 1942 and 1945, hosting the 435th Army Air Force Base. The WW2 occupation period led to several upgrades, including runway extensions (300 meters each) and slightly improved infrastructure. In the 1960s, a new terminal was built, as the old one was not large enough to handle a metropolitan area with over a million people.Â  It wasnât until 1996 that it would see another upgrade, entirely replaced by a new passenger terminal with 18 gates. Four extra gates were added in 1997. Itâs a hub for Wiggins Airways and an operating base for Breeze Airways. Allegiant Air, American Airlines, American Eagle, BermudAir, Delta Air Lines, Delta Connection, JetBlue, Southwest Airlines, Sun Country Airlines, and United Express serve it. The scenery features an accurate rendition of the airport, with custom ground textures, a true-to-life landside, realistic dynamic lighting, custom jetways, real-world signage, LOD-optimized objects, and much more. Itâs available on the iniBuilds Store for roughly $13.51 (introductory price), requiring at least 3.77 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â â</summary>
+    <published>2025-06-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vpibog</id>
+    <title>V Pilot Designs Releases El Dorado International Airport for MSFS 2024</title>
+    <updated>2025-06-11T00:00:00+00:00</updated>
+    <link href="/news/vpibog"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6848cb0873eb6eb8d8d2b3a1_bog1.webp"/>
+    <summary>Sim: FS24. V Pilot Designs has recently released their rendition of El Dorado International Airport (SKBO) for Microsoft Flight Simulator 2024, serving BogotÃ¡ and its surrounding areas with a yearly average of 45.8 million passengers, making it the busiest airport in Latin America. The airport was conceived during General Gustavo Rojas Pinilla's government as part of his intent to modernize Colombia. Construction started in 1955, and it opened its doors for passengers within four years. It ultimately replaced Techo International Airport, Bogota's former main airport. By 1973, the airport was already handling over 3 million passengers, leading to concerns about over-congestion in the near future, which led to plans for a new runway. The second runway only came to be in 1998, much to the dismay of the locals, as that meant more noise. In 2017, the airport's Terminal 1 was significantly expanded, going from 173,000 square meters to 235,000, and can now handle up to 43 million passengers annually. Two years ago, plans were made to expand the airport further, bringing its capacity up to 60 million passengers annually. The project, funnily enough, was named El Dorado Max. It's a hub for Aerosucre, Avianca, Avianca Cargo, Avianca Express, Copa Airlines Colombia, LATAM Colombia, LATAM Cargo Colombia, and SATENA, and an operating base for AerCaribe, Central Charter de Colombia, Clic Air, Helicol, SADELCA, SAEP, and Wingo. Aerolineas Argentinas, AeromÃ©xico, Air Canada, Air Europa, Air France, American Airlines, Arajet, Avior Airlines, Copa Airlines, Delta, Emirates, Gol Linhas AÃ©reas, Iberia, JetSmart, KLM, Lufthansa, Spirit, Turkish, United, Viva, and Volaris also serve it. The scenery was rebuilt from scratch for Microsoft Flight Simulator 2024, featuring an up-to-date ground layout, high-resolution PBR textures, performance-friendly optimization, highly detailed terminals, custom jetways, and much more. It's available in the MSFS 2024 Marketplace for $21.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-06-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsrdss</id>
+    <title>Black Square Announces Release Date and Pricing for the Starship for MSFS 2020/2024</title>
+    <updated>2025-06-11T00:00:00+00:00</updated>
+    <link href="/news/bsrdss"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684955697bbd27a5f2469b47_Banner_Image.webp"/>
+    <summary>Sim: FS24. Black Square has announced the release date for its highly anticipated Starship for Microsoft Flight Simulator 2020 and 2024. The aircraft is scheduled to be released on June 19th, just over a week from now. The upcoming Starship is being promoted as one of the most advanced aircraft simulations available for the simulator. It will feature an accurate recreation of the Collins avionics suite, a sophisticated pressurisation and cabin temperature simulation, and over 230 potential failure scenarios. Additionally, a new tablet interface will allow users to configure all options, manage payloads, control failures, monitor engines, and more, all from one convenient location. A complete list of features can be found on the product page. The aircraft will be available exclusively on the Just Flight website initially, with plans for releases on both the marketplace and other third-party websites to follow. The highly anticipated Starship from Black Square is set to launch with a price tag of around $54.99. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-06-11T00:00:00+00:00</published>
   </entry>
 </feed>
