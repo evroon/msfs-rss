@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-06-14T18:31:55.599459+00:00</updated>
+  <updated>2025-06-15T18:32:41.403888+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tmwsss</id>
-    <title>Taimodels Releases Singapore Changi Airport for X-Plane 12</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <link href="/news/tmwsss"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/683f90219060370618258298_changi1.webp"/>
-    <summary>Sim: X-Plane. Taimodels recently released their rendition of Singapore Changi Airport (WSSS) for X-Plane 12. It is one of the world's busiest airports, with a yearly average of 58 million passengers. It was inaugurated 42 years ago when the Singaporean government was forced to build a new airport to cope with the region's ever-growing demand for air travel.Â  At first, their original plan was to expand Paya Lebar, the former main airport in Singapore, but the 1973 Oil crisis changed everything. By 1975, they had already decided to build a brand new airport at the eastern tip of the main island of Changi, at the Changi Air Base. After its first year of operation, the airport had already handled an average of 12.1 million passengers, which led to the construction of a second passenger terminal in the 1990s. Terminal 3 soon followed in 2008, and then Terminal 4 in 2017. Terminal 5, which is planned to be larger than all four combined, is expected to open in 2030. It's a FedEx Express, Jetstar Asia, Scoot, and Singapore Airlines hub. AirAsia, Air Canada, Air China, Air France, Air India, Air New Zealand, All Nippon Airways, Cathay Pacific, China Southern Airlines, EVA Air, Garuda Indonesia, Hainan Airlines, IndiGo, KLM, Lufthansa, Qantas, Swiss, United Airlines, and Vietnam Airlines also serve it. The scenery features an accurate rendition of the airport, with hand-made PBR ground textures, high-detail models, SAM jetways, performance-friendly optimization, weather textures (X-Plane 12), and more. It's available on SimMarket for roughly $26.48, requiring at least 1.86 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/samqin</id>
     <title>SamScene3D Releases Qingdao Jiaodong International Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6700743a43d6279dcc6fba41_randy3.webp"/>
     <summary>Sim: FS24. PMDG has recently made their Boeing 777-300ER compatible with Microsoft Flight Simulator 2024, the last remaining member of their 777 lineup that was still only available in MSFS 2020. Furthermore, they have also updated the 777-200ER and the 777F for Microsoft Flight Simulator 2020 and 2024 with build 113, bringing version parity across the entire aircraft family. Regarding the Marketplace debut, PMDG doesnât know when the 777 updates will arrive in MSFS 2020 nor when the planes will appear for purchase in 2024âs marketplace, as they are still working through some data sent by the Microsoft team overlooking the intake process. The instruction sets provided by Microsoft conflict with PMDGâs method of doing things, and they are working out a way to settle that properly. The 777-200LR is set to enter beta testing this weekend, and they plan to release it by the end of the month. PMDGâs product lineup is available on their website, with prices ranging from $34.99 to $74.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-06-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tfse25</id>
+    <title>Threshold at FlightSimExpo 2025: What to Expect</title>
+    <updated>2025-06-15T00:00:00+00:00</updated>
+    <link href="/news/tfse25"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684eead05fdddd6bccb40fe2_Banner_Image.webp"/>
+    <summary>Sim: OTHER. FlightSimExpo returns this month, bringing one of the worldâs largest flight simulation events to Providence, Rhode Island. With more than 3,000 attendees expected and over 70 exhibitors confirmed, FSExpo 2025 is shaping up to be one of the biggest gatherings yet for enthusiasts, developers, and aviation professionals alike. â Threshold will once again be on-site to provide live coverage throughout the event. From June 27 to 29, our team will share real-time updates, breaking announcements, and hands-on insights from the show floor via our social media channels. Expect frequent posts across Bluesky, Instagram and Facebook, as well as video content directly from the exhibit hall. We will be streaming a special event recap on our YouTube channel, covering the biggest announcements and product reveals from #FSExpoFriday. As with last year, we will be speaking with major developers, creators, and exhibitors, bringing you exclusive video interviews and insights from the event. If you prefer to catch up at your own pace, donât worry, we will publish daily roundup articles to summarise the key news and releases from each day. Attending in person? Feel free to say hello to Markus and Drew on the show floor, they will be around all weekend and would love to meet you, whether youâre a long-time reader or just discovering Threshold! â From product debuts to engaging conversations, weâre excited for what FSExpo 2025 has in store.Â  â Be sure to follow Threshold for all the latest updates! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-06-15T00:00:00+00:00</published>
   </entry>
 </feed>
