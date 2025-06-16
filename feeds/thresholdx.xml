@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-06-15T18:32:41.403888+00:00</updated>
+  <updated>2025-06-16T18:35:58.905255+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/samqin</id>
-    <title>SamScene3D Releases Qingdao Jiaodong International Airport for MSFS 2020/2024</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <link href="/news/samqin"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/683f94b63bf970eb359418b6_qing1.webp"/>
-    <summary>Sim: FS24. SamScene3D has recently released their rendition of Qingdao Jiaodong International Airport (ZSQD) for Microsoft Flight Simulator 2020 and 2024, serving Qingdao with a yearly average of 21.4 million passengers. It was built to replace Qingdaoâs former main airport, Qingdao Liuting International (same ICAO). The project was approved in 2013, and construction started in 2017. By 2020, the terminal building had already passed completion acceptance, greenlighting it for a 2021 inauguration. It features a single 478,000-square-meter terminal built to handle up to 35 million passengers a year, designed in a starfish shape with five concourses, and two 3,600-meter-long runways able to handle up to an A380. Itâs a hub for Qingdao Airlines and Shandong Airlines and a focus city for Beijing Capital Airlines and China Eastern Airlines. 9 Air, Air Busan, Air China, Air Macau, All Nippon Airways, Cathay Pacific, China United, Donghai Airlines, Hainan Airlines, Jeju Air, Korean Air, Scoot, Shanghai Airlines, Spring Airlines, Tibet Airlines, West Air, and XiamenAir also serve it. The scenery features an accurate rendition of the airport, with detailed terminals, detailed ground markings, custom jetways, custom night lighting, performance-friendly optimization, and much more. Itâs available on OrbxDirect for roughly $18.09, requiring at least 3.90 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsl302</id>
     <title>FSLabs Releases A321ceo Update Including MSFS 2024 Compatibility</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684eead05fdddd6bccb40fe2_Banner_Image.webp"/>
     <summary>Sim: OTHER. FlightSimExpo returns this month, bringing one of the worldâs largest flight simulation events to Providence, Rhode Island. With more than 3,000 attendees expected and over 70 exhibitors confirmed, FSExpo 2025 is shaping up to be one of the biggest gatherings yet for enthusiasts, developers, and aviation professionals alike. â Threshold will once again be on-site to provide live coverage throughout the event. From June 27 to 29, our team will share real-time updates, breaking announcements, and hands-on insights from the show floor via our social media channels. Expect frequent posts across Bluesky, Instagram and Facebook, as well as video content directly from the exhibit hall. We will be streaming a special event recap on our YouTube channel, covering the biggest announcements and product reveals from #FSExpoFriday. As with last year, we will be speaking with major developers, creators, and exhibitors, bringing you exclusive video interviews and insights from the event. If you prefer to catch up at your own pace, donât worry, we will publish daily roundup articles to summarise the key news and releases from each day. Attending in person? Feel free to say hello to Markus and Drew on the show floor, they will be around all weekend and would love to meet you, whether youâre a long-time reader or just discovering Threshold! â From product debuts to engaging conversations, weâre excited for what FSExpo 2025 has in store.Â  â Be sure to follow Threshold for all the latest updates! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mslgsk</id>
+    <title>Mango Studios Releases Skiathos International Airport for X-Plane 12</title>
+    <updated>2025-06-16T00:00:00+00:00</updated>
+    <link href="/news/mslgsk"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684f823e8a3d6ac3b711c010_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. Mango Studios has recently released its version of Skiathos International Airport (LGSK) for X-Plane 12. Known for its challenging approach, this Greek airport welcomes over 550,000 passengers annually. Skiathos International Airport first opened its doors in 1972. In 1998, the airport added a passenger terminal and a new control tower. However, this terminal was closed due to a minor earthquake in 2001, and a new terminal was inaugurated just a year later, in 2002. Since 2019, the airport has operated with two terminals: one for international flights and another for domestic flights. Currently, the airport can accommodate aircraft as large as the Boeing 757-200. It serves a variety of airlines, including easyJet, Jet2.com, Olympic Air, Ryanair, TUI Airways, and Wizz Air, among others. These airlines help the airport handle over 550,000 passengers each year, supported by more than 5,000 annual aircraft movements. The scenery features 4K PBR terminals and airport buildings, a fully modelled car park and waterfront, custom runway textures, realistic GSE, a pre-made ortho tile, and much more. The newly released Skiathos International Airport is now available from the X-Plane.Org Software Store for $17.99. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-06-16T00:00:00+00:00</published>
   </entry>
 </feed>
