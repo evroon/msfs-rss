@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-06-24T18:36:05.247916+00:00</updated>
+  <updated>2025-06-25T18:37:01.238766+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bsrdss</id>
-    <title>Black Square Announces Release Date and Pricing for the Starship for MSFS 2020/2024</title>
-    <updated>2025-06-11T00:00:00+00:00</updated>
-    <link href="/news/bsrdss"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/684955697bbd27a5f2469b47_Banner_Image.webp"/>
-    <summary>Sim: FS24. Black Square has announced the release date for its highly anticipated Starship for Microsoft Flight Simulator 2020 and 2024. The aircraft is scheduled to be released on June 19th, just over a week from now. The upcoming Starship is being promoted as one of the most advanced aircraft simulations available for the simulator. It will feature an accurate recreation of the Collins avionics suite, a sophisticated pressurisation and cabin temperature simulation, and over 230 potential failure scenarios. Additionally, a new tablet interface will allow users to configure all options, manage payloads, control failures, monitor engines, and more, all from one convenient location. A complete list of features can be found on the product page. The aircraft will be available exclusively on the Just Flight website initially, with plans for releases on both the marketplace and other third-party websites to follow. The highly anticipated Starship from Black Square is set to launch with a price tag of around $54.99. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-06-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/chrlsv</id>
     <title>Cardinal Horizon Relaunches SimVector With New Data Platform</title>
@@ -150,6 +141,15 @@
     <link href="/news/xpl624"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67ef0ee9572b607093dd0c18_lgt1.webp"/>
     <summary>Sim: X-Plane. Laminar Research has released update 12.2.0 after a few months of beta testing. This update brings a major graphics overhaul to their latest flight simulator, with new clouds, new tone mapping for lighting, and much more. First launched on alpha in March 2025, update 12.2.0 was finally deemed mature enough to enter the release channel. It brings a wealth of improvements to the simulatorâs visuals and overall performance and fixes long-standing issues, such as the dark cockpits, which are no longer a problem. Furthermore, the update also overhauls the cloud rendering system, making it more efficient and closer to reality. The changes to the sky donât change there, with tonemapping tweaks and atmospheric rendering improvements that bring better sky colors and cloud shadows. The simulatorâs stability has improved significantly, resulting in a more consistent experience. Airport ground textures have also been revamped, with crisper markings all around. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmlgsm</id>
+    <title>MM Simulations Releases Samos International Airport for MSFS 2020/2024</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
+    <link href="/news/mmlgsm"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685b051ca2819fe5c5c30a23_Banner_Image.webp"/>
+    <summary>Sim: FS24. MM Simulations has just released its latest scenery for Microsoft Flight Simulator 2020 and 2024. This time, the team focused on the Greek island of Samos, specifically Samos International Airport (LGSM). Annually, the airport welcomes nearly 500,000 passengers looking for the Greek sun. Opened nearly 50 years ago in 1976, the airport has a long history. The terminal underwent renovation in the late 1990s, which significantly increased its capacity to handle passengers. The airport is known for its challenging approach due to its surroundings and strong winds. Today, it is served by airlines such as Aegean Airlines, Jet2.com, Scandinavian Airlines, Sky Express, and TUI fly Nordic, providing flights to various destinations across Europe, including Athens, London, Copenhagen, Oslo, and Stockholm, among others. With nearly 6,000 aircraft movements each year, the airport accommodates just under 500,000 passengers annually. The scenery features an accurate 3D model of the terminal and control tower, realistic terrain with slope adaptation, custom vegetation, enhanced night lighting, high-resolution textures using PBR implementation, and much more. The newly released Samos International Airport, developed by MM Simulation, is now available from Orbx for approximately $18.60. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-06-24T00:00:00+00:00</published>
   </entry>
 </feed>
