@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-07-07T18:36:21.729763+00:00</updated>
+  <updated>2025-07-08T18:36:45.528678+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fssfse</id>
-    <title>FlightSim Studio Announcement and Development Update at the FSExpo 2025</title>
-    <updated>2025-06-27T00:00:00+00:00</updated>
-    <link href="/news/fssfse"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685efb90ab53a3c6cebb9d65_Banner_Image.webp"/>
-    <summary>Sim: FS24. During the #FSExpoFriday at FlightSimExpo 2025, the FlightSim Studio team announced a new expansion and provided a development update on several of their current projects. The team has announced a new expansion for its Boeing 727 series called the Super 27 Expansion. This expansion will introduce new engines, a digital vertical speed indicator (VSI), automatic spoilers, a moving map display, dual distance measuring equipment (DMEs), and more for both the freighter and passenger versions of the Boeing 727. The release is scheduled for late 2025. Additionally, the team mentioned that after launching the Super 27 Expansion, they will begin working on the Boeing 727-100 variant. The next item on the agenda was a development update for the E-Jets. The team presented a preview of the ongoing development, which includes a custom Flight Management System (FMS) featuring LNAV autopilot, vertical path calculation, and route drawing capabilities. This preview is anticipated to be released in 2025. Additionally, the team expects to begin VNAV testing later this year. To finish up, the team announced that a native version of the Tecnam for Microsoft Flight Simulator 2024 is expected in late 2025 or early 2026. We will keep you updated as soon as the team shares new information. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-06-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cofa50</id>
     <title>Contrail Announces FA50 for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6869da53572cbc6fa12f343c_hundred1.webp"/>
     <summary>Sim: FS24. Just Flight recently published a new development update on their upcoming Airbus A300B4 Professional for Microsoft Flight Simulator 2020 and 2024. The update showcases the artwork on the now fully complete flight deck based on a real airframe (F-WUAB). The flight deck will be highly configurable, with multiple possible configurations toggleable via EFB or variant-dependent. While they are currently focusing on recreating the A300B4-203 variant fitted with an INS, they will also offer the option to use the UNS-1 FMS and TCAS VSI. A full list of all the possible configurations will be shared prior to the release. The passenger cabin is nearing completion, with over 200 seats and an interior design that screams 1980s. Itâs said to perfectly capture the era, except for the cigarette smoke (which they jokingly considered adding to the feature request list). A dedicated feature update on their cabin progress is coming soon. Furthermore, Just Flight can finally share external shots of the A300 for the first time in the new platform (as it was initially intended for P3D). Upon platform transition, they decided to start nearly from scratch to meet MSFSâs visual standards. â The work on the exterior modeling is said to be 95% complete, and the only things remaining are the second engine variant and the wing flex. Every rivet, screw, fastener, panel line, weathered surface, and text decal was carefully hand placed on the exterior, ensuring maximum accuracy. Itâs a massive undertaking for an airplane this big. Their development team has recently revisited the real aircraft to gather more high-resolution images, filling specific gaps in their photograph collection and allowing them to detect certain discrepancies in previously textured areas, which have since been corrected. Systems-wise, they have now integrated the systems code into their MSFS version of the aircraft, meaning it is now âaliveâ in the simulator, and their internal testing team can start evaluating it. The systems integration happened later in the development stage because most was already complete due to their original P3D development effort, meaning their first MSFS build already features a highly advanced systems suite. â The aircraftâs core systems are said to be fully custom-coded, aiming to achieve maximum fidelity. They exemplify the depth by mentioning how the A300 has 10 fuel pumps â two in each fuel tank âand the fuel pressure supplied by each pump is slightly different, varying every time you load into the aircraft, replicating what youâd see in the real aircraft. â Systems-wise, most of what is still being worked on is navigation-related, such as the autopilot and the INS. Work is progressing well, though, and they will share more information on those soon in future development updates. â There is still no release date or pricing information, but Threshold will keep you informed as development progresses. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2a092</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
+    <updated>2025-07-08T00:00:00+00:00</updated>
+    <link href="/news/a2a092"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/686485a644b302329c4aabc2_pip1.jpg"/>
+    <summary>Sim: FS24. A2A Simulations has issued the first update for their newly released Piper Aerostar 600 for Microsoft Flight Simulator 2024, which includes changes to sounds, systems, the 3D model, and more. Given the aircraftâs early access nature, fast-paced updates will be commonplace, and update 0.9.2 is the first of many. The complete changelog follows below: Users are instructed to redownload the installer from the store and run it, regardless of whether they want to update or perform a complete reinstall. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-08T00:00:00+00:00</published>
   </entry>
 </feed>
