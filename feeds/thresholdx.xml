@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-07-09T18:37:28.296106+00:00</updated>
+  <updated>2025-07-10T18:36:51.718572+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/cofa50</id>
-    <title>Contrail Announces FA50 for MSFS 2020/2024</title>
-    <updated>2025-06-27T00:00:00+00:00</updated>
-    <link href="/news/cofa50"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685eff94f85025739cfe5999_Banner_Image.webp"/>
-    <summary>Sim: FS24. At the #FSExpoFriday event during FlightSimExpo 2025, Contrail founder Lars Pinkenburg announced that the team is currently developing the FA50 for Microsoft Flight Simulator 2020 and 2024. This aircraft will be the first one developed in-house by Contrail. The Dassault Falcon 50, known for its tri-engine design, has been utilised by both private and military operators globally. This aircraft is certified to reach altitudes of up to 49,000 feet and is capable of flying both transcontinental and transoceanic routes. The addon will be equipped with fully customised avionics systems, including the GNSXLS Flight Management System, the Apollo MX20 MFD, the Collins Electronic Flight Information System suite, and a dedicated custom autopilot. Currently, the aircraft is set to feature 18 different liveries. While the price has not yet been determined, it is expected to be released in 2025. We will keep you updated as soon as the team shares new information. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-06-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wwafse</id>
-    <title>WinWing Announces New Products at the FSExpo 2025</title>
-    <updated>2025-06-27T00:00:00+00:00</updated>
-    <link href="/news/wwafse"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685f1171b5ef75b835a73591_Banner_Image.webp"/>
-    <summary>Sim: OTHER. WinWing has announced a variety of new products at the #FSExpoFriday event during FlightSimExpo 2025, following their announcements at FSWeekend 2025. This latest release includes flight simulation hardware designed for both the commercial and combat sectors. The team began by announcing a variety of new products for the commercial sector. First, they introduced the ATC 32, ACP 32, and RMP 32. The prices for the ATC 32 and RMP 32 are set at $77.50 each, while the ACP 32 is priced at $133.85. Next, they unveiled the AGP 32, which is a landing gear and autobrake panel, also priced at $133.85. They also released the ECAM 32, an ECAM panel, priced at $77.50.Â  Following that was the NWS L 32, a left-sided Airbus tiller, priced at $82.30. Finally, they introduced the N32 rudder pedals, which are priced at $328.69. Additionally, there will be two Force Feedback (FFB) variants of these rudder pedals, designated as EB140 32 and EB400 32, available for $499.95 and $599.95, respectively. The next announcement highlighted new products in the combat sector. Two new rudder pedals have been introduced: the EB140 N and the EB400 N. These are combat variants of the original EB140 32 and EB400 32 models, priced at $499.95 and $599.95, respectively. The previously announced FFB Boeing Yoke was also on display; however, the price has not yet been determined. Lastly, the Met 29 Grips were showcased. The Joystick Grip R Met 29 is priced at $222.45, while the Throttle Grip R Met 29 is priced at $141.06. We will keep you updated as soon as the team shares new information. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-06-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/350113</id>
     <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024 with ULR Variant, Teases A340</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/686485a644b302329c4aabc2_pip1.jpg"/>
     <summary>Sim: FS24. A2A Simulations has issued the first update for their newly released Piper Aerostar 600 for Microsoft Flight Simulator 2024, which includes changes to sounds, systems, the 3D model, and more. Given the aircraftâs early access nature, fast-paced updates will be commonplace, and update 0.9.2 is the first of many. The complete changelog follows below: Users are instructed to redownload the installer from the store and run it, regardless of whether they want to update or perform a complete reinstall. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-07-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taiyqb</id>
+    <title>Taimodels Releases QuÃ©bec City International Airport for X-Plane 12</title>
+    <updated>2025-07-10T00:00:00+00:00</updated>
+    <link href="/news/taiyqb"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/686f0a8089cfc94f97b40b1e_quebec1.webp"/>
+    <summary>Sim: X-Plane. Taimodels recently released their rendition of QuÃ©bec City Jean Lesage International Airport (CYQB) for X-Plane 12. The airport serves the QuÃ©bec City metropolitan area and has a yearly average of 1.7 million passengers. It was established in 1939 as a military training facility for air observers, with the first flight only taking place two years later, on September 11, 1941. It was then known as RCAF Station LâAncienne-Lorette, and its wartime foundation laid the essential infrastructure (runways, hangars, and control tower) that would eventually be adapted for civil use. Its transition from military to civil use happened when World War 2 ended, with the Department of Transport taking over immediately. Early commercial flights connected QuÃ©bec to other major Canadian cities, fostering economic growth in the region. The 1950s and 1960s saw increased passenger numbers as air travel became more popular, requiring expansion work to accommodate the ever-growing number of people. Furthermore, the beginning of the jet age also demanded slightly longer jetways and aprons. In 2006, the administration invested over 65 million dollars in increasing the terminalâs passenger handling capacity and improving the overall quality of their services. The modernization included a terminal reconfiguration, the enlargement of waiting rooms, and the complete restructuring of the baggage handling area. The process was finished 2 years later, and the airport could now handle up to 1.4 million passengers. It was expanded again in 2011âat a cost of over 200 million dollarsâdoubling the terminalâs size. The project took 6 years to complete and also included a new runway, new taxiways, new deicing pads, and enhanced facilities. â Two years after the conclusion of the terminal expansion, further work was carried out to link the domestic and international terminals. â The scenery features an accurate rendition of the airport, with high-quality models, custom ground markings, custom autogen around the airportâs area, performance-friendly optimization, and X-Plane 12âs weather textures. â Itâs available on SimMarket for roughly $20.49, requiring at least 931.19 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tmqbcmsfs</id>
+    <title>Taimodels Releases QuÃ©bec City International Airport for MSFS 2020/2024</title>
+    <updated>2025-07-10T00:00:00+00:00</updated>
+    <link href="/news/tmqbcmsfs"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/686f143ff3bd79afed96602a_qbc1.webp"/>
+    <summary>Sim: FS24. Taimodels recently released their rendition of QuÃ©bec City Jean Lesage International Airport (CYQB) for Microsoft Flight Simulator 2020 and 2024. The airport serves the QuÃ©bec City metropolitan area and has a yearly average of 1.7 million passengers. It was established in 1939 as a military training facility for air observers, with the first flight only taking place two years later, on September 11, 1941. It was then known as RCAF Station LâAncienne-Lorette, and its wartime foundation laid the essential infrastructure (runways, hangars, and control tower) that would eventually be adapted for civil use. Its transition from military to civil use happened when World War 2 ended, with the Department of Transport taking over immediately. Early commercial flights connected QuÃ©bec to other major Canadian cities, fostering economic growth in the region. The 1950s and 1960s saw increased passenger numbers as air travel became more popular, requiring expansion work to accommodate the ever-growing number of people. Furthermore, the beginning of the jet age also demanded slightly longer jetways and aprons. In 2006, the administration invested over 65 million dollars in increasing the terminalâs passenger handling capacity and improving the overall quality of their services. The modernization included a terminal reconfiguration, the enlargement of waiting rooms, and the complete restructuring of the baggage handling area. The process was finished 2 years later, and the airport could now handle up to 1.4 million passengers. It was expanded again in 2011âat a cost of over 200 million dollarsâdoubling the terminalâs size. The project took 6 years to complete and also included a new runway, new taxiways, new deicing pads, and enhanced facilities. Two years after the conclusion of the terminal expansion, further work was carried out to link the domestic and international terminals. The scenery features an accurate rendition of the airport, with hand-made ground markings, realistic terminals and cargo area, realistic lighting, custom taxiways and aprons, custom jetways, and performance-friendly optimization. Itâs available on the iniBuilds Store for roughly $19.90, requiring at least 1.42 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-10T00:00:00+00:00</published>
   </entry>
 </feed>
