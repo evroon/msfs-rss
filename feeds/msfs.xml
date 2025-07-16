@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-07-15T18:39:25.186910+00:00</updated>
+  <updated>2025-07-16T18:38:26.796913+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale-3500-items-on-sale-now-in-the-marketplace-msfs-2020/</id>
-    <title>BLACK FRIDAY SALE: 3500+ ITEMS ON SALE NOW IN THE MARKETPLACE | MSFS (2020)</title>
-    <updated>2024-11-27T19:21:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale-3500-items-on-sale-now-in-the-marketplace-msfs-2020/"/>
-    <summary>For 6 Days starting on November 27th, save up to 90% on more than 3500 items.</summary>
-    <published>2024-11-27T19:21:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
     <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
@@ -29,18 +21,17 @@
     <title>Creator Highlight, April 2025 – The NextGen Eagles</title>
     <updated>2025-04-30T19:00:20+00:00</updated>
     <link href="https://www.flightsimulator.com/creator-highlight-april-2025-the-nextgen-eagles/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/04/2025-NGE-Signature-Pass-cropped-1024x576.jpg"/>
     <summary>Our April 2025 Creator Highlight focuses on Leland Kracher, #1 Lead of The NextGen Eagles display team! As the World’s only Christen Eagle team, they are honored to be writing the next chapter in the incredible story of these iconic air show airplanes.</summary>
     <published>2025-04-30T19:00:20+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/summer-sale-200-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2024/</id>
-    <title>Summer Sale: 200+ Items On Sale Now in the Marketplace | Microsoft Flight Simulator 2024</title>
-    <updated>2025-06-26T18:34:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/summer-sale-200-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS2024_SummerSale2025_v1_1920x1080-768x432.jpg"/>
-    <summary>For 14 Days starting on June 26th, save up to 75% on more than 200 items.</summary>
-    <published>2025-06-26T18:34:10+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
+    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
+    <updated>2025-07-16T16:15:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-1024x576.png"/>
+    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
+    <published>2025-07-16T16:15:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-26th-2025-development-update/</id>
@@ -88,13 +79,13 @@
     <published>2025-07-10T23:47:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/summer-sale-3300-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2020/</id>
-    <title>Summer Sale: 3300+ Items on Sale Now in the Marketplace | Microsoft Flight Simulator (2020)</title>
-    <updated>2025-06-26T18:33:16+00:00</updated>
-    <link href="https://www.flightsimulator.com/summer-sale-3300-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2020/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS2020_SummerSale2025_v2_1920x1080-768x432.jpg"/>
-    <summary>For 14 Days starting on June 26th, save up to 88% on more than 3300 items.</summary>
-    <published>2025-06-26T18:33:16+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
+    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
+    <updated>2025-07-16T16:15:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-768x432.png"/>
+    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
+    <published>2025-07-16T16:15:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-26th-2025-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2025-07-10T23:47:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/summer-sale-200-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2024/</id>
-    <title>Summer Sale: 200+ Items On Sale Now in the Marketplace | Microsoft Flight Simulator 2024</title>
-    <updated>2025-06-26T18:34:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/summer-sale-200-items-on-sale-now-in-the-marketplace-microsoft-flight-simulator-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS2024_SummerSale2025_v1_1920x1080-768x432.jpg"/>
-    <summary>For 14 Days starting on June 26th, save up to 75% on more than 200 items.</summary>
-    <published>2025-06-26T18:34:10+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
+    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
+    <updated>2025-07-16T16:15:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-768x432.png"/>
+    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
+    <published>2025-07-16T16:15:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/june-26th-2025-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/NewtoniusPie-Forums-1-768x432.jpeg"/>
     <summary>This week’s Screenshot Challenge winner for the second week running is Forum user NewtoniusPie! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Public pre-release testing of both Sim Update 3 for Microsoft Flight Simulator 2024 and Sim Update 16 for Microsoft Flight Simulator (2020) continues, … Continued</summary>
     <published>2025-07-10T23:47:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
+    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
+    <updated>2025-07-16T16:15:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-768x432.png"/>
+    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
+    <published>2025-07-16T16:15:43+00:00</published>
   </entry>
 </feed>
