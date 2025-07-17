@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-07-16T18:38:30.811267+00:00</updated>
+  <updated>2025-07-17T18:39:24.136666+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gf33me</id>
-    <title>Got Friends Announces the imminent Release of the AS 33 Me Motor Glider for Microsoft Flight Simulator, with Discus 2c also receiving Upgrades.</title>
-    <updated>2025-06-28T00:00:00+00:00</updated>
-    <link href="/news/gf33me"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68604640f038e89a617fc225_A33_EXTERIOR.webp"/>
-    <summary>Sim: FS24. Got Friends is about to release their AS 33 Me Motor glider for Microsoft Flight Simulator 2020 and 2024. It will include both 15-meter and 18-meter variants and has been developed in collaboration with three-time World Gliding Champion, Stefan Langer. According to Got Friends, the avionics suite is highly advanced and will support task-based navigation, thermal tracking, customizable instrument layouts, and more. The aircraft is designed to provide a flexible experience for both experienced and casual players, allowing for a reduction in complexity as needed. The AS 33 Me will also include a new LXNav gliding computer and a variety of liveries. â Got Friends states that this will be their most advanced aircraft to date. It is set to release on July 1st for both Microsoft Flight Simulator 2020 and 2024 at a price of $19.99. Discus 2C upgrades In addition to releasing the AS 33 Me, Got Friends has also launched a significant upgrade for both the Freeware and Premium versions of the Discus 2c, showcasing features found in the new AS 33 Me. â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
-    <published>2025-06-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ddysws</id>
-    <title>Drzewiecki Design Releases Western Sydney International Airport for MSFS 2020/2024</title>
-    <updated>2025-06-28T00:00:00+00:00</updated>
-    <link href="/news/ddysws"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68604ff0ae79e282f9604cab_Banner_Image.webp"/>
-    <summary>Sim: FS24. Drzewiecki Design has recently released its rendition of Western Sydney International Airport (YSWS) for Microsoft Flight Simulator 2020 and 2024. This airport is situated approximately 38 miles from the center of Sydney and is currently under construction, with a projected completion date at the end of 2026. Once finished, it will serve as a supplement to the existing Sydney Kingsford Smith Airport (YSSY). Construction of the new Western Sydney International Airport began in 2018 and is expected to be completed by late 2026. This airport will be notable for using a remote and virtual control tower rather than the traditional air traffic control tower, making it the first airport in Australia to feature this technology. The new airport is being built to supplement the existing Sydney Kingsford Smith Airport (YSSY), which has limited space for expansion. As of now, airlines including Qantas, Jetstar, and Singapore Airlines have announced plans to operate flights to the new airport. The new scenery includes an up-to-date and high-quality model of the airport, advanced night lighting, custom jetways, and many additional features. The newly released Western Sydney International Airport is now available from SimMarket for approximately $23.44. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-06-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/asafse</id>
-    <title>Aerosoft Previews A330neo for MSFS 2020/2024</title>
-    <updated>2025-06-28T00:00:00+00:00</updated>
-    <link href="/news/asafse"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6860549cb73663dcdb2afb28_videoframe_141670.webp"/>
-    <summary>Sim: FS24. Aerosoft has shared a fresh look at their upcoming Airbus A330-900neo for Microsoft Flight Simulator 2020 and 2024, suggesting that development of the wide-body airliner is nearing its final stages. The announcement was made during FlightSimExpo 2025, through an official release trailer, published on the Aerosoft Flight YouTube channel. The trailer showcases the A330neo in action, featuring in-flight sequences and various system previews. Featured is the Onboard Airport Navigation System (OANS), aswell as a demonstration of the electronic flight bag. The landing gear is displayed in motion, with tilt animations and suspension compression during touchdown. The aircraftâs soundscape is also previewed, highlighting the brake fan ambience and the distinctive spool-up of the Rolls-Royce Trent 7000 engines.Â  Featured throughout are multiple real-world liveries, such as Condor, Virgin Atlantic, and Delta Air Lines. We also get a glimpse of the cabin. Although a release date has not yet been confirmed, Aerosoft has stated the aircraft is âsoon to be releasedâ. Further details regarding pricing are expected soon. Stay tuned to Threshold for more updates, news, and coverage of upcoming releases! â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-06-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aerostar24</id>
     <title>A2A Simulations Shares Screenshots of Upcoming Accu-Sim Aerostar for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6876dc32fb46d3f3e7a24e14_aerostarupdate.jpg"/>
     <summary>Sim: FS24. A2A Simulations recently issued a new update to their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, bringing new fixes, features, and improvements to the flight deck. Update v0.9.4 â the second so far âadds new glass to the instruments, a new animated propeller spinner, further tuning to the flight model in slow speeds, VR view adjustments, autopilot tweaks, updated engine sounds, and a wealth of minor fixes. The complete changelog follows below: â - New instruments glass - New shiny and animated prop spinner - Fine tuned slow flight - Adjusted VR default view - Added A600_STEERING_SWITCH_LEFT and A600_STEERING_SWITCH_RIGHT bindings for completeness. Same as MSFS STEERING INC/DEC shortcuts, no need to rebind. - Added wingtip shakes and wing bending physics - Aligned nose wheel doors when closed - Autopilot: fixed glideslope arming logic - Autopilot: improved NAV intercept - CHT gauge illumination - Clamshell door now droops if there is no hydraulic pressure - Compass light - Deeper Landing Gear Lever cut-out on panel - EDM790 display can pop up (ALT+CLICK) - Engine levers drag&amp;drop less sensitive - Engine sounds update - Engine vibration physics - Fix for radio frequencies not loading correctly on ramp start - Fixed ambient sounds when door is open - Fixed flickering magnetos - Fixed tooltips showing throttles at 99 max - Fuel drain bottle is now hidden by default - Increased the size of the interaction volumes (WIP) - Map light range reaches floor - Oat needle gap corrected - Potential fix for NeoFly compatibility - Restored German flag on the tail with German registration - Saving ventilation switches and levers, tablet position, marker selector - Set ui_certified_ceiling to fix "Back to Fly" MSFS keybind - Slip indicator doesn't flicker - VR collision mesh corrected - Working prop heat bindings - Yoke bank max angle increased - [Tablet] "Interior error" notification logic corrected - [Tablet] Autopilot pitch UP and DN functions inverted. - [Tablet] Empty weight corrected - [Tablet] Endurance in sync with EDM790 - [Tablet] Oil level adjustments fixed - [Tablet] The EFB app doesn't update when in the pocket The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfrjqf</id>
+    <title>Just Flight Announces RJ QT Freighter for MSFS 2020/2024</title>
+    <updated>2025-07-17T00:00:00+00:00</updated>
+    <link href="/news/jfrjqf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68791ed3787b92e1403b0210_announcing-the-rj-qt-freighter-v0-z1h17lok3gdf1.webp"/>
+    <summary>Sim: FS24. Just Flight has recently revealed a new RJ QT Freighter variant, part of an upcoming update to its RJ Professional series for MSFS 2020 and 2024.Â  In a post published on Reddit, Martyn Northall, Head of Development at Just Flight, confirmed that the RJ QT Freighter will be included as part of the previously announced MSFS 2024 compatibility update. While the updateâs primary focus is to ensure full native support for MSFS 2024 and the 2024 Marketplace, it will also introduce several new features across both MSFS 2020 and 2024. Although the RJ QT Freighter never left the drawing board in real life, Just Flight has brought the design to life in MSFS, initially with four liveries: the prototype livery, FedEx, DHL, and TNT.  The update, including the freighter, will be provided free of charge to all existing RJ Professional owners, with more feature announcements expected soon. For all the latest on the RJ Professional and more flight simulation news, keep an eye on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/da40ng</id>
+    <title>COWS Announces DA40-NG for MSFS 2020/2024</title>
+    <updated>2025-07-17T00:00:00+00:00</updated>
+    <link href="/news/da40ng"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/687929d65a70e30b8d410501_videoframe_12284.webp"/>
+    <summary>Sim: FS24. COWS has unveiled the DA40-NG, a new addition to its growing lineup of general aviation aircraft for Microsoft Flight Simulator 2020 and 2024. The announcement was made in a recent video, posted to the developerâs official YouTube channel. Built on the foundation of the COWS DA40-XLS, the DA40-NG brings a modernised take on Diamond Aircraftâs popular single-engine trainer. The aircraft has been designed in collaboration with real-world DA40 pilots and features a handcrafted flight model. COWS describes the result as an âexceptionally accurateâ simulation of the NGâs handling and performance, particularly well-suited for student training and procedural practice. The DA40-NG introduces several other features and enhancements. These include fully modelled circuit breakers, the Engine Indicating System (EIS), and custom cylinder physics modelling. The developer confirmed that the DA40-NG will be offered free of charge, to all existing DA40-XLS owners. While the initial release will be for MSFS 2020 and 2024, a version for X-Plane 12 is also planned at a later date. Stay tuned for more flight simulation news, right here on Threshold. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/efbxvp</id>
+    <title>efbX Releases New Video Preview Showcasing Upcoming Plugin Features</title>
+    <updated>2025-07-17T00:00:00+00:00</updated>
+    <link href="/news/efbxvp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/687938f6b726e1076d7ceafa_2024BL.webp"/>
+    <summary>Sim: FS24. efbX has just released a new video preview on YouTube and Instagram, showcasing the user interface and upcoming features. Built by real pilots, efbX is an upcoming fully customizable, multi-platform Electronic Flight Bag (EFB) designed for Microsoft Flight Simulator 2020, 2024, and Prepar3D. It aims to provide professional-grade features and seamless integration. At the heart of the efbX experience is the App Store, which enables users to access all their third-party flight simulation applications in one convenient location. Although most previews show efbX running on an iPad, the platform is designed as a web-based application, and will be able to run on virtually any device. efbX itself will be completely free to run; in addition, a selection of starter apps will be included; however, apps in the App Store may be paid. â efbX will feature integration with key services such as SimBrief, VATSIM and GSX, and will also support live weather updates. Compatibility will initially include MSFS 2020, MSFS 2024 and Prepar3D, with X-Plane support potentially coming in the future â For more details and future announcements from efbX, visit their website. â If you enjoy our content and want to support Threshold, consider joining us on Patreon</summary>
+    <published>2025-07-17T00:00:00+00:00</published>
   </entry>
 </feed>
