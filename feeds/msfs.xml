@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-07-21T18:39:37.672417+00:00</updated>
+  <updated>2025-07-22T18:39:20.947970+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,13 +34,58 @@
     <published>2025-07-16T16:15:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/city-update-11/</id>
-    <title>Microsoft Flight Simulator Releases City Update 11: Northeastern United States 2</title>
-    <updated>2025-06-27T13:05:45+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_CU11_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Explore the Northeastern United States in exquisite visual fidelity with this latest release. Launched in celebration of FlightSimExpo 2025, held in Providence, Rhode Island in late June, City Update 11: Northeastern United States highlights several areas of interest (AOIs) across four northeastern U.S. states: Massachusetts, New Jersey, New York, and Rhode Island. This update comprises … Continued</summary>
-    <published>2025-06-27T13:05:45+00:00</published>
+    <id>https://www.flightsimulator.com/famous-flyer-12/</id>
+    <title>Microsoft Flight Simulator Releases Famous Flyer 12: The Piper PA-28-236 Dakota</title>
+    <updated>2025-06-27T13:41:52+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-12/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_Piper_PA28_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>A civil aviation legend is now available for pilots to fly throughout the Microsoft Flight Simulator world.  The PA-28-236 Dakota: Refined and ResilientWhen first delivered in 1979, the Piper PA-28-236 Dakota represented a refined evolution of a Piper aircraft family that dated back nearly two decades. A member of the venerable PA-28 Cherokee lineage, the … Continued</summary>
+    <published>2025-06-27T13:41:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/july-3rd-2025-development-update/</id>
+    <title>July 3rd, 2025 Development Update</title>
+    <updated>2025-07-03T22:43:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-3rd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/@tsujiKa_air-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner for the second week running is X user tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Last Friday, we released City Update 11: Northeastern United States 2 and Famous Flyer 12: Piper PA-28-236 Dakota. The City Update may be claimed … Continued</summary>
+    <published>2025-07-03T22:43:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/july-10th-2025-development-update/</id>
+    <title>July 10th, 2025 Development Update</title>
+    <updated>2025-07-10T23:47:26+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-10th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/NewtoniusPie-Forums-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner for the second week running is Forum user NewtoniusPie! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Public pre-release testing of both Sim Update 3 for Microsoft Flight Simulator 2024 and Sim Update 16 for Microsoft Flight Simulator (2020) continues, … Continued</summary>
+    <published>2025-07-10T23:47:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
+    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
+    <updated>2025-07-16T16:15:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-768x432.png"/>
+    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
+    <published>2025-07-16T16:15:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/july-17th-2025-development-update/</id>
+    <title>July 17th, 2025 Development Update</title>
+    <updated>2025-07-17T21:54:28+00:00</updated>
+    <link href="https://www.flightsimulator.com/july-17th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/JohnnyT5000-Forums-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Since our last update, the public betas for both Microsoft Flight Simulator 2024 Sim Update 3 and Microsoft Flight Simulator (2020) Sim Update 16 have both received new pre-release test builds. … Continued</summary>
+    <published>2025-07-17T21:54:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/</id>
+    <title>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</title>
+    <updated>2025-07-22T17:00:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/MSFS_CitationX_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</summary>
+    <published>2025-07-22T17:00:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-12/</id>
@@ -88,13 +133,13 @@
     <published>2025-07-17T21:54:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/city-update-11/</id>
-    <title>Microsoft Flight Simulator Releases City Update 11: Northeastern United States 2</title>
-    <updated>2025-06-27T13:05:45+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_CU11_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Explore the Northeastern United States in exquisite visual fidelity with this latest release. Launched in celebration of FlightSimExpo 2025, held in Providence, Rhode Island in late June, City Update 11: Northeastern United States highlights several areas of interest (AOIs) across four northeastern U.S. states: Massachusetts, New Jersey, New York, and Rhode Island. This update comprises … Continued</summary>
-    <published>2025-06-27T13:05:45+00:00</published>
+    <id>https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/</id>
+    <title>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</title>
+    <updated>2025-07-22T17:00:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/MSFS_CitationX_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</summary>
+    <published>2025-07-22T17:00:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-12/</id>
@@ -142,57 +187,12 @@
     <published>2025-07-17T21:54:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/city-update-11/</id>
-    <title>Microsoft Flight Simulator Releases City Update 11: Northeastern United States 2</title>
-    <updated>2025-06-27T13:05:45+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-11/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_CU11_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Explore the Northeastern United States in exquisite visual fidelity with this latest release. Launched in celebration of FlightSimExpo 2025, held in Providence, Rhode Island in late June, City Update 11: Northeastern United States highlights several areas of interest (AOIs) across four northeastern U.S. states: Massachusetts, New Jersey, New York, and Rhode Island. This update comprises … Continued</summary>
-    <published>2025-06-27T13:05:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-12/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 12: The Piper PA-28-236 Dakota</title>
-    <updated>2025-06-27T13:41:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_Piper_PA28_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>A civil aviation legend is now available for pilots to fly throughout the Microsoft Flight Simulator world.  The PA-28-236 Dakota: Refined and ResilientWhen first delivered in 1979, the Piper PA-28-236 Dakota represented a refined evolution of a Piper aircraft family that dated back nearly two decades. A member of the venerable PA-28 Cherokee lineage, the … Continued</summary>
-    <published>2025-06-27T13:41:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-3rd-2025-development-update/</id>
-    <title>July 3rd, 2025 Development Update</title>
-    <updated>2025-07-03T22:43:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-3rd-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/@tsujiKa_air-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner for the second week running is X user tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Last Friday, we released City Update 11: Northeastern United States 2 and Famous Flyer 12: Piper PA-28-236 Dakota. The City Update may be claimed … Continued</summary>
-    <published>2025-07-03T22:43:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-10th-2025-development-update/</id>
-    <title>July 10th, 2025 Development Update</title>
-    <updated>2025-07-10T23:47:26+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-10th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/NewtoniusPie-Forums-1-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner for the second week running is Forum user NewtoniusPie! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Public pre-release testing of both Sim Update 3 for Microsoft Flight Simulator 2024 and Sim Update 16 for Microsoft Flight Simulator (2020) continues, … Continued</summary>
-    <published>2025-07-10T23:47:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/</id>
-    <title>Creator Highlight, July 2025 – Skies and Dolls</title>
-    <updated>2025-07-16T16:15:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-768x432.png"/>
-    <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
-    <published>2025-07-16T16:15:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/july-17th-2025-development-update/</id>
-    <title>July 17th, 2025 Development Update</title>
-    <updated>2025-07-17T21:54:28+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-17th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/JohnnyT5000-Forums-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user JohnnyT5000! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Since our last update, the public betas for both Microsoft Flight Simulator 2024 Sim Update 3 and Microsoft Flight Simulator (2020) Sim Update 16 have both received new pre-release test builds. … Continued</summary>
-    <published>2025-07-17T21:54:28+00:00</published>
+    <id>https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/</id>
+    <title>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</title>
+    <updated>2025-07-22T17:00:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/msfs-presents-flightfx-cessna-citation-x/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/MSFS_CitationX_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</summary>
+    <published>2025-07-22T17:00:04+00:00</published>
   </entry>
 </feed>
