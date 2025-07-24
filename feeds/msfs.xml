@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-07-23T18:38:50.107074+00:00</updated>
+  <updated>2025-07-24T18:39:08.343144+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/</id>
-    <title>Creator Highlight, March 2025 – Meagan S. Hobson</title>
-    <updated>2025-03-28T16:16:23+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-meagan-s-hobson/"/>
-    <summary>Our April Creator Highlight focuses on Meagan S. Hobson, founder of Women Rocks Wings; a media and lifestyle brand dedicated to celebrating and amplifying the voices of women in aviation and related communities. We had the opportunity to interview Meagan to find out more about her career, and her connection to Microsoft Flight Simulator!</summary>
-    <published>2025-03-28T16:16:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/creator-highlight-april-2025-the-nextgen-eagles/</id>
     <title>Creator Highlight, April 2025 – The NextGen Eagles</title>
@@ -29,18 +21,17 @@
     <title>Creator Highlight, July 2025 – Skies and Dolls</title>
     <updated>2025-07-16T16:15:43+00:00</updated>
     <link href="https://www.flightsimulator.com/creator-highlight-july-2025-skies-and-dolls/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/2025-05-23-13-29-50-1024x576.png"/>
     <summary>This month, we’re spotlighting a brand-new community in the flight sim world: Skies and Dolls, a group created to connect, support, and inspire women in flight simulation. Whether you’re an experienced simmer or just starting out, Skies and Dolls is a space to learn, share, and build lasting friendships with other women in the virtual … Continued</summary>
     <published>2025-07-16T16:15:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-12/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 12: The Piper PA-28-236 Dakota</title>
-    <updated>2025-06-27T13:41:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_Piper_PA28_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>A civil aviation legend is now available for pilots to fly throughout the Microsoft Flight Simulator world.  The PA-28-236 Dakota: Refined and ResilientWhen first delivered in 1979, the Piper PA-28-236 Dakota represented a refined evolution of a Piper aircraft family that dated back nearly two decades. A member of the venerable PA-28 Cherokee lineage, the … Continued</summary>
-    <published>2025-06-27T13:41:52+00:00</published>
+    <id>https://www.flightsimulator.com/developer-spotlight-flightfx/</id>
+    <title>Developer Spotlight: FlightFX</title>
+    <updated>2025-07-23T19:16:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-spotlight-flightfx/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/685df179c70a87e790a239d1_web-8-1024x576.jpg"/>
+    <summary>MSFS Presents FlightFX Cessna Citation X for Microsoft Flight Simulator (2020) and Microsoft Flight Simulator 2024, exclusively available to all players via the in-sim Marketplace. To celebrate the release of this renowned business jet, we sat down with Nick Sdoucos, CEO at FlightFX, as well as the wider development team to get an exclusive insight … Continued</summary>
+    <published>2025-07-23T19:16:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-3rd-2025-development-update/</id>
@@ -88,13 +79,13 @@
     <published>2025-07-22T17:00:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-12/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 12: The Piper PA-28-236 Dakota</title>
-    <updated>2025-06-27T13:41:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_Piper_PA28_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>A civil aviation legend is now available for pilots to fly throughout the Microsoft Flight Simulator world.  The PA-28-236 Dakota: Refined and ResilientWhen first delivered in 1979, the Piper PA-28-236 Dakota represented a refined evolution of a Piper aircraft family that dated back nearly two decades. A member of the venerable PA-28 Cherokee lineage, the … Continued</summary>
-    <published>2025-06-27T13:41:52+00:00</published>
+    <id>https://www.flightsimulator.com/developer-spotlight-flightfx/</id>
+    <title>Developer Spotlight: FlightFX</title>
+    <updated>2025-07-23T19:16:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-spotlight-flightfx/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/685df179c70a87e790a239d1_web-8-768x432.jpg"/>
+    <summary>MSFS Presents FlightFX Cessna Citation X for Microsoft Flight Simulator (2020) and Microsoft Flight Simulator 2024, exclusively available to all players via the in-sim Marketplace. To celebrate the release of this renowned business jet, we sat down with Nick Sdoucos, CEO at FlightFX, as well as the wider development team to get an exclusive insight … Continued</summary>
+    <published>2025-07-23T19:16:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-3rd-2025-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2025-07-22T17:00:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/famous-flyer-12/</id>
-    <title>Microsoft Flight Simulator Releases Famous Flyer 12: The Piper PA-28-236 Dakota</title>
-    <updated>2025-06-27T13:41:52+00:00</updated>
-    <link href="https://www.flightsimulator.com/famous-flyer-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/06/MSFS_Piper_PA28_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>A civil aviation legend is now available for pilots to fly throughout the Microsoft Flight Simulator world.  The PA-28-236 Dakota: Refined and ResilientWhen first delivered in 1979, the Piper PA-28-236 Dakota represented a refined evolution of a Piper aircraft family that dated back nearly two decades. A member of the venerable PA-28 Cherokee lineage, the … Continued</summary>
-    <published>2025-06-27T13:41:52+00:00</published>
+    <id>https://www.flightsimulator.com/developer-spotlight-flightfx/</id>
+    <title>Developer Spotlight: FlightFX</title>
+    <updated>2025-07-23T19:16:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-spotlight-flightfx/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/685df179c70a87e790a239d1_web-8-768x432.jpg"/>
+    <summary>MSFS Presents FlightFX Cessna Citation X for Microsoft Flight Simulator (2020) and Microsoft Flight Simulator 2024, exclusively available to all players via the in-sim Marketplace. To celebrate the release of this renowned business jet, we sat down with Nick Sdoucos, CEO at FlightFX, as well as the wider development team to get an exclusive insight … Continued</summary>
+    <published>2025-07-23T19:16:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-3rd-2025-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/MSFS_CitationX_NoSnipe_NoLogo_NoText-768x432.png"/>
     <summary>Microsoft Flight Simulator Announces A Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX</summary>
     <published>2025-07-22T17:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/developer-spotlight-flightfx/</id>
+    <title>Developer Spotlight: FlightFX</title>
+    <updated>2025-07-23T19:16:31+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-spotlight-flightfx/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/07/685df179c70a87e790a239d1_web-8-768x432.jpg"/>
+    <summary>MSFS Presents FlightFX Cessna Citation X for Microsoft Flight Simulator (2020) and Microsoft Flight Simulator 2024, exclusively available to all players via the in-sim Marketplace. To celebrate the release of this renowned business jet, we sat down with Nick Sdoucos, CEO at FlightFX, as well as the wider development team to get an exclusive insight … Continued</summary>
+    <published>2025-07-23T19:16:31+00:00</published>
   </entry>
 </feed>
