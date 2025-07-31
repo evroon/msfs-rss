@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-07-30T18:40:16.502823+00:00</updated>
+  <updated>2025-07-31T18:40:26.113672+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffx750</id>
-    <title>FlightFX Releases Cessna 750 Citation X for MSFS 2020/2024</title>
-    <updated>2025-07-22T00:00:00+00:00</updated>
-    <link href="/news/ffx750"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688009de832b7b7dc075134e_685df1e6de65db2240ef9c26_web11.webp"/>
-    <summary>Sim: FS24. FlightFX has released its Cessna 750 Citation X for Microsoft Flight Simulator 2020 and 2024, offering a high-fidelity rendition of the high-speed business jet. Built from scratch, the aircraft features a custom HP 2000 avionics suite, advanced systems simulation, and a fully modelled cabin interior. Furthermore, the Citation X includes simulated pressurisation, electrical, fuel, hydraulic, and environmental systems, full VNAV capability, along with optional auto throttle integration. Both winglet and non-winglet variants are included, with accurate performance modelling. FlightFX has also included a custom Electronic Flight Bag, with SimBrief integration, Navigraph and OpenStreetMap support, and controls for ground services. The aircraft comes with dynamic lighting, various interactive cabin features, and a sound set recorded from the real aircraft. The full product description, including flight manuals and the official paint kit, is available via the FlightFX website. The complete feature list follows below: Systems Simulation &amp; Flight Modeling Electronic Flight Bag (VAMS 2.0) Visual Modeling Audio For all the latest news in flight simulation, stay up to date on Threshold!  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â â</summary>
-    <published>2025-07-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aerostar095</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <link href="/news/aerostar095"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6880447240b155823c98bfd4_filth1.webp"/>
-    <summary>Sim: FS24. A2A Simulations has issued a new update to their newly released Accu-Sim Piper Aerostar for Microsoft Flight Simulator 2024, adding persistent dirt and mud accumulation, multiple fixes, and more. Update v0.9.5, or âFilthy Updateâ as they call it, brings persistent dirt and mud accumulation on the airframe, and some eye candy features that are not present on the changelog but will be ânoticeable once you load up the cockpitâ. Itâs now a bit different and more polish has been applied to the textures and modelling. The complete changelog follows below: â -Added persistent dirt and mud accumulating over time -Added button to wash the aircraft in the EFB Maintenance tab -Added missing details to the propeller spinners -Autopilot: Fixed GA mode not activating from GS -Body shake physics from engine and buffeting -Enlarged walkaround volumes -Fixed clamshell door animation -Fixed prop governor side on the engine models -Fuel drain bottle visibility can be toggled now, off by default -Landing Gear Up light is amber -Low fuel warning fixed -Magnetos don't flicker when there is no fuel in the tank -Parking brake animation and persistence corrected -Quickview camera definitions -Reduced the visibility of blurred streaks on the blurred spinner -Removed clearcoat material from exterior model -Removed protruding objects on the rear wall of the cockpit -Saving HydrAuxSwitch -Support for "Custom" starting location on the MSFS map -Updated main textures -Visors folds out more, tooltips fixed -[Tablet] Lubrication oil adds weight The update is available right now through their store page. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hs78v2</id>
-    <title>Horizon Simulations Provides Update on 787 Version 2 for MSFS 2020/2024</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <link href="/news/hs78v2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68816e6dbb6c5ab3912fdf55_HS_787_AMX_SHOWCASE.webp"/>
-    <summary>Sim: FS24. Horizon Simulations has shared a comprehensive development update on its freeware Boeing 787 project for MSFS 2020 and MSFS 2024, detailing some of the big improvements of the upcoming Version 2. Acknowledging a period of silence, Horizon Simulations explained that the team is entirely volunteer-based, balancing development with personal obligations. As a result, they avoid setting deadlines. However, they plan to share regular content updates moving forward, including monthly posts and in-depth âdevelopment divesâ, highlighting features of the upcoming Version 2 release. Version 2 of the Horizon 787 will feature a major overhaul for all three variants, the 787-8, 787-9, and 787-10, with a focus on a significantly revised external model. Other enhancements include a new custom cabin and numerous visual and functional refinements. Among the key upgrades are accurately modelled CAC inlet doors that respond dynamically to environmental, hydraulic and engine conditions, as well as support for line number variations that reflect subtle real-world differences between each airframe. Engine animations have also been redesigned, with revised spool-up dynamics and improved visual effects between the Trent 1000 and GEnx powerplants. Other notable additions include a functioning APU door, a reworked vertical stabiliser, new lighting with shadow effects for more realistic reflections, and detailed control surface behaviour when hydraulic power is not available, including aileron, flaperon, and elevator droop, along with rudder deflection induced by wind. While the update does not provide a release timeline, Horizon Simulations emphasised that development is active and ongoing. Further details, including sounds, systems, and additional model improvements, are expected in future posts. For all the latest in flight simulation, be sure to stay updated here on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lst112</id>
     <title>X-Codr Designs Updates Living Scenery Technology to Version 1.12</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/665ba18298e4f651ac834e3a_comanche.webp"/>
     <summary>Sim: FS24. A2A Simulations has recently rolled out an update to their Accu-Sim Piper Comanche 250 for Microsoft Flight Simulator 2020 and 2024, correcting âa few niggles that have crept inâ. Update 1.6.5 swaps the Pilot and Co-Pilot, fixes broken 3rd party GPS units when additional liveries are selected, wind direction is reported in relation to the true north on the tablet, and the GTN 750 configuration was changed to prevent runaway trim situations. They had to hold back sending the previous update to other storefronts until this issue was fixed. With that out of the way, they have now submitted it to all third parties for intake. The add-on is available in their store for $37.49 (discounted price).Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inilca</id>
+    <title>iniBuilds Announces Larnaca International Airport for MSFS 2024</title>
+    <updated>2025-07-30T00:00:00+00:00</updated>
+    <link href="/news/inilca"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688a7a3e6e25861a4677a97b_videoframe_18336.webp"/>
+    <summary>Sim: FS24. iniBuilds has announced its upcoming scenery release of Larnaca International Airport for MSFS 2024. The product aims to provide a comprehensive and performance-optimised recreation of Cyprusâs busiest airport, featuring an up-to-date recreation of the popular holiday destination. Located on the islandâs southern coast, Larnaca Airport functions as a key gateway for both regional and international travel. The scenery features hand-made ground textures, dynamic lighting, a fully modelled terminal building, with interior detailing, and a complete set of custom buildings and airport signage. The layout represents the real-world operation as of 2025. Key features of the scenery include high-resolution textures in PBR, bespoke jetways, accurate foliage placement, and clutter models, to reflect the airport's current operational atmosphere. The package also comes with a custom GSX profile. The scenery uses Microsoft Flight Simulator 2024âs updated SDK and includes optimised LODs to ensure broad hardware compatibility. The product will be available for purchase soon through iniBuilds at Â£9.99, excluding sales tax. Be sure to stay updated on Threshold for all the latest in flight simulation! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rwpnc1</id>
+    <title>RW Profiles Releases Newcastle International Airport for MSFS 2020/2024</title>
+    <updated>2025-07-30T00:00:00+00:00</updated>
+    <link href="/news/rwpnc1"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688a81f555f9e6f2f1e79a82_videoframe_110467%20(1).webp"/>
+    <summary>Sim: FS24. RW Profiles has released its rendition of Newcastle International Airport for MSFS 2020 and 2024, following the developerâs announcement last week.  Located in the northeast of England, Newcastle International Airport handled over five million passengers in 2024, with connections to more than 80 destinations across Europe, North America, and the Middle East.Â  The package includes hand-crafted ground textures, a fully modelled terminal with interior, and an up-to-date airfield layout. Landside areas have also been recreated in high fidelity, alongside custom signage, static aircraft, accurate clutter and ground service equipment. Further features include animated jetways, a custom GSX profile, and dynamic lighting for runways, taxiways, and the apron. The general aviation area is fully modelled, with a detailed FBO interior. You can also customise performance through included configuration options that allow for disabling specific scenery elements, such as the terminal interior. The full feature list follows below: Newcastle International Airport is available now through RW Profiles, for Â£12.99, excluding sales tax. Be sure to stay tuned to Threshold for all the latest in flight simulation! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2a096</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
+    <updated>2025-07-31T00:00:00+00:00</updated>
+    <link href="/news/a2a096"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688acadadc666ae7a637df33_gps600.webp"/>
+    <summary>Sim: FS24. A2A Simulations has recently updated their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, bringing multiple fixes, new GPS options, and more. Update v0.9.6 brings more fixes to their early access airplane, cross-fill support for multiple GPS layouts, a new dirt layer (dust), and more. The complete changelog follows below: The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-07-31T00:00:00+00:00</published>
   </entry>
 </feed>
