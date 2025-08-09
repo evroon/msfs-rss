@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-08T18:37:09.234981+00:00</updated>
+  <updated>2025-08-09T18:35:46.901477+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rwpnc1</id>
-    <title>RW Profiles Releases Newcastle International Airport for MSFS 2020/2024</title>
-    <updated>2025-07-30T00:00:00+00:00</updated>
-    <link href="/news/rwpnc1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688a81f555f9e6f2f1e79a82_videoframe_110467%20(1).webp"/>
-    <summary>Sim: FS24. RW Profiles has released its rendition of Newcastle International Airport for MSFS 2020 and 2024, following the developerâs announcement last week.  Located in the northeast of England, Newcastle International Airport handled over five million passengers in 2024, with connections to more than 80 destinations across Europe, North America, and the Middle East.Â  The package includes hand-crafted ground textures, a fully modelled terminal with interior, and an up-to-date airfield layout. Landside areas have also been recreated in high fidelity, alongside custom signage, static aircraft, accurate clutter and ground service equipment. Further features include animated jetways, a custom GSX profile, and dynamic lighting for runways, taxiways, and the apron. The general aviation area is fully modelled, with a detailed FBO interior. You can also customise performance through included configuration options that allow for disabling specific scenery elements, such as the terminal interior. The full feature list follows below: Newcastle International Airport is available now through RW Profiles, for Â£12.99, excluding sales tax. Be sure to stay tuned to Threshold for all the latest in flight simulation! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
-    <published>2025-07-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2a096</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
-    <updated>2025-07-31T00:00:00+00:00</updated>
-    <link href="/news/a2a096"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688acadadc666ae7a637df33_gps600.webp"/>
-    <summary>Sim: FS24. A2A Simulations has recently updated their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, bringing multiple fixes, new GPS options, and more. Update v0.9.6 brings more fixes to their early access airplane, cross-fill support for multiple GPS layouts, a new dirt layer (dust), and more. The complete changelog follows below: The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-07-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pyrebhx2024</id>
     <title>Pyreegue Dev Co. Releases Birmingham Airport for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6894c71dc37a442a5f8aa269_Orbx-JW-Archipelago-submission-20250704__12.png"/>
     <summary>Sim: FS24. Orbx has announced Jurassic World: Archipelago, a new, officially licensed flight simulation experience for MSFS 2024, developed in collaboration with Universal Products and Experiences. Recreating the fictional Muertes Archipelago off the coast of Costa Rica, the package features a detailed rendition of the Jurassic World islands, just before the events of the 2015 film. Isla Nublar is presented in its prime, with the active monorail system, the Innovation Centre, and the island open for business. Isla Sorna and other locations meanwhile remain remote and overgrown. In a post on the Orbx website, the developer confirmed the add-on includes eight destinations: the fictional Isla Nublar, Isla Sorna, Isla Matanceros, Isla Muerta, Isla PeÃ±a and Isla TacaÃ±o, as well as the real-life Herradura Bay Marina and Juan SantamarÃ­a International Airport. Custom airstrips, helipads, animated dinosaurs, and unique aviation-themed challenges, such as VIP transport and guided tours, will be integrated into the experience. You will encounter various prehistoric creatures, both airborne and land-based, such as the Tyrannosaurus rex, Velociraptor, Apatosaurus, Brachiosaurus, Mosasaurus, Pteranodon, and more. The release will also feature unique aircraft liveries, themed infrastructure, and the ruins of the original Site B facilities on Isla Sorna. Jurassic World: Archipelago will launch for PC and Xbox via the Microsoft Flight Simulator Marketplace. A release date and pricing have yet to be announced. A teaser previewing the product is available to watch on Orbxâs official YouTube channel.Â Visit the product page on Orbxâs website for more information. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/madtash</id>
+    <title>Middle Asia Developers Releases Tashkent International Airport for MSFS 2020/2024</title>
+    <updated>2025-08-09T00:00:00+00:00</updated>
+    <link href="/news/madtash"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6896b4ff6ac47aa8744b5bf0_tashkent1.webp"/>
+    <summary>Sim: FS24. Middle Asia Developers has recently released their rendition of Tashkent International Airport (UTTT) for Microsoft Flight Simulator 2020 and 2024, serving Tashkent, in Uzbekistan, with a yearly average of 8.7 million passengers, making it the 8th busiest in the Post-Soviet states. The airportâs first records date back to 1924, when the first passenger flight was completed on a Junkers R-13, flying the Tashkent-Pishpek-Almaty route.Â  It eventually evolved into a transportation hub during the Soviet era, embracing the jet age as soon as 1957 with the Tu-104. By 1967, Tashkent had routes to Leningrad (Saint Petersburg), Novosibirsk, Sverdlovsk, Chelyabinsk, Simferopol, certain cities in the Baltic states, the Caucasus, and some in the Far East. â The airport underwent many changes during the post-Soviet era, struggling to cope with the passenger volume. Western construction companies helped out quite significantly during the mid-1990s. Terminal 2 was rebuilt in 2001 to serve over 2 million passengers a year. It has modern waiting lounges, VIP halls, restaurants, bars, duty-free shops, and even a pharmacy. â Terminal 3 was launched a decade after Terminal 2, and it could handle 400 passengers per hour (half the capacity of Terminal 2). â The airport has been expanded in recent years, going from 45,000 square meters to 65,000 square meters of terminal area, allowing it to handle even more passengers per hour. â In August 2024, they finished another expansion project, renovating the airportâs facade while at it. Later that same year, they started expanding the arrivals hall by 2,500 square meters.Â  There are plans to merge the arrival and departure terminals by 2026. â The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, a basic interior, and much more. â Itâs available on SimMarket for roughly $18.64, requiring at least 984.50 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/implinc</id>
+    <title>Impulse Simulations Releases Port Lincoln Airport for MSFS 2020/2024</title>
+    <updated>2025-08-09T00:00:00+00:00</updated>
+    <link href="/news/implinc"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6896bda9f875f3b9cd19917c_linc1.webp"/>
+    <summary>Sim: FS24. Impulse Simulations has recently released their rendition of Port Lincoln Airport (YPLC) for Microsoft Flight Simulator 2020 and 2024, serving Port Lincoln, South Australia, with a yearly average of 199,546 passengers. The airportâs history dates back to World War 2, when it was established as a Royal Australian Air Force training facility for bomber crews. This laid the groundwork for the infrastructure that would eventually become a civil airport in the not-so-distant future. For nine years after the war, the airport remained closed, only reopening as a civilian airport in 1954. It then had a short grass runway and rudimentary passenger infrastructure. During that time period, Adelaide was the only scheduled destination. Eleven years later, the infrastructure saw major improvements with the sealing of the runway and the construction of a new terminal building, attracting airlines such as ASA (Airlines of South Australia) with their Fokker 27s.Â  The start of the 21st century led to many changes and improvements as the region saw its demand increase with its growth as a tourist destination. A new terminal was inaugurated in 2013, significantly increasing its passenger handling capabilities and bringing modern amenities. QantasLink and Rex Regional Express are the only airlines currently serving Port Lincoln. The scenery features an accurate rendition of the airport, with an accurate terminal model and its respective interior, custom ground textures, custom terrain and vegetation, high-quality PBR texturing, realistic night lighting, custom orthoimagery, performance-friendly optimization, a custom GSX profile, and more. Itâs available on SimMarket for roughly $20.91, requiring at least 996.74 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-09T00:00:00+00:00</published>
   </entry>
 </feed>
