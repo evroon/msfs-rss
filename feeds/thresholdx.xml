@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-10T18:35:02.045459+00:00</updated>
+  <updated>2025-08-11T18:39:52.146407+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini340</id>
-    <title>iniBuilds Officially Announces Airbus A340 for MSFS 2024</title>
-    <updated>2025-08-02T00:00:00+00:00</updated>
-    <link href="/news/ini340"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/688e2e8aa044ded0a0c14d6c_A340D-AIGUL.png.12c16eca56296cb3be00a21eaadc547e.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently provided an exciting update on aircraft development in their forum, announcing the official launch of the Airbus A340, which was teased earlier this summer. The A340 model in question is the A340-313 variant, powered by four CFM56-5C4 engines. IniBuilds says that the aircraft will feature a diverse selection of real-world liveries, custom cabins, a comprehensive failure system, and complete EFB (Electronic Flight Bag) integration. Additionally, IniBuilds is collaborating with Echo19 Audio to enhance the audio experience. Three variants will be included in one purchase: the passenger variant, the ACJ variant (luxury configuration), and the passenger-to-freighter converted variant. IniBuilds states that they intend to release it simultaneously on both PC and Xbox, while also confirming that the aircraft will be exclusive to Microsoft Flight Simulator 2024. The development update primarily focused on A340, but we also received information that the A380 is very much still in active development and is making steady progress in the background.Â  â Additionally, work is ongoing on the A350, which had its initial release earlier this year. iniBuilds is continuing to resolve bugs and making progress towards an Xbox release on Microsoft Flight Simulator 2020. â For more details on the A340 and other iniBuilds news, check out their development update here. â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
-    <published>2025-08-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fnx2070</id>
-    <title>Fenix Simulations Updates A320 Lineup for MSFS 2020/2024</title>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <link href="/news/fnx2070"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68915cbb040a4ad97614834a_bfu01.webp"/>
-    <summary>Sim: FS24. Fenix Simulations has issued a hotfix for their newly released âBig Fenix Updateâ for Microsoft Flight Simulator 2020 and 2024. The update brings improvements to the VRAM usage in MSFS 24, multiple fixes, and more. Update 2.4.0.2070 is the first update since the advent of the Big Fenix Update, which was their biggest patch to date, with over half a petabyte of download traffic (including livery downloads). The hotfix aims to lower the VRAM usage in 2024 by a significant margin, allowing a bit of breathing room so that stutters donât happen.  Furthermore, the update resolves several CTDs and freezes, brings multiple sound fixes reported by the community, improves differential braking, improves overall stability, adjusts cabin and cockpit wind, and more. The complete changelog follows below: Avionics and Systems â â Art and Sound â â EFB â â Launcher â â Fenixâs A320 lineup is available on their website for $120.90 (full bundle), or $67.17 (A320 only) + $53.73 (A319+A321).Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sbct104</id>
     <title>flyt Updates Afonso Pena International Airport for MSFS 2020/2024</title>
@@ -150,6 +132,24 @@
     <link href="/news/carb55"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6898cbab679d4cb403ab59b0_527516492_1171259145041887_2804892709349720491_n.webp"/>
     <summary>Sim: FS24. Following its first teaser in a Facebook post earlier this month, Carenado has announced that the Beechcraft Baron B55 will be coming to MSFS 2024. The B55 is known for its stable handling, solid performance, and flexibility for both private and business flying.  Further updates have since been shared, including a closer look at the cockpit, featuring an Aspen Avionics EFD1000 unit. The product is also set to feature Carenadoâs new "RealXperienceâ concept, which aims to add extra depth to the flying experience by utilising some of the newer MSFS 2024 features, such as various wear and tear effects, dirt, vibrations, mud buildup, and bug splatters. The Beechcraft Baron family, including the short-body Baron 55, Baron 56, and long-body Baron 58, is a series of piston aircraft evolved from the Beechcraft Travel Air,Â  itself a twin-engined development of the Beechcraft Bonanza. Model 55 Barons were produced until the early 80s, with a total of 3,651 units manufactured between 1961 and 1983.  While Carenado has not confirmed a release date, more details, including avionics options and other features, are likely to be announced as the project nears completion. For all the latest news in flight simulation, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-08-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/crzcsj</id>
+    <title>CRZ Studio Releases The Aeroplane Manufactory Chinook SJ</title>
+    <updated>2025-08-10T00:00:00+00:00</updated>
+    <link href="/news/crzcsj"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6898f50ed43f53e9af652922_Skjermbilde%202025-08-10%20213710.webp"/>
+    <summary>Sim: FS24. Newcomers, CRZ Studio has recently released its first aircraft, the Chinook SJ from the Aeroplane Manufactory. CRZ Studio were founded in 2023 by two brothers, aiming to âbring highly authentic, handcrafted aircraft to the flight sim worldâ.Â  The Chinook SJ is an ultralight homebuilt kit aircraft available in two versions: one designed for the 4-stroke Rotax 912UL engine and the other for the 2-stroke Rotax 582UL engine. The 2-stroke version has now been recreated by CRZ Studio in Microsoft Flight Simulator 2024, with the 4-stroke version coming at a later date. According to CRZ Studio, the Chinook SJ was developed using actual aircraft assembly manuals, ensuring unmatched accuracy and realism. The developers also claim that the Chinook SJ is the ideal aircraft for exploring remote islands, mountain valleys, and other inaccessible areas, thanks to its exceptional Short Takeoff and Landing (STOL) performance. CRZ Studio has announced a variety of upcoming updates for the Chinook SJ. The future releases will, according to the developer, include a custom sound set for the Rotax 582 and 912 engines, a new sport light DR2 variant, an optional Rotax 912 engine, a floats configuration, optional GPS units, and dynamic effects for dirt, mud, dust, and grime, among other features. A DLC expansion celebrating the record-breaking competition-ready Chinook variant, titled "Dan Reynolds Valdez Special," is also in development. â The Chinook SJ Aeroplane by CRZ Studio is now available for $26.83 on CRZ Studio's website, exclusively for Microsoft Flight Simulator 2024. â If you enjoy our content and want to support Threshold, consider joining us on Patreon â</summary>
+    <published>2025-08-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/csdttf</id>
+    <title>CAT3DUAL Studios Releases Gafsa - Ksar International Airport for MSFS 20/24</title>
+    <updated>2025-08-10T00:00:00+00:00</updated>
+    <link href="/news/csdttf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6898fb0037a5644593a3eefb_Banner_Image.webp"/>
+    <summary>Sim: FS24. CAT3DUAL Studios has recently released its latest scenery for Microsoft Flight Simulator 2020 and 2024, Gafsa - Ksar International Airport (DTTF). Situated near the cities of Gafsa and Ksar in Tunisia, the airport currently has no scheduled passenger flights. The airport features a 9,514-foot-long runway, three helipads, and two parking stands for aircraft. While there are no regular commercial flights, the Tunisian Air Force operates from the airport, primarily using helicopters. The newly released scenery is packed with features including a handcrafted passenger terminal, a handcrafted air traffic control tower, an accurate airfield wayfinder, custom apron flood lights, a custom windsock, and much more. The 2024 version of the scenery is available on SimMarket for approximately $9.31, with the 2020 version also offered on SimMarket at the same price. If you purchase the 2020 version, you can receive the 2024 version as a free upgrade. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-08-10T00:00:00+00:00</published>
   </entry>
 </feed>
