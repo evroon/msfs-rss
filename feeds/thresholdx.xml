@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-14T18:38:14.101109+00:00</updated>
+  <updated>2025-08-15T18:37:38.366785+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inilc1</id>
-    <title>iniBuilds Releases Larnaca International Airport for MSFS 2024</title>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <link href="/news/inilc1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6892896b9862bc4b3681943e_FlightSimulator2024_YDm5vAPbHV_4472x.jpg"/>
-    <summary>Sim: FS24. Following its initial announcement in July, iniBuilds has now released Larnaca International Airport for Microsoft Flight Simulator 2024. The scenery provides a detailed and performance-optimised representation of Cyprusâs busiest airport, based on the current real-world layout as of 2025. Larnaca Airport is located on the southern coast of Cyprus and serves as a hub for both regional and international flights. The scenery includes hand-crafted ground textures, HD jetways, and a fully modelled terminal building, with interior detailing. More than 180 custom models and structures are included across the airside and landside areas, complete with accurate signposts, vegetation, and dynamic lighting. The product features high-resolution PBR textures and comes with its own GSX profile. LODâs are applied across all assets to ensure optimised performance on a wide range of systems. Built using the latest Microsoft Flight Simulator 2024 software development kit, this scenery is now only available for the newer simulator. Larnaca International Airport for MSFS 2024 is available now through the iniBuilds store for Â£9.99, excluding taxes. For all the latest news and updates in flight simulation, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
-    <published>2025-08-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/cfsydt</id>
-    <title>Canadian Flight Sim Studios Releases Boundary Bay Airport for X-Plane 12</title>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <link href="/news/cfsydt"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68928eef34e4b6bb8b7c32bb_688a25ae1fd88.webp"/>
-    <summary>Sim: X-Plane. Canadian Flight Sim Studios has released its rendition of Boundary Bay Airport for X-Plane 12. The scenery aims to provide a realistic and detailed general aviation environment at one of Canadaâs busiest airports. Located in British Columbia, Boundary Bay Airport is a leading centre for flight training and private aviation in the Vancouver area. The scenery features accurately modelled terminals in high detail, hangars, and fixed-base operators, with designs tailored for business jet and light aircraft operations. Animated hangar doors have also been included at key general aviation facilities. Taxiway and apron layouts are built to match current charts, with custom markings and lighting throughout. The environment has extensive detail across all airport structures to mirror the real-world location closely.Â  Boundary Bay Airport is available now through the Orbx Store for $12.29, excluding sales tax. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aerostar098</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
-    <updated>2025-08-06T00:00:00+00:00</updated>
-    <link href="/news/aerostar098"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685de0d3a636c169f3aba0c4_aerostarpog.webp"/>
-    <summary>Sim: FS24. A2A Simulations recently issued a new patch for their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, which brings many improvements and tweaks. Update v0.9.8, also known as âScottâs list updateâ brings a significant amount of changes to the product, including new beacon lights, tinted glass, windshield texture improvements, the addition of the Davtron 307FCI cabin temperature indicator, a working cabin temperature gauge, the landing gearâs got extra weathering, new sounds were added, and more. The changelog follows below: v0.9.8 Changelog Highlights: - New Beacon Lights - Added fan sound files - Added jacks - Added pitot tube cover - Air vents sound reduced - Ammeter no longer shows battery charging amps - Autopilot: Alt hold more resilient to sim stutter - Autopilot: Tweaked interaction between pitch and trim servo - Bug in aux hydraulic pump sound where it would keep playing fixed - Cabin fan hi/low sounds added - Cabin heat now draws slight electricity but requires the cabin fan to be on - Compass correction card. - Defroster blower sounds added - Flap and gear sound physics rumble tuned - Flaps pressure damage physics tuned - Fuel booster pump sounds reduced - Fuel selector servo sounds play properly with electricity on or off - Fuel will now drain out of the fuselage tank when fuel selectors are off - Individual cabin lights now draw current - Nose steering moves to center a bit faster - Nosewheel steering dash switch sounds - Opening door creates stronger air flow exchange - Prop feathering issues fixed, including an issue feathering the right engine - Right engine not feathering bug fixed - Slightly faster starter cranking speed, starter cranking physics sent into the airframe - Throttle, mixture and prop end sounds - Tinted glass - Windshield texture details - Yoke anim range fixed - Yoke trim knob sounds - [Tablet] Disabling / enabling jacks, heaters and pitot cover controls - Improved Active Pause &amp; Photo Mode handling - Fixed Landing Lights check in walkaround + using new .fx not the defaults - Added Davtron 307FCI cabin temp indicator - Fixed high speed buffet from magnetic compass - Working cabin temperature gauge - Improved handling of mixture events which may help FSUIPC users - Tablet moved to not cover ASI as much - Fixed tablet colliding with right sun visor - Updated baggage door textures - Fixed reg numbers clipping - Increased tail area reg number - Added some extra weathering to landing gear The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/20su26</id>
     <title>Microsoft Releases Sim Update 16 for MSFS 2020</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689bc19c6316e0b87879192f_11897a_d1ace438d0804814bd0cbb79e6491ee9~mv2.webp"/>
     <summary>Sim: X-Plane. X-Codr Designs has recently announced extensive updates for both their Scenery Library and Evansville Regional Airport (KEVV) scenery. â Evansville Regional Airport (KEVV) Owners of X-Codr Designsâ Evansville Regional Airport can now upgrade to the new V2 version at no cost. According to the developer, the scenery has undergone extensive work aimed at enhancing both usability and visuals. These updates feature a complete rework of the ground textures, a nearly fully remodelled and retextured terminal with a custom interior, and new custom jetways that utilise X-Planeâs built-in jetway animation system. â Living Scenery Technology Updates The key improvements to KEVV include significant updates to the "Living Scenery Technology." The updates now enable the scenery to interact better with moving objects. For example, according to the developers, doors will automatically open and close as people enter the terminal, and cars will stop to avoid colliding with pedestrians.Â  â X-Codr Designs Library V2.0 The X-Codr Designs Library offers a unified collection of assets used across various sceneries. Therefore, any updates made to the design library will also affect other airports. For instance, new 3D people have been introduced with enhanced animations. â A full changelog can be found below: Evansville Regional Airport V2 is available for new users now for $21.95 on the x-plane.org store, existing owners may download the update free of charge. â For more details on updates made to Evansville Regional Airport, Living Scenery Technology and the X-Codr Designs Library, visit the X-Codr Website â If you enjoy our content and want to support Threshold, consider joining us on Patreon. â</summary>
     <published>2025-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsla321313</id>
+    <title>FSLabs Updates A321ceo &amp; neo for MSFS 2020/2024</title>
+    <updated>2025-08-15T00:00:00+00:00</updated>
+    <link href="/news/fsla321313"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689e9753124a2ec35bb7adce_1250410_20250810225101_1.webp"/>
+    <summary>Sim: FS24. FSLabs recently updated their A321ceo and neo for Microsoft Flight Simulator 2020 and 2024, further improving stability in the product line. Accessible via their experimental channel, update v11.0.1.313 addresses a stability issue that would arise when traffic add-ons inject AI traffic into the sim. The A321ceo and neo are available in their store for $69.95 each. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aerostar099</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
+    <updated>2025-08-15T00:00:00+00:00</updated>
+    <link href="/news/aerostar099"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689e99fa36f6ed4f56b29d04_paint.webp"/>
+    <summary>Sim: FS24. A2A Simulations recently issued another update to their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, bringing a âhealthy mixâ of fixes, tweaks, visual improvements, and a set of new liveries. Update v0.9.9 brings under-the-hood changes to how the aircraft is built within Microsoft Flight Simulator 2024, warranting a smoother experience overall. However, a small number of users might need to remap their controls after updating. Furthermore, the update adds a USB port to the EDM790, fixes a glitch with the yoke trim, restores the tail rope position on the ground, and more. The complete changelog follows below: â - Added three new liveries - Beacon animation is no longer affected by the time slider - EDM790 has mini usb port - Fix for dirt not acumulating sometimes - Fixed font paths in registration css - Fixed radio knobs occasionally working in opposite direction - Fixed the bad lighting on the left oil dipstick - Fixed the gap on the top left window and the frame - Fixed typo in N122PC ATC ID - Fixed yoke trim switch glitching sometimes - New initial avatar position - Restored the tail rope position on the ground - Sounds for yoke buttons and temperature gauge switch - Toe brakes are no longer depressed when loading on a parking spot The three new liveries are still work-in-progress, and one of them comes from a popular Hollywood movie involving smuggling illegal substances across the border. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shadetawau</id>
+    <title>SHADESCENE Releases Tawau Airport for MSFS 2020/2024</title>
+    <updated>2025-08-15T00:00:00+00:00</updated>
+    <link href="/news/shadetawau"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689ea05e070d54ee4b675e6e_tawau1.webp"/>
+    <summary>Sim: FS24. SHADESCENE has recently released their rendition of Tawau Airport (WBKW) for Microsoft Flight Simulator 2020 and 2024. The airport serves the Tawau Division in Malaysia and has a yearly average of 572,365 passengers. The airport was inaugurated in December 2001, replacing Tawauâs former main airport. It was small and tricky due to its very short runway (one of the shortest in Malaysia), which caused great concern overall.Â  The official inauguration only happened two years later, in 2003.Â  Its passenger terminal has one and a half stories, with two jetways and the ability to accommodate up to 8 airplanes simultaneously. â Before COVID-19, the airport was operating above maximum capacity, reaching 1.8 million passengers yearly, significantly exceeding its intended 1.4 million passenger capacity. A plan was made to expand it to 2.5 million passengers and upgrade the passenger facilities and overall infrastructure. COVID put a halt to the expansion plans, and in 2022, they were still facing the same issue, constantly suffering from congestion. â In 2023, the government allocated a substantial sum for an improvement program, including extra toilets, an enhanced check-in area, an expanded departure lounge, more retail spaces, and more air conditioning units. A year later, a new plan was announced, encompassing a major expansion set to begin in 2025. The expansion will bring the main terminal from 15,800 square meters to 23,500, add eight new check-in counters, and more. The new capacity would remain aligned with the previous project at 2.5 million passengers annually. â AirAsia, Batik Air Malaysia, Firefly, Malaysia Airlines, and MASwings serve it. â The scenery features an accurate rendition of the airport, with custom terraforming, custom scenery objects, custom ground textures, custom night lighting, and more. â Itâs available on SimMarket for roughly $14.02, requiring at least 345.46 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-15T00:00:00+00:00</published>
   </entry>
 </feed>
