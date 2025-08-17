@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-16T18:33:36.848616+00:00</updated>
+  <updated>2025-08-17T18:34:56.658832+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmdg28</id>
-    <title>PMDG Marks 28 Years with Aircraft Updates</title>
-    <updated>2025-08-07T00:00:00+00:00</updated>
-    <link href="/news/pmdg28"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6894affe9762d591641095f5_pmdg_ng38_hero1__97709.webp"/>
-    <summary>Sim: FS24. PMDG is celebrating its 28th anniversary this week, giving a suite of updates across its line of products. In a post on the PMDG forums, CEO Robert Randazzo confirmed that owners of the 737NG series for MSFSâ¯2020 must now migrate to Operations Centerâ¯3 (OC3), retiring the legacy InstallShield and OC2 system. The process involves uninstalling existing aircraft and liveries, reinstalling them via OC3, and then restoring liveries. The update preserves the current version, 3.0.112.  The 777 series has recently received an update, build 121, with additional fixes expected next week. The 777-200LR is scheduled for Marketplace release for both MSFS 2020 and MSFS 2024 within 7â10 days. Randazzo also briefly addressed the 777X, noting that âpositive discussionsâ about access are underway. For MSFSâ¯2024, work is underway on the 737NG line, with beta testing expected to commence soon, alongside preview imagery. Meanwhile, the DCâ6 is currently awaiting improvements to MSFSâ¯2024âs LOD system to resolve visual issues before release. Development on the 737 MAX and the 747-100 and 400 is ongoing, though no release timeline has been specified.Â  In honour of its anniversary, PMDG is offering 28% off all products on PMDG.com, starting 0000â¯UTC on Aug. 7 through 2359â¯UTC on Aug.â¯10.  A YouTube version of Randazzoâs announcement is also available to watch here. For all the latest flight simulation news, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbjrw</id>
-    <title>Orbx Announces Jurassic World: Archipelago for MSFS 2024</title>
-    <updated>2025-08-07T00:00:00+00:00</updated>
-    <link href="/news/orbjrw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6894c71dc37a442a5f8aa269_Orbx-JW-Archipelago-submission-20250704__12.png"/>
-    <summary>Sim: FS24. Orbx has announced Jurassic World: Archipelago, a new, officially licensed flight simulation experience for MSFS 2024, developed in collaboration with Universal Products and Experiences. Recreating the fictional Muertes Archipelago off the coast of Costa Rica, the package features a detailed rendition of the Jurassic World islands, just before the events of the 2015 film. Isla Nublar is presented in its prime, with the active monorail system, the Innovation Centre, and the island open for business. Isla Sorna and other locations meanwhile remain remote and overgrown. In a post on the Orbx website, the developer confirmed the add-on includes eight destinations: the fictional Isla Nublar, Isla Sorna, Isla Matanceros, Isla Muerta, Isla PeÃ±a and Isla TacaÃ±o, as well as the real-life Herradura Bay Marina and Juan SantamarÃ­a International Airport. Custom airstrips, helipads, animated dinosaurs, and unique aviation-themed challenges, such as VIP transport and guided tours, will be integrated into the experience. You will encounter various prehistoric creatures, both airborne and land-based, such as the Tyrannosaurus rex, Velociraptor, Apatosaurus, Brachiosaurus, Mosasaurus, Pteranodon, and more. The release will also feature unique aircraft liveries, themed infrastructure, and the ruins of the original Site B facilities on Isla Sorna. Jurassic World: Archipelago will launch for PC and Xbox via the Microsoft Flight Simulator Marketplace. A release date and pricing have yet to be announced. A teaser previewing the product is available to watch on Orbxâs official YouTube channel.Â Visit the product page on Orbxâs website for more information. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/madtash</id>
     <title>Middle Asia Developers Releases Tashkent International Airport for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689fa2dd315e966de6b0a662_jk6Y1LsPToAAAAAElFTkSuQmCC%20(1).webp"/>
     <summary>Sim: MSFS20. TFDi Design has shared a fresh set of previews on its official Discord server, showcasing the upcoming MD-11 art update. The team stated the overhaul is nearing completion, with the landing gear still undergoing final adjustments. The upcoming update, previously detailed by TFDi in early July, will be free for all existing MSFS 2020 owners. This work focuses on refining the aircraftâs exterior model, with updated textures and detailing. Among the new images is a close-up look at the MD-11âs tail-mounted no.2 engine, a signature characteristic of the MD-11 trijet. This is joined by a view of the left-hand engine and wing assembly, highlighting improvements to panel lines and rivet work. Additional shots showcase the trailing-edge flaps, as well as fuselage riveting. We also got a preview of the aft cargo door in its open position.Â  TFDi Design previously stated in their July update that they expected a release within 60 days, which, at the time of writing, would be in September. For all the latest flight simulation stories, Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/b55rel</id>
+    <title>Carenado Releases Beechcraft Baron B55 for MSFS 2024</title>
+    <updated>2025-08-17T00:00:00+00:00</updated>
+    <link href="/news/b55rel"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a1fa821d7f61f24f4eab6c_B55_FS2024_11.webp"/>
+    <summary>Sim: FS24. Carenado has released its Beechcraft Baron B55 for MSFS 2024, available exclusively through the in-sim Marketplace. The light twin-engine aircraft arrives as the latest addition to the developerâs growing MSFS 2024 catalogue. The Baron B55 is a light twin, first introduced in 1961, as part of Beechcraftâs Baron family, which evolved from the earlier Travel Air. Production of the 55 series continued until 1983, with 3,651 units built. Powered by two Continental IO-470-L engines, producing 260 horsepower each, the aircraft is capable of cruising at around 190 knots, with a range of more than 900 nautical miles. Its six-seat layout and twin-engine configuration made it a popular choice for both private and training operations. Carenadoâs rendition of the type for MSFS 2024 includes avionics options such as Aspen Avionicsâ EFD1000, or traditional steam gauges, Garmin GNS530 and GNS430 units, with GTN750/650 compatibility, and the Bendix King KFC 225 autopilot. The package also features eight liveries, plus a paint kit, and an EFB with 2024 interfacing, for switching between avionics configurations. Additional systems modelled include a Garmin GMA 340 audio panel, Garmin GTX 330 transponder, weather radar, and fuel flow indicators. The aircraft is also compatible with MSFS 2024âs Career mode out of the box, with support for missions such as ferry flights and charter services. You can read the full feature list of the product below: Features The Carenado Beechcraft Baron B55 is available for purchase now through the MSFS 2024 Marketplace for $24.99. For all the latest news in flight simulation, Threshold will keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-08-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/atlprv</id>
+    <title>Orbx Previews HartsfieldâJackson Atlanta Scenery for MSFS 2020/2024</title>
+    <updated>2025-08-17T00:00:00+00:00</updated>
+    <link href="/news/atlprv"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a205d1d21c9655244a663e_107-fe18cad19434a794853a40954d08fd8d%20(1).webp"/>
+    <summary>Sim: FS24. Orbx has shared an update of its highly anticipated HartsfieldâJackson Atlanta International Airport (KATL) for MSFS 2020 and 2024. The update was posted on its community forum earlier this week. Developed by Matteo Veneziani, this is the third and final planned preview before release. The previews highlight the Delta TechOps area and the airportâs control tower, amongst others. Delta TechOps, also known as Delta TOC, is the largest airline maintenance, repair, and overhaul facility in North America, and has been recreated in the scenery, with 1:1 accuracy. Veneziani stated that âevery pipe, air-conditioning unit, and rooftop elementâ was individually modelled, based on real-world references. While the developer showcased the maintenance complex, he noted that the airside portion of the airport is not yet ready for display, as the ground polygon is still in progress. Remaining work includes cargo buildings on both the north and south sides, taxiway signage, approach lighting, and tunnel detailing, as well as general finishing touches. According to Veneziani, the goal is to release the scenery before Christmas. He noted that development has been underway for nearly two years, with a continued emphasis on quality over timelines. HartsfieldâJackson Atlanta International Airport is the worldâs busiest by passenger traffic and aircraft movements, serving as Delta Air Linesâ primary hub. We'll keep you updated on its release. For all the latest news in flight simulation, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-08-17T00:00:00+00:00</published>
   </entry>
 </feed>
