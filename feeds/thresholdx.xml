@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-17T18:34:56.658832+00:00</updated>
+  <updated>2025-08-18T18:38:32.450238+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/madtash</id>
-    <title>Middle Asia Developers Releases Tashkent International Airport for MSFS 2020/2024</title>
-    <updated>2025-08-09T00:00:00+00:00</updated>
-    <link href="/news/madtash"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6896b4ff6ac47aa8744b5bf0_tashkent1.webp"/>
-    <summary>Sim: FS24. Middle Asia Developers has recently released their rendition of Tashkent International Airport (UTTT) for Microsoft Flight Simulator 2020 and 2024, serving Tashkent, in Uzbekistan, with a yearly average of 8.7 million passengers, making it the 8th busiest in the Post-Soviet states. The airportâs first records date back to 1924, when the first passenger flight was completed on a Junkers R-13, flying the Tashkent-Pishpek-Almaty route.Â  It eventually evolved into a transportation hub during the Soviet era, embracing the jet age as soon as 1957 with the Tu-104. By 1967, Tashkent had routes to Leningrad (Saint Petersburg), Novosibirsk, Sverdlovsk, Chelyabinsk, Simferopol, certain cities in the Baltic states, the Caucasus, and some in the Far East. â The airport underwent many changes during the post-Soviet era, struggling to cope with the passenger volume. Western construction companies helped out quite significantly during the mid-1990s. Terminal 2 was rebuilt in 2001 to serve over 2 million passengers a year. It has modern waiting lounges, VIP halls, restaurants, bars, duty-free shops, and even a pharmacy. â Terminal 3 was launched a decade after Terminal 2, and it could handle 400 passengers per hour (half the capacity of Terminal 2). â The airport has been expanded in recent years, going from 45,000 square meters to 65,000 square meters of terminal area, allowing it to handle even more passengers per hour. â In August 2024, they finished another expansion project, renovating the airportâs facade while at it. Later that same year, they started expanding the arrivals hall by 2,500 square meters.Â  There are plans to merge the arrival and departure terminals by 2026. â The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, a basic interior, and much more. â Itâs available on SimMarket for roughly $18.64, requiring at least 984.50 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/implinc</id>
     <title>Impulse Simulations Releases Port Lincoln Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a205d1d21c9655244a663e_107-fe18cad19434a794853a40954d08fd8d%20(1).webp"/>
     <summary>Sim: FS24. Orbx has shared an update of its highly anticipated HartsfieldâJackson Atlanta International Airport (KATL) for MSFS 2020 and 2024. The update was posted on its community forum earlier this week. Developed by Matteo Veneziani, this is the third and final planned preview before release. The previews highlight the Delta TechOps area and the airportâs control tower, amongst others. Delta TechOps, also known as Delta TOC, is the largest airline maintenance, repair, and overhaul facility in North America, and has been recreated in the scenery, with 1:1 accuracy. Veneziani stated that âevery pipe, air-conditioning unit, and rooftop elementâ was individually modelled, based on real-world references. While the developer showcased the maintenance complex, he noted that the airside portion of the airport is not yet ready for display, as the ground polygon is still in progress. Remaining work includes cargo buildings on both the north and south sides, taxiway signage, approach lighting, and tunnel detailing, as well as general finishing touches. According to Veneziani, the goal is to release the scenery before Christmas. He noted that development has been underway for nearly two years, with a continued emphasis on quality over timelines. HartsfieldâJackson Atlanta International Airport is the worldâs busiest by passenger traffic and aircraft movements, serving as Delta Air Linesâ primary hub. We'll keep you updated on its release. For all the latest news in flight simulation, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-08-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a350114</id>
+    <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
+    <updated>2025-08-18T00:00:00+00:00</updated>
+    <link href="/news/a350114"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/681fbf6ddf55654af0b533dd_a350new2.webp"/>
+    <summary>Sim: FS24. iniBuilds has released a hotfix for their A350 Airliner for Microsoft Flight Simulator 2020 and 2024. The fix addresses a WASM crash when flying polar routes, a high-latitude performance loss issue (2020 only), and more. Update v1.1.4 is a complimentary hotfix to their recently released update 1.1.3, ensuring a better overall experience when flying polar routes, especially for users still holding on to MSFS 2020. The complete changelog follows below: Systems Fixed: WASM crash when flying polar routes Fixed: High latitude performance loss FS2020 (We highly recommend avoiding waypoints North of 83Â° latitude due to core issues present in the 2020 world model) Fixed: Active hold displayed in white on ND Fixed: Missing "hot brakes" ECAM Fixed: FO terrain radar not working â ART Fixed: Clouds bleeding into cockpit in FS2024 The A350 Airliner is available for purchase at the iniBuilds Store for roughly $76.16, requiring at least 10.63 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-08-18T00:00:00+00:00</published>
   </entry>
 </feed>
