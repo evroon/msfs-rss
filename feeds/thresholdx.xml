@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-21T18:33:45.499165+00:00</updated>
+  <updated>2025-08-22T18:34:36.026668+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/frav11</id>
-    <title>Aerosoft Updates Mega Airport Frankfurt to Version 1.1</title>
-    <updated>2025-08-15T00:00:00+00:00</updated>
-    <link href="/news/frav11"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689f8fee1c68a008364b25f6_Banner_Image.webp"/>
-    <summary>Sim: FS24. Aerosoft has just released an update for Mega Airport Frankfurt for both Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024. While the changelog is brief, this update introduces optimisations that significantly decrease VRAM usage and enhance overall performance. The latest update introduces optimisations for all models, textures, LOD settings, and more. This has allowed for a reduction in VRAM usage of up to 1.6 GB, though most users can expect a slightly smaller decrease. Some users reported performance drops when facing Terminal 2. This issue was caused by the large forest north of the terminal, but it has now been resolved. The team has noted a bug with blurry textures in the scenery, and they are currently working on a patch that is expected to be released by early next week. The updated version of Mega Airport Frankfurt is now available at Aerosoft on sale for $18.41. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ifl158</id>
-    <title>iFly Outlines Future Plans, Confirms MSFS 2024 Focus and MAX 9</title>
-    <updated>2025-08-15T00:00:00+00:00</updated>
-    <link href="/news/ifl158"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689f9451173cd50793952942_PIC02.webp"/>
-    <summary>Sim: FS24. iFly has via Discord released an official development update for its 737 MAX product, outlining planned features for the Service Pack 1 update, as well as its plans for the MSFS 2024 platform. The team made it clear that the SP1 content is still in active development, and that the update will not be released within the next three months. Amongst the changes in SP1 are a more âtablet-styleâ electronic flight bag (EFB), rather than the current Boeing OEM unit, accompanied by CPDLC integration via the Hoppie API, with support for online networks, as well as BATC and SayIntentions, also under review. Other planned features include cabin announcements (with and without GSX), the MAX 8-200 variant, with the typeâs Mid-Cabin Emergency Doors modelled, a visual APU model, an expanded main wheel well model, and an updated fuselage model, rivets and other details.  Cabin materials will be redrawn with more texture detail, multiple seating layouts will be offered, and cockpit materials will be refined for better surface type distinction. Landing gear textures will be overhauled, LNAV behaviour will see targeted adjustments, and numerous smaller fixes will be implemented before release. The update also marks a shift in development priorities. SP1 will be the final major release to support MSFS 2020, with all future development moving to MSFS 2024, due to substantial platform differences between the two. Post-SP1 plans include a native MSFS 2024 version of the MAX 9, with the MAX 10 and MAX 7 also under consideration, only after official certification and service entry of those types. While small patches may still arrive for the current MAX 8 for 2020 after SP1, iFlyâs primary focus will be advancing the series for the newer simulator. You can read the full development update on iFly's official Discord server.  For all the latest news in flight simulation, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
-    <published>2025-08-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tfd148</id>
-    <title>TFDi Design Shares Previews of MD-11 Art Update for MSFS 2020</title>
-    <updated>2025-08-15T00:00:00+00:00</updated>
-    <link href="/news/tfd148"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/689fa2dd315e966de6b0a662_jk6Y1LsPToAAAAAElFTkSuQmCC%20(1).webp"/>
-    <summary>Sim: MSFS20. TFDi Design has shared a fresh set of previews on its official Discord server, showcasing the upcoming MD-11 art update. The team stated the overhaul is nearing completion, with the landing gear still undergoing final adjustments. The upcoming update, previously detailed by TFDi in early July, will be free for all existing MSFS 2020 owners. This work focuses on refining the aircraftâs exterior model, with updated textures and detailing. Among the new images is a close-up look at the MD-11âs tail-mounted no.2 engine, a signature characteristic of the MD-11 trijet. This is joined by a view of the left-hand engine and wing assembly, highlighting improvements to panel lines and rivet work. Additional shots showcase the trailing-edge flaps, as well as fuselage riveting. We also got a preview of the aft cargo door in its open position.Â  TFDi Design previously stated in their July update that they expected a release within 60 days, which, at the time of writing, would be in September. For all the latest flight simulation stories, Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/b55rel</id>
     <title>Carenado Releases Beechcraft Baron B55 for MSFS 2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a744e0c81566ec05af02a4_Banner_Image.webp"/>
     <summary>Sim: FS24. Togstad Simulation Products has just launched its version of RÃ¸rvik Airport (ENRM) for Microsoft Flight Simulator 2020 and 2024. Situated in TrÃ¸ndelag county, approximately 3 nautical miles from the town of RÃ¸rvik, this small public airport facilitates flights to and from Trondheim and Namsos, operated by the airline WiderÃ¸e. After opening in 1986, the airport's initial service was provided by the airline Norving, which operated the Dornier 228. However, Norving announced the termination of its services in 1988, leaving the airport without any scheduled flights. That same year, WiderÃ¸e began operating flights to and from the airport. Today, WiderÃ¸e remains the only airline with scheduled services available. It operates its Dash 8-100 and Dash 8-200 aircraft on routes to both Trondheim and Namsos, bringing nearly 40,000 passengers to the airport each year. The newly released RÃ¸rvik Airport scenery includes custom buildings, 3D models, detailed interiors, custom runway lights, taxiway lights, and much more. The newly released RÃ¸rvik Airport from Togstad Simulation Products is now available through Orbx for approximately $12.83. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ga8rel</id>
+    <title>SimWorks Studios Releases GA-8 Airvan for MSFS 2020</title>
+    <updated>2025-08-21T00:00:00+00:00</updated>
+    <link href="/news/ga8rel"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a7a1b13c7a6183fea99051_00-scaled.jpg"/>
+    <summary>Sim: MSFS20. SimWorks Studios has released the GA-8 Airvan for MSFS 2020, bringing one of Australiaâs most versatile general aviation aircraft into the sim, with an MSFS 2024 release to follow. The Airvan has been developed with a strong focus on realism. You can choose between cargo and passenger layouts, with or without the cargo pod. The aircraft features a highly detailed 3D model, sounds recorded from a real GA-8, and a custom flight model, verified by pilots of the type. Dynamic wear and tear is included, where dirt and mud can accumulate over flight hours. These visual details persist between flights, and even rain can wash the aircraft clean again. A tablet EFB is included, giving access to loading options, checklists, avionics hot-swapping between GTN750Xi, GTN750, and GNS530/430, as well as access to various aircraft settings. Manuals and configuration tools are built directly into the tablet, keeping everything accessible from the cockpit. This release also marks the debut of SystemsPulse, SimWorks Studiosâ new technology, designed to simulate deeper aircraft behaviour. Available in the SystemsPulse Edition of the Airvan, sold separately, the expansion introduces over 70 failure scenarios that may occur randomly, progressively with use, or at the pilotâs command. Covering areas such as engine performance, electrical systems, and operational wear, SystemsPulse gives additional incentive to manage the aircraft properly, as if you were its real-world operator. Both editions come with an official paint kit and a PDF manual. Six liveries are provided across pod and non-pod variants, including base white, Stichting Hoogvliegers, Nissos Kos, VortX, Yellow, and Safari Wings. Customers who purchase the MSFS 2020 version of the GA-8 Airvan now will also receive the MSFS 2024 edition, at no extra cost, upon release. The GA-8 Airvan is available now on the MSFS Marketplace for $29.99, with the optional SystemsPulse expansion sold separately for $17.49. A future release is planned for the SimWorks Studios store. For all the latest news in flight simulation, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/halwux</id>
+    <title>HALUA6683 Releases Wuxi Shiaofang Airport for MSFS 2020</title>
+    <updated>2025-08-21T00:00:00+00:00</updated>
+    <link href="/news/halwux"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a7b0e13803fd1d6cf233d9_wux1.webp"/>
+    <summary>Sim: MSFS20. HALUA6683 has recently released their rendition of Wuxi Shiaofang Airport (ZSWX) for Microsoft Flight Simulator 2020, serving the Jiangsu Province in China with a yearly average of 8.8 million passengers. The airport was initially built for military purposes in 1955, only making its commercial debut 49 years later in 2004. As of 2025, it has two terminals with 23 boarding gates and 26 parking stands, a single 3,200-meter-long runway, and a new additional runway underway. By 2035, they plan to build an additional passenger terminal to accommodate the predicted 21.5 million passengers per year. Itâs a hub for Ruili Airlines and an operating base for Shenzhen Airlines and China Eastern Airlines. 9 Air, Air Travel, China Southern Airlines, Donghai Airlines, Juneyao Air, Loong Air, Lucky Air, Sichuan Airlines, VietJet Air, Vietnam Airlines, and XiamenAir also serve it. The scenery features an accurate rendition of the airport, with PBR textures, a custom terminal interior based on on-site photography, custom ground textures, custom jetways, and up-to-date ground layout, and more. Itâs available on SimMarket for roughly $19.67, requiring at least 697.99 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lsszhou</id>
+    <title>Li Scenery Studio Releases Zhoushan Putuoshan International Airport for MSFS 2020</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <link href="/news/lsszhou"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a7cfa63ca4dd36a4fe1782_zhou1.webp"/>
+    <summary>Sim: MSFS20. Li Scenery Studio recently released their rendition of Zhoushan Putuoshan International Airport (ZSZS) for Microsoft Flight Simulator 2020. The airport serves Zhoushan in Zhujiajian Island, China, and has a yearly average of 2.4 million passengers. The construction work started in early 1994, and the challenges started from the get-go due to the terrain: a low-lying area of rice paddies, which demanded the placement of millions of cubic meters of landfill to raise the land a little bit above sea level. It wasnât until 1997 that the airport was ready for inauguration. Upgrades were carried out gradually in the decades that followed its inauguration, ensuring that it could accommodate the ever-rising passenger figures. A new passenger terminal was inaugurated in 2019 to consolidate it as the regional hub for aviation. Chengdu Airlines, China Eastern Airlines, China Express Airlines, China Southern Airlines, China United Airlines, Donghai Airlines, Fuzhou Airlines, Greater Bay Airlines, GX Airlines, Okay Airways, Qingdao Airlines, Shandong Airlines, Shanghai Airlines, Shenzhen Airlines, Sichuan Airlines, West Air, and XiamenAir serve it. The scenery features an accurate rendition of the airport, with custom ground textures, an up-to-date ground layout, a basic terminal interior, and more. Itâs available on SimMarket for roughly $11.53, requiring at least 69.34 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-22T00:00:00+00:00</published>
   </entry>
 </feed>
