@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-28T18:34:29.238122+00:00</updated>
+  <updated>2025-08-29T18:31:46.161184+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/msfscu12</id>
-    <title>Microsoft Releases City Update 12: Germany for MSFS</title>
-    <updated>2025-08-20T00:00:00+00:00</updated>
-    <link href="/news/msfscu12"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a60afbdc28a60dfda17cee_MSFS2024_CU12_Screenshot_03-1024x576.webp"/>
-    <summary>Sim: FS24. Microsoft has recently released its latest city update, City Update 12: Germany, which launches simultaneously as Sim Update 3, which was also released earlier today City Update 12 features the following locations: Microsoft has done City Updates in Germany on two occasions previously: City Update 1 and City Update 6. City Update 1 included the cities of Hannover, Dortmund, DÃ¼sseldorf, Bonn, and Cologne, while City Update 6 featured Mannheim, Heidelberg, Karlsruhe, Stuttgart, Esslingen, Kehl, and Strasbourg in France. With City Update 12 Microsoft continues to expand the list of updated German cities. City Update 12: Germany is now available for free through the Marketplace for both Microsoft Flight Simulator 2020 and 2024. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msfsec135</id>
-    <title>Microsoft Releases Eurocopter EC 135 for MSFS 2024 Free of Charge</title>
-    <updated>2025-08-20T00:00:00+00:00</updated>
-    <link href="/news/msfsec135"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a6162b7f1b8b0024088ea5_MSFS2024_ADAC_Screenshot_04-1024x576.webp"/>
-    <summary>Sim: FS24. Microsoft has just released the Eurocopter EC 135 for free, alongside Sim Update 3, which was also released earlier today.Â  The Eurocopter EC135 is an advanced light twin-engine utility helicopter that can seat up to eight passengers, produced by Airbus Helicopters, previously named Eurocopter. This is Microsoftâs 21st âLocal Legendâ, and is the last of the four free aircraft promised by Microsoft to make up for MSFS 2024âs launch problems.Â  The Eurocopter has a rich history, originating from a collaboration between Messerschmitt-BÃ¶lkow-Blohm (MBB) and Aerospatiale in the 1970s. The EC 135 introduced innovative technologies such as full-authority digital engine controls (FADEC) for helicopters and a hingeless main rotor. The company that developed the EC 135 has undergone significant changes over the years. Originally known as MBB, it was acquired by Daimler-Benz and subsequently merged into DASA. In 1992, DASA joined forces with Aerospatiale to become Eurocopter, which was later rebranded as Airbus Helicopters in 2014. Because of the 2014 rebranding, what was previously the Eurocopter EC 135 is today branded as the Airbus Helicopters H135. The Eurocopter EC 135 is now available for free in Microsoft Flight Simulator 2024. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aerostar0910</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
-    <updated>2025-08-21T00:00:00+00:00</updated>
-    <link href="/news/aerostar0910"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685de0d3a636c169f3aba0c4_aerostarpog.webp"/>
-    <summary>Sim: FS24. A2A Simulations has issued a new update to their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, bringing a collection of small but meaningful fixes, improvements, and an additional livery. Update v0.9.10 represents their steady march towards 1.0, bringing a series of fixes, improvements, and a new livery to the hangar, to name a few. The full changelog follows below: The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tsenrm</id>
-    <title>Togstad Simulation Products Releases RÃ¸rvik Airport for MSFS 2020/2024</title>
-    <updated>2025-08-21T00:00:00+00:00</updated>
-    <link href="/news/tsenrm"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a744e0c81566ec05af02a4_Banner_Image.webp"/>
-    <summary>Sim: FS24. Togstad Simulation Products has just launched its version of RÃ¸rvik Airport (ENRM) for Microsoft Flight Simulator 2020 and 2024. Situated in TrÃ¸ndelag county, approximately 3 nautical miles from the town of RÃ¸rvik, this small public airport facilitates flights to and from Trondheim and Namsos, operated by the airline WiderÃ¸e. After opening in 1986, the airport's initial service was provided by the airline Norving, which operated the Dornier 228. However, Norving announced the termination of its services in 1988, leaving the airport without any scheduled flights. That same year, WiderÃ¸e began operating flights to and from the airport. Today, WiderÃ¸e remains the only airline with scheduled services available. It operates its Dash 8-100 and Dash 8-200 aircraft on routes to both Trondheim and Namsos, bringing nearly 40,000 passengers to the airport each year. The newly released RÃ¸rvik Airport scenery includes custom buildings, 3D models, detailed interiors, custom runway lights, taxiway lights, and much more. The newly released RÃ¸rvik Airport from Togstad Simulation Products is now available through Orbx for approximately $12.83. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ga8rel</id>
-    <title>SimWorks Studios Releases GA-8 Airvan for MSFS 2020</title>
-    <updated>2025-08-21T00:00:00+00:00</updated>
-    <link href="/news/ga8rel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a7a1b13c7a6183fea99051_00-scaled.jpg"/>
-    <summary>Sim: MSFS20. SimWorks Studios has released the GA-8 Airvan for MSFS 2020, bringing one of Australiaâs most versatile general aviation aircraft into the sim, with an MSFS 2024 release to follow. The Airvan has been developed with a strong focus on realism. You can choose between cargo and passenger layouts, with or without the cargo pod. The aircraft features a highly detailed 3D model, sounds recorded from a real GA-8, and a custom flight model, verified by pilots of the type. Dynamic wear and tear is included, where dirt and mud can accumulate over flight hours. These visual details persist between flights, and even rain can wash the aircraft clean again. A tablet EFB is included, giving access to loading options, checklists, avionics hot-swapping between GTN750Xi, GTN750, and GNS530/430, as well as access to various aircraft settings. Manuals and configuration tools are built directly into the tablet, keeping everything accessible from the cockpit. This release also marks the debut of SystemsPulse, SimWorks Studiosâ new technology, designed to simulate deeper aircraft behaviour. Available in the SystemsPulse Edition of the Airvan, sold separately, the expansion introduces over 70 failure scenarios that may occur randomly, progressively with use, or at the pilotâs command. Covering areas such as engine performance, electrical systems, and operational wear, SystemsPulse gives additional incentive to manage the aircraft properly, as if you were its real-world operator. Both editions come with an official paint kit and a PDF manual. Six liveries are provided across pod and non-pod variants, including base white, Stichting Hoogvliegers, Nissos Kos, VortX, Yellow, and Safari Wings. Customers who purchase the MSFS 2020 version of the GA-8 Airvan now will also receive the MSFS 2024 edition, at no extra cost, upon release. The GA-8 Airvan is available now on the MSFS Marketplace for $29.99, with the optional SystemsPulse expansion sold separately for $17.49. A future release is planned for the SimWorks Studios store. For all the latest news in flight simulation, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/halwux</id>
-    <title>HALUA6683 Releases Wuxi Shiaofang Airport for MSFS 2020</title>
-    <updated>2025-08-21T00:00:00+00:00</updated>
-    <link href="/news/halwux"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68a7b0e13803fd1d6cf233d9_wux1.webp"/>
-    <summary>Sim: MSFS20. HALUA6683 has recently released their rendition of Wuxi Shiaofang Airport (ZSWX) for Microsoft Flight Simulator 2020, serving the Jiangsu Province in China with a yearly average of 8.8 million passengers. The airport was initially built for military purposes in 1955, only making its commercial debut 49 years later in 2004. As of 2025, it has two terminals with 23 boarding gates and 26 parking stands, a single 3,200-meter-long runway, and a new additional runway underway. By 2035, they plan to build an additional passenger terminal to accommodate the predicted 21.5 million passengers per year. Itâs a hub for Ruili Airlines and an operating base for Shenzhen Airlines and China Eastern Airlines. 9 Air, Air Travel, China Southern Airlines, Donghai Airlines, Juneyao Air, Loong Air, Lucky Air, Sichuan Airlines, VietJet Air, Vietnam Airlines, and XiamenAir also serve it. The scenery features an accurate rendition of the airport, with PBR textures, a custom terminal interior based on on-site photography, custom ground textures, custom jetways, and up-to-date ground layout, and more. Itâs available on SimMarket for roughly $19.67, requiring at least 697.99 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-08-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lsszhou</id>
     <title>Li Scenery Studio Releases Zhoushan Putuoshan International Airport for MSFS 2020</title>
@@ -151,5 +97,59 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68afc088aa630c478e9fb00a_zheng1.webp"/>
     <summary>Sim: FS24. WF Scenery Studio has recently released their rendition of Zhengzhou Xinzheng International Airport (ZHCC) for Microsoft Flight Simulator 2020 and 2024, serving Zhengzhou, China, with a yearly average of 25.3 million passengers. Zhengzhou International was built in the early 1990s to replace the cityâs former main airport. Its suboptimal location made expansion impossible, and city residents constantly complained about noise. The new project was much larger, with a 45,900-square-meter terminal and a 3,400-meter-long runway. It opened in late 1997, and the old airport was demolished soon after. Nearly a decade after its opening, the airport was expanded for the first time, with the main terminal becoming twice as big with 128,000 square meters of built area. A new expansion projectâa new terminal, a second runway, and a ground traffic centerâwas approved in 2013. Construction started shortly after approval, and completion was achieved in 2015. The airportâs cargo traffic increased substantially after opening a Foxconn branch in Zhengzhou (the company that manufactures the iPhone for Apple). Between 2010âwhen it launchedâand 2017, the yearly cargo volume went from 85,798 to 502,714 metric tons, with a record growth of 34% a year. Since late 2017, it has been the busiest airport in central China, surpassing Wuhan and Changsha in the process. Itâs a hub for Cargolux and China Southern Airlines, a focus city for Shenzhen Airlines, and an operating base for Lucky Air. 9 Air, Air Cambodia, Air China, Air Macau, Batik Air Malaysia, China Eastern Airlines, Donghai Airlines, Hainan Airlines, Korean Air, Nok Air, Shandong Airlines, Sichuan Airlines, Spring Airlines, Thai Lion Air, West Air, and XiamenAir also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, custom jetways, PBR textures, custom clutter, and more. Itâs available on SimMarket (2020/2024)for roughly $23.20, requiring at least 2.82 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ascsou</id>
+    <title>Aeroscape Releases Southampton Airport for XP12</title>
+    <updated>2025-08-28T00:00:00+00:00</updated>
+    <link href="/news/ascsou"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b0c8ca94ec6d43dbfaebd2_11_72091832-7c27-4b40-b50f-ae2675d60387%20(1).webp"/>
+    <summary>Sim: X-Plane. New to the iniBuilds Store, Aeroscape has recently released Southampton Airport (EGHI), for XP12. The scenery features a highly detailed rendition of one of southern Englandâs busiest regional airports, with bespoke modelling, accurate ground details, and optimised performance, for Laminarâs newest sim. Southampton Airport, well known for its rather short runway, lies in Hampshire, four miles northeast of the city centre. The Airport has a long history, stretching back to its role as Eastleigh Airfield in the early 1900s. It became a hub of British aviation history when the prototype Supermarine Spitfire first flew there in 1936. Today, the airport is an important regional gateway, with connections across the UK and Europe. Aeroscapeâs scenery includes custom-made textures for runways, aprons, and taxiways, alongside a fully recreated landside environment, with accurate vegetation, road layouts, parking barriers, and signage. Dynamic night lighting has been implemented throughout, with bespoke taxi signs and custom-modelled ground service equipment, scattered across the apron. The main terminal has also been modelled internally, with lighting and detailed objects, designed to reflect its real-world counterpart. You can view the full feature list below: â FULL FEATURES LIST Southampton handled nearly two million passengers in 2016, though traffic fell dramatically after the collapse of Flybe in 2020. Since then, carriers including easyJet, Aer Lingus, KLM, and Blue Islands have restored connectivity, with routes to major destinations such as Amsterdam, Dublin, and Belfast. Aeroscape Southampton for XP12 is priced at $10.77 USD, and is available exclusively through the iniBuilds Store. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lca101</id>
+    <title>iniBuilds Updates Larnaca International Airport for MSFS 2024</title>
+    <updated>2025-08-28T00:00:00+00:00</updated>
+    <link href="/news/lca101"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b0cd0a91ade4a715bbecbd_FlightSimulator2024_2hpFwJrwRL_4472x%20(1).webp"/>
+    <summary>Sim: FS24. In a brief update this week, iniBuilds has released version 1.0.1 of their Larnaca International Airport (LCLK), for MSFS 2024. The update addresses a number of minor issues, including a fix for models that were not rendering SSAO correctly. In addition, the jetway previously serving Gate 47 has now been reassigned to Gate 48A. You can read the changelog below: Changelog v1.0.1 Larnaca International Airport, Glafcos Clerides, (LCLK), is Cyprusâ largest airport, located 2.5 miles southwest of Larnaca. Handling over 8.6 million passengers in 2024, it serves as the countryâs primary international gateway, connecting Europe, the Middle East, and beyond. iniBuilds Larnaca version 1.0.1 is available now through the iniManager. For new customers, the product is available via the iniBuilds Store, for $13.47 USD, excluding taxes. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfrj14</id>
+    <title>Just Flight Updates RJ Professional, including MSFS 2024 Support, and New Variant</title>
+    <updated>2025-08-28T00:00:00+00:00</updated>
+    <link href="/news/jfrj14"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b0d93504f10abe94b08df4_rj-professional-msfs_64_ss_l_250828094625.webp"/>
+    <summary>Sim: FS24. Just Flight has released version 1.4 of its RJ Professional for MSFS 2020 and 2024, adding native MSFS 2024 support, performance enhancements, and a new aircraft variant. The headline feature is the RJ100 QT (Quiet Trader), a semi-fictional freighter variant, with four liveries: DHL, FedEx, TNT, and a prototype scheme. While the real aircraft never left the drawing board, Just Flight has now brought it to life in MSFS. Version 1.4 introduces full support for MSFS 2024, custom cabin textures for each passenger livery, and new model LODs, to improve performance. In addition, the GNLU-910A FMS now supports SimBrief flight plan imports, while refinements have been made to cockpit logic, crew callout timing, and autopilot behaviour. Passenger operators also benefit from this update, with custom cabin textures now included, for every default RJ70, RJ85, and RJ100 livery. Elsewhere, the aircraft recieves additional LODs for performance improvements, in both sims. Following this is a complement of various fixes, including corrections to cockpit animations, hydraulic systems, and gear logic. The issue of EFB flickering in MSFS 2024 has also been addressed. Cabin crew callouts now follow more realistic procedures, while the altimeter and autopilot behaviour have been refined. GSX integration has also been expanded, allowing ground power and air connections via the jetway. To comply with the latest MSFS 2024 SDK, the navdata folder has been moved externally, with Navigraph Hub updated, to support the change. Documentation has been streamlined, and all manuals, operations, EFB, and GNLU-910A have been revised. A refreshed paint kit is also included, now covering the new freighter variant. You can read the full changelog here. Existing owners who purchased directly from Just Flight can download Version 1.4 now, via their account page, with third-party stores to follow soon. New customers can pick up the RJ Professional at 25% off until the end of August, through the Just Flight store. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2astar0911</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2024</title>
+    <updated>2025-08-29T00:00:00+00:00</updated>
+    <link href="/news/a2astar0911"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685de0d3a636c169f3aba0c4_aerostarpog.webp"/>
+    <summary>Sim: FS24. A2A Simulations has recently updated their newly released Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, implementing circuit breakers and many fixes and improvements. Update v0.9.11 brings circuit breakers to A2Aâs newest airplane, along with new additions and improvements to further refine the simulation. The complete changelog follows below: The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-08-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsrt24</id>
+    <title>Black Square Releases Real Taxiways for MSFS 2024</title>
+    <updated>2025-08-29T00:00:00+00:00</updated>
+    <link href="/news/bsrt24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b1d88f6a9d1247718ea115_real-taxiways-usa-class-b-c-d-and-non-towered-airports-msfs-2024_5_ss_l_250819085522.webp"/>
+    <summary>Sim: FS24. Black Square has recently released new editions of its Real Taxiways add-on, now available for MSFS 2024. Building on the earlier MSFS 2020 version, this release brings refined visuals, layout corrections, performance improvements, and native support for MSFS 2024. Black Square offers the product in several, separately sold editions, one for Europe, one covering the United States, and an edition specifically for military airfields. A discounted bundle package is also available. This release features various new sign models, with revised textures, improved night-time lighting, and LOD optimisation, that keep them readable from farther away without pop-in. Installation is now simpler, with no separate texture setup required, while several airports have received layout adjustments and smaller signage fixes. Black Square notes that performance impact remains negligible, and airports can be excluded from the installation to avoid conflicts with freeware, payware, or World Update scenery. Marketplace and Xbox versions are planned for a later date. The following editions of the product are available: Across all packages, airports have received updated layouts, thousands of revised taxiway signs, and improved consistency with ICAO standards and regional naming conventions. In total, tens of thousands of signs have been reworked, aiming to provide a more accurate and readable navigation experience in MSFS 2024. Pricing is set at $39.99 USD for the Europe and USA editions, $44.99 USD for the bundle, and $19.99 USD for the military package. Existing MSFS 2020 customers are eligible for discounts on the new editions, with details distributed via email. Black Squareâs Real Taxiways, as well as the full feature lists and changelogs, can be found on the Just Flight Store. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-08-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksrhu</id>
+    <title>MK Studios Provides Update on Rome and Helsinki for MSFS, Targeting Fall Release</title>
+    <updated>2025-08-29T00:00:00+00:00</updated>
+    <link href="/news/mksrhu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b1e174318c5444a5dc3557_540514511_1197192542429031_5833321835656931320_n.webp"/>
+    <summary>Sim: FS24. MK Studios has recently issued a brief update on its upcoming projects, confirming the progress of Helsinki Vantaa (EFHK) and Rome Fiumicino (LIRF) for MSFS. The developer explained that the holiday period, along with the release of Sim Update 3 and work on various scenery updates, had slowed progress in recent weeks. According to MK Studios, the main cause of the delay was a lack of reference material for both airports, which has now been resolved. With the necessary resources in place, the team stated that development is continuing at pace, following what it described as a quieter stretch during the summer months. Alongside the announcement, MK-Studios shared three new preview images, showing progress on the upcoming sceneries. More previews will follow in the coming weeks, as work on the two airports advances. Both EFHK and LIRF represent large international hubs in Europe, and are considered major projects for the studio. With the schedule change, the releases are now expected in fall 2025, though no specific dates have been confirmed. Weâll keep you updated on their progress. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â â</summary>
+    <published>2025-08-29T00:00:00+00:00</published>
   </entry>
 </feed>

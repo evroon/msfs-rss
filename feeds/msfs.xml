@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-08-28T18:34:24.193020+00:00</updated>
+  <updated>2025-08-29T18:31:41.785965+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,6 +34,60 @@
     <published>2025-08-22T20:23:51+00:00</published>
   </entry>
   <entry>
+    <id>https://www.flightsimulator.com/city-update-12/</id>
+    <title>Microsoft Flight Simulator Releases City Update 12: Germany</title>
+    <updated>2025-08-20T15:14:34+00:00</updated>
+    <link href="https://www.flightsimulator.com/city-update-12/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_CU12_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>This latest release highlights seven areas across Germany in brilliant detail</summary>
+    <published>2025-08-20T15:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-21/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 21: the Eurocopter EC135</title>
+    <updated>2025-08-20T15:15:15+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-21/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_ADAC_NoSnipe_NoLogo_NoText-1-768x432.png"/>
+    <summary>The versatile helicopter provides aviators with precision control and exceptional performance</summary>
+    <published>2025-08-20T15:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-3-msfs-2024/</id>
+    <title>Release Notes – Sim Update 3 [1.5.27.0] Now Available | MSFS 2024</title>
+    <updated>2025-08-20T15:22:58+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-3-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SU3_cover-768x432.png"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 3 – release notes – 1.5.27.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.New … Continued</summary>
+    <published>2025-08-20T15:22:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-21st-2025-development-update/</id>
+    <title>August 21st, 2025 Development Update</title>
+    <updated>2025-08-21T22:32:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-21st-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/Zeanuck-Forums-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is forum user Zeanuck! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This was a big week for new releases for MSFS fans!First, we released Sim Update 3 (version 1.5.27.0) for Microsoft Flight Simulator 2024. This update contains thousands of bug … Continued</summary>
+    <published>2025-08-21T22:32:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-simulation-daily/</id>
+    <title>Anniversary Creator Highlight – Simulation Daily</title>
+    <updated>2025-08-22T20:23:51+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-simulation-daily/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SD_highlight-768x432.png"/>
+    <summary>Born from over 25 years of experience in gaming journalism, we’re focusing on Simulation Daily and Editor-in-Chief Giuseppe Nelva for our Anniversary Creator Highlight. Whilst Simulation Daily is a fairly new website in the landscape of flight sim journalism, having only published its first article in July 2024, the website aims to cover all aspects … Continued</summary>
+    <published>2025-08-22T20:23:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-28th-2025-development-update/</id>
+    <title>August 28th, 2025 Development Update</title>
+    <updated>2025-08-28T23:33:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-28th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@tsujiKa_air-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Last week we released Sim Update 3 for Microsoft Flight Simulator 2024. In case you missed it, the full release notes for SU3 are available at this link. … Continued</summary>
+    <published>2025-08-28T23:33:42+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.flightsimulator.com/august-14th-2025-development-update/</id>
     <title>August 14th, 2025 Development Update</title>
     <updated>2025-08-14T22:30:06+00:00</updated>
@@ -41,6 +95,51 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@ukaka5656-Twitter-1-768x432.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.The ongoing beta test for MSFS 2024 Sim Update 3 continues with two new pre-release builds this week. In case you missed it, you can see the release … Continued</summary>
     <published>2025-08-14T22:30:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/city-update-12/</id>
+    <title>Microsoft Flight Simulator Releases City Update 12: Germany</title>
+    <updated>2025-08-20T15:14:34+00:00</updated>
+    <link href="https://www.flightsimulator.com/city-update-12/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_CU12_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>This latest release highlights seven areas across Germany in brilliant detail</summary>
+    <published>2025-08-20T15:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-21/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 21: the Eurocopter EC135</title>
+    <updated>2025-08-20T15:15:15+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-21/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_ADAC_NoSnipe_NoLogo_NoText-1-768x432.png"/>
+    <summary>The versatile helicopter provides aviators with precision control and exceptional performance</summary>
+    <published>2025-08-20T15:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-21st-2025-development-update/</id>
+    <title>August 21st, 2025 Development Update</title>
+    <updated>2025-08-21T22:32:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-21st-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/Zeanuck-Forums-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is forum user Zeanuck! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This was a big week for new releases for MSFS fans!First, we released Sim Update 3 (version 1.5.27.0) for Microsoft Flight Simulator 2024. This update contains thousands of bug … Continued</summary>
+    <published>2025-08-21T22:32:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-simulation-daily/</id>
+    <title>Anniversary Creator Highlight – Simulation Daily</title>
+    <updated>2025-08-22T20:23:51+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-simulation-daily/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SD_highlight-768x432.png"/>
+    <summary>Born from over 25 years of experience in gaming journalism, we’re focusing on Simulation Daily and Editor-in-Chief Giuseppe Nelva for our Anniversary Creator Highlight. Whilst Simulation Daily is a fairly new website in the landscape of flight sim journalism, having only published its first article in July 2024, the website aims to cover all aspects … Continued</summary>
+    <published>2025-08-22T20:23:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-28th-2025-development-update/</id>
+    <title>August 28th, 2025 Development Update</title>
+    <updated>2025-08-28T23:33:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-28th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@tsujiKa_air-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Last week we released Sim Update 3 for Microsoft Flight Simulator 2024. In case you missed it, the full release notes for SU3 are available at this link. … Continued</summary>
+    <published>2025-08-28T23:33:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/city-update-12/</id>
@@ -88,111 +187,12 @@
     <published>2025-08-22T20:23:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-lpa/</id>
-    <title>Creator Highlight, August 2025 – Latino Professionals in Aerospace</title>
-    <updated>2025-08-08T14:50:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-lpa/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/LPA24-7400928-768x512.jpg"/>
-    <summary>This month, we’re proud to spotlight a community that embodies inspiration, representation, and unwavering support: the Latino Professionals in Aerospace (LPA). From its grassroots beginnings, LPA continues to uplift Latino voices in aviation through mentorship, education, and community.But for many of its members, the journey into aviation didn’t begin in a classroom or airport hangar, … Continued</summary>
-    <published>2025-08-08T14:50:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/august-14th-2025-development-update/</id>
-    <title>August 14th, 2025 Development Update</title>
-    <updated>2025-08-14T22:30:06+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-14th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@ukaka5656-Twitter-1-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.The ongoing beta test for MSFS 2024 Sim Update 3 continues with two new pre-release builds this week. In case you missed it, you can see the release … Continued</summary>
-    <published>2025-08-14T22:30:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/city-update-12/</id>
-    <title>Microsoft Flight Simulator Releases City Update 12: Germany</title>
-    <updated>2025-08-20T15:14:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_CU12_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>This latest release highlights seven areas across Germany in brilliant detail</summary>
-    <published>2025-08-20T15:14:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-21/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 21: the Eurocopter EC135</title>
-    <updated>2025-08-20T15:15:15+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-21/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_ADAC_NoSnipe_NoLogo_NoText-1-768x432.png"/>
-    <summary>The versatile helicopter provides aviators with precision control and exceptional performance</summary>
-    <published>2025-08-20T15:15:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/august-21st-2025-development-update/</id>
-    <title>August 21st, 2025 Development Update</title>
-    <updated>2025-08-21T22:32:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-21st-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/Zeanuck-Forums-1-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is forum user Zeanuck! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This was a big week for new releases for MSFS fans!First, we released Sim Update 3 (version 1.5.27.0) for Microsoft Flight Simulator 2024. This update contains thousands of bug … Continued</summary>
-    <published>2025-08-21T22:32:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-simulation-daily/</id>
-    <title>Anniversary Creator Highlight – Simulation Daily</title>
-    <updated>2025-08-22T20:23:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-simulation-daily/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SD_highlight-768x432.png"/>
-    <summary>Born from over 25 years of experience in gaming journalism, we’re focusing on Simulation Daily and Editor-in-Chief Giuseppe Nelva for our Anniversary Creator Highlight. Whilst Simulation Daily is a fairly new website in the landscape of flight sim journalism, having only published its first article in July 2024, the website aims to cover all aspects … Continued</summary>
-    <published>2025-08-22T20:23:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/august-14th-2025-development-update/</id>
-    <title>August 14th, 2025 Development Update</title>
-    <updated>2025-08-14T22:30:06+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-14th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@ukaka5656-Twitter-1-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user ukaka5656! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.The ongoing beta test for MSFS 2024 Sim Update 3 continues with two new pre-release builds this week. In case you missed it, you can see the release … Continued</summary>
-    <published>2025-08-14T22:30:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/city-update-12/</id>
-    <title>Microsoft Flight Simulator Releases City Update 12: Germany</title>
-    <updated>2025-08-20T15:14:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/city-update-12/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_CU12_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>This latest release highlights seven areas across Germany in brilliant detail</summary>
-    <published>2025-08-20T15:14:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-21/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 21: the Eurocopter EC135</title>
-    <updated>2025-08-20T15:15:15+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-21/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/MSFS_ADAC_NoSnipe_NoLogo_NoText-1-768x432.png"/>
-    <summary>The versatile helicopter provides aviators with precision control and exceptional performance</summary>
-    <published>2025-08-20T15:15:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/sim-update-3-msfs-2024/</id>
-    <title>Release Notes – Sim Update 3 [1.5.27.0] Now Available | MSFS 2024</title>
-    <updated>2025-08-20T15:22:58+00:00</updated>
-    <link href="https://www.flightsimulator.com/sim-update-3-msfs-2024/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SU3_cover-768x432.png"/>
-    <summary>microsoft flight simulator 2024 | Sim Update 3 – release notes – 1.5.27.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.New … Continued</summary>
-    <published>2025-08-20T15:22:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/august-21st-2025-development-update/</id>
-    <title>August 21st, 2025 Development Update</title>
-    <updated>2025-08-21T22:32:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/august-21st-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/Zeanuck-Forums-1-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is forum user Zeanuck! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This was a big week for new releases for MSFS fans!First, we released Sim Update 3 (version 1.5.27.0) for Microsoft Flight Simulator 2024. This update contains thousands of bug … Continued</summary>
-    <published>2025-08-21T22:32:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-simulation-daily/</id>
-    <title>Anniversary Creator Highlight – Simulation Daily</title>
-    <updated>2025-08-22T20:23:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-simulation-daily/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/SD_highlight-768x432.png"/>
-    <summary>Born from over 25 years of experience in gaming journalism, we’re focusing on Simulation Daily and Editor-in-Chief Giuseppe Nelva for our Anniversary Creator Highlight. Whilst Simulation Daily is a fairly new website in the landscape of flight sim journalism, having only published its first article in July 2024, the website aims to cover all aspects … Continued</summary>
-    <published>2025-08-22T20:23:51+00:00</published>
+    <id>https://www.flightsimulator.com/august-28th-2025-development-update/</id>
+    <title>August 28th, 2025 Development Update</title>
+    <updated>2025-08-28T23:33:42+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-28th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/08/@tsujiKa_air-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user tsujiKa_air! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Last week we released Sim Update 3 for Microsoft Flight Simulator 2024. In case you missed it, the full release notes for SU3 are available at this link. … Continued</summary>
+    <published>2025-08-28T23:33:42+00:00</published>
   </entry>
 </feed>
