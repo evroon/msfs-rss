@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-08-30T18:30:54.919510+00:00</updated>
+  <updated>2025-08-31T18:31:33.819376+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/p42hbr</id>
-    <title>Parallel 42 Releases Hogsback Ranch for MSFS 2024</title>
-    <updated>2025-08-27T00:00:00+00:00</updated>
-    <link href="/news/p42hbr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68af3b4fd01a5ea05b4de7e1_11_72091832-7c27-4b40-b50f-ae2675d60387.webp"/>
-    <summary>Sim: FS24. Parallel 42 has recently released Hogsback Ranch for MSFS 2024, introducing a fully revamped version of their private luxury airstrip for the new 2024 simulator. Located in Tehama County, California, the ranch combines rugged backcountry flying with high-end residential, giving a rather unique home base for flying in the northern Californian hills.Â  The package features two short runways, a 984-foot gravel strip and a 1,043-foot dirt strip, alongside a private hangar, solar-powered runway lighting, and an asphalt helipad. Approach paths are intentionally challenging, with cliffs, gates, and nearby power lines requiring some carefulness when committing to landing. Dynamic wildlife, hand-modelled vegetation, and Parallel 42âs TrailBlazer terrain technology are also used. Beyond the airstrip, the scenery recreates the entire ranch property. Highlights include stables, campsites, a swimming pool with custom lighting, and explorable interiors in Walkaround Mode. There are also plenty of micro scenes, for example, a âparty modeâ inside the main house, and smaller environmental details around the property. Hogsback Ranch also supports MSFS 2024âs new fauna and visitor systems. Owners of Hogsback Ranch for MSFS 2020 can upgrade to the 2024 edition for $2, using code HOGSBACK24, valid through Feb. 5, 2026. New customers can purchase the product for $14.00 USD, including taxes. Hogsback Ranch is available now via the Parallel 42 store for PC, with releases on Contrail, Orbx, and the in-sim Marketplace (PC and Xbox) to follow. â</summary>
-    <published>2025-08-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wsszhe</id>
     <title>WF Scenery Studio Releases Zhengzhou Xinzheng International Airport for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/dgqsr"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b33f91d4534b6e5fd13cd1_113_2.webp"/>
     <summary>Sim: FS24. FSDG has released Salerno Costa dâAmalfi (LIRI) for MSFS 2020 and 2024, introducing a rather compact coastal airport in a stunning part of Italy. The package already arrives with an initial maintenance update applied (v1.1), which aims to address early issues. Set just short of 25 miles south-east of Naples, Salerno sits between sea and foothills, which shapes both the approaches and the kind of flying it invites. The real-world runway has been extended to around 1,600 metres, and the scenery reflects that updated layout, opening the door to everything from general aviation to smaller airliners. Arrivals over the shoreline are framed by rising terrain, while departures quickly put Mount Vesuvius, the Amalfi Coast, and the Bay of Naples within easy reach. On the ground, FSDGâs rendition features interior modelling, revised ground layouts, and optimised performance. The team has also modelled the surrounding greenhouse belts, which sit close to the traffic pattern, with their glass roofs being notorious for kicking back reflections onto the arriving traffic, in real life. Salerno Costa dâAmalfi is available now from FSDG and partner stores, priced at roughly $15,18 USD, including taxes.Â Marketplace release is planned for next week. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-08-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ccx136</id>
+    <title>FlightFX Updates Cessna 750 Citation X for MSFS 2020/2024</title>
+    <updated>2025-08-30T00:00:00+00:00</updated>
+    <link href="/news/ccx136"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b3592eaf1bb7da32c83742_screenshot_2025-05-20_223415%20(1).webp"/>
+    <summary>Sim: FS24. Five weeks after the aircraftâs initial release, FlightFX has issued version 1.3.6 of its C750 for Microsoft Flight Simulator, bringing the Citation X's first big update. The update introduces a wide-ranging set of refinements across the aircraftâs visuals, handling, and systems, alongside improvements to its integrated V.A.M.S. 2.0 interface.Â  Key changes include the addition of a VR collision mesh and a new co-pilot camera view. Exterior lighting has been overhauled, with corrected intensities, positions and rotations, as well as LED-style strobe and beacon lights, for winglet-equipped airframes. Improvements were also made to the cabin lighting LODs. Graphical fixes have addressed texture gaps and lighting misalignments, while sound changes were made to engine start volume, wind noise and exterior exhaust tones. The FADEC logic now better handles low-altitude cruise thrust, and high-altitude fuel flow discrepancies have been adjusted. Furthermore, ground handling has been retuned, with a focus on tiller sensitivity and yaw behaviour, plus a new option to separate rudder and tiller inputs. Thrust reverser logic has been significantly revised, with faster bucket deployment, smoother N1 ramping, and more consistent autothrottle transitions. Avionics fixes range from functional autopilot disengagement to SimBrief import errors and VSD indicators. Support for 8.33 kHz spacing has been added, alongside improvements to crossbleed logic, TOD behaviour and flight plan sequencing. The Virtual Aircraft Management System (V.A.M.S.) has seen some targeted fixes as well, including chock logic, tablet stability in third-party views, and toggle settings for tiller control. A redundant OpenStreetMap link has also been removed for clarity. For the full changelog, use this link to visit FlightFXâs Discord server. FlightFX has also updated the accompanying instruction manual, available for free on Google Drive.Â  The FlightFX Cessna Citation X is available exclusively on the in-sim Marketplace, for $29.99. For all the latest flight simulation news, be sure to stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
     <published>2025-08-30T00:00:00+00:00</published>
   </entry>
 </feed>
