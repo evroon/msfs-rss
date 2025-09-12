@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-09-11T18:29:57.825184+00:00</updated>
+  <updated>2025-09-12T18:29:39.535361+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/austoo</id>
-    <title>AUscene Releases Toowoomba Wellcamp Airport for MSFS 2020/2024</title>
-    <updated>2025-09-05T00:00:00+00:00</updated>
-    <link href="/news/austoo"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ba6c44e688d181d603ed0f_too1.webp"/>
-    <summary>Sim: FS24. AUscene has recently released their rendition of Toowoomba Wellcamp Airport (YBWW) for Microsoft Flight Simulator 2020 and 2024. The airport serves Wellcamp, in Queensland, Australia, and has a yearly average of 157,000 passengers. The airportâs history is fairly recent, with its construction beginning in April 2013 with an ambitious timeframe: ready by October 2014. Surely enough, by November 2014, the airport was already getting its first scheduled action with Qantas, establishing a route between Wellcamp and Sydney. QantasLink currently serves it by offering flights to Sydney. The scenery features an accurate rendition of the airport, featuring high-quality models, high-resolution aerial imagery, over 200 custom assets, custom ground clutter, custom vehicles, custom ground textures, realistic PBR textures, custom vegetation placement, and more. Itâs available on Contrail for roughly $22.16, requiring at least 4.43 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ctfa50</id>
-    <title>Contrail Shares Development Update on Falcon 50 for MSFS 2020/2024</title>
-    <updated>2025-09-05T00:00:00+00:00</updated>
-    <link href="/news/ctfa50"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68bb15bc9466d872618e4d52_FlightSimulator2024_FSjGnYnxD1_76daefb2-83fb-4c31-8e58-0b805ccfe780_1080x.webp"/>
-    <summary>Sim: FS24. Last month, Contrail published the second development update on its upcoming Dassault Falcon 50 for Microsoft Flight Simulator 2020 and 2024, offering us a glimpse at the current stage of development. The biggest milestone stated so far is that the flight model and sound package have wrapped their first development phase. The next step will see the aircraft evaluated by real-world FA50 pilots, who will put performance and fidelity under the microscope. Contrail says this testing will be crucial in ensuring the Falcon 50 behaves and sounds as close to reality as possible. Avionics and core systems are also nearing completion, while the walkaround mode in MSFS 2024 is already functional, complete with chocks, pitot and engine covers. For simmers looking ahead to MSFS 2024, the Falcon 50 will use the default EFB, but Contrail is adding its own custom app for weight and balance, ground services, and more, with full Navigraph integration baked in. Interestingly, Contrail also shed some light on the cabin blinds, which can be adjusted manually or left to move automatically as time and altitude change. It is a small but telling detail that hints at the level of immersion the team is aiming for. First announced back at FSExpo 2025, the Falcon 50 project is shaping up to be an ambitious project, this being Contrail's first in-house aircraft. With testing about to begin, and a targeted release for this year, the classic French trijet looks to be moving steadily toward the finish line. We'll keep you updated on the Contrail FA50, and future developments! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-09-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ff7rel</id>
     <title>FlightFactor 777V2 Leaves Beta Phase, Details Future Roadmap</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c1a6df9f09e39ba62d1233_GLJ25_MSFS2020_01.webp"/>
     <summary>Sim: MSFS20. Xtreme Prototypes, also known as XTPRO from the Prepar3D world, has released their debut aircraft for Microsoft Flight Simulator, the GLJ Model 25 Classic SE, replicating the classic Gates Learjet 20 series. Aiming to capture the jetâs âfighter in civilian clothingâ characteristics, the team brings deep systems fidelity and plenty of polish. The cockpit is a retro-fitted fit-out, built around the GNS 530, with steam gauges modelled in full 3D, hundreds of animations, and comprehensive lighting with independent dimmers. Under the hood, custom systems cover electrics, hydraulics, pressurisation, anti-ice, fuel (including cross-feed and wingtip jettison), the CJ610 powerplants, and a fully modelled AFCS, with speed hold, yaw damper, and GPS/NAV modes. Sounds are authored in Wwise, and the aircraft features visual effects as well, ranging from exhaust heat and contrails to icing and rain. On the art side, XTPRO notes high-resolution PBR textures, detailed interior and exterior models, and 14 liveries. A 300-page manual (English or French) ships with the aircraft, also including a paint kit. Owners can even add their own custom GPS/radar or tweak aircraft behaviour, using the customisation kit. Note that such third-party avionics are supported, but not included. Xtreme Prototypes notes that the aircraft is built natively for MSFS 2020, though it can also be flown in MSFS 2024, using a compatible version. However, this version is not fully native, so you should expect potential bugs and quirks, and fly at your own discretion. A native 2024 version is coming soon, the team stated. You can find the aircraft manual here. For the full feature list, visit the official product page. For a classic and old-school Learjet experience, you can find the GLJ Model 25 Classic SE on Xtreme Prototypesâ website, for $36,06 USD. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddtabq</id>
+    <title>DominicDesignTeam Releases Albuquerque International Sunport for MSFS 2020/2024</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <link href="/news/ddtabq"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c32a26f4d032cc952801c5_4KSeq.00_01_29_49.Still022_4472x%20(1).webp"/>
+    <summary>Sim: FS24. DominicDesignTeam has released a detailed rendition of Albuquerque International Sunport for Microsoft Flight Simulator 2020 and 2024, bringing the well-known desert city a new angle in the sim. The package features high-quality PBR textures, dynamic lighting, and realistic ground markings, custom jetways, bespoke taxiway signage, and hand-crafted pavement, dirt, wear, and surface variation. You also get custom objects, passenger and bus animations, for extra life on the apron, plus tuned LODs, to keep performance smooth across a range of systems. As a quick refresher, Albuquerque Sunport is the primary gateway to New Mexico, sitting between the Rio Grande and the Sandia Mountains. With a 4,800-plus foot elevation and frequent crosswinds, the Sunport serves up lively departures and arrivals. DominicDesignTeamâs Albuquerque is available now via the iniBuilds Store for $18.94 USD. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/e19172</id>
+    <title>Echo19 Releases Cessna 172 Precision Audio Pack for MSFS 2020/2024</title>
+    <updated>2025-09-12T00:00:00+00:00</updated>
+    <link href="/news/e19172"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c4659447cf8f96345c081c_FlightSimulator2024_2025-08-05_15-04-26_400.webp"/>
+    <summary>Sim: FS24. Echo 19 has launched its Cessna 172 Precision Audio Pack for Microsoft Flight Simulator 2020 and 2024, bringing a rich, reactive soundscape to the worldâs most-flown GA aircraft.Â  Built on the developerâs new EchoFX system, the pack layers sounds that respond to airspeed, angle of attack, weather, and pilot inputs. Expect ground and cabin life cues like fuel slosh, seat and interior creaks, and airframe squeaks in the wind; exterior touches, such as refined control-surface stops, battery contactor clicks, and heat exchange; plus aircraft-specific details, including an accurate N-model flap motor, prop flutter in high winds, and a stall horn that varies pitch with angle of attack. Inside the cockpit, 96 kHz ambisonic captures place every switch, knob, and lever in true 3D space, for headphone and Spatial Sound users. Engine behaviour shifts with mixture and temperature, and there is also airflow noise once the air is moving, with wind layers built naturally as you accelerate. In addition, there are some handy customisation switches, such as toggling vintage-style gyro sounds via the Marker Sensitivity switch. You can also enable an alternator whine, if you fancy a little retro buzz. As a small bonus, Echo 19 also includes five liveries: four for MSFS 2024 (Classic âRubyâ, USAF Academy, Echo 19 House, and House Alt), and one for MSFS 2020 (Echo 19 House Alt). Echo19âs Cessna 172 Precision Audio Pack is available now on the Echo 19 store for $12.23, as well as the in-sim Marketplace, Contrail, iniBuilds, and Orbx. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-09-12T00:00:00+00:00</published>
   </entry>
 </feed>
