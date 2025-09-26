@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-09-25T18:35:08.249351+00:00</updated>
+  <updated>2025-09-26T18:32:07.798658+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/c172cr</id>
-    <title>Carenado Releases Cessna 172 for MSFS 2024</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/c172cr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cadf31b0d19b05605aa8e7_548422664_1206653604835774_5649167629880773778_n.webp"/>
-    <summary>Sim: FS24. Following last weekâs teasers, Carenado has released its classic, steam-gauge Cessna 172, for Microsoft Flight Simulator 2024.Â Carenado's rendition models the very original, early-production lineage from 1956, which pre-dates the modern Skyhawk.  Expect a cabin full of round dials, a period interior, and short-field friendly flap travel, which sets it apart from the default 172S in MSFS 2024. The aircraft comes in several variants, including with and without wheel covers. If you enjoy steam gauges, pattern work, and low-and-slow sightseeing, this looks like a nice addition. Carenadoâs classic Cessna 172 is available on the MSFS 2024 Marketplace, for $14.99. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wwbpdc</id>
-    <title>WINWING Releases Boeing-Style EFIS Panels: 3N PDC &amp; 3M PDC Now Available</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/wwbpdc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cd76901b39b38b3b7854b1_QmT9QWUFUXB86692sPgCZML2g2EbB6fF7WEC1qQS5WHqHp.webp"/>
-    <summary>Sim: OTHER. Winwingâs new 3N PDC and 3M PDC panels are now available to buy, bringing a new, Boeing-style EFIS to your desktop.  They slot neatly on either side of the already released PAP 3 Autopilot Panel, for a full 737-style glareshield, and can also be used standalone. The product range has been split into two variants, to mirror the real aircraft: The 3N PDC covers the 737 NG, meaning it has no Vertical Situation Display button, as well as a labelled range scale, with eight detents on a 210-degree selector, numerical markings, and the expected mode and baro interactions. Meanwhile, the 3M PDC (737 MAX-style) features a dedicated VSD button, a detent-free 360Â° encoder, with simple minus/plus direction marks, and revised labelling, to match the IRL MAX. Both products ship with left and right glare shields in the box, allowing you to swap between captain and first officer layouts. Additionally, both support the multi-panel backlight sync feature, through SimAppPro.Â  Furthermore, the centre (CTR) push switch is correctly inhibited in PLN mode, matching the real limitation. Youâll get full-structure moulded faces, with sharp 3D detailing, individual switches for MINS RST, BARO STD, CTR, and TFC, plus authentic auto-reset logic on MINS and BARO selectors. Each unit connects over its own USB and can be used standalone, paired together NG/MAX, or integrated with the PAP3 autopilot panel, for a complete Boeing-style glareshield. As for compatibility, Winwing lists native or active development support. Included for MSFS 2020/2024 are; the PMDG 737, 777, Asobo/Working Title 747 and 787, and the iFly 737 MAX. On the X-Plane-side, Winwing so far supports the Zibo 737, Laminar 737-800 &amp; 747-400, and FlightFactor 777.Â  Further aircraft, including classic jets, like the FSS 727-200 Advanced, and Aeroplane Heaven 707, are flagged as upcoming.  The products went live earlier today, and global listings are live with limited stock, with regional pricing being published as follows, for a single unit: Note that regional sites may adjust prices for exchange rates, and shipping or tax may apply to the global store. For all your 737 adventures, these PDCs complete the picture, modelling the respective differences between the NG and MAX, standalone or in combination with the PAP3 MCP.Â You can find them both on the Winwing store, available together in a combo for $175.00, or sold separately, for $87.50. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/t320ra</id>
     <title>ToLiss Announces Airbus A320ceo Release Date</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d5819e7982c57e719b6271_MSFS_NAMC_NoSnipe_NoLogo_NoText.webp"/>
     <summary>Sim: FS24. Microsoft has, in conjunction with World Update 20, released Local Legend 22, bringing Japanâs post-war NAMC YS-11 airliner to both MSFS 2020 and MSFS 2024.Â  Developed by the Nihon Aircraft Manufacturing Corporation in the late 1950s, the YS-11 first flew in 1962 and entered service three years later. A straightforward, robust design, low wing, pressurised cabin, and tricycle gear helped it find work with civil and military operators worldwide.Â  Power comes from a pair of Rolls-Royce Dart Mk. 542-12K turboprops, driving four-blade, constant-speed propellers, giving the YS-11 plenty of short-field capability. In the simulator, the YS-11 is offered in two variants, Passenger and VIP Charter, and comes with a set of period-appropriate liveries. Performance figures presented with the release include a service ceiling of 23,000 feet, a maximum range of 1,485 miles, and a typical cruise speed of nearly 294 mph.Â  The YS-11 also boasts impressive take-off and landing distances of 3,642 feet and 2,165 feet, respectively. For the full read, you can find Microsoft's blog post here. Local Legend 22 is now available via the in-sim marketplace for $19.99, with rental options including a seven-day pass for $9.99, a three-day pass for $6.99, and a one-day free trial. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ahdhlm</id>
+    <title>Aeroplane Heaven Teases de Havilland Mosquito for Microsoft Flight Simulator</title>
+    <updated>2025-09-26T00:00:00+00:00</updated>
+    <link href="/news/ahdhlm"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d6b53c08c6063f0da56c19_553754326_1472243147602593_3308607875618847901_n.webp"/>
+    <summary>Sim: FS24. Aeroplane Heaven has recently taken to Facebook to tease yet another project, providing a set of work-in-progress screenshots that reveal the legendary de Havilland DH.98 Mosquito. This reveal lands days after the developer officially announced its B-25J Mitchell, meaning Aeroplane Heaven now has two iconic World War II bombers for MSFS in the pipeline.Â  Nicknamed the âWooden Wonderâ (or simply the âMossieâ), the Mosquito was one of the most versatile combat aircraft of the Second World War. It had a plywood construction, twin Rolls-Royce Merlin engines, and was a fast, agile, and adaptable aircraft, serving as a bomber, night fighter, pathfinder, and reconnaissance platform.  It even carried out some of the warâs most daring precision strikes, like the famous Amiens Prison raid. The early screenshots showcase a nicely detailed cockpit, complete with scuffed paint, weathered fittings, and authentic wartime instrumentation.Â  Itâs a world of chunky levers, green-painted panels, and exposed wiring, showing off what Aeroplane Heaven is well known for. Externals also make an appearance, giving us a peek at the landing gear and fuselage lines, that defined the Mosquitoâs unmistakable profile. Aeroplane Heaven has kept specifics close to its chest. We donât yet know which Mosquito variants will be modelled, or what the release timeline will be. From the look of things, the 3D modelling phase is well underway, but the larger details are still under wraps.  Weâll keep you updated on the Aeroplane Heaven Mosquito! For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-09-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iniwfr</id>
+    <title>iniBuilds Releases Wolfâs Fang Runway for MSFS 2024</title>
+    <updated>2025-09-26T00:00:00+00:00</updated>
+    <link href="/news/iniwfr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d6c4ea83cfaced5d66d888_FlightSimulator2024_Q7uKv5REQ9_4472x%20(1).webp"/>
+    <summary>Sim: FS24. iniBuilds has just released their Wolfâs Fang Runway (AT98) for Microsoft Flight Simulator 2024, bringing an Antarctic blue-ice strip to the sim as free scenery. The airfield, used seasonally by operations in Queen Maud Land, is represented with a bespoke texture set for ice and snow, custom environment-specific lighting, and detailed camp assets, vehicles, and static aircraft. The layout reflects the current site, and iniBuilds has done some level-of-detail work to ensure satisfying performance. Wolfâs Fang is modelled as a long, true-course runway, cut into glacial terrain, notable for its distinctive surface and remote setting.  Accompanying the release is a brief navigation guide, covering route suggestions from Cape Town, basic procedures, and waypoint tips, for sim briefings and FMS entry. The feature list of Wolf's Fang follows below: iniBuildsâ Wolfâs Fang Runway scenery is available for free on the iniBuilds store. The download weighs in at roughly 230 MB, with an installed size of about 498 MB. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-09-26T00:00:00+00:00</published>
   </entry>
 </feed>
