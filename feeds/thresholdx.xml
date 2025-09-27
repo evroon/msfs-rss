@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-09-26T18:32:07.798658+00:00</updated>
+  <updated>2025-09-27T18:30:27.350087+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/t320ra</id>
-    <title>ToLiss Announces Airbus A320ceo Release Date</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/t320ra"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cd9c4b874d424ab014fe5b_TOPOST---a320-2025-09-1910_09%20(1).webp"/>
-    <summary>Sim: X-Plane. After releasing the A320neo for X-Plane in 2023, ToLiss has announced that the much-loved A320ceo will soon join the line-up, coming for X-Plane 12 next Friday, as an expansion package. First launched in the mid-1980s and entering service with Air France in 1988, the A320ceo was revolutionary for introducing all-digital, fly-by-wire controls to the airliner market. The family grew to include the A318, A319, and A321, and became a workhorse for airlines across the globe. The ToLiss A320ceo will come with both the CFM56-5B4 and IAE V2527-A5 powerplants, and will require the ToLiss A320neo base package to run. ToLiss has confirmed that pre-release copies of the A320ceo expansion will be going out to streamers and reviewers very soon, so expect full previews, walkthroughs, and performance showcases in the coming days. ToLiss hasnât confirmed which platforms it will release on just yet, but going by past launches, you can expect to see it available through the X-Plane.org Store, Aerosoft , and Simmarket. For the full post, visit this link. The ToLiss A320ceo is releasing Friday, Sep. 26. The expansion will be priced at $29.95.  For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inifact</id>
-    <title>iniBuilds Announces Cape Town International Airport Scenery for MSFS 2024</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/inifact"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cdc146dee8977f5bff03da_5.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently announced its latest scenery pack for Microsoft Flight Simulator 2024, Cape Town International Airport. iniBuilds aims to provide an accurate representation of the airport, along with a detailed 12-meter Digital Elevation Model that captures the stunning landscapes surrounding Cape Town, including the iconic slopes of Table Mountain, and even its cable car. iniBuilds states that the airport will provide âunparalleledâ accuracy while also striving for the âbest performance possible,â achieved through Level of Detail (LOD) optimisation, the latest MSFS SDK features, and full configurability via iniManager. Furthermore, the scenery will include handcrafted ground textures, unique texture sets, highly detailed models of all airport buildings, objects, and surroundings, custom taxi signage, dynamic airport lighting, an official GSX profile, and more. The scenery will be available soon for $20 (excluding VAT) and has been âbuilt from the ground upâ for MSFS 2024. For more on Cape Town International Airport, check out iniBuildâs press release. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/teikofskbq</id>
-    <title>TEIKOF Studio Releases Ernesto Cortissoz International Airport for MSFS</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/teikofskbq"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cdca3d122bf85099764ec5_548507515_784219594368128_4366000255631816655_n%20(1).webp"/>
-    <summary>Sim: FS24. TEIKOF Studio has just released Ernesto Cortissoz International Airport (SKBQ) for Microsoft Flight Simulator. Ernesto Cortissoz International Airport serves Barranquilla, the capital of the AtlÃ¡ntico department in Colombia. It was originally opened in 1981 and is named after Ernesto Cortissoz, a pioneer of Colombian aviation. Today, it is a focus city for both Avianca and the somewhat controversial airline, Aeroscure. With just under 3 million passenger movements per year, the airport can accommodate widebody aircraft, including the Boeing 747, with its 3-kilometre-long single runway. TEIKOF Studio's virtual recreation of Ernesto Cortissoz features accurately modelled airport facilities, high-resolution PBR textures, custom ground markings, immersive night lighting, and more. The Airport is available for PC and Xbox on the in-game Marketplace for $16.99, and is compatible with both MSFS 2020 and 2024. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/azdarafdevu</id>
-    <title>AzurPoly Shares New Development Update on the Upcoming Dassault Rafale</title>
-    <updated>2025-09-19T00:00:00+00:00</updated>
-    <link href="/news/azdarafdevu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68cdd1666df993b87ab0db1e_xz24i6weelfbqjmhonde.webp"/>
-    <summary>Sim: FS24. AzurPoly has just shared a new development update on their upcoming officially licensed Dassault Rafale for Microsoft Flight Simulator. AzurPoly states that the majority of the remaining work involves developing the unique systems for the Rafale. These systems have been entirely created from scratch due to their specificity. We didn't receive a significant update about the exterior model; however, AzurPoly noted that they are "really happy with how it's turning out." They also stated that the level of detail for the Rafale has been enhanced even further than what they achieved with the Jaguar. Cockpit modelling and texturing have progressed significantly since the last development update. As a result, AzurPoly has begun sharing interior screenshots. However, AzurPoly states that things may be subject to change. MSFS 2020 compatibility remains uncertain, with AzurPoly noting that MSFS 2024 presents significantly better options overall, including enhanced visuals and performance. Nonetheless, a port for MSFS 2020 is still a possibility. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tdsgtn1303</id>
     <title>TDS Sim Software Updates GTNXi Suite for MSFS and X-Plane </title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d6c4ea83cfaced5d66d888_FlightSimulator2024_Q7uKv5REQ9_4472x%20(1).webp"/>
     <summary>Sim: FS24. iniBuilds has just released their Wolfâs Fang Runway (AT98) for Microsoft Flight Simulator 2024, bringing an Antarctic blue-ice strip to the sim as free scenery. The airfield, used seasonally by operations in Queen Maud Land, is represented with a bespoke texture set for ice and snow, custom environment-specific lighting, and detailed camp assets, vehicles, and static aircraft. The layout reflects the current site, and iniBuilds has done some level-of-detail work to ensure satisfying performance. Wolfâs Fang is modelled as a long, true-course runway, cut into glacial terrain, notable for its distinctive surface and remote setting.  Accompanying the release is a brief navigation guide, covering route suggestions from Cape Town, basic procedures, and waypoint tips, for sim briefings and FMS entry. The feature list of Wolf's Fang follows below: iniBuildsâ Wolfâs Fang Runway scenery is available for free on the iniBuilds store. The download weighs in at roughly 230 MB, with an installed size of about 498 MB. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-09-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vol133</id>
+    <title>Orbx Updates Volanta Flight Tracker to Version 1.13.3</title>
+    <updated>2025-09-26T00:00:00+00:00</updated>
+    <link href="/news/vol133"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d6ef456529a63e98500908_68c9870ee32b1aa1f00cdeb2_social.webp"/>
+    <summary>Sim: OTHER. Orbx has recently released version 1.13.3 of their Volanta plug-in, a free, flight-tracking application for desktop and mobile, introducing a series of notable improvements. One of the main highlights in this update is the expanded aircraft recognition system.  A wide range of new aircraft icons has been added, including the B-17, B-24, B-25, and B-29, alongside more modern aircraft, like the Bombardier Global 7500, Embraer E2 series, and Cirrus SR22. Military jets, like the F-104 Starfighter, Kfir, and T-38 Talon, also feature in the list, reflecting the ever-growing variety of aircraft flown by Volanta users. Helicopter pilots will also appreciate a fix to flight playback and charting, which now correctly displays low-speed manoeuvres that were previously missing. Beyond visuals, several quality-of-life fixes have been introduced. V1.13.3 has refined how Volanta handles plugins, reducing the risk of crashes in FSX and Prepar3D. The long-standing issue of the map taking too long to zoom in and out has also been addressed, resulting in quicker and smoother transitions.  Additionally, the SimConnect installation prompt has been removed for Microsoft Flight Simulator 2020 and 2024 users, since it is no longer required, with the latest plugin system. The update can be downloaded now and will be applied automatically upon opening Volanta. New users can find the program here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-09-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tol320ceoxp</id>
+    <title>ToLiss Simulation Software Releases A320ceo Add-on for X-Plane 11 &amp; 12 </title>
+    <updated>2025-09-27T00:00:00+00:00</updated>
+    <link href="/news/tol320ceoxp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d77ef948863e500f00f3ab_ceo1.webp"/>
+    <summary>Sim: X-Plane. ToLiss Simulation Software has recently released their A320ceo add-on for X-Plane 11 and 12, adding the legendary A320-214 and A320-232 to their ever-growing roster of Airbus aircraft.Â  Unlike their previous releases, their A320ceo requires the A320neo to work, hence the lower price tag of $30. It brings two engine variants (CFM56-5B4 and IAE V2527-A5), wingtip fences and sharklets, accurate performance figures, a detailed 3D model for each engine type, a specific TSS sound set for each engine variant, and much more. Furthermore, the fuel system configuration was adapted to accurately replicate how the CEO handles fuel, with the electrical center tanks feeding the engines and switching automatically with engine selection. The weight envelope was also altered to conform to the older engines. Displays and flight management systems were also changed to match the older airframe. Itâs available on the X-Plane.Org Store for $29.95, requiring 268 MB of free hard disk space and a valid copy of their previously released A320neo. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-09-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/astracargill</id>
+    <title>Astralis Studios Releases Invercargill Airport for MSFS 2020/2024</title>
+    <updated>2025-09-27T00:00:00+00:00</updated>
+    <link href="/news/astracargill"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d7841c81d25ea4510381c5_cargill1.webp"/>
+    <summary>Sim: FS24. Astralis Studios has recently released their rendition of Invercargill Airport (NZNV) for Microsoft Flight Simulator 2020 and 2024. The airport serves Invercargill, New Zealand, and has a yearly average of 270,920 passengers. It was built in the early 1930s to replace Invercargillâs former main airport, an aerodrome on a farm 10 kilometers away from the city. Due to their location choice, on a former tidal estuary lake, they had to drain all the water and stabilize the land before construction, which took three years. It was not until 1939 that it was finally ready to get traffic. World War 2 was already in progress during its completion, and the Royal New Zealand Air Force used it as an auxiliary field, still secondary to the aerodrome on a farm, as that one could actually handle heavier patrol bombers.Â  The first scheduled service, a Union Airways flight to Dunedin on a Lockheed 10 Electra, occurred only in 1944. â Twelve years later, the runway underwent a massive upgrade: finally, pavement was installed, and a hefty temporary terminal was built to better handle the passenger traffic.Â  â The runway was expanded over the decades that followed to accommodate larger aircraft and thus âkeep up with the times.â It peaked at its current 2210 meters. The first âpermanentâ terminal facility was built in 1963, with a lozenge-shaped roof, fully glazed airside walls, and two levels. A small jetway was added in 1988 to make things easier for the passengers, but it was removed in 2012. In the 2010s, a new passenger terminal was built from the ground up. The previous terminal was over 50 years old and severely compromised by seismic issues that occasionally hit the area. The administration figured that demolishing everything and starting over anew would be more logical. As of late 2025, Air New Zealand (Auckland, Christchurch) and Stewart Island Flights (Oban) are the only airlines serving the airport. â The scenery features an accurate rendition of the airport, with an up-to-date ground layout, over 35 custom objects, enhanced night lighting, PBR textures, custom ground markings, and much more. Itâs available on Contrail for roughly $11.01, requiring at least 2.53 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-09-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp1233</id>
+    <title>Laminar Research Releases X-Plane 12.3.0 Beta </title>
+    <updated>2025-09-27T00:00:00+00:00</updated>
+    <link href="/news/xp1233"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d8140c3a9e95f077741b44_553686471_1345164110337120_4493339418293256017_n.webp"/>
+    <summary>Sim: X-Plane. Laminar Research has published a new beta build with weather radar improvements, bug fixes and improvements for the default aircraft, implementation of new debug tools for developers, and the fix for the users who experienced black boxes in the sky. Currently, there are two known issues: the update to Beta build 3 for users on macOS will fail unless the X-Plane.app file is deleted beforehand, and the weather radar output may be inaccurate for some 3rd party aircraft. â This build brought in many improvements and fixes, with some of them being the improved TrackIR movement, a new debug tool for capturing graphic data, fixed synchronising between sim and UTC time, improved colors of the VFR map and the Synthetic Vision, improved crash handling on systems using Windows, and many more. For the aircraft side of the update, the close-range weather radar detection has been significantly improved, as in the previous versions, the radar could miss the clouds due to the width of the beam. The rest of the improvements are for the Beechcraft Baron 58, where the fuel tank selector could cause some levers to get stuck, Boeing 737-800, where the wind condensation particles have been corrected, and lastly, the PROG page on the Cessna Citation X on the second FMS is now fixed, and the destination airport is displayed there as well. â The full change log is as follows: â General Aircraft General Beechcraft Baron 58 Boeing B737-800 Cessna Citation X Graphics â The Beta 3 is available for download for all users who have chosen the public beta. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â  â</summary>
+    <published>2025-09-27T00:00:00+00:00</published>
   </entry>
 </feed>
