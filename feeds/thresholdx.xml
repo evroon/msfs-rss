@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-02T18:33:51.995468+00:00</updated>
+  <updated>2025-10-03T18:33:21.233995+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tol320ceoxp</id>
-    <title>ToLiss Simulation Software Releases A320ceo Add-on for X-Plane 11 &amp; 12 </title>
-    <updated>2025-09-27T00:00:00+00:00</updated>
-    <link href="/news/tol320ceoxp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68d77ef948863e500f00f3ab_ceo1.webp"/>
-    <summary>Sim: X-Plane. ToLiss Simulation Software has recently released their A320ceo add-on for X-Plane 11 and 12, adding the legendary A320-214 and A320-232 to their ever-growing roster of Airbus aircraft.Â  Unlike their previous releases, their A320ceo requires the A320neo to work, hence the lower price tag of $30. It brings two engine variants (CFM56-5B4 and IAE V2527-A5), wingtip fences and sharklets, accurate performance figures, a detailed 3D model for each engine type, a specific TSS sound set for each engine variant, and much more. Furthermore, the fuel system configuration was adapted to accurately replicate how the CEO handles fuel, with the electrical center tanks feeding the engines and switching automatically with engine selection. The weight envelope was also altered to conform to the older engines. Displays and flight management systems were also changed to match the older airframe. Itâs available on the X-Plane.Org Store for $29.95, requiring 268 MB of free hard disk space and a valid copy of their previously released A320neo. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/astracargill</id>
     <title>Astralis Studios Releases Invercargill Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de1a7e3f1f48c46cd8b62a_1250410_20250904221155_1.webp"/>
     <summary>Sim: FS24. Paulo Ricardo recently issued an update to their rendition of Congonhas Airport (SBSP) for Microsoft Flight Simulator 2024. The update focuses on performance improvement and general adjustments to further improve the productâs quality. It does not apply to the MSFS 2020 version. Update 1.9.6 improves LOD (level of detail), lowers VRAM usage, and makes a series of adjustments to enhance the sceneryâs overall performance in the new platform. As previously mentioned, the update does not apply to Microsoft Flight Simulator 2020, which remains on 1.9.5 for now. â Itâs available in the MSFS Marketplace for roughly $16.99, requiring at least 6 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ini340mp24</id>
+    <title>iniBuilds Publishes Video Introduction to A340; Initial Release to Be Marketplace-only </title>
+    <updated>2025-10-03T00:00:00+00:00</updated>
+    <link href="/news/ini340mp24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de170e6d46d162b8155846_3402.webp"/>
+    <summary>Sim: FS24. iniBuilds recently published an in-depth video showcasing the intricacies of their upcoming Airbus A340 Airliner for Microsoft Flight Simulator 2024. The aircraft is set to release sometime this month exclusivelyâalbeit temporarilyâin the Marketplace. The 56-minute-long video encompasses the A340âs history, the power plant characteristics, the central landing gear, an in-depth external walkaround, tire and hatch details, engine details, GSX integration, wear and tear, a complete cabin walkthrough, the flight deck and the EIS1 screens, further flight deck details and functionality, taxi and flight model, take-off and climb performance, the EIS1 terrain radar, night lighting and differences between EIS 1 and 2, handling characteristics on approach and landing, EIS2 displays and features, a walkaround of the cargo version, an overview of the electronic flight bag, CPDLC integration, ACARS/CPDLC and its integration with Air Traffic Control, their custom code for flaps and slats, further handling characteristics, and information regarding its availability. The add-on will initially only be available via the in-game Marketplace, but it will eventually reach the iniManager. Furthermore, marketplace version owners will be able to request a license transfer once that happens. There is no information regarding pricing and its eventual release date just yet, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-03T00:00:00+00:00</published>
   </entry>
 </feed>
