@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-06T18:35:17.499133+00:00</updated>
+  <updated>2025-10-07T18:35:52.736060+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nss707fd</id>
-    <title>Nimbus Simulation Studios Teases 707's Flight Deck</title>
-    <updated>2025-09-29T00:00:00+00:00</updated>
-    <link href="/news/nss707fd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68da27498661e97e0cbfbbb9_nimbu1.jpg"/>
-    <summary>Sim: X-Plane. Nimbus Simulation Studios has recently shared a few screenshots of the cockpit progress on their Boeing 707 for X-Plane, which was first announced during last yearâs FSExpo. The new previews showcase the cockpit work under different lighting conditions, highlighting their intricate attention to overall detail, with wear and tear to boot, as youâd expect from such an old airplane. The 707 was Boeingâs first jet, directly contributing to the history of modern travel by being the first commercially successful jet. It truly inaugurated the so-called âjet age,â transforming long-distance air travel into a fast, reliable, and somewhat affordable means of mass travel.Â  Its revolutionary design was centered around speed and efficiency, cruising higher than most airliners at the time, avoiding turbulence and reducing drag, often cutting transatlantic travel times in half. Its impact was much more than just the noticeably faster speed; it wasÂ also cultural and economic, forever changing the landscape of airline travel. Thereâs still no release date or pricing information, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-09-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/wwumth</id>
     <title>Winwing Opens Pre-Orders for URSA Minor 32 Throttle Metal and 32 PAC Metal</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e3e7a5541385cd447c1f31_ATR_72_-_2025-10-05_19.25.45.webp"/>
     <summary>Sim: X-Plane. SkyCatsLab has recently shared some previews of their upcoming ATR 72-600 for X-Plane 12, showcasing daytime and night cockpit shots, along with work-in-progress exterior PBR textures.Â  The images highlight flight deck modelling, FCP and displays, the overhead and circuit breaker panels, oxygen masks, night lighting, and turboprop, wing, and exterior. Test builds with a fully functional cockpit are currently being evaluated by the internal testing team and several experienced ATR 72 pilots, who are assessing systems operation, indications, performance, navigation, and the flight model. As for release, SkyCatsLab continues to target a 2026 release window. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/taiblr</id>
+    <title>TaiModels Releases Kempegowda International Airport (VOBL) for XP12 and MSFS 2020/2024</title>
+    <updated>2025-10-07T00:00:00+00:00</updated>
+    <link href="/news/taiblr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e4e1f280bb7a9641757474_Screenshot%202025-10-07%20114430.webp"/>
+    <summary>Sim: MSFS20. TaiModels has just released their rendition of Kempegowda International Airport (BLR/VOBL) for X-Plane 12, MSFS 2020 and MSFS 2024. Located 35km (22mi) from the city, it serves Bengaluru and is the third busiest airport in India, with over 41 million passenger operations in 2024. Opened in May 2008, replacing the old HAL Airport. Originally, the airport had a single runway, accompanied by a terminal with 8 jetbridges, one double-arm jetbridge, and 9 remote parking stands. In February 2009, the airport was renamed in honour of the founder of the city, Kempe Gowda I.Â  The first airport expansion was launched in 2011 and finished two years later. The passenger terminal size has been doubled, with additional check-in desks, immigration, and baggage-reclaim facilities. A single domestic gate and 3 international gates were also added.Â  The latest airport expansion was completed in 2021, where the airport received another runway and a second terminal, allowing it to handle between 55 and 60 million passengers annually. The TaiModelsâ rendition of the Kempegowda Intlâ features handcrafted PBR ground textures and markings, detailed terminal interior, accurate airport lighting and custom-made night lighting, optimised performance, tower laser effects, and animated screens and escalators. The scenery is available for purchase on the iniBuilds store for approximately $21.91, requiring at least 1.82GB of free disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-07T00:00:00+00:00</published>
   </entry>
 </feed>
