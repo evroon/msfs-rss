@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-10-09T18:34:14.263984+00:00</updated>
+  <updated>2025-10-10T18:33:49.318788+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,13 +34,58 @@
     <published>2025-10-02T23:01:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/</id>
-    <title>Microsoft Flight Simulator 2024 Soars Onto PlayStation 5</title>
-    <updated>2025-09-24T21:18:55+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/01_872423-768x432.jpg"/>
-    <summary>Experience an unprecedented level of aviation realism and authenticity starting December 8th.</summary>
-    <published>2025-09-24T21:18:55+00:00</published>
+    <id>https://www.flightsimulator.com/world-update-20/</id>
+    <title>Microsoft Flight Simulator Releases World Update 20: Japan</title>
+    <updated>2025-09-25T10:29:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-20/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_WU20_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>This massive, exciting update brings Japan to life like never before in Microsoft Flight Simulator! Japan is a nation of beauty and intrigue, filled with breathtaking vistas of towering mountains, iconic architecture, and renowned cities. The country beholds some of the world’s most alluring and famous sights, including Mount Fuji, Japan’s highest mountain, Osaka Castle, a … Continued</summary>
+    <published>2025-09-25T10:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-22/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
+    <updated>2025-09-25T10:39:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-22/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-768x432.png"/>
+    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!Rise of an Innovative, Powerful TurbopropThe YS-11 is a twin-turboprop regional airliner that was developed and produced by Japanese aviation consortium Nihon Aircraft Manufacturing Corporation (NAMC). The story of the YS-11 began in the wake of the Second World War in the … Continued</summary>
+    <published>2025-09-25T10:39:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/september-25th-2025-development-update/</id>
+    <title>September 25th, 2025 Development Update</title>
+    <updated>2025-09-25T23:07:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/september-25th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/HeKa48-Forums-2-768x322.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.The annual Tokyo Game Show is currently in full swing, and Microsoft Flight Simulator is there with several announcements!First, we revealed that Microsoft Flight Simulator 2024 will be coming … Continued</summary>
+    <published>2025-09-25T23:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-japanese-screenshot-community/</id>
+    <title>Creator Highlight – Japanese Screenshot Challenge Community</title>
+    <updated>2025-09-30T09:03:07+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-japanese-screenshot-community/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/ukaka5656-768x432.jpg"/>
+    <summary>Screenshot from Japanese simmer and X (formerly Twitter) user @ukaka5656.Every week in our Development Update blog, the MSFS Team challenges the community to capture their best screenshots that fit the new weekly theme. We are continually amazed by the dedication of the Screenshot Challenge participants as they showcase beautiful and creative images of aircraft and … Continued</summary>
+    <published>2025-09-30T09:03:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-2nd-2025-development-update/</id>
+    <title>October 2nd, 2025 Development Update</title>
+    <updated>2025-10-02T23:01:01+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-2nd-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@vp_sim-Twitter-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Following last week’s announcement that Microsoft Flight Simulator 2024 is coming to Sony PlayStation 5 and PlayStation 5 Pro consoles this December, applications to join the upcoming public beta … Continued</summary>
+    <published>2025-10-02T23:01:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-9th-2025-development-update/</id>
+    <title>October 9th, 2025 Development Update</title>
+    <updated>2025-10-09T23:07:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-9th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@ARROW2929-Twitter-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user ARROW2929! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Yesterday, we hosted our October Developer Livestream. The panel of Jorg, Seb, Martial (plus a few special guests) answered many questions from the community while also discussing future … Continued</summary>
+    <published>2025-10-09T23:07:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-20/</id>
@@ -88,13 +133,13 @@
     <published>2025-10-02T23:01:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/september-18th-2025-development-update/</id>
-    <title>September 18th, 2025 Development Update</title>
-    <updated>2025-09-18T23:03:01+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-18th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/z32ands30-Forum-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user z32ands30! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Development of Sim Update 4 for Microsoft Flight Simulator 2024 continues. Earlier today, we released a new pre-release build (1.6.7.0) to those players participating in the ongoing public beta test. … Continued</summary>
-    <published>2025-09-18T23:03:01+00:00</published>
+    <id>https://www.flightsimulator.com/october-9th-2025-development-update/</id>
+    <title>October 9th, 2025 Development Update</title>
+    <updated>2025-10-09T23:07:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-9th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@ARROW2929-Twitter-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user ARROW2929! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Yesterday, we hosted our October Developer Livestream. The panel of Jorg, Seb, Martial (plus a few special guests) answered many questions from the community while also discussing future … Continued</summary>
+    <published>2025-10-09T23:07:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-20/</id>
@@ -142,57 +187,12 @@
     <published>2025-10-02T23:01:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/</id>
-    <title>Microsoft Flight Simulator 2024 Soars Onto PlayStation 5</title>
-    <updated>2025-09-24T21:18:55+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/01_872423-768x432.jpg"/>
-    <summary>Experience an unprecedented level of aviation realism and authenticity starting December 8th.</summary>
-    <published>2025-09-24T21:18:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-20/</id>
-    <title>Microsoft Flight Simulator Releases World Update 20: Japan</title>
-    <updated>2025-09-25T10:29:46+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-20/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_WU20_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>This massive, exciting update brings Japan to life like never before in Microsoft Flight Simulator! Japan is a nation of beauty and intrigue, filled with breathtaking vistas of towering mountains, iconic architecture, and renowned cities. The country beholds some of the world’s most alluring and famous sights, including Mount Fuji, Japan’s highest mountain, Osaka Castle, a … Continued</summary>
-    <published>2025-09-25T10:29:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/local-legend-22/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
-    <updated>2025-09-25T10:39:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-22/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!Rise of an Innovative, Powerful TurbopropThe YS-11 is a twin-turboprop regional airliner that was developed and produced by Japanese aviation consortium Nihon Aircraft Manufacturing Corporation (NAMC). The story of the YS-11 began in the wake of the Second World War in the … Continued</summary>
-    <published>2025-09-25T10:39:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/september-25th-2025-development-update/</id>
-    <title>September 25th, 2025 Development Update</title>
-    <updated>2025-09-25T23:07:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/september-25th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/HeKa48-Forums-2-768x322.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.The annual Tokyo Game Show is currently in full swing, and Microsoft Flight Simulator is there with several announcements!First, we revealed that Microsoft Flight Simulator 2024 will be coming … Continued</summary>
-    <published>2025-09-25T23:07:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-japanese-screenshot-community/</id>
-    <title>Creator Highlight – Japanese Screenshot Challenge Community</title>
-    <updated>2025-09-30T09:03:07+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-japanese-screenshot-community/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/ukaka5656-768x432.jpg"/>
-    <summary>Screenshot from Japanese simmer and X (formerly Twitter) user @ukaka5656.Every week in our Development Update blog, the MSFS Team challenges the community to capture their best screenshots that fit the new weekly theme. We are continually amazed by the dedication of the Screenshot Challenge participants as they showcase beautiful and creative images of aircraft and … Continued</summary>
-    <published>2025-09-30T09:03:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/october-2nd-2025-development-update/</id>
-    <title>October 2nd, 2025 Development Update</title>
-    <updated>2025-10-02T23:01:01+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-2nd-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@vp_sim-Twitter-768x432.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is X user vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Following last week’s announcement that Microsoft Flight Simulator 2024 is coming to Sony PlayStation 5 and PlayStation 5 Pro consoles this December, applications to join the upcoming public beta … Continued</summary>
-    <published>2025-10-02T23:01:01+00:00</published>
+    <id>https://www.flightsimulator.com/october-9th-2025-development-update/</id>
+    <title>October 9th, 2025 Development Update</title>
+    <updated>2025-10-09T23:07:05+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-9th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@ARROW2929-Twitter-1-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user ARROW2929! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Yesterday, we hosted our October Developer Livestream. The panel of Jorg, Seb, Martial (plus a few special guests) answered many questions from the community while also discussing future … Continued</summary>
+    <published>2025-10-09T23:07:05+00:00</published>
   </entry>
 </feed>

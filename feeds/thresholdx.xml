@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-09T18:34:28.535063+00:00</updated>
+  <updated>2025-10-10T18:33:57.793954+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aerostarelease</id>
-    <title>A2A Simulationsâ Accu-Sim Aerostar 600 Out of Early Access</title>
-    <updated>2025-10-02T00:00:00+00:00</updated>
-    <link href="/news/aerostarelease"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de04d1efd8a75e3cb03bb6_aerostarnew1.jpg"/>
-    <summary>Sim: FS24. A2A Simulations recently released version 1.0 of their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2024, marking the end of its early access cycle. Furthermore, they have also delineated their plans, including a version for Microsoft Flight Simulator 2020. Update v1.0 adds the Collins ANS-351 RNAV unit, engine electric heaters, addresses bugs, animation improvements, and much more. The complete changelog follows below: - Added Collins ANS-351 RNAV unit - Added engine electric heaters - Cabin fresh air lever tooltip fixed - Fixed VOR2 TO/FROM flags - Fixed propeller rotation angle for LOD01+ - Fixed rare freeze when switching EDM modes - Fixes to the oil on the dipstick - Mapped fuel selectors to MSFS bindings (FUEL SELECTOR 1 OFF/LEFT MAIN/CROSSFEED, FEUL SELECTOR 2 OFF/RIGHT MAIN/CROSSFEED) - Smoother oil, fuel caps and doors animation - Tuned elevator authority - [Tablet] Checklist correction - [Tablet] Options rearranged - Autopilot NAV mode does not disengage on signal loss - Fixed bug with icing causing higher rumbling and shaking than it should A2A has also shared their post-release work list for the Aerostar, which is comprised of:Â  Due to popular demand, A2A has also decided to backport the Aerostar to Microsoft Flight Simulator 2020, albeit with some limitations: no walkaround and no dynamic wear/dirt visuals. Other than that, it will include the full Accu-Sim fidelity and systems depth. It will be included for free with the MSFS 2024 product download for all existing customers, and development is already underway. They might use a light early access model for this version, similar to what they did with the MSFS 2024 version. Other plans include a livery pack for Xbox pilots and - maybe - a second Comanche Livery pack. Once the Aerostar is deemed complete, they will move on to their next aircraft. They hinted that they have never modeled it before for other platforms, meaning itâs a brand new project. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/baw777pack</id>
-    <title>Boris Audio Works Announces 777 Sound Pack for MSFS 2020/2024</title>
-    <updated>2025-10-02T00:00:00+00:00</updated>
-    <link href="/news/baw777pack"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67007455f9c93f4f4c4607ef_randy4.webp"/>
-    <summary>Sim: FS24. Boris Audio Works recently announced the development and imminent release of a sound pack for PMDG's 777 lineupâencompassing every engine variant (GE, PW, and RR)âin collaboration with Dave from Fenix Simulations.Â  In a seven-minute video, Boris previews some of the new sounds, including start-up, cabin &amp; flight deck sounds, buttons, and more. A more in-depth showcase will be out soon. Curiously enough, PMDG has recently claimed (in a development update) to be nearly completing their sound upgrade for the 777 lineup, but it won't encompass every engine variant. While there's no release date yet (although it's said to be coming this month), Boris has announced a $15 price tag for the whole bundle or $8 per engine pack. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rkafsrplus</id>
-    <title>RkApps Announces FSRealistic+ for MSFS 2020</title>
-    <updated>2025-10-02T00:00:00+00:00</updated>
-    <link href="/news/rkafsrplus"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de12bf6d46d162b81386db_fsr.png"/>
-    <summary>Sim: MSFS20. RkApps recently announced FSRealistic+ for Microsoft Flight Simulator 2020 and 2024 (the latter will depend on ChasePlane's eventual compatibility), rebuilt from the ground up to ensure the utmost realism, bringing new effects, a significant sound redesign, and realistic camera motions by integrating with Parallel 42's ChasePlane. Combining FSRealistic+'s most advanced camera and sound effects with ChasePlane's powerful camera engine, the plugin delivers "realism like never before", enhancing every phase of flight. â Among the effects, engine vibration now translates into natural cockpit motion, rattling and vibrating as it would in real life; Applying reverse thrust now makes the camera react accordingly. Furthermore, passengers can now react to adverse conditions such as pronounced turbulence and rough landings.Â  â Users can create and share custom sound profiles straightforwardly, fostering creativity and potentially improving the app's longevity. â Due to how much FSRealistic+ depends on ChasePlane for the realistic camera effects to work, the latter is a requirement. Users who don't own ChasePlane might have to settle with FSRealistic Pro instead, a cheaper - and less feature-rich - solution. â The product is already in an advanced stage of development, and it will launch once the developers deem it ready. Pricing is yet to be defined, but FSRealistic Pro owners will be eligible for a discount. Threshold will keep you covered! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ini340soon</id>
-    <title>iniBuilds A340 âComing Sooner Than You Thinkâ, says CEO</title>
-    <updated>2025-10-02T00:00:00+00:00</updated>
-    <link href="/news/ini340soon"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de17076393fea8f74bacac_3401.webp"/>
-    <summary>Sim: FS24. Officially announced in early August, iniBuildsâ newest airlinerâthe mighty A340âis said to be âcoming sooner than you think,â as said by their CEO, Ubaid Mussa.Â  When questioned on their Discord about whether the A340 would be released this month, Ubaid responded with âyesâ and âitâs coming sooner than you thinkâ. The NDA lift for screenshots further reinforces its imminence. Their rendition of the A340-313 with its four CFM56-5C4 engines will feature a diverse list of liveries from multiple carriers worldwide, custom cabins, a comprehensive failure system, a feature-rich EFB, and high-quality audio.Â  The exact release date and pricing have not yet been revealed, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pricgh196</id>
-    <title>Paulo Ricardo Updates Congonhas Airport for MSFS 2024</title>
-    <updated>2025-10-02T00:00:00+00:00</updated>
-    <link href="/news/pricgh196"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de1a7e3f1f48c46cd8b62a_1250410_20250904221155_1.webp"/>
-    <summary>Sim: FS24. Paulo Ricardo recently issued an update to their rendition of Congonhas Airport (SBSP) for Microsoft Flight Simulator 2024. The update focuses on performance improvement and general adjustments to further improve the productâs quality. It does not apply to the MSFS 2020 version. Update 1.9.6 improves LOD (level of detail), lowers VRAM usage, and makes a series of adjustments to enhance the sceneryâs overall performance in the new platform. As previously mentioned, the update does not apply to Microsoft Flight Simulator 2020, which remains on 1.9.5 for now. â Itâs available in the MSFS Marketplace for roughly $16.99, requiring at least 6 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ini340mp24</id>
     <title>iniBuilds Publishes Video Introduction to A340; Initial Release to Be Marketplace-only </title>
@@ -151,5 +106,50 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e6f29c83c40b344f7382f9_Octscreenshot1.webp"/>
     <summary>Sim: FS24. After several weeks of quiet development, BlueBird Simulations has moved its Boeing 757 into stage one of beta testing, the first time external testers have had access to the plane. In a brief message posted to their Discord server, BlueBird confirmed that while not every system is fully implemented yet, this new phase represents a significant step forward. BlueBird also posted a beta roadmap, outlining the three planned stages of the testing phase. BlueBird explained that this initial testing stage focuses on select systems, with external feedback now helping shape the aircraftâs refinement.Â  The team expects all three planned beta phases to take many months, stretching well into 2026, as they continue to polish systems and ensure stability across both MSFS 2020 and 2024. An in-depth update video and further screenshots are expected either later this year or shortly after the Christmas period. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baw777</id>
+    <title>Boris Audio Works Sound Set for PMDG 777 Releasing âWithin a weekâ</title>
+    <updated>2025-10-09T00:00:00+00:00</updated>
+    <link href="/news/baw777"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e825ae36e8fa413e131714_FZgv8Jl0EfI-HD.webp"/>
+    <summary>Sim: FS24. After six months of hard work, Boris Vanian, of Boris Audio Works, has confirmed that his long-awaited PMDG 777 Sound Pack is finally imminent. The trailer showcases the 777âs immense presence in detail, from the hydraulics and engines to the individual cockpit switches and air conditioning.Â  Streamers are already getting early access, meaning first impressions and showcases should begin appearing shortly. Boris expects the official release to follow âwithin a weekâ, though an exact date has yet to be confirmed. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/738previews2024</id>
+    <title>PMDG Teases 738NG for MSFS 2024</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/738previews2024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6610eb67b707eee4de3d07f4_1250410_20240201232913_1.webp"/>
+    <summary>Sim: FS24. PMDG has published a teaser image of their upcoming Boeing 737-800NG for Microsoft Flight Simulator 2024. The image shows the progress on the cabin, which is ânot edited in any way, straight out of the sim,â they state. As previously announced, PMDG decided to bring a fully improved version of their 737NG lineup for Microsoft Flight Simulator 2024 rather than just a compatibility patch. The new version includes a proper cabin, openable cockpit windows, and an overall quality bump on modeling and texturing, while also including MSFS 2024-only niceties such as the new walkaround mode. â Development has recently sped up after the developers were finally done with the 777 lineup, shifting their efforts to bring the 737NG to the new platform. Considering how prevalent the NG is in real-world operations, this is perhaps one of the most awaited updates thus far.Â  â â There is still no information on the release date or the pricing, but Threshold will keep you informed! â PMDGâs product lineup is available on their website, with prices ranging from $34.99 to $74.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jflf2822</id>
+    <title>Just Flight Teases F28 Professional Update for MSFS 2024</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/jflf2822"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8ced3491c2df85c132c91_fukki1.webp"/>
+    <summary>Sim: FS24. Just Flight has teased the progress on their v2.2 upgrade for the Fokker F28 Professional, which will land for free (for previous owners) on Microsoft Flight Simulator 2020 and 2024 (PC and Xbox).Â  While they prioritized making it Microsoft Flight Simulator 2024 nativeâallowing it to launch on the Marketplace for the first timeâthey also took the opportunity to improve the 2020 version, adding unique cabin branding for all the included liveries, with period-authentic touches, featuring some of the âboldâ design touches from the 1970s and 1980s. They will also include MSFS 2024âs pre-flight walkaround mode and a new EFB tablet model with a window-mount option. The complete 2.2 changelog and release information will be published very soon. In addition to the ongoing work on the F70/F100 and the F28, Just Flight is also hard at work on an update for the 146, which includes MSFS 2024 compatibility. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nimbkordxp12</id>
+    <title>Nimbus Simulation Studios Teases Chicago OâHare Intl for X-Plane 12</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/nimbkordxp12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8d1e05353762223a1f1f0_kord1.jpg"/>
+    <summary>Sim: X-Plane. Nimbus Simulation Studios has recently previewed their progress on Chicago OâHare International Airport (KORD) for X-Plane 12, the worldâs fourth busiest airport, with a yearly average of 80 million passengers. Their new OâHare aims to fully exploit X-Plane 12âs new technologies, bringing realistic wetness, season support, detailed terminal interiors, and much more.Â  There is no information on the release date yet, but they say itâs getting âcloser and closerâ. Pricing hasnât been revealed either. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aerostar2020comp</id>
+    <title>A2A Simulationsâ Accu-Sim Aerostar 600 Now MSFS 2020-compatible</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/aerostar2020comp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8f5cb32270f9082184456_aerostar2020.webp"/>
+    <summary>Sim: MSFS20. A2A Simulations has recently released the Microsoft Flight Simulator 2020 version of their Accu-Sim Aerostar 600, which was initially only compatible with Microsoft Flight Simulator 2024. As previously mentioned on their previous development update on Discord, the Microsoft Flight Simulator 2020 version of the Aerostar 600 doesnât bring full feature parity with the 2024 version due to limitations, such as the walkaround system, and dynamic wear and dirt visuals, but it includes the full Accu-sim fidelity and system depth aside from that.Â  The optional MSFS 2020 download is already available on the store page, and it is free for owners of the 2024 version.Â A fresh purchase warrants access to both versions. â The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
   </entry>
 </feed>
