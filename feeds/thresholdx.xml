@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-10T18:33:57.793954+00:00</updated>
+  <updated>2025-10-11T18:28:54.416290+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini340mp24</id>
-    <title>iniBuilds Publishes Video Introduction to A340; Initial Release to Be Marketplace-only </title>
-    <updated>2025-10-03T00:00:00+00:00</updated>
-    <link href="/news/ini340mp24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de170e6d46d162b8155846_3402.webp"/>
-    <summary>Sim: FS24. iniBuilds recently published an in-depth video showcasing the intricacies of their upcoming Airbus A340 Airliner for Microsoft Flight Simulator 2024. The aircraft is set to release sometime this month exclusivelyâalbeit temporarilyâin the Marketplace. The 56-minute-long video encompasses the A340âs history, the power plant characteristics, the central landing gear, an in-depth external walkaround, tire and hatch details, engine details, GSX integration, wear and tear, a complete cabin walkthrough, the flight deck and the EIS1 screens, further flight deck details and functionality, taxi and flight model, take-off and climb performance, the EIS1 terrain radar, night lighting and differences between EIS 1 and 2, handling characteristics on approach and landing, EIS2 displays and features, a walkaround of the cargo version, an overview of the electronic flight bag, CPDLC integration, ACARS/CPDLC and its integration with Air Traffic Control, their custom code for flaps and slats, further handling characteristics, and information regarding its availability. The add-on will initially only be available via the in-game Marketplace, but it will eventually reach the iniManager. Furthermore, marketplace version owners will be able to request a license transfer once that happens. There is no information regarding pricing and its eventual release date just yet, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/350116</id>
-    <title>iniBuilds Updates A350 AirlinerÂ for MSFS 2020/2024</title>
-    <updated>2025-10-03T00:00:00+00:00</updated>
-    <link href="/news/350116"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e04f57d6416b8bcce3aab7_A350116.2.png.9f313bcbbacf47b06dbbf5568e147938.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently released version 1.1.6 of its A350 Airliner for Microsoft Flight Simulator, with the update focusing heavily on bug fixes, refinements, and system improvements. Among the most notable fixes are the resolution of WASM-related errors, corrections to the cabin vertical speed display, refinements to ND and HUD/ECAM warnings, and improvements to ATC and navigation calculations. Failures such as emergency battery and TCAS behaviours have also been addressed. On the visual side, the update ensures proper decal placement on the engines, adjusts strobe light sequencing, and fixes dome lighting issues. Sound has also received attention, with tweaks to reverse thrust, flap operation, RA callouts, and low-frequency engine rumble. iniBuilds has also added a deeper cabin condition simulation and increased the refresh rate of the electronic displays. They also noted that the new sound package, developed in partnership with Echo19, is in testing and planned for a future release. As always, here's the full changelog: V1.1.6SYSTEMS âï¸FIXED WASM errorsFIXED Cabin VS constantly fluctuatingFIXED DIR TO via ND goes to some random waypoint not selected LL positionFIXED HUD ECAM warnings and advisoriesFIXED NAVMode Heading IndicationsFIXED Deselect FLS not working / SLS not workingFIXED Runway change causes weather info from APPR page to be removedFIXED Selecting AUTO for XDDR, puts TCAS straight into TA/RAFIXED Fuel values removed when page manipulated (see desc)FIXED Waypoint radial information doesn't clearFIXED ENG Out Acceleration Altitude not being used when ENG FAIL triggered belowFIXED Overlapping text on ATC COM screenFIXED Changing sim time erroneous ETA calculationsFIXED Issues with CMSFIXED Issues with overlapping text with fix pagesFIXED ATC COM Â CONNECT PAGE Â Notification Text overlaps with BEYOND ATC optionFIXED Instant descent (wobbly descent)FIXED FIX INFO cannot use NDBs as reference pointFIXED ELEC BAT FAULTS failing to trigger ECAM or overhead FAULT lightsFIXED PFD: AFS target alt displaced to the rightFIXED Alpha lock in direct lawFIXED Mach remains boxed if cruising at 290FIXED Emergency battery 1 and 2 failures don't workADDED Deeper cabin condition simulationADDED Increase ED refresh rate ART ð¨FIXED 900 LS Engine cover missing "350" decalADDED Strobe flashing sequenceADDED Dome light not working in 2020 SOUNDS ðFIXED Reverse thrust is too instant, no gradual/realistic increaseFIXED 350 Flap sounds not "as accurate as can be"FIXED RA Callouts different tonalityFIXED Engine growling/rumble should coincide with fuel flow as EGT is increasing The update can be downloaded now through the iniManager. New customers can purchase the A350 through the iniBuilds store, for $81.03. Stay tuned on Threshold for all the latest! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a340trailer</id>
-    <title>iniBuilds Publishes A340 Airliner Trailer for MSFS 2024</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <link href="/news/a340trailer"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68de17076393fea8f74bacac_3401.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently published the official trailer for their upcoming A340 for Microsoft Flight Simulator 2024, which is âcoming soonâ exclusively in the Marketplace. The 3-minute trailer goes through some of the airlinerâs main features - with special emphasis on the EIS1/EIS2 display options -covered extensively in their introduction video, released a few days ago.Â  iniBuildâs A340 is also their first completely independent airliner to be released exclusively in the Marketplaceâalbeit temporarilyâas they intend on eventually making it available on iniManager. Marketplace owners will have the opportunity to request an order transfer. The developers also state that the trailer does not represent the final state of the product. The exact release date and pricing have not yet been revealed, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sclatr</id>
     <title>SkyCatsLab Previews ATR 72-600 for X-Plane 12</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8f5cb32270f9082184456_aerostar2020.webp"/>
     <summary>Sim: MSFS20. A2A Simulations has recently released the Microsoft Flight Simulator 2020 version of their Accu-Sim Aerostar 600, which was initially only compatible with Microsoft Flight Simulator 2024. As previously mentioned on their previous development update on Discord, the Microsoft Flight Simulator 2020 version of the Aerostar 600 doesnât bring full feature parity with the 2024 version due to limitations, such as the walkaround system, and dynamic wear and dirt visuals, but it includes the full Accu-sim fidelity and system depth aside from that.Â  The optional MSFS 2020 download is already available on the store page, and it is free for owners of the 2024 version.Â A fresh purchase warrants access to both versions. â The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/at3401</id>
+    <title>Aerosoft and ToLiss Detail A340-600 Pro for MSFS in New Video</title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/at3401"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e958a93b0e859a60623522_Baiix3leqhI-HD.webp"/>
+    <summary>Sim: FS24. Aerosoft has initiated a developer video series for the Airbus A340-600 Pro, sharing the most in-depth look yet at the upcoming jet for Microsoft Flight Simulator.Â  In this first episode, community manager Rafi speaks with ToLiss founder Torsten Liesk, outlining how the collaboration splits responsibilities, how the flight model has been built, and what systems depth to expect. ToLiss is handling aircraft systems, avionics, custom flight and engine models, and flight logic. Aerosoft is responsible for the 3D model, visuals, and publishing. The teams say this plays to their strengths, complex Airbus systems from ToLiss, art and presentation from Aerosoft. Rather than porting code straight from X-Plane, ToLiss has spent two years creating new flight, ground, and engine models, tailored to MSFS, that behave similarly to X-Plane.Â  That includes workarounds for MSFS limitations, such as MSFS supporting only one aileron per wing, and a ground-handling model, developed with McGill University, to improve tyre friction, braking, and taxi dynamics. The behaviour has been validated by real-world A340-600 pilots, aiming to match the same feel of the X-Plane version. Systems are modelled at the component level, including pumps, valves, actuators, and reservoirs, so actions and failures produce natural downstream effects, rather than scripted outcomes. The team is targeting around 200â250 user-triggerable failures across hydraulics, electrics, pneumatics, flight controls, and engines. The FMS will include secondary flight plans, route offsets, temporary edits, and constraint-aware VNAV, with managed and selected modes. For long flights, a situation save/load system offers automatic saves at user-defined intervals, allowing recovery after crashes or convenient mid-route pauses.Â  A âjump to next waypointâ is also available, with time and fuel adjustments. Confirmed integrations include Hoppie CPDLC/ACARS and SimBrief flight-plan import. Navigraph support is under evaluation due to MSFS differences from X-Plane. Aerosoftâs video is the first in a series that will continue to show off progress, towards an eventual launch. There is no release date or pricing yet. Previously, the team also shared a video highlighting various systems and fault modes present within the A346. We will keep an eye on the weekly updates and share key developments as they land. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mpb17</id>
+    <title>MicroProse Releases B-17G Flying Fortress Early Access for MSFS 2024Â </title>
+    <updated>2025-10-10T00:00:00+00:00</updated>
+    <link href="/news/mpb17"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e96fa5ee2f9b4571f83890_B-17_Valor_YouTube_thumbnail_out_now.webp"/>
+    <summary>Sim: FS24. MicroProse has released its Boeing B-17G Flying Fortress for Microsoft Flight Simulator 2024, the first entry in the studioâs Heritage Valour Collection. The add-on is available in Early Access, with development scheduled to continue through regular updates. The package focuses on historical detail. The cockpit, crew stations, and turret positions are fully modelled, and the sound set was captured from the real B-17, Sentimental Journey. A custom flight model has also been built for MSFS 2024.Â  At launch, you get five liveries and an in-sim clipboard for simple crew setup. Optional modern avionics, a maintenance mode, additional liveries, and expanded crew tools are planned for the Early Access phase. MicroProse says updates will roll out on a frequent cadence, adding features consistently, ahead of the full release.Â  The B-17G is available now via Just Flight at an introductory price of US$32.99, rising to US$39.99 on full release. The download is about 3.2 GB. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baw777sp</id>
+    <title>Boris Audio Works Releases PMDG B777 Sound Pack for MSFS 2020/2024</title>
+    <updated>2025-10-11T00:00:00+00:00</updated>
+    <link href="/news/baw777sp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e9ffe7b88b3f092b9f854a_boris1.webp"/>
+    <summary>Sim: FS24. Boris Audio Works recently released their PMDG B777 Sound Pack for Microsoft Flight Simulator 2020 and 2024. The pack features all three engine variants (GE90, Trent 800, and PW4000) in incredible detail, with unique tonal character and authentic ambience.Â  In addition to the fully re-recorded engine sets, the pack also offers authentic cockpit and cabin ambience, detailed switch, hydraulic, and environmental systems, headphone simulation, subtle differences between older and newer GE engine variants, and much more. Developed in collaboration with Dave from Fenix Simulations - known for his commendable work on Fenixâs A320 lineup -, the 777 sound set redefines the PMDG 777 experience. Customers can buy the engines separately (GE90, Trent 800, and PW4000) for $7.83 each or the full pack for $14.92. Buyers of the 2024 version get the 2020 version for free, and vice versa. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-11T00:00:00+00:00</published>
   </entry>
 </feed>
