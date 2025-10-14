@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-13T18:34:44.979970+00:00</updated>
+  <updated>2025-10-14T18:35:07.732558+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sclatr</id>
-    <title>SkyCatsLab Previews ATR 72-600 for X-Plane 12</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <link href="/news/sclatr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e3e7a5541385cd447c1f31_ATR_72_-_2025-10-05_19.25.45.webp"/>
-    <summary>Sim: X-Plane. SkyCatsLab has recently shared some previews of their upcoming ATR 72-600 for X-Plane 12, showcasing daytime and night cockpit shots, along with work-in-progress exterior PBR textures.Â  The images highlight flight deck modelling, FCP and displays, the overhead and circuit breaker panels, oxygen masks, night lighting, and turboprop, wing, and exterior. Test builds with a fully functional cockpit are currently being evaluated by the internal testing team and several experienced ATR 72 pilots, who are assessing systems operation, indications, performance, navigation, and the flight model. As for release, SkyCatsLab continues to target a 2026 release window. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/taiblr</id>
-    <title>TaiModels Releases Kempegowda International Airport (VOBL) for XP12 and MSFS 2020/2024</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <link href="/news/taiblr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e4e1f280bb7a9641757474_Screenshot%202025-10-07%20114430.webp"/>
-    <summary>Sim: MSFS20. TaiModels has just released their rendition of Kempegowda International Airport (BLR/VOBL) for X-Plane 12, MSFS 2020 and MSFS 2024. Located 35km (22mi) from the city, it serves Bengaluru and is the third busiest airport in India, with over 41 million passenger operations in 2024. Opened in May 2008, replacing the old HAL Airport. Originally, the airport had a single runway, accompanied by a terminal with 8 jetbridges, one double-arm jetbridge, and 9 remote parking stands. In February 2009, the airport was renamed in honour of the founder of the city, Kempe Gowda I.Â  The first airport expansion was launched in 2011 and finished two years later. The passenger terminal size has been doubled, with additional check-in desks, immigration, and baggage-reclaim facilities. A single domestic gate and 3 international gates were also added.Â  The latest airport expansion was completed in 2021, where the airport received another runway and a second terminal, allowing it to handle between 55 and 60 million passengers annually. The TaiModelsâ rendition of the Kempegowda Intlâ features handcrafted PBR ground textures and markings, detailed terminal interior, accurate airport lighting and custom-made night lighting, optimised performance, tower laser effects, and animated screens and escalators. The scenery is available for purchase on the iniBuilds store for approximately $21.91, requiring at least 1.82GB of free disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ini34r</id>
     <title>iniBuilds Releases A340 Airliner for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e9ffe7b88b3f092b9f854a_boris1.webp"/>
     <summary>Sim: FS24. Boris Audio Works recently released their PMDG B777 Sound Pack for Microsoft Flight Simulator 2020 and 2024. The pack features all three engine variants (GE90, Trent 800, and PW4000) in incredible detail, with unique tonal character and authentic ambience.Â  In addition to the fully re-recorded engine sets, the pack also offers authentic cockpit and cabin ambience, detailed switch, hydraulic, and environmental systems, headphone simulation, subtle differences between older and newer GE engine variants, and much more. Developed in collaboration with Dave from Fenix Simulations - known for his commendable work on Fenixâs A320 lineup -, the 777 sound set redefines the PMDG 777 experience. Customers can buy the engines separately (GE90, Trent 800, and PW4000) for $7.83 each or the full pack for $14.92. Buyers of the 2024 version get the 2020 version for free, and vice versa. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fndpmt</id>
+    <title>Flyndive Simulations Announces Paramotor for MSFS 2020/2024</title>
+    <updated>2025-10-13T00:00:00+00:00</updated>
+    <link href="/news/fndpmt"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ed4ecdb7e0bffcf9ecf42a_videoframe_31587.webp"/>
+    <summary>Sim: FS24. Flyndive Simulations has unveiled a paramotor add-on for Microsoft Flight Simulator, arriving on 24 Oct. 2025 for PC. The project is the studioâs first payware release, and supports both MSFS 2020 and MSFS 2024. Built by a paramotor pilot with over 25 years of real-world experience, the aircraft focuses on true-to-life feel and handling. The flight model has been tuned for ground roll, inflation, and in-air control inputs, aiming to mirror the nuances of powered paragliding.Â  A fully animated pilot model is also present, with control movements and posture changes also reflected. Flyndive says the package is designed to be lightweight, responsive, and approachable, offering a low-and-slow option for sightseeing, practice, or short hops around familiar fields.Â  The Flyndive Paramotor will be priced at $9.99 at launch, with purchase and download via the Flyndive Simulations website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2aaerostar101</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020</title>
+    <updated>2025-10-14T00:00:00+00:00</updated>
+    <link href="/news/a2aaerostar101"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8f5cb32270f9082184456_aerostar2020.webp"/>
+    <summary>Sim: MSFS20. A2A Simulations has recently updated their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020, addressing an issue with the aircraftâs physics engine that was making it slightly faster than it should be.Â Â  The first update for the newly released Microsoft Flight Simulator 2020 version only addresses a physics engine issue: the airplane would climb and cruise faster than its real counterpart. This update ensures it is ânerfedâ back to its real-life specifications. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-14T00:00:00+00:00</published>
   </entry>
 </feed>
