@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-14T18:35:07.732558+00:00</updated>
+  <updated>2025-10-15T18:36:15.045764+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini34r</id>
-    <title>iniBuilds Releases A340 Airliner for MSFS 2024</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <link href="/news/ini34r"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e578fc93a665ecf1700bc7_ini340.webp"/>
-    <summary>Sim: FS24. iniBuilds has just released its new A340 Airliner for Microsoft Flight Simulator 2024, bringing the rather laggard, four-engined Airbus into the sim. The package covers passenger and freighter variants, with a choice of the EIS1 and EIS2 avionics suites. You will find a custom FMS with SIDs, STARs, and secondary flight plans, LNAV/VNAV, and CPDLC integration via Hoppie. More than 100 ECAM pages are included, alongside failures, terrain radar, and features such as geo-specific GPS jamming, affecting TCAS and GPWS. The iniBuilds EFB has also been reworked for planning and turnaround tasks. It supports SimBrief import, chart integration, maintenance, and wear tracking, ground equipment control, performance tools, autosave options, and scenario management for training.Â  The aircraft also offers full GSX compatibility and time-warping capability. The cockpit and exterior use detailed PBR assets, refined lighting, and a wide set of animations.Â iniBuilds has also included custom visual effects, including wing and engine vortices, precipitation spray, heat blur, and weathering states. A sound set crafted by IniBuilds partner Echo19 accurately depicts the CFM56 engines, with added attention to flap, hydraulic, and cabin ambience. Plenty of liveries are also available via the iniManager. The iniBuilds A340 Airliner is available now on the MSFS 2024 Marketplace for $59.99, excluding taxes. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/tbfpha</id>
-    <title>TechnoBrain Further Previews Haneda Airport for MSFS</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <link href="/news/tbfpha"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e57fbbfeb93b865cca6457_Banner_Image.webp"/>
-    <summary>Sim: MSFS20. TechnoBrain has recently shared a variety of new screenshots of the upcoming Haneda Airport (RJTT) for Microsoft Flight Simulator. The team has been working on this international airport for some time, and the new screenshots highlight the intricate details being incorporated into the project. Haneda Airport was the fourth-busiest airport in the world last year and serves as the main airport for Tokyo, Japan. It acts as a hub for All Nippon Airways and Japan Airlines while accommodating numerous other airlines. Together, these airlines help the airport manage approximately 85 million passengers annually, coming from destinations around the globe. The pricing, release date, and specific features of the scenery have not been announced yet. We will keep you updated with more information as it becomes available. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mpb17i</id>
     <title>MicroProse Unveils B-17G Early Access for MSFS 2020/MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8f5cb32270f9082184456_aerostar2020.webp"/>
     <summary>Sim: MSFS20. A2A Simulations has recently updated their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020, addressing an issue with the aircraftâs physics engine that was making it slightly faster than it should be.Â Â  The first update for the newly released Microsoft Flight Simulator 2020 version only addresses a physics engine issue: the airplane would climb and cruise faster than its real counterpart. This update ensures it is ânerfedâ back to its real-life specifications. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyepmi</id>
+    <title>Pyreegue Dev Co. Teases Palma de Mallorca for MSFS</title>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <link href="/news/pyepmi"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ef8c50b5fd9474f9bf6bde_563570165_18059978660547769_5826007545702491729_n.webp"/>
+    <summary>Sim: FS24. After a run of acclaimed UK releases, Pyreegue Dev Co. is headed south to the Balearics and to one of Europeâs busiest leisure hubs, having recently teased Palma de Mallorca Airport for Microsoft Flight Simulator. The first previews hint at Pyreegueâs usual obsession with detail, promising a richly observed take on Son Sant Joan. Palma is a staple holiday destination, packed with plenty of charter and low-cost traffic in real life, and just as popular in the sim. There is no release window or price yet; however, if Pyreegueâs track record is anything to go by, expect detailed modelling, thoughtful groundwork, and plenty of atmosphere and extra nuances. We will follow development closely. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bsbabp</id>
+    <title>Black Square Previews Baron and Bonanza Professional for MSFSÂ 2020/2024</title>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <link href="/news/bsbabp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68efd2fff34bb8373d80eaad_561529735_1246865394147042_3516564577051242450_n.webp"/>
+    <summary>Sim: FS24. Black Square is lining up a double act for Microsoft Flight Simulator, with Baron Professional and Bonanza Professional set to release in the coming weeks. They recently released some previews through Just Flight, and the first product videos are due next week. A money-saving bundle covering both aircraft will be available at launch. If you already own the Steam Gauge editions, look for an email confirming a 20% discount.Â  The respective product pages are also up, in both single and bundle deals. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-15T00:00:00+00:00</published>
   </entry>
 </feed>
