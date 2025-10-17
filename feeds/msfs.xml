@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-10-16T18:35:18.231457+00:00</updated>
+  <updated>2025-10-17T18:32:34.315983+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
   <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-simulation-daily/</id>
-    <title>Anniversary Creator Highlight – Simulation Daily</title>
-    <updated>2025-08-22T20:23:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-simulation-daily/"/>
-    <summary>Born from over 25 years of experience in gaming journalism, we’re focusing on Simulation Daily and Editor-in-Chief Giuseppe Nelva for our Anniversary Creator Highlight. Whilst Simulation Daily is a fairly new website in the landscape of flight sim journalism, having only published its first article in July 2024, the website aims to cover all aspects … Continued</summary>
-    <published>2025-08-22T20:23:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/creator-highlight-japanese-screenshot-community/</id>
     <title>Creator Highlight – Japanese Screenshot Challenge Community</title>
     <updated>2025-09-30T09:03:07+00:00</updated>
@@ -29,18 +21,17 @@
     <title>October 2nd, 2025 Development Update</title>
     <updated>2025-10-02T23:01:01+00:00</updated>
     <link href="https://www.flightsimulator.com/october-2nd-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@vp_sim-Twitter-1024x576.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is X user vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Following last week’s announcement that Microsoft Flight Simulator 2024 is coming to Sony PlayStation 5 and PlayStation 5 Pro consoles this December, applications to join the upcoming public beta … Continued</summary>
     <published>2025-10-02T23:01:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-22/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
-    <updated>2025-09-25T10:39:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-22/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!Rise of an Innovative, Powerful TurbopropThe YS-11 is a twin-turboprop regional airliner that was developed and produced by Japanese aviation consortium Nihon Aircraft Manufacturing Corporation (NAMC). The story of the YS-11 began in the wake of the Second World War in the … Continued</summary>
-    <published>2025-09-25T10:39:27+00:00</published>
+    <id>https://www.flightsimulator.com/october-16th-2025-development-update/</id>
+    <title>October 16th, 2025 Development Update</title>
+    <updated>2025-10-16T23:09:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-16th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@pommes_l-Twitter-2-1024x576.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This week saw the release of two new beta test builds for Sim Update 4 for Microsoft Flight Simulator 2024. You can read the changelog for these two test builds … Continued</summary>
+    <published>2025-10-16T23:09:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-25th-2025-development-update/</id>
@@ -88,13 +79,13 @@
     <published>2025-10-14T19:40:15+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-22/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
-    <updated>2025-09-25T10:39:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-22/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!Rise of an Innovative, Powerful TurbopropThe YS-11 is a twin-turboprop regional airliner that was developed and produced by Japanese aviation consortium Nihon Aircraft Manufacturing Corporation (NAMC). The story of the YS-11 began in the wake of the Second World War in the … Continued</summary>
-    <published>2025-09-25T10:39:27+00:00</published>
+    <id>https://www.flightsimulator.com/october-16th-2025-development-update/</id>
+    <title>October 16th, 2025 Development Update</title>
+    <updated>2025-10-16T23:09:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-16th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@pommes_l-Twitter-2-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This week saw the release of two new beta test builds for Sim Update 4 for Microsoft Flight Simulator 2024. You can read the changelog for these two test builds … Continued</summary>
+    <published>2025-10-16T23:09:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-25th-2025-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2025-10-14T19:40:15+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/local-legend-22/</id>
-    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
-    <updated>2025-09-25T10:39:27+00:00</updated>
-    <link href="https://www.flightsimulator.com/local-legend-22/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-768x432.png"/>
-    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!Rise of an Innovative, Powerful TurbopropThe YS-11 is a twin-turboprop regional airliner that was developed and produced by Japanese aviation consortium Nihon Aircraft Manufacturing Corporation (NAMC). The story of the YS-11 began in the wake of the Second World War in the … Continued</summary>
-    <published>2025-09-25T10:39:27+00:00</published>
+    <id>https://www.flightsimulator.com/october-16th-2025-development-update/</id>
+    <title>October 16th, 2025 Development Update</title>
+    <updated>2025-10-16T23:09:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-16th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@pommes_l-Twitter-2-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This week saw the release of two new beta test builds for Sim Update 4 for Microsoft Flight Simulator 2024. You can read the changelog for these two test builds … Continued</summary>
+    <published>2025-10-16T23:09:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-25th-2025-development-update/</id>
@@ -194,5 +185,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/thumbnail_TopRatedAircraftSale_Oct2025_1920x1080-768x432.jpg"/>
     <summary>Enjoy discounted pricing during our Top-Rated Aircraft Sale!</summary>
     <published>2025-10-14T19:40:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/october-16th-2025-development-update/</id>
+    <title>October 16th, 2025 Development Update</title>
+    <updated>2025-10-16T23:09:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/october-16th-2025-development-update/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/@pommes_l-Twitter-2-768x432.jpeg"/>
+    <summary>This week’s Screenshot Challenge winner is X user pommes_l! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.This week saw the release of two new beta test builds for Sim Update 4 for Microsoft Flight Simulator 2024. You can read the changelog for these two test builds … Continued</summary>
+    <published>2025-10-16T23:09:24+00:00</published>
   </entry>
 </feed>
