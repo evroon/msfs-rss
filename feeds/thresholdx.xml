@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-17T18:32:45.380624+00:00</updated>
+  <updated>2025-10-18T18:31:10.917955+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mpb17</id>
-    <title>MicroProse Releases B-17G Flying Fortress Early Access for MSFS 2024Â </title>
-    <updated>2025-10-10T00:00:00+00:00</updated>
-    <link href="/news/mpb17"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e96fa5ee2f9b4571f83890_B-17_Valor_YouTube_thumbnail_out_now.webp"/>
-    <summary>Sim: FS24. MicroProse has released its Boeing B-17G Flying Fortress for Microsoft Flight Simulator 2024, the first entry in the studioâs Heritage Valour Collection. The add-on is available in Early Access, with development scheduled to continue through regular updates. The package focuses on historical detail. The cockpit, crew stations, and turret positions are fully modelled, and the sound set was captured from the real B-17, Sentimental Journey. A custom flight model has also been built for MSFS 2024.Â  At launch, you get five liveries and an in-sim clipboard for simple crew setup. Optional modern avionics, a maintenance mode, additional liveries, and expanded crew tools are planned for the Early Access phase. MicroProse says updates will roll out on a frequent cadence, adding features consistently, ahead of the full release.Â  The B-17G is available now via Just Flight at an introductory price of US$32.99, rising to US$39.99 on full release. The download is about 3.2 GB. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/baw777sp</id>
-    <title>Boris Audio Works Releases PMDG B777 Sound Pack for MSFS 2020/2024</title>
-    <updated>2025-10-11T00:00:00+00:00</updated>
-    <link href="/news/baw777sp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e9ffe7b88b3f092b9f854a_boris1.webp"/>
-    <summary>Sim: FS24. Boris Audio Works recently released their PMDG B777 Sound Pack for Microsoft Flight Simulator 2020 and 2024. The pack features all three engine variants (GE90, Trent 800, and PW4000) in incredible detail, with unique tonal character and authentic ambience.Â  In addition to the fully re-recorded engine sets, the pack also offers authentic cockpit and cabin ambience, detailed switch, hydraulic, and environmental systems, headphone simulation, subtle differences between older and newer GE engine variants, and much more. Developed in collaboration with Dave from Fenix Simulations - known for his commendable work on Fenixâs A320 lineup -, the 777 sound set redefines the PMDG 777 experience. Customers can buy the engines separately (GE90, Trent 800, and PW4000) for $7.83 each or the full pack for $14.92. Buyers of the 2024 version get the 2020 version for free, and vice versa. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fndpmt</id>
-    <title>Flyndive Simulations Announces Paramotor for MSFS 2020/2024</title>
-    <updated>2025-10-13T00:00:00+00:00</updated>
-    <link href="/news/fndpmt"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ed4ecdb7e0bffcf9ecf42a_videoframe_31587.webp"/>
-    <summary>Sim: FS24. Flyndive Simulations has unveiled a paramotor add-on for Microsoft Flight Simulator, arriving on 24 Oct. 2025 for PC. The project is the studioâs first payware release, and supports both MSFS 2020 and MSFS 2024. Built by a paramotor pilot with over 25 years of real-world experience, the aircraft focuses on true-to-life feel and handling. The flight model has been tuned for ground roll, inflation, and in-air control inputs, aiming to mirror the nuances of powered paragliding.Â  A fully animated pilot model is also present, with control movements and posture changes also reflected. Flyndive says the package is designed to be lightweight, responsive, and approachable, offering a low-and-slow option for sightseeing, practice, or short hops around familiar fields.Â  The Flyndive Paramotor will be priced at $9.99 at launch, with purchase and download via the Flyndive Simulations website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a2aaerostar101</id>
     <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f279d78d5d3e162d75db10_560558151_1383010860495397_8443586208946758006_n.webp"/>
     <summary>Sim: FS24. IndiaFoxtEcho has finally resurfaced with new details on its long-awaited Eurofighter Typhoon for Microsoft Flight Simulator, and this time, thereâs a potential release window. In a new post, celebrating the studioâs 10th anniversary, the team confirmed they are now deep into debugging the Typhoon, and âhopefullyâ preparing it for release in November. The update comes after several months of radio silence, which the team addressed directly, apologising for the lack of news, while reassuring fans that progress has not stalled. According to IndiaFoxtEcho, the Eurofighter is currently being tested by a mix of internal staff and real-world Typhoon pilots. Alongside the Typhoon, IndiaFoxtEcho shared news on a few other projects. Their F-16A, developed in collaboration with Heatblur Simulations, is progressing steadily on the art side and is now targeted for a Q1 2026 release.  The TA-4J remains on hold until the Typhoon is wrapped, while DCS fans can look forward to ongoing work on the G.91 and a maintenance realignment for the MB.339. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/irsa24</id>
+    <title>iniBuilds Releases Svalbard Longyear Airport for MSFS24</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <link href="/news/irsa24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f2a81db94686308ced53b0_FlightSimulator2024_qrclJTs70K.png.76d989c52904082979ec1f0bc339d20e.jpg"/>
+    <summary>Sim: FS24. iniBuilds has recently released their newest scenery creation for Microsoft Flight Simulator 2024, this time heading to the arctic airport of Svalbard Longyearbyen (ENSB). Located at 78 degrees north of the equator, the airport is the northernmost with scheduled passenger service. The first airport on Svalbard was constructed during World War II by the Luftwaffe. After the war, it was taken over by the Norwegian Air Force, who started occasional postal flights. However, operations were tricky due to harsh conditions, and could only operate a few months out of the year. In the 1970s, it was decided that a new airport was needed, so a site was selected near Hotellneset, and construction began in 1973. Svalbard Airport was officially opened on September 2, 1975 with its first flight being operated by SAS. Over the years, the airport has undergone various renovations, with the most recent being an upgrade to the passenger terminal in 2007. Today, the airport serves as a vital link to mainland Norway, with flights to Oslo and Tromso being operated by both SAS and Norwegian. Additionally, there are charter flights to Moscow and Murmansk operated by Arktikugol, a Russian mining company, to serve the mining town of Barentsburg, which has a population primarily consisting of Russian nationals. iniBuildsâ rendition features high-quality textures, detailed building interiors and parallax, recreation of landside areas including the Svalbard Global Seed Vault, custom night lighting, custom static aircraft, and more. Svalbard Airport is available for purchase on the iniBuilds Store for approximately $13.35, requiring at least 2.29GB of disk space. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/spehse</id>
+    <title>SimPixel Releases Breda International Airport for MSFS 2020/2024</title>
+    <updated>2025-10-18T00:00:00+00:00</updated>
+    <link href="/news/spehse"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f370f78ef000260bed60bc_Banner_Image.webp"/>
+    <summary>Sim: FS24. SimPixel has recently launched its version of Breda International Airport (EHSE) for Microsoft Flight Simulator 2020 and 2024. This general aviation aerodrome is located in North Brabant, Netherlands, and features a runway that is 2,723 feet long. Opened in 1949 as a glider field, the airfield was originally named Seppe Airfield. Powered aircraft began flying at the airport in 1969. In 2002, the original grass runway was replaced with an asphalt runway. The airfield does not accommodate aircraft with jet engines. In 2015, the airfield was rebranded from Seppe Airfield to Breda International Airport, following an announcement made in 2014. The ICAO code EHSE remained unchanged. In addition to general aviation traffic, the airfield is home to the Vliegend Museum Seppe, which showcases various aircraft on display. The aviation training company Aviation Performance Solutions is also located at the airfield. The scenery is rich with features like high-resolution textures, custom 3D models, dynamic lighting, detailed interiors, static aircraft, ground vehicles, and much more. The newly released Breda International Airport by SimPixel is now available from iniBuilds for approximately $9.39. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/skar24</id>
+    <title>V Pilot Designs Releases El EdÃ©n International Airport for MSFS 2024</title>
+    <updated>2025-10-18T00:00:00+00:00</updated>
+    <link href="/news/skar24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f3b5179c6322fd2a935041_01.webp"/>
+    <summary>Sim: FS24. V Pilot Designs has recently released a rendition of El EdÃ©n International Airport (SKAR) for MSFS 2024, building on the new simâs new lighting, materials, and terrain tech.Â  Set in Colombiaâs coffee region near Armenia, QuindÃ­o, the package delivers a custom terminal and tower, accurate runway and taxiway layout, full PBR textures, realistic night lighting, and optimised models with LODs, for smooth performance. The MSFS 2024 edition is a free upgrade for existing MSFS 2020 owners, and it is available now on the in-sim Marketplace. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-18T00:00:00+00:00</published>
   </entry>
 </feed>
