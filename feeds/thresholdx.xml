@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-18T18:31:10.917955+00:00</updated>
+  <updated>2025-10-19T18:31:43.952328+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a2aaerostar101</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020</title>
-    <updated>2025-10-14T00:00:00+00:00</updated>
-    <link href="/news/a2aaerostar101"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68e8f5cb32270f9082184456_aerostar2020.webp"/>
-    <summary>Sim: MSFS20. A2A Simulations has recently updated their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020, addressing an issue with the aircraftâs physics engine that was making it slightly faster than it should be.Â Â  The first update for the newly released Microsoft Flight Simulator 2020 version only addresses a physics engine issue: the airplane would climb and cruise faster than its real counterpart. This update ensures it is ânerfedâ back to its real-life specifications. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pyepmi</id>
-    <title>Pyreegue Dev Co. Teases Palma de Mallorca for MSFS</title>
-    <updated>2025-10-15T00:00:00+00:00</updated>
-    <link href="/news/pyepmi"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ef8c50b5fd9474f9bf6bde_563570165_18059978660547769_5826007545702491729_n.webp"/>
-    <summary>Sim: FS24. After a run of acclaimed UK releases, Pyreegue Dev Co. is headed south to the Balearics and to one of Europeâs busiest leisure hubs, having recently teased Palma de Mallorca Airport for Microsoft Flight Simulator. The first previews hint at Pyreegueâs usual obsession with detail, promising a richly observed take on Son Sant Joan. Palma is a staple holiday destination, packed with plenty of charter and low-cost traffic in real life, and just as popular in the sim. There is no release window or price yet; however, if Pyreegueâs track record is anything to go by, expect detailed modelling, thoughtful groundwork, and plenty of atmosphere and extra nuances. We will follow development closely. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bsbabp</id>
-    <title>Black Square Previews Baron and Bonanza Professional for MSFSÂ 2020/2024</title>
-    <updated>2025-10-15T00:00:00+00:00</updated>
-    <link href="/news/bsbabp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68efd2fff34bb8373d80eaad_561529735_1246865394147042_3516564577051242450_n.webp"/>
-    <summary>Sim: FS24. Black Square is lining up a double act for Microsoft Flight Simulator, with Baron Professional and Bonanza Professional set to release in the coming weeks. They recently released some previews through Just Flight, and the first product videos are due next week. A money-saving bundle covering both aircraft will be available at launch. If you already own the Steam Gauge editions, look for an email confirming a 20% discount.Â  The respective product pages are also up, in both single and bundle deals. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a2aaerostar102</id>
     <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f3b5179c6322fd2a935041_01.webp"/>
     <summary>Sim: FS24. V Pilot Designs has recently released a rendition of El EdÃ©n International Airport (SKAR) for MSFS 2024, building on the new simâs new lighting, materials, and terrain tech.Â  Set in Colombiaâs coffee region near Armenia, QuindÃ­o, the package delivers a custom terminal and tower, accurate runway and taxiway layout, full PBR textures, realistic night lighting, and optimised models with LODs, for smooth performance. The MSFS 2024 edition is a free upgrade for existing MSFS 2020 owners, and it is available now on the in-sim Marketplace. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/baw771</id>
+    <title>Boris Audio Works Updates PMDG 777 Sound SetÂ for MSFS 2020/2024</title>
+    <updated>2025-10-19T00:00:00+00:00</updated>
+    <link href="/news/baw771"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f4fc54484fa9e7b6d14ec7_maxresdefault%20(3).jpg"/>
+    <summary>Sim: FS24. Boris Audio Works has recently pushed V1.1.0 of his PMDG 777 Sound Set for MSFS 2020 and 2024.  Included is a complete rework of the GE90-94B buzz on the 777-200ER, improved PW4000 drop-spool behaviour, a fix for missing Rolls-Royce Trent engine idle, refined hydraulic and fan attenuation, a louder APU on the exterior, and added flap, slat, and slat-turbulence effects.  A PDF manual is now also included on the Orbx product page. Hereâs the full changelog: â Changelog:  âAdded a PDF Manual - Refer to manual on product page via ORBX Direct or Central - PLEASE take a look at the recommended settings, try it with those, and adjust to your liking. There are quite a few settings that can totally wreck the sounds â Boris' 777 Sound Set is available via Orbx Direct, retailing for $18.54. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vrspcl</id>
+    <title>VeroRoutes Releases Pilot-Controlled Lighting for MSFS 2024</title>
+    <updated>2025-10-19T00:00:00+00:00</updated>
+    <link href="/news/vrspcl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f506c41df07feba3065fac_c18f78213210f22cd7973d3b5c92c9d3c4cdba91.webp"/>
+    <summary>Sim: FS24. VeroRoutes has released their Pilot-Controlled Lighting addon for MSFS 2024, a first for the sim, letting you key the mic to control the runway lights.Â  You do this by tuning the published PCL frequency, clicking your push-to-talk three, five, or seven times within five seconds, and the lights will then spring on for 15 minutes, with low, medium, or high intensity. Coverage is broad, too. The add-on simulates pilot-activated lighting at roughly 4,500 airfields and heliports worldwide, with runway edge, centreline, threshold, and approach systems all modelled.Â  By default, the field stays dark, and the package can even be driven remotely via SimConnect. You can try it with a free trial, then pick it up from the VeroRoutes website forÂ $23.20, as well as simMarket. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/oby1tf</id>
+    <title>OBY1 Releases EuroFly Twinfox for MSFS 2020/2024</title>
+    <updated>2025-10-19T00:00:00+00:00</updated>
+    <link href="/news/oby1tf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f5129d02f41e1a95877ded_1146d4313cccea75d92c47d9359fb68e71832f3c.webp"/>
+    <summary>Sim: FS24. OBY1 has recently released the EuroFly Twinfox for MSFS 2020 and 2024, bringing one of Italyâs most distinctive ultralights into the simulator. Developed in close cooperation with Eurofly, and tested by real-world pilots, the Twinfox delivers an authentic, short-field flying experience. The cockpit environment has been carefully modelled, and it also includes authentic checklists. You can swap between a glass cockpit and steam gauges on the fly, and the aeroplane also supports VR out of the box.Â  Bundled with the release is a companion activity pack, too, giving plenty of things to do with the new plane. As always, here is a key feature list: â Aircraft key features: You can get it on the MSFS Marketplace for both MSFS 2020 and 2024. For a handbook and more information on the aircraft, visit the official download page, on OBY1's website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-19T00:00:00+00:00</published>
   </entry>
 </feed>
