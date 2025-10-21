@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-20T18:37:02.813471+00:00</updated>
+  <updated>2025-10-21T18:35:19.103850+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a2aaerostar102</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020/2024</title>
-    <updated>2025-10-16T00:00:00+00:00</updated>
-    <link href="/news/a2aaerostar102"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685de0d3a636c169f3aba0c4_aerostarpog.webp"/>
-    <summary>Sim: FS24. A2A Simulations has released updates to the Microsoft Flight Simulator 2020 and 2024 versions of the Accu-Sim Aerostar 600, fixing various bugs in both and adding GPS unit real-time detection (2024 only).Â  Update v1.0.1 (MSFS 2024) adds the aforementioned GPS unit real-time detection, the noise cancellation device tooltip now shows its battery state, the right magneto bindings were fixed, the rare autopilot initialization issue was wholly mitigated, and some typos were addressed. Update v1.0.2 (MSFS 2020), on the other hand, fixes a problem with the GPSS not tracking the magenta line correctly and addresses the autopilot pitch reference bindings. The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inilyr</id>
     <title>iniBuilds Announces Svalbard Airport Longyear for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f5129d02f41e1a95877ded_1146d4313cccea75d92c47d9359fb68e71832f3c.webp"/>
     <summary>Sim: FS24. OBY1 has recently released the EuroFly Twinfox for MSFS 2020 and 2024, bringing one of Italyâs most distinctive ultralights into the simulator. Developed in close cooperation with Eurofly, and tested by real-world pilots, the Twinfox delivers an authentic, short-field flying experience. The cockpit environment has been carefully modelled, and it also includes authentic checklists. You can swap between a glass cockpit and steam gauges on the fly, and the aeroplane also supports VR out of the box.Â  Bundled with the release is a companion activity pack, too, giving plenty of things to do with the new plane. As always, here is a key feature list: â Aircraft key features: You can get it on the MSFS Marketplace for both MSFS 2020 and 2024. For a handbook and more information on the aircraft, visit the official download page, on OBY1's website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ldeyvi</id>
+    <title>Lisium Design Releases Vilnius International Airport for MSFS 2020/2024</title>
+    <updated>2025-10-20T00:00:00+00:00</updated>
+    <link href="/news/ldeyvi"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f682dcb49b25b0048ed07b_Banner_Image.webp"/>
+    <summary>Sim: FS24. Lisium Design has launched its latest scenery package for Microsoft Flight Simulator 2020 and 2024, featuring Vilnius International Airport, which serves the capital of Lithuania. The airport is located just under four miles from the city center and connects Vilnius to numerous destinations across Europe. Opened in 1932, the airport initially operated only a few commercial flights to various cities. This continued until the outbreak of the Second World War when the airport served as a military airfield until 1944. After the war, a new terminal was constructed, which was completed in 1954. To accommodate an increase in air traffic, a new departure terminal was built in 1993. Another terminal followed in 2007, and yet another was completed this year. Today, the airport is a hub for airBaltic and serves as a focus city for GetJet Airlines, Ryanair, and Wizzair, among others. The airport handles nearly 5 million passengers annually, connecting them to destinations all over Europe. The scenery comes packed with features such as a true-to-life terminal, true-to-life apron layout, detailed custom ground textures, custom lighting, and more. The newly released Vilnius International Airport by Lisium Design is now available on Contrail for $20.19. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-20T00:00:00+00:00</published>
   </entry>
 </feed>
