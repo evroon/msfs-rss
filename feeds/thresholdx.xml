@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-21T18:35:19.103850+00:00</updated>
+  <updated>2025-10-22T18:37:24.297224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inilyr</id>
-    <title>iniBuilds Announces Svalbard Airport Longyear for MSFS 2024</title>
-    <updated>2025-10-16T00:00:00+00:00</updated>
-    <link href="/news/inilyr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f0d927cac4ddc2c4d92544_ForumBannerSceneryENSB.png.42eb0ead74d2c18b0b303897758efe4f.webp"/>
-    <summary>Sim: FS24. iniBuilds is heading far north, with a detailed rendition of Svalbard Airport, Longyear (ENSB), for Microsoft Flight Simulator 2024. Billed as one of the worldâs northernmost commercial airports, this Arctic outpost will arrive pretty soon, with a launch price of $13,42, excluding sales tax. Operationally, ENSB links Svalbard to mainland Norway, with scheduled flights to Oslo and TromsÃ¸, as well as seasonal and charter services that support tourism and research. iniBuilds says the package captures the isolation and atmosphere of âpolarâ aviation, with custom ground textures across the airfield, bespoke night lighting, and carefully modelled landside areas, even including the famous Global Seed Vault on PlatÃ¥berget. Terminal interiors feature parallax and bespoke assets, and the airside environment is modelled with accurate ground clutter, signage, and static aircraft, including helicopters and a C172.Â The area surrounding the airport is also modelled. A custom GSX profile is included, and all models have LODs incorporated. Set against a collection of steep mountains, sea ice, and rapidly changing weather, Longyearbyen is the perfect place for fun approaches. Weâll keep you updated on its release. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xce210</id>
-    <title>X-Crafts Updates E-Jets Family With Live Weather Radar, Shares Roadmap</title>
-    <updated>2025-10-16T00:00:00+00:00</updated>
-    <link href="/news/xce210"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f0f3e811054ee098a5057b_E-Jets-Family-X-Crafts-Weather-Radar-Update-02.webp"/>
-    <summary>Sim: X-Plane. X-Crafts has just released version 2.1.0 of their E-Jets Family for X-Plane 12,Â  a free update that brings a fully integrated weather radar, a string of fixes and some quality-of-life tweaks.Â  Tied into XP12.3âs new precipitation data, the radar paints real returns on the PFD and MFD. v2.1.0 also smooths flight director behaviour after take-off, adds new HSI modes, including full compass, arc, and an arc-with-flight-plan option, and lets you hide the missed approach from the map. Cabin lighting bleed-through at night has been fixed, EFB crashes have been addressed, and overall compatibility with XP12.3 has been confirmed.Â  Looking ahead, X-Crafts is planning a free E-Jets 3.1 update, with the same radar tech and further map improvements, a new, from-the-ground-up ERJ Family 2.0 for XP12, and the next-gen, E-Jets Family 3.0. Whatâs New in v2.1.0 You can download v2.1.0 via SkunkCrafts or by re-downloading from your store account. New customers can purchase the E-Jets in various single and bundle deals, ranging from $74.95 to $149.95. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/gfsa32</id>
-    <title>Got Friends Aeroprakt A-32 Vixxen for MSFS Enters Beta</title>
-    <updated>2025-10-16T00:00:00+00:00</updated>
-    <link href="/news/gfsa32"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f17b63cebff961826ce833_Screenshot_2025-10-13_051712.webp"/>
-    <summary>Sim: FS24. Got Friends has moved its Aeroprakt A32 Vixxen project into beta, developed in partnership with Aeroprakt USA and Heavenbound Aviation. A bespoke scenery for 5OI8 McKnight Airport will also ship alongside the aircraft. Four variants will be included at launch: the Cruiser, Explorer, Pioneer, and Voyager, covering glass and analogue setups, standard and tundra gear. The Explorer and Voyager have bush tyres included, while the Cruiser and Pioneer use standard wheels. As for avionics, the aircraft ships with the Working Title G3X, with optional GTN units, an EFB, and the Asobo 307 autopilot. There is also an analogue pair, using classic gauges with CDI/OBS, a KAP-140, and optional PMS50 or TDS integrations. Tyre sizes also differ between variants, 15 inches standard and 17.6 inches tundra, nudging drag, shock absorption, and top speed by roughly 4 mph.Â  All four variants are included in a single purchase, with pricing expected to match previous Got Friends releases. The team is targeting both MSFS 2020 and MSFS 2024, and release is expected fairly soon. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a340101</id>
     <title>iniBuilds Updates A340 Airliner for MSFS 2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f682dcb49b25b0048ed07b_Banner_Image.webp"/>
     <summary>Sim: FS24. Lisium Design has launched its latest scenery package for Microsoft Flight Simulator 2020 and 2024, featuring Vilnius International Airport, which serves the capital of Lithuania. The airport is located just under four miles from the city center and connects Vilnius to numerous destinations across Europe. Opened in 1932, the airport initially operated only a few commercial flights to various cities. This continued until the outbreak of the Second World War when the airport served as a military airfield until 1944. After the war, a new terminal was constructed, which was completed in 1954. To accommodate an increase in air traffic, a new departure terminal was built in 1993. Another terminal followed in 2007, and yet another was completed this year. Today, the airport is a hub for airBaltic and serves as a focus city for GetJet Airlines, Ryanair, and Wizzair, among others. The airport handles nearly 5 million passengers annually, connecting them to destinations all over Europe. The scenery comes packed with features such as a true-to-life terminal, true-to-life apron layout, detailed custom ground textures, custom lighting, and more. The newly released Vilnius International Airport by Lisium Design is now available on Contrail for $20.19. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-10-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/confa50</id>
+    <title>Contrail Publishes FA50 Development Update for MSFS 2020/2024</title>
+    <updated>2025-10-22T00:00:00+00:00</updated>
+    <link href="/news/confa50"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f8b7c1b62b3ca0205fcf2f_fa50-1.webp"/>
+    <summary>Sim: FS24. Contrail has recently shared the development progress on their upcoming FA50 for Microsoft Flight Simulator 2020 and 2024, showcasing their ongoing work on the cabin door, new flight deck textures, and much more. The cabin door is now fully complete, with authentic animations and interior detailing. Furthermore, Contrail has also completed the cockpit texture overhaul. It now features the rather distinctive rough-painted metal finish found in many real FA50s, significantly reducing glare and bringing it one notch closer to reality. Their work in the systems department is going well, thanks to feedback provided by real pilots and mechanics, who helped them capture the aircraftâs true essence, quirks and all. They have also provided a first look at the hydraulics system, demonstrating how the elevator drops to a full nose-down position when hydraulic pressure is lost, making the yoke move fully forward. In contrast, the ailerons only sag ever so slightly and remain that way even when pressure is wholly restored. Once the plane is airborne, of course, the airflow over the wings brings them to a neutral positionâor slightly above centerâas per real-life behavior. â Contrail says, âmore updates are on the wayâ as their product continues to take shape for Microsoft Flight Simulator 2020 and 2024. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f282310</id>
+    <title>Just Flightâs Fokker F28 Professional V2.2 Launches Tomorrow</title>
+    <updated>2025-10-22T00:00:00+00:00</updated>
+    <link href="/news/f282310"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/67d324a8883ddb907aea4d80_fuk3.webp"/>
+    <summary>Sim: FS24. Just Flightâs long-awaited full revamp and port to Microsoft Flight Simulator 2024 of their Fokker F28 is set to land soonâtomorrowâentirely free of charge for V1 owners and with a 20% discount for new buyers. While they prioritized making it Microsoft Flight Simulator 2024 nativeâallowing it to launch on the Marketplace for the first timeâthey also took the opportunity to improve the 2020 version, adding unique cabin branding for all the included liveries, with period-authentic touches, featuring some of the âboldâ design touches from the 1970s and 1980s. â They will also include MSFS 2024âs pre-flight walkaround mode and a new EFB tablet model with a window-mount option. The complete 2.2 changelog will be made available at release time tomorrow. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfpa28x12</id>
+    <title>Just Flight Releases Piper PA-28-181 Archer III for X-Plane 12</title>
+    <updated>2025-10-22T00:00:00+00:00</updated>
+    <link href="/news/jfpa28x12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f8be44d4d77c506d11a7d8_archer31.webp"/>
+    <summary>Sim: X-Plane. Just Flight and Thranda Design have recently released their rendition of the Piper PA-28-181 Archer III for X-Plane 12, following on from their Warrior II as part of their new general aviation aircraft lineup for Laminar Researchâs latest simulator. The add-on features a highly accurate rendition of the Piper PA-28-181 Archer III, following comprehensive hands-on research on a real unit - G-CIFY - based at Turweston Airfield in the United Kingdom. Itâs a four-seater piston-engine airplane with a four-cylinder 180-horsepower plant, a fixed tricycle landing gear, and a fixed-pitch propeller. Itâs one of the most recent PA28 variants to be built, easily seen through its relatively modern and streamlined flight deck design, especially on the overhead. It cruises at 118 knots with a range of nearly 500 miles, making it perfect for touring and flight training. Furthermore, the cockpit features a rich avionics suite with a Garmin GNS 530 GPS unit, a GNC 255 radio, a S-TEC autopilot, HSI, and ADF instruments.Â  The add-on accompanies six liveries from the USA, Australia, Switzerland, Spain, Germany, and the United Kingdom. Thanks to the dynamic livery EFB app, a near-infinite variety of paint schemes can be created within the simulator. The aircraft sports full PBR texturing in 8K with real-time environment reflections. Additionally, thereâs an Electronic Flight Bag tablet with many settings such as aircraft configuration options, panel states, interactive checklists, and more. Itâs available on the Just Flight website for $42.99, requiring at least 1.8 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-22T00:00:00+00:00</published>
   </entry>
 </feed>
