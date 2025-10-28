@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-27T18:36:07.820952+00:00</updated>
+  <updated>2025-10-28T18:37:41.583935+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/baw771</id>
-    <title>Boris Audio Works Updates PMDG 777 Sound SetÂ for MSFS 2020/2024</title>
-    <updated>2025-10-19T00:00:00+00:00</updated>
-    <link href="/news/baw771"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f4fc54484fa9e7b6d14ec7_maxresdefault%20(3).jpg"/>
-    <summary>Sim: FS24. Boris Audio Works has recently pushed V1.1.0 of his PMDG 777 Sound Set for MSFS 2020 and 2024.  Included is a complete rework of the GE90-94B buzz on the 777-200ER, improved PW4000 drop-spool behaviour, a fix for missing Rolls-Royce Trent engine idle, refined hydraulic and fan attenuation, a louder APU on the exterior, and added flap, slat, and slat-turbulence effects.  A PDF manual is now also included on the Orbx product page. Hereâs the full changelog: â Changelog:  âAdded a PDF Manual - Refer to manual on product page via ORBX Direct or Central - PLEASE take a look at the recommended settings, try it with those, and adjust to your liking. There are quite a few settings that can totally wreck the sounds â Boris' 777 Sound Set is available via Orbx Direct, retailing for $18.54. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vrspcl</id>
-    <title>VeroRoutes Releases Pilot-Controlled Lighting for MSFS 2024</title>
-    <updated>2025-10-19T00:00:00+00:00</updated>
-    <link href="/news/vrspcl"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f506c41df07feba3065fac_c18f78213210f22cd7973d3b5c92c9d3c4cdba91.webp"/>
-    <summary>Sim: FS24. VeroRoutes has released their Pilot-Controlled Lighting addon for MSFS 2024, a first for the sim, letting you key the mic to control the runway lights.Â  You do this by tuning the published PCL frequency, clicking your push-to-talk three, five, or seven times within five seconds, and the lights will then spring on for 15 minutes, with low, medium, or high intensity. Coverage is broad, too. The add-on simulates pilot-activated lighting at roughly 4,500 airfields and heliports worldwide, with runway edge, centreline, threshold, and approach systems all modelled.Â  By default, the field stays dark, and the package can even be driven remotely via SimConnect. You can try it with a free trial, then pick it up from the VeroRoutes website forÂ $23.20, as well as simMarket. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/oby1tf</id>
-    <title>OBY1 Releases EuroFly Twinfox for MSFS 2020/2024</title>
-    <updated>2025-10-19T00:00:00+00:00</updated>
-    <link href="/news/oby1tf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68f5129d02f41e1a95877ded_1146d4313cccea75d92c47d9359fb68e71832f3c.webp"/>
-    <summary>Sim: FS24. OBY1 has recently released the EuroFly Twinfox for MSFS 2020 and 2024, bringing one of Italyâs most distinctive ultralights into the simulator. Developed in close cooperation with Eurofly, and tested by real-world pilots, the Twinfox delivers an authentic, short-field flying experience. The cockpit environment has been carefully modelled, and it also includes authentic checklists. You can swap between a glass cockpit and steam gauges on the fly, and the aeroplane also supports VR out of the box.Â  Bundled with the release is a companion activity pack, too, giving plenty of things to do with the new plane. As always, here is a key feature list: â Aircraft key features: You can get it on the MSFS Marketplace for both MSFS 2020 and 2024. For a handbook and more information on the aircraft, visit the official download page, on OBY1's website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ldeyvi</id>
     <title>Lisium Design Releases Vilnius International Airport for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffbb0985c5542599d0b4ce_557530637_1404745094986421_9076242823794646352_n%20(1).jpg"/>
     <summary>Sim: FS24. BRSimDesigns has recently rolled out a refreshed version of its AA-5B Tiger for Microsoft Flight Simulator 2020 and 2024, now including a full Garmin G1000 suite. The package includes a dual-screen WT-G1000 with autopilot, custom flight dynamics, an authentic Wwise sound set, and an EFB for payload, panel, and ground options.Â  Furthermore, the aircraft features high-quality 3D modelling, a mix of 4K and 8K textures, full PBR materials, dynamic registration, and MSFS volumetric lighting.Â  You also get eight liveries, an openable canopy, and a castor nose wheel, among others. FEATURES The Tiger is available at simMarket for $29.08. Owners of the original AA-5B Tiger can upgrade for $13.99, excluding sales tax. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dc2921</id>
+    <title>Eagle Dynamics Updates DCS World, Including Heatblur F14A EarlyÂ </title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <link href="/news/dc2921"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffc89dd87ce2caceda3463_G38OHk8WcAAiwX0.webp"/>
+    <summary>Sim: DCS. Eagle Dynamics has recently released DCS World 2.9.21.16362, a substantial update that, among others, brings the long-requested F-14A-135-GR (Early).Â  This new variant captures the original fleet-defence interceptor era, powered by the quite notorious Pratt &amp; Whitney TF30-P-414A engines, and fitted with the AN/ALR-45/50 radar warning receiver, complete with its distinctive strobe display.Â  The RIO cockpit features new RWR panels and indicator lights, plus updated TACAN and volume panels. There is also a VF-101 Grim Reapers livery from 1978 included. Beyond the Tomcat, this update touches nearly every corner of DCS.Â The F-4E Phantom II, for example, has also seen an update from Heatblur, including an EFB, and the AN/APX-80A âCombat Treeâ IFF interrogator.Â  TV-guided weapon logic has been refined, new Zuni rockets have been added, and the Jester AI now has some new IFF options and a faster interface. Moving along, Eagle Dynamicsâ own aircraft have seen meaningful improvements, too. The MiG-29A has had its autopilot behaviour updated, the F-16C Viper and F/A-18C Hornet have gotten first-person visor effects and an expanded NCTR database, while the AH-64D Apacheâs George AI copilot has been updated with smarter flight logic, new control modes, and expanded commands. Furthermore, Ugra Mediaâs Normandy 2.0 has been updated with a new winter season, additional airfields across the Channel Islands, and dozens of fresh landmarks. Some new Swedish and Norwegian airfields have been added to Orbxâs Kola map, plus environmental refinements across the region. There are numerous other changes, summed up in the full changelog below: AI (Ground, Air, Sea) âDedicated Server Weapons User Interface Mission Editor Graphics / Effects 3D Models Features Launcher Currenthill Asset Pack Known Issue: Switching George AI Pilotâs altitude reference between radar and barometric when hovering at an altitude of 20 feet or less over the surface can cause a conversion error that will force George to land and may not be able to switch back to radar altitude. This has been fixed internally. DCS: A-10C II Outpost Campaign by Stone Sky DCS: AH-64D Outpost Campaign by Stone Sky DCS: F/A-18C Operation Green Line Campaign by Badger 633 DCS: F/A-18C: The Rampagers Campaign by Baltic DragonÂ  DCS: F/A-18C Operation Mountain Breeze Campaign by Sandman Simulations DCS P-51D Blue Nose Bastards of Bodney Campaign by Reflected Simulations DCS Spitfire IX The Big Show Campaign by Reflected Simulations DCS P-51D Debden Eagles Campaign by Reflected Simulations DCS Bf-109K-4 Jagdflieger Campaign by Reflected Simulations DCS P-47D Wolfpack II Overlord Campaign by Reflected Simulations DCS Mosquito FB.VI V for Victory Campaign by Reflected Simulations DCS: F/A-18C Operation Cerberus North Campaign by Ground Pounder Sims DCS: F-16C Dragon's Fury Campaign by SorelRo DCS: UH-1H The Huey Last Show Campaign by SorelRo The full changelog for DCS World 2.9.21.16362 is also available here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mtsoct</id>
+    <title>Miltech Simulations Shares October Progress Update </title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <link href="/news/mtsoct"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffd0ad544caa222d4927f3_532517991_777431868129951_528965529907888171_n.webp"/>
+    <summary>Sim: FS24. Miltech Simulations has recently published its October development blog, outlining progress across several of its big projects, including updates for the MH-60, Mission Hub, and Skyraider. New details on the U-2 Spyplane and CH-53 have also been shared. Miltech confirmed plans to gradually phase out MSFS 2020 development by 2026, citing the majority of users having already moved to MSFS 2024.Â  The MH-60, developed in partnership with Blackbird Simulations, remains one of Miltechâs flagship aircraft, and recently joined the Marketplaceâs Top-Rated Aircraft Sale.Â  A major v1.0.3 update is on the way, featuring an overhaul ofÂ  APU logic, improved flight model and SAS behaviour, and AFCS refinements.Â  The patch also introduces optional realistic INS alignment, new keybind support, and pop-out gauge functionality for multi-monitor setups.Â  In addition, the first Livery Pack is nearly complete, adding a nice selection of military and rescue variants from the US Navy, 160th SOAR, and other international operators. Meanwhile, the Miltech Mission Hub is preparing for its long-awaited Xbox release, with both MSFS 2020 and 2024 versions in final testing.Â The update introduces sling load enhancements, a distance measuring tool, new SAR scenarios, and expanded SimObjects including vehicles, ships, and rescue assets.Â  A Mission Builder App is also in development, allowing players to upload and share missions directly from the cloud. The upcoming Skyraider, also developed with Blackbird Simulations, has entered beta testing and is described as feature-complete for MSFS 2020, with a full conversion to the modular MSFS 2024 framework.Â  Miltech said that the project will include multiple variants, including the A-1H, AD-3W, AEW.1, and AD-4W, each tied to specific liveries. Pricing is expected to land in the mid-$20 USD range, covering all variants, and the aircraft will support both PC and Xbox platforms at launch. Also in active development is the U-2, a passion project that originally began in early 2023. Miltech is building both S (digital) and R (analogue) variants, with complex avionics systems, new ground equipment, and fully modelled chase cars.Â  The aircraft will come with five detailed airbases,Â  including Groom Lake (Area 51), Fairford, and Akrotiri, and will feature dynamic missions built for Mission Hub.Â  While no release window has been given, the developer notes that additional resources have been dedicated to bringing the project up to modern standards. Rounding out the lengthy blog, Miltech provided a brief look at the CH-53, showcasing its intricate rotor hub and configurable cabin layouts.Â  Both the CH-53E and MH-53E variants are in progress, leveraging MSFS 2024âs modular framework for high detail and performance efficiency.  You can read the full blog here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbdsolar</id>
+    <title>Burning Blue Design Releases United Kingdom &amp; Ireland Solar Farms for MSFS 2020/2024</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
+    <link href="/news/bbdsolar"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6900c3f259f9eea8304143d0_solar2.webp"/>
+    <summary>Sim: FS24. Burning Blue Design has recently released a comprehensive pack of solar farms across the United Kingdom and Ireland, allowing VFR pilots to navigate more accurately during their virtual journeys. Over 1700 distinct solar farms total 210 square kilometers of custom scenery area (larger than the city of Dublin), featuring a variety of sizes and layouts, from tiny solar farms to massive behemoths spanning over 3 square kilometers of area. The product is made with full PBR texturing to ensure it will shimmer and reflect realistically regardless of the weather conditions. Furthermore, the developers have ensured that every little detail is captured: custom-modelled solar panels, inverters, and substations, with performance-friendliness in mind (multiple levels of detail). They also ensure that it blends seamlessly with the terrain. Itâs available on their website for roughly $15. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
 </feed>
