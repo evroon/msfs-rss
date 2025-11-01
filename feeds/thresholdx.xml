@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-10-31T18:36:16.061390+00:00</updated>
+  <updated>2025-11-01T18:31:28.524229+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/afl73o</id>
-    <title>Airfoillabs Shares 737 MAX Dev Update for X-Plane 12</title>
-    <updated>2025-10-27T00:00:00+00:00</updated>
-    <link href="/news/afl73o"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68fec31302b75d1a73bcd671_5.webp"/>
-    <summary>Sim: X-Plane. Airfoillabs has recently shared yet another development update on their Boeing 737 MAX for X-Plane 12, with a new look at the aircraftâs ongoing systems and flight model work.Â  On the systems side, the engine model continues to evolve, with work now going into RPM behaviour, acceleration and deceleration logic, and EEC, all validated by feedback from real-world pilots. Every thrust mode has also been replicated.Â  Meanwhile, the flight model has been retuned across all regimes to better capture the aircraftâs aerodynamic subtleties, including spoiler and flap dynamics, during takeoff and approach. Elsewhere, Airfoillabs has worked on the 3D and texture front, such as cockpit windows, fuselage textures, and lighting effects. FMS and VNAV are also progressing steadily, with altitude and speed constraints, climb profiles, and vertical path logic all in active development.Â  You can also watch a YouTube video from the update here: While thereâs still a way to go before release, Airfoillabs 737 MAX looks to be shaping up to be something special. You can read the full update here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lu737s</id>
-    <title>LevelUp Teases 737NG V2 Sound Overhaul for X-Plane 12</title>
-    <updated>2025-10-27T00:00:00+00:00</updated>
-    <link href="/news/lu737s"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ff9b8b55c949303e36af9b_maxresdefault%20(3).webp"/>
-    <summary>Sim: X-Plane. LevelUp has recently previewed its new FMOD 2.0 soundscape for the upcoming 737NG V2 in X-Plane 12, sharing an eleven-minute video on YouTube, giving more insight into the upcoming rework.Â  Now included are separate, standalone interior and exterior soundsets, refreshed cabin ambience, and fixed avionics and wind noise. Highlights include an all-new interior engine suite, recorded from the real aircraft, a buzzsaw cone that shifts with power setting, and other tweaks and updates, such as stick shaker on battery engagement and HUD control sounds. Thanks to the new interior set, overall loudness on the take-off roll also now drops naturally, as ground reflections fall away. The new sounds will be included in the upcoming 737NG V2, which you can read more about here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/facbyo</id>
     <title>FlyingArt Updates Cabby AI Plugin for MSFS and X-Plane</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6904de3bb2a49e9f6a278fa7_alegre1.jpg"/>
     <summary>Sim: FS24. Brazil Land Games has recently previewed their work on updating their rendition of Porto Alegre Salgado Filho International Airport (SBPA) for Microsoft Flight Simulator 2020/2024. It is the ninth busiest airport in the country, with nearly 8 million passengers yearly (pre-pandemic). Originally called SÃ£o JoÃ£o Federal Airport, it was just an air club, with its first flights dating back to 1923. It saw commercial action for the first time in 1932, when VARIG (the oldest Brazilian airline) replaced their seaplanes with land airplanes, adopting Porto Alegre as their hub. It took eight years to commission an actual passenger terminal. Its current name was adopted in 1952, after Joaquim Pedro Salgado Filho, a local politician who had died a year prior (air crash). Itâs a focus city for Azul Brazilian Airlines, with a significant domestic network (fifteen destinations) and international legs to Punta del Este and Montevideo (Uruguay). The other two Brazilian giants, GOL Linhas AÃ©reas (thirteen domestic destinations) and LATAM Brasil (5 domestic destinations), are also regularly seen around POA. TAP Air Portugal is the sole European visitor, coming from Lisbon. Not much was said besides the pictures themselves and the fact that itâs still undergoing development. Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-10-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/carb390pre</id>
+    <title>Carenado Previews Upcoming B390 1A for MSFS 2024</title>
+    <updated>2025-10-31T00:00:00+00:00</updated>
+    <link href="/news/carb390pre"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6902655801dc90c1d37b973b_beec.jpg"/>
+    <summary>Sim: FS24. Carenado recently shared further previews of their upcoming Beechcraft B-390 Premier 1A for Microsoft Flight Simulator 2024, which is said to be âon final approachâ and â coming soon.â The new previews show more of the externals, one shot of the flight deck, and a shot of the cabin.Â  The Beechcraft B-390 Premier IA was an updated version of the Premier 1, which was designed in the mid-90s, first flown in 1998, and certified in 2001. The IA was almost like a real-life patch to fix some lingering issues with the project, such as the subpar brakes, the noisy cabin, and the cockpit, which was deemed below par by many. The aforementioned upgrade rolled out in 2006, and over 163 new Premiers were built in five years. The little jet is powered by two Williams FJ44-2A Turbofan engines. It cruises at 841 km/h, has a range of 950 miles, a service ceiling of 41,000 feet, and, depending on the configuration, can carry 6 to 7 passengers. â Thereâs no information regarding pricing or a release date, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-10-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jsrafs</id>
+    <title>JATSim Designs Releases Rand Airport for MSFS 2020/MSFS 2024</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <link href="/news/jsrafs"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69055404f1087bae1f721fc4_367589_FAGM-16.webp"/>
+    <summary>Sim: FS24. JATSim Designs has recently released its rendition of Rand Airport (FAGM) for both Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024, bringing one of South Africaâs most historic airfields to the simulator. Located in Germiston, near Johannesburg, Rand Airport first opened in 1931, and quickly became one of the most advanced facilities in the Southern Hemisphere. It served as the regionâs main international gateway, and operated as a hub for Imperial Airways, later South African Airways. During the Second World War, the airport played a crucial role in supporting military operations and training. With the opening of Jan Smuts Airport (now OR Tambo International) in 1952, Rand transitioned to a general aviation field. Today, it remains active as a centre for flight training, maintenance, and airshows, retaining much of its heritage and historical infrastructure. The scenery is available on simMarket for $14,50, including taxes. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-11-01T00:00:00+00:00</published>
   </entry>
 </feed>
