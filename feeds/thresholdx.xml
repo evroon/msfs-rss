@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-01T18:31:28.524229+00:00</updated>
+  <updated>2025-11-02T18:31:03.240701+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/facbyo</id>
-    <title>FlyingArt Updates Cabby AI Plugin for MSFS and X-Plane</title>
-    <updated>2025-10-27T00:00:00+00:00</updated>
-    <link href="/news/facbyo"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffad9aa454e0bdd40d4e55_maxresdefault%20(3).webp"/>
-    <summary>Sim: OTHER. FlyingArt has rolled out an update for their Cabby, AI Cabin Crew software, adding a dynamic Passenger Satisfaction Simulation, networked boarding screens, and 3D spatial audio.Â  Every flight now generates a unique manifest with individual profiles and fear-of-flying levels, so smooth landings and fewer delays keep your virtual cabin happy, while rough rides do not. The new Boarding Screen feature mirrors a real gate setup on a TV, tablet, or second monitor, with four layouts and simple network access.Â  3D spatial audio is also implemented, with announcements in realistic positions around the cabin, working with headphones, 5.1, or 7.1 setups, for a more convincing soundstage. Rounding things off are AI flight summaries, landing feedback, and a flight history map.Â  You can read more about Cabby and try it out on the FlyingArt website.Â Prices range from $12.00 to $22.00, with several plans available. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sfbrso</id>
     <title>SoFly Teases Bristol Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69055404f1087bae1f721fc4_367589_FAGM-16.webp"/>
     <summary>Sim: FS24. JATSim Designs has recently released its rendition of Rand Airport (FAGM) for both Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024, bringing one of South Africaâs most historic airfields to the simulator. Located in Germiston, near Johannesburg, Rand Airport first opened in 1931, and quickly became one of the most advanced facilities in the Southern Hemisphere. It served as the regionâs main international gateway, and operated as a hub for Imperial Airways, later South African Airways. During the Second World War, the airport played a crucial role in supporting military operations and training. With the opening of Jan Smuts Airport (now OR Tambo International) in 1952, Rand transitioned to a general aviation field. Today, it remains active as a centre for flight training, maintenance, and airshows, retaining much of its heritage and historical infrastructure. The scenery is available on simMarket for $14,50, including taxes. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmenev</id>
+    <title>MM Simulations Previews Harstad/Narvik Airport for MSFS</title>
+    <updated>2025-11-02T00:00:00+00:00</updated>
+    <link href="/news/mmenev"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69078862027ea8c130f37701_Banner_Image.webp"/>
+    <summary>Sim: FS24. MM Simulations has recently provided a sneak peek of its upcoming scenery for Harstad/Narvik Airport in Microsoft Flight Simulator. While details are still limited, the team has showcased the Harstad Flyklubb hangar and emphasised that every aspect has been meticulously recreated to match the real-life hangar. Although there is limited information about the release date, price, or features, the team announced that more previews will be available soon. We will keep you updated as soon as more information is released. Finally, although it wasn't mentioned in the original Facebook post, the team shared at the end of the previews in their Discord server that Stavanger Airport (ENZV) is also in development. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-11-02T00:00:00+00:00</published>
   </entry>
 </feed>
