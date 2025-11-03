@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-02T18:31:03.240701+00:00</updated>
+  <updated>2025-11-03T18:34:09.270052+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sfbrso</id>
-    <title>SoFly Teases Bristol Airport for MSFS 2024</title>
-    <updated>2025-10-27T00:00:00+00:00</updated>
-    <link href="/news/sfbrso"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffb2624e3410f359972f65_571115643_1411194024345331_391040262126603842_n.webp"/>
-    <summary>Sim: FS24. SoFly has shared a fresh update of its upcoming Bristol Airport (EGGD) for Microsoft Flight Simulator 2024, confirming that the scenery has now entered beta testing.Â  The team previously stated their focus is on detail and authenticity, with a carefully modelled terminal interior, inspired by real reference material. While not every area will be perfectly true to life, SoFly promises a close and convincing recreation, capturing the atmosphere of one of the UKâs busiest regional airports. The first beta testing round is nearly complete, with a second build already underway, meaning release could be just around the corner. Weâll keep you updated. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/brsaa1</id>
     <title>BRSimDesigns Releases AA-5B Tiger G1000 for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/mmenev"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69078862027ea8c130f37701_Banner_Image.webp"/>
     <summary>Sim: FS24. MM Simulations has recently provided a sneak peek of its upcoming scenery for Harstad/Narvik Airport in Microsoft Flight Simulator. While details are still limited, the team has showcased the Harstad Flyklubb hangar and emphasised that every aspect has been meticulously recreated to match the real-life hangar. Although there is limited information about the release date, price, or features, the team announced that more previews will be available soon. We will keep you updated as soon as more information is released. Finally, although it wasn't mentioned in the original Facebook post, the team shared at the end of the previews in their Discord server that Stavanger Airport (ENZV) is also in development. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-11-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcfeoc</id>
+    <title>X-Crafts Updates Free E-Jets for X-Plane 11/12</title>
+    <updated>2025-11-02T00:00:00+00:00</updated>
+    <link href="/news/xcfeoc"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6907a67a7b1842713b5b06e6_FREE-EMBRAER-E-JET-E175-E195-FOR-X-PLANE-DOWNLOAD-AIRPLANE-01.webp"/>
+    <summary>Sim: X-Plane. Developer X-Crafts has recently released an update for its freeware versions ofÂ  Embraer E175 and E195 for X-Plane, introducing a new weather radar, visual refinements, and full compatibility with X-Plane 12.3. The update continues the developerâs support for its freeware range, which has seen over 50,000 downloads to date. The key feature in this release is the weather radar, available exclusively in X-Plane 12.3. Other updates include improved navigation map visuals and behaviour, fixes to display transparency, and general MFD performance improvements. Two versions of the aircraft are available: v3.1 for X-Plane 12 and v2.5 for X-Plane 11. Both are compatible with all major operating systems, though Mac users must run X-Plane in Rosetta mode to ensure full plugin functionality. The Free E-Jets package includes several features typically reserved for payware aircraft, such as a Ground Operations Menu, Load Planner for weight and balance, and on-screen checklists.Â  A step-by-step demonstration flight video is also available, designed to help users familiarise themselves with the aircraft in under an hour. The Freeware E-Jets are simplified versions, relying mostly on default X-Plane systems. These aircraft were originally part of X-Craftsâ payware lineup, but were later released for free, following the launch of the E-Jets v2 series.  While the freeware models still offer an enjoyable experience, they differ from the payware E-Jets in fidelity. The Free E175 and E195 v3.1.0 are available now via X-Craftsâ website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-02T00:00:00+00:00</published>
   </entry>
 </feed>
