@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-03T18:34:09.270052+00:00</updated>
+  <updated>2025-11-04T18:36:25.471224+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/brsaa1</id>
-    <title>BRSimDesigns Releases AA-5B Tiger G1000 for MSFS 2020/2024</title>
-    <updated>2025-10-27T00:00:00+00:00</updated>
-    <link href="/news/brsaa1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68ffbb0985c5542599d0b4ce_557530637_1404745094986421_9076242823794646352_n%20(1).jpg"/>
-    <summary>Sim: FS24. BRSimDesigns has recently rolled out a refreshed version of its AA-5B Tiger for Microsoft Flight Simulator 2020 and 2024, now including a full Garmin G1000 suite. The package includes a dual-screen WT-G1000 with autopilot, custom flight dynamics, an authentic Wwise sound set, and an EFB for payload, panel, and ground options.Â  Furthermore, the aircraft features high-quality 3D modelling, a mix of 4K and 8K textures, full PBR materials, dynamic registration, and MSFS volumetric lighting.Â  You also get eight liveries, an openable canopy, and a castor nose wheel, among others. FEATURES The Tiger is available at simMarket for $29.08. Owners of the original AA-5B Tiger can upgrade for $13.99, excluding sales tax. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/dc2921</id>
     <title>Eagle Dynamics Updates DCS World, Including Heatblur F14A EarlyÂ </title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6907a67a7b1842713b5b06e6_FREE-EMBRAER-E-JET-E175-E195-FOR-X-PLANE-DOWNLOAD-AIRPLANE-01.webp"/>
     <summary>Sim: X-Plane. Developer X-Crafts has recently released an update for its freeware versions ofÂ  Embraer E175 and E195 for X-Plane, introducing a new weather radar, visual refinements, and full compatibility with X-Plane 12.3. The update continues the developerâs support for its freeware range, which has seen over 50,000 downloads to date. The key feature in this release is the weather radar, available exclusively in X-Plane 12.3. Other updates include improved navigation map visuals and behaviour, fixes to display transparency, and general MFD performance improvements. Two versions of the aircraft are available: v3.1 for X-Plane 12 and v2.5 for X-Plane 11. Both are compatible with all major operating systems, though Mac users must run X-Plane in Rosetta mode to ensure full plugin functionality. The Free E-Jets package includes several features typically reserved for payware aircraft, such as a Ground Operations Menu, Load Planner for weight and balance, and on-screen checklists.Â  A step-by-step demonstration flight video is also available, designed to help users familiarise themselves with the aircraft in under an hour. The Freeware E-Jets are simplified versions, relying mostly on default X-Plane systems. These aircraft were originally part of X-Craftsâ payware lineup, but were later released for free, following the launch of the E-Jets v2 series.  While the freeware models still offer an enjoyable experience, they differ from the payware E-Jets in fidelity. The Free E175 and E195 v3.1.0 are available now via X-Craftsâ website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sofbrs</id>
+    <title>SoFlyâs Bristol Airport Releasing on Friday</title>
+    <updated>2025-11-04T00:00:00+00:00</updated>
+    <link href="/news/sofbrs"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690a1568a698ab902b58902d_sofly-bristol-airport-eggd-msfs2024-01.jpg"/>
+    <summary>Sim: FS24. SoFly recently announced the development and imminent release of Bristol Airport (EGGD) for Microsoft Flight Simulator 2024, which will land on the virtual shelves on Friday (07/11).Â  Built on top of a former RAF airfield, Bristol Airport was inaugurated in 1957, replacing Bristolâs former main municipal airport (Whitchurch).Â  In 1958, a 200,000-pound passenger terminal was built, part of the administrationâs effort to make it the cityâs de facto airport. Four years later, a new control tower was built. In 1969, the runway underwent its first expansion, and the terminal was extended to handle the predicted figures for the 1970s and beyond. In the early 1980s, despite being served by 17 charter airlines, the airport was operating at a loss until Les Wilson took over as managing director and completely turned the tide. He held this position until his tragic passing in a car accident in 1995.Â  The mid-1980s slight recovery from the crisis allowed the administration to expend an extra dime or two on the construction of a new international departure lounge. Four years later, a new concourse area was opened, and planning for a new terminal kicked into action, leading to its eventual approval in 1994. Work started in 1997, shortly after FirstBus Group bought a 51% stake in the airport, heavily investing in its new infrastructure. The terminal, which cost 27 million pounds, was ready by 2000.Â  Passenger numbers reached the two million mark for the first time that year. A year later, the airport was purchased by a joint venture for 198 million pounds, and 50% of it was sold again in 2006. In 2015, the terminal was expanded again with a larger departure lounge and an outdoor terrace, followed by a new terminal extension adding 9,000 square meters. The project reached completion in 2017. Itâs a focus city for easyJet, Jet2, Ryanair, and TUI Airways. Aer Lingus, Aurigny, Blue Islands, Edelweiss Air, KLM, Loganair, Pegasus Airlines, and Sun Express also serve it. The scenery will feature an accurate rendition of the airport, with custom ground textures, true-to-life elevation data, full GSX integration with animated doors, a dynamic airport environment, PBR texturing, dynamic seasons, and performance-friendly optimization. Thereâs no information on the pricing yet, but the scenery is set to release on Friday.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-04T00:00:00+00:00</published>
   </entry>
 </feed>
