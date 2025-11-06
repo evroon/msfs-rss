@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-11-05T18:36:05.874493+00:00</updated>
+  <updated>2025-11-06T18:37:25.044768+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -194,5 +194,30 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/SWISSKOMMAND-Forums-2-768x432.jpeg"/>
     <summary>This week’s Screenshot Challenge winner is Forum user SWISSKOMMAND! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.New beta builds for both Sim Update 4 and the PlayStation 5 version of Microsoft Flight Simulator 2024 were released to community testers last Friday. You can read the release notes at … Continued</summary>
     <published>2025-10-30T23:16:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/</id>
+    <title>Microsoft Flight Simulator 2024 Soars Onto PlayStation 5</title>
+    <updated>2025-09-24T21:18:55+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/"/>
+    <summary>Experience an unprecedented level of aviation realism and authenticity starting December 8th.</summary>
+    <published>2025-09-24T21:18:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/world-update-20/</id>
+    <title>Microsoft Flight Simulator Releases World Update 20: Japan</title>
+    <updated>2025-09-25T10:29:46+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-20/"/>
+    <summary>This massive, exciting update brings Japan to life like never before in Microsoft Flight Simulator!</summary>
+    <published>2025-09-25T10:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-22/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 22: The NAMC YS-11</title>
+    <updated>2025-09-25T10:39:27+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-22/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/09/MSFS_NAMC_NoSnipe_NoLogo_NoText-1024x576.png"/>
+    <summary>Fly the only post-World War II commercial airliner designed and manufactured entirely within Japan!</summary>
+    <published>2025-09-25T10:39:27+00:00</published>
   </entry>
 </feed>
