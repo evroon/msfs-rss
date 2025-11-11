@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-10T18:36:51.457322+00:00</updated>
+  <updated>2025-11-11T18:35:43.522480+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tpmfox</id>
-    <title>Honeycomb Aeronautical Releases Sierra TPM Module and Foxtrot Aviation Stick </title>
-    <updated>2025-11-05T00:00:00+00:00</updated>
-    <link href="/news/tpmfox"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690b89ee6d2057b38c4ce87d_last%20ned.webp"/>
-    <summary>Sim: OTHER. Honeycomb Aeronautical has just launched two new peripherals: the Sierra TPM Module and Foxtrot Aviation Stick.Â  Both products are now available worldwide, and slot into the brandâs existing Alpha, Bravo, and Charlie ecosystems. The Sierra TPM Module is designed for general aviation flying. It features three metal, vernier-style throttle, propeller, and mixture controls with fine adjustment, a low-profile trim wheel, a parking brake, a flap lever, and a landing gear lever, all accompanied by LED status indicators. The unit is designed to replicate real GA panels and integrates seamlessly with other Honeycomb hardware. The Foxtrot Aviation Stick is suitable for various types, including Airbus, aerobatic aircraft, and helicopters. It utilises an advanced gimbal mechanism, with 16-bit Hall Effect sensors for precise input, and offers adjustable linear resistance. without a centre detent, and includes a twist axis for rudder control. The grip is ambidextrous, featuring multiple programmable buttons, rocker switches, and a POV hat, along with an integrated switch panel, for starters, radios, and autopilot. Honeycomb says the new hardware is intended to give simmers more specialised controls, particularly for GA flying, while keeping the build quality consistent with its existing lineup. For more information, visit the respective Launch 2025 pages.  Both products are available worldwide, with the Foxtrot Aviation Stick priced at $149.99 and the Sierra TPM Module at $249.99, through Honeycombâs official webshop. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-11-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbper</id>
     <title>Orbx Announces Perth International Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690f8226dd04e33f34ba0428_chan1.webp"/>
     <summary>Sim: FS24. Imaginesim has recently released their updated rendition of Singapore Changi Airport (WSSS) for Microsoft Flight Simulator 2020 and 2024, reflecting the latest changes to the airport. It was inaugurated 42 years ago when the Singaporean government was forced to build a new airport to cope with the region's ever-growing demand for air travel. Initially, their original plan was to expand Paya Lebar, the former main airport in Singapore; however, the 1973 Oil crisis changed everything. By 1975, they had already decided to build a brand new airport at the eastern tip of the main island of Changi, at the Changi Air Base. After its first year of operation, the airport had already handled an average of 12.1 million passengers, prompting the construction of a second passenger terminal in the 1990s. Terminal 3 soon followed in 2008, and then Terminal 4 in 2017. Terminal 5, which is planned to be larger than all four combined, is expected to open in 2030. It's a FedEx Express, Jetstar Asia, Scoot, and Singapore Airlines hub. AirAsia, Air Canada, Air China, Air France, Air India, Air New Zealand, All Nippon Airways, Cathay Pacific, China Southern Airlines, EVA Air, Garuda Indonesia, Hainan Airlines, IndiGo, KLM, Lufthansa, Qantas, Swiss, United Airlines, and Vietnam Airlines also serve it. The updated rendition features 13 km of new taxiways, a vast construction zone around Terminal 5, custom jetways, performance-friendly optimization, custom VDGS, high-definition textures, and more. Itâs available on their website for roughly $26.30. Owners of the previous version are entitled to a 75% discount. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hcolum</id>
+    <title>Fly 2 High Releases Columbia Metropolitan Airport for MSFS 2020/2024</title>
+    <updated>2025-11-10T00:00:00+00:00</updated>
+    <link href="/news/f2hcolum"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6912425c9e925befa7d115ba_colum1.webp"/>
+    <summary>Sim: FS24. Fly 2 High has recently released their rendition of Columbia Metropolitan Airport (KCAE) for Microsoft Flight Simulator 2020 and 2024, serving Columbia, in South Carolina (United States), with a yearly average of 1.2 million passengers. It was built in 1940 as Lexington County Airport and was rapidly acquired by the US Army Air Corps for World War II usage, hosting the 105th Observation Squadron and its fleet of Douglas O-38s and North American O-47s.  A year later, it was totally under military control, and a program was started to fully convert it into a military airport, becoming the Columbia Army Air Base. The Air Base was primarily used for training, and some of the combat crew members participated in the famous Doolittle Raid in Japan. Training was eventually phased down by the end of the war, and it was rapidly returned to civilian control, becoming Columbia Metropolitan Airport. For a brief period, a bombardment squadron was assigned to the airport, but it left in 1949. A passenger terminal was built in the 1950s and eventually burned down, only to be replaced by a new one, which opened in 1965. It was expanded in the late 1980s, with an expanded terminal, a runway extension, and the construction of a new parking garage (which only reached completion in 2003). Renovation work was carried out in 1997, essentially replacing the old structure. Itâs a hub for UPS Airlines. Allegiant Air, American Airlines, American Eagle, Delta Air Lines, Delta Connection, and United Express serve it. â The scenery features an accurate rendition of the airport, with hand-made surfaces, highly detailed terminals, a fully modeled landside area, custom dynamic lighting, over 150 handcrafted models, and custom animated jetways. â Itâs available on the iniBuilds Store for roughly $17.02, requiring at least 2.64 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-10T00:00:00+00:00</published>
   </entry>
 </feed>
