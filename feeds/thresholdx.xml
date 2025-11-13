@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-12T18:34:26.112173+00:00</updated>
+  <updated>2025-11-13T18:36:18.002581+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pescdg</id>
-    <title>Pilot Experience Sim Shares Charles de Gaulle Airport Previews for MSFS 2020/2024</title>
-    <updated>2025-11-06T00:00:00+00:00</updated>
-    <link href="/news/pescdg"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690cc289c47b5cf47ce7cdd4_cdg1.webp"/>
-    <summary>Sim: FS24. Pilot Experience Sim has shared previews of their upcoming Charles de Gaulle Airport (LFPG) rendition for Microsoft Flight Simulator 2020 and 2024, Europeâs third-busiest airport, with a yearly average of 70.3 million passengers. The previews showcase their work on the ground textures near the runway, as well as a sneak peek of the control towerâs exterior and interior.  While there are no previews of the terminals yet, they ensure itâs being worked on, and images will be shared once it's deemed ready. â There is no information regarding pricing or a potential release date, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/cvdskrg</id>
     <title>Colombian Virtual Design Releases JosÃ© MarÃ­a CÃ³rdova International Airport for X-Plane 11 &amp; 12</title>
@@ -150,6 +141,15 @@
     <link href="/news/car390rel"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6902655801dc90c1d37b973b_beec.jpg"/>
     <summary>Sim: FS24. Carenado has recently released their rendition of the Beechcraft B-390 Premier 1A for Microsoft Flight Simulator 2024, a light business jet first conceived in the mid-1990s.Â  The Beechcraft B-390 Premier 1A was an updated version of the Premier 1, which was designed in the mid-90s, first flown in 1998, and certified in 2001. The IA was almost like a real-life patch to fix some lingering issues with the project, such as the subpar brakes, the noisy cabin, and the cockpit, which was deemed below par by many. The aforementioned upgrade rolled out in 2006, and over 163 new Premiers were built in five years. The little jet is powered by two Williams FJ44-2A Turbofan engines. It cruises at 841 km/h, has a range of 950 miles, a service ceiling of 41,000 feet, and, depending on the configuration, can carry 6 to 7 passengers. Itâs available in the MSFS Marketplace for $24.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/deckardisreal</id>
+    <title>Valve Announces New Standalone VR Headset</title>
+    <updated>2025-11-12T00:00:00+00:00</updated>
+    <link href="/news/deckardisreal"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6914de99bfc475b5609e04e0_frame.jpg"/>
+    <summary>Sim: OTHER. Valve Software has recently announced their new hardware lineup for early 2026, including a Standalone Virtual Reality headset running Steam OS and capable of functioning as a PCVR headset via streaming.  Originally codenamed Valve Deckard, the Steam Frame is Valveâs first entry into the standalone headset market, following its pioneering role in mainstream PCVR headsets with the launch of the Valve Index in 2019, which is still widely used in 2025 and is considered one of the best headsets ever made. With 16 GB of unified LPDDR5X RAM, a 4nm Snapdragon 8 Gen 3, UFS storage options ranging from 256 GB to 1 TB, dual LCD panels featuring a 2160x2160 resolution each, and pancake lenses, it rivals the best offerings from Meta and Pico.  Furthermore, the Steam Frame comes with its own 6 GHz dongle for PCVR streaming, and the addition of foveated streaming (possible thanks to the presence of eye tracking) will allegedly improve the streaming efficiency tenfold, as they can dynamically increase the pixels where your eyes are focusing on and lower the pixels where itâs not needed, making the image streaming as efficient as possible. â The controllers work on one AA battery each, and the analog sticks are magnetic, preventing the dreadful âstick driftâ, a known enemy to most virtual reality players.  As previously mentioned, the new headset will run on SteamOS, and Valve will implement a âSteam Frame Verifiedâ system (similar to what they did with the Steam Deck), allowing players to check whether the game they want to buy is compatible with their headset. Alternatively, streaming flat-screen titles from your PC will also be an option. â There is no release date or pricing information available yet, but Valve has mentioned that it will ship in early 2026. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-12T00:00:00+00:00</published>
   </entry>
 </feed>
