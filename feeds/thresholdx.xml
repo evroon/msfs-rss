@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-16T18:33:21.615230+00:00</updated>
+  <updated>2025-11-17T18:36:13.587536+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sobrizzle</id>
-    <title>SoFly Releases Bristol Airport for MSFS 2024</title>
-    <updated>2025-11-07T00:00:00+00:00</updated>
-    <link href="/news/sobrizzle"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690df5795e941a7a7f9e14f5_sofly-bristol-airport-eggd-msfs2024-21.jpg"/>
-    <summary>Sim: FS24. SoFly has recently released their rendition of Bristol Airport (EGGD) for Microsoft Flight Simulator 2024, the eight busiest airport in the United Kingdom with a yearly average of 10.5 million passengers. Built on top of a former RAF airfield, Bristol Airport was inaugurated in 1957, replacing Bristolâs former main municipal airport (Whitchurch).Â  In 1958, a 200,000-pound passenger terminal was built, part of the administrationâs effort to make it the cityâs de facto airport. Four years later, a new control tower was built. In 1969, the runway underwent its first expansion, and the terminal was extended to handle the predicted figures for the 1970s and beyond. In the early 1980s, despite being served by 17 charter airlines, the airport was operating at a loss until Les Wilson took over as managing director and completely turned the tide. He held this position until his tragic passing in a car accident in 1995.Â  The mid-1980s slight recovery from the crisis allowed the administration to expend an extra dime or two on the construction of a new international departure lounge. Four years later, a new concourse area was opened, and planning for a new terminal kicked into action, leading to its eventual approval in 1994. Work started in 1997, shortly after FirstBus Group bought a 51% stake in the airport, heavily investing in its new infrastructure. The terminal, which cost 27 million pounds, was ready by 2000.Â  Passenger numbers reached the two million mark for the first time that year. A year later, the airport was purchased by a joint venture for 198 million pounds, and 50% of it was sold again in 2006. In 2015, the terminal was expanded again with a larger departure lounge and an outdoor terrace, followed by a new terminal extension adding 9,000 square meters. The project reached completion in 2017. Itâs a focus city for easyJet, Jet2, Ryanair, and TUI Airways. Aer Lingus, Aurigny, Blue Islands, Edelweiss Air, KLM, Loganair, Pegasus Airlines, and Sun Express also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, true-to-life elevation data, full GSX integration with animated doors, a dynamic airport environment, PBR texturing, dynamic seasons, and performance-friendly optimization. Itâs available on the iniBuilds Store for roughly $18.25, requiring at least 3.11 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a32101</id>
-    <title>Got Friends Updates Aeroprakt A-32 Vixxen for MSFS to Version 1.0.1</title>
-    <updated>2025-11-07T00:00:00+00:00</updated>
-    <link href="/news/a32101"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690e0a5c26f8e36cfb3dcd50_VIXXEN_1_1800x1800_eda1b648-26ff-400b-8c38-02d1624fe124_1600x%20(1).webp"/>
-    <summary>Sim: FS24. Got Friends has released version 1.0.1 of its Aeroprakt A-32 Vixxen for Microsoft Flight Simulator 2020 and 2024, introducing several improvements. The update refines the aircraftâs flight model, featuring custom propeller and flap drag code. Instrumentation and cockpit visuals have also received attention,Â  including new EGT gauge interactions, more natural glass reflections, and improved lighting behaviour across both analogue and G3X-equipped cockpits. The EFB can now be used even with the battery and avionics switched off, the custom KAP-140 autopilot once again accepts hotkey inputs, and stall, oil temperature, and heading indicator behaviour have all been fine-tuned for better accuracy. Performance has also been improved through LOD optimisations, which should be most noticeable in multiplayer. Several other fixes have addressed smaller issues, including corrected gauge animations, a brighter heading bug, and restored exterior engine audio nodes. The update also adjusts weight station logic, allowing the user to load either a co-pilot or cargo, but not both, to maintain consistent visuals and flight behaviour. As usual, here's the full changelog: You can download the Got Friends Aeroprakt A-32 Vixxen v1.0.1 update now through the Contrail app. TDS users must also update their TDS Expansion to version 1.0.1 for compatibility. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-11-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/56wv24</id>
-    <title>Parallel 42 Releases Cheat River Island for MSFS 2024</title>
-    <updated>2025-11-07T00:00:00+00:00</updated>
-    <link href="/news/56wv24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690e13e57ea98f4e6bb97129_2_5381e25d-234b-4965-8e16-0efa42545b07%20(1).webp"/>
-    <summary>Sim: FS24. Parallel 42 has released its first fully native Microsoft Flight Simulator 2024 scenery, bringing 56WV, Cheat River Island, to the new sim. The backcountry strip in West Virginia is situated on a river island, in the Appalachian range, with approaches that wind through a narrow valley, changing weather conditions, and even the occasional turkey on the runway.Â  The MSFS 2024 version has been rebuilt to use the simâs newer tech. That includes high-fidelity 3D models, enhanced textures, a custom asset library, TrailBlazer terrain shaping, dynamic fauna, and bespoke lighting and ambient sounds at the main building. The environment has also been tailored to match the region, featuring custom vegetation and autumn colours. The airfield features a 1,704 ft grass runway, with landings on Runway 30 and departures from Runway 12, a sloped terrain profile, and collision-aware objects surrounding the strip. On the ground, you can explore six miles of drivable roads, built for the //42 Juice Goose UTV, camp overnight with the //42 Campout Utility, or visit detailed micro-scenes, such as a lakeside campsite and a rustic bar, that come alive after dark. Wildlife encounters, ziplines, tractor rides, and even a hidden bear make are also included. The scenery is available now for $12.00 at the Parallel 42 store. Owners of the 2020 version can upgrade to the MSFS 2024 release for $2 by using the code 24CHEATS at checkout. Parallel 42 says the offer is valid for six months, through April 29, 2026. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-11-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/phnl24</id>
     <title>iniBuilds Releases Daniel K. Inouye International Airport for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6917ad305ddc49e2ef2abbdb_windsor1.webp"/>
     <summary>Sim: FS24. Dfflyer - a new scenery developer in the scene - has just released their first scenery: a rendition of Windsor International Airport (CYQG) for Microsoft Flight Simulator 2020 and 2024, serving the Detroit-Windsor region with a yearly average of 330,000 passengers. It opened in 1928 as Walker Airport, after Hiram Walker, a Canadian whiskey distiller and distributor. It joined Canadaâs national portfolio of airports in 1967, when it was recognized for its regional importance as a hub for Southwestern Ontario.  Since early 2007, the airport has been managed by an ad hoc group on behalf of the City of Windsor. This arrangement followed the request by the last operator, Serco Services Inc., for early termination of their airport management contract in 2006, as the airport was losing 40k USD monthly. The new administration had a better fate, managing to post a small profit instead, and has since been granted an indefinite contract. Itâs served by Air Canada Express, Air Transat (to start in late 2025), Cameron Air Service, Porter Airlines, and WestJet. The scenery features an accurate rendition of the airport, with custom ground textures, custom taxiway and runway lights, custom ground service equipment, custom cars, a high-quality rendition of the main terminal and all hangars, and more. Itâs available in their store for roughly $12.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/dcsbal</id>
+    <title>OnReTech Announces DCS: Balkans Map for 2026</title>
+    <updated>2025-11-16T00:00:00+00:00</updated>
+    <link href="/news/dcsbal"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691a5dc6fd17d3b64286d8cc_In_Dev_07.11.2025.6.webp"/>
+    <summary>Sim: DCS. OnReTech, the team behind DCS: Sinai, has announced its next terrain for DCS World, DCS: Balkans, developed in partnership with Eagle Dynamics,Â  and currently planned for a 2026 release. The map is designed to recreate NATO air operations over the former Yugoslavia between 1991 and 2001, with players able to fly as either NATO or Serbian forces.Â  It will cover large parts of the Balkans, the Adriatic Sea, and sections of Italy, combining varied coastlines, numerous islands, and several major mountain ranges, including the Dinaric Alps, Apennines, and Dolomites. OnReTech plans to include a broad mix of urban centres such as Venice, Dubrovnik, Belgrade, Zagreb, Trieste, Bari, and Rijeka, connected by highways and rail networks.Â  Alongside this, a range of military airbases and civilian airports will be located across Italy, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Kosovo.Â  The newsletter specifically highlights Aviano Air Base, home to the United States Air Force 31st Fighter Wing, and Venice Marco Polo Airport. The map is designed as a suitable theatre for aircraft such as the F-16C and MiG-29A, and will be accompanied by further additions to the popular Currenthill asset pack, including a Grisha-class corvette for coastal and anti-submarine operations, and an AI-only EC-665 Tiger UHT attack helicopter. You can check out the full newsletter here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff777fnw</id>
+    <title>Flight Factorâs 777 Freighter Expansion to Launch Next Week</title>
+    <updated>2025-11-17T00:00:00+00:00</updated>
+    <link href="/news/ff777fnw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691b4f0bc917354639e486ce_freight1.webp"/>
+    <summary>Sim: X-Plane. Flight Factor has recently teased their upcoming 777 Freighter Expansion for X-Plane 11 and 12, scheduled to launch next week. The long-awaited freighter expansion for Flight Factorâs 777-200ER V2 Ultimate is a week away from the virtual shelves, and selected streamers have already received preview keys from Flight Factor to showcase the product.  In similar fashion as of the 772, Flight Factorâs 777F will feature a deep systems simulation, a proprietary flight model within 2-5% of standard certification tests, true-to-life dimensions, authentic systems, a new weather radar, a custom sound system with 3D stereo engine sounds, a failure and maintenance system with over 1,000 simulated failures, an advanced EFB with SimBrief integration, and much more. â Thereâs no pricing information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jf146v242024</id>
+    <title>Just Flightâs 146 Professional v2.4 Releasing by the End of the Month</title>
+    <updated>2025-11-17T00:00:00+00:00</updated>
+    <link href="/news/jf146v242024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691b50f142dd4063fed49569_bingo1.jpg"/>
+    <summary>Sim: FS24. Just Flight has recently provided a brief development update on their 146 Professional v2.4 update for Microsoft Flight Simulator 2020 and 2024, bringing full compatibility with the latter and introducing brand-new features yet to be revealed. The development process is nearing completion, and the team aims to release it by the end of the month for both platforms. As usual for Just Flight, this will be a free update for existing owners, and new buyers will benefit from a temporary discount upon launch. â They claim itâs the most substantial upgrade yet to the 146, bringing it up to pair with the RJ Professional in terms of features and realism. They will soon be sharing more photos, videos, and the âmassiveâ changelog. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-17T00:00:00+00:00</published>
   </entry>
 </feed>
