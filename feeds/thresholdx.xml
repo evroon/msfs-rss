@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-20T18:37:15.075841+00:00</updated>
+  <updated>2025-11-21T18:33:13.474383+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/simnaples</id>
-    <title>SimPixel Releases Naples Airport for MSFS 2020/2024</title>
-    <updated>2025-11-12T00:00:00+00:00</updated>
-    <link href="/news/simnaples"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69148bc9792bec67bae9a6fb_naples1.webp"/>
-    <summary>Sim: FS24. SimPixel has recently released their rendition of Naples International Airport (LIRN) for Microsoft Flight Simulator 2020 and 2024, serving the Metropolitan City of Naples, Campania region, with a yearly average of 12.6 million passengers, making it the fourth busiest airport in Italy. The airport started its life in the early 1900s as âCampo di Marteâ, a little airfield for general aviation, occasionally hosting flight exhibitions. World War 1 had the airport become a military airport to defend the town against the Austro-Hungarians and Germans. Then it saw heavy usage again during World War 2, this time by the United States Army Air Forces and the Royal Air Force, and later became a major transshipment hub for cargo. The commercial debut occurred in 1950, marking the official opening of âNaples Airportâ. It serves as an operating base for easyJet, Ryanair, Volotea, and Wizz Air. Aegean Airlines, Aer Lingus, Air Arabia, Air Cairo, Air Canada, Air France, American Airlines, Austrian Airlines, British Airways, Brussels Airlines, Delta Air Lines, Eurowings, Finnair, flydubai, FlyOne, Iberia Express, Israir Airlines, ITA Airways, Jet2, KLM, Lufthansa, Luxair, Norwegian Air Shuttle, Scandinavian Airlines, Smartwings, Swiss International Airlines, TAP Air Portugal, Transavia, TUI, Turkish Airlines, United Airlines, and Vueling also serve it. The scenery features an accurate rendition of the airport, with high-resolution PBR textures, highly detailed terminals and hangars, dynamic night lighting, custom ground layout, static aircraft and ground equipment services, and performance-friendly optimization. Itâs available on the iniBuilds Store for roughly $22.34, requiring at least 5.71 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/dflrhode</id>
-    <title>Dreamflight Studios Teases Rhode Island T. F. Green International Airport for MSFS 2020/2024</title>
-    <updated>2025-11-12T00:00:00+00:00</updated>
-    <link href="/news/dflrhode"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69149283cd8f81afb4f9405d_rhode1.webp"/>
-    <summary>Sim: FS24. Dreamflight Studios has recently teased their rendition of Rhode Island T. F. Green International Airport (KPVD) for Microsoft Flight Simulator 2020 and 2024, serving Providence, Rhode Island, with a yearly average of 4 million passengers.â It was dedicated in 1931 as Hillsgrove State Airport, and its first passenger terminal was built in 1933. Its original layout consisted of three 910-meter-long concrete runways. â It was used for flight training by the United States Army Air Force during 1942 and 1945, hosting the 435th Army Air Force Base. â The World War II occupation period led to several upgrades, including runway extensions (300 meters each) and slightly improved infrastructure. In the 1960s, a new terminal was constructed, as the old one was insufficient to handle a metropolitan area with over a million people.  â It wasnât until 1996 that it would see another upgrade, entirely replaced by a new passenger terminal with 18 gates. Four extra gates were added in 1997. â Itâs a hub for Wiggins Airways and an operating base for Breeze Airways. Allegiant Air, American Airlines, American Eagle, BermudAir, Delta Air Lines, Delta Connection, JetBlue, Southwest Airlines, Sun Country Airlines, and United Express serve it. â Thereâs no pricing information available yet, but it is expected to be released sometime this week. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/car390rel</id>
     <title>Carenado Releases B390 1A for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691cf7b7de61e51621520b29_image%20(1).webp"/>
     <summary>Sim: OTHER. Boundless Simulations has now closed its online store, bringing an end to the studioâs five-year run as one of X-Planeâs most prolific scenery developers.  The shutdown follows a July message from founder Lew, who explained that real life had taken over, and that the studio would shut its doors, with the store staying open until November. That deadline has now passed, and the storefront has quietly disappeared, leaving only the Discord server, which remains open for now. Boundless began in 2020 as a bedroom project, and went on to produce an enormous catalogue for X-Plane, covering everything from tiny Irish helipads to major airports, including Dublin, Stansted, Inverness, Faro, and Bournemouth.  Along the way, Lew used the income to fund his flight training, eventually securing a place on the A320 flight deck, something he openly credits to the community that supported the studio. A handful of Boundless products seemingly remain available through the iniBuilds store, though only select titles, and not always in their latest versions.Â  With the storefront now gone, we see quite an influential developer finally leave the scene. With a remarkable number of airfields built over the years, the legacy of Boundless will certainly be remembered for a long time. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bbdwol</id>
+    <title>Burning Blue Design Releases Wolverhampton Halfpenny Green Airport for MSFS 2020/2024</title>
+    <updated>2025-11-20T00:00:00+00:00</updated>
+    <link href="/news/bbdwol"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691f73b89ea6c607047027b4_wolf1.jpg"/>
+    <summary>Sim: FS24. Burning Blue Design has recently released their rendition of Wolverhampton Halfpenny Green Airport (EGBO) for Microsoft Flight Simulator 2020 and 2024, serving Wolverhampton in the United Kingdom. It was constructed in the 1940s for World War II, then named RAF Bobbington, and later renamed RAF Halfpenny Green due to its similarity with RAF Bovingdon.  It didnât see much activity after the war, with flights only returning in 1952 with the No. 2 Air Signallers School, which disbanded a year later. Then, a ground-based equipment sub-unit occupied the airfield until 1956, after which the airport fell into disuse until it was revived as a civil airport in 1961. In the early 2000s, the airportâs previous owner - CityHopper Ltd. - had ambitious plans for Wolverhampton Airport, including a substantial expansion, a longer runway, and open-air facilities for Boeing 737 engine testing, but none of that came to fruition, as it was sold to a new owner (MAR Properties Ltd.) and they had no intent on doing any of that.  Itâs currently a popular airport for general aviation, especially among flex-wing and three-axis microlight pilots, and thereâs even a microlight flight school on-site.  The scenery features an accurate rendition of the airport, with custom ground textures, over 200 custom 3D objects, a detailed control room and hangar interiors, full dynamic weather compatibility, animated spectators, and high-resolution colour-corrected ground textures. Itâs available in their store for $19.56. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff77fxp12rel</id>
+    <title>FlightFactor Releases 777 Freighter Upgrade for X-Plane 12</title>
+    <updated>2025-11-20T00:00:00+00:00</updated>
+    <link href="/news/ff77fxp12rel"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691f76bd375f23bcec9a5bc6_freighter1.jpg"/>
+    <summary>Sim: X-Plane. FlightFactor has recently released their long-awaited 777 Freighter upgrade for X-Plane 12, expanding on their 777-200ER released earlier this year. In similar fashion as of the 772, Flight Factorâs 777F features a deep systems simulation, a proprietary flight model within 2-5% of standard certification tests, true-to-life dimensions, authentic systems, a new weather radar, a custom sound system with 3D stereo engine sounds, a failure and maintenance system with over 1,000 simulated failures, an advanced EFB with SimBrief integration, and much more. The complete feature list follows below: 777 Freighter version  Itâs available in the X-Plane.Org Store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-20T00:00:00+00:00</published>
   </entry>
 </feed>
