@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-24T18:38:06.269479+00:00</updated>
+  <updated>2025-11-25T18:38:44.077816+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/dcsbal</id>
-    <title>OnReTech Announces DCS: Balkans Map for 2026</title>
-    <updated>2025-11-16T00:00:00+00:00</updated>
-    <link href="/news/dcsbal"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691a5dc6fd17d3b64286d8cc_In_Dev_07.11.2025.6.webp"/>
-    <summary>Sim: DCS. OnReTech, the team behind DCS: Sinai, has announced its next terrain for DCS World, DCS: Balkans, developed in partnership with Eagle Dynamics,Â  and currently planned for a 2026 release. The map is designed to recreate NATO air operations over the former Yugoslavia between 1991 and 2001, with players able to fly as either NATO or Serbian forces.Â  It will cover large parts of the Balkans, the Adriatic Sea, and sections of Italy, combining varied coastlines, numerous islands, and several major mountain ranges, including the Dinaric Alps, Apennines, and Dolomites. OnReTech plans to include a broad mix of urban centres such as Venice, Dubrovnik, Belgrade, Zagreb, Trieste, Bari, and Rijeka, connected by highways and rail networks.Â  Alongside this, a range of military airbases and civilian airports will be located across Italy, Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Kosovo.Â  The newsletter specifically highlights Aviano Air Base, home to the United States Air Force 31st Fighter Wing, and Venice Marco Polo Airport. The map is designed as a suitable theatre for aircraft such as the F-16C and MiG-29A, and will be accompanied by further additions to the popular Currenthill asset pack, including a Grisha-class corvette for coastal and anti-submarine operations, and an AI-only EC-665 Tiger UHT attack helicopter. You can check out the full newsletter here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ff777fnw</id>
-    <title>Flight Factorâs 777 Freighter Expansion to Launch This Week</title>
-    <updated>2025-11-17T00:00:00+00:00</updated>
-    <link href="/news/ff777fnw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691b4f0bc917354639e486ce_freight1.webp"/>
-    <summary>Sim: X-Plane. Flight Factor has recently teased their upcoming 777 Freighter Expansion for X-Plane 11 and 12, scheduled to launch this week. The long-awaited freighter expansion for Flight Factorâs 777-200ER V2 Ultimate is a week away from the virtual shelves, and selected streamers have already received preview keys from Flight Factor to showcase the product.  In similar fashion as of the 772, Flight Factorâs 777F will feature a deep systems simulation, a proprietary flight model within 2-5% of standard certification tests, true-to-life dimensions, authentic systems, a new weather radar, a custom sound system with 3D stereo engine sounds, a failure and maintenance system with over 1,000 simulated failures, an advanced EFB with SimBrief integration, and much more. â Thereâs no pricing information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jf146v242024</id>
     <title>Just Flightâs 146 Professional v2.4 Releasing by the End of the Month</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69232f568d1326d94bf6cce4_CRW_30.webp"/>
     <summary>Sim: X-Plane. Xometry have recently released their rendition of West Virginia International Yeager Airport (KCRW) for both X-Plane 11 and 12. Located in Kanawha County, it serves the capital of West Virginia, Charleston (not to be confused with Charleston, South Carolina, known for the assembly facility for B787), with more than 400,000 passenger operations per year. Opened in 1947, the Kanawha Airport served as a replacement for the old Charleston airport - Wertz Field, as it had to be closed due to the factory that had blocked the approach paths. American Airlines was the first airline to start operating flights from the new airport. Three years later, the airport received its first terminal.Â  In 1985, the airport was renamed to West Virginia International Yeager Airport, in honour of the legendary Chuck Yeager, the first man in the history of mankind to break the sound barrier, while flying a Bell X-1. The Yeager Airport is currently served by four airlines: American Eagle, Breeze Airways, Delta Connection and United Express, to 6 destinations, along with a seasonal route to Myrtle Beach, operated by Breeze. The Xometryâs rendition of West Virginia International Yeager Airport features high-resolution ground textures, detailed buildings, custom high-res mesh, SAM jetways and marshallers, custom night lighting, realistic vegetation and a high-resolution colour-corrected Ortho4XP patch. The scenery is available on the iniBuilds store for roughly $14.39, and requires at least 2.27GB of free disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-11-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkshel201</id>
+    <title>MK Studios Updates Helsinki-Vantaa Airport V2 for MSFS 2020/2024</title>
+    <updated>2025-11-24T00:00:00+00:00</updated>
+    <link href="/news/mkshel201"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691759cf8e315639349f692b_hel1.jpg"/>
+    <summary>Sim: FS24. MK Studios has recently issued an update to their newly released Helsinki-Vantaa Airport (EFHK) V2 for Microsoft Flight Simulator 2020 and 2024, bringing a series of fixes and improvements. Update v2.0.1 - the first since its release - introduces animated ground service equipment vehicles, jetway improvements, fixes missing materials at the terminal, and more. The complete changelog follows below: Itâs available on OrbxDirect for roughly $20.91, requiring at least 4.10 GB of free hard disk space to install. V1 owners get a 30% discount. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inimantrailer</id>
+    <title>iniBuilds Launches Manchester Airport Trailer for MSFS 2024</title>
+    <updated>2025-11-24T00:00:00+00:00</updated>
+    <link href="/news/inimantrailer"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6924e75205c33f97b68441ce_sco1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently launched the first trailer for their upcoming Manchester Airport (EGCC) for Microsoft Flight Simulator 2024, which is set to be released soon in their store. Their next addition to the British lineup is nearing completion, built with extreme attention to detail using thousands of reference photos and textures. They also gained insight into their daily operations, future expansion plans, and design updates, which helped them further increase overall accuracy. Furthermore, they have also gained access to Terminal 2, which is still under construction, photographing every detail to ensure the scenery is as accurate as possible. The scenery will feature hand-made ground textures, a true-to-life landside recreation, dynamic airport lighting, custom jetways, over 180 hand-crafted models, a full HD ground poly, an up-to-date ground layout, performance-friendly optimisation, and much more. Thereâs no release date or pricing yet, but iniBuilds says itâs âcoming soonâ to their store.  A huge thank you to SCOTSGOD for the images! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-24T00:00:00+00:00</published>
   </entry>
 </feed>
