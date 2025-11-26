@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-25T18:38:44.077816+00:00</updated>
+  <updated>2025-11-26T18:33:38.637345+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jf146v242024</id>
-    <title>Just Flightâs 146 Professional v2.4 Releasing by the End of the Month</title>
-    <updated>2025-11-17T00:00:00+00:00</updated>
-    <link href="/news/jf146v242024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691b50f142dd4063fed49569_bingo1.jpg"/>
-    <summary>Sim: FS24. Just Flight has recently provided a brief development update on their 146 Professional v2.4 update for Microsoft Flight Simulator 2020 and 2024, bringing full compatibility with the latter and introducing brand-new features yet to be revealed. The development process is nearing completion, and the team aims to release it by the end of the month for both platforms. As usual for Just Flight, this will be a free update for existing owners, and new buyers will benefit from a temporary discount upon launch. â They claim itâs the most substantial upgrade yet to the 146, bringing it up to pair with the RJ Professional in terms of features and realism. They will soon be sharing more photos, videos, and the âmassiveâ changelog. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fssoct</id>
     <title>Flight Sim Studios Shares E-Jets Progress for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6924e75205c33f97b68441ce_sco1.webp"/>
     <summary>Sim: FS24. iniBuilds has recently launched the first trailer for their upcoming Manchester Airport (EGCC) for Microsoft Flight Simulator 2024, which is set to be released soon in their store. Their next addition to the British lineup is nearing completion, built with extreme attention to detail using thousands of reference photos and textures. They also gained insight into their daily operations, future expansion plans, and design updates, which helped them further increase overall accuracy. Furthermore, they have also gained access to Terminal 2, which is still under construction, photographing every detail to ensure the scenery is as accurate as possible. The scenery will feature hand-made ground textures, a true-to-life landside recreation, dynamic airport lighting, custom jetways, over 180 hand-crafted models, a full HD ground poly, an up-to-date ground layout, performance-friendly optimisation, and much more. Thereâs no release date or pricing yet, but iniBuilds says itâs âcoming soonâ to their store.  A huge thank you to SCOTSGOD for the images! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdg73824new</id>
+    <title>PMDG Teases 737-800 Update for MSFS 2024</title>
+    <updated>2025-11-25T00:00:00+00:00</updated>
+    <link href="/news/pmdg73824new"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6731bf31f12ae04fad8a6dea_1250410_20240201232924_1.webp"/>
+    <summary>Sim: FS24. PMDG has recently shared two screenshots of the upcoming 737-800 upgrade for Microsoft Flight Simulator 2024, with âeven moreâ previews to come soon. In an unusual manner for PMDG, the post does not contain a developer update alongside the screenshots, but rather a single sentence stating that itâs progressing nicely. Although they have responded to some of the questions made by their customers, shedding some light on what we might expect from the upgrade: â There is no other information to be shared at the moment, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-25T00:00:00+00:00</published>
   </entry>
 </feed>
