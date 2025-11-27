@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-26T18:33:38.637345+00:00</updated>
+  <updated>2025-11-27T18:35:31.171879+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fssoct</id>
-    <title>Flight Sim Studios Shares E-Jets Progress for MSFS 2020/2024</title>
-    <updated>2025-11-17T00:00:00+00:00</updated>
-    <link href="/news/fssoct"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691b9a91a7bb9844e03f0331_Another-ejets-header.webp"/>
-    <summary>Sim: FS24. Flight Sim Studios (FSS) has released a development update on its awaited E-Jets overhaul for MSFS 2020 and MSFS 2024, highlighting progress on the custom FMS, improved navigation behaviour, and the final pieces still in the works. The new version has been in testing for several months, and according to FSS, with over 88 testers, logging more than 2,000 recorded sessions, identifying 64 issues, and prompting over 350 code changes. The aircraft, the studio says, is now fully flyable in normal operation. Major FMS pages are implemented, LNAV tracks reliably, and VNAV is already functional. Integrating Navigraph navdata proved to be one of the biggest hurdles, forcing a rebuild of the entire ILS system, but the team reports that it is now ârock solidâ. Significant fixes have also been made to SIDs, STARs, and unusual procedure types, along with a much-improved Direct-To function. Before the wider community can try it, the remaining blocker is the suite of vertical autopilot modes, which are still being refined to ensure stable behaviour. With LNAV now fully rebuilt for the new CFMS, the vertical logic is the last major component that can still misbehave, particularly during RNAV approaches. Sound logic and the EFBâs performance calculator also remain unfinished, as both require systems to be migrated from older frameworks. FSS plans to invite another 100 testers shortly. If progress on the autopilot continues at its current pace, the team aims to release an experimental, public build in December. This version will ship with a few known gaps, including missing sounds, such as the TO CONFIG check, and the temporary removal of the performance calculator. However, it is already described as being far more enjoyable to fly than the existing E-Jets release. Regarding a full v1.0, the developer is not yet ready to set a release date. Instead, they emphasise delivering the significantly improved version as soon as possible, regardless of what the eventual update is called.Â Read the full update here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-11-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mplbud</id>
-    <title>MicroProse Updates B-17G Flying Fortress to v0.9.2Â for MSFS 2024</title>
-    <updated>2025-11-17T00:00:00+00:00</updated>
-    <link href="/news/mplbud"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691ba7a575592fdcf3ae01bc_579314912_1273604118139836_1757491807982642047_n.webp"/>
-    <summary>Sim: FS24. MicroProse and Just Flight have released the second Early Access update for the B-17G Flying Fortress in MSFS 2024, titled the âLong Beachâ update (v0.9.2). The new build continues to refine the heavy bomber, focusing on cockpit detail, performance, and a few long-requested quality-of-life tweaks.Â  On the visual side, the developers have overhauled internal texture ambient occlusion baking, refined the internal 3D mesh, and resolved several internal LOD issues. Externally, various texture fixes and updates have been applied, and a new empty bare-metal livery has been added. Under the skin, the update adjusts the centre of gravity, applies further flight model and aerodynamic improvements, and corrects both the manifold pressure and vertical speed gauges, so that they now use the proper units. Spawning on the runway now loads the aircraft with all four boost pumps enabled by default, which should make quick-start operations in MSFS 2024 a little smoother.Â  The âLong Beachâ patch follows Octoberâs âSeattleâ update, which addressed LODs, mesh, and texture issues, as well as aircraft weights and dimensions. It also significantly reworked the fuel, engine, and system setup, laying much of the groundwork for the current round of refinements.Â  Existing owners of the Early Access B-17G Flying Fortress can download version 0.9.2 from the âYour Ordersâ section of their Just Flight account; new buyers will receive the latest version by default. You can get it here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/atanov</id>
     <title>Aerosoft and ToLiss Publish Third A340-600 Update for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6731bf31f12ae04fad8a6dea_1250410_20240201232924_1.webp"/>
     <summary>Sim: FS24. PMDG has recently shared two screenshots of the upcoming 737-800 upgrade for Microsoft Flight Simulator 2024, with âeven moreâ previews to come soon. In an unusual manner for PMDG, the post does not contain a developer update alongside the screenshots, but rather a single sentence stating that itâs progressing nicely. Although they have responded to some of the questions made by their customers, shedding some light on what we might expect from the upgrade: â There is no other information to be shared at the moment, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inimanrel24</id>
+    <title>iniBuilds Releases Manchester Airport for MSFS 2024</title>
+    <updated>2025-11-26T00:00:00+00:00</updated>
+    <link href="/news/inimanrel24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69276d4caaa895bf78ea910c_chester1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently released their rendition of Manchester Airport (EGCC) for Microsoft Flight Simulator 2024, serving Greater Manchester, in the United Kingdom, with a yearly average of 30.9 million passengers, making it the third-busiest airport in the country. It officially opened as Ringway Airport in 1938, and later, during World War II, it became RAF Ringway, serving as a Royal Air Force base that trained parachutists and provided grounds for military aircraft production. Post-war, it reverted to its civilian duties, rapidly becoming Britainâs second-busiest airport after London Heathrow. The buildings that once belonged to the RAF were replaced by a passenger terminal in 1962, featuring a modern departures hall (the first covered passenger piers in Europe). The airport underwent significant expansion during the 1980s and 1990s to meet the ever-growing passenger demands. By 1987, the airport was handling a million passengers per month. Terminal A, now part of Terminal 3, was inaugurated in 1989, followed by Terminal 2 in 1992, along with the opening of the Manchester Airport Station. The main terminal became Terminal 1. In the late 1990s, the second runway was constructed, causing massive protests in Cheshire, where people had to be relocated to make space for the runway. In 2019, they inaugurated the first phase of Terminal 2âs expansion project, and the second phase was completed two years later, in 2021. Itâs a hub for Aer Lingus UK, easyJet, Jet2, TUI Airways, Ryanair, and Virgin Atlantic. Aegean Airlines, Aer Lingus, Air Canada, Air France, Air Transat, British Airways, Cathay Pacific, Emirates, Eurowings, Finnair, Iberia Express, Icelandair, KLM, Lufthansa, Norwegian Air Shuttle, Royal Jordanian, Scandinavian Airlines, Swiss, TAP Air Portugal, Turkish Airlines, and Vueling also serve it. Their next addition to the British lineup was meticulously crafted, utilising thousands of reference photos and textures. They also gained insight into their daily operations, future expansion plans, and design updates, which helped them further increase overall accuracy. The scenery features hand-made ground textures, a true-to-life landside recreation, dynamic airport lighting, custom jetways, over 180 hand-crafted models, a full HD ground poly, an up-to-date ground layout, performance-friendly optimisation, and much more. â Itâs available in the iniBuilds Store for roughly $23.56, requiring at least 4.74 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfl14624out</id>
+    <title>Just Flight Releases 146 Professional v2.4 for MSFS 2020/2024</title>
+    <updated>2025-11-27T00:00:00+00:00</updated>
+    <link href="/news/jfl14624out"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/692890386068bd37c0c7eb33_ba1.jpg"/>
+    <summary>Sim: FS24. Just Flight has recently released the long-awaited 2.4 update for their 146 Professional for Microsoft Flight Simulator 2020, and now it is also compatible with Microsoft Flight Simulator 2024. Itâs their most substantial upgrade yet to the 146, bringing it up to pair feature-wise with the RJ Professional. There are over 200 items on the changelog, alongside the long-awaited native compatibility with Microsoft Flight Simulator 2024: The add-on is currently discounted by 30% as part of a Black Friday sale, and previous owners will receive the update for free.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-27T00:00:00+00:00</published>
   </entry>
 </feed>

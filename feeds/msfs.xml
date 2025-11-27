@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-11-26T18:33:32.435750+00:00</updated>
+  <updated>2025-11-27T18:35:25.670651+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/october-2nd-2025-development-update/</id>
-    <title>October 2nd, 2025 Development Update</title>
-    <updated>2025-10-02T23:01:01+00:00</updated>
-    <link href="https://www.flightsimulator.com/october-2nd-2025-development-update/"/>
-    <summary>This week’s Screenshot Challenge winner is X user vp_sim! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Following last week’s announcement that Microsoft Flight Simulator 2024 is coming to Sony PlayStation 5 and PlayStation 5 Pro consoles this December, applications to join the upcoming public beta … Continued</summary>
-    <published>2025-10-02T23:01:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-16th-2025-development-update/</id>
     <title>October 16th, 2025 Development Update</title>
@@ -29,18 +21,17 @@
     <title>Creator Highlight, October 2025 – AviationLads</title>
     <updated>2025-10-27T16:01:22+00:00</updated>
     <link href="https://www.flightsimulator.com/creator-highlight-aviationlads/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/Maurice-2025-Picture-1024x576.jpg"/>
     <summary>Our October 2025 Creator Highlight features Maurice Mockert, the creator behind the well-known cinematic trailer channel “AviationLads”. Since the launch of Microsoft Flight Simulator (2020), AviationLads has cemented their spot as one of the top creators of video trailers in the industry. Having worked with a plethora of leading 3rd party developers, Maurice is well … Continued</summary>
     <published>2025-10-27T16:01:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-6th-2025-development-update/</id>
-    <title>November 6th, 2025 Development Update</title>
-    <updated>2025-11-06T23:57:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-6th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/HeKa48-Forums-768x321.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Public beta testing for Sim Update 4 and the PlayStation 5 version of Microsoft Flight Simulator 2024 remain ongoing with multiple new test builds being released since our last weekly Development Update … Continued</summary>
-    <published>2025-11-06T23:57:59+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
+    <title>Creator Highlight, November 2025 – Capt. Arash</title>
+    <updated>2025-11-26T20:38:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/Capt_Arash_-_Image_1-1024x768.jpg"/>
+    <summary>Many simmers like flying the latest aircraft with modern glass cockpit avionics. Other simmers like the challenge of using Microsoft Flight Simulator to re-create the experiences of pilots from the golden age of aviation, long before the introduction of GPS to civilian flying, when aviators relied on map &amp; compass skills, dead reckoning, pilotage, star fixes, … Continued</summary>
+    <published>2025-11-26T20:38:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/jurassic-world-archipelago-by-orbx/</id>
@@ -88,13 +79,13 @@
     <published>2025-11-21T23:07:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-aviationlads/</id>
-    <title>Creator Highlight, October 2025 – AviationLads</title>
-    <updated>2025-10-27T16:01:22+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-aviationlads/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/10/Maurice-2025-Picture-768x432.jpg"/>
-    <summary>Our October 2025 Creator Highlight features Maurice Mockert, the creator behind the well-known cinematic trailer channel “AviationLads”. Since the launch of Microsoft Flight Simulator (2020), AviationLads has cemented their spot as one of the top creators of video trailers in the industry. Having worked with a plethora of leading 3rd party developers, Maurice is well … Continued</summary>
-    <published>2025-10-27T16:01:22+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
+    <title>Creator Highlight, November 2025 – Capt. Arash</title>
+    <updated>2025-11-26T20:38:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/Capt_Arash_-_Image_1-768x576.jpg"/>
+    <summary>Many simmers like flying the latest aircraft with modern glass cockpit avionics. Other simmers like the challenge of using Microsoft Flight Simulator to re-create the experiences of pilots from the golden age of aviation, long before the introduction of GPS to civilian flying, when aviators relied on map &amp; compass skills, dead reckoning, pilotage, star fixes, … Continued</summary>
+    <published>2025-11-26T20:38:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/october-30th-2025-development-update/</id>
@@ -142,13 +133,13 @@
     <published>2025-11-21T23:07:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/november-6th-2025-development-update/</id>
-    <title>November 6th, 2025 Development Update</title>
-    <updated>2025-11-06T23:57:59+00:00</updated>
-    <link href="https://www.flightsimulator.com/november-6th-2025-development-update/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/HeKa48-Forums-768x321.jpeg"/>
-    <summary>This week’s Screenshot Challenge winner is Forum user HeKa48! If you’re interested in participating in our weekly Screenshot Challenges, check out the details in the Community section below.Public beta testing for Sim Update 4 and the PlayStation 5 version of Microsoft Flight Simulator 2024 remain ongoing with multiple new test builds being released since our last weekly Development Update … Continued</summary>
-    <published>2025-11-06T23:57:59+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
+    <title>Creator Highlight, November 2025 – Capt. Arash</title>
+    <updated>2025-11-26T20:38:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/Capt_Arash_-_Image_1-768x576.jpg"/>
+    <summary>Many simmers like flying the latest aircraft with modern glass cockpit avionics. Other simmers like the challenge of using Microsoft Flight Simulator to re-create the experiences of pilots from the golden age of aviation, long before the introduction of GPS to civilian flying, when aviators relied on map &amp; compass skills, dead reckoning, pilotage, star fixes, … Continued</summary>
+    <published>2025-11-26T20:38:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/jurassic-world-archipelago-by-orbx/</id>
@@ -194,6 +185,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/MSFS2024_BlackFriday_Sale2025_v2_1920x1080-768x432.jpg"/>
     <summary>For 13 Days starting on November 20th, save up to 85% on more than 3800 items.</summary>
     <published>2025-11-21T23:07:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
+    <title>Creator Highlight, November 2025 – Capt. Arash</title>
+    <updated>2025-11-26T20:38:50+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/Capt_Arash_-_Image_1-768x576.jpg"/>
+    <summary>Many simmers like flying the latest aircraft with modern glass cockpit avionics. Other simmers like the challenge of using Microsoft Flight Simulator to re-create the experiences of pilots from the golden age of aviation, long before the introduction of GPS to civilian flying, when aviators relied on map &amp; compass skills, dead reckoning, pilotage, star fixes, … Continued</summary>
+    <published>2025-11-26T20:38:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-22/</id>
