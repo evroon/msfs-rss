@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-11-30T18:34:59.443084+00:00</updated>
+  <updated>2025-12-01T18:42:57.740180+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ff77fxp12rel</id>
-    <title>FlightFactor Releases 777 Freighter Upgrade for X-Plane 12</title>
-    <updated>2025-11-20T00:00:00+00:00</updated>
-    <link href="/news/ff77fxp12rel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691f76bd375f23bcec9a5bc6_freighter1.jpg"/>
-    <summary>Sim: X-Plane. FlightFactor has recently released their long-awaited 777 Freighter upgrade for X-Plane 12, expanding on their 777-200ER released earlier this year. In similar fashion as of the 772, Flight Factorâs 777F features a deep systems simulation, a proprietary flight model within 2-5% of standard certification tests, true-to-life dimensions, authentic systems, a new weather radar, a custom sound system with 3D stereo engine sounds, a failure and maintenance system with over 1,000 simulated failures, an advanced EFB with SimBrief integration, and much more. The complete feature list follows below: 777 Freighter version  Itâs available in the X-Plane.Org Store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jf124upnw</id>
     <title>Just Flightâs 146 Professional v2.4 Upgrade to Release Next Week</title>
@@ -150,6 +141,15 @@
     <link href="/news/navacm"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/692c82a14440b217ad2394b7_1A40mEzrmSA-HD.jpg"/>
     <summary>Sim: OTHER. Navigraph has launched Navigraph Academy, a new free training platform for those seeking more resources to sim like a real-world pilot.Â  Front and centre is the Virtual Private Pilot Licence (VPPL) course, which lets you practise core general aviation procedures. The VPPL course includes video lessons, written theory, quizzes, and in-sim exercises, mirroring the structure of real-world PPL training.Â  Students work through topics such as basic aerodynamics, aircraft handling, navigation, airspace, and standard operating procedures, with each lesson including a practical flying component that immediately applies the knowledge in the simulator. According to Navigraph, the material has been developed with real pilots and instructors to keep the syllabus as close as reasonably possible to actual aviation training while remaining accessible to newcomers.Â  Progress is tracked within the platform, and those who complete the full programme receive a digital certificate to mark their achievement. Navigraph Academy is free to use and does not require an active Navigraph subscription; only a standard account is required. The VPPL is the first of several planned courses, with instrument flying and instrument approaches already teased as âcoming soonâ.Â  With the trailer now live and the first course available, Navigraph Academy looks to become an interesting starting point for new simmers, and a more structured training path for people looking to take things a step up. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asc130</id>
+    <title>Airplane Simulation Company Releases C-130J for DCS World</title>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <link href="/news/asc130"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/692ca0c445e7a732143a3f40_o_to3uVRigs-HD.webp"/>
+    <summary>Sim: DCS. Airplane Simulation Company has released its C-130J Super Hercules for DCS World, landing alongside the latest simulator update, version 2.9.22.17790. The module brings a deeply simulated, fully interactive C130. The Hercules arrives with a clickable cockpit, modern digital avionics, and a detailed simulation of the AE 2100D3 turboprop engines. A standout feature is the first-person loadmaster mode, letting you walk through the cargo bay, move around the exterior, and handle loads directly. The aircraft supports vehicle transport, airdrops, and even deployment of the enormous GBU-43/B MOAB, all enhanced by DCSâs new dynamic cargo system. Thanks to the update, the C-130J can also act as a mobile logistics hub, spawning Forward Arming and Refuelling Points from delivered cargo. Multi-crew is supported at launch, with pilot and co-pilot roles available, and a third station planned.  Airplane Simulation Company notes a few early-access limitations, including occasional visual glitches when unloading cargo, restrictions on re-loading previously unloaded vehicles, and an in-game manual that misbehaves in VR. The C-130J is available now for $63.99 via Steam, the Eagle Dynamics e-shop, and the Airplane Simulation Company website. Read the full DCS 2.9.22.17790 changelog here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-30T00:00:00+00:00</published>
   </entry>
 </feed>
