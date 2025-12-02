@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-01T18:42:57.740180+00:00</updated>
+  <updated>2025-12-02T18:41:19.448389+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jf124upnw</id>
-    <title>Just Flightâs 146 Professional v2.4 Upgrade to Release Next Week</title>
-    <updated>2025-11-21T00:00:00+00:00</updated>
-    <link href="/news/jf124upnw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6920d612184c76d69878868f_bah1.jpg"/>
-    <summary>Sim: FS24. Just Flight has recently shared the substantial changelog for their upcoming 146 Professional v2.4 upgrade for Microsoft Flight Simulator 2020 and 2024, introducing numerous improvements and full compatibility with MSFS 2024. Currently discounted by 30% due to a Black Friday sale, the 146 Professional will receive a massive update next week - free of charge for previous owners -bringing feature parity with their RJ, native compatibility with Microsoft Flight Simulator 2024, and much more. The complete changelog follows below: If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/iniman24new</id>
     <title>iniBuilds Shares New Manchester Airport Previews for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/692ca0c445e7a732143a3f40_o_to3uVRigs-HD.webp"/>
     <summary>Sim: DCS. Airplane Simulation Company has released its C-130J Super Hercules for DCS World, landing alongside the latest simulator update, version 2.9.22.17790. The module brings a deeply simulated, fully interactive C130. The Hercules arrives with a clickable cockpit, modern digital avionics, and a detailed simulation of the AE 2100D3 turboprop engines. A standout feature is the first-person loadmaster mode, letting you walk through the cargo bay, move around the exterior, and handle loads directly. The aircraft supports vehicle transport, airdrops, and even deployment of the enormous GBU-43/B MOAB, all enhanced by DCSâs new dynamic cargo system. Thanks to the update, the C-130J can also act as a mobile logistics hub, spawning Forward Arming and Refuelling Points from delivered cargo. Multi-crew is supported at launch, with pilot and co-pilot roles available, and a third station planned.  Airplane Simulation Company notes a few early-access limitations, including occasional visual glitches when unloading cargo, restrictions on re-loading previously unloaded vehicles, and an in-game manual that misbehaves in VR. The C-130J is available now for $63.99 via Steam, the Eagle Dynamics e-shop, and the Airplane Simulation Company website. Read the full DCS 2.9.22.17790 changelog here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ludecp</id>
+    <title>More Previews of the LevelUp 737NG Series V2Â </title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <link href="/news/ludecp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/692f2e1a1a9f4eeaae6ac0b3_December-Update%20(1).webp"/>
+    <summary>Sim: X-Plane. LevelUp has shared a new development update on the 737NG Series V2 for X-Plane, confirming that V2 Stage 1 has now entered the âFinal Artworkâ phase. According to the team, core development for this first stage is largely complete, and the focus has now shifted to finishing touches, ahead of release later this year. In this phase, the updated aircraft has been handed over to a group of livery artists, who are porting their work to the new 3D model and texture set, while the testing team validates systems and handling. The team notes that the schedule remains on track with the previously announced window, targeting a Stage 1 release before the end of the year. V2 itself is a major refresh of the freeware 737NG Series, bringing a comprehensive visual and audio overhaul, including new high-resolution textures, revised modelling, and an updated sound set.Â  Stage 1 will deliver the bulk of those visual and sound upgrades, while a second stage is planned to introduce an all-new cockpit model and additional refinements, and to lay the groundwork for a future 737 MAX line, built on the same assets. Alongside the written update, LevelUp released two new preview images, highlighting the reworked mode control panel and exterior detailing around the CFM56 engines, wing, and landing gear, giving a closer look at the improved materials and surface work that V2 brings to the aircraft. The 737NG Series remains a freeware download for X-Plane, combining LevelUpâs custom 3D and visual work with systems derived from the popular Zibo mod. Once a firm date for V2 Stage 1 is confirmed, we will share it. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-02T00:00:00+00:00</published>
   </entry>
 </feed>
