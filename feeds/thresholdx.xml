@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-05T18:35:29.678192+00:00</updated>
+  <updated>2025-12-06T18:34:21.131827+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xomcrw</id>
-    <title>Xometry Releases West Virginia Yeager Airport for X-Plane 11/12</title>
-    <updated>2025-11-23T00:00:00+00:00</updated>
-    <link href="/news/xomcrw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69232f568d1326d94bf6cce4_CRW_30.webp"/>
-    <summary>Sim: X-Plane. Xometry have recently released their rendition of West Virginia International Yeager Airport (KCRW) for both X-Plane 11 and 12. Located in Kanawha County, it serves the capital of West Virginia, Charleston (not to be confused with Charleston, South Carolina, known for the assembly facility for B787), with more than 400,000 passenger operations per year. Opened in 1947, the Kanawha Airport served as a replacement for the old Charleston airport - Wertz Field, as it had to be closed due to the factory that had blocked the approach paths. American Airlines was the first airline to start operating flights from the new airport. Three years later, the airport received its first terminal.Â  In 1985, the airport was renamed to West Virginia International Yeager Airport, in honour of the legendary Chuck Yeager, the first man in the history of mankind to break the sound barrier, while flying a Bell X-1. The Yeager Airport is currently served by four airlines: American Eagle, Breeze Airways, Delta Connection and United Express, to 6 destinations, along with a seasonal route to Myrtle Beach, operated by Breeze. The Xometryâs rendition of West Virginia International Yeager Airport features high-resolution ground textures, detailed buildings, custom high-res mesh, SAM jetways and marshallers, custom night lighting, realistic vegetation and a high-resolution colour-corrected Ortho4XP patch. The scenery is available on the iniBuilds store for roughly $14.39, and requires at least 2.27GB of free disk space. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-11-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkshel201</id>
-    <title>MK Studios Updates Helsinki-Vantaa Airport V2 for MSFS 2020/2024</title>
-    <updated>2025-11-24T00:00:00+00:00</updated>
-    <link href="/news/mkshel201"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/691759cf8e315639349f692b_hel1.jpg"/>
-    <summary>Sim: FS24. MK Studios has recently issued an update to their newly released Helsinki-Vantaa Airport (EFHK) V2 for Microsoft Flight Simulator 2020 and 2024, bringing a series of fixes and improvements. Update v2.0.1 - the first since its release - introduces animated ground service equipment vehicles, jetway improvements, fixes missing materials at the terminal, and more. The complete changelog follows below: Itâs available on OrbxDirect for roughly $20.91, requiring at least 4.10 GB of free hard disk space to install. V1 owners get a 30% discount. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inimantrailer</id>
     <title>iniBuilds Launches Manchester Airport Trailer for MSFS 2024</title>
@@ -150,6 +132,24 @@
     <link href="/news/orbpng5"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6933246f17e15f8058ce63ec_guin1.webp"/>
     <summary>Sim: FS24. Orbx has recently released their fifth pack of Papua New Guinea Highland Bush Strips, featuring seven new airstrips (Dusin, Yomneri, Kanainj, Bank, Kombaku, Ambaluwa, Bundi). Bush airstrips in Papua New Guinea are generally the only gateway to certain remote villages, making them vital to their existence and the primary means of bringing in supplies. The weather is often harsh, the runways are often short and hand-carved, and the challenge is unparalleled. The pack leverages MSFS 2024âs powerful SDK to provide an even more immersive experience.  Each airstrip features their unique terminal buildings, infrastructure, signage, etc., and the developer (Ken Hall) plans to add more stuff in the near future. Itâs available on OrbxDirect for roughly $12.60, requiring at least 2.84 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ifly737sp1prev</id>
+    <title>iFly Shares 737 Max SP1 Previews for MSFS 2020/2024</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <link href="/news/ifly737sp1prev"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69332bea6958fb8ff9d3b012_sp1.webp"/>
+    <summary>Sim: FS24. iFly has recently shared a batch of work-in-progress screenshots of their upcoming Service Pack 1 update for their 737 Max, showcasing the -8200 expansion used by Ryanair, a basic weather radar, a new EFB, and more. They also made sure to highlight that thereâs no ETA for a release yet, and the new update isnât even in the hands of testers yet, still being a developer-only build in its current state. The add-on, albeit without the SP1 update yet, is available on Flight1 Software for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42flow24</id>
+    <title>Parallel 42 Releases Flow Pro and Flow Essentials for MSFS 2024</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <link href="/news/p42flow24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c484e60e0f603f34cdb776_pro.webp"/>
+    <summary>Sim: FS24. Parallel 42 has recently released Flow Pro and Flow Essentials for Microsoft Flight Simulator 2024, their popular customizable menu system first seen in late 2022 for Microsoft Flight Simulator 2020. â Originally built to challenge the status quo and offer a new and improved way of accessing and interacting with information within the simulator, Flow quickly became very popular among Microsoft Flight Simulator 2020 pilots, who were eager for it to become available in 2024 as well. â The developers had to rebuild the tool due to how much Microsoft Flight Simulator 2024 changed under the hood, which led to a few complications at first.  â Flow 2024 is a PC-only release and wonât be available for consoles. Current Flow Pro and Essentials owners are entitled to a $2 upgrade. â Itâs available on their website for $30 (Pro) and $20 (Essentials). The main difference between Essentials and Pro is that Essentials canât be modified, whereas Pro allows for custom scripting. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-05T00:00:00+00:00</published>
   </entry>
 </feed>
