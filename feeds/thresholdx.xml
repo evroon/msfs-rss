@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-06T18:34:21.131827+00:00</updated>
+  <updated>2025-12-07T18:34:15.821195+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inimantrailer</id>
-    <title>iniBuilds Launches Manchester Airport Trailer for MSFS 2024</title>
-    <updated>2025-11-24T00:00:00+00:00</updated>
-    <link href="/news/inimantrailer"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6924e75205c33f97b68441ce_sco1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently launched the first trailer for their upcoming Manchester Airport (EGCC) for Microsoft Flight Simulator 2024, which is set to be released soon in their store. Their next addition to the British lineup is nearing completion, built with extreme attention to detail using thousands of reference photos and textures. They also gained insight into their daily operations, future expansion plans, and design updates, which helped them further increase overall accuracy. Furthermore, they have also gained access to Terminal 2, which is still under construction, photographing every detail to ensure the scenery is as accurate as possible. The scenery will feature hand-made ground textures, a true-to-life landside recreation, dynamic airport lighting, custom jetways, over 180 hand-crafted models, a full HD ground poly, an up-to-date ground layout, performance-friendly optimisation, and much more. Thereâs no release date or pricing yet, but iniBuilds says itâs âcoming soonâ to their store.  A huge thank you to SCOTSGOD for the images! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmdg73824new</id>
-    <title>PMDG Teases 737-800 Update for MSFS 2024</title>
-    <updated>2025-11-25T00:00:00+00:00</updated>
-    <link href="/news/pmdg73824new"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6731bf31f12ae04fad8a6dea_1250410_20240201232924_1.webp"/>
-    <summary>Sim: FS24. PMDG has recently shared two screenshots of the upcoming 737-800 upgrade for Microsoft Flight Simulator 2024, with âeven moreâ previews to come soon. In an unusual manner for PMDG, the post does not contain a developer update alongside the screenshots, but rather a single sentence stating that itâs progressing nicely. Although they have responded to some of the questions made by their customers, shedding some light on what we might expect from the upgrade: â There is no other information to be shared at the moment, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-11-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inimanrel24</id>
     <title>iniBuilds Releases Manchester Airport for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c484e60e0f603f34cdb776_pro.webp"/>
     <summary>Sim: FS24. Parallel 42 has recently released Flow Pro and Flow Essentials for Microsoft Flight Simulator 2024, their popular customizable menu system first seen in late 2022 for Microsoft Flight Simulator 2020. â Originally built to challenge the status quo and offer a new and improved way of accessing and interacting with information within the simulator, Flow quickly became very popular among Microsoft Flight Simulator 2020 pilots, who were eager for it to become available in 2024 as well. â The developers had to rebuild the tool due to how much Microsoft Flight Simulator 2024 changed under the hood, which led to a few complications at first.  â Flow 2024 is a PC-only release and wonât be available for consoles. Current Flow Pro and Essentials owners are entitled to a $2 upgrade. â Itâs available on their website for $30 (Pro) and $20 (Essentials). The main difference between Essentials and Pro is that Essentials canât be modified, whereas Pro allows for custom scripting. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ibytoa</id>
+    <title>iBlueYonder Releases Starkâs Twin Oaks Airpark for MSFS 2024</title>
+    <updated>2025-12-06T00:00:00+00:00</updated>
+    <link href="/news/ibytoa"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693496703dac9a061db22dff_iby_7s3_contrail_02.webp"/>
+    <summary>Sim: FS24. iBlueYonder has released 7S3 Starkâs Twin Oaks Airpark for Microsoft Flight Simulator 2024, bringing a rebuilt version of the classic Oregon airfield to MSFS 2024.Â  Starkâs Twin Oaks Airpark is a small, privately operated general aviation field, operated by the Stark family since 1972. It sits in the Willamette Valley, about 17 nautical miles south-west of Portland International Airport, surrounded by farmland and orchards, with easy VFR routes to the Cascade Range, the Columbia River Gorge, and the Pacific coast. The new version features an accurate airport layout and buildings as of 2025, highly detailed ground polygons, several open hangars for parking, animated people, and animated birds around the field. True to the real location, the sloping, multi-level runway is modelled, and there are plenty of small touches, such as llamas near the airfield, and bespoke night lighting. Features: Starkâs Twin Oaks Airpark for MSFS 2024 is available now via the Contrail app and webshop for $10.68. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/onairdc</id>
+    <title>OnAir Launches Christmas Challenge 2025Â </title>
+    <updated>2025-12-06T00:00:00+00:00</updated>
+    <link href="/news/onairdc"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6934b13e2f4ea41d22229b1f_image001%5B60%5D.webp"/>
+    <summary>Sim: OTHER. OnAir Airline Manager has launched its Christmas Challenge 2025 event, âOperation Arctic Revitalisationâ. Running from Nov. 26 2025, 0830Z until Dec. 24 2025, 0830Z, the campaign sends pilots on a winter journey across Iceland and the Arctic region, to deliver fragile Healing Vials from ÃsafjÃ¶rÃ°ur Airport (BIIS) to Santaâs âHealing Houseâ, at Ivalo Airport (EFIV). The main mission follows a six-leg route via HÃ³lmavÃ­k, VÃ¡gar, Ãlesund, Mo i Rana, and Kiruna, using event aircraft, provided free of charge on each sector. The vials are carried in a sensitive stabiliser that reacts to harsh manoeuvres, so pilots must fly low, smooth, and precisely. Optional secondary flights deliver Dilithium Units from surrounding airports to keep the stabiliser powered and the mission progressing. Scoring awards 100 points for each completed main leg, plus a bonus based on the remaining condition of the Healing Vial. The top 10 players on the global leaderboard are guaranteed a prize from a pool that includes store vouchers, copies of the PMDG 737 for MSFS 2024, SayIntentions.AI subscriptions, and products from Pilot Experience Sim. Active companies can also earn an in-game credit bonus, based on their event revenue. The Christmas Challenge is open to both existing and new users, with a free seven-day trial of OnAir Airline Manager available for anyone who wants to take part. Full details, tutorials, and background story material are available on the official OnAir website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-06T00:00:00+00:00</published>
   </entry>
 </feed>
