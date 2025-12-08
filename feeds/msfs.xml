@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-12-07T18:34:10.490731+00:00</updated>
+  <updated>2025-12-08T18:40:11.394249+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/@vp_sim-Twitter-1024x576.jpeg"/>
     <summary>Weekly RecapWelcome PlayStation 5 simmers! On December 3, Microsoft Flight Simulator 2024 launched in Early Access for those who pre-ordered the Deluxe, Premium Deluxe, or Aviator Editions. This rolling deployment based on time zone is fully complete, and MSFS 2024 is now available to all Early Access PS5 players around the world.The full release of … Continued</summary>
     <published>2025-12-04T23:54:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale-3800-items-on-sale-now-in-the-marketplace/</id>
-    <title>Black Friday Sale: Microsoft Flight Simulator (2020) and 2024</title>
-    <updated>2025-11-21T23:07:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale-3800-items-on-sale-now-in-the-marketplace/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/MSFS2024_BlackFriday_Sale2025_v2_1920x1080-768x432.jpg"/>
-    <summary>For 13 Days starting on November 20th, save up to 85% on more than 3800 items.</summary>
-    <published>2025-11-21T23:07:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/@vp_sim-Twitter-768x432.jpeg"/>
     <summary>Weekly RecapWelcome PlayStation 5 simmers! On December 3, Microsoft Flight Simulator 2024 launched in Early Access for those who pre-ordered the Deluxe, Premium Deluxe, or Aviator Editions. This rolling deployment based on time zone is fully complete, and MSFS 2024 is now available to all Early Access PS5 players around the world.The full release of … Continued</summary>
     <published>2025-12-04T23:54:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-4-msfs-2024/</id>
+    <title>Release Notes – Sim Update 4 [1.6.32.0] Now Available | MSFS 2024</title>
+    <updated>2025-12-08T16:03:28+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-4-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/SU4-768x432.png"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 4 – release notes – 1.6.32.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.To … Continued</summary>
+    <published>2025-12-08T16:03:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-20th-2025-development-update/</id>
@@ -142,15 +142,6 @@
     <published>2025-12-04T23:54:10+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/black-friday-sale-3800-items-on-sale-now-in-the-marketplace/</id>
-    <title>Black Friday Sale: Microsoft Flight Simulator (2020) and 2024</title>
-    <updated>2025-11-21T23:07:17+00:00</updated>
-    <link href="https://www.flightsimulator.com/black-friday-sale-3800-items-on-sale-now-in-the-marketplace/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/11/MSFS2024_BlackFriday_Sale2025_v2_1920x1080-768x432.jpg"/>
-    <summary>For 13 Days starting on November 20th, save up to 85% on more than 3800 items.</summary>
-    <published>2025-11-21T23:07:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
     <title>Creator Highlight, November 2025 – Capt. Arash</title>
     <updated>2025-11-26T20:38:50+00:00</updated>
@@ -196,12 +187,13 @@
     <published>2025-12-04T23:54:10+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/jurassic-world-archipelago-by-orbx/</id>
-    <title>Jurassic World: Archipelago by Orbx</title>
-    <updated>2025-11-13T19:16:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/jurassic-world-archipelago-by-orbx/"/>
-    <summary>Developed in collaboration with Universal Products &amp; Experiences, Jurassic World: Archipelago invites you to explore the legendary Muertes Archipelago in stunning detail.</summary>
-    <published>2025-11-13T19:16:51+00:00</published>
+    <id>https://www.flightsimulator.com/sim-update-4-msfs-2024/</id>
+    <title>Release Notes – Sim Update 4 [1.6.32.0] Now Available | MSFS 2024</title>
+    <updated>2025-12-08T16:03:28+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-4-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/SU4-768x432.png"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 4 – release notes – 1.6.32.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.To … Continued</summary>
+    <published>2025-12-08T16:03:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/black-friday-sale-3800-items-on-sale-now-in-the-marketplace/</id>
@@ -216,8 +208,16 @@
     <title>Microsoft Flight Simulator 2024 Early Access for Sony PlayStation Is Now Live</title>
     <updated>2025-12-02T19:09:33+00:00</updated>
     <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/PS5_EarlyAccess_v02-1024x576.jpg"/>
     <summary>Microsoft Flight Simulator 2024 is now live on Sony PlayStation 5 and PlayStation 5 Pro consoles! This will be a rolling global release, with access unlocking at 8am in the local time zone of most regions. Please consult the release map below to see exactly when MSFS 2024 unlocks in your area.Early Access is available … Continued</summary>
     <published>2025-12-02T19:09:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/sim-update-4-msfs-2024/</id>
+    <title>Release Notes – Sim Update 4 [1.6.32.0] Now Available | MSFS 2024</title>
+    <updated>2025-12-08T16:03:28+00:00</updated>
+    <link href="https://www.flightsimulator.com/sim-update-4-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/SU4-1024x576.png"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 4 – release notes – 1.6.32.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.To … Continued</summary>
+    <published>2025-12-08T16:03:28+00:00</published>
   </entry>
 </feed>
