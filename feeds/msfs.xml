@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2025-12-09T18:36:06.223361+00:00</updated>
+  <updated>2025-12-10T18:38:51.595773+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -25,22 +25,13 @@
     <published>2025-11-26T20:38:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/december-4-2025-msfs-weekly-briefing/</id>
-    <title>December 4, 2025 MSFS Weekly Briefing</title>
-    <updated>2025-12-04T23:54:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/december-4-2025-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/@vp_sim-Twitter-1024x576.jpeg"/>
-    <summary>Weekly RecapWelcome PlayStation 5 simmers! On December 3, Microsoft Flight Simulator 2024 launched in Early Access for those who pre-ordered the Deluxe, Premium Deluxe, or Aviator Editions. This rolling deployment based on time zone is fully complete, and MSFS 2024 is now available to all Early Access PS5 players around the world.The full release of … Continued</summary>
-    <published>2025-12-04T23:54:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/</id>
-    <title>Microsoft Flight Simulator 2024 Early Access for Sony PlayStation Is Now Live</title>
-    <updated>2025-12-02T19:09:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/PS5_EarlyAccess_v02-768x432.jpg"/>
-    <summary>Microsoft Flight Simulator 2024 is now live on Sony PlayStation 5 and PlayStation 5 Pro consoles! This will be a rolling global release, with access unlocking at 8am in the local time zone of most regions. Please consult the release map below to see exactly when MSFS 2024 unlocks in your area.Early Access is available … Continued</summary>
-    <published>2025-12-02T19:09:33+00:00</published>
+    <id>https://www.flightsimulator.com/developer-highlight-taogs-hangar/</id>
+    <title>Developer Highlight: Taog’s Hangar and the UH-1H Huey</title>
+    <updated>2025-12-09T18:34:10+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-highlight-taogs-hangar/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/Microsoft-Flight-Simulator-2024-Screenshot-2025.12.08-18.31.40.20-1024x576.png"/>
+    <summary>Few aircraft in aviation history are as instantly recognizable as the Bell UH-1H Huey. In Microsoft Flight Simulator 2024, this legendary helicopter is now taking to the skies in partnership with Taog’s Hangar, a developer known for high-fidelity, community-driven rotorcraft. Download the Stranger Things Expansion for FREE and fly the Huey through its dedicated missions … Continued</summary>
+    <published>2025-12-09T18:34:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-dec-1-2025/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/MSFS24_Spotlight_Keyart_V5.1_16x9_WithLogos-768x432.png"/>
     <summary>Enter the world of Netflix’s Stranger Things and explore the faithful recreation of Hawkins. Two iconic franchises have come together to combine the authenticity and realism of Microsoft Flight Simulator 2024 with the exciting, mysterious world of Stranger Things. Think you have what it takes to fly a Bell UH-1H Huey and help the residents … Continued</summary>
     <published>2025-12-09T13:05:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/developer-highlight-taogs-hangar/</id>
+    <title>Developer Highlight: Taog’s Hangar and the UH-1H Huey</title>
+    <updated>2025-12-09T18:34:10+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-highlight-taogs-hangar/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/Microsoft-Flight-Simulator-2024-Screenshot-2025.12.08-18.31.40.20-768x432.png"/>
+    <summary>Few aircraft in aviation history are as instantly recognizable as the Bell UH-1H Huey. In Microsoft Flight Simulator 2024, this legendary helicopter is now taking to the skies in partnership with Taog’s Hangar, a developer known for high-fidelity, community-driven rotorcraft. Download the Stranger Things Expansion for FREE and fly the Huey through its dedicated missions … Continued</summary>
+    <published>2025-12-09T18:34:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/november-20th-2025-development-update/</id>
@@ -142,15 +142,6 @@
     <published>2025-12-04T23:54:10+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/</id>
-    <title>Microsoft Flight Simulator 2024 Early Access for Sony PlayStation Is Now Live</title>
-    <updated>2025-12-02T19:09:33+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/PS5_EarlyAccess_v02-768x432.jpg"/>
-    <summary>Microsoft Flight Simulator 2024 is now live on Sony PlayStation 5 and PlayStation 5 Pro consoles! This will be a rolling global release, with access unlocking at 8am in the local time zone of most regions. Please consult the release map below to see exactly when MSFS 2024 unlocks in your area.Early Access is available … Continued</summary>
-    <published>2025-12-02T19:09:33+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-dec-1-2025/</id>
     <title>Marketplace Update: Week of Dec 1, 2025</title>
     <updated>2025-12-04T23:49:12+00:00</updated>
@@ -194,6 +185,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/MSFS24_Spotlight_Keyart_V5.1_16x9_WithLogos-768x432.png"/>
     <summary>Enter the world of Netflix’s Stranger Things and explore the faithful recreation of Hawkins. Two iconic franchises have come together to combine the authenticity and realism of Microsoft Flight Simulator 2024 with the exciting, mysterious world of Stranger Things. Think you have what it takes to fly a Bell UH-1H Huey and help the residents … Continued</summary>
     <published>2025-12-09T13:05:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/developer-highlight-taogs-hangar/</id>
+    <title>Developer Highlight: Taog’s Hangar and the UH-1H Huey</title>
+    <updated>2025-12-09T18:34:10+00:00</updated>
+    <link href="https://www.flightsimulator.com/developer-highlight-taogs-hangar/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/Microsoft-Flight-Simulator-2024-Screenshot-2025.12.08-18.31.40.20-768x432.png"/>
+    <summary>Few aircraft in aviation history are as instantly recognizable as the Bell UH-1H Huey. In Microsoft Flight Simulator 2024, this legendary helicopter is now taking to the skies in partnership with Taog’s Hangar, a developer known for high-fidelity, community-driven rotorcraft. Download the Stranger Things Expansion for FREE and fly the Huey through its dedicated missions … Continued</summary>
+    <published>2025-12-09T18:34:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/</id>
