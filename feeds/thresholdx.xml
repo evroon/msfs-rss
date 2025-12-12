@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-11T18:39:29.478504+00:00</updated>
+  <updated>2025-12-12T18:39:51.744325+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/uk2exe</id>
-    <title>UK2000 Scenery Releases Exeter Airport for MSFS 2020/2024</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <link href="/news/uk2exe"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6931eee8fbc90023f2c2c058_exe1.webp"/>
-    <summary>Sim: FS24. UK2000 Scenery has recently released their rendition of Exeter Airport (EGTE) for Microsoft Flight Simulator 2020 and 2024, serving the counties of Devon, Cornwall, Somerset, and Dorset, with a yearly average of 382,000 passengers. It was officially opened in early 1937 as an airfield, with a tent serving as the terminal, before the construction of permanent structures would eventually follow. Shortly after its debut, the airport was used by the Royal Air Force as RAF Exeter, where the RAF Fighter Command was based and played a crucial role during the Battle of Britain. It was also used by the United States Army Air Forces Ninth Air Force as a troop transport base for D-Day. Immediately after the war, it was briefly occupied by a French air force fighter squadron serving under the RAF, which departed a year later. By 1947, it had been transferred to the Ministry of Civil Aviation for civilian use, although some RAF activity continued until the early 1950s. Scheduled services started in 1952, flying people to the Channel Islands and multiple charter destinations. A new terminal was built in the 1980s, along with a runway extension to ensure the safe operation of larger airplanes. The runway was recently resurfaced, and LED lighting was installed, resulting in a significant reduction in operating costs and maintenance. The scenery features an accurate rendition of the airport, with highly detailed buildings, realistic ground markings, custom night lighting, performance-friendly optimization, PBR materials, and much more. Itâs available on SimMarket for roughly $18.66, requiring at least 63.06 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbpng5</id>
-    <title>Orbx Releases PNG Highland Bush Strips Pack 5 for MSFS 2024</title>
-    <updated>2025-12-05T00:00:00+00:00</updated>
-    <link href="/news/orbpng5"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6933246f17e15f8058ce63ec_guin1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their fifth pack of Papua New Guinea Highland Bush Strips, featuring seven new airstrips (Dusin, Yomneri, Kanainj, Bank, Kombaku, Ambaluwa, Bundi). Bush airstrips in Papua New Guinea are generally the only gateway to certain remote villages, making them vital to their existence and the primary means of bringing in supplies. The weather is often harsh, the runways are often short and hand-carved, and the challenge is unparalleled. The pack leverages MSFS 2024âs powerful SDK to provide an even more immersive experience.  Each airstrip features their unique terminal buildings, infrastructure, signage, etc., and the developer (Ken Hall) plans to add more stuff in the near future. Itâs available on OrbxDirect for roughly $12.60, requiring at least 2.84 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ifly737sp1prev</id>
-    <title>iFly Shares 737 Max SP1 Previews for MSFS 2020/2024</title>
-    <updated>2025-12-05T00:00:00+00:00</updated>
-    <link href="/news/ifly737sp1prev"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69332bea6958fb8ff9d3b012_sp1.webp"/>
-    <summary>Sim: FS24. iFly has recently shared a batch of work-in-progress screenshots of their upcoming Service Pack 1 update for their 737 Max, showcasing the -8200 expansion used by Ryanair, a basic weather radar, a new EFB, and more. They also made sure to highlight that thereâs no ETA for a release yet, and the new update isnât even in the hands of testers yet, still being a developer-only build in its current state. The add-on, albeit without the SP1 update yet, is available on Flight1 Software for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p42flow24</id>
-    <title>Parallel 42 Releases Flow Pro and Flow Essentials for MSFS 2024</title>
-    <updated>2025-12-05T00:00:00+00:00</updated>
-    <link href="/news/p42flow24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68c484e60e0f603f34cdb776_pro.webp"/>
-    <summary>Sim: FS24. Parallel 42 has recently released Flow Pro and Flow Essentials for Microsoft Flight Simulator 2024, their popular customizable menu system first seen in late 2022 for Microsoft Flight Simulator 2020. â Originally built to challenge the status quo and offer a new and improved way of accessing and interacting with information within the simulator, Flow quickly became very popular among Microsoft Flight Simulator 2020 pilots, who were eager for it to become available in 2024 as well. â The developers had to rebuild the tool due to how much Microsoft Flight Simulator 2024 changed under the hood, which led to a few complications at first.  â Flow 2024 is a PC-only release and wonât be available for consoles. Current Flow Pro and Essentials owners are entitled to a $2 upgrade. â Itâs available on their website for $30 (Pro) and $20 (Essentials). The main difference between Essentials and Pro is that Essentials canât be modified, whereas Pro allows for custom scripting. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ibytoa</id>
-    <title>iBlueYonder Releases Starkâs Twin Oaks Airpark for MSFS 2024</title>
-    <updated>2025-12-06T00:00:00+00:00</updated>
-    <link href="/news/ibytoa"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693496703dac9a061db22dff_iby_7s3_contrail_02.webp"/>
-    <summary>Sim: FS24. iBlueYonder has released 7S3 Starkâs Twin Oaks Airpark for Microsoft Flight Simulator 2024, bringing a rebuilt version of the classic Oregon airfield to MSFS 2024.Â  Starkâs Twin Oaks Airpark is a small, privately operated general aviation field, operated by the Stark family since 1972. It sits in the Willamette Valley, about 17 nautical miles south-west of Portland International Airport, surrounded by farmland and orchards, with easy VFR routes to the Cascade Range, the Columbia River Gorge, and the Pacific coast. The new version features an accurate airport layout and buildings as of 2025, highly detailed ground polygons, several open hangars for parking, animated people, and animated birds around the field. True to the real location, the sloping, multi-level runway is modelled, and there are plenty of small touches, such as llamas near the airfield, and bespoke night lighting. Features: Starkâs Twin Oaks Airpark for MSFS 2024 is available now via the Contrail app and webshop for $10.68. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/onairdc</id>
-    <title>OnAir Launches Christmas Challenge 2025Â </title>
-    <updated>2025-12-06T00:00:00+00:00</updated>
-    <link href="/news/onairdc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6934b13e2f4ea41d22229b1f_image001%5B60%5D.webp"/>
-    <summary>Sim: OTHER. OnAir Airline Manager has launched its Christmas Challenge 2025 event, âOperation Arctic Revitalisationâ. Running from Nov. 26 2025, 0830Z until Dec. 24 2025, 0830Z, the campaign sends pilots on a winter journey across Iceland and the Arctic region, to deliver fragile Healing Vials from ÃsafjÃ¶rÃ°ur Airport (BIIS) to Santaâs âHealing Houseâ, at Ivalo Airport (EFIV). The main mission follows a six-leg route via HÃ³lmavÃ­k, VÃ¡gar, Ãlesund, Mo i Rana, and Kiruna, using event aircraft, provided free of charge on each sector. The vials are carried in a sensitive stabiliser that reacts to harsh manoeuvres, so pilots must fly low, smooth, and precisely. Optional secondary flights deliver Dilithium Units from surrounding airports to keep the stabiliser powered and the mission progressing. Scoring awards 100 points for each completed main leg, plus a bonus based on the remaining condition of the Healing Vial. The top 10 players on the global leaderboard are guaranteed a prize from a pool that includes store vouchers, copies of the PMDG 737 for MSFS 2024, SayIntentions.AI subscriptions, and products from Pilot Experience Sim. Active companies can also earn an in-game credit bonus, based on their event revenue. The Christmas Challenge is open to both existing and new users, with a free seven-day trial of OnAir Airline Manager available for anyone who wants to take part. Full details, tutorials, and background story material are available on the official OnAir website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fse26d</id>
     <title>FlightSimExpo 2026 Tickets Go on Sale This Week</title>
@@ -151,5 +97,59 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693afd810b86ca891f2ec171_Screenshot_2025-11-23_232724.jpg"/>
     <summary>Sim: FS24. In a recent Discord post, Skyward Simulations has shared some screenshots and a feature list for their upcoming Citation C680 Sovereign+ for Microsoft Flight Simulator 2024. This will be the team's second project and represents a huge leap for the team. Their first project was the relatively simple Diamond DA-50RG. A far cry from a Citation in both speed and complexity. The team notes how much progress has been made on the new project and promises that a release date announcement is coming soon. So far, the new plane has been confirmed to feature a fully simulated electrical system, anti-ice system, SimBrief integration, checklists, FADEC, autothrottle, EFB, fully modeled interior, G5000 avionics, and much more.Â Â  With their ambitions set so high, hopefully, Skyward Simulations can deliver this beautiful bird to a virtual hangar near you soon. You can check out the full feature list and more on their Discord.Â  Their DA-50RG can be found on the Microsoft Flight Simulator Marketplace and Orbx. It was originally released for Microsoft Flight Simulator 2020, so it lacks some fidelity on the walkaround, but it still represents an enjoyable experience that will help set your expectations for what is to come. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pyrmotorworks</id>
+    <title>Pyreegue Dev Co. Releases Motorworks: Traffic &amp; Transport (Europe) for MSFS 2024</title>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <link href="/news/pyrmotorworks"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b16518c519c243e3f1644_motor1.webp"/>
+    <summary>Sim: FS24. Pyreegue Dev Co. has recently released a comprehensive pack of European vehicles for Microsoft Flight Simulator 2024, replacing generic traffic, parking lot, and special scenery vehicles with over 40 unique and high-quality models. While the cars are European, they replace vehicles globally (sim limitation), spanning different regions, as listed on this map. All vehicles feature 4K textures (with a lower texture option for performance-constrained rigs), accurately scaled, properly LOD'd (allowing for a significant performance boost), and region-accurate license plates for Europe. Additionally, over 40 highly optimized parking lot vehicles are included. Itâs available on Contrail for roughly $10, requiring at least 1.48 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inimanup</id>
+    <title>iniBuilds Updates Manchester Airport for MSFS 2024</title>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <link href="/news/inimanup"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b182ae7e9c11fca03b879_inimanup.jpg"/>
+    <summary>Sim: FS24. iniBuilds has recently issued an update to their newly released Manchester Airport (EGCC) for Microsoft Flight Simulator 2024, bringing taxiway realignments, updated ground markings, and more.  â Update v1.0.2 addresses visual bugs, misalignments, and adds missing airline parking codes, as well as taxi light adjustments, among other improvements. The complete changelog follows below: â v1.0.2 - Taxiways E &amp; D shifted as appropriate to allow additional parallel spacing - All markings, connections and lighting adjusted to suit - Changed layout of D/E connection at NC - Some taxi sign adjustments - Moved blast wall to correct diagonal position. - Moved GSE per above - Added missing airline parking codes - Fixed z-fighting T1/3 - Fixed floating approach light 23R - Fixed mast light colouring - Fixed bugged exclusion on default street lights â The scenery is available in the iniBuilds Store for roughly $23.92, requiring at least 4.76 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/atcvfr</id>
+    <title>BeyondATC Announces VFR Support</title>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <link href="/news/atcvfr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b45fb1d4a36abbbf14bca_fgsgdg453.webp"/>
+    <summary>Sim: FS24. BeyondATC has released a YouTube video giving, the community insight into the programâs current status and future.Â  After the team spent 10 months stabilising the program's core features, they announced they are ready to move on to developing visual flight rules (VFR). The team plans to roll out VFR in phases, with coverage expanding over time.  In phase one, VFR coverage will be provided for the United States, the United Kingdom, and Australia, with a focus on circuit entry and exit. Phase two will introduce different types of airspace, while phase three will allow the completion of full VFR flights. The team notes that it will take time to roll out these features. However, if the developersâ plans go as expected, simmers will soon have new ways to integrate air traffic control into their flying experience.Â  To learn more about BeyondATC, you can check out their official website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fpifly</id>
+    <title>Flight Panels Releases iFly 737 MAX8 Stream Deck Profile for MSFS 2020/2024</title>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <link href="/news/fpifly"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b4c559033dabe4312487d_Store_-_iFly_Boeing_737_Max_8_-_Page_1.webp"/>
+    <summary>Sim: FS24. Flight Panels has released a new Stream Deck profile for Microsoft Flight Simulator 2020 and 2024. This time, the iFly Boeing 737 Max 8 is in focus. The package spans 34 pages and includes more than 1,200 images and over 830 custom-designed, pre-programmed buttons.  These mirror the layout and style of the iFly cockpit, allowing simmers to operate autopilot, radio, lighting, overhead systems, and other controls directly from their Stream Deck, rather than using a keyboard and mouse. The profile also exposes controls for ground services, aircraft performance information, ATIS, and various cockpit and cabin features.  It is designed to take advantage of newer MSFS 2024 features, including walkaround and external interaction points. Both 15 and 32 key layouts are included, with support for the Elgato Stream Deck XL, Stream Deck MK.2, Stream Deck Mobile on iOS and Android, and the Corsair Xeneon Edge.Â  The iFly 737 Max 8 Stream Deck profile is available now for $33 from the Flight Panels store and selected third-party marketplaces. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/flight-sim-awards-2026---were-back</id>
+    <title>Flight Sim Awards 2026  â  Weâre Back</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <link href="/news/flight-sim-awards-2026---were-back"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693ae05463e6d63e62e67e84_FLIGHTSIM_AWARDS_2026_at_FSWeekend__Celebrating_t_11-12-2025-15_14_45.png"/>
+    <summary>Sim: OTHER. The Flight Sim Awards are coming back for 2026! The first award ceremony we held earlier this year was met with great enthusiasm from both developers and community members. All the feedback and lessons from last year have been taken into account, and efforts have been made to ensure that the Flight Sim Awards 2026 is bigger, better, and ready to celebrate in a meaningful way. The organizing committee, comprising FSElite, Cruiselevel, and Threshold, has been working diligently on the next ceremony, reviewing the structure to ensure a fair, transparent, and meaningful selection process. The awards continue to honour excellence and long-term contributions within the flight simulation community, recognizing achievements in development, creativity, and community engagement. In the updated structure, we aimed to create space for developers and creators who may not have fit naturally into previous categories. Each category has been reviewed to ensure relevance, clarity, and a balanced representation of the many areas that advance our hobby. We also added categories to highlight community contributions, which are often overlooked. All entries are evaluated according to shared principles: Each category represents a part of what makes flight simulation thrive: creativity, precision, and the human dedication behind the virtual skies. More information on the nomination process and jury panel will follow shortly. The next Flight Sim Awards ceremony will once again take place during the Captainâs Dinner at Flight Sim Weekend on Friday, March 20th, 2026. You can find more information on our website and tickets to FlightSimWeekend and the Captains Dinner here. Join the Flight Sim Awards Discord and be a part of the Awards community</summary>
+    <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2aaerostaset</id>
+    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020/2024</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <link href="/news/a2aaerostaset"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c5fc6827fb40830e4fac5_aerostarup.jpg"/>
+    <summary>Sim: FS24. A2A Simulations has recently issued a new update to their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020 and 2024, adding visible passengers on all seats, multiple bug fixes, and more. â This update focuses on refining systems, sounds, visuals, physics, and avionics, with some quality-of-life improvements sprinkled on top. The complete changelog follows below: â Changelog MSFS 2020 Specific â The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-12T00:00:00+00:00</published>
   </entry>
 </feed>
