@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-12T18:39:51.744325+00:00</updated>
+  <updated>2025-12-13T18:34:15.312573+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fse26d</id>
-    <title>FlightSimExpo 2026 Tickets Go on Sale This Week</title>
-    <updated>2025-12-07T00:00:00+00:00</updated>
-    <link href="/news/fse26d"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693608ac172c409c55fcb9a9_og.webp"/>
-    <summary>Sim: OTHER. Flight Simulation Association has confirmed that tickets for FlightSimExpo 2026 will go on sale at 1200 CT on Sunday, 14 December. The show returns on 12-14 June 2026, at the Saint Paul RiverCentre in Minnesota, a short drive from MinneapolisâSaint Paul International Airport and the Mall of America. An âEntire Eventâ ticket covers all seminars and workshops, â#FSExpoFridayâ product announcements, three days of exhibits, the new Friday Exhibit Hall Preview, and access to post-event seminar recordings.Â  Pricing starts at $50 for the first 200 FSA Captains, while the standard âEntire Eventâ ticket for non-Captains is set at $75, with new single-day options available.  Co-founder Phil Coyle notes that last year the same ticket was $84, and that attendees this time âget 20% more time in the exhibit hallâ. Alongside the lower ticket prices, FlightSimExpo highlights hotel rates that are about 25% cheaper than at the 2025 event, with rooms starting from 149 dollars per night, plus tax.Â  Discounted fares with Delta, United, Southwest, and codeshare partners are already live, together with car-rental offers.  You can also purchase a membership for FSA Captain and online event access from the website. As usual, developers, hardware manufacturers, communities, and other organisations are invited to participate as sponsors, exhibitors, and speakers, with booth packages, including furnishings, internet, electricity, and event passes.Â  The team promises everything from product reveals and hands-on exhibits to virtual reality and training demonstrations, and a full seminar programme, with an initial list of sponsors and exhibitors to be published in March 2026. More information on registration, partner opportunities, and travel offers can be found on the FlightSimExpo website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fse2d2</id>
-    <title>FlightSimExpo 2026 Announces Friday Exhibit Hall Preview And Single-Day Tickets</title>
-    <updated>2025-12-07T00:00:00+00:00</updated>
-    <link href="/news/fse2d2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693610f7ff71790a2327f760_Friday%20(1).webp"/>
-    <summary>Sim: OTHER. Flight Simulation Association has announced several changes for FlightSimExpo 2026, including Friday exhibit hall access for the first time, and new single-day ticket options for attendees who cannot commit to the full three-day show. New for 2026, the exhibit hall at the Saint Paul RiverCentre will open on Friday, 12 June, from 2130Z to 0000Z, directly after #FSExpoFridayâs product reveals and developer updates, which now begin at 1700Z.Â  FSA Co-Founder Evan Reiter said the change is a direct response to attendee feedback, noting that âthis change allows us to offer attendees 20% more time in the exhibit hall without changing the overall travel footprint for our partnersâ. The rest of the weekend schedule remains familiar, with announcements, hands-on exhibits and demonstrations, product updates, developer Q&amp;As, workshops, and more on Saturday and Sunday.Â  Co-Founder Phil Coyle added that the team is planning additional off-site activities, such as tower and airport tours and museum visits, with details to follow in early 2026. Alongside the expanded Friday programme, FlightSimExpo 2026 will introduce new single-day ticket options.  In addition to a full âEntire Eventâ ticket, attendees will be able to purchase Friday-only, Saturday-only, or Sunday-only access, aimed particularly at simmers who cannot attend all three days, especially those local to the MinneapolisâSaint Paul area. Sponsor, exhibitor, and speaker registration is open now. Software developers, hardware vendors, non-profits, and other flight simulation organisations can book all-inclusive booth packages, that include furnishings, internet, electricity, and event passes, with educational speaking slots available at no charge. Attendees who cannot travel to Minnesota will again be able to follow #FSExpoFriday and the weekend seminars online, via the FSA Captain subscription, or a one-time online-only ticket. FlightSimExpo 2026 takes place on 12-14 June 2026 at the Saint Paul RiverCentre, approximately eight miles from MinneapolisâSaint Paul International Airport. Tickets go on sale on 14. December, and you can read more here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sasdec</id>
     <title>SimAtlas Launches Subscription Library for MSFS Payware Add-ons</title>
@@ -150,6 +132,24 @@
     <link href="/news/a2aaerostaset"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c5fc6827fb40830e4fac5_aerostarup.jpg"/>
     <summary>Sim: FS24. A2A Simulations has recently issued a new update to their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020 and 2024, adding visible passengers on all seats, multiple bug fixes, and more. â This update focuses on refining systems, sounds, visuals, physics, and avionics, with some quality-of-life improvements sprinkled on top. The complete changelog follows below: â Changelog MSFS 2020 Specific â The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42twxr</id>
+    <title>Parallel 42 Releases Typical Weather for MSFS 2024</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <link href="/news/p42twxr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c6410cece5aee88ec7d30_wx1.webp"/>
+    <summary>Sim: FS24. Parallel 42 has recently released their first weather-related add-on for Microsoft Flight Simulator 2024, named âTypical Weather,â due to the fact that it does not use live weather data but a historical compilation of weather figures from around the world, providing a typical METAR for that specific period of the year. Typical Weather is âan intelligent, location-aware weather engine that adapts to where and when you flyâ, bringing a completely new approach to weather in simulators, delivering conditions that make sense for the place you are flying in without the unpredictability of live weather. Parallel 42 argues that live weather is âinconsistentâ, allowing for clear sunny days in the middle of winter, contrary to the expectation of what you would expect from a determined location. Typical Weather prevents that from happening by using historical weather data from over 9,000 weather stations and nearly 20 million sample points, always providing what would be rather usual throughout the year. The plugin also allows the user to choose from atypical conditions if desired, with options ranging from fair to hazy, foggy, windy, precipitating, stormy, or IFR, all based on the region being flown in. Furthermore, the apps panel will also provide a detailed METAR, with wind and gust visualization, and the possibility to synchronize everything for multiplayer sessions, in addition to being either static or dynamic. â Itâs available in their store for $20. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lr1233</id>
+    <title>Laminar Research Releases 12.3.3 Hotfix for X-Plane 12â</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <link href="/news/lr1233"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c99aacd333ac25b195e82_ReleaseNotes_XP12.3.3.webp"/>
+    <summary>Sim: X-Plane. Laminar Research has recently released a hotfix for X-Plane 12 to address a few minor issues found in their latest release.Â  The current iteration of X-Plane has been supported since December 2022. Since that time, many patches have been released, to fix bugs and expand on features.Â  According to this round of patch notes, X-Plane 12.3.3 addresses an issue with the latest version of Nvidia's Graphics Driver, as well as addressing an instancing objects issue within the software development kit.  Mac users are also told to check that they have the latest installer version, 5.2.1. Recent updates have focused on air traffic control, weather, cloud visuals, flight lessons, and general visual enhancements.  According to Laminar Researchâs roadmap, version 12.4 will be a âC-Checkâ, focusing on systems and the user experience. You can get the update by simply running X-Plane 12 and following the update instructions. If you have yet to try X-Plane 12, you can try a free demo here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-12T00:00:00+00:00</published>
   </entry>
 </feed>
