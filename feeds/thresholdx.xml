@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-14T18:36:04.861670+00:00</updated>
+  <updated>2025-12-15T18:40:39.544285+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/sasdec</id>
-    <title>SimAtlas Launches Subscription Library for MSFS Payware Add-ons</title>
-    <updated>2025-12-08T00:00:00+00:00</updated>
-    <link href="/news/sasdec"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6936f69bf0f73f73487e54a1_SimAtlas%20Logo.jpg"/>
-    <summary>Sim: OTHER. SimAtlas has officially launched as a subscription service for Microsoft Flight Simulator, offering PC users a new way to access payware add-ons.  For a promotional rate of $12 per month initially, and $16 per month thereafter, subscribers gain access to a library of more than 100 payware products, representing over $1,400 in combined retail value. Content is licensed directly from developers and delivered through a dedicated desktop client, which handles installation, updates, and Community folder management automatically.  The software is designed to work alongside AI traffic packages and GSX, and needs to remain open while MSFS is running.  The team says its goal is to make high-quality content easier to discover, and significantly more affordable to enjoy, while still supporting creators financially, and stresses that SimAtlas does not remove or restrict existing one-time purchase options.  A free demo tier with select freeware content is also available, allowing users to test the platform before committing to a paid plan. For developers, SimAtlas offers a recurring revenue model on top of existing sales channels. Content is wrapped in the clientâs DRM system and remains accessible only to active subscribers, with the company stating that a significant majority of subscription income is returned to participating developers as royalties.  Studios may choose to license a single product or an entire catalogue, and the platform supports all add-on types that live in the Community folder. Freeware authors can also distribute their work through the free tier for additional visibility, albeit without monetisation. Further information, including the current content line-up and developer onboarding details, is available on the official website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msfssu4rel</id>
-    <title>Microsoft Releases Sim Update 4 for MSFS 2024</title>
-    <updated>2025-12-08T00:00:00+00:00</updated>
-    <link href="/news/msfssu4rel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693717494decabc2eb142f58_SU4.webp"/>
-    <summary>Sim: FS24. Microsoft has recently released the long-awaited Sim Update 4 for Microsoft Flight Simulator 2024, introducing substantial performance improvements, numerous bug fixes, and additional enhancements. â With a kilometer-long checklist, Sim Update 4 might just be the most important Microsoft Flight Simulator 2024 patch yet, bringing huge improvements to the table, especially on the performance front, where it had been previously lacking, being borderline unplayable on systems with not enough VRAM due to how DirectX 12 handles that by nature, tanking performance and causing stutters. SU4 attempts to lower that footprint slightly, allowing breathing room for it to work without major hiccups here and there. â Furthermore, the update also adds the Boom XB-1 and launches the Red Bull Air Races mode. The complete changelog follows below: â The update is now available on all compatible platforms. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â â</summary>
-    <published>2025-12-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a2amanche24</id>
     <title>A2A Simulations Announces Native Accu-Sim Comanche 250 Update for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c99aacd333ac25b195e82_ReleaseNotes_XP12.3.3.webp"/>
     <summary>Sim: X-Plane. Laminar Research has recently released a hotfix for X-Plane 12 to address a few minor issues found in their latest release.Â  The current iteration of X-Plane has been supported since December 2022. Since that time, many patches have been released, to fix bugs and expand on features.Â  According to this round of patch notes, X-Plane 12.3.3 addresses an issue with the latest version of Nvidia's Graphics Driver, as well as addressing an instancing objects issue within the software development kit.  Mac users are also told to check that they have the latest installer version, 5.2.1. Recent updates have focused on air traffic control, weather, cloud visuals, flight lessons, and general visual enhancements.  According to Laminar Researchâs roadmap, version 12.4 will be a âC-Checkâ, focusing on systems and the user experience. You can get the update by simply running X-Plane 12 and following the update instructions. If you have yet to try X-Plane 12, you can try a free demo here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fse26t</id>
+    <title>FlightSimExpo 2026 Tickets Now On Sale</title>
+    <updated>2025-12-14T00:00:00+00:00</updated>
+    <link href="/news/fse26t"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b7500fcdfc5dd98c62e07a_2025_1.webp"/>
+    <summary>Sim: OTHER. Tickets are now on sale for FlightSimExpo 2026, which will take place at Saint Paul RiverCentre in Minnesota, from Jun. 12-14, 2026.Â  Ticket sales opened today at 1800Z (1200 Central Time).  To attend, you can purchase the"Entire Event" ticket, which costs $75 for general attendees. It includes #FSExpoFriday product announcement seminars, the new Friday Exhibit Hall Preview, three days of exhibits, weekend seminars and workshops, plus access to post-event seminar recordings. FSA Captains receive additional discounts.  The first 200 Captains to register can secure an "Entire Event" ticket for $50, a discount of more than $30 compared to the standard rate, along with various other perks, such as a dedicated entrance line, priority add-on registration, and year-round discounts, through FSA. For those who prefer to attend on a specific day, single-day tickets are available for $40 on Friday, $50 on Saturday, and $30 on Sunday.  Each option includes exhibit hall access, that dayâs seminars and workshops, and the usual badge, lanyard, and giveaways, with online viewing of seminars included for all ticket types. FSA highlights hotel rates starting at $149 per night, plus tax, at partner properties near the venue, which is about 25% cheaper than last year.  Discounted fares with Delta, United, Southwest, and selected codeshare partners are also available for flights into MinneapolisâSaint Paul International Airport. As in previous years, exhibitors, hardware manufacturers, communities, and training organisations are invited to participate as sponsors, exhibitors, and speakers, with booth packages including furnishings, internet, electricity, and event passes.  An initial list of partners for the 2026 show is expected in March 2026. More information on tickets, FSA Captain membership, exhibitor opportunities, and travel discounts is available via the official FlightSimExpo website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdg73818</id>
+    <title>PMDGâs 738NG for MSFS 2024 to Release on Thursday</title>
+    <updated>2025-12-15T00:00:00+00:00</updated>
+    <link href="/news/pmdg73818"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694055a2a2c7bdc35b2eb5de_maxi.jpg"/>
+    <summary>Sim: FS24. PMDG has published another development update regarding their upcoming 737-800 upgrade for Microsoft Flight Simulator 2024, which will feature a comprehensive overhaul, including a new cabin, new cockpit textures, new sounds, and more. â The developers argue that their original 738 is a really old product in software terms (3.5 years old), and they had not yet fully understood the simulatorâs potential at the time of release. 2024 has given them the opportunity to dive deeper into the potential offered by the new platform and bring it up to modern standards. â Itâs said to be a significant overhaul of the 737 product line, wholly capitalizing on the simâs capabilities: a new cockpit with new materials, lidar scanned models, new lighting, new surface textures; a new cabin, new interactable items around the airplane, customized door logic, operable cockpit windows, and a new 3D sound-set built by a professional sound engineering team whose lead sound engineer is also a type-rated 737 captain. â While there are still some cleanup details to finish around the external area, PMDG hopes to release it on Thursday (18/12), just before Christmas, so people can enjoy their Christmas break flying the brand-new product in Microsoft Flight Simulator 2024. â They have also listed a few FAQ such as price (in line with previous products), discount for previous owners (previous owners will in fact get a discount, both on marketplace and pmdg.com), discount across purchase venues (if you bought it on marketplace, it will be only applicable to marketplace, and so on), and the potential release date for the other 737s (-600 and -900 in January, and -700 in February). âIf you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-15T00:00:00+00:00</published>
   </entry>
 </feed>
