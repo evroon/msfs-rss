@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-17T18:41:28.925296+00:00</updated>
+  <updated>2025-12-18T18:40:31.290747+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/flysbje24</id>
-    <title>flyt Simulations Updates Jericoacoara Airport for MSFS 2024</title>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <link href="/news/flysbje24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69385b51e43554672176f031_je1.jpg"/>
-    <summary>Sim: FS24. flyt Simulations has recently released a Microsoft Flight Simulator 2024-native version of Comandante Ariston Pessoa Regional Airport (SBJE), offering full compatibility, reduced VRAM usage, and additional features. Funded by a government plan to develop regional aviation in Brazil, construction work began in 2011 and concluded three years later. The inauguration, however, only took place in 2017 after a series of organizational mishaps. The passenger terminal, designed by Francisco Antonio Laprovitera Teixeira, consists of a single block with departure and arrival areas, food kiosks, bathrooms at each extremity, andâunfortunatelyâfew check-in desks. Its 2200m runway is long enough to accommodate an Airbus A320 and its Boeing counterpart, the 737-800. â Itâs served by Azul (Belo Horizonte), Azul Conecta (Fortaleza, ParnaÃ­ba), Gol Transportes AÃ©reos (SÃ£o Paulo - Guarulhos), and LATAM Brasil (SÃ£o Paulo - Guarulhos). The update introduces native MSFS 2024 compatibility, reduced VRAM usage, enhanced LOD optimization, new vegetation models, and terrain CGL changes.  â Itâs available in the Marketplace for $9.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/msstex</id>
-    <title>Microsoft Releases Stranger Things Expansion for MSFS 2024</title>
-    <updated>2025-12-10T00:00:00+00:00</updated>
-    <link href="/news/msstex"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6939fa912fde9293d7bf5633_MSFS24_Spotlight_Keyart_V5.1_16x9_WithLogos-scaled.webp"/>
-    <summary>Sim: FS24. In a move that might turn a few heads, Microsoft Flight Simulator 2024 has received a free Stranger Things expansion, created in partnership with Netflix. The package drops the Simmer in Hawkins, Indiana, and asks them to support the town, as it faces lockdowns, patrols, and threats from the Upside Down. At the centre of the expansion is a Bell UH-1H Huey, in Hawkins Heli-Tours colours, flown under the watch of Murray Bauman. Players can complete five story-driven missions that include everything from rescue work to supply runs and chase sequences, before unlocking a tour mode that allows free exploration.Â  The release also adds a detailed recreation of Hawkins, with more than 40 recognisable locations from the series, along with themed avatar outfits and "supernatural encounters. The helicopter itself has been developed by Taogâs Hangar, which is now confirmed as a first-party partner on Microsoft Flight Simulator 2024.Â Â  The Stranger Things Expansion is available now, through the in-sim Marketplace on PC, Xbox, and PlayStation. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/rsfdec</id>
-    <title>Rowsfire Opens Pre-orders for New 1:1 Panels</title>
-    <updated>2025-12-10T00:00:00+00:00</updated>
-    <link href="/news/rsfdec"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6939fe993d278c0f42dae6d9_rowsfire_a9cb7fa2-7310-4faf-8509-58c9f42fb826%20(1).webp"/>
-    <summary>Sim: OTHER. Rowsfire has opened pre-orders for a new range of 1:1-scale Airbus-style panels for home cockpit builders.Â  The line-up includes the A111 RMP-ACP Radio and Audio Panel, the A112 Cockpit Lighting and Weather Radar Integrated Panel, the A113 Cockpit Lighting, DFOR, and ATC Integrated Panel, and the A109 ATT, ADIRS, and EIS Integrated Panel.Â  â According to the company, the first early-bird batch of A111, A112, and A113 units sold out within 2 days, and further production slots are now available. Each module is built with full-scale dimensions, dedicated hardware controls, and support for Microsoft Flight Simulator, via Rowsfireâs own interface layer.  The panels are intended to drop into existing desktop or shell cockpits, offering a more realistic alternative to mouse-driven virtual controls while keeping wiring and setup accessible to enthusiasts. Further details on pricing, availability, and the new panels can be found on the official website of Rowsfire. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sflyat</id>
     <title>SoFly Confirms December Release For AeroTone Audio Enhancer</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6942a6ec48a8ef4b8c6123ce_Banner_Image.webp"/>
     <summary>Sim: FS24. Just Flight has released its latest development update for the upcoming F70/100 Professional for Microsoft Flight Simulator 2020 and 2024. The team reports significant progress since the last update and is nearing completion of the project. Along with the update, they have also shared a video trailer showcasing the new aircraft. Since the last development update, the team has refined, improved, and reworked various components of the AFCAS and FMS code. Additionally, the flight model has been enhanced further to better replicate the experience of flying the real aircraft, which real-world pilots have described as delightful to hand-fly. The sound developer has been diligently working on the aircraft, which will feature the highest number of individual sound samples he has ever included in a project. The team has stated that they will release a video providing a detailed overview of the sound features in due course. At the conclusion of the development update, the team mentioned that they are working hard to release the F70/100 Professional as soon as possible in 2026. â You can read the full development update on Just Flight's website.Â  We will update you as soon as we have more information. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hs7872</id>
+    <title>Horizon Simulations Teases Boeing 787 Version Two, With A Look At New EFB</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <link href="/news/hs7872"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943d92f79c5eff17999cc7e_Image_6%20(1).webp"/>
+    <summary>Sim: FS24. Horizon Simulations has teased a brand-new electronic flight bag as part of their upcoming 787 version 2 family.Â  The new EFB looks to include many of the features we have come to expect from a more complete aircraft model, including a working on-screen keyboard, pilot utilities, a landing performance calculator, and en route charts.Â  With no set release date, Horizon Simulations plans to continue issuing periodic developer updates on Discord. The next planned update will highlight 3D modelling work. Susequest updates will feature the PFD, MFD, CDU, and sound!Â  Horizon Simulations is inviting community members to provide feedback on the developer updates. So, if you have feedback, be sure to check out their Discord! For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ms4ps5</id>
+    <title>Microsoft Flight Simulator 2024 Releases on PlayStation 5</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <link href="/news/ms4ps5"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943e177006eb2c4ba2ada90_01_872423.webp"/>
+    <summary>Sim: FS24. Microsoft has ported its latest version of its landmark simulator, Microsoft Flight Simulator 2024, onto the PlayStation 5.Â  The full release of the sim for PS5 follows a phased rollout that included early access for those who pre-ordered the Deluxe, Premium Deluxe, or Aviator editions.Â  While the game experience remains the same for PS5 users, Microsoft has noted that access to the in-game marketplace will require a separate app.Â  As a consequence, purchases made in the in-sim marketplace wonât transfer over from other platforms. However, the port does offer more people the chance to take to the virtual skies.Â  Veterans of the PC launch will no doubt take note of Microsoftâs new phased release approach. This approach should hopefully negate the problems faced by simmers just over a year ago, when Microsoft Flight Simulator 2024 launched on PC and Xbox, leading to vastly increased wait times.Â Â  Microsoft Flight Simulator 2024 can be purchased from the PlayStation Store on your console. Where do you think the sim will be ported to next? Mac? The Nintendo Switch 2? Let us know!Â Â  For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vata16</id>
+    <title>VATSIM Announces New Age Restrictions</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <link href="/news/vata16"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943e8633f6092fcf0bd6c05_vatsim_age.webp"/>
+    <summary>Sim: OTHER. In a recent post, VATSIM confirmed that, starting January 1st, 2026, they will require all new users to be at least 16 years of age.  The online air traffic control network claims it is making this change as part of its ongoing work to ensure a safe and welcoming environment for all members.Â All current users aged 13 to 15 will be exempted from this policy.Â  While some see the recent changes as a necessary step to maintain the network's safety and security, many others feel that VATSIMâs policy shifts could deter membership growth.Â  How do you feel about the way VATSIM is being run? Does this make you more likely to sign up for VATSIM or maintain your current membership? Or is the organisation becoming a little too restrictive? â Let us know! â For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-18T00:00:00+00:00</published>
   </entry>
 </feed>
