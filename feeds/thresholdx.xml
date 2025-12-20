@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-19T18:38:38.889267+00:00</updated>
+  <updated>2025-12-20T18:33:59.523747+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/atcvfr</id>
-    <title>BeyondATC Announces VFR Support</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <link href="/news/atcvfr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b45fb1d4a36abbbf14bca_fgsgdg453.webp"/>
-    <summary>Sim: FS24. BeyondATC has released a YouTube video giving, the community insight into the programâs current status and future.Â  After the team spent 10 months stabilising the program's core features, they announced they are ready to move on to developing visual flight rules (VFR). The team plans to roll out VFR in phases, with coverage expanding over time.  In phase one, VFR coverage will be provided for the United States, the United Kingdom, and Australia, with a focus on circuit entry and exit. Phase two will introduce different types of airspace, while phase three will allow the completion of full VFR flights. The team notes that it will take time to roll out these features. However, if the developersâ plans go as expected, simmers will soon have new ways to integrate air traffic control into their flying experience.Â  To learn more about BeyondATC, you can check out their official website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fpifly</id>
-    <title>Flight Panels Releases iFly 737 MAX8 Stream Deck Profile for MSFS 2020/2024</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <link href="/news/fpifly"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693b4c559033dabe4312487d_Store_-_iFly_Boeing_737_Max_8_-_Page_1.webp"/>
-    <summary>Sim: FS24. Flight Panels has released a new Stream Deck profile for Microsoft Flight Simulator 2020 and 2024. This time, the iFly Boeing 737 Max 8 is in focus. The package spans 34 pages and includes more than 1,200 images and over 830 custom-designed, pre-programmed buttons.  These mirror the layout and style of the iFly cockpit, allowing simmers to operate autopilot, radio, lighting, overhead systems, and other controls directly from their Stream Deck, rather than using a keyboard and mouse. The profile also exposes controls for ground services, aircraft performance information, ATIS, and various cockpit and cabin features.  It is designed to take advantage of newer MSFS 2024 features, including walkaround and external interaction points. Both 15 and 32 key layouts are included, with support for the Elgato Stream Deck XL, Stream Deck MK.2, Stream Deck Mobile on iOS and Android, and the Corsair Xeneon Edge.Â  The iFly 737 Max 8 Stream Deck profile is available now for $33 from the Flight Panels store and selected third-party marketplaces. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/flight-sim-awards-2026---were-back</id>
-    <title>Flight Sim Awards 2026  â  Weâre Back</title>
-    <updated>2025-12-12T00:00:00+00:00</updated>
-    <link href="/news/flight-sim-awards-2026---were-back"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693ae05463e6d63e62e67e84_FLIGHTSIM_AWARDS_2026_at_FSWeekend__Celebrating_t_11-12-2025-15_14_45.png"/>
-    <summary>Sim: OTHER. The Flight Sim Awards are coming back for 2026! The first award ceremony we held earlier this year was met with great enthusiasm from both developers and community members. All the feedback and lessons from last year have been taken into account, and efforts have been made to ensure that the Flight Sim Awards 2026 is bigger, better, and ready to celebrate in a meaningful way. The organizing committee, comprising FSElite, Cruiselevel, and Threshold, has been working diligently on the next ceremony, reviewing the structure to ensure a fair, transparent, and meaningful selection process. The awards continue to honour excellence and long-term contributions within the flight simulation community, recognizing achievements in development, creativity, and community engagement. In the updated structure, we aimed to create space for developers and creators who may not have fit naturally into previous categories. Each category has been reviewed to ensure relevance, clarity, and a balanced representation of the many areas that advance our hobby. We also added categories to highlight community contributions, which are often overlooked. All entries are evaluated according to shared principles: Each category represents a part of what makes flight simulation thrive: creativity, precision, and the human dedication behind the virtual skies. More information on the nomination process and jury panel will follow shortly. The next Flight Sim Awards ceremony will once again take place during the Captainâs Dinner at Flight Sim Weekend on Friday, March 20th, 2026. You can find more information on our website and tickets to FlightSimWeekend and the Captains Dinner here. Join the Flight Sim Awards Discord and be a part of the Awards community</summary>
-    <published>2025-12-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2aaerostaset</id>
-    <title>A2A Simulations Updates Accu-Sim Aerostar 600 for MSFS 2020/2024</title>
-    <updated>2025-12-12T00:00:00+00:00</updated>
-    <link href="/news/a2aaerostaset"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c5fc6827fb40830e4fac5_aerostarup.jpg"/>
-    <summary>Sim: FS24. A2A Simulations has recently issued a new update to their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020 and 2024, adding visible passengers on all seats, multiple bug fixes, and more. â This update focuses on refining systems, sounds, visuals, physics, and avionics, with some quality-of-life improvements sprinkled on top. The complete changelog follows below: â Changelog MSFS 2020 Specific â The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/p42twxr</id>
-    <title>Parallel 42 Releases Typical Weather for MSFS 2024</title>
-    <updated>2025-12-12T00:00:00+00:00</updated>
-    <link href="/news/p42twxr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c6410cece5aee88ec7d30_wx1.webp"/>
-    <summary>Sim: FS24. Parallel 42 has recently released their first weather-related add-on for Microsoft Flight Simulator 2024, named âTypical Weather,â due to the fact that it does not use live weather data but a historical compilation of weather figures from around the world, providing a typical METAR for that specific period of the year. Typical Weather is âan intelligent, location-aware weather engine that adapts to where and when you flyâ, bringing a completely new approach to weather in simulators, delivering conditions that make sense for the place you are flying in without the unpredictability of live weather. Parallel 42 argues that live weather is âinconsistentâ, allowing for clear sunny days in the middle of winter, contrary to the expectation of what you would expect from a determined location. Typical Weather prevents that from happening by using historical weather data from over 9,000 weather stations and nearly 20 million sample points, always providing what would be rather usual throughout the year. The plugin also allows the user to choose from atypical conditions if desired, with options ranging from fair to hazy, foggy, windy, precipitating, stormy, or IFR, all based on the region being flown in. Furthermore, the apps panel will also provide a detailed METAR, with wind and gust visualization, and the possibility to synchronize everything for multiplayer sessions, in addition to being either static or dynamic. â Itâs available in their store for $20. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lr1233</id>
-    <title>Laminar Research Releases 12.3.3 Hotfix for X-Plane 12â</title>
-    <updated>2025-12-12T00:00:00+00:00</updated>
-    <link href="/news/lr1233"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693c99aacd333ac25b195e82_ReleaseNotes_XP12.3.3.webp"/>
-    <summary>Sim: X-Plane. Laminar Research has recently released a hotfix for X-Plane 12 to address a few minor issues found in their latest release.Â  The current iteration of X-Plane has been supported since December 2022. Since that time, many patches have been released, to fix bugs and expand on features.Â  According to this round of patch notes, X-Plane 12.3.3 addresses an issue with the latest version of Nvidia's Graphics Driver, as well as addressing an instancing objects issue within the software development kit.  Mac users are also told to check that they have the latest installer version, 5.2.1. Recent updates have focused on air traffic control, weather, cloud visuals, flight lessons, and general visual enhancements.  According to Laminar Researchâs roadmap, version 12.4 will be a âC-Checkâ, focusing on systems and the user experience. You can get the update by simply running X-Plane 12 and following the update instructions. If you have yet to try X-Plane 12, you can try a free demo here. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fse26t</id>
     <title>FlightSimExpo 2026 Tickets Now On Sale</title>
@@ -151,5 +97,59 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69449ad660638fea81aa0035_7321.jpg"/>
     <summary>Sim: FS24. PMDG has recently released the long-awaited Microsoft Flight Simulator 2024 version of their Boeing 737-800, their first product built natively for the new platform with a lidar-scanned flight deck, improved textures and lighting, new sounds, and much more. Their 738 leverages the capabilities of Microsoft Flight Simulator 2024 to lay the groundwork for a truly native product line that will follow from this (the next variants will gradually roll out over the next months).  â Itâs said to be a significant overhaul of the 737 product line, wholly capitalizing on the simâs capabilities: a new cockpit with new materials, lidar scanned models, new lighting, new surface textures; a new cabin, new interactable items around the airplane, customized door logic, operable cockpit windows, and a new 3D sound-set built by a professional sound engineering team whose lead sound engineer is also a type-rated 737 captain. The full changelog follows below: â Itâs available on PMDG.com for $74.99, and owners of the MSFS 2020 version are entitled to a 60% discount ($30 total).  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/p42cpl2024</id>
+    <title>Parallel 42 Releases ChasePlane for MSFS 2024</title>
+    <updated>2025-12-19T00:00:00+00:00</updated>
+    <link href="/news/p42cpl2024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945c8beb19429369755b7ea_cpl1.webp"/>
+    <summary>Sim: FS24. Parallel 42 has recently released their long-awaited physics-based camera system for Microsoft Flight Simulator 2024, providing realistic motion that dynamically responds to the environment, creating unparalleled immersion. For the unfamiliar, ChasePlane was originally released in 2016 for Microsoft Flight Simulator X, and later became compatible with Prepar3D, rapidly becoming the de facto camera application for ESP-based simulators at the time. After many years of waiting, Parallel 42 finally managed to break Asoboâs absurdly locked camera system, bringing ChasePlane to Microsoft Flight Simulator 2020 in early 2025, with the promise of eventually making it 2024 compatible, which has now been fulfilled. â The add-on features highly realistic physics-based camera behavior based on extensive research and real-world pilot footage. This warrants realistic motion that dynamically responds to the environment, embracing the flight model rather than altering it. Pilots can feel the vibration during the take-off roll, the rush of turbulence, and the fluid shifts during maneuvers. â ChasePlane 2020 owners can upgrade to 2024 for free by using the code âCPWENâ at the checkout page. â Itâs available in their store for $30.00. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inia340106</id>
+    <title>iniBuilds Updates A340 Airliner for MSFS 2024</title>
+    <updated>2025-12-19T00:00:00+00:00</updated>
+    <link href="/news/inia340106"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945cc52f4876d97e2db3310_tor1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently issued an update to their newly released A340 Airliner for Microsoft Flight Simulator 2024, bringing a âsubstantial round of refinementsâ that focus on systems, visuals, and more. â Update v1.0.6 enhances navigation and FMGS behavior, resolves certain edge-case system issues, and introduces fully simulated offset functionality, alongside an expanded flight attendant panel experience. There are also numerous visual enhancements, including gear, camera views, and cabin details.  â Furthermore, the Electronic Flight Bag has been updated to enhance unit handling, improve performance calculations, and facilitate its integration with FSDTâs Ground Services X. â The complete changelog follows below: V1.0.6 SYSTEMS :gear: FIXED ENG sd on ND not simulated FIXED GSX refuel still not opening the refuel access panel under the wing FIXED ETP floating in a random location of the ND FIXED PFD/ND HDG value should show when off screen with FD off FIXED Mismatch between inbound course and track diamond in PFD and ND ILS ROSE mode FIXED GPS page coordinates fluctuating during jamming FIXED ACCU PRESS + BRAKES TEST refined FIXED After go-around A/THR not working at level-off and LVL MCT not showing FIXED Manual Min EFOB resets and stays in large text FIXED Changing runways/resetting MCDU does not erase previously entered TO SHIFT FIXED Altitude constraints still show as FLs when below TRL with low transition altitude FIXED Changed unit options reset when returning to TO PERF FIXED CPDLC identifier field remains populated after logon request sent FIXED AIRPORT key on right MCDU not sequencing properly FIXED OPT ALT appearing higher than REC MAX FIXED A350/A340 always ADS-C connected when logged on FIXED MORA linked incorrectly to CSTR FIXED Editing an active offset not possible FIXED Offset unusable due to LSK reselection behavior FIXED TO PERF SYNC FMGS auto-filling WEIGHT without unit conversion â ART :art: FIXED Center gear left wheel tread rotation inverted FIXED Wipers reset when changing from fast to slow and then continue incorrectly FIXED Nose gear strut not compressing FIXED Saved camera feedback FIXED Left wing texturing artifact under aileron when snow is on FIXED Cabin collision hitbox refinement on left side FIXED Contrail display issues â EFB:computer: FIXED EFB NG navdata download issue FIXED EFB payload page summary: TOW displays T despite KG unit FIXED EFB landing performance add Vapp FIXED Reverse on axis loading incorrectly FIXED Align planner setting size with A350 FIXED Wipe TO/LDG PERF pages when changing aircraft weight units FIXED TO PERF option to switch units on QNH/m/ft/lbs/kg ADDED GSX Loading Suggestion ADDED Switchable units on takeoff calculator â SOUNDS:loud_sound: FIXED Reworked 3D spatialization for flaps and slats FIXED Slat sounds near wing root FIXED PRED W/S OFF memo triggers a click sound FIXED APU sounds not changing with position relative to aircraft when APU BLEED = ON FIXED Increased low pass on APU cone FIXED Intermediate callouts missing FIXED Gear down needs more aerodynamic rumble FIXED Gear drag position not audible in cockpit FIXED Improved triple click sound FIXED Modified master warn sound sample FIXED ISIS missing interaction sounds FIXED Deprecated sound events causing doubling on ACP FIXED Improved samples and variety of larger dial interactions FIXED Ambient mixing adjustments in flight FIXED Improvements to wiper mix FIXED Reduced low pass on turbulence bumping FIXED Tweaks to payload sounds in cargo hold FIXED Oxygen test mixing FIXED Toilet door timing synced with animation FIXED Missing cabin ambient sounds FIXED Fuel pumps audible unrealistically outside FIXED Wind ambience in flight ADDED More audio detail to pedestal rotary knobs ADDED Improved WXR tilt and gain interaction sounds â The add-on is available in the MSFS Marketplace for roughly $59.99 If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/smrsin</id>
+    <title>SIMMARKET Resumes Sales in Norway</title>
+    <updated>2025-12-19T00:00:00+00:00</updated>
+    <link href="/news/smrsin"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945d12d35a6525aa640f0f3_SimMarketNorway.jpg"/>
+    <summary>Sim: OTHER. SimMarket has confirmed that they have resumed sales in Norway. â Sales to customers with a registered address in Norway were temporarily halted due to the siteâs months-long struggle with external tax regulations.Â  â While SimMarket staff were actively working to find the proper solution, Norwegian customers remained patient and persistent. In a statement released on Instagram, SimMarket thanked its Norwegian customers for their passion and continued support during the sales hiatus â SimMarket is one of the leading retail outlets for flight simulation. It offers customers unlimited downloads and permanent on-demand access to their order history. â You can check out their offerings at https://secure.simmarket.com/ â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nimbusordout</id>
+    <title>Nimbus Simulation Studios Releases Chicago OâHare Intl for X-Plane 12</title>
+    <updated>2025-12-19T00:00:00+00:00</updated>
+    <link href="/news/nimbusordout"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945d5f3761a23e13a3a2c29_cha1.png"/>
+    <summary>Sim: X-Plane. Nimbus Simulation Studios has recently released their rendition of Chicago OâHare International Airport (KORD) for X-Plane 12, the worldâs fourth busiest airport, with a yearly average of 80 million passengers. Their X-Plane 12 version of OâHare takes full advantage of the simulatorâs new technologies, bringing realistic wetness, season support, detailed terminal interiors, and more. The full feature list includes new 4K orthophotos, performance-friendly optimization, VRAM-friendly optimization, full 3D interiors, 3D people, custom ground markings, custom ground textures, and much more. Itâs available on X-Plane.Org for $29.95, requiring at least 1.1 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/iadfwl</id>
+    <title>iniBuilds Announces Liverpool John Lennon and Dallas Fort Worth Airports for MSFS24</title>
+    <updated>2025-12-20T00:00:00+00:00</updated>
+    <link href="/news/iadfwl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945ee14a7000f4791f1cb63_DFW8.webp"/>
+    <summary>Sim: FS24. In their most recent scenery development recap on their forums, iniBuilds has confirmed that they are working on renditions of Dallas Fort Worth International Airport (KDFW) and Liverpool John Lennon Airport (EGGP) for Microsoft Flight Simulator 2024. â Dallas Fort Worth International Airport (DFW) is one of the worldâs busiest airports by aircraft movement, and recreating the complexity and scale of the airport has been quite the task for the iniBuilds team. Development work has been underway for months, ranging from detailed ground poly work to getting the unique architecture of the terminals correct. Greg Jones, iniBuildsâ Head of Scenery and Geospatial Development, says that DFWâs size has been a challenge for the team to adapt their work flow integrating new features.Â  âAdopting MSFS2024 as our core development platform gave us new opportunities to introduce levels of detail and quality previously not possible. â¦ Early in 2025, we had a commercial opportunity to work on Dallas Fort Worth. We jumped at the chance to produce what will be, by far, the largest project weâve ever doneâ, Jones explains. He expands on their goals for DFW, stating that they are putting âperformance at the core of everythingâ and â[The] testing team is hard at work ironing out any kinks, and so far the results have been stellarâ. As of writing, iniBuilds has not confirmed a release date for their rendition of DFW, but they say that users âshouldnât have to wait many more monthsâ for a release. â Following in the footsteps of their recent release of Manchester and Leeds Bradford v2, iniBuildsâ newest UK airport will be Liverpool John Lennon, an airport with a rich history and scenic approach over the river Mersey. In their announcement iniBuilds asks for help from anyone who works at Liverpool John Lennon Airport or has airside access and can provide high-quality reference photography or technical data. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vsuaaa</id>
+    <title>VueloSimple Releases Almaty International Airport for MSFS 2020/2024</title>
+    <updated>2025-12-20T00:00:00+00:00</updated>
+    <link href="/news/vsuaaa"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6946a048f893547ba96e4000_Banner_Image.webp"/>
+    <summary>Sim: FS24. VueloSimple has just released its version of Almaty International Airport (UAAA) for Microsoft Flight Simulator 2020 and 2024. Located in the largest city of Kazakhstan, Almaty, the airport serves almost 11.5 million passengers annually. The airport first opened its doors in 1935, initially serving smaller civil and military aircraft. The main terminal was built in 1973. In 1998, the runway was reconstructed and achieved CAT II certification, which elevated the airport's status to that of an international airport. A new terminal was completed in 2004, and a second runway opened in 2008, receiving CAT III certification. Most recently, Terminal 2 was inaugurated in 2024. Today, the airport serves a variety of airlines, including Air Astana, Pegasus Airlines, and SCAT Airlines, accommodating nearly 11.5 million passengers annually. The newly released scenery comes packed with features such as detailed 3D models, up-to-date airport layout, accurate night illumination, and much more. The newly released Almaty International Airport by VueloSimple is now available on Contrail for approximately $15.21. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-20T00:00:00+00:00</published>
   </entry>
 </feed>
