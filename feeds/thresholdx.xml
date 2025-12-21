@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-20T18:33:59.523747+00:00</updated>
+  <updated>2025-12-21T18:35:56.971195+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fse26t</id>
-    <title>FlightSimExpo 2026 Tickets Now On Sale</title>
-    <updated>2025-12-14T00:00:00+00:00</updated>
-    <link href="/news/fse26t"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/68b7500fcdfc5dd98c62e07a_2025_1.webp"/>
-    <summary>Sim: OTHER. Tickets are now on sale for FlightSimExpo 2026, which will take place at Saint Paul RiverCentre in Minnesota, from Jun. 12-14, 2026.Â  Ticket sales opened today at 1800Z (1200 Central Time).  To attend, you can purchase the"Entire Event" ticket, which costs $75 for general attendees. It includes #FSExpoFriday product announcement seminars, the new Friday Exhibit Hall Preview, three days of exhibits, weekend seminars and workshops, plus access to post-event seminar recordings. FSA Captains receive additional discounts.  The first 200 Captains to register can secure an "Entire Event" ticket for $50, a discount of more than $30 compared to the standard rate, along with various other perks, such as a dedicated entrance line, priority add-on registration, and year-round discounts, through FSA. For those who prefer to attend on a specific day, single-day tickets are available for $40 on Friday, $50 on Saturday, and $30 on Sunday.  Each option includes exhibit hall access, that dayâs seminars and workshops, and the usual badge, lanyard, and giveaways, with online viewing of seminars included for all ticket types. FSA highlights hotel rates starting at $149 per night, plus tax, at partner properties near the venue, which is about 25% cheaper than last year.  Discounted fares with Delta, United, Southwest, and selected codeshare partners are also available for flights into MinneapolisâSaint Paul International Airport. As in previous years, exhibitors, hardware manufacturers, communities, and training organisations are invited to participate as sponsors, exhibitors, and speakers, with booth packages including furnishings, internet, electricity, and event passes.  An initial list of partners for the 2026 show is expected in March 2026. More information on tickets, FSA Captain membership, exhibitor opportunities, and travel discounts is available via the official FlightSimExpo website. For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/pmdg73818</id>
     <title>PMDGâs 738NG for MSFS 2024 to Release on Thursday</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6946a048f893547ba96e4000_Banner_Image.webp"/>
     <summary>Sim: FS24. VueloSimple has just released its version of Almaty International Airport (UAAA) for Microsoft Flight Simulator 2020 and 2024. Located in the largest city of Kazakhstan, Almaty, the airport serves almost 11.5 million passengers annually. The airport first opened its doors in 1935, initially serving smaller civil and military aircraft. The main terminal was built in 1973. In 1998, the runway was reconstructed and achieved CAT II certification, which elevated the airport's status to that of an international airport. A new terminal was completed in 2004, and a second runway opened in 2008, receiving CAT III certification. Most recently, Terminal 2 was inaugurated in 2024. Today, the airport serves a variety of airlines, including Air Astana, Pegasus Airlines, and SCAT Airlines, accommodating nearly 11.5 million passengers annually. The newly released scenery comes packed with features such as detailed 3D models, up-to-date airport layout, accurate night illumination, and much more. The newly released Almaty International Airport by VueloSimple is now available on Contrail for approximately $15.21. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tmkbzn</id>
+    <title>TaiModels Releases Bozeman Yellowstone International Airport for MSFS 2020/2024</title>
+    <updated>2025-12-21T00:00:00+00:00</updated>
+    <link href="/news/tmkbzn"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6947ed1dbb743c3e82bd0ea6_Banner_Image.webp"/>
+    <summary>Sim: FS24. TaiModels has released its latest scenery add-on for Microsoft Flight Simulator 2020 and 2024, featuring Bozeman Yellowstone International Airport (KBZN). Located in Montana, this airport serves the city of Bozeman and annually welcomes over 2.6 million passengers. The airport opened in 1941 under the name Gallatin Field, although the first passengers did not arrive until 1942. By the end of the 1960s, the airport underwent several improvements, including a runway extension. It was not until 2011 that the airport was renamed to its current designation. That same year, the terminal was expanded. In 2012, the airport began allowing international flights. Recently, in 2024, a new expansion of the airport's infrastructure was announced. Today, the airport serves a variety of airlines, including American Airlines, Delta Air Lines, and United Airlines, providing a wide range of destinations. TaiModelsâ rendition of Bozeman Yellowstone International Airport comes with features such as PBR ground markings and textures, detailed terminal interiors, accurate airport lighting, taxiways, and aprons, and much more. Bozeman Yellowstone International Airport, by TaiModels, is now available from iniBuilds for $18.61. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-21T00:00:00+00:00</published>
   </entry>
 </feed>
