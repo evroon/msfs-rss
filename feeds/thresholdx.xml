@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-21T18:35:56.971195+00:00</updated>
+  <updated>2025-12-22T18:39:24.297267+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/pmdg73818</id>
-    <title>PMDGâs 738NG for MSFS 2024 to Release on Thursday</title>
-    <updated>2025-12-15T00:00:00+00:00</updated>
-    <link href="/news/pmdg73818"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694055a2a2c7bdc35b2eb5de_maxi.jpg"/>
-    <summary>Sim: FS24. PMDG has published another development update regarding their upcoming 737-800 upgrade for Microsoft Flight Simulator 2024, which will feature a comprehensive overhaul, including a new cabin, new cockpit textures, new sounds, and more. â The developers argue that their original 738 is a really old product in software terms (3.5 years old), and they had not yet fully understood the simulatorâs potential at the time of release. 2024 has given them the opportunity to dive deeper into the potential offered by the new platform and bring it up to modern standards. â Itâs said to be a significant overhaul of the 737 product line, wholly capitalizing on the simâs capabilities: a new cockpit with new materials, lidar scanned models, new lighting, new surface textures; a new cabin, new interactable items around the airplane, customized door logic, operable cockpit windows, and a new 3D sound-set built by a professional sound engineering team whose lead sound engineer is also a type-rated 737 captain. â While there are still some cleanup details to finish around the external area, PMDG hopes to release it on Thursday (18/12), just before Christmas, so people can enjoy their Christmas break flying the brand-new product in Microsoft Flight Simulator 2024. â They have also listed a few FAQ such as price (in line with previous products), discount for previous owners (previous owners will in fact get a discount, both on marketplace and pmdg.com), discount across purchase venues (if you bought it on marketplace, it will be only applicable to marketplace, and so on), and the potential release date for the other 737s (-600 and -900 in January, and -700 in February). âIf you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/jfdufo</id>
     <title>Just Flight Shares Development Update for F70/100 Professional for MSFS 20/24</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6947ed1dbb743c3e82bd0ea6_Banner_Image.webp"/>
     <summary>Sim: FS24. TaiModels has released its latest scenery add-on for Microsoft Flight Simulator 2020 and 2024, featuring Bozeman Yellowstone International Airport (KBZN). Located in Montana, this airport serves the city of Bozeman and annually welcomes over 2.6 million passengers. The airport opened in 1941 under the name Gallatin Field, although the first passengers did not arrive until 1942. By the end of the 1960s, the airport underwent several improvements, including a runway extension. It was not until 2011 that the airport was renamed to its current designation. That same year, the terminal was expanded. In 2012, the airport began allowing international flights. Recently, in 2024, a new expansion of the airport's infrastructure was announced. Today, the airport serves a variety of airlines, including American Airlines, Delta Air Lines, and United Airlines, providing a wide range of destinations. TaiModelsâ rendition of Bozeman Yellowstone International Airport comes with features such as PBR ground markings and textures, detailed terminal interiors, accurate airport lighting, taxiways, and aprons, and much more. Bozeman Yellowstone International Airport, by TaiModels, is now available from iniBuilds for $18.61. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/asubbf</id>
+    <title>Azrsim Releases Fuzuli International Airport for MSFS 2024</title>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <link href="/news/asubbf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6949723e6063ffe8d96ff12d_Banner_Image.webp"/>
+    <summary>Sim: FS24. Azrsim has recently released its rendition of Fuzuli International Airport (UBBF) for Microsoft Flight Simulator 2024. After previously launching Heydar Aliyev International Airport (UBBB), the main airport in Baku, earlier this year, the team has now turned its attention to another city in Azerbaijan. Fuzuli International Airport currently offers passenger flights solely to the capital, Baku. Fuzuli International Airport is a relatively new airport, having opened in 2021. It covers an area of just under 650,000 square feet and features a runway that is nearly 10,000 feet long. Currently, the airport is served exclusively by Azerbaijan Airlines, which offers flights to Baku; however, it also accommodates cargo flights. Azrsimâs airport rendition features an accurate airport layout, a fully custom-modelled terminal building, high-quality PBR materials, custom night lighting, and many additional features. The newly released Fuzuli International Airport by Azrsim is now available on SimMarket for approximately $17.64. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-22T00:00:00+00:00</published>
   </entry>
 </feed>
