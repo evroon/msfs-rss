@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-22T18:39:24.297267+00:00</updated>
+  <updated>2025-12-23T18:39:40.225988+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/jfdufo</id>
-    <title>Just Flight Shares Development Update for F70/100 Professional for MSFS 20/24</title>
-    <updated>2025-12-17T00:00:00+00:00</updated>
-    <link href="/news/jfdufo"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6942a6ec48a8ef4b8c6123ce_Banner_Image.webp"/>
-    <summary>Sim: FS24. Just Flight has released its latest development update for the upcoming F70/100 Professional for Microsoft Flight Simulator 2020 and 2024. The team reports significant progress since the last update and is nearing completion of the project. Along with the update, they have also shared a video trailer showcasing the new aircraft. Since the last development update, the team has refined, improved, and reworked various components of the AFCAS and FMS code. Additionally, the flight model has been enhanced further to better replicate the experience of flying the real aircraft, which real-world pilots have described as delightful to hand-fly. The sound developer has been diligently working on the aircraft, which will feature the highest number of individual sound samples he has ever included in a project. The team has stated that they will release a video providing a detailed overview of the sound features in due course. At the conclusion of the development update, the team mentioned that they are working hard to release the F70/100 Professional as soon as possible in 2026. â You can read the full development update on Just Flight's website.Â  We will update you as soon as we have more information. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/hs7872</id>
     <title>Horizon Simulations Teases Boeing 787 Version Two, With A Look At New EFB</title>
@@ -150,6 +141,15 @@
     <link href="/news/asubbf"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6949723e6063ffe8d96ff12d_Banner_Image.webp"/>
     <summary>Sim: FS24. Azrsim has recently released its rendition of Fuzuli International Airport (UBBF) for Microsoft Flight Simulator 2024. After previously launching Heydar Aliyev International Airport (UBBB), the main airport in Baku, earlier this year, the team has now turned its attention to another city in Azerbaijan. Fuzuli International Airport currently offers passenger flights solely to the capital, Baku. Fuzuli International Airport is a relatively new airport, having opened in 2021. It covers an area of just under 650,000 square feet and features a runway that is nearly 10,000 feet long. Currently, the airport is served exclusively by Azerbaijan Airlines, which offers flights to Baku; however, it also accommodates cargo flights. Azrsimâs airport rendition features an accurate airport layout, a fully custom-modelled terminal building, high-quality PBR materials, custom night lighting, and many additional features. The newly released Fuzuli International Airport by Azrsim is now available on SimMarket for approximately $17.64. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fslpwupdevu</id>
+    <title>FSLabs Publishes Development Update for MSFS 2020/2024</title>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <link href="/news/fslpwupdevu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69499e89c9d1fe9be5f4f058_pw1.png"/>
+    <summary>Sim: FS24. FSLabs has recently published a new development update regarding the long-awaited Pratt &amp; Whitney update for their A321neo, released earlier this year with LEAPs as the sole engine option initially. A combination of technical challenges and continued changes introduced through Sim Updates in Microsoft Flight Simulator 2024 has necessitated unexpected additional work and testing validation, which has pushed the updateâs rollout date forward. Furthermore, they are actively supporting Microsoft Flight Simulator 2020, while also laying the groundwork for a fully native 2024 product line, which adds further complexity to their development process. Rather than pushing a half-baked update, FSLabs chose to wait it out until itâs all deemed properly stable, avoiding a sequence of micro-updates.  They also do not expect the aforementioned update to be released before Christmas, as they donât want to put unnecessary strain on their quality assurance and support teams, and they want to ensure full availability when the update is shipped. Development and testing will absolutely not stop during the holidays, though. They have also shared a few screenshots from their Â current work-in-progress builds, and more details will be shared soon. â The add-on is available on their website for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-22T00:00:00+00:00</published>
   </entry>
 </feed>
