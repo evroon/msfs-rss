@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-23T18:39:40.225988+00:00</updated>
+  <updated>2025-12-24T18:38:09.771787+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/hs7872</id>
-    <title>Horizon Simulations Teases Boeing 787 Version Two, With A Look At New EFB</title>
-    <updated>2025-12-18T00:00:00+00:00</updated>
-    <link href="/news/hs7872"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943d92f79c5eff17999cc7e_Image_6%20(1).webp"/>
-    <summary>Sim: FS24. Horizon Simulations has teased a brand-new electronic flight bag as part of their upcoming 787 version 2 family.Â  The new EFB looks to include many of the features we have come to expect from a more complete aircraft model, including a working on-screen keyboard, pilot utilities, a landing performance calculator, and en route charts.Â  With no set release date, Horizon Simulations plans to continue issuing periodic developer updates on Discord. The next planned update will highlight 3D modelling work. Susequest updates will feature the PFD, MFD, CDU, and sound!Â  Horizon Simulations is inviting community members to provide feedback on the developer updates. So, if you have feedback, be sure to check out their Discord! For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ms4ps5</id>
-    <title>Microsoft Flight Simulator 2024 Releases on PlayStation 5</title>
-    <updated>2025-12-18T00:00:00+00:00</updated>
-    <link href="/news/ms4ps5"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943e177006eb2c4ba2ada90_01_872423.webp"/>
-    <summary>Sim: FS24. Microsoft has ported its latest version of its landmark simulator, Microsoft Flight Simulator 2024, onto the PlayStation 5.Â  The full release of the sim for PS5 follows a phased rollout that included early access for those who pre-ordered the Deluxe, Premium Deluxe, or Aviator editions.Â  While the game experience remains the same for PS5 users, Microsoft has noted that access to the in-game marketplace will require a separate app.Â  As a consequence, purchases made in the in-sim marketplace wonât transfer over from other platforms. However, the port does offer more people the chance to take to the virtual skies.Â  Veterans of the PC launch will no doubt take note of Microsoftâs new phased release approach. This approach should hopefully negate the problems faced by simmers just over a year ago, when Microsoft Flight Simulator 2024 launched on PC and Xbox, leading to vastly increased wait times.Â Â  Microsoft Flight Simulator 2024 can be purchased from the PlayStation Store on your console. Where do you think the sim will be ported to next? Mac? The Nintendo Switch 2? Let us know!Â Â  For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vata16</id>
-    <title>VATSIM Announces New Age Restrictions</title>
-    <updated>2025-12-18T00:00:00+00:00</updated>
-    <link href="/news/vata16"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6943e8633f6092fcf0bd6c05_vatsim_age.webp"/>
-    <summary>Sim: OTHER. In a recent post, VATSIM confirmed that, starting January 1st, 2026, they will require all new users to be at least 16 years of age.  The online air traffic control network claims it is making this change as part of its ongoing work to ensure a safe and welcoming environment for all members.Â All current users aged 13 to 15 will be exempted from this policy.Â  While some see the recent changes as a necessary step to maintain the network's safety and security, many others feel that VATSIMâs policy shifts could deter membership growth.Â  How do you feel about the way VATSIM is being run? Does this make you more likely to sign up for VATSIM or maintain your current membership? Or is the organisation becoming a little too restrictive? â Let us know! â For all the latest news and updates, stay tuned on Threshold! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inia350v120</id>
     <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69499e89c9d1fe9be5f4f058_pw1.png"/>
     <summary>Sim: FS24. FSLabs has recently published a new development update regarding the long-awaited Pratt &amp; Whitney update for their A321neo, released earlier this year with LEAPs as the sole engine option initially. A combination of technical challenges and continued changes introduced through Sim Updates in Microsoft Flight Simulator 2024 has necessitated unexpected additional work and testing validation, which has pushed the updateâs rollout date forward. Furthermore, they are actively supporting Microsoft Flight Simulator 2020, while also laying the groundwork for a fully native 2024 product line, which adds further complexity to their development process. Rather than pushing a half-baked update, FSLabs chose to wait it out until itâs all deemed properly stable, avoiding a sequence of micro-updates.  They also do not expect the aforementioned update to be released before Christmas, as they donât want to put unnecessary strain on their quality assurance and support teams, and they want to ensure full availability when the update is shipped. Development and testing will absolutely not stop during the holidays, though. They have also shared a few screenshots from their Â current work-in-progress builds, and more details will be shared soon. â The add-on is available on their website for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkrov2</id>
+    <title>MK Studios Releases Rovaniemi Airport V2 for MSFS 2020/2024</title>
+    <updated>2025-12-23T00:00:00+00:00</updated>
+    <link href="/news/mkrov2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b11664a22742aa86140e7_rova1.webp"/>
+    <summary>Sim: FS24. MK Studios has recently released their updated rendition of Rovaniemi Airport (EFRO) for Microsoft Flight Simulator 2020 and 2024, the third-busiest airport in Finland, serving 500,000 passengers annually. It was built in 1940, originally featuring two grass runways. It was heavily utilized as a Luftwaffe Air base and supply center during the Second Soviet-Finnish War between 1941 and 1944. By the end of the conflict, the airport was heavily compromised. Rebuilding work was concluded in 1948, and regular traffic resumed in the second half of the same year. The current terminal building was completed in 1992 and expanded in 2000 with the addition of jetways. The runway underwent renovation work in 2016, with new pavement and LED lights, and 2019 marked the completion of the terminalâs third enlargement. Itâs served all year long by Finnair, and a multitude of European carriers visit Rovaniemi during the winter season (Aer Lingus, Air France, easyJet, Eurowings, Ryanair, Transavia, Turkish Airlines, to name a few). The scenery features an accurate rendition of the airport, with custom ground textures, high-quality 3D models, custom terminal interiors, an up-to-date ground layout, custom jetways, precise runway elevation data, and more. â Itâs available on OrbxDirect for roughly $19.42, requiring at least 3.04 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffu622</id>
+    <title>Flight Factor Updates 757 V2 and 767 for X-Plane</title>
+    <updated>2025-12-23T00:00:00+00:00</updated>
+    <link href="/news/ffu622"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b255103a678619d800e48_1791020844_757-300_xp12-2022-09-0814_00_23.jpg.64ae8513aa67809c30a0ab823f0bad9a.jpg"/>
+    <summary>Sim: X-Plane. Flight Factor has recently released a minor update for the 757 V2 (v2.6.22) and 767 (v1.6.22) product lines, addressing several reported bugs.Â Featured is a possible fix for the spurious terrain look-ahead warning reported by many users. They also fixed the colour of the terrain look-ahead warning text to the highest level.Â  As for weather radar issues, Flight Factor has fixed bugs with the tilt control function, and a bug that caused the controls to malfunction if both weather radars were on.Â  To round out the update, Flight Factor fixed the issues with the EFBâs charts tab, that caused unpredictable behaviour if settings hadnât been saved.Â  As always, the full changelog follows below: â 757 v2.6.22 Updated implementations of TERR/WXR radars in all 757 models (including new WXR radar based on X-plane 12.3 capabilities) Updated Navigraph authentication method for Charts in tablet Added the ability to use shared Navigraph settings from other FF products Fixed possible crash related to TGDS plugin Fixed the necessity of often relogging in case of using Navigraph Charts in tablet Fixed the logic of the hydraulic system, PTU, yaw damper, and reserve brake Fixed EICAS message order â 767 v1.6.22 Updated implementations of TERR/WXR radars in all 767 models (including new WXR radar based on X-plane 12.3 capabilities) Updated Navigraph authentication method for Charts in tablet Added the ability to use shared Navigraph settings from other FF products Fixed possible crash related to TGDS plugin Fixed the necessity of often relogging in case of using Navigraph Charts in tablet Fixed EICAS message order â To get the update, simply run X-Updater located in your 757 or 767 directory.Â  New customers can purchase a copy of the Flight Factor 757 V2 or 767 from the Flight Factor website.Â  â If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â Â Â Â Â </summary>
+    <published>2025-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp1240</id>
+    <title>Laminar Research Releases X-Plane 12.4.0 Beta</title>
+    <updated>2025-12-23T00:00:00+00:00</updated>
+    <link href="/news/xp1240"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b2a1a5c5001242ad2008a_CCheck_Update_Title_1-1.webp"/>
+    <summary>Sim: X-Plane. In a surprise announcement, Laminar Research has released the beta version of their C-Check update, better known as X-Plane 12.4.0 Beta. The stated goal of the beta is to lay the groundwork forÂ  X-Planeâs future.Â  Laminar Research has accomplished this by replacing core elements of the simulator and improving aircraft systems. The default A330 has been reworked to a "payware level", now, for example, allowing for realistic cold and dark starts. It also gives you the tools needed to conduct proper oceanic and long-haul flights. This includes a third MCDU for Airline Operational Communications.Â  The autopilot system has also been improved, making for smoother turns, better flight plan tracking, and more reliable coupled approaches. Finally, emergencies can now be simulated. On the general aviation side, X-Planeâs default X430 and X530 now have working terrain, traffic, and weather pages, while the X1000 now features a dedicated page showing ETE/ETA.Â  For lovers of custom scenery, the team has included a rendition of Bilbao Airport (LEBB) in Spain. Other improvements in the beta include native support for the Tobii Eye Tracker 5 on Windows, multi-threaded scenery processing, virtual reality improvements, ATC improvements, and more! You can find the full release notes here.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-23T00:00:00+00:00</published>
   </entry>
 </feed>
