@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-25T18:37:56.592001+00:00</updated>
+  <updated>2025-12-26T18:37:41.303229+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inia350v120</id>
-    <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
-    <updated>2025-12-18T00:00:00+00:00</updated>
-    <link href="/news/inia350v120"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694458f037084547b380e37c_lufty.png"/>
-    <summary>Sim: FS24. iniBuilds has recently issued an update to their A350 Airliner for Microsoft Flight Simulator 2020 and 2024, adding SEC flight plan fixes and wholly fixing a WASM-induced texture loading error introduced with Sim Update 4 (MSFS 2024). â Update v1.2.0 is a micro-update addressing issues with the secondary flight plan and a WASM texture loading bug introduced with Microsoft Flight Simulator 2024âs latest major update. The complete changelog follows below: Fixed - Sec-fplan fixes for airway entry Fixed - SEC F-PLN - INSERT NEXT WPT adds waypoints to the top of F-PLN instead of after chosen waypoint Fixed - WASM next waypoint 'LNY vor' on SEC2, 3 F-PLN. Fixed - WASM texture loading bug introduced in SU4 on some machines Admin - Numerous file clean up and adhoc admin of project â The add-on is available on the iniBuilds Store for roughly $80.49.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/jfla300b4dec</id>
-    <title>Just Flight Publishes A300B4 Development Update for MSFS 2020/2024</title>
-    <updated>2025-12-18T00:00:00+00:00</updated>
-    <link href="/news/jfla300b4dec"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69445f74eb8e67ca0013a131_ext1.webp"/>
-    <summary>Sim: FS24. As part of their End of Year Round Up, Just Flight has shared some of the progress on the A300B4 Professional for Microsoft Flight Simulator 2020/2024, with its exterior artwork nearing completion and ready for showcasing. They have meticulously hand-placed thousands of rivets on every inch of the aircraftâs surface, with the tail area being the most obvious due to its housing of so many critical structures. Special attention has been paid to weathering, resulting in a representation of an airframe that has been in service for many years, complete with streaks of dirt, detritus, traces of rainwater, run-down panels, and more. The flight deck is no different, as they have previously shared. Just Flight considers their A300B4 to be one of the most accurately represented wide-body airliners in any flight simulator. A bold claim, as they note, but they will let the people be the judges. As for the remaining work on the art department, their artist is currently finishing the textures of the landing gear, wheels, and landing gear bays, before eventually focusing on the cargo hold interiors. Once that is out of the way, the artwork will be complete for the A300B4-203 variant. But the -203 isnât the only variant modeled, so thereâs still a bit more work to do: the showcased plane is actually an A300B4-103, for example. A freighter variant will also be included. With that being said, they are not ready yet to show any of the other planned variants. â After the texturing work is complete, they will move on to livery creation for the variants at hand, and they promise to provide a large selection of top-quality work that will represent the A300B4âs diverse range of operators from every habitable continent.  â Furthermore, the developers have finally been able to share previews of the passenger cabin, modelled into a two-class layout from the 1980s, with the First Class cabin featuring 24 seats in a 2+2+2 configuration, and the economy cabin featuring 230 seats in a 2+4+2 configuration, narrowing at the rear to a 2+3+2 configuration. In line with their other products, the cabin will feature numerous simulated elements, offering âlots to play withâ during the cruise phase. The cabin artwork is deemed ready, but there may be minor changes between what has been showcased and the final product at the time of release, most notably related to cabin lighting, as it has not yet been implemented. The flight model is progressing decently, and the extensive data they sourced from a variety of A300B4 variants has been proven rather useful, allowing it to perform as faithfully as possible to the numbers. The systems have now been fully coded, and the plane is getting ready to enter wider beta testing. Among the most recently completed systems, they highlight the Carousel IV-A Inertial Navigation System and the autopilot logic. â Since they have something nearing completion, they can finally begin proper testing with their beta team, allowing them to delve deeply into the system's intricacies to cross-check their functionalities against the aircraftâs FCOM and mitigate any issues that may arise. â Just Flight will be sharing more details earlier next year. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ddepkt24out</id>
     <title>Drzewiecki Design Releases Katowice Airport for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b2a1a5c5001242ad2008a_CCheck_Update_Title_1-1.webp"/>
     <summary>Sim: X-Plane. In a surprise announcement, Laminar Research has released the beta version of their C-Check update, better known as X-Plane 12.4.0 Beta. The stated goal of the beta is to lay the groundwork forÂ  X-Planeâs future.Â  Laminar Research has accomplished this by replacing core elements of the simulator and improving aircraft systems. The default A330 has been reworked to a "payware level", now, for example, allowing for realistic cold and dark starts. It also gives you the tools needed to conduct proper oceanic and long-haul flights. This includes a third MCDU for Airline Operational Communications.Â  The autopilot system has also been improved, making for smoother turns, better flight plan tracking, and more reliable coupled approaches. Finally, emergencies can now be simulated. On the general aviation side, X-Planeâs default X430 and X530 now have working terrain, traffic, and weather pages, while the X1000 now features a dedicated page showing ETE/ETA.Â  For lovers of custom scenery, the team has included a rendition of Bilbao Airport (LEBB) in Spain. Other improvements in the beta include native support for the Tobii Eye Tracker 5 on Windows, multi-threaded scenery processing, virtual reality improvements, ATC improvements, and more! You can find the full release notes here.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/winctrl</id>
+    <title>WINWING Confirms 2026 Rebrand to WINCTRL</title>
+    <updated>2025-12-26T00:00:00+00:00</updated>
+    <link href="/news/winctrl"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694ec082209381a072c49f74_603811011_1551469795931056_8692167976900153039_n.jpg"/>
+    <summary>Sim: OTHER. WINWING has officially revealed a brand rework, confirming it will operate as âWINCTRLâ starting next year.  The change marks the retirement of the original WINWING name, as the company shifts towards a strategy of greater clarity, refinement, and long-term growth. In a message shared with the community, the team reflected on its six-year journey, from its first consumer flight control hardware, through countless iterations shaped by user feedback, detailed discussions, and a passionate core audience.Â  The new name, WINCTRL, is said to represent âprecise controlâ, a theme the company says has always guided its design philosophy and its relationship with its customers. Under the WINCTRL banner, the company is promising smarter, more precisely tuned hardware, stronger customer support, expanded warranty coverage, and a closer community, including beta programmes and offline meetups for dedicated users. While no new hardware has been formally unveiled, the new âCyber Taurusâ is currently planned for a Q1 reveal.Â We'll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â </summary>
+    <published>2025-12-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mmenevr</id>
+    <title>MM Simulations Releases Harstad/Narvik Airport for MSFS 2020/2024</title>
+    <updated>2025-12-26T00:00:00+00:00</updated>
+    <link href="/news/mmenevr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694ecabfdb4991aa59525d82_Banner_Image.webp"/>
+    <summary>Sim: FS24. MM Simulations has just released its highly anticipated version of Harstad/Narvik Airport (ENEV) for Microsoft Flight Simulator 2020 and 2024. Located in northern Norway, the airport serves the cities of Harstad and Narvik and handles over 800,000 passengers annually. The airport first opened its doors in 1973, following a two-year construction period that began in 1971. There was a lengthy debate and planning process before the construction of the airport commenced. When it first opened, the airport featured a runway that was 5,200 feet long, which has since been extended to its current length of 9,226 feet. Today, the airport serves as a joint public and military facility, with airlines such as Norwegian Air Shuttle, Scandinavian Airlines, and WiderÃ¸e operating flights both domestically and internationally. The scenery package includes features like accurate runway, taxiway, and apron layouts, detailed interior and exterior modelling of terminals, custom local hangars and airport buildings, and realistic ground textures, markings, and signage, among others. Harstad/Narvik Airport by MM Simulations is now available on SimMarket for approximately $23.52. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-26T00:00:00+00:00</published>
   </entry>
 </feed>
