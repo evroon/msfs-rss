@@ -1,0 +1,18 @@
+[project]
+name = "msfs-rss"
+version = "0.1.0"
+description = "Flight simulator RSS Feeds"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4==0.0.2",
+    "feedgen==1.0.0",
+    "pytz==2025.2",
+    "requests==2.32.5",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.10",
+    "pyrefly==0.46.1",
+]

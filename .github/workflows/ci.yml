@@ -1,0 +1,40 @@
+name: ci
+
+permissions:
+  contents: read
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install uv
+        run: python3 -m pip install --upgrade uv
+
+      - id: cache-uv
+        uses: actions/cache@v5
+        with:
+          path: ~/.cache/uv
+          key: ${{ runner.os }}-uv-${{ hashFiles('**/uv.lock') }}
+
+      - name: Run pyrefly
+        run: uv run pyrefly --version && uv run pyrefly check
+
+      - name: Run ruff format
+        run: uv run ruff format --check .
+
+      - name: Run ruff
+        run: uv run ruff check .
+
+      - name: Run feed update scripts
+        run: |
+          uv run src/msfs.py &&
+          uv run src/thresholdx.py

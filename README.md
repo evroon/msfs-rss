@@ -8,13 +8,7 @@ RSS feed for:
 You can add these RSS feeds to your favorite RSS reader. Github Actions updates the RSS feeds at 18:00 UTC every day.
 
 ## Usage
-The Python script can be run by first installing the dependencies:
-
+The Python script can be run by simply running one of the Python scripts:
 ```bash
-python3 -m pip install -r requirements.txt
-```
-
-And simply running one of the Python scripts:
-```bash
-python3 src/msfs.py
+uv run src/msfs.py
 ```
