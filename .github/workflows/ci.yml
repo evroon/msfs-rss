@@ -22,7 +22,7 @@ jobs:
       - id: cache-uv
         uses: actions/cache@v5
         with:
-          path: ~/.local/share/virtualenvs
+          path: ~/.cache/uv
           key: ${{ runner.os }}-uv-${{ hashFiles('**/uv.lock') }}
 
       - name: Run pyrefly
