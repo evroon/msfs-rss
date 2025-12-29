@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-28T18:37:08.202236+00:00</updated>
+  <updated>2025-12-29T18:39:18.760316+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nimbusordout</id>
-    <title>Nimbus Simulation Studios Releases Chicago OâHare Intl for X-Plane 12</title>
-    <updated>2025-12-19T00:00:00+00:00</updated>
-    <link href="/news/nimbusordout"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945d5f3761a23e13a3a2c29_cha1.png"/>
-    <summary>Sim: X-Plane. Nimbus Simulation Studios has recently released their rendition of Chicago OâHare International Airport (KORD) for X-Plane 12, the worldâs fourth busiest airport, with a yearly average of 80 million passengers. Their X-Plane 12 version of OâHare takes full advantage of the simulatorâs new technologies, bringing realistic wetness, season support, detailed terminal interiors, and more. The full feature list includes new 4K orthophotos, performance-friendly optimization, VRAM-friendly optimization, full 3D interiors, 3D people, custom ground markings, custom ground textures, and much more. Itâs available on X-Plane.Org for $29.95, requiring at least 1.1 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/iadfwl</id>
-    <title>iniBuilds Announces Liverpool John Lennon and Dallas Fort Worth Airports for MSFS24</title>
-    <updated>2025-12-20T00:00:00+00:00</updated>
-    <link href="/news/iadfwl"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6945ee14a7000f4791f1cb63_DFW8.webp"/>
-    <summary>Sim: FS24. In their most recent scenery development recap on their forums, iniBuilds has confirmed that they are working on renditions of Dallas Fort Worth International Airport (KDFW) and Liverpool John Lennon Airport (EGGP) for Microsoft Flight Simulator 2024. â Dallas Fort Worth International Airport (DFW) is one of the worldâs busiest airports by aircraft movement, and recreating the complexity and scale of the airport has been quite the task for the iniBuilds team. Development work has been underway for months, ranging from detailed ground poly work to getting the unique architecture of the terminals correct. Greg Jones, iniBuildsâ Head of Scenery and Geospatial Development, says that DFWâs size has been a challenge for the team to adapt their work flow integrating new features.Â  âAdopting MSFS2024 as our core development platform gave us new opportunities to introduce levels of detail and quality previously not possible. â¦ Early in 2025, we had a commercial opportunity to work on Dallas Fort Worth. We jumped at the chance to produce what will be, by far, the largest project weâve ever doneâ, Jones explains. He expands on their goals for DFW, stating that they are putting âperformance at the core of everythingâ and â[The] testing team is hard at work ironing out any kinks, and so far the results have been stellarâ. As of writing, iniBuilds has not confirmed a release date for their rendition of DFW, but they say that users âshouldnât have to wait many more monthsâ for a release. â Following in the footsteps of their recent release of Manchester and Leeds Bradford v2, iniBuildsâ newest UK airport will be Liverpool John Lennon, an airport with a rich history and scenic approach over the river Mersey. In their announcement iniBuilds asks for help from anyone who works at Liverpool John Lennon Airport or has airside access and can provide high-quality reference photography or technical data. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vsuaaa</id>
     <title>VueloSimple Releases Almaty International Airport for MSFS 2020/2024</title>
@@ -145,11 +127,29 @@
   </entry>
   <entry>
     <id>/news/mgmtdc</id>
-    <title>Meridian GMT Teases Major Hardware Reveal</title>
+    <title>Meridian GMT Teases Major Hardware Refresh</title>
     <updated>2025-12-28T00:00:00+00:00</updated>
     <link href="/news/mgmtdc"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69517398eec84d0e91a16508_602974703_122215487966063585_8627058572866468407_n.webp"/>
-    <summary>Sim: OTHER. Meridian GMT has recently teased that a major product update is just days away, with its official website set to receive a complete refresh on Dec. 30. This will include new product pages, several previously unseen features, and an expected launch window for its upcoming hardware lineup. The update was previewed in a short video teaser, and on social media, where the team has promised a steady drip-feed of information.Â  One of the more notable changes is a complete overhaul of the companyâs naming strategy.Â  The original phonetic naming convention has now been dropped, in favour of product names more closely aligned with Meridianâs broader brand identity.Â  Going forward, yokes will fall under the Horizon Series, while throttle quadrants will carry the Latitude name, starting with the Latitude Plus Throttle Quadrant. Each day leading up to Dec. 30, Meridian GMT says it will highlight a new or updated feature on its Facebook page, with live answers to questions in the comments. Among the most notable reveals so far is "Quantum Leap", Meridianâs new 16-bit TMR (Tunnel Magneto-Resistance) sensor technology.  Several of these have already been released, which you can take a look at on Meridianâs Facebook page.  As always, we'll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <summary>Sim: OTHER. Meridian GMT has recently teased that a major product update is just days away, with its official website set to receive a complete refresh on Dec. 30. This will include new product pages, several previously unseen features, and an expected launch window for its upcoming hardware lineup. The update was previewed in a short video teaser, where the team has promised a steady drip-feed of information.Â  Each day leading up to Dec. 30, Meridian GMT says it will highlight a new or updated feature on its Facebook page, with live answers to questions in the comments.  As part of the post, Meridian GMTÂ confirmed a reset of its product naming, dropping the earlier phonetic system in favour of clearer, brand-led names.  Under the new structure, yokes will be grouped under the Horizon Series, while throttle quadrants will carry the Latitude branding, beginning with the Latitude Plus Throttle Quadrant. Carrying on, as part of their daily feature highlights, Meridian GMT has also showed off two core pillars of the upcoming hardware refresh.  The first is "Quantum Leap", a new 16-bit TMR sensor system, borrowed from aerospace and industrial applications, designed to deliver higher resolution, lower noise, and more consistent, centre precision than traditional Hall-effect sensors. These are deployed selectively on axes where accuracy matters most, including roll, throttle, and trim.  Alongside this sits "ModulAIR", Meridianâs modular control architecture, built into both Horizon Plus and Latitude Plus, allowing pilots to expand and upgrade their setups over time, without replacing entire units. This is achieved while still maintaining mechanical and electrical compatibility across future generations, supporting a more flexible, long-term hardware ecosystem.  For more information and teasers, check out Meridianâs Facebook page.  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/340dec</id>
+    <title>Aerosoft Shares Full A340-600 Pro Test Flight</title>
+    <updated>2025-12-28T00:00:00+00:00</updated>
+    <link href="/news/340dec"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695189c49517d8d65b230c98_69XntUbTIcU-HD.webp"/>
+    <summary>Sim: FS24. Aerosoft has delivered a pleasant surprise for fans of the A340, releasing a whole, uncut test flight video of the upcoming A340-600 Pro, showcasing the aircraft on a full FrankfurtâBoston sector. The footage, shared by the Aerosoft Flight team, offers an extended look at the aircraftâs current state, including system operation, flight dynamics, EFB interaction, sounds, and exterior visuals. The A340-600 Pro is being developed as a collaboration between Aerosoft and ToLiss, combining ToLissâs systems and flight modelling expertise, with Aerosoftâs visual and artistic work.  The aircraft is planned for release on Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024, although it remains firmly in development for now.Â  As always, keep in mind that this is still a work-in-progress build, and does not necessarily represent the final product. As of the latest, you can expect release sometime in 2026. For more information and teasers, you can check out Aerosoftâs Discord server.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2025-12-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcrfterjdec</id>
+    <title>X-Crafts Posts Development Update for the ERJ Family 2.0</title>
+    <updated>2025-12-29T00:00:00+00:00</updated>
+    <link href="/news/xcrfterjdec"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69525d539ee102ae2394925a_ERJ-FAMILY-2.0-FULL-SYSTEMS-SIMULATION-PREVIEW_12.webp"/>
+    <summary>Sim: X-Plane. X-Crafts has provided an update on the upcoming ERJ Family 2.0 for X-Plane, confirming that the aircraft will not be released in 2025 as previously announced. The X-Crafts ERJ Family 2.0 will not be released in 2025, as the company has chosen to prioritise quality over meeting that deadline. They indicated that the main reason for the delay is that they have pushed their development efforts further than ever before. According to X-Crafts, their real ERJ pilot testers can fly the aircraft just like they would in real life, and 99 percent of all cockpit buttons are operational. The only exceptions are circuit breakers or buttons that cannot be realistically simulated in a flight simulator. Marko Mamula, founder of X-Crafts, states that all systems, including flight controls and an authentic FMS with holding patterns, have been implemented. A detailed systems showcase has also been posted. AirComms is a new on-screen interface designed to assist you in flying the aircraft. It will feature interactive tutorials, offer tips on when to perform specific actions, and provide warnings if certain tasks are overlooked. AirComms looks to be aimed at users who are less familiar with the ERJ Family, helping them to quickly get up to speed. X-Crafts has not provided an updated release date, but the aircraft is largely complete. They have mentioned that the main things still needed are documentation, website resources, screenshots, and other materials. â For more on the ERJ Family 2.0, check out Marko Mamulaâs blog post. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-29T00:00:00+00:00</published>
   </entry>
 </feed>
