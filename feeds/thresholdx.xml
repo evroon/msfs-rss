@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-29T18:39:18.760316+00:00</updated>
+  <updated>2025-12-30T18:40:48.358502+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vsuaaa</id>
-    <title>VueloSimple Releases Almaty International Airport for MSFS 2020/2024</title>
-    <updated>2025-12-20T00:00:00+00:00</updated>
-    <link href="/news/vsuaaa"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6946a048f893547ba96e4000_Banner_Image.webp"/>
-    <summary>Sim: FS24. VueloSimple has just released its version of Almaty International Airport (UAAA) for Microsoft Flight Simulator 2020 and 2024. Located in the largest city of Kazakhstan, Almaty, the airport serves almost 11.5 million passengers annually. The airport first opened its doors in 1935, initially serving smaller civil and military aircraft. The main terminal was built in 1973. In 1998, the runway was reconstructed and achieved CAT II certification, which elevated the airport's status to that of an international airport. A new terminal was completed in 2004, and a second runway opened in 2008, receiving CAT III certification. Most recently, Terminal 2 was inaugurated in 2024. Today, the airport serves a variety of airlines, including Air Astana, Pegasus Airlines, and SCAT Airlines, accommodating nearly 11.5 million passengers annually. The newly released scenery comes packed with features such as detailed 3D models, up-to-date airport layout, accurate night illumination, and much more. The newly released Almaty International Airport by VueloSimple is now available on Contrail for approximately $15.21. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tmkbzn</id>
     <title>TaiModels Releases Bozeman Yellowstone International Airport for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/xcrfterjdec"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69525d539ee102ae2394925a_ERJ-FAMILY-2.0-FULL-SYSTEMS-SIMULATION-PREVIEW_12.webp"/>
     <summary>Sim: X-Plane. X-Crafts has provided an update on the upcoming ERJ Family 2.0 for X-Plane, confirming that the aircraft will not be released in 2025 as previously announced. The X-Crafts ERJ Family 2.0 will not be released in 2025, as the company has chosen to prioritise quality over meeting that deadline. They indicated that the main reason for the delay is that they have pushed their development efforts further than ever before. According to X-Crafts, their real ERJ pilot testers can fly the aircraft just like they would in real life, and 99 percent of all cockpit buttons are operational. The only exceptions are circuit breakers or buttons that cannot be realistically simulated in a flight simulator. Marko Mamula, founder of X-Crafts, states that all systems, including flight controls and an authentic FMS with holding patterns, have been implemented. A detailed systems showcase has also been posted. AirComms is a new on-screen interface designed to assist you in flying the aircraft. It will feature interactive tutorials, offer tips on when to perform specific actions, and provide warnings if certain tasks are overlooked. AirComms looks to be aimed at users who are less familiar with the ERJ Family, helping them to quickly get up to speed. X-Crafts has not provided an updated release date, but the aircraft is largely complete. They have mentioned that the main things still needed are documentation, website resources, screenshots, and other materials. â For more on the ERJ Family 2.0, check out Marko Mamulaâs blog post. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/lvl737</id>
+    <title>LevelUp Releases 737NG Series V2 Stage 1 Update for X-Plane 12</title>
+    <updated>2025-12-29T00:00:00+00:00</updated>
+    <link href="/news/lvl737"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6952fc3b056ada59f5b3f1b1_ForXP12.webp"/>
+    <summary>Sim: X-Plane. After the long wait, LevelUp has finally released the 737NG Series V2 Stage 1 update for X-Plane 12!Â  The new update brings new FMOD sounds, 8K exterior textures and new models, a remodelled cabin interior, as well as the newest ZiboMod systems update. Both the exterior and the interior have received big upgrades, with higher poly counts on the exterior - winglets, engine cowlings and gear tyres, which will make them look smoother compared to the older version. Along with the new 3D models, textures were also a part of the update, as all the above-mentioned items now have 8K textures. Meanwhile, the cabin has received a refresh, with the new models that are closer to the seats mostly used in today's aircraft. Another big part of the update are the new sounds. Using the 2.0 FMOD, it features an entirely new soundset, with plenty of new and improved sounds, such as stick shaker rattle, bleed air rush after shut-down, HUD handling sounds, improved environment sounds, cabin chatter, touchdown sounds, as well as improved touchdown sound logic. The LevelUp 737NG Series V2 update is available for download on the Threshold forums and the OrbxDirect for free, and requires just 0.94GB of free disk space. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-29T00:00:00+00:00</published>
   </entry>
 </feed>
