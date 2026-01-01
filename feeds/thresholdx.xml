@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2025-12-31T18:37:42.997079+00:00</updated>
+  <updated>2026-01-01T18:38:56.451557+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tmkbzn</id>
-    <title>TaiModels Releases Bozeman Yellowstone International Airport for MSFS 2020/2024</title>
-    <updated>2025-12-21T00:00:00+00:00</updated>
-    <link href="/news/tmkbzn"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6947ed1dbb743c3e82bd0ea6_Banner_Image.webp"/>
-    <summary>Sim: FS24. TaiModels has released its latest scenery add-on for Microsoft Flight Simulator 2020 and 2024, featuring Bozeman Yellowstone International Airport (KBZN). Located in Montana, this airport serves the city of Bozeman and annually welcomes over 2.6 million passengers. The airport opened in 1941 under the name Gallatin Field, although the first passengers did not arrive until 1942. By the end of the 1960s, the airport underwent several improvements, including a runway extension. It was not until 2011 that the airport was renamed to its current designation. That same year, the terminal was expanded. In 2012, the airport began allowing international flights. Recently, in 2024, a new expansion of the airport's infrastructure was announced. Today, the airport serves a variety of airlines, including American Airlines, Delta Air Lines, and United Airlines, providing a wide range of destinations. TaiModelsâ rendition of Bozeman Yellowstone International Airport comes with features such as PBR ground markings and textures, detailed terminal interiors, accurate airport lighting, taxiways, and aprons, and much more. Bozeman Yellowstone International Airport, by TaiModels, is now available from iniBuilds for $18.61. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/asubbf</id>
     <title>Azrsim Releases Fuzuli International Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6952fc3b056ada59f5b3f1b1_ForXP12.webp"/>
     <summary>Sim: X-Plane. After the long wait, LevelUp has finally released the 737NG Series V2 Stage 1 update for X-Plane 12!Â  The new update brings new FMOD sounds, 8K exterior textures and new models, a remodelled cabin interior, as well as the newest ZiboMod systems update. Both the exterior and the interior have received big upgrades, with higher poly counts on the exterior - winglets, engine cowlings and gear tyres, which will make them look smoother compared to the older version. Along with the new 3D models, textures were also a part of the update, as all the above-mentioned items now have 8K textures. Meanwhile, the cabin has received a refresh, with the new models that are closer to the seats mostly used in today's aircraft. Another big part of the update are the new sounds. Using the 2.0 FMOD, it features an entirely new soundset, with plenty of new and improved sounds, such as stick shaker rattle, bleed air rush after shut-down, HUD handling sounds, improved environment sounds, cabin chatter, touchdown sounds, as well as improved touchdown sound logic. The LevelUp 737NG Series V2 update is available for download on the Threshold forums and the OrbxDirect for free, and requires just 0.94GB of free disk space. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2025-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/newgmt</id>
+    <title>Meridian GMT Website Relaunch Goes Live, Reveals Full Hardware Line-Up</title>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <link href="/news/newgmt"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69559d21c030d96f3ecf5e9c_latitude-product%20(1).webp"/>
+    <summary>Sim: OTHER. Meridian GMT has officially launched its redesigned website, marking a significant milestone for the studio and putting its long-teased hardware ecosystem in the spotlight.Â This follows the initial announcement made by Meridian on Christmas Day. The updated product pages are now available at MeridianGMT.com, showcasing various imagery, specifications, and feature breakdowns for the Horizon Plus Flight Controls, Latitude Plus Throttle Quadrant, and the X-Ray Handheld FlightDeck. At the centre of the line-up is the Horizon Plus Flight Controls, Meridianâs flagship yoke system, designed around a modular architecture that allows pilots to tailor the setup for airliner or general aviation operations.Â  The system combines a full-range roll axis with a deliberately asymmetric pitch mechanism, providing precision during rotation, approach, and landing. At the same time, modular avionics bays on either side allow panels to be swapped, as flying styles change. Sitting alongside it is the Latitude Plus Throttle Quadrant, a highly configurable throttle solution, with interchangeable lever sets and magnetic faceplates. This allows for quick transitions between various Boeing, Airbus, and GA configurations. Rounding out the ecosystem is the X-Ray Handheld FlightDeck, a compact controller designed for couch and casual flying, with magnetic faceplates, tactile controls, and a strong emphasis on accessibility.Â  Full information on X-Ray compatibility, particularly for console use, will follow once licensing processes are completed in January. â The website relaunch also confirms Meridianâs move away from its earlier phonetic naming scheme, with product names now aligned directly to the brandâs identity, a change founder Nicki says represents a clean break from the companyâs past, and a renewed focus on its own design language.Â  According to the published roadmap, a non-binding pre-order sign-up for the Horizon Plus Flight Controls is planned to open on Jan. 20, 2026, serving as a system and demand test, with full pre-orders expected from Feb. 1, 2026. The Latitude Plus Throttle Quadrant will follow shortly after. They also plan to showcase hands-on prototypes at FSWeekend in Lelystad and at FlightSimExpo 2026 in Saint Paul, Minnesota, ahead of beta units and wider pre-orders rolling out during the second quarter of 2026.  Pre-orders will, however, only open once production timelines are formally locked in with manufacturing partners. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2025-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
