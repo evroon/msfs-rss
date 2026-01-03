@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-02T18:38:48.501460+00:00</updated>
+  <updated>2026-01-03T18:37:03.351050+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/asubbf</id>
-    <title>Azrsim Releases Fuzuli International Airport for MSFS 2024</title>
-    <updated>2025-12-22T00:00:00+00:00</updated>
-    <link href="/news/asubbf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6949723e6063ffe8d96ff12d_Banner_Image.webp"/>
-    <summary>Sim: FS24. Azrsim has recently released its rendition of Fuzuli International Airport (UBBF) for Microsoft Flight Simulator 2024. After previously launching Heydar Aliyev International Airport (UBBB), the main airport in Baku, earlier this year, the team has now turned its attention to another city in Azerbaijan. Fuzuli International Airport currently offers passenger flights solely to the capital, Baku. Fuzuli International Airport is a relatively new airport, having opened in 2021. It covers an area of just under 650,000 square feet and features a runway that is nearly 10,000 feet long. Currently, the airport is served exclusively by Azerbaijan Airlines, which offers flights to Baku; however, it also accommodates cargo flights. Azrsimâs airport rendition features an accurate airport layout, a fully custom-modelled terminal building, high-quality PBR materials, custom night lighting, and many additional features. The newly released Fuzuli International Airport by Azrsim is now available on SimMarket for approximately $17.64. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fslpwupdevu</id>
-    <title>FSLabs Publishes Development Update for MSFS 2020/2024</title>
-    <updated>2025-12-22T00:00:00+00:00</updated>
-    <link href="/news/fslpwupdevu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69499e89c9d1fe9be5f4f058_pw1.png"/>
-    <summary>Sim: FS24. FSLabs has recently published a new development update regarding the long-awaited Pratt &amp; Whitney update for their A321neo, released earlier this year with LEAPs as the sole engine option initially. A combination of technical challenges and continued changes introduced through Sim Updates in Microsoft Flight Simulator 2024 has necessitated unexpected additional work and testing validation, which has pushed the updateâs rollout date forward. Furthermore, they are actively supporting Microsoft Flight Simulator 2020, while also laying the groundwork for a fully native 2024 product line, which adds further complexity to their development process. Rather than pushing a half-baked update, FSLabs chose to wait it out until itâs all deemed properly stable, avoiding a sequence of micro-updates.  They also do not expect the aforementioned update to be released before Christmas, as they donât want to put unnecessary strain on their quality assurance and support teams, and they want to ensure full availability when the update is shipped. Development and testing will absolutely not stop during the holidays, though. They have also shared a few screenshots from their Â current work-in-progress builds, and more details will be shared soon. â The add-on is available on their website for $69.95. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkrov2</id>
-    <title>MK Studios Releases Rovaniemi Airport V2 for MSFS 2020/2024</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <link href="/news/mkrov2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b11664a22742aa86140e7_rova1.webp"/>
-    <summary>Sim: FS24. MK Studios has recently released their updated rendition of Rovaniemi Airport (EFRO) for Microsoft Flight Simulator 2020 and 2024, the third-busiest airport in Finland, serving 500,000 passengers annually. It was built in 1940, originally featuring two grass runways. It was heavily utilized as a Luftwaffe Air base and supply center during the Second Soviet-Finnish War between 1941 and 1944. By the end of the conflict, the airport was heavily compromised. Rebuilding work was concluded in 1948, and regular traffic resumed in the second half of the same year. The current terminal building was completed in 1992 and expanded in 2000 with the addition of jetways. The runway underwent renovation work in 2016, with new pavement and LED lights, and 2019 marked the completion of the terminalâs third enlargement. Itâs served all year long by Finnair, and a multitude of European carriers visit Rovaniemi during the winter season (Aer Lingus, Air France, easyJet, Eurowings, Ryanair, Transavia, Turkish Airlines, to name a few). The scenery features an accurate rendition of the airport, with custom ground textures, high-quality 3D models, custom terminal interiors, an up-to-date ground layout, custom jetways, precise runway elevation data, and more. â Itâs available on OrbxDirect for roughly $19.42, requiring at least 3.04 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ffu622</id>
     <title>Flight Factor Updates 757 V2 and 767 for X-Plane</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69559d21c030d96f3ecf5e9c_latitude-product%20(1).webp"/>
     <summary>Sim: OTHER. Meridian GMT has officially launched its redesigned website, marking a significant milestone for the studio and putting its long-teased hardware ecosystem in the spotlight.Â This follows the initial announcement made by Meridian on Christmas Day. The updated product pages are now available at MeridianGMT.com, showcasing various imagery, specifications, and feature breakdowns for the Horizon Plus Flight Controls, Latitude Plus Throttle Quadrant, and the X-Ray Handheld FlightDeck. At the centre of the line-up is the Horizon Plus Flight Controls, Meridianâs flagship yoke system, designed around a modular architecture that allows pilots to tailor the setup for airliner or general aviation operations.Â  The system combines a full-range roll axis with a deliberately asymmetric pitch mechanism, providing precision during rotation, approach, and landing. At the same time, modular avionics bays on either side allow panels to be swapped, as flying styles change. Sitting alongside it is the Latitude Plus Throttle Quadrant, a highly configurable throttle solution, with interchangeable lever sets and magnetic faceplates. This allows for quick transitions between various Boeing, Airbus, and GA configurations. Rounding out the ecosystem is the X-Ray Handheld FlightDeck, a compact controller designed for couch and casual flying, with magnetic faceplates, tactile controls, and a strong emphasis on accessibility.Â  Full information on X-Ray compatibility, particularly for console use, will follow once licensing processes are completed in January. â The website relaunch also confirms Meridianâs move away from its earlier phonetic naming scheme, with product names now aligned directly to the brandâs identity, a change founder Nicki says represents a clean break from the companyâs past, and a renewed focus on its own design language.Â  According to the published roadmap, a non-binding pre-order sign-up for the Horizon Plus Flight Controls is planned to open on Jan. 20, 2026, serving as a system and demand test, with full pre-orders expected from Feb. 1, 2026. The Latitude Plus Throttle Quadrant will follow shortly after. They also plan to showcase hands-on prototypes at FSWeekend in Lelystad and at FlightSimExpo 2026 in Saint Paul, Minnesota, ahead of beta units and wider pre-orders rolling out during the second quarter of 2026.  Pre-orders will, however, only open once production timelines are formally locked in with manufacturing partners. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2025-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/shsbud</id>
+    <title>SkyHigh Studios Announces Budapest Liszt Ferenc for MSFS 2024</title>
+    <updated>2026-01-03T00:00:00+00:00</updated>
+    <link href="/news/shsbud"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6958fb2bb20f890dcc5375aa_607485218_1430484399080870_653525041141878838_n.webp"/>
+    <summary>Sim: FS24. SkyHigh Studios has announced that it is developing Budapest Liszt Ferenc International Airport for Microsoft Flight Simulator 2024, marking the studioâs first confirmed project for the new platform.Â  The announcement was shared alongside a small selection of early in-sim screenshots, offering an initial look at the airportâs terminal areas, surrounding buildings, and parts of the cargo complex. Liszt Ferenc, named after the famous Hungarian composer Franz Liszt, is Hungaryâs primary international gateway, and a significant hub for Central and Eastern Europe.  It has a strong presence from Wizz Air, alongside numerous cargo and long-haul operators, also previously hosting the now-defunct Hungarian flag carrier, MalÃ©v. SkyHigh Studios has not yet shared detailed feature lists or technical specifications. However, the previews suggest a focus on details, including terminal interiors, landside structures, and airport-adjacent scenery, all of which are still clearly in early development. No release window has been confirmed at this time. SkyHigh Studios says more information will be shared as development progresses.  Weâll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/atmo10</id>
+    <title>REX Simulations Releases Atmos Core Technical Update 1.0</title>
+    <updated>2026-01-03T00:00:00+00:00</updated>
+    <link href="/news/atmo10"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/690157e70cff0654c089ed7e_68b206df44ac00c5f59ecd96_atmos-core-hero.webp"/>
+    <summary>Sim: FS24. REX Simulations has released Technical Update 1.0 for REX Atmos CORE, delivering a wide-ranging update focused on stability, compatibility, and weather rendering improvements for Microsoft Flight Simulator 2024. The headline change is full compatibility with Sim Update 4, addressing multiple integration points affected by the update, including environmental data offsets and API communication, ensuring Atmos Core continues to inject weather and atmospheric changes reliably.Â  Alongside this, REX has resolved long-standing issues with custom weather rendering across METAR, Simple, and Advanced modes, rebuilding the internal hooks to improve multi-layer atmospheric rendering, cloud behaviour, and lighting synchronisation. Several usability and reliability fixes are also included, such as corrected UI validation that previously blocked preset saving, improved reading of the local settings.json file, and minor interface clean-ups. The update also introduces a new startup log system, designed to verify application processes during launch, as well as simulator runtime validation, which confirms that the simulator is running before Atmos Core initialises, reducing the risk of errors or failed startups. REX notes that this is a full version release, and strongly recommends uninstalling all previous versions of Atmos Core before installing build 8.1.2025.1210.  For the full release notes, visit REX's Discord server, or click here.  You can also read Thresholdâs hands-on review of REX Atmos Core here.  â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f2hbhm</id>
+    <title>Fly2High Releases BirminghamâShuttlesworth for X-Plane 11/12</title>
+    <updated>2026-01-03T00:00:00+00:00</updated>
+    <link href="/news/f2hbhm"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695915ee884343ea80e9fdbe_371406_Cessna_172SP_-_2025-12-27_22.57.02_copy%20(1).webp"/>
+    <summary>Sim: X-Plane. Fly2High has released BirminghamâShuttlesworth International Airport (KBHM) for X-Plane 11 and X-Plane 12, bringing Alabamaâs primary commercial airport to the platform. Located just northeast of downtown Birmingham, BirminghamâShuttlesworth International Airport serves a mix of airline, cargo, and general aviation traffic, making it a versatile place for regional and domestic operations. The scenery features custom-modelled terminals, realistic PBR textures across buildings and ground surfaces, hand-placed night lighting, and an accurately reproduced airfield layout, all tuned to remain performance-friendly.Â  Additional touches include modelled terminal interiors, custom mesh, detailed vegetation, 3D grass, and a faithfully recreated area of the Alabama Air National Guard. KBHM BirminghamâShuttlesworth is available now for $16.99 on the X-Plane.org Store, and is also on sale via SimMarket. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-03T00:00:00+00:00</published>
   </entry>
 </feed>
