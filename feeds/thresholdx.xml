@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-04T18:37:09.385439+00:00</updated>
+  <updated>2026-01-05T18:41:46.283922+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ffu622</id>
-    <title>Flight Factor Updates 757 V2 and 767 for X-Plane</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <link href="/news/ffu622"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b255103a678619d800e48_1791020844_757-300_xp12-2022-09-0814_00_23.jpg.64ae8513aa67809c30a0ab823f0bad9a.jpg"/>
-    <summary>Sim: X-Plane. Flight Factor has recently released a minor update for the 757 V2 (v2.6.22) and 767 (v1.6.22) product lines, addressing several reported bugs.Â Featured is a possible fix for the spurious terrain look-ahead warning reported by many users. They also fixed the colour of the terrain look-ahead warning text to the highest level.Â  As for weather radar issues, Flight Factor has fixed bugs with the tilt control function, and a bug that caused the controls to malfunction if both weather radars were on.Â  To round out the update, Flight Factor fixed the issues with the EFBâs charts tab, that caused unpredictable behaviour if settings hadnât been saved.Â  As always, the full changelog follows below: â 757 v2.6.22 Updated implementations of TERR/WXR radars in all 757 models (including new WXR radar based on X-plane 12.3 capabilities) Updated Navigraph authentication method for Charts in tablet Added the ability to use shared Navigraph settings from other FF products Fixed possible crash related to TGDS plugin Fixed the necessity of often relogging in case of using Navigraph Charts in tablet Fixed the logic of the hydraulic system, PTU, yaw damper, and reserve brake Fixed EICAS message order â 767 v1.6.22 Updated implementations of TERR/WXR radars in all 767 models (including new WXR radar based on X-plane 12.3 capabilities) Updated Navigraph authentication method for Charts in tablet Added the ability to use shared Navigraph settings from other FF products Fixed possible crash related to TGDS plugin Fixed the necessity of often relogging in case of using Navigraph Charts in tablet Fixed EICAS message order â To get the update, simply run X-Updater located in your 757 or 767 directory.Â  New customers can purchase a copy of the Flight Factor 757 V2 or 767 from the Flight Factor website.Â  â If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â Â Â Â Â </summary>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp1240</id>
-    <title>Laminar Research Releases X-Plane 12.4.0 Beta</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <link href="/news/xp1240"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b2a1a5c5001242ad2008a_CCheck_Update_Title_1-1.webp"/>
-    <summary>Sim: X-Plane. In a surprise announcement, Laminar Research has released the beta version of their C-Check update, better known as X-Plane 12.4.0 Beta. The stated goal of the beta is to lay the groundwork forÂ  X-Planeâs future.Â  Laminar Research has accomplished this by replacing core elements of the simulator and improving aircraft systems. The default A330 has been reworked to a "payware level", now, for example, allowing for realistic cold and dark starts. It also gives you the tools needed to conduct proper oceanic and long-haul flights. This includes a third MCDU for Airline Operational Communications.Â  The autopilot system has also been improved, making for smoother turns, better flight plan tracking, and more reliable coupled approaches. Finally, emergencies can now be simulated. On the general aviation side, X-Planeâs default X430 and X530 now have working terrain, traffic, and weather pages, while the X1000 now features a dedicated page showing ETE/ETA.Â  For lovers of custom scenery, the team has included a rendition of Bilbao Airport (LEBB) in Spain. Other improvements in the beta include native support for the Tobii Eye Tracker 5 on Windows, multi-threaded scenery processing, virtual reality improvements, ATC improvements, and more! You can find the full release notes here.Â  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/winctrl</id>
     <title>WINWING Confirms 2026 Rebrand to WINCTRL</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695915ee884343ea80e9fdbe_371406_Cessna_172SP_-_2025-12-27_22.57.02_copy%20(1).webp"/>
     <summary>Sim: X-Plane. Fly2High has released BirminghamâShuttlesworth International Airport (KBHM) for X-Plane 11 and X-Plane 12, bringing Alabamaâs primary commercial airport to the platform. Located just northeast of downtown Birmingham, BirminghamâShuttlesworth International Airport serves a mix of airline, cargo, and general aviation traffic, making it a versatile place for regional and domestic operations. The scenery features custom-modelled terminals, realistic PBR textures across buildings and ground surfaces, hand-placed night lighting, and an accurately reproduced airfield layout, all tuned to remain performance-friendly.Â  Additional touches include modelled terminal interiors, custom mesh, detailed vegetation, 3D grass, and a faithfully recreated area of the Alabama Air National Guard. KBHM BirminghamâShuttlesworth is available now for $16.99 on the X-Plane.org Store, and is also on sale via SimMarket. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ss220u</id>
+    <title>Synaptic Simulations Shares A220 Development Update</title>
+    <updated>2026-01-04T00:00:00+00:00</updated>
+    <link href="/news/ss220u"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695adcf09a00a32183e5de53_image1.webp"/>
+    <summary>Sim: FS24. Synaptic Simulations has shared a brief end-of-year development update on its upcoming A220, offering a snapshot of where the project stands as it heads into 2026. Over the past year, the team has made steady progress across the aircraftâs core systems, including engine control, fly-by-wire, and autoflight logic, as well as a significant rebuild of the flight management system, to support deeper system integration.Â  System complexity has continued to grow, with the EICAS now featuring more than 100 messages. At the same time, ongoing revisions to both the engine and flight models aim to further refine the aircraftâs handling and performance.Â  Looking ahead, Synaptic says testing will ramp up in the coming months, with a focus on LNAV behaviour across global procedures, VNAV integration, and ensuring that performance data is adequately respected by guidance and engine systems. A handful of remaining systems, including pressurisation and autobrakes, are still being finalised.Â  While the A220 did not release in 2025, the team reiterated that the extra time is being used to deliver a more complete, polished product, with further updates expected, as development continues into the new year.  Read the full update on Synaptic's Discord. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsaw26</id>
+    <title>Vote Now: Community Nominations Open for Flightsim Awards 2026</title>
+    <updated>2026-01-05T00:00:00+00:00</updated>
+    <link href="/news/fsaw26"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695be909ac215d8654456993_FLIGHTSIM_AWAR_Black_Background.webp"/>
+    <summary>Sim: OTHER. The community survey for the Flightsim Awards 2026 is now live, marking the opening of the official nomination phase for next yearâs awards.Â  The survey allows simmers to nominate projects, developers, creators, and long-term contributors they believe made a meaningful impact on the flight simulation scene in 2025. The nomination phase plays a key role in shaping the final shortlist, covering a wide range of categories across aircraft, scenery, tools, freeware, hardware, innovation, and community contributions.Â  Participants are free to nominate in as many or as few categories as they wish, with no requirement to complete the entire form. All submissions will be reviewed and passed on to the Flightsim Awards organising board and jury, alongside nominations gathered from invited content creators and media outlets. The goal is to ensure that the final voting slate reflects a broad community sentiment, rather than a curated selection. All entries are evaluated according to shared principles: The survey is being distributed jointly by Threshold, FSElite, and Cruiselevel, who together organise the Flight Sim Awards. Public voting will follow later in the process, with a jury step only used in cases of ties or irregular results. Nominations are open until the published deadline, with eligibility limited to products and projects released or significantly updated in 2025.Â  The winners will be revealed during the Captainâs Dinner at FlightSimWeekend 2026, on Friday, March 20.  â Take the nomination survey here.  You can read more on the Flight Sim Awards website. Tickets to FlightSimWeekend 2026 and the Captain's Dinner can be found here. â Join the Flight Sim Awards Discord and be a part of the Awards community! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-05T00:00:00+00:00</published>
   </entry>
 </feed>
