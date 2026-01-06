@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-05T18:41:46.283922+00:00</updated>
+  <updated>2026-01-06T18:40:50.507505+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/winctrl</id>
-    <title>WINWING Confirms 2026 Rebrand to WINCTRL</title>
-    <updated>2025-12-26T00:00:00+00:00</updated>
-    <link href="/news/winctrl"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694ec082209381a072c49f74_603811011_1551469795931056_8692167976900153039_n.jpg"/>
-    <summary>Sim: OTHER. WINWING has officially revealed a brand rework, confirming it will operate as âWINCTRLâ, starting next year.  The change marks the retirement of the original WINWING name, as the company shifts towards a strategy of greater clarity, refinement, and long-term growth. In a message shared with the community, the team reflected on its six-year journey, from its first consumer flight control hardware, through countless iterations shaped by user feedback, detailed discussions, and a passionate core audience.Â  The new name, WINCTRL, is said to represent âprecise controlâ, a theme the company says has always guided its design philosophy and its relationship with its customers. Under the WINCTRL banner, the company is promising smarter, more precisely tuned hardware, stronger customer support, expanded warranty coverage, and a closer community, including beta programmes and offline meetups for dedicated users. While no new hardware has been formally unveiled, the new âCyber Taurusâ is currently planned for a Q1 reveal.Â We'll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!Â </summary>
-    <published>2025-12-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mmenevr</id>
     <title>MM Simulations Releases Harstad/Narvik Airport for MSFS 2020/2024</title>
@@ -150,6 +141,15 @@
     <link href="/news/fsaw26"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695be909ac215d8654456993_FLIGHTSIM_AWAR_Black_Background.webp"/>
     <summary>Sim: OTHER. The community survey for the Flightsim Awards 2026 is now live, marking the opening of the official nomination phase for next yearâs awards.Â  The survey allows simmers to nominate projects, developers, creators, and long-term contributors they believe made a meaningful impact on the flight simulation scene in 2025. The nomination phase plays a key role in shaping the final shortlist, covering a wide range of categories across aircraft, scenery, tools, freeware, hardware, innovation, and community contributions.Â  Participants are free to nominate in as many or as few categories as they wish, with no requirement to complete the entire form. All submissions will be reviewed and passed on to the Flightsim Awards organising board and jury, alongside nominations gathered from invited content creators and media outlets. The goal is to ensure that the final voting slate reflects a broad community sentiment, rather than a curated selection. All entries are evaluated according to shared principles: The survey is being distributed jointly by Threshold, FSElite, and Cruiselevel, who together organise the Flight Sim Awards. Public voting will follow later in the process, with a jury step only used in cases of ties or irregular results. Nominations are open until the published deadline, with eligibility limited to products and projects released or significantly updated in 2025.Â  The winners will be revealed during the Captainâs Dinner at FlightSimWeekend 2026, on Friday, March 20.  â Take the nomination survey here.  You can read more on the Flight Sim Awards website. Tickets to FlightSimWeekend 2026 and the Captain's Dinner can be found here. â Join the Flight Sim Awards Discord and be a part of the Awards community! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsogaleo2</id>
+    <title>FSoares Shares New GaleÃ£o International Airport Previews </title>
+    <updated>2026-01-05T00:00:00+00:00</updated>
+    <link href="/news/fsogaleo2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695c3b3230f0a76c32a4119e_rio1.jpg"/>
+    <summary>Sim: FS24. FSoares has recently teased the development progress on his Rio de Janeiro/GaleÃ£o International Airport (SBGL) rendition for Microsoft Flight Simulator 2020 and 2024. This is the main airport serving Rio de Janeiro, Brazil, with a yearly average of 14.5 million passengers. It was opened in 1952 on top of a pre-existing Brazilian Air Force base that was utilized by international long-haul flights, which were too heavy and too large for SBRJâs (Rioâs domestic airport) 1,300 m runway. With the ever-increasing international demand, they finally built a passenger terminal, which was progressively expanded until 1977. A new terminal building was opened that year, and all scheduled passenger traffic was transferred there. Itâs still in use today as Terminal 1. Terminal 1 was first renovated in 1991 in preparation for the United Nations Earth Summit (held in 1992), and its annual capacity increased to 7.5 million passengers. Eight years later, Terminal 2 was opened, featuring 24 jetways and a capacity of up to 7.5 million passengers per year. âWith the imminence of the World Cup and the Olympic Games in 2014 and 2016, respectively, Infraero (the airportâs former manager) unveiled a $431 million upgrade and expansion plan for GaleÃ£o, including the renovation of Terminal 1, the completion of Terminal 2, and the expansion of the parking lots. The new concessionary revised the plans and included a new pier with 26 jetways, a new apron for 97 aircraft, and 2640 parking spaces. The $400 million sum quickly jumped to $800 million instead. AerolÃ­neas Argentinas, Air France, American Airlines, Avianca, Azul, British Airways, Copa Airlines, Delta Air Lines, Emirates, Flybondi, Gol, Iberia, ITA Airways, JetSmart Argentina, JetSmart Chile, KLM, Latam Brasil, Latam Chile, Latam PerÃº, Lufthansa, Paranair, Sky Airlines, TAP, and United Airlines serve it. There is no information on features, pricing, or a release date yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-05T00:00:00+00:00</published>
   </entry>
 </feed>
