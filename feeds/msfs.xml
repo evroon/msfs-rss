@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-01-06T18:40:45.980894+00:00</updated>
+  <updated>2026-01-07T18:42:40.282391+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -200,6 +200,7 @@
     <title>Microsoft Flight Simulator 2024 Early Access for Sony PlayStation Is Now Live</title>
     <updated>2025-12-02T19:09:33+00:00</updated>
     <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/PS5_EarlyAccess_v02-1024x576.jpg"/>
     <summary>Microsoft Flight Simulator 2024 is now live on Sony PlayStation 5 and PlayStation 5 Pro consoles! This will be a rolling global release, with access unlocking at 8am in the local time zone of most regions. Please consult the release map below to see exactly when MSFS 2024 unlocks in your area.Early Access is available … Continued</summary>
     <published>2025-12-02T19:09:33+00:00</published>
   </entry>
@@ -208,16 +209,8 @@
     <title>Release Notes – Sim Update 4 [1.6.32.0] Now Available | MSFS 2024</title>
     <updated>2025-12-08T16:03:28+00:00</updated>
     <link href="https://www.flightsimulator.com/sim-update-4-msfs-2024/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/SU4-1024x576.png"/>
     <summary>microsoft flight simulator 2024 | Sim Update 4 – release notes – 1.6.32.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.To … Continued</summary>
     <published>2025-12-08T16:03:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-stranger-things-expansion/</id>
-    <title>Microsoft Flight Simulator 2024: Stranger Things Expansion</title>
-    <updated>2025-12-09T13:05:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-stranger-things-expansion/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2025/12/MSFS24_Spotlight_Keyart_V5.1_16x9_WithLogos-1024x576.png"/>
-    <summary>Enter the world of Netflix’s Stranger Things and explore the faithful recreation of Hawkins. Two iconic franchises have come together to combine the authenticity and realism of Microsoft Flight Simulator 2024 with the exciting, mysterious world of Stranger Things. Think you have what it takes to fly a Bell UH-1H Huey and help the residents … Continued</summary>
-    <published>2025-12-09T13:05:14+00:00</published>
   </entry>
 </feed>
