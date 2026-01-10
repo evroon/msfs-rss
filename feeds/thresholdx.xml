@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-09T18:41:12.950052+00:00</updated>
+  <updated>2026-01-10T18:37:21.946846+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a2aaccu25024</id>
-    <title>A2A Simulations Releases Native Accu-Sim Comanche 250 for MSFS 2024</title>
-    <updated>2025-12-26T00:00:00+00:00</updated>
-    <link href="/news/a2aaccu25024"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694f09f57c89041e08b3844c_manche1.webp"/>
-    <summary>Sim: FS24. A2A Simulations has recently released a native build of their Accu-Sim Comanche 250 for Microsoft Flight Simulator 2024, including new 2024-only features such as the new EFB apps, dirt accumulation, and more. â The upgrade brings native 2024 gauges, a native 2024 EFB with charts and other apps, a full walkaround system using 2024âs standards, dirt accumulation on the exterior, dual PMS/TDS GTN 750/650 configuration, time compression support, and much more. The complete feature list follows below: Itâs available in their store for $49.99, and owners of the MSFS 2020 version can upgrade for a discounted price ($14.99). The upgrade is not mandatory, and the previous version will continue to work in 2024, albeit without the new features. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/l73v2r</id>
-    <title>LevelUp 737NG Series V2 Stage 1 Set for Dec. 30 Release</title>
-    <updated>2025-12-27T00:00:00+00:00</updated>
-    <link href="/news/l73v2r"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695032e07ab2038b76a39d1a_Available-Now%20(1).webp"/>
-    <summary>Sim: X-Plane. The LevelUp 737NG Series V2 Stage 1 appears set to release on Dec. 30, quietly revealed via its download page, with a short note simply stating, âSee you on the 30thâ. The update marks the long-awaited first stage of the V2 refresh for X-Plane 12, delivering a comprehensive visual and audio overhaul years in the making.Â  Stage 1 focuses on exterior and cabin upgrades, pairing a rejuvenated 3D model with brand-new 8K textures, optimised geometry, and a modular visual architecture, designed to keep file size small. The V2 package brings the complete five-member 737NG family, spanning the -600 through -900ER, all powered by Zibo systems, and all benefiting from a reworked cabin, improved exterior modelling, and a wide range of configuration options, from split scimitar winglets to eyebrow windows. Sound has also been a significant focus, with a revamped FMOD 2.0 soundset, professionally recorded material, improved performance, and far greater depth across both interior and exterior audio, including a more authentic CFM56 sound profile. Following the release of Stage 1, Stage 2 will introduce a fully reworked cockpit, flight model improvements and more.  Weâll keep you updated on any future developments, leading up to release day. For more information, you can check out the official LevelUp Discord server. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mgoatr</id>
     <title>Mango Studios Announces ATR 72-500 for X-Plane 12</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695fe8c0782a7ec1a7f24ed5_Banner_Image.webp"/>
     <summary>Sim: FS24. MK Studios has just released Rome Fiumicino V2, their latest scenery package for Microsoft Flight Simulator 2020 and 2024. This package offers an intricately detailed recreation of Rome Fiumicino Airport (LIRF), which is the eighth-busiest airport in Europe. The original version, Rome Fiumicino V1, was released in 2022, and now, three years later, V2 has been introduced, enhancing and expanding upon the features of the previous version. The airport opened its doors in 1961, originally featuring only two runways. A third runway was constructed shortly after during the 1960s. Over the years, the airport has undergone various improvements and expansions, including terminal upgrades and the construction of new terminals. Today, the airport welcomes almost 50 million passengers annually, with airlines such as ITA Airways, easyJet, and Neos operating flights to and from destinations around the globe. Rome Fiumicino V2 features high-quality 3D models and textures, modelled terminal interiors, an up-to-date ground layout, custom-designed jetways, immersive lighting, and more. The newly released Rome Fiumicino V2 by MK Studios is now available from Contrail for $21.41. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-01-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a340vip</id>
+    <title>iniBuilds Announces A340 VIP Update for MSFS 2024</title>
+    <updated>2026-01-09T00:00:00+00:00</updated>
+    <link href="/news/a340vip"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696194174d46a75b24ded75e_a340vipcover.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently announced the development and imminent release of a free VIP package for their A340 Airliner, which was released in 2025 for Microsoft Flight Simulator 2024.  The new VIP configuration will include a brand-new passenger cabin with custom ambient sounds, adjustable light dimness, lighting controls via the flight attendant panel, customizable mood lighting, and custom cabin animations. The developers have not provided any concrete information regarding the release date, but itâs said to be âcoming soonâ. It will be a free update for A340 owners. The A340 Airliner is available in the MSFS Marketplace for $59.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vvtsv2</id>
+    <title>DominicDesignTeam Releases Tan Son Nhat International Airport for MSFS 2020/2024</title>
+    <updated>2026-01-10T00:00:00+00:00</updated>
+    <link href="/news/vvtsv2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696265c69df71fd60f7609f8_Banner_Image.webp"/>
+    <summary>Sim: FS24. DominicDesignTeam has just released the V2 version of Tan Son Nhat International Airport (VVTS) for Microsoft Flight Simulator 2020 and 2024. The airport, located in Ho Chi Minh City, Vietnam, serves around 40 million passengers each year. The airport has its origins in the early 1920s when it began as a small airfield. Over the years, it has expanded and developed into what it is today. Currently, the airport features two parallel runways, three passenger terminals, a cargo terminal, and a 230-foot tall air traffic control tower. It serves as a hub for both Vietnam Airlines and Vietnam Air Services Company, as well as accommodating a variety of other airlines that provide flights from around the world. The V2 version of the scenery is packed with features, including PBR textures, dynamic lighting, realistic ground markings, custom jetways, and more. The newly released Tan Son Nhat International Airport by DominicDesignTeam is now available on SimMarket for approximately $26.17. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-10T00:00:00+00:00</published>
   </entry>
 </feed>
