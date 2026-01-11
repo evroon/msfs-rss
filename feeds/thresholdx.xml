@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-10T18:37:21.946846+00:00</updated>
+  <updated>2026-01-11T18:37:32.822004+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mgoatr</id>
-    <title>Mango Studios Announces ATR 72-500 for X-Plane 12</title>
-    <updated>2025-12-27T00:00:00+00:00</updated>
-    <link href="/news/mgoatr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69504c4feec84d0e916e5bcf_600347200_877109611962696_5780293440335014144_n.jpg"/>
-    <summary>Sim: X-Plane. In a surprise announcement, Mango Studios, perhaps a name more commonly associated with audio addons than aircraft, has revealed its first-ever aircraft project, the ATR 72-500 for X-Plane 12. The project is stated to have been in development for around nine months and is being created in partnership with Alsie Express, alongside volunteer contributors from across the flight simulation community.Â  According to Mango Studios, the goal is to deliver a highly authentic, deeply researched ATR simulation, built using real-world photographic references, pilot feedback, and extensive technical study. Planned features include a fully custom FMOD sound set, bespoke aircraft systems, a detailed 3D model with high-resolution textures, an integrated electronic flight bag, and custom animations throughout. While the aircraft remains firmly work-in-progress, early screenshots have already been shared, offering a first look at the external modelling and surface detail. You can read more about that here. No release window, pricing, or development roadmap has been announced at this stage, and Mango Studios has been clear that the project is still in its early phases, which the pictures so far also represent. You can read more about the project on the X-Plane.org forums. We will keep you updated as development continues. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mgmtdc</id>
-    <title>Meridian GMT Teases Major Hardware Refresh</title>
-    <updated>2025-12-28T00:00:00+00:00</updated>
-    <link href="/news/mgmtdc"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69517398eec84d0e91a16508_602974703_122215487966063585_8627058572866468407_n.webp"/>
-    <summary>Sim: OTHER. Meridian GMT has recently teased that a major product update is just days away, with its official website set to receive a complete refresh on Dec. 30. This will include new product pages, several previously unseen features, and an expected launch window for its upcoming hardware lineup. The update was previewed in a short video teaser, where the team has promised a steady drip-feed of information.Â  Each day leading up to Dec. 30, Meridian GMT says it will highlight a new or updated feature on its Facebook page, with live answers to questions in the comments.  As part of the post, Meridian GMTÂ confirmed a reset of its product naming, dropping the earlier phonetic system in favour of clearer, brand-led names.  Under the new structure, yokes will be grouped under the Horizon Series, while throttle quadrants will carry the Latitude branding, beginning with the Latitude Plus Throttle Quadrant. Carrying on, as part of their daily feature highlights, Meridian GMT has also showed off two core pillars of the upcoming hardware refresh.  The first is "Quantum Leap", a new 16-bit TMR sensor system, borrowed from aerospace and industrial applications, designed to deliver higher resolution, lower noise, and more consistent, centre precision than traditional Hall-effect sensors. These are deployed selectively on axes where accuracy matters most, including roll, throttle, and trim.  Alongside this sits "ModulAIR", Meridianâs modular control architecture, built into both Horizon Plus and Latitude Plus, allowing pilots to expand and upgrade their setups over time, without replacing entire units. This is achieved while still maintaining mechanical and electrical compatibility across future generations, supporting a more flexible, long-term hardware ecosystem.  For more information and teasers, check out Meridianâs Facebook page.  If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2025-12-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/340dec</id>
     <title>Aerosoft Shares Full A340-600 Pro Test Flight</title>
@@ -150,6 +132,24 @@
     <link href="/news/vvtsv2"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696265c69df71fd60f7609f8_Banner_Image.webp"/>
     <summary>Sim: FS24. DominicDesignTeam has just released the V2 version of Tan Son Nhat International Airport (VVTS) for Microsoft Flight Simulator 2020 and 2024. The airport, located in Ho Chi Minh City, Vietnam, serves around 40 million passengers each year. The airport has its origins in the early 1920s when it began as a small airfield. Over the years, it has expanded and developed into what it is today. Currently, the airport features two parallel runways, three passenger terminals, a cargo terminal, and a 230-foot tall air traffic control tower. It serves as a hub for both Vietnam Airlines and Vietnam Air Services Company, as well as accommodating a variety of other airlines that provide flights from around the world. The V2 version of the scenery is packed with features, including PBR textures, dynamic lighting, realistic ground markings, custom jetways, and more. The newly released Tan Son Nhat International Airport by DominicDesignTeam is now available on SimMarket for approximately $26.17. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xwslgb</id>
+    <title>XWind Studios Announces Long Beach Airport for MSFS 2020/2024</title>
+    <updated>2026-01-10T00:00:00+00:00</updated>
+    <link href="/news/xwslgb"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6962d5220d13a767adaaec96_lgb1.jpg"/>
+    <summary>Sim: FS24. XWind Studios has recently announced the development of Long Beach Airport (KLGB) for Microsoft Flight Simulator 2020 and 2024, serving Greater Los Angeles with a yearly average of 4.1 million passengers. The airport was built on the same site as the worldâs first flight school (created in 1919 by Earl S. Daugherty), after he managed to convince the city council to transform the structure into a municipal airport in 1923. The passenger terminal building was built in 1941, designed by William Horace Austin and Kenneth Smith Wing.  During its first few decades of commercial operations, the only destinations were Los Angeles, San Diego, and Catalina Island. It wasnât until 1962 that the route network expanded to San Francisco, and eventually to Las Vegas and Oakland, with the advent of jet aircraft in the late 1960s. The early 1990s were disastrous for the airportâs traffic figures, with multiple airlines ending service to it. Further blows came in the early 2000s and mid-2010s, when American Airlines and Alaska Airlines ceased service, respectively. Itâs served by Delta Airlines, Delta Connection, Hawaiian Airlines, and Southwest Airlines. â The developers claim to have spent the last nine months learning, researching, and working their way through the production of the scenery, which is approximately 70% complete and is expected to be released within the first quarter of the year. âIf you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tfdimd11101</id>
+    <title>TFDi Designâs MD-11 MSFS 2024 Update to Release in 2 Days</title>
+    <updated>2026-01-10T00:00:00+00:00</updated>
+    <link href="/news/tfdimd11101"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6962d86ea77b76278e485855_mcd1.png"/>
+    <summary>Sim: FS24. TFDi Design has recently published a trailer unveiling their long-awaited Microsoft Flight Simulator 2024 compatibility update, which brings many new features, including Pratt &amp; Whitney engines, extended simulation, and more. The new update will bring a highly detailed cockpit with multiple customer options and subtle variances between variants, a meticulously modeled exterior with a strong emphasis on mechanical details, and a high-fidelity representation of the aircraftâs systems including all manual and automatic control modes and advanced flight management system/auto-flight systems, high-quality sounds, an interactive passenger cabin with working in-door controls, lavatories, overhead bins, window shades, and seat-back trays, and integration with many third party software and hardware options. The add-on is available in their store, starting from $69.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-10T00:00:00+00:00</published>
   </entry>
 </feed>
