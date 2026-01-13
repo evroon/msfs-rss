@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-12T18:42:11.160905+00:00</updated>
+  <updated>2026-01-13T18:39:58.534673+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/340dec</id>
-    <title>Aerosoft Shares Full A340-600 Pro Test Flight</title>
-    <updated>2025-12-28T00:00:00+00:00</updated>
-    <link href="/news/340dec"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695189c49517d8d65b230c98_69XntUbTIcU-HD.webp"/>
-    <summary>Sim: FS24. Aerosoft has delivered a pleasant surprise for fans of the A340, releasing a whole, uncut test flight video of the upcoming A340-600 Pro, showcasing the aircraft on a full FrankfurtâBoston sector. The footage, shared by the Aerosoft Flight team, offers an extended look at the aircraftâs current state, including system operation, flight dynamics, EFB interaction, sounds, and exterior visuals. The A340-600 Pro is being developed as a collaboration between Aerosoft and ToLiss, combining ToLissâs systems and flight modelling expertise, with Aerosoftâs visual and artistic work.  The aircraft is planned for release on Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024, although it remains firmly in development for now.Â  As always, keep in mind that this is still a work-in-progress build, and does not necessarily represent the final product. As of the latest, you can expect release sometime in 2026. For more information and teasers, you can check out Aerosoftâs Discord server.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2025-12-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/xcrfterjdec</id>
     <title>X-Crafts Posts Development Update for the ERJ Family 2.0</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6962d86ea77b76278e485855_mcd1.png"/>
     <summary>Sim: FS24. TFDi Design has recently published a trailer unveiling their long-awaited Microsoft Flight Simulator 2024 compatibility update, which brings many new features, including Pratt &amp; Whitney engines, extended simulation, and more. The new update will bring a highly detailed cockpit with multiple customer options and subtle variances between variants, a meticulously modeled exterior with a strong emphasis on mechanical details, and a high-fidelity representation of the aircraftâs systems including all manual and automatic control modes and advanced flight management system/auto-flight systems, high-quality sounds, an interactive passenger cabin with working in-door controls, lavatories, overhead bins, window shades, and seat-back trays, and integration with many third party software and hardware options. The add-on is available in their store, starting from $69.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tfdimd112024new</id>
+    <title>TFDi Design Releases Major MD-11 Update for MSFS 2020/2024</title>
+    <updated>2026-01-12T00:00:00+00:00</updated>
+    <link href="/news/tfdimd112024new"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69657661180c6e8d2a5fefdb_md1.webp"/>
+    <summary>Sim: FS24. TFDi Design has recently released their long-awaited MD-11 update for Microsoft Flight Simulator 2020/2024, bringing massive improvements to the aircraftâs 3D model, many bug fixes and tweaks, a new engine variant, and full compatibility with Microsoftâs latest flight simulator. The new update will brings a highly detailed cockpit with multiple customer options and subtle variances between variants, a meticulously modeled exterior with a strong emphasis on mechanical details, Pratt &amp; Whitney engines, and a high-fidelity representation of the aircraftâs systems including all manual and automatic control modes and advanced flight management system/auto-flight systems, high-quality sounds, an interactive passenger cabin with working in-door controls, lavatories, overhead bins, window shades, and seat-back trays, and integration with many third party software and hardware options. The complete changelog for the update follows below: The add-on is available in their store for $74.99 (either the passenger or freighter variant, with the option to purchase the other for an additional $9.99). The extended simulation package can be obtained for an additional $4.99.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-12T00:00:00+00:00</published>
   </entry>
 </feed>
