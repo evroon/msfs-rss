@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-19T18:41:01.605275+00:00</updated>
+  <updated>2026-01-20T18:55:36.044872+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ss220u</id>
-    <title>Synaptic Simulations Shares A220 Development Update</title>
-    <updated>2026-01-04T00:00:00+00:00</updated>
-    <link href="/news/ss220u"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695adcf09a00a32183e5de53_image1.webp"/>
-    <summary>Sim: FS24. Synaptic Simulations has shared a brief end-of-year development update on its upcoming A220, offering a snapshot of where the project stands as it heads into 2026. Over the past year, the team has made steady progress across the aircraftâs core systems, including engine control, fly-by-wire, and autoflight logic, as well as a significant rebuild of the flight management system, to support deeper system integration.Â  System complexity has continued to grow, with the EICAS now featuring more than 100 messages. At the same time, ongoing revisions to both the engine and flight models aim to further refine the aircraftâs handling and performance.Â  Looking ahead, Synaptic says testing will ramp up in the coming months, with a focus on LNAV behaviour across global procedures, VNAV integration, and ensuring that performance data is adequately respected by guidance and engine systems. A handful of remaining systems, including pressurisation and autobrakes, are still being finalised.Â  While the A220 did not release in 2025, the team reiterated that the extra time is being used to deliver a more complete, polished product, with further updates expected, as development continues into the new year.  Read the full update on Synaptic's Discord. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2026-01-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsaw26</id>
-    <title>Vote Now: Community Nominations Open for Flightsim Awards 2026</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <link href="/news/fsaw26"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695be909ac215d8654456993_FLIGHTSIM_AWAR_Black_Background.webp"/>
-    <summary>Sim: OTHER. The community survey for the Flightsim Awards 2026 is now live, marking the opening of the official nomination phase for next yearâs awards.Â  The survey allows simmers to nominate projects, developers, creators, and long-term contributors they believe made a meaningful impact on the flight simulation scene in 2025. The nomination phase plays a key role in shaping the final shortlist, covering a wide range of categories across aircraft, scenery, tools, freeware, hardware, innovation, and community contributions.Â  Participants are free to nominate in as many or as few categories as they wish, with no requirement to complete the entire form. All submissions will be reviewed and passed on to the Flightsim Awards organising board and jury, alongside nominations gathered from invited content creators and media outlets. The goal is to ensure that the final voting slate reflects a broad community sentiment, rather than a curated selection. All entries are evaluated according to shared principles: The survey is being distributed jointly by Threshold, FSElite, and Cruiselevel, who together organise the Flight Sim Awards. Public voting will follow later in the process, with a jury step only used in cases of ties or irregular results. Nominations are open until the published deadline, with eligibility limited to products and projects released or significantly updated in 2025.Â  The winners will be revealed during the Captainâs Dinner at FlightSimWeekend 2026, on Friday, March 20.  â Take the nomination survey here.  You can read more on the Flight Sim Awards website. Tickets to FlightSimWeekend 2026 and the Captain's Dinner can be found here. â Join the Flight Sim Awards Discord and be a part of the Awards community! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsogaleo2</id>
     <title>FSoares Shares New GaleÃ£o International Airport Previews </title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696c232ca5c920998325a3b5_XlTYwNdEyiI-HD%20(1).webp"/>
     <summary>Sim: FS24. Aerosoft has released Mt. Everest Airports Vol. 3 â Namche Bazaar to Basecamp for Microsoft Flight Simulator 2024, continuing its high-altitude scenery series with a focus on helicopter and specialist mountain operations. The third volume centres on the Khumbu region of Nepal, featuring a detailed recreation of Syangboche Airstrip, the highest fixed-wing airstrip in the area, and the final runway before Everest.Â  From there, the package shifts its attention to rotary-wing flying, adding a highly detailed Namche helipad, 18 additional helipads, and an extensively modelled Everest Base Camp area. Aerosoft has placed particular emphasis on terrain and elevation accuracy, with upgraded data for the Khumbu Glacier and Icefall, improved valley terrain, and an enhanced Mount Everest summit.Â  Other features include custom villages, suspension bridges, and a âliving worldâ layer with people and animals. Mt. Everest Airports Vol. 3 is now available from the Aerosoft Store for $13.60 (excluding VAT), with an official trailer also available on YouTube. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-01-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rowb10737</id>
+    <title>Rowsfire Launches B107 B737 Overhead Panel Pre-Sale </title>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <link href="/news/rowb10737"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696eff23c042e456b914a633_overhead1.webp"/>
+    <summary>Sim: OTHER. Rowsfire has recently launched the pre-sale for their upcoming B107 Boeing 737 Overhead Panel, with an attractive discount for early pre-orderers (up to $140 off). With a mainboard crafted using SMT PCB technology, itâs built to ensure a long lifespan and overall reliability, bringing the experience of fiddling with the switches on a Boeing 737âs overhead panel to the comfort of your home.  With a 4mm-thick, scratch-resistant acrylic front panel, Rowsfireâs overhead is designed to conveniently fit on many desks and home cockpit layouts.  On the software side of things, itâs operated by MobiFlight in tandem with Rowsfireâs own app, working right out of the box with PMDG, and support is also planned for iFly, Zibo, and Laminar Research's default 738.  Furthermore, the overhead panel does not require any external power; it relies on a single USB-A cable to function. The overhead is available for pre-order on their website, starting at $559.99 (for pre-orders until Jan 25), then $599.99 (for pre-orders until Feb 1st), and finally $699.99, the original retail price. Free worldwide shipping is included. If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
+    <published>2026-01-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fzaa12</id>
+    <title>FSDG Releases N'djili Airport for X-Plane 12</title>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <link href="/news/fzaa12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696fa961884841b3b9911f95_Banner_Image.webp"/>
+    <summary>Sim: X-Plane. FSDG has recently released its rendition of N'djili Airport (FZAA) for X-Plane 12. The airport, located in the capital city of Kinshasa, is the largest airport in the Democratic Republic of the Congo. The airport was opened in 1959 and was initially used primarily by the airline SABENA. However, by 1960, it became a major hub for Air Congo following the independence of the Democratic Republic of Congo. The airport was a central battleground during the Second Congo War in 1998. In 2015, a new international terminal was opened, increasing the airport's capacity to accommodate one million passengers annually. Today, the airport serves a variety of airlines, including Brussels Airlines, Compagnie Africaine dâAviation, Congo Airways, and Qatar Airways, providing connections to destinations around the world. The newly released scenery features an accurate depiction of N'djili Airport, along with detailed models, dynamic lighting, reflective textures, and much more. The newly released N'djili Airport is now available from FSDG for approximately $19.93. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-20T00:00:00+00:00</published>
   </entry>
 </feed>
