@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-20T18:55:36.044872+00:00</updated>
+  <updated>2026-01-21T18:52:30.897172+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsogaleo2</id>
-    <title>FSoares Shares New GaleÃ£o International Airport Previews </title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <link href="/news/fsogaleo2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695c3b3230f0a76c32a4119e_rio1.jpg"/>
-    <summary>Sim: FS24. FSoares has recently teased the development progress on his Rio de Janeiro/GaleÃ£o International Airport (SBGL) rendition for Microsoft Flight Simulator 2020 and 2024. This is the main airport serving Rio de Janeiro, Brazil, with a yearly average of 14.5 million passengers. It was opened in 1952 on top of a pre-existing Brazilian Air Force base that was utilized by international long-haul flights, which were too heavy and too large for SBRJâs (Rioâs domestic airport) 1,300 m runway. With the ever-increasing international demand, they finally built a passenger terminal, which was progressively expanded until 1977. A new terminal building was opened that year, and all scheduled passenger traffic was transferred there. Itâs still in use today as Terminal 1. Terminal 1 was first renovated in 1991 in preparation for the United Nations Earth Summit (held in 1992), and its annual capacity increased to 7.5 million passengers. Eight years later, Terminal 2 was opened, featuring 24 jetways and a capacity of up to 7.5 million passengers per year. âWith the imminence of the World Cup and the Olympic Games in 2014 and 2016, respectively, Infraero (the airportâs former manager) unveiled a $431 million upgrade and expansion plan for GaleÃ£o, including the renovation of Terminal 1, the completion of Terminal 2, and the expansion of the parking lots. The new concessionary revised the plans and included a new pier with 26 jetways, a new apron for 97 aircraft, and 2640 parking spaces. The $400 million sum quickly jumped to $800 million instead. AerolÃ­neas Argentinas, Air France, American Airlines, Avianca, Azul, British Airways, Copa Airlines, Delta Air Lines, Emirates, Flybondi, Gol, Iberia, ITA Airways, JetSmart Argentina, JetSmart Chile, KLM, Latam Brasil, Latam Chile, Latam PerÃº, Lufthansa, Paranair, Sky Airlines, TAP, and United Airlines serve it. There is no information on features, pricing, or a release date yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/bbt267</id>
     <title>BlueBird Simulations Targets 2026 for 757 Release</title>
@@ -150,6 +141,15 @@
     <link href="/news/fzaa12"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696fa961884841b3b9911f95_Banner_Image.webp"/>
     <summary>Sim: X-Plane. FSDG has recently released its rendition of N'djili Airport (FZAA) for X-Plane 12. The airport, located in the capital city of Kinshasa, is the largest airport in the Democratic Republic of the Congo. The airport was opened in 1959 and was initially used primarily by the airline SABENA. However, by 1960, it became a major hub for Air Congo following the independence of the Democratic Republic of Congo. The airport was a central battleground during the Second Congo War in 1998. In 2015, a new international terminal was opened, increasing the airport's capacity to accommodate one million passengers annually. Today, the airport serves a variety of airlines, including Brussels Airlines, Compagnie Africaine dâAviation, Congo Airways, and Qatar Airways, providing connections to destinations around the world. The newly released scenery features an accurate depiction of N'djili Airport, along with detailed models, dynamic lighting, reflective textures, and much more. The newly released N'djili Airport is now available from FSDG for approximately $19.93. â For the latest flight simulation news, remember to stay tuned on Threshold! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/klasfs24</id>
+    <title>FlyTampa Releases Las Vegas V3 for MSFS 2024</title>
+    <updated>2026-01-20T00:00:00+00:00</updated>
+    <link href="/news/klasfs24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696fe92a0c4fbf74256abf17_615962126_1330058805589639_1253997061265417993_n.webp"/>
+    <summary>Sim: FS24. FlyTampa has recently released an updated version of their Las Vegas scenery, now officially compatible with MSFS 2024. Harry Reid International Airport opened in 1943 and serves nearly 60 million passengers each year. FlyTampa's update features corrected elevation data, improvements to the Instrument Landing System, modifications to taxiways, enhanced graphics, performance updates, and updates to the city, including the addition of the Formula One circuit. The full changelog follows: â The scenery is now available on FlyTampaâs website for $19.99. Owners of Las Vegas V1 can upgrade to V3 for $5.99. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-20T00:00:00+00:00</published>
   </entry>
 </feed>
