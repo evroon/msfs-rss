@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-21T18:52:30.897172+00:00</updated>
+  <updated>2026-01-22T18:44:01.814417+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/bbt267</id>
-    <title>BlueBird Simulations Targets 2026 for 757 Release</title>
-    <updated>2026-01-07T00:00:00+00:00</updated>
-    <link href="/news/bbt267"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/695dcaa617a27011d5d4fb98_610642515_1180738477521565_5941258756545479178_n.jpg"/>
-    <summary>Sim: FS24. BlueBird Simulations recently took to Facebook to announce that they are planning to release their 757 in 2026. The initial release will include a version of the plane compatible with both Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024. This will be followed up with a native 2024 version of the 757. The latter will be provided free of charge for those who purchase the initial release version. The team has promised that a ten to twenty-minute video update will be posted by the end of January. After releasing the video update later this month, the team plans to do one more pre-release video. This final video will detail the full features of the simulation and provide a specific release date for Bluebird Simulationâs 757.Â  Along with the 757 news, Bluebird Simulations has announced that theyâve committed themselves to Microsoft Flight Simulator 2024 only for all subsequent releases.Â  â Finally, Bluebird Simulations has announced that its Discord will be open later this year. This will support the 757 release and all the various free updates the team has planned. â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-01-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/lirfv2</id>
     <title>MK Studios Releases Rome Fiumicino V2 for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696fe92a0c4fbf74256abf17_615962126_1330058805589639_1253997061265417993_n.webp"/>
     <summary>Sim: FS24. FlyTampa has recently released an updated version of their Las Vegas scenery, now officially compatible with MSFS 2024. Harry Reid International Airport opened in 1943 and serves nearly 60 million passengers each year. FlyTampa's update features corrected elevation data, improvements to the Instrument Landing System, modifications to taxiways, enhanced graphics, performance updates, and updates to the city, including the addition of the Formula One circuit. The full changelog follows: â The scenery is now available on FlyTampaâs website for $19.99. Owners of Las Vegas V1 can upgrade to V3 for $5.99. â If you enjoy our content and want to support Threshold, consider joining us on Patreon! â</summary>
     <published>2026-01-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsw2ws</id>
+    <title>Microsoft to Attend FlightSimWeekend 2026</title>
+    <updated>2026-01-22T00:00:00+00:00</updated>
+    <link href="/news/fsw2ws"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697228f413cb7d3845505511_619202282_122492390240011805_4356232105144046158_n.webp"/>
+    <summary>Sim: OTHER. With just two months to go until FlightSimWeekend 2026, the organisers have revealed that Microsoft Flight Simulator will attend the event in person for the first time. Microsoftâs presence marks a significant moment for FlightSimWeekend, with the team behind the simulator set to appear live across Saturday, 21 March and Sunday, 22 March. Attendees will be able to visit Microsoft Flight Simulator at Booth 1, where they can see the latest developments on the platform and meet members of the team. FlightSimWeekend 2026 takes place from 20â22 March 2026 at the Aviodrome Lelystad, and is expected to welcome thousands of simmers, developers, and aviation enthusiasts. Alongside Microsoftâs debut appearance, the event will once again feature a wide range of exhibitors, hands-on simulator setups, community meetups, and special evening events, including the Captainâs Dinner and Flight Sim Awards. Tickets for FlightSimWeekend 2026 are already on sale, with weekend and single-day options available. With Microsoft Flight Simulator now officially joining the exhibitor lineup, this yearâs edition is shaping up to be one of the most notable in the eventâs history. Threshold will also be attending the event, so if you're planning to be there, be sure to say hi! â If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-22T00:00:00+00:00</published>
   </entry>
 </feed>
