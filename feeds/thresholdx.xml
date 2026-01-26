@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-25T18:38:46.890023+00:00</updated>
+  <updated>2026-01-26T18:47:35.372772+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vvtsv2</id>
-    <title>DominicDesignTeam Releases Tan Son Nhat International Airport for MSFS 2020/2024</title>
-    <updated>2026-01-10T00:00:00+00:00</updated>
-    <link href="/news/vvtsv2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696265c69df71fd60f7609f8_Banner_Image.webp"/>
-    <summary>Sim: FS24. DominicDesignTeam has just released the V2 version of Tan Son Nhat International Airport (VVTS) for Microsoft Flight Simulator 2020 and 2024. The airport, located in Ho Chi Minh City, Vietnam, serves around 40 million passengers each year. The airport has its origins in the early 1920s when it began as a small airfield. Over the years, it has expanded and developed into what it is today. Currently, the airport features two parallel runways, three passenger terminals, a cargo terminal, and a 230-foot tall air traffic control tower. It serves as a hub for both Vietnam Airlines and Vietnam Air Services Company, as well as accommodating a variety of other airlines that provide flights from around the world. The V2 version of the scenery is packed with features, including PBR textures, dynamic lighting, realistic ground markings, custom jetways, and more. The newly released Tan Son Nhat International Airport by DominicDesignTeam is now available on SimMarket for approximately $26.17. ‍ For the latest flight simulation news, remember to stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-01-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xwslgb</id>
-    <title>XWind Studios Announces Long Beach Airport for MSFS 2020/2024</title>
-    <updated>2026-01-10T00:00:00+00:00</updated>
-    <link href="/news/xwslgb"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6962d5220d13a767adaaec96_lgb1.jpg"/>
-    <summary>Sim: FS24. XWind Studios has recently announced the development of Long Beach Airport (KLGB) for Microsoft Flight Simulator 2020 and 2024, serving Greater Los Angeles with a yearly average of 4.1 million passengers. The airport was built on the same site as the world’s first flight school (created in 1919 by Earl S. Daugherty), after he managed to convince the city council to transform the structure into a municipal airport in 1923. The passenger terminal building was built in 1941, designed by William Horace Austin and Kenneth Smith Wing.  During its first few decades of commercial operations, the only destinations were Los Angeles, San Diego, and Catalina Island. It wasn’t until 1962 that the route network expanded to San Francisco, and eventually to Las Vegas and Oakland, with the advent of jet aircraft in the late 1960s. The early 1990s were disastrous for the airport’s traffic figures, with multiple airlines ending service to it. Further blows came in the early 2000s and mid-2010s, when American Airlines and Alaska Airlines ceased service, respectively. It’s served by Delta Airlines, Delta Connection, Hawaiian Airlines, and Southwest Airlines. ​ The developers claim to have spent the last nine months learning, researching, and working their way through the production of the scenery, which is approximately 70% complete and is expected to be released within the first quarter of the year. ​If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tfdimd11101</id>
     <title>TFDi Design’s MD-11 MSFS 2024 Update to Release in 2 Days</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69742ad8ed924cbcaa95f257_forty1.jpg"/>
     <summary>Sim: FS24. Aerosoft has shared new previews of their upcoming A340-600 Professional for Microsoft Flight Simulator 2020 and 2024, showcasing the texture work around the flight deck and a couple of external shots. Developed in conjunction with Toliss, Aerosoft’s A340-600 promises a high-fidelity rendition of the intriguing four-engine beast launched by Airbus in 1993, with a deep systems simulation, an accurate 3D model, and realistic physics.  From the next development update onwards, the developers will start hiding hints in some pictures, and five copies will be given away among everyone who finds them all (one per post). There’s still no pricing or release date information, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inidfw</id>
+    <title>iniBuilds Releases First Trailer for MSFS 2024 Dallas Fort Worth</title>
+    <updated>2026-01-25T00:00:00+00:00</updated>
+    <link href="/news/inidfw"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69769f4ac5b4443003fe3798_KDFWForumBannerScenery.png.8d6a8bfd18d00be4df924a39ebf3a277.webp"/>
+    <summary>Sim: FS24. iniBuilds has just released the first official trailer for its upcoming Dallas Fort Worth International Airport (KDFW) scenery for Microsoft Flight Simulator 2024. iniBuilds is recreating one of the world’s busiest aviation hubs, capturing the immense scale of Dallas Fort Worth with its five terminals, complex taxiway network, elevated bridges, and surrounding infrastructure. Built natively for MSFS 2024, the scenery makes use of the latest SDK features, with a strong emphasis on performance, despite the airport’s sheer size. The newly released trailer highlights many of the airport’s defining elements, including the fully modelled and animated Skylink Air Train system, extensive apron areas, and detailed terminal architecture.  iniBuilds has confirmed a comprehensive feature set, including over 180 custom models, bespoke ground textures, up-to-date airport layout data, detailed dynamic lighting, HD jetways, accurate taxi signage, and an official GSX profile. Level of Detail optimisation has been applied across to ensure smooth performance, even during peak traffic scenarios. Scenery Features: While no release date or pricing has been announced, iniBuilds says Dallas Fort Worth is “coming soon,” with content creators and streamers expected to receive early access ahead of launch.  We’ll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-01-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/orbcol</id>
+    <title>Orbx Releases Coleman A. Young International Airport for MSFS 2020/2024</title>
+    <updated>2026-01-26T00:00:00+00:00</updated>
+    <link href="/news/orbcol"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6976e331cde507f64957bd1f_coleman1.webp"/>
+    <summary>Sim: FS24. Orbx has recently released their rendition of Coleman A. Young International Airport (KDET) for Microsoft Flight Simulator 2020 and 2024, serving Detroit, Michigan, with a yearly average of 32,850 passengers. It opened as Detroit City Airport Terminal in 1927, designed by architect Perry A. Fellows and built by W. E. Wood Co., after five years of searching for an adequate location and carrying on the necessary construction work.  Two years later, the administration built the first hangar, and it quickly rose into Detroit’s main airport at the time. It was Detroit’s main airport until 1947, when Wayne County Metropolitan Airport took over the majority of the flights. That happened in large part because Detroit City Airport couldn’t be expanded further due to a cemetery in the vicinity, which local residents did not agree to demolishing. Traffic kept on dying over the years, with airline service completely ending in 2000 and the airport’s focus shifting over to pilot training and handling private/corporate flights.  The FAA has recently approved a plan to improve the airport’s infrastructure - the first in 30 years - which should theoretically unlock more than 100 million USD in federal funds over the next decade, allowing the administration to work on a new control tower, improved taxiways, and a regulation-compliant safety zone. The scenery features an accurate rendition of the airport, with hand-crafted custom assets, custom ground textures, PBR texturing, fully modeled interiors, custom night lighting, and much more. It’s available on OrbxDirect for roughly $13.83, requiring at least 2.77 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-01-26T00:00:00+00:00</published>
   </entry>
 </feed>
