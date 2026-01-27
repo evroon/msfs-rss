@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-26T18:47:35.372772+00:00</updated>
+  <updated>2026-01-27T18:50:40.795212+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tfdimd11101</id>
-    <title>TFDi Design’s MD-11 MSFS 2024 Update to Release in 2 Days</title>
-    <updated>2026-01-10T00:00:00+00:00</updated>
-    <link href="/news/tfdimd11101"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6962d86ea77b76278e485855_mcd1.png"/>
-    <summary>Sim: FS24. TFDi Design has recently published a trailer unveiling their long-awaited Microsoft Flight Simulator 2024 compatibility update, which brings many new features, including Pratt &amp; Whitney engines, extended simulation, and more. The new update will bring a highly detailed cockpit with multiple customer options and subtle variances between variants, a meticulously modeled exterior with a strong emphasis on mechanical details, and a high-fidelity representation of the aircraft’s systems including all manual and automatic control modes and advanced flight management system/auto-flight systems, high-quality sounds, an interactive passenger cabin with working in-door controls, lavatories, overhead bins, window shades, and seat-back trays, and integration with many third party software and hardware options. The add-on is available in their store, starting from $69.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/tfdimd112024new</id>
     <title>TFDi Design Releases Major MD-11 Update for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6976e331cde507f64957bd1f_coleman1.webp"/>
     <summary>Sim: FS24. Orbx has recently released their rendition of Coleman A. Young International Airport (KDET) for Microsoft Flight Simulator 2020 and 2024, serving Detroit, Michigan, with a yearly average of 32,850 passengers. It opened as Detroit City Airport Terminal in 1927, designed by architect Perry A. Fellows and built by W. E. Wood Co., after five years of searching for an adequate location and carrying on the necessary construction work.  Two years later, the administration built the first hangar, and it quickly rose into Detroit’s main airport at the time. It was Detroit’s main airport until 1947, when Wayne County Metropolitan Airport took over the majority of the flights. That happened in large part because Detroit City Airport couldn’t be expanded further due to a cemetery in the vicinity, which local residents did not agree to demolishing. Traffic kept on dying over the years, with airline service completely ending in 2000 and the airport’s focus shifting over to pilot training and handling private/corporate flights.  The FAA has recently approved a plan to improve the airport’s infrastructure - the first in 30 years - which should theoretically unlock more than 100 million USD in federal funds over the next decade, allowing the administration to work on a new control tower, improved taxiways, and a regulation-compliant safety zone. The scenery features an accurate rendition of the airport, with hand-crafted custom assets, custom ground textures, PBR texturing, fully modeled interiors, custom night lighting, and much more. It’s available on OrbxDirect for roughly $13.83, requiring at least 2.77 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-01-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/prirecnew</id>
+    <title>Paulo Ricardo Releases Recife International Airport for MSFS 2020/2024</title>
+    <updated>2026-01-27T00:00:00+00:00</updated>
+    <link href="/news/prirecnew"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697837c7ac820c8c5d187e4b_recife1.jpg"/>
+    <summary>Sim: FS24. Paulo Ricardo has recently released their rendition of Recife/Guararapes—Gilberto Freyre International Airport (SBRF) for Microsoft Flight Simulator 2020 and 2024, serving Recife, Pernambuco, Brazil, with an average of 9 million passengers per year. It was built during World War 2 to replace an airfield at the same location. In the years following the conflict, it became a strategic technical and refueling stop on routes from South America to Europe. A new passenger terminal was inaugurated in 1958, and its two runways were extended at the time to accommodate larger aircraft. In the late 1970s, an agreement was reached with Infraero (a state-owned airport operator) to further develop the airport, leading to renovations in 1982 and expansion work in the 1990s. A new passenger terminal, including a shopping mall and a concourse, was built in 2004, increasing its passenger handling capacity from 1.5 million a year to 9 million. In late 2009, the government invested 8 million BRL into upgrading the terminal for the 2014 World Cup, adding eight more jetways and modernizing the infrastructure. It’s a hub for Azul Linhas Aéreas and is served by Gol Linhas Aéreas, LATAM Brasil, TAP Air Portugal, and Voepass Linhas Aéreas. The scenery features an accurate rendition of the airport, with custom ground textures, a highly detailed passenger terminal with a partially modeled interior, city landmarks, an up-to-date ground layout, and much more. ​ It’s available in the Marketplace (2020 and 2024) for $11.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-01-27T00:00:00+00:00</published>
   </entry>
 </feed>
