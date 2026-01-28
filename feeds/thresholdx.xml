@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-27T18:50:40.795212+00:00</updated>
+  <updated>2026-01-28T18:46:56.445805+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/tfdimd112024new</id>
-    <title>TFDi Design Releases Major MD-11 Update for MSFS 2020/2024</title>
-    <updated>2026-01-12T00:00:00+00:00</updated>
-    <link href="/news/tfdimd112024new"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69657661180c6e8d2a5fefdb_md1.webp"/>
-    <summary>Sim: FS24. TFDi Design has recently released their long-awaited MD-11 update for Microsoft Flight Simulator 2020/2024, bringing massive improvements to the aircraft’s 3D model, many bug fixes and tweaks, a new engine variant, and full compatibility with Microsoft’s latest flight simulator. The new update will brings a highly detailed cockpit with multiple customer options and subtle variances between variants, a meticulously modeled exterior with a strong emphasis on mechanical details, Pratt &amp; Whitney engines, and a high-fidelity representation of the aircraft’s systems including all manual and automatic control modes and advanced flight management system/auto-flight systems, high-quality sounds, an interactive passenger cabin with working in-door controls, lavatories, overhead bins, window shades, and seat-back trays, and integration with many third party software and hardware options. The complete changelog for the update follows below: The add-on is available in their store for $74.99 (either the passenger or freighter variant, with the option to purchase the other for an additional $9.99). The extended simulation package can be obtained for an additional $4.99.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/a340107</id>
     <title>iniBuilds Updates A340 Airliner for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697837c7ac820c8c5d187e4b_recife1.jpg"/>
     <summary>Sim: FS24. Paulo Ricardo has recently released their rendition of Recife/Guararapes—Gilberto Freyre International Airport (SBRF) for Microsoft Flight Simulator 2020 and 2024, serving Recife, Pernambuco, Brazil, with an average of 9 million passengers per year. It was built during World War 2 to replace an airfield at the same location. In the years following the conflict, it became a strategic technical and refueling stop on routes from South America to Europe. A new passenger terminal was inaugurated in 1958, and its two runways were extended at the time to accommodate larger aircraft. In the late 1970s, an agreement was reached with Infraero (a state-owned airport operator) to further develop the airport, leading to renovations in 1982 and expansion work in the 1990s. A new passenger terminal, including a shopping mall and a concourse, was built in 2004, increasing its passenger handling capacity from 1.5 million a year to 9 million. In late 2009, the government invested 8 million BRL into upgrading the terminal for the 2014 World Cup, adding eight more jetways and modernizing the infrastructure. It’s a hub for Azul Linhas Aéreas and is served by Gol Linhas Aéreas, LATAM Brasil, TAP Air Portugal, and Voepass Linhas Aéreas. The scenery features an accurate rendition of the airport, with custom ground textures, a highly detailed passenger terminal with a partially modeled interior, city landmarks, an up-to-date ground layout, and much more. ​ It’s available in the Marketplace (2020 and 2024) for $11.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-01-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/kissar24</id>
+    <title>Kiss Simulation Releases Sarajevo International Airport for MSFS 2024</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+    <link href="/news/kissar24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6979965e7fe095501abb745a_sara1.webp"/>
+    <summary>Sim: FS24. Kiss Simulation has recently released their updated rendition of Sarajevo International Airport (LQSA) for Microsoft Flight Simulator 2024, serving the city of Sarajevo in Bosnia and Herzegovina, and averaging 1.3 million passengers a year. It was built in 1966 and opened for traffic three years later, although domestically. International operations began a year later, with Frankfurt as its first international destination.  The first renovation happened nearly 20 years later for the 1984 Winter Olympics, with a new terminal building, a runway extension, and navigational system improvements. The terminal was expanded in 2017, with a new 10,000-square-meter building capable of handling up to 2 million passengers a year. Its mountainous terrain and unpredictable weather have led to multiple financial losses over the years, most notably in December 2015, when over 40% of flights were canceled. The only way they could fix it would be by moving the threshold an additional 200 meters, which would shorten the runway, which is not ideal given that it’s already relatively short at 2,600 meters.  The scenery features an accurate rendition of the airport, including the new terminal extension, a custom runway profile, a real-world ILS profile, custom-made ground textures, an up-to-date ground layout, runway weathering, and more. It’s available on SimMarket for $15.50, requiring at least 1.75 GB of free hard disk space. Owners of the 2020 version are entitled to a free upgrade. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-01-28T00:00:00+00:00</published>
   </entry>
 </feed>
