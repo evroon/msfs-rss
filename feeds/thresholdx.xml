@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-01-28T18:46:56.445805+00:00</updated>
+  <updated>2026-01-29T18:57:40.847685+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/a340107</id>
-    <title>iniBuilds Updates A340 Airliner for MSFS 2024</title>
-    <updated>2026-01-15T00:00:00+00:00</updated>
-    <link href="/news/a340107"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69694761d21c8739ea43cbf2_Banner_Image.webp"/>
-    <summary>Sim: FS24. iniBuilds has released an update for their A340 Airliner for Microsoft Flight Simulator 2024, bringing the aircraft to version 1.0.7. This update includes the addition of the VIP variant of the A340 Airliner, along with various other changes, fixes, and improvements. The aircraft is now available at the iniBuilds Store, whereas it was previously only accessible through the Marketplace. The new VIP variant of the Airliner is packed with features, including a controllable Flight Attendant Panel, ambient multi-colour cabin lighting, and animated faucets, showers, and toilets. The latest version includes a comprehensive changelog, which can be found below: ‍ V1.0.7 SYSTEMS ⚙️ FIXED ND ETP not drawing on ND consistently   FIXED Electrical system behavior with BAT only on ground   FIXED AOC WX request showing invalid data when CPDLC source set to BeyondATC   FIXED MCDU ATSU/ATC page formatting refinements   FIXED Issues with along-track waypoints   FIXED ENG ECAM page, Engine 1 N2 vibration   FIXED Live PLD/ZFW too high on spawn   FIXED Long press of the CLR button not clearing the entire scratchpad   FIXED Brake fans operating with gear up   FIXED FPLN A page SID name missing above departure runway   FIXED PFD track diamond offset   FIXED AOC free-text send triggering incorrect received message reply   FIXED HDG bug missing in PFD   FIXED ACARS TO PERF message corrections   FIXED BRK fan pushbutton not displaying HOT   FIXED Direct to clearing flight plan causing WASM crash FIXED Replicable WASM crash when entering LAT/LONG coordinates into MCDU stored waypoints page FIXED Default camera views not aligned FIXED TO PERF invalid altimeter import values when using SYNC WX in inHg FIXED Side quickviews not aligned to 90 degrees from pilot POV FIXED TO PERF below MTOW limits shown on EFB but inconsistent after changing units FIXED Inserting DIR TO wiping flight plan ‍ ART 🎨 FIXED Passenger windows overly tinted   FIXED Horizontal stabilizer dihedral angle   FIXED Net texture inverted   FIXED Curtains clipping in forward galley   FIXED Wall ambient occlusion striping   FIXED Removed clickspot for crew rest door near 3L (Cabin and Freighter)   FIXED LOD issue with exit signs in the cabin   FIXED Icing effect transparency at ~50% intensity   FIXED Strobe effects missing physical double-flash   FIXED Clickspots for door 4L/R added to FA panel   FIXED Snow accumulation heavy-snow visibility threshold   FIXED Snow on wings texture shading   FIXED Cabin door handles inhibited in-flight   FIXED Pilot model not visible in exterior view FIXED VIP crew bunk floor gap FIXED VIP Door 4L/R curtain clickspot too large, preventing door handle access FIXED FC seat small screens incorrectly affected by color scheme routine ‍ EFB💻 FIXED Options not persisting across future simulator loads   FIXED GPS jamming option not saved   FAP Door status indications not matching actual door state ADDED Full FA Panel Simulation  ADDED VIP variant SimBrief profile ‍ SOUNDS🔊 FIXED Missing “five” altitude callout   FIXED GPWS audio tweaks   FIXED No smoking sign missing tone ADDED VIP cabin interactive sounds The latest update is available for all current owners or can be purchased through the Marketplace or the iniBuilds Store for approximately $59.99. ‍ For the latest flight simulation news, remember to stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inihau</id>
-    <title>iniBuilds Releases Haugesund Airport Karmøy for MSFS 2024</title>
-    <updated>2026-01-16T00:00:00+00:00</updated>
-    <link href="/news/inihau"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/696a9d883db36feaed6c5d55_ForumBannerSceneryENHD.thumb.png.a5eca005a8be4897627cf2ee58226c7f.webp"/>
-    <summary>Sim: FS24. iniBuilds has released Haugesund Airport, Karmøy (ENHD) for Microsoft Flight Simulator 2024. Developed by Jakub Lukaszewski in collaboration with iniBuilds, the scenery is available now. Located on the island of Karmøy, Haugesund Airport is known for its challenging coastal approaches, rapidly changing weather, and proximity to the North Sea.  The scenery leans heavily into that identity, surrounding the airport with rocky terrain, detailed coastal formations, and authentic vegetation. On the ground, ENHD features custom ground textures across the entire airport, detailed terminal interiors, and a carefully recreated landside area, using bespoke models.  iniBuilds has also included fully custom night lighting, custom taxiway signage, Norwegian-specific airside clutter, static aircraft, and high-resolution textures, all optimised with Level of Detail (LODs), to maintain strong performance. A 10 cm CGL further enhances terrain fidelity around the airport. ENHD supports a mix of regional airline operations, offshore, and general aviation, making it well-suited to turboprops, helicopters, and short-haul jet flights alike.  Haugesund Airport (ENHD) for MSFS 2024 is available now via the iniBuilds store for for $13,36, and you can read more here. As always, we'll keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-01-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/baw73724</id>
     <title>Boris Audio Works Releases PMDG 737NG Sound Set for MSFS 2024</title>
@@ -150,6 +132,24 @@
     <link href="/news/kissar24"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6979965e7fe095501abb745a_sara1.webp"/>
     <summary>Sim: FS24. Kiss Simulation has recently released their updated rendition of Sarajevo International Airport (LQSA) for Microsoft Flight Simulator 2024, serving the city of Sarajevo in Bosnia and Herzegovina, and averaging 1.3 million passengers a year. It was built in 1966 and opened for traffic three years later, although domestically. International operations began a year later, with Frankfurt as its first international destination.  The first renovation happened nearly 20 years later for the 1984 Winter Olympics, with a new terminal building, a runway extension, and navigational system improvements. The terminal was expanded in 2017, with a new 10,000-square-meter building capable of handling up to 2 million passengers a year. Its mountainous terrain and unpredictable weather have led to multiple financial losses over the years, most notably in December 2015, when over 40% of flights were canceled. The only way they could fix it would be by moving the threshold an additional 200 meters, which would shorten the runway, which is not ideal given that it’s already relatively short at 2,600 meters.  The scenery features an accurate rendition of the airport, including the new terminal extension, a custom runway profile, a real-world ILS profile, custom-made ground textures, an up-to-date ground layout, runway weathering, and more. It’s available on SimMarket for $15.50, requiring at least 1.75 GB of free hard disk space. Owners of the 2020 version are entitled to a free upgrade. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-01-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mcucal</id>
+    <title>Microsoft Releases City Update 13: California for MSFS 2020/2024</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+    <link href="/news/mcucal"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697a6de6510e591e618372b9_Banner_Image.webp"/>
+    <summary>Sim: FS24. Out of the blue, Microsoft has released its latest city update for Microsoft Flight Simulator 2020 and 2024. City Update 13 significantly enhances various cities across California. This update includes improvements in 18 different urban areas, such as San Francisco, Los Angeles, San Diego, and others. The 18 different areas have been accurately recreated using TIN (triangulated irregular network) surface texturing. The updated regions allow users to explore what the Golden State has to offer. It's important to note that Microsoft Flight Simulator 2020 users must manually update both World Update II and World Update X from the in-Sim Content Manager for City Update 13 to function properly. This requirement does not apply to users of Microsoft Flight Simulator 2024. The new city update is now available for free in the in-Sim Marketplace. ‍ For the latest flight simulation news, remember to stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-01-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff77xp</id>
+    <title>FlightFactor Updates 777 for X-Plane 12</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+    <link href="/news/ff77xp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697a88c173625a40a6c70465_MedalTVXPlane1120260111124133509.png"/>
+    <summary>Sim: X-Plane. FlightFactor has released another update to their 777 series for X-Plane 12, bringing version 2.3.12 to the addon. This update follows the numerous and regular updates that FlightFactor has done on their 777 since its first release. The update does not bring any new features to the aircraft, but does fix multiple bugs. ‍ In this update, Flightfactor has updated the manual, fixed the storm light switch, fixed deicing issues, and much more. The full changelog can be viewed below. Changelog:  ‍ ‍ The FlightFactor 777v2 can be purchased on the X-Plane.org store for 89 USD. There are also various other expansions that can be purchased for the aircraft, including the engine expansion, the freighter upgrade, or a pack combining all three. ‍</summary>
     <published>2026-01-28T00:00:00+00:00</published>
   </entry>
 </feed>
