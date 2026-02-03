@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-01T18:46:18.523451+00:00</updated>
+  <updated>2026-02-03T19:04:28.192525+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/zdpkea</id>
-    <title>Zero Dollar Payware Releases Helo Kearny Heliport for X-Plane 12</title>
-    <updated>2026-01-24T00:00:00+00:00</updated>
-    <link href="/news/zdpkea"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697425bcb983c51332c748be_kearny1.webp"/>
-    <summary>Sim: X-Plane. Zero Dollar Payware has recently released their rendition of Helo Keany Heliport (65NJ) for X-Plane 12, one of the largest North American heliports with almost 30 helipads. The largest vertical-lift facility on the entire East Coast is a premier FBO that bridges the gap between New Jersey’s logistics hubs and Manhattan’s skyscraper-laden skyline.  Located only two minutes away (flying time, of course) from Manhattan, it’s an ideal staging ground for corporate shuttles, news crews, and tourism operators who need immediate access to the city without the operational hurdles - and costs - of landing directly in Manhattan’s public heliports.  ZDP’s rendition recreates the area with very high fidelity, including all 29 helipads, 5 fuel pads, and a transit pad. Furthermore, it also includes a few static helicopters provided by Jetset.  It’s available for free on Threshold, requiring at least 21.41 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a340previews2</id>
-    <title>Aerosoft Shares New A340-600 Previews for MSFS 2020/2024</title>
-    <updated>2026-01-24T00:00:00+00:00</updated>
-    <link href="/news/a340previews2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69742ad8ed924cbcaa95f257_forty1.jpg"/>
-    <summary>Sim: FS24. Aerosoft has shared new previews of their upcoming A340-600 Professional for Microsoft Flight Simulator 2020 and 2024, showcasing the texture work around the flight deck and a couple of external shots. Developed in conjunction with Toliss, Aerosoft’s A340-600 promises a high-fidelity rendition of the intriguing four-engine beast launched by Airbus in 1993, with a deep systems simulation, an accurate 3D model, and realistic physics.  From the next development update onwards, the developers will start hiding hints in some pictures, and five copies will be given away among everyone who finds them all (one per post). There’s still no pricing or release date information, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inidfw</id>
-    <title>iniBuilds Releases First Trailer for MSFS 2024 Dallas Fort Worth</title>
-    <updated>2026-01-25T00:00:00+00:00</updated>
-    <link href="/news/inidfw"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69769f4ac5b4443003fe3798_KDFWForumBannerScenery.png.8d6a8bfd18d00be4df924a39ebf3a277.webp"/>
-    <summary>Sim: FS24. iniBuilds has just released the first official trailer for its upcoming Dallas Fort Worth International Airport (KDFW) scenery for Microsoft Flight Simulator 2024. iniBuilds is recreating one of the world’s busiest aviation hubs, capturing the immense scale of Dallas Fort Worth with its five terminals, complex taxiway network, elevated bridges, and surrounding infrastructure. Built natively for MSFS 2024, the scenery makes use of the latest SDK features, with a strong emphasis on performance, despite the airport’s sheer size. The newly released trailer highlights many of the airport’s defining elements, including the fully modelled and animated Skylink Air Train system, extensive apron areas, and detailed terminal architecture.  iniBuilds has confirmed a comprehensive feature set, including over 180 custom models, bespoke ground textures, up-to-date airport layout data, detailed dynamic lighting, HD jetways, accurate taxi signage, and an official GSX profile. Level of Detail optimisation has been applied across to ensure smooth performance, even during peak traffic scenarios. Scenery Features: While no release date or pricing has been announced, iniBuilds says Dallas Fort Worth is “coming soon,” with content creators and streamers expected to receive early access ahead of launch.  We’ll keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbcol</id>
     <title>Orbx Releases Coleman A. Young International Airport for MSFS 2020/2024</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697d958615d4f4125fbdc969_klax-mid-after.jpg"/>
     <summary>Sim: X-Plane. X-Codr has recently announced a substantial update to their Airport Enhancement Package add-on for X-Plane, bringing procedurally generated life to over 36,000 airports around the globe. While the original AEP focused on replacing key assets (ground textures, common buildings, and service vehicles), AEP 2.0 aims to add to airports, not just replace assets around them. After months of development and tinkering, the developer has managed to create a program that reads and understands the global airports, procedurally generating overlays that greatly enhance the experience with tire skids on taxi routes, runways, and service roads, additional clutter at gates and near buildings, grunge, oil leaks, rust, and random ramp clutter, yielding a more lifelike experience around every airport in the simulator. While the procedural generation is the new star of the show, it doesn’t mean AEP no longer replaces assets, with over a thousand custom assets in total, including new pavement textures, service vehicles, new cars, all of the legacy hangars (and new ones), and various clutter objects. There are a couple of things that are still being worked on before release, such as more baggage cart variants, old long metal hangars, cargo area clutter, stability testing for a new feature yet to be announced, and beta testing. They also use this opportunity to seek people willing to help stress-test the new product and aid in shaping the final release through their contact page or Discord.  Furthermore, the developer has also mentioned that it will be a free upgrade for AEP 1.0 owners. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/afl7m0226</id>
+    <title>AirfoilLabs Provides 737 MAX Development Update</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <link href="/news/afl7m0226"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697fbf63aca5820403823dd6_AFL737MAX8-2026-01-3023_46_28.webp"/>
+    <summary>Sim: X-Plane. AirfoilLabs has recently shared a development update on their upcoming Boeing 737 MAX for X-Plane. The update primarily focuses on exterior modelling, animation systems for future failure implementation, and progress on the display suite. Both the tail and wings have undergone extensive modifications. AirfoilLabs reports that the work on the rudder and horizontal stabiliser is now complete, featuring fully animated systems, new textures with PBR, and added vibration effects. The wings have also been improved. For instance, the geometry has been refined, and separate components such as the slats, flaps, and spoilers have received individual animations. AirfoilLabs stated that the engines have undergone a complete overhaul, including animations for the engine cowling and cover, mesh enhancements, reverser animations and more. The display systems have undergone significant improvements, and many are now complete. Below is a comprehensive list provided by AirfoilLabs: No release date for the 737 MAX has been announced yet. AirfoilLabs states that the next steps include further work on the exterior model, animations, and avionics. ‍ For more details on the AirfoilLabs 737 MAX, check out the development update. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsdcape</id>
+    <title>FSDG Releases Cape Verde Airport for MSFS 2020/2024</title>
+    <updated>2026-02-03T00:00:00+00:00</updated>
+    <link href="/news/fsdcape"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698192060a8b67a2d031d26b_cape1.webp"/>
+    <summary>Sim: FS24. FSDG has recently released their rendition of Amílcar Cabral International Airport (GVAC) for Microsoft Flight Simulator 2020 and 2024, serving Espargos, Sal, in Cape Verde, with an average of 1.2 million passengers per year. It was built in 1939 by the Italians as a pit stop for flights from Europe to South America, though their involvement ended quickly due to World War 2. It wasn’t until the end of the conflict that Portugal purchased it from Italy and began its completion, becoming fully operational by 1949. For a bit more than a decade, between 1963 and 1975, the Portuguese Air Force operated at the airport, providing support to military air connections between Portugal and its African provinces and serving as an operational base for patrol aircraft occasionally deployed there. To this day, it’s still an important stopover for international flights and one of the most common ETOPS destinations, in case any flight encounters a failure mid-crossing the ocean. It’s a hub for Cabo Verde Airlines, and served by AlbaStar, Air Senegal, Binter Canarias, Bulgaria Air, Corendon, easyJet, Edelweiss, Enter Air, Luxair, Neos, Royal Air Maroc, Smartwings, Sunclass, TAP Air Portugal, Transavia, TUI Airways, TUI fly Belgium, TUI fly Deutschland, TUI fly Netherlands, TUI fly Nordic, and Vueling. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, detailed 3D models, a custom interior for the passenger terminal, realistic night lighting, performance-friendly optimization, and more. ​ It’s available on SimMarket for roughly $20, requiring at least 60.59 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/linovilar</id>
+    <title>Linovt Releases Vilar de Luz Airport for MSFS 2024</title>
+    <updated>2026-02-03T00:00:00+00:00</updated>
+    <link href="/news/linovilar"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698195ba9dc5d4463a0b7ea8_vilar1.webp"/>
+    <summary>Sim: FS24. Linovt has recently released their rendition of Vilar de Luz Airport (LPVL) for Microsoft Flight Simulator 2024, a regional airfield serving Porto, in Portugal. Construction of the airfield began in 1992, and it wasn’t opened to traffic until late 1995.  It currently houses a Cessna Maintenance Center, an ATPL flight school (Nortávia), and Skydive Maia, a popular skydiving school and centre. Furthermore, it also houses Porto’s Aero Club, founded in 1935. It’s a VFR and MVFR daytime-only airport due to the lack of runway lighting and approach systems, and is mostly used for general aviation (flight training, circuits, etc.).  The scenery features an accurate rendition of the airport, with custom 3D buildings, an up-to-date ground layout, a realistic runway elevation profile, detailed landside, a fully modeled Skydive Hangar interior, a fully modeled Café interior, custom airport vehicles, and more. It’s available on SimMarket for roughly $17.88, requiring at least 104.79 MB of free hard drive space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ​ ‍</summary>
+    <published>2026-02-03T00:00:00+00:00</published>
   </entry>
 </feed>
