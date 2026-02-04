@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-03T19:04:28.192525+00:00</updated>
+  <updated>2026-02-04T18:59:46.772381+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbcol</id>
-    <title>Orbx Releases Coleman A. Young International Airport for MSFS 2020/2024</title>
-    <updated>2026-01-26T00:00:00+00:00</updated>
-    <link href="/news/orbcol"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6976e331cde507f64957bd1f_coleman1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of Coleman A. Young International Airport (KDET) for Microsoft Flight Simulator 2020 and 2024, serving Detroit, Michigan, with a yearly average of 32,850 passengers. It opened as Detroit City Airport Terminal in 1927, designed by architect Perry A. Fellows and built by W. E. Wood Co., after five years of searching for an adequate location and carrying on the necessary construction work.  Two years later, the administration built the first hangar, and it quickly rose into Detroit’s main airport at the time. It was Detroit’s main airport until 1947, when Wayne County Metropolitan Airport took over the majority of the flights. That happened in large part because Detroit City Airport couldn’t be expanded further due to a cemetery in the vicinity, which local residents did not agree to demolishing. Traffic kept on dying over the years, with airline service completely ending in 2000 and the airport’s focus shifting over to pilot training and handling private/corporate flights.  The FAA has recently approved a plan to improve the airport’s infrastructure - the first in 30 years - which should theoretically unlock more than 100 million USD in federal funds over the next decade, allowing the administration to work on a new control tower, improved taxiways, and a regulation-compliant safety zone. The scenery features an accurate rendition of the airport, with hand-crafted custom assets, custom ground textures, PBR texturing, fully modeled interiors, custom night lighting, and much more. It’s available on OrbxDirect for roughly $13.83, requiring at least 2.77 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/prirecnew</id>
     <title>Paulo Ricardo Releases Recife International Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698195ba9dc5d4463a0b7ea8_vilar1.webp"/>
     <summary>Sim: FS24. Linovt has recently released their rendition of Vilar de Luz Airport (LPVL) for Microsoft Flight Simulator 2024, a regional airfield serving Porto, in Portugal. Construction of the airfield began in 1992, and it wasn’t opened to traffic until late 1995.  It currently houses a Cessna Maintenance Center, an ATPL flight school (Nortávia), and Skydive Maia, a popular skydiving school and centre. Furthermore, it also houses Porto’s Aero Club, founded in 1935. It’s a VFR and MVFR daytime-only airport due to the lack of runway lighting and approach systems, and is mostly used for general aviation (flight training, circuits, etc.).  The scenery features an accurate rendition of the airport, with custom 3D buildings, an up-to-date ground layout, a realistic runway elevation profile, detailed landside, a fully modeled Skydive Hangar interior, a fully modeled Café interior, custom airport vehicles, and more. It’s available on SimMarket for roughly $17.88, requiring at least 104.79 MB of free hard drive space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ​ ‍</summary>
     <published>2026-02-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gayacorfu</id>
+    <title>Gaya Simulations Announces Corfu International Airport for MSFS 2020/2024</title>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <link href="/news/gayacorfu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6982b9dce5585d5256e97996_Gaya_LGKR_2.webp"/>
+    <summary>Sim: FS24. Gaya Simulations has recently announced their return to consumer-facing development with a Corfu International Airport (LGKR) rendition for Microsoft Flight Simulator 2020 and 2024, serving Corfu, Greece, with an average of 4.3 million passengers per year. ​ It was founded in 1937 and was taken over by the Axis forces shortly after, serving as a base for transport and fighter aircraft. During most of its early life, the runway was only 600 meters long. ​ It wasn’t until 1949 that Corfu would get its first runway expansion, adding 200 meters in total length, and then nearly doubling a few years later to accommodate larger aircraft. ​ The first passenger terminal was built in 1962, and its International debut happened three years later.  ​ With its newly granted international status and an ever-rising yearly passenger count, a new terminal was built between 1968 and 1972. ​ As of 10 years ago, Corfu International was privatized and acquired by a joint venture between Fraport and the Copelouzos Group. The deal will be valid for 40 years as of 2017. ​ It’s a focus city for Aegean Airlines and Ryanair. Air France, Air Serbia, Arkia, Austrian Airlines, Brussels Airlines, easyJet, Edelweiss Air, Eurowings, ITA Airways, Jet2.com, Luxair, Neos, Norwegian Air Shuttle, Scandinavian Airlines, Sky Express, Smartwings, Swiss, Transavia, TUI, Volotea, and Wizz Air also serve it. ​ The developers promise an accurate rendition of the airport, with custom ground textures, high-quality 3d models, and up-to-date ground layout, custom night lighting, custom ground service equipment, and more. ​ There’s no information regarding pricing or the release date yet, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-04T00:00:00+00:00</published>
   </entry>
 </feed>
