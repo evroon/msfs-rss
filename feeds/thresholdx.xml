@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-09T19:25:07.105360+00:00</updated>
+  <updated>2026-02-10T19:16:23.014535+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ff77xp</id>
-    <title>FlightFactor Updates 777 for X-Plane 12</title>
-    <updated>2026-01-28T00:00:00+00:00</updated>
-    <link href="/news/ff77xp"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697a88c173625a40a6c70465_MedalTVXPlane1120260111124133509.png"/>
-    <summary>Sim: X-Plane. FlightFactor has released another update to their 777 series for X-Plane 12, bringing version 2.3.12 to the addon. This update follows the numerous and regular updates that FlightFactor has done on their 777 since its first release. The update does not bring any new features to the aircraft, but does fix multiple bugs. ‍ In this update, Flightfactor has updated the manual, fixed the storm light switch, fixed deicing issues, and much more. The full changelog can be viewed below. Changelog:  ‍ ‍ The FlightFactor 777v2 can be purchased on the X-Plane.org store for 89 USD. There are also various other expansions that can be purchased for the aircraft, including the engine expansion, the freighter upgrade, or a pack combining all three. ‍</summary>
-    <published>2026-01-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/f2hnhv</id>
     <title>Fly 2 High Releases Tweed New Haven for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6985fdacfdd4a0c0f3ab198d_1.jpg"/>
     <summary>Sim: FS24. PMDG has recently released their rendition of the Boeing 737-900 for Microsoft Flight Simulator 2024, nearly 50 days after bringing over the first member of the 737 lineup to the new simulator.  It’s their second product built natively for Microsoft Flight Simulator 2024 (the 777 was mostly just a compatibility patch), with a lidar-scanned flight deck, improved textures and lighting, new sounds, upgraded systems, and more. ​ As did the 738, it leverages the simulator’s capabilities to lay the groundwork for a truly native product line that will follow after all the 737 lineup members are out (only the -700 and -600 are pending now). The complete changelog follows below: It’s available on PMDG.com for roughly $50, and owners of the MSFS 2020 version are entitled to a 60% discount ($20 total). If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/phomun24</id>
+    <title>PhotoRico Releases Muñoz Marín International Airport for MSFS 2020/2024</title>
+    <updated>2026-02-10T00:00:00+00:00</updated>
+    <link href="/news/phomun24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698ad8a28f11f50024789c8a_marin1.webp"/>
+    <summary>Sim: FS24. PhotoRico has recently released their rendition of Muñoz Marín International Airport (TJSJ) for Microsoft Flight Simulator 2020 and 2024, serving San Juan, Puerto Rico, with an average of 13.4 million passengers per year. Planning for the airport’s construction began in 1945, when the government recognized they’d need a newer, larger airport to keep up with the air traffic demands of the following decades, since the region's main airport had a very short runway and could not be expanded further.  The project received approval in 1946; work began in 1947, and by 1949, they had completed the first phase, which involved cleaning, filling, leveling, and draining the soil. By the latter half of that year, they were already paving the runways and taxiways. The inauguration only took place in 1955, six years later, with a six-story passenger terminal, a control tower, a 2,400-meter-long runway, and basic aeroportuary infrastructure. ​ The 1960s brought further expansion, including lengthening the runway for jets and the addition of a second runway (which was only completed in the 1970s).  ​ In the late 1980s, a $137 million investment was announced to expand the passenger terminal and make multiple improvements to the airport, which were carried out between the 90s and early 2000s.  ​ It was followed by another terminal expansion in the early 2000s, making Terminal B slightly larger and remodeling the hotel, among other minor things. In the 2010s, despite the significant drawbacks of the 2008 crisis (leading, for example, to American Airlines greatly reducing its presence), the airport underwent further work, including a new passenger terminal, new pavement, new lighting systems, press conference rooms, and more. ​ It’s a hub for M&amp;N Aviation and Tradewind Aviation, and a focus city for JetBlue. Air Canada Rouge, Air Transat, American Airlines, Arajet, Avelo Airlines, Avianca, Cape Air, Contour Airlines, Copa Airlines, Delta Airlines, Frontier Airlines, Iberia, Southwest Airlines, Spirit, Sun Country Airlines, United Airlines, and WestJet also serve it. ​ The scenery features an accurate rendition of the airport, with fully detailed terminals, an up-to-date ground layout, custom jetways, custom taxi lights, performance-friendly optimization, and custom weathering. ​ It’s available on OrbxDirect (2020/2024) for roughly $22.38, requiring at least 1.60 GB of free hard disk space to install.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-10T00:00:00+00:00</published>
   </entry>
 </feed>
