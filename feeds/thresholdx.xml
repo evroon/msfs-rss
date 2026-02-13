@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-12T19:13:15.870093+00:00</updated>
+  <updated>2026-02-13T19:00:26.081804+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orblandperth</id>
-    <title>Orbx Releases Landmarks Perth City Pack for MSFS 2024</title>
-    <updated>2026-01-30T00:00:00+00:00</updated>
-    <link href="/news/orblandperth"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697c67bc7818f1668870592b_per1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released a landmark pack for Perth (Australia), designed to complement their new Perth International Airport (YPPH) airport for Microsoft Flight Simulator 2024. The comprehensive pack aims to bring Perth to life with its vibrant skyline, adding hand-crafted custom models to further improve the experience when flying in and out of Perth International. There are over 40 custom-modeled buildings around the city, along with improvements to vegetation, better object placement (buildings, bridges, static boats, vessels, and cranes), custom night lighting around Elizabeth Quay, an airstrip at Langley Park for landings in the city centre, and much more. It’s available on OrbxDirect for roughly $12.56, requiring at least 2.55 GB of free hard disk space to install. There’s also a bundle with the landmarks pack and Perth airport, offering a 10% discount.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inidfwnew</id>
-    <title>iniBuilds Shares New Previews of Upcoming Dallas Fort Worth International Airport for MSFS 2024</title>
-    <updated>2026-01-30T00:00:00+00:00</updated>
-    <link href="/news/inidfwnew"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697c6b5a04d151fa56087d5c_dfw1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently shared a couple of new screenshots of their upcoming Dallas/Fort Worth International Airport (KDFW) scenery for Microsoft Flight Simulator 2024, set to release soon.  DFW is the third-busiest airport in the world, with an average of 82 million passengers per year. As expected from such figures, the airport’s size is quite substantial, and not many developers have tried to tackle it in the past.  iniBuilds claims to have captured every corner of the airport, bringing an incredible hub experience to Microsoft Flight Simulator 2024. The scenery promises an accurate rendition of the airport, with hand-made ground textures, custom high-definition jetways, a high-resolution ground poly, performance-friendly optimization, over 180 hand-crafted models, custom ground service equipment, and much more. There’s no pricing or release date yet, but iniBuilds says it’s “coming soon”. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-01-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/kdfwre</id>
     <title>iniBuilds Releases Dallas Fort Worth International Airport for MSFS 2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698da48ac1caa516f03291cd_real1.jpg"/>
     <summary>Sim: X-Plane. realops Simulations has recently released their newly announced ground handling plugin for X-Plane 12, bringing GSX-like features to Laminar Research’s newest simulator.  realops aims to simulate ground handling operations like never seen before in X-Plane 12, with realistic boarding, refueling, baggage handling, catering, and more. While optimized for Type C aircraft (B738, A320, etc.), it works with any airplane thanks to custom presets. The developers claim their next-level animations will greatly enhance the ground handling experience in X-Plane 12, alongside accurately modeled 3D objects, physical aircraft loading (Zibo and LevelUP), many liveries for common ground handling and catering companies, full SimBrief integration, and much more. It’s available on their website for roughly $34.11, requiring at least 4 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmg73624</id>
+    <title>PMDG Releases 737-600 for MSFS 2024</title>
+    <updated>2026-02-13T00:00:00+00:00</updated>
+    <link href="/news/pmg73624"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698ef2d536c0578d03ac314d_1.jpg"/>
+    <summary>Sim: FS24. PMDG has recently released their rendition of the Boeing 737-600 for Microsoft Flight Simulator 2024, the third member of the 737 lineup to step into the “future” envisioned by Microsoft and Asobo. It’s their third product built natively for Microsoft Flight Simulator 2024 (the 777 was mostly just a compatibility patch), with a lidar-scanned flight deck, improved textures and lighting, new sounds, upgraded systems, and more. ​ As did the 738 and 739, it leverages the simulator’s capabilities to lay the groundwork for a truly native product line that will follow after all the 737 lineup members are out (only the -700 and -600 are pending now). The complete changelog follows below: ...and much much more!     Important Notes: It’s available on PMDG.com for $34.99, and owners of the MSFS 2020 version are entitled to a 60% discount ($14 total). If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inl1du1</id>
+    <title>iniBuilds Shares Lockheed L-1011 Tristar Development Update for MSFS24</title>
+    <updated>2026-02-13T00:00:00+00:00</updated>
+    <link href="/news/inl1du1"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698f7158ca0ad091233c1ffa_10.png.c798230029133be7ddac883114b410be.jpg"/>
+    <summary>Sim: FS24. In their most recent post on their forums, iniBuilds has shared their latest development update for their upcoming rendition of the Lockheed L-1011 Tristar for Microsoft Flight Simulator 2024. This development update focuses on core systems and flight model, as well as exterior and interior visuals. The team reports that extensive work has been done on the flight model, with a strong focus on the three Rolls Royce RB211-524 engines powering the Tristar. Within their engine model, they have built in authentic EPR logic, tuned engine spool, and inertia characteristics in order to faithfully represent the engine’s performance across all power levels and phases of flight. A distinct feature of the L-1011 - Direct Lift Control (DLC) - is fully simulated, assisting pilots in vertical adjustments along the glidepath without major changes in pitch. Core systems and automation in the L-1011, such as the Automatic Flight Control System are simulated, giving full CAT IIIB autoland capability with accurate flare logic, de-rotation behaviour, and rollout control. This extends to the navigation systems, auto-throttle, and lateral and vertical modes, accurately modeling the automations making the L-1011 so advanced for its time. Detailed electrical, pneumatic, hydraulic, fuel, and environmental control systems will also be included. The iniBuilds team plan on making a fully interactive Flight Engineer station, but will also have an automatic operation option. When it comes to navigation systems, iniBuilds say that they wanted to provide flexibility to “support everyone: from casual flyers [...] to the most dedicated purists”. To achieve that goal, they are giving users the multiple options, from a simple RADNAV-based system all the way up to a modern GPS-based one. This will all be selectable through their new “Paper Flight Bag”, a vintage alternative to the electronic flight bags. iniBuilds will also support importing flight plans from SimBrief or the simulator EFB directly into the INS. On the visual side, iniBuild’s rendition of the Tristar will feature detailed cockpit textures, accurate interior lighting for each panel, and realistic wear and tear on the materials. Much focus has been put on the mechanical accuracy, with realistic spoiler lift and flap movement. On release, iniBuilds will include a variety of “3D Decal” liveries of operators of the L-1011-500, such as Delta, British Airways, LTU, Air Transat, Pan Am, and United. iniBuilds has not announced a release date yet, but they say that development is now “entering the final stages”, and they will be releasing another development update prior to release. ‍ Stay tuned to Threshold for the latest in flight simulation! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-02-13T00:00:00+00:00</published>
   </entry>
 </feed>
