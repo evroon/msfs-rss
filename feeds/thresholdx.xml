@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-17T19:06:26.875426+00:00</updated>
+  <updated>2026-02-18T19:04:51.644042+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/afl7m0226</id>
-    <title>AirfoilLabs Provides 737 MAX Development Update</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <link href="/news/afl7m0226"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/697fbf63aca5820403823dd6_AFL737MAX8-2026-01-3023_46_28.webp"/>
-    <summary>Sim: X-Plane. AirfoilLabs has recently shared a development update on their upcoming Boeing 737 MAX for X-Plane. The update primarily focuses on exterior modelling, animation systems for future failure implementation, and progress on the display suite. Both the tail and wings have undergone extensive modifications. AirfoilLabs reports that the work on the rudder and horizontal stabiliser is now complete, featuring fully animated systems, new textures with PBR, and added vibration effects. The wings have also been improved. For instance, the geometry has been refined, and separate components such as the slats, flaps, and spoilers have received individual animations. AirfoilLabs stated that the engines have undergone a complete overhaul, including animations for the engine cowling and cover, mesh enhancements, reverser animations and more. The display systems have undergone significant improvements, and many are now complete. Below is a comprehensive list provided by AirfoilLabs: No release date for the 737 MAX has been announced yet. AirfoilLabs states that the next steps include further work on the exterior model, animations, and avionics. ‍ For more details on the AirfoilLabs 737 MAX, check out the development update. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fsdcape</id>
     <title>FSDG Releases Cape Verde Airport for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6992dec90c02bcf4a924f3d7_keyw1.webp"/>
     <summary>Sim: FS24. MK Studios has recently announced the development and imminent release of Key West International Airport (KEYW) for Microsoft Flight Simulator 2024, serving Key West, Florida, with an average of 1.5 million passengers per year. The airport’s history goes back over a century, when Augustin Parla flew to Cuba in 1913. Fifteen years later, Pan American Airways began flying scheduled routes from Key West. It was briefly taken over by the US Army during World War 2 after the Pearl Harbor attack, as an alternative to the Trumbo Point seaplane base and the main Naval Air Station for fixed-wing aircraft. ​ It was returned to the city after the war, leading to its application for FAA grants in 1953 and its designation as Key West International Airport. Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, JetBlue, Spirit Airlines, United Airlines, and United Express serve it. The scenery will feature custom ground textures, an up-to-date ground layout, custom ground service equipment, custom terminal interiors, custom jetways, and more. ​ There’s no information on the release date or pricing yet, but Threshold will keep you informed. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2alegacy</id>
+    <title>A2A Simulations Announces Accu-Sim Legacy RG550 for MSFS 2024</title>
+    <updated>2026-02-18T00:00:00+00:00</updated>
+    <link href="/news/a2alegacy"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69958e398d7d4faff01220a1_legacy1.webp"/>
+    <summary>Sim: FS24. A2A Simulations has recently announced the development of their third airplane for Microsoft Flight Simulator 2024: the Legacy RG550, a high-performance experimental kit-built aircraft! It’s the first time A2A Simulations has developed a kit-built airplane, which poses a significant challenge because no two kit-built aircraft are identical. But they claim it’s “perfect” for their Accu-Sim lineup because that individuality is the essence of their digital ownership philosophy. ​ The reference unit at hand is based on a real airplane owned and flown by Scott Gentile (A2A’s founder) for a number of years, allowing them to intricately replicate its flight dynamics, behavior, and quirks, just like the Comanche 250 and the Aerostar 600 (which they also happen to own, although the Aerostar 600 is no longer under their ownership).  ​ The add-on will feature fully custom flight physics, a custom sound design, persistent wear and tear, multiple avionics configurations (including a full custom Garmin G5 simulation that will be retrofitted into the Comanche and Aerostar), laser-scanned and photogrammetry assisted 3D modeling, in-depth electrical simulation, fully simulated systems, and a highly detailed engine simulation model, down to individual sparks during combustion. ​ It’s scheduled for release in Q2 2026, and pricing is yet to be announced (though it will likely fall in the usual $49.99 ballpark). If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-18T00:00:00+00:00</published>
   </entry>
 </feed>
