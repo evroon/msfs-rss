@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-18T19:04:51.644042+00:00</updated>
+  <updated>2026-02-19T18:59:55.068235+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsdcape</id>
-    <title>FSDG Releases Cape Verde Airport for MSFS 2020/2024</title>
-    <updated>2026-02-03T00:00:00+00:00</updated>
-    <link href="/news/fsdcape"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698192060a8b67a2d031d26b_cape1.webp"/>
-    <summary>Sim: FS24. FSDG has recently released their rendition of Amílcar Cabral International Airport (GVAC) for Microsoft Flight Simulator 2020 and 2024, serving Espargos, Sal, in Cape Verde, with an average of 1.2 million passengers per year. It was built in 1939 by the Italians as a pit stop for flights from Europe to South America, though their involvement ended quickly due to World War 2. It wasn’t until the end of the conflict that Portugal purchased it from Italy and began its completion, becoming fully operational by 1949. For a bit more than a decade, between 1963 and 1975, the Portuguese Air Force operated at the airport, providing support to military air connections between Portugal and its African provinces and serving as an operational base for patrol aircraft occasionally deployed there. To this day, it’s still an important stopover for international flights and one of the most common ETOPS destinations, in case any flight encounters a failure mid-crossing the ocean. It’s a hub for Cabo Verde Airlines, and served by AlbaStar, Air Senegal, Binter Canarias, Bulgaria Air, Corendon, easyJet, Edelweiss, Enter Air, Luxair, Neos, Royal Air Maroc, Smartwings, Sunclass, TAP Air Portugal, Transavia, TUI Airways, TUI fly Belgium, TUI fly Deutschland, TUI fly Netherlands, TUI fly Nordic, and Vueling. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, detailed 3D models, a custom interior for the passenger terminal, realistic night lighting, performance-friendly optimization, and more. ​ It’s available on SimMarket for roughly $20, requiring at least 60.59 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/linovilar</id>
     <title>Linovt Releases Vilar de Luz Airport for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69958e398d7d4faff01220a1_legacy1.webp"/>
     <summary>Sim: FS24. A2A Simulations has recently announced the development of their third airplane for Microsoft Flight Simulator 2024: the Legacy RG550, a high-performance experimental kit-built aircraft! It’s the first time A2A Simulations has developed a kit-built airplane, which poses a significant challenge because no two kit-built aircraft are identical. But they claim it’s “perfect” for their Accu-Sim lineup because that individuality is the essence of their digital ownership philosophy. ​ The reference unit at hand is based on a real airplane owned and flown by Scott Gentile (A2A’s founder) for a number of years, allowing them to intricately replicate its flight dynamics, behavior, and quirks, just like the Comanche 250 and the Aerostar 600 (which they also happen to own, although the Aerostar 600 is no longer under their ownership).  ​ The add-on will feature fully custom flight physics, a custom sound design, persistent wear and tear, multiple avionics configurations (including a full custom Garmin G5 simulation that will be retrofitted into the Comanche and Aerostar), laser-scanned and photogrammetry assisted 3D modeling, in-depth electrical simulation, fully simulated systems, and a highly detailed engine simulation model, down to individual sparks during combustion. ​ It’s scheduled for release in Q2 2026, and pricing is yet to be announced (though it will likely fall in the usual $49.99 ballpark). If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsla21n326</id>
+    <title>FSLabs Updates A321ceo/neo for MSFS 2020/2024</title>
+    <updated>2026-02-19T00:00:00+00:00</updated>
+    <link href="/news/fsla21n326"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699708512d498f4de580084d_1.jpg"/>
+    <summary>Sim: FS24. FSLabs has recently issued an update to their A321ceo and neo for Microsoft Flight Simulator 2020 and 2024, focusing on performance, stability, and overall refinement.  Update v11.0.1.326 is the first to be released since the Pratt &amp; Whitney update rolled out a few weeks ago, addressing the high VRAM usage issues reported by many users through a multi-phase optimization process, which started with an option to entirely disable the cabin seats, and now features a multi-stage cabin and model optimization which substantially reduces the memory and load footprint, delivering memory reductions without any compromises to the overall visual quality. Furthermore, they also worked on handling, refining the braking behavior with updated pedal curves, with a more accurate and progressive deceleration feel. Plans are in place to address slow-speed stopping behavior in future updates. They also resolved SRS and LOC capture issues that were plaguing the neos.  There were multiple system-level improvements across engines, FADEC, EIU, DMC, and supporting systems, based on customer feedback and internal validation efforts. The FMGC stability has also been improved, alongside a more robust logging system to help detect and diagnose edge-case issues. ​ The FSLabs A321ceo and neo are available on their website for $69.95 + VAT each. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-19T00:00:00+00:00</published>
   </entry>
 </feed>
