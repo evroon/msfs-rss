@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-22T18:46:58.478406+00:00</updated>
+  <updated>2026-02-23T19:14:31.680484+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbnordranch</id>
-    <title>Orbx Releases Nordheimer Creek Ranch for MSFS 2024</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <link href="/news/orbnordranch"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698da14a41739045d96b5fdb_nord1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of Nordheimer Creek Ranch (CA107) for Microsoft Flight Simulator 2024, a tricky airstrip tucked into a steep, narrow mountain valley in California.  Located in the Six Rivers National Forest (Orleans, California), the Nordheimer Ranch Airfield is one of the most challenging airstrips in the United States, with a punishingly short runway and difficult terrain, with no margin for error. The area is known for its high-altitude lakes, dense forests, and diverse wildlife, attracting tourists from all over. Furthermore, its rich past continues to attract attention to this day, be it the remnants of old mining operations and the ancient fruit trees left by homesteaders centuries ago. It’s also famously known for world-class kayaking and rafting, with the nearby Nordheimer Campground being a very popular base for rafters. The scenery features an accurate rendition of the airstrip, with high-fidelity visuals, PBR texturing, advanced collision modeling for out-of-cockpit exploration, and much more. ​It’s available on OrbxDirect for roughly $8.53, requiring at least 485.70 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/rloghdlg</id>
     <title>realops Simulations Releases Ground Handling Plugin for X-Plane 12</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693ae05463e6d63e62e67e84_FLIGHTSIM_AWARDS_2026_at_FSWeekend__Celebrating_t_11-12-2025-15_14_45.png"/>
     <summary>Sim: OTHER. Public voting for the Flight Sim Awards 2026 is now open! This is your chance to vote for your favourite products, developers, publishers and creators that had an impact on your flight simulation experience in 2025. We invite you to spend 5-10 minutes casting your vote, because every vote matters. The nomination process combined input from the community survey, content creators, media outlets, and the Flight Sim Awards organising board and jury. This approach was designed to ensure that the final shortlist reflects the breadth of activity across the flight simulation space, from aircraft and scenery development to tools, content creation, and long-term individual contributions. With the list of nominees now set, the next step belongs to the public. This is where YOU come in! You all are invited to review the shortlisted candidates in each category and cast your vote for the projects and individuals you believe have made the most significant impact over the past year. Each vote directly determines the final award recipients. Following your feedback from last year, we have reviewed all short-listed candidates and ensured that they either were released in 2025 or had a significant impact/update in the last calendar year. Each category listed comes with more in-depth information on the voting page should you want to review the criteria further. Furthermore, if a category is irrelevant to you, simply click ‘SKIP’ and move on. ‍Public voting will remain open until Sunday, March 1st 2026. The winners will be revealed during the Flight Sim Awards ceremony on Friday, March 20th 2026, held in cooperation with FlightSimWeekend. You can attend in person by purchasing a Captain’s Dinner ticket here: [link] The Flight Sim Awards are organised jointly by Threshold, FSElite, and Cruiselevel. The Awards aim to provide a transparent and meaningful platform to recognize excellence and contribution within the global flight simulation community. Your input is critical in ensuring that developers and products get the recognition they deserve. After countless hours of flight simulation enjoyment in 2025, this is a great opportunity to give back to the talented developers, publishers, and creators who devoted so much time to the hobby we love. The full list of nominees and the voting form are available HERE. Here’s a reminder of the categories: ‍ ‍ Stay tuned for more details on how you can watch the Flight Sim Awards ceremony at the Captains Dinner at FlightSimWeekend next month.  ‍</summary>
     <published>2026-02-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aesstr24</id>
+    <title>Aerosoft Previews Stuttgart Airport for MSFS 2024</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <link href="/news/aesstr24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699c33b35ad57089c1c3648f_stugarda1.webp"/>
+    <summary>Sim: FS24. Aerosoft has recently shared previews of their upcoming Stuttgart Airport (EDDS) for Microsoft Flight Simulator 2024, serving the city of Stuttgart, Germany, with an average of 7 million passengers per year. Built in 1939 to replace Böblingen Airport, it was taken over by the American forces right after the war. It was partially returned in 1948: the runway and facilities were shared with the US Army during the Cold War. The original terminal was replaced in 2004 with four terminals capable of handling up to 12 million passengers annually. Eurowings and Turkish Airlines use Terminal 1; Terminal 2 is used by Lufthansa and Star Alliance partners; Terminal 3 is used by TUIfly and KLM, and Terminal 4 is a separate building for other airlines, set to be rebuilt and expanded in the future. It’s a hub for Condor, Eurowings, and TUI fly Deutschland, sporting a substantial list of destinations. Aerosoft states that the scenery is in “final approach,” progressing well through beta testing, and they plan an event to celebrate the release (apparently of never-before-seen proportions). They also state the preview screenshots do not represent the final version of the product and may be subject to changes. There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-23T00:00:00+00:00</published>
   </entry>
 </feed>
