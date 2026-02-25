@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-24T19:11:36.159901+00:00</updated>
+  <updated>2026-02-25T19:14:32.502116+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/rloghdlg</id>
-    <title>realops Simulations Releases Ground Handling Plugin for X-Plane 12</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <link href="/news/rloghdlg"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698da48ac1caa516f03291cd_real1.jpg"/>
-    <summary>Sim: X-Plane. realops Simulations has recently released their newly announced ground handling plugin for X-Plane 12, bringing GSX-like features to Laminar Research’s newest simulator.  realops aims to simulate ground handling operations like never seen before in X-Plane 12, with realistic boarding, refueling, baggage handling, catering, and more. While optimized for Type C aircraft (B738, A320, etc.), it works with any airplane thanks to custom presets. The developers claim their next-level animations will greatly enhance the ground handling experience in X-Plane 12, alongside accurately modeled 3D objects, physical aircraft loading (Zibo and LevelUP), many liveries for common ground handling and catering companies, full SimBrief integration, and much more. It’s available on their website for roughly $34.11, requiring at least 4 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/pmg73624</id>
-    <title>PMDG Releases 737-600 for MSFS 2024</title>
-    <updated>2026-02-13T00:00:00+00:00</updated>
-    <link href="/news/pmg73624"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698ef2d536c0578d03ac314d_1.jpg"/>
-    <summary>Sim: FS24. PMDG has recently released their rendition of the Boeing 737-600 for Microsoft Flight Simulator 2024, the third member of the 737 lineup to step into the “future” envisioned by Microsoft and Asobo. It’s their third product built natively for Microsoft Flight Simulator 2024 (the 777 was mostly just a compatibility patch), with a lidar-scanned flight deck, improved textures and lighting, new sounds, upgraded systems, and more. ​ As did the 738 and 739, it leverages the simulator’s capabilities to lay the groundwork for a truly native product line that will follow after all the 737 lineup members are out (only the -700 and -600 are pending now). The complete changelog follows below: ...and much much more!     Important Notes: It’s available on PMDG.com for $34.99, and owners of the MSFS 2020 version are entitled to a 60% discount ($14 total). If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inl1du1</id>
     <title>iniBuilds Shares Lockheed L-1011 Tristar Development Update for MSFS24</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699c33b35ad57089c1c3648f_stugarda1.webp"/>
     <summary>Sim: FS24. Aerosoft has recently shared previews of their upcoming Stuttgart Airport (EDDS) for Microsoft Flight Simulator 2024, serving the city of Stuttgart, Germany, with an average of 7 million passengers per year. Built in 1939 to replace Böblingen Airport, it was taken over by the American forces right after the war. It was partially returned in 1948: the runway and facilities were shared with the US Army during the Cold War. The original terminal was replaced in 2004 with four terminals capable of handling up to 12 million passengers annually. Eurowings and Turkish Airlines use Terminal 1; Terminal 2 is used by Lufthansa and Star Alliance partners; Terminal 3 is used by TUIfly and KLM, and Terminal 4 is a separate building for other airlines, set to be rebuilt and expanded in the future. It’s a hub for Condor, Eurowings, and TUI fly Deutschland, sporting a substantial list of destinations. Aerosoft states that the scenery is in “final approach,” progressing well through beta testing, and they plan an event to celebrate the release (apparently of never-before-seen proportions). They also state the preview screenshots do not represent the final version of the product and may be subject to changes. There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fscs26</id>
+    <title>Annual Navigraph FlightSim Community Survey Now Live</title>
+    <updated>2026-02-24T00:00:00+00:00</updated>
+    <link href="/news/fscs26"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699e13b09b8ce3159853877a_Banner_Image.webp"/>
+    <summary>Sim: OTHER. Navigraph has officially launched the FlightSim Community Survey 2026. This annual survey features a range of questions related to software, hardware, and personal preferences within the flight simulation community. It serves as a valuable resource for identifying trends and tendencies in the flight simulation world. Last year, over 23,600 simmers participated in the survey, and Navigraph hopes to exceed that number this year. The results of this survey are utilized by various developers and companies, helping to shape the future of the flight simulation industry. The survey is now open and will be available until March 9th. You can participate by clicking here. ‍ For the latest flight simulation news, remember to stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-02-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wsshkg24</id>
+    <title>WF Scenery Studio Announces Hong Kong International Airport V2 for MSFS 2020/2024</title>
+    <updated>2026-02-25T00:00:00+00:00</updated>
+    <link href="/news/wsshkg24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699e841482f7ad288e17e2ea_kong1.jpg"/>
+    <summary>Sim: FS24. WF Scenery Studio has recently announced an update to their Hong Kong International Airport (VHHH) rendition for Microsoft Flight Simulator 2020 and 2024, featuring rebuilt models, enhanced details, and more. Hong Kong International was built to replace the old Kai Tak Airport, deemed too small to handle the traffic it was handling, and to address the insane number of complaints from airlines due to the delays, a direct consequence of the fact that it could not scale up to the demand. Planning studies started in 1974, with construction work only kicking in almost 20 years later, in 1991. Completion was achieved in early 1998. Built on a large artificial island, the total area of the airport (12.48 square kilometers) corresponds to nearly 1% of Hong Kong’s total area. ​ The airport is a hub for Cathay Pacific, Greater Bay Express, HK Express, and Hong Kong Airlines, and is visited by over 100 other airlines with more than 180 destinations. It’s also the World’s busiest cargo airport, hosting Air Hong Kong, Cathay Cargo, DHL Aviation, Hong Kong Airlines Cargo, Kalitta Air, Polar Air Cargo, and UPS Airlines. The update will feature completely rebuilt 3D models, the new terminal, which is under construction in real life, enhanced details, and extensive performance optimizations to warrant an even smoother experience.  ​ After Hong Kong V2, they will focus on updating Guangzhou Baiyun International, including the new runways and satellite terminals, matching up-to-date reference imagery. ​ There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-25T00:00:00+00:00</published>
   </entry>
 </feed>
