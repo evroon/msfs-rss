@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-02-25T19:14:27.845210+00:00</updated>
+  <updated>2026-02-26T19:01:14.246962+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/</id>
-    <title>Creator Highlight, November 2025 – Capt. Arash</title>
-    <updated>2025-11-26T20:38:50+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-november-2025-capt-arash/"/>
-    <summary>Many simmers like flying the latest aircraft with modern glass cockpit avionics. Other simmers like the challenge of using Microsoft Flight Simulator to re-create the experiences of pilots from the golden age of aviation, long before the introduction of GPS to civilian flying, when aviators relied on map &amp; compass skills, dead reckoning, pilotage, star fixes, … Continued</summary>
-    <published>2025-11-26T20:38:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/developer-highlight-taogs-hangar/</id>
     <title>Developer Highlight: Taog’s Hangar and the UH-1H Huey</title>
@@ -29,18 +21,17 @@
     <title>Creator Highlight, January 2026 – CowTown</title>
     <updated>2026-01-26T13:16:39+00:00</updated>
     <link href="https://www.flightsimulator.com/creator-highlight-january-2026-cowtown/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/01/IMG_2290-1024x576.jpg"/>
     <summary>We’re continuing our Creator Highlight series in 2026 and are starting the new year in style, featuring popular YouTuber CowTown! Having started content creation a decade ago, CowTown (Tim) has switched his focus to Microsoft Flight Simulator in recent years. Sitting at just shy of 50’000 subscribers, Tim’s passion for our community shines through in … Continued</summary>
     <published>2026-01-26T13:16:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/</id>
-    <title>February 5th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-02-05T23:01:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/Takeru_Toys-768x432.jpg"/>
-    <summary>Weekly RecapA few months ago, we had a request for non-English speakers to assist with ATC language localizations. Thanks to the community’s assistance, we’ve improved ATC language quality for Microsoft Flight Simulator 2024 and made changes to non-English languages in Sim Update 4. We’ve also resolved a handful of key issues based on your feedback. … Continued</summary>
-    <published>2026-02-05T23:01:18+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/</id>
+    <title>Creator Highlight, February 2026 – FlyWithLado</title>
+    <updated>2026-02-25T20:28:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-1024x576.png"/>
+    <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
+    <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-feb-9-2026/</id>
@@ -88,13 +79,13 @@
     <published>2026-02-19T23:50:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/</id>
-    <title>February 5th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-02-05T23:01:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/Takeru_Toys-768x432.jpg"/>
-    <summary>Weekly RecapA few months ago, we had a request for non-English speakers to assist with ATC language localizations. Thanks to the community’s assistance, we’ve improved ATC language quality for Microsoft Flight Simulator 2024 and made changes to non-English languages in Sim Update 4. We’ve also resolved a handful of key issues based on your feedback. … Continued</summary>
-    <published>2026-02-05T23:01:18+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/</id>
+    <title>Creator Highlight, February 2026 – FlyWithLado</title>
+    <updated>2026-02-25T20:28:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-768x432.png"/>
+    <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
+    <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-feb-9-2026/</id>
@@ -142,13 +133,13 @@
     <published>2026-02-19T23:50:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/</id>
-    <title>February 5th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-02-05T23:01:18+00:00</updated>
-    <link href="https://www.flightsimulator.com/february-5th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/Takeru_Toys-768x432.jpg"/>
-    <summary>Weekly RecapA few months ago, we had a request for non-English speakers to assist with ATC language localizations. Thanks to the community’s assistance, we’ve improved ATC language quality for Microsoft Flight Simulator 2024 and made changes to non-English languages in Sim Update 4. We’ve also resolved a handful of key issues based on your feedback. … Continued</summary>
-    <published>2026-02-05T23:01:18+00:00</published>
+    <id>https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/</id>
+    <title>Creator Highlight, February 2026 – FlyWithLado</title>
+    <updated>2026-02-25T20:28:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-768x432.png"/>
+    <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
+    <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-feb-9-2026/</id>
@@ -194,6 +185,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/@MihamaBlend-768x432.jpeg"/>
     <summary>Weekly Recap The Sim Update 5 public beta test for Microsoft Flight Simulator 2024 began last week! In case you missed it, you can read the release notes for the first test build here. Thank you to everyone who is participating in the beta for your feedback and bug reports. If you do encounter any issues when … Continued</summary>
     <published>2026-02-19T23:50:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/</id>
+    <title>Creator Highlight, February 2026 – FlyWithLado</title>
+    <updated>2026-02-25T20:28:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-768x432.png"/>
+    <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
+    <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/famous-flyer-13/</id>

@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-25T19:14:32.502116+00:00</updated>
+  <updated>2026-02-26T19:01:18.052384+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inl1du1</id>
-    <title>iniBuilds Shares Lockheed L-1011 Tristar Development Update for MSFS24</title>
-    <updated>2026-02-13T00:00:00+00:00</updated>
-    <link href="/news/inl1du1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/698f7158ca0ad091233c1ffa_10.png.c798230029133be7ddac883114b410be.jpg"/>
-    <summary>Sim: FS24. In their most recent post on their forums, iniBuilds has shared their latest development update for their upcoming rendition of the Lockheed L-1011 Tristar for Microsoft Flight Simulator 2024. This development update focuses on core systems and flight model, as well as exterior and interior visuals. The team reports that extensive work has been done on the flight model, with a strong focus on the three Rolls Royce RB211-524 engines powering the Tristar. Within their engine model, they have built in authentic EPR logic, tuned engine spool, and inertia characteristics in order to faithfully represent the engine’s performance across all power levels and phases of flight. A distinct feature of the L-1011 - Direct Lift Control (DLC) - is fully simulated, assisting pilots in vertical adjustments along the glidepath without major changes in pitch. Core systems and automation in the L-1011, such as the Automatic Flight Control System are simulated, giving full CAT IIIB autoland capability with accurate flare logic, de-rotation behaviour, and rollout control. This extends to the navigation systems, auto-throttle, and lateral and vertical modes, accurately modeling the automations making the L-1011 so advanced for its time. Detailed electrical, pneumatic, hydraulic, fuel, and environmental control systems will also be included. The iniBuilds team plan on making a fully interactive Flight Engineer station, but will also have an automatic operation option. When it comes to navigation systems, iniBuilds say that they wanted to provide flexibility to “support everyone: from casual flyers [...] to the most dedicated purists”. To achieve that goal, they are giving users the multiple options, from a simple RADNAV-based system all the way up to a modern GPS-based one. This will all be selectable through their new “Paper Flight Bag”, a vintage alternative to the electronic flight bags. iniBuilds will also support importing flight plans from SimBrief or the simulator EFB directly into the INS. On the visual side, iniBuild’s rendition of the Tristar will feature detailed cockpit textures, accurate interior lighting for each panel, and realistic wear and tear on the materials. Much focus has been put on the mechanical accuracy, with realistic spoiler lift and flap movement. On release, iniBuilds will include a variety of “3D Decal” liveries of operators of the L-1011-500, such as Delta, British Airways, LTU, Air Transat, Pan Am, and United. iniBuilds has not announced a release date yet, but they say that development is now “entering the final stages”, and they will be releasing another development update prior to release. ‍ Stay tuned to Threshold for the latest in flight simulation! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/lsdher</id>
-    <title>Lisium Design Announces Heraklion International for MSFS 2024</title>
-    <updated>2026-02-15T00:00:00+00:00</updated>
-    <link href="/news/lsdher"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69921e9a2d6b3650c7cab988_622256277_122250391994087512_7539844117049188758_n.webp"/>
-    <summary>Sim: FS24. Lisium Design has officially unveiled its next project: Heraklion International Airport “Nikos Kazantzakis” (LGIR), for Microsoft Flight Simulator 2024. Located just 5 km east of Heraklion’s city centre, on the island of Crete, Heraklion is Greece’s second-busiest airport after Athens. It serves as the primary gateway to the island’s world-famous summer destinations, including Malia, Hersonissos, Agios Nikolaos, Elounda, and beyond.  Lisium Design describes the project as a detailed recreation of the busy island airport, complete with fully modelled interiors, including detailed Duty Free areas. According to the developer, these interior spaces are being implemented without compromising performance. Screenshots shared so far are marked as work-in-progress, with more information on the release window and pricing expected soon. LGIR is currently scheduled as a Microsoft Flight Simulator 2024 release. Lisium has indicated that a 2020 version may be considered after the initial launch, though no confirmation has been given at this stage. More details are expected soon. See the full post here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/orbisa24</id>
     <title>Orbx Releases Mount Isa Airport for MSFS 2020/2024</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699e841482f7ad288e17e2ea_kong1.jpg"/>
     <summary>Sim: FS24. WF Scenery Studio has recently announced an update to their Hong Kong International Airport (VHHH) rendition for Microsoft Flight Simulator 2020 and 2024, featuring rebuilt models, enhanced details, and more. Hong Kong International was built to replace the old Kai Tak Airport, deemed too small to handle the traffic it was handling, and to address the insane number of complaints from airlines due to the delays, a direct consequence of the fact that it could not scale up to the demand. Planning studies started in 1974, with construction work only kicking in almost 20 years later, in 1991. Completion was achieved in early 1998. Built on a large artificial island, the total area of the airport (12.48 square kilometers) corresponds to nearly 1% of Hong Kong’s total area. ​ The airport is a hub for Cathay Pacific, Greater Bay Express, HK Express, and Hong Kong Airlines, and is visited by over 100 other airlines with more than 180 destinations. It’s also the World’s busiest cargo airport, hosting Air Hong Kong, Cathay Cargo, DHL Aviation, Hong Kong Airlines Cargo, Kalitta Air, Polar Air Cargo, and UPS Airlines. The update will feature completely rebuilt 3D models, the new terminal, which is under construction in real life, enhanced details, and extensive performance optimizations to warrant an even smoother experience.  ​ After Hong Kong V2, they will focus on updating Guangzhou Baiyun International, including the new runways and satellite terminals, matching up-to-date reference imagery. ​ There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fslup330</id>
+    <title>FSLabs Updates A321ceo/neo for MSFS 2020/2024</title>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <link href="/news/fslup330"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/687ac7f98fc52b4ce72b8314_309-1.webp"/>
+    <summary>Sim: FS24. FSLabs has recently issued an update to their experimental branches of the A321ceo and neo for Microsoft Flight Simulator 2020 and 2024, focusing on improving overall stability and introducing further refinements. Update v11.0.1.330 is an interim update, bringing the promised low-speed braking action refinements, updating the pedal curves with a more accurate and progressive deceleration feel, and delivering a more natural experience at speeds below 5 knots. In addition to low-speed braking, the update also brings further improvements to the systems, reflecting customer feedback and internal validation efforts. Furthermore, the FMGC code has been made more stable, and the logging architecture has been improved to make it easier to isolate and properly diagnose edge-case scenarios. There were also minor changes to ensure proper compatibility with the Sim Update 5 beta. The FSLabs A321ceo and neo are available on their website for $69.95 + VAT each. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mkskeyw24re</id>
+    <title>MK Studios Releases Key West International Airport for MSFS 2024</title>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <link href="/news/mkskeyw24re"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a06b6bd8823687935f5324_west1.webp"/>
+    <summary>Sim: FS24. MK Studios has recently released their rendition of Key West International Airport (KEYW) for Microsoft Flight Simulator 2024, serving Key West, Florida, with an average of 1.5 million passengers per year. The airport’s history goes back over a century, when Augustin Parla flew to Cuba in 1913. Fifteen years later, Pan American Airways began flying scheduled routes from Key West. It was briefly taken over by the US Army during World War 2 after the Pearl Harbor attack, as an alternative to the Trumbo Point seaplane base and the main Naval Air Station for fixed-wing aircraft. ​It was returned to the city after the war, leading to its application for FAA grants in 1953 and its designation as Key West International Airport. Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, JetBlue, Spirit Airlines, United Airlines, and United Express serve it. The scenery features a high-detail rendition of the airport, with custom ground textures, an up-to-date ground layout, custom night lighting, custom jetways, performance-friendly optimization, and much more. It’s available on Contrail for roughly $18.86, requiring at least 2.19 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-26T00:00:00+00:00</published>
   </entry>
 </feed>
