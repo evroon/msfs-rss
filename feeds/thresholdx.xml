@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-26T19:01:18.052384+00:00</updated>
+  <updated>2026-02-27T18:55:14.554643+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/orbisa24</id>
-    <title>Orbx Releases Mount Isa Airport for MSFS 2020/2024</title>
-    <updated>2026-02-16T00:00:00+00:00</updated>
-    <link href="/news/orbisa24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6992d389d56bba60ab079bc5_isa1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of Mount Isa Airport (YBMA) for Microsoft Flight Simulator 2020 and 2024, serving Mount Isa, Queensland, Australia, with an average of 217,526 passengers per year. It was built in the 1950s, replacing the former Mount Isa aerodrome, which was built in the 1920s to provide an air link from Mount Isa to the important hubs across the country. In 1969, a new passenger terminal was built to accommodate the ever-growing demand for air traffic in the region. Further expansion work was carried out in the 1980s to allow the airport to handle bigger jets. In the early 2000s, the terminal underwent major refurbishment to improve the overall experience.  It’s served by Alliance Airlines, Qantas, QantasLink, Rex Airlines, and Virgin Australia. The scenery features an accurate rendition of the airport, with custom aerial imagery, a detailed terminal and hangar, custom ground service equipment, an up-to-date ground layout, custom night lighting, custom windsocks, and more. It’s available on OrbxDirect (2020/2024) for roughly $18.42, requiring at least 1.83 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a2aaerostar105</id>
-    <title>A2A Simulations Updates Aerostar 600 for MSFS 2024</title>
-    <updated>2026-02-16T00:00:00+00:00</updated>
-    <link href="/news/a2aaerostar105"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/685de0d3a636c169f3aba0c4_aerostarpog.webp"/>
-    <summary>Sim: FS24. A2A Simulations has recently issued a hotfix update to their Aerostar 600 for Microsoft Flight Simulator 2024, bringing it in line with the MSFS 2024-native version of the Comanche 250. Update v1.05 reworks the magnetos, addresses a few SimConnect issues, and fixes a tablet issue.  The add-on is available on their website for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mkskeyw</id>
     <title>MK Studios Announces Key West International Airport for MSFS 2024</title>
@@ -150,6 +132,24 @@
     <link href="/news/mkskeyw24re"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a06b6bd8823687935f5324_west1.webp"/>
     <summary>Sim: FS24. MK Studios has recently released their rendition of Key West International Airport (KEYW) for Microsoft Flight Simulator 2024, serving Key West, Florida, with an average of 1.5 million passengers per year. The airport’s history goes back over a century, when Augustin Parla flew to Cuba in 1913. Fifteen years later, Pan American Airways began flying scheduled routes from Key West. It was briefly taken over by the US Army during World War 2 after the Pearl Harbor attack, as an alternative to the Trumbo Point seaplane base and the main Naval Air Station for fixed-wing aircraft. ​It was returned to the city after the war, leading to its application for FAA grants in 1953 and its designation as Key West International Airport. Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, JetBlue, Spirit Airlines, United Airlines, and United Express serve it. The scenery features a high-detail rendition of the airport, with custom ground textures, an up-to-date ground layout, custom night lighting, custom jetways, performance-friendly optimization, and much more. It’s available on Contrail for roughly $18.86, requiring at least 2.19 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vcr787</id>
+    <title>Vector Reveals Upcoming Boeing 787 Dreamliner for MSFS24</title>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <link href="/news/vcr787"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a0a11ae01d3e167947b394_Vector_787_Announcement.jpg"/>
+    <summary>Sim: FS24. Brand-new development studio “Vector” has recently unveiled their very first project, the Boeing 787 Dreamliner, intended to be released for Microsoft Flight Simulator 2024. ‍ Vector is composed of experienced developers from the flight sim community, coming together to make what they aim to be “the best aircraft in flight simulation”. The new studio becomes another player in a growing market for Boeing airliners for the Microsoft Flight Simulator platform, joining the likes of PMDG, iFly, and Bluebird Simulations. ‍ Vector’s rendition of the Boeing 787 Dreamliner, codenamed “Project Griffin”, has been developed specifically for Microsoft Flight Simulator 2024, in collaboration with active Boeing 787 pilots. The team says that Project Griffin is “built for serious simulation enthusiasts”, and that their philosophy “[brings] together visuals, systems, and workflow into a cohesive experience”. Exact features and system depth have not been announced, but the team says that this will be announced “progressively as the project advances”. ‍ Vector is targeting a release date sometime this year, but more specifics have not been shared. ‍ Threshold will keep you updated on all the news regarding this exciting new product, so stay tuned! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xcerj2</id>
+    <title>X-Crafts Releases ERJ Family 2.0 for X-Plane 12</title>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <link href="/news/xcerj2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a0d53258aa62571f9ce823_main_picture_erj_family_by_x-crafts_004.webp"/>
+    <summary>Sim: X-Plane. X-Crafts has released its new ERJ Family 2.0 for X-Plane 12, a rebuilt-from-scratch, new generation of its Embraer regional jets, covering the ERJ 135, ERJ 140, ERJ 145, ERJ 145XR, and the Legacy 650.  The developer says the focus this time is a full, “real-world ops” systems simulation across the range, pairing a pilot-approved flight model with an authentic FMS and autopilot that supports procedures like holds, flyover waypoints, DME arcs, and intercepts. A major new addition is AirComms, an on-screen guidance system designed to keep you moving without turning the cockpit into a checklist marathon, offering reminders, warnings, and step-by-step prompts from startup to shutdown, with the option to disable it once you are comfortable.  Version 2.0 also introduces a new avionics suite, with high-resolution PFD, MFD, and EICAS displays, synoptic pages, a custom navigation map, weather radar, Terrain Radar compatibility, and resizable pop-out displays. The ERJ Family 2.0 also includes a fully integrated EFB, covering doors and ground services, weight and balance with SimBrief integration, take-off and landing calculations, interactive checklists, and aircraft settings, alongside AviTab integration.  X-Crafts notes that the passenger ERJs do not feature VNAV or autothrottle in real-world service, and these functions are not included here. Although some Legacy aircraft do have them, they are not currently simulated. Visually, the aircraft features a retextured interior, updated gear modelling with optional clean or dirty textures, new lighting, rain effects, VR-ready cockpit improvements, and performance optimisation via LOD tuning.  X-Crafts’ ERJ Family costs USD 139.95 as a bundle, or individually at USD 69.95 (Legacy 650, E145/E145XR) and USD 59.95 (E135, E140), with an upgrade to the remaining four variants for USD 79.99. Full details are on the X-Plane.org Store product page, or click here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-02-26T00:00:00+00:00</published>
   </entry>
 </feed>
