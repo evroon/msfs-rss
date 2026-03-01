@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-02-28T18:42:24.866778+00:00</updated>
+  <updated>2026-03-01T18:44:12.494169+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fsla21n326</id>
-    <title>FSLabs Updates A321ceo/neo for MSFS 2020/2024</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <link href="/news/fsla21n326"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699708512d498f4de580084d_1.jpg"/>
-    <summary>Sim: FS24. FSLabs has recently issued an update to their A321ceo and neo for Microsoft Flight Simulator 2020 and 2024, focusing on performance, stability, and overall refinement.  Update v11.0.1.326 is the first to be released since the Pratt &amp; Whitney update rolled out a few weeks ago, addressing the high VRAM usage issues reported by many users through a multi-phase optimization process, which started with an option to entirely disable the cabin seats, and now features a multi-stage cabin and model optimization which substantially reduces the memory and load footprint, delivering memory reductions without any compromises to the overall visual quality. Furthermore, they also worked on handling, refining the braking behavior with updated pedal curves, with a more accurate and progressive deceleration feel. Plans are in place to address slow-speed stopping behavior in future updates. They also resolved SRS and LOC capture issues that were plaguing the neos.  There were multiple system-level improvements across engines, FADEC, EIU, DMC, and supporting systems, based on customer feedback and internal validation efforts. The FMGC stability has also been improved, alongside a more robust logging system to help detect and diagnose edge-case issues. ​ The FSLabs A321ceo and neo are available on their website for $69.95 + VAT each. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/se5318</id>
-    <title>Simulación Extrema Releases El Chaltén Aeroclub for MSFS 2024</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <link href="/news/se5318"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6997631ce38b3004a5c58283_slide0001-scaled%20(1).webp"/>
-    <summary>Sim: FS24. Simulación Extrema has recently released El Chaltén Aeroclub (LAD 5138) for Microsoft Flight Simulator 2024, bringing a small but vital Patagonian airfield to the sim. Set beneath the towering Andes and the iconic Mount Fitz Roy, the gravel-and-dirt strip serves as a key link for tourism, medical flights, training, and firefighting operations in Argentina’s trekking capital. The scenery features hand-crafted 3D models of the aeroclub facilities, custom runway and apron textures, a detailed Mount Fitz Roy model, and static local wildlife, such as guanacos and rheas.  Four parking positions are included, with one near runway 27 set up to simulate firefighting water-loading operations, reflecting the field’s real-world role during forest fire season. Read more here. El Chaltén is available now on the MSFS Marketplace for Microsoft Flight Simulator 2024. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/gacqdl</id>
     <title>Guilb’Air Teases Cannes Quai du Large Helistation for XP12</title>
@@ -150,6 +132,24 @@
     <link href="/news/ddkewr"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a332403e7b5581ee5cb086_KEWR_XP12_79.jpg"/>
     <summary>Sim: X-Plane. Renowned developer Drzewiecki Design has released their highly anticipated Newark Liberty International Airport (KEWR) scenery for X-Plane 12. KEWR serves as a major hub for United Airlines, as well as hosting significant operations for other major airlines in the USA, including JetBlue, Spirit Airlines, and American Airlines. Having first opened in 1928, the airport now serves as a major transatlantic hub, with frequent flights to Europe, the Middle East, and certain flights to Asia and South America. The airport serves as a key domestic gateway, featuring flights to cities such as San Francisco, Orlando, and Los Angeles. Lastly, KEWR sees significant cargo operations, which cements its spot as both a major passenger destination, but also an essential cargo hub, offering a variety of flights to do in the simulator. KEWR contains numerous features such as full PBR texturing, night lighting, weather effects, and more. The full feature list can be viewed below. If you wish to purchase KEWR for X-Plane 12, you can do so on the X-Plane.org Store, for a price of $24 (USD). </summary>
+    <published>2026-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inivhhh</id>
+    <title>iniBuilds Release VHHH Trailer</title>
+    <updated>2026-02-28T00:00:00+00:00</updated>
+    <link href="/news/inivhhh"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a35fe45032b32c57cdd945_HKGForumBannerScenery.thumb.png.4d61d2ec81e57fdfd079992333349956.png"/>
+    <summary>Sim: FS24. Developer iniBuilds have released the trailer and additional information for their much anticipated rendition of Hong Kong International Airport and it's shaping up to be a stunner.  The development group took to their forums to announce the project is in the final development stages and it should be an on time arrival in Hong Kong for fans.  iniBuilds have disclosed that “The complexity of its (VHHH) layout, combined with its proximity to one of the most recognisable skylines in the world, has made this an incredibly satisfying project to work on” While also disclosing that an on-site visit was carried out by the team giving them the opportunity to gather plenty of photographic and video references to use in creating an accurate rendition of the airport.  Scenery features according to the developer include:  A footnote added that the currently under construction terminal will be added free of charge in a future update.  Now, what would VHHH be without the stunning metropolis of Hong Kong and its awe-inspiring skyline? Well no need to worry, inibuilds have disclosed that a Hong Kong city POI pack will also be released free of charge to those who purchase the scenery!  You can watch the trailer here:  Threshold will be sure to keep you updated as this progresses. </summary>
+    <published>2026-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hjet24</id>
+    <title>FlightFX HJet HA-420 Released for MSFS 2024</title>
+    <updated>2026-02-28T00:00:00+00:00</updated>
+    <link href="/news/hjet24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a36bb893e9b37ceb24acc9_699655a2a3054.webp"/>
+    <summary>Sim: FS24. FlightFX has released the HJet HA-420 for MSFS 2024, bringing Marwan Gharib’s popular microjet into the new sim, also with a broad rebuild. According to FlightFX, the MSFS 2024 edition focuses on bigger changes under the hood, including a rebuilt flight model, updated ground handling and suspension physics, and an avionics backend moved to the Working Title V2 framework, with a custom Vertical Situation Display (VSD) to match.  On the visuals side, the package utilises MSFS 2024-native materials and shaders, a remodelled cockpit, and a refreshed cabin with interactive elements, smart glass-style window shades, and the now-not-so-secret cabin companion, Rufus. Audio has also been redone, with FlightFX listing a new soundscape by Echo 19, alongside updated engine, ground roll, and cockpit ambience work.  FlightFX is also shipping the HJet with its VAMS 2.0 EFB, including Navigraph integration, SimBrief-supported weight and balance tools, and additional utilities, plus native support for MSFS 2024 walk-around interactions. The developer also highlights compatibility with MSFS 2024 Career Mode. Flight Physics Avionics and Systems Visual Modeling Audio Electronic Flight Bag (VAMS 2.0) Miscellaneous FlightFX’s release post lists the HJet at $24.99 USD, with availability across the MSFS 2024 Marketplace, Contrail, the Flightsim.to Store, and Orbx Direct. If you already own the MSFS 2020 HJet, you are entitled to a free upgrade, but the process varies with each vendor. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-02-28T00:00:00+00:00</published>
   </entry>
 </feed>
