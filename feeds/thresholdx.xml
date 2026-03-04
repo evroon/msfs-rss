@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-03T19:00:23.988535+00:00</updated>
+  <updated>2026-03-04T19:00:32.814603+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/gacqdl</id>
-    <title>Guilb’Air Teases Cannes Quai du Large Helistation for XP12</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <link href="/news/gacqdl"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69976f17f62a0f51a91d1cdf_1000035390%20(1).jpg"/>
-    <summary>Sim: X-Plane. A new X-Plane 12 scenery has been teased, with developer Guilb’Air revealing an upcoming rendition of Cannes Quai du Large Helistation (FR-0200). Located along the waterfront in Cannes, in the Alpes-Maritimes region of southern France, Quai du Large is a compact but demanding heliport, positioned right beside the marina, and just minutes from the city centre.  You can watch a preview stream here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/1240fr</id>
     <title>Laminar Research Releases X-Plane 12.4.0 </title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a36bb893e9b37ceb24acc9_699655a2a3054.webp"/>
     <summary>Sim: FS24. FlightFX has released the HJet HA-420 for MSFS 2024, bringing Marwan Gharib’s popular microjet into the new sim, also with a broad rebuild. According to FlightFX, the MSFS 2024 edition focuses on bigger changes under the hood, including a rebuilt flight model, updated ground handling and suspension physics, and an avionics backend moved to the Working Title V2 framework, with a custom Vertical Situation Display (VSD) to match.  On the visuals side, the package utilises MSFS 2024-native materials and shaders, a remodelled cockpit, and a refreshed cabin with interactive elements, smart glass-style window shades, and the now-not-so-secret cabin companion, Rufus. Audio has also been redone, with FlightFX listing a new soundscape by Echo 19, alongside updated engine, ground roll, and cockpit ambience work.  FlightFX is also shipping the HJet with its VAMS 2.0 EFB, including Navigraph integration, SimBrief-supported weight and balance tools, and additional utilities, plus native support for MSFS 2024 walk-around interactions. The developer also highlights compatibility with MSFS 2024 Career Mode. Flight Physics Avionics and Systems Visual Modeling Audio Electronic Flight Bag (VAMS 2.0) Miscellaneous FlightFX’s release post lists the HJet at $24.99 USD, with availability across the MSFS 2024 Marketplace, Contrail, the Flightsim.to Store, and Orbx Direct. If you already own the MSFS 2020 HJet, you are entitled to a free upgrade, but the process varies with each vendor. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-02-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/navias</id>
+    <title>Annotations and Scratchpads Released for Navigraph Charts</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <link href="/news/navias"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a86573135bdde4797a704e_ezgif-368068bb0f844482.jpg"/>
+    <summary>Sim: OTHER. Navigraph has released both annotations and scratchpads to their charts application, marking a significant quality of life upgrade. With annotations, users can now draw directly on Jeppesen charts and SimBrief operational flight plans. The application supports freehand drawings, as well as simple shapes, to help in highlighting essential information on charts for your flights.  Annotations ‍ The scratchpad works completely within the app as well, allowing users to copy clearances, holding instructions, ATIS data, pireps, and more. This is super useful as you do not need to switch apps or use paper to write instructions now, as it can all be done within the app. Scratchpad ‍ The update is out now to all Navigraph Unlimited subscribers. To view more information, check out the original post on the Navigraph website.</summary>
+    <published>2026-03-04T00:00:00+00:00</published>
   </entry>
 </feed>
