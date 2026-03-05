@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-04T19:00:32.814603+00:00</updated>
+  <updated>2026-03-05T19:20:54.184934+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/1240fr</id>
-    <title>Laminar Research Releases X-Plane 12.4.0 </title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <link href="/news/1240fr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/694b2a1a5c5001242ad2008a_CCheck_Update_Title_1-1.webp"/>
-    <summary>Sim: X-Plane. Laminar Research has officially pushed X-Plane 12.4.0 out of beta, with the update now available to both LR Direct and Steam users. Following a lengthy public testing phase, 12.4.0 arrives as a substantial platform update, focusing on performance refinements, aircraft system improvements, and expanded hardware support.  One of the headline additions is the introduction of multi-threading for scenery loading. X-Plane can now distribute scenery preparation tasks across multiple CPU cores, reducing bottlenecks when operating in dense or complex environments. For those flying into detailed airports, large cities, or custom scenery-heavy regions, this change should help improve overall smoothness, particularly during approach, taxi, and initial loading phases. Modern multi-core systems, of course, stand to benefit the most from this update. The default Airbus A330-300 has received a significant round of updates. Electrical systems have been refined, avionics logic improved, and cockpit display behaviour adjusted for greater accuracy. ACARS functionality is now also accessible via the third MCDU. The Cirrus SR22, among others, sees avionics tweaks, improved autopilot logic, and clearer navigation display behaviour.  X-Plane 12.4.0 also introduces native Windows support for the Tobii Eye Tracker 5.  You can review the complete 12.4.0 release notes here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vsmpbirel</id>
-    <title>Verticalsim Releases Palm Beach International Airport for MSFS 2020/2024 </title>
-    <updated>2026-02-20T00:00:00+00:00</updated>
-    <link href="/news/vsmpbirel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/6997e68e4e998441e1359b76_1.webp"/>
-    <summary>Sim: FS24. Verticalsim has recently released their rendition of Palm Beach International Airport (KPBI) for Microsoft Flight Simulator 2020 and 2024, serving the Miami and Port St. Lucie metropolitan areas, with an average of 6.6 million passengers per year.  It was opened in 1936 as Morrison Field, eventually becoming an important training airfield during World War 2 and operating as a staging base for the Allied invasion of France in 1944, with aircraft departing Palm Beach towards England in preparation for D-Day.  ‍After a brief return to civilian use, the airport was once again used for military purposes in the early 1950s as Palm Beach Air Force Base, training nearly 23,000 airmen during the Korean War. The Air Force Base was closed in 1962, and Palm Beach was back to being just a civilian airport.  Currently, the airport has 32 gates and three concourses. Concourse A houses Bahamasair and Silver Airways; B houses Air Canada, American Airlines, Southwest Airlines, Sun Country Airlines, and United Airlines; C, on the other hand, holds Delta, Frontier, JetBlue, and Spirit. The scenery features an accurate rendition of the airport, with an up-to-date ground layout, a highly detailed terminal with a fully modeled interior, performance-friendly optimization, custom taxiway signage, true-to-life landside, and much more. It’s available on their website for roughly $21.99, requiring at least 3.67 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍ ‍</summary>
-    <published>2026-02-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/inihkg24</id>
-    <title>iniBuilds Announces Hong Kong International Airport for MSFS 2024</title>
-    <updated>2026-02-20T00:00:00+00:00</updated>
-    <link href="/news/inihkg24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69985d0687060ea4ff1f62c4_hong1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently announced the development of Hong Kong International Airport (VHHH) for Microsoft Flight Simulator 2024, the 8th busiest airport in the World, with an average of 71 million passengers per year. Hong Kong International was built to replace the old Kai Tak Airport, deemed too small to handle the traffic it was handling, and to address the insane number of complaints from airlines due to the delays, a direct consequence of the fact that it could not scale up to the demand. Planning studies started in 1974, with construction work only kicking in almost 20 years later, in 1991. Completion was achieved in early 1998. Built on a large artificial island, the total area of the airport (12.48 square kilometers) corresponds to nearly 1% of Hong Kong’s total area.  The airport is a hub for Cathay Pacific, Greater Bay Express, HK Express, and Hong Kong Airlines, and is visited by over 100 other airlines with more than 180 destinations. It’s also the World’s busiest cargo airport, hosting Air Hong Kong, Cathay Cargo, DHL Aviation, Hong Kong Airlines Cargo, Kalitta Air, Polar Air Cargo, and UPS Airlines.  The scenery will feature an up-to-date ground layout, true-to-life landside, handcrafted ground textures, custom jetways, highly detailed terminals, performance-optimized performance, custom night lighting, and a Point of Interest pack for Hong Kong landmarks. There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fsawards2026v</id>
-    <title>Public Voting Now Open for the Flight Sim Awards 2026</title>
-    <updated>2026-02-22T00:00:00+00:00</updated>
-    <link href="/news/fsawards2026v"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/693ae05463e6d63e62e67e84_FLIGHTSIM_AWARDS_2026_at_FSWeekend__Celebrating_t_11-12-2025-15_14_45.png"/>
-    <summary>Sim: OTHER. Public voting for the Flight Sim Awards 2026 is now open! This is your chance to vote for your favourite products, developers, publishers and creators that had an impact on your flight simulation experience in 2025. We invite you to spend 5-10 minutes casting your vote, because every vote matters. The nomination process combined input from the community survey, content creators, media outlets, and the Flight Sim Awards organising board and jury. This approach was designed to ensure that the final shortlist reflects the breadth of activity across the flight simulation space, from aircraft and scenery development to tools, content creation, and long-term individual contributions. With the list of nominees now set, the next step belongs to the public. This is where YOU come in! You all are invited to review the shortlisted candidates in each category and cast your vote for the projects and individuals you believe have made the most significant impact over the past year. Each vote directly determines the final award recipients. Following your feedback from last year, we have reviewed all short-listed candidates and ensured that they either were released in 2025 or had a significant impact/update in the last calendar year. Each category listed comes with more in-depth information on the voting page should you want to review the criteria further. Furthermore, if a category is irrelevant to you, simply click ‘SKIP’ and move on. ‍Public voting will remain open until Sunday, March 1st 2026. The winners will be revealed during the Flight Sim Awards ceremony on Friday, March 20th 2026, held in cooperation with FlightSimWeekend. You can attend in person by purchasing a Captain’s Dinner ticket here: [link] The Flight Sim Awards are organised jointly by Threshold, FSElite, and Cruiselevel. The Awards aim to provide a transparent and meaningful platform to recognize excellence and contribution within the global flight simulation community. Your input is critical in ensuring that developers and products get the recognition they deserve. After countless hours of flight simulation enjoyment in 2025, this is a great opportunity to give back to the talented developers, publishers, and creators who devoted so much time to the hobby we love. The full list of nominees and the voting form are available HERE. Here’s a reminder of the categories: ‍ ‍ Stay tuned for more details on how you can watch the Flight Sim Awards ceremony at the Captains Dinner at FlightSimWeekend next month.  ‍</summary>
-    <published>2026-02-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/aesstr24</id>
     <title>Aerosoft Previews Stuttgart Airport for MSFS 2024</title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a86573135bdde4797a704e_ezgif-368068bb0f844482.jpg"/>
     <summary>Sim: OTHER. Navigraph has released both annotations and scratchpads to their charts application, marking a significant quality of life upgrade. With annotations, users can now draw directly on Jeppesen charts and SimBrief operational flight plans. The application supports freehand drawings, as well as simple shapes, to help in highlighting essential information on charts for your flights.  Annotations ‍ The scratchpad works completely within the app as well, allowing users to copy clearances, holding instructions, ATIS data, pireps, and more. This is super useful as you do not need to switch apps or use paper to write instructions now, as it can all be done within the app. Scratchpad ‍ The update is out now to all Navigraph Unlimited subscribers. To view more information, check out the original post on the Navigraph website.</summary>
     <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fs2crew7324</id>
+    <title>FS2Crew Updates Animated PMDG 737 First Officer Bringing MSFS 2024 Support</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <link href="/news/fs2crew7324"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a8856b6f2d95e58a550eaf_737_sop2_c.webp"/>
+    <summary>Sim: FS24. FS2Crew has recently released significant updates for their animated First Officer for the PMDG 737 series, with the main highlight being full support for Microsoft Flight Simulator 2024. FS2Crew’s Animated First Officer features a fully modelled first officer who, according to the developer, performs flows “just as in the real world.” The ability to choose between multiple models for the first officer is also present. All three Standard Operating Procedure (SOP) packs are receiving this update, which includes compatibility for the PMDG 737-600, 737-800, and 737-900 variants. Existing customers can update their packs free of charge through the FS2Crew Product Manager. FS2Crew also states that many of their other products have received updates, enhancing compatibility, stability, and the user experience. For more on FS2Crew’s animated First Officer, check out FS2Crew’s website. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vfrscwrv2</id>
+    <title>VFRScenery Announces Walkaround V2 for X-Plane</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <link href="/news/vfrscwrv2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a88d6351d0a02c3565649d_%F0%9F%91%80%20%5B%20X-Plane%2011%20%26%2012%20%5D%20WalkAround%20System%20V2%20disponible%20le%207%20mars%202026%200-11%20screenshot.webp"/>
+    <summary>Sim: X-Plane. VFRScenery, the developer of the Walkaround Plugin for X-Plane 11 and 12, has announced that an updated version will be released on March 7th. Walkaround V2 aims to deliver a comprehensive walkaround experience for both X-Plane 11 and 12. This new version features an immersive audio system, a fully redesigned user interface, and enhanced customisation options for both general aviation aircraft and airliners. One of the main highlights is the complete integration of the "WalkCabin mode," which allows users to perform an exterior check, climb stairs, and seamlessly transition into the cabin. Additional features include an advanced camera system that simulates realistic pilot height, as well as binoculars and a flashlight. There is also a landing rate module that provides commentary from the first officer and displays statistics such as feet per minute (FPM), G-Force, landing speed, and a calculated score. Walkaround V2 is releasing exclusively on the x-plane.org store on the seventh of March. The update is offered free of charge to owners of the previous version. ‍ For more about the Walkaround V2 Plugin, check out VFRScenery’s YouTube video. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/csscla</id>
+    <title>CSS Provide Blog Update on 737 Classic V2</title>
+    <updated>2026-03-05T00:00:00+00:00</updated>
+    <link href="/news/csscla"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a977080768dc424d057afd_CSS1.webp"/>
+    <summary>Sim: FS24. Development group CSS Simulations early this year provided an in depth look at their upcoming 737 Classic V2 update which will further enhance the aircraft.  The development of V2 is built around improving visual and systems quality along with bringing new features and further refinements.  CSS have stated that the V2 build is designed around community feedback and they are actively engaging with the community to provide a fantastic rendition of the “Classic” In regards to the interior they have stated:  The exterior is also set to receive a big overhaul including enhancements:  They have also stated that the -300 and -400 variants are almost ready to be released in their V1 configuration.  Threshold will keep you updated as we learn more.  ‍</summary>
+    <published>2026-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksdus110</id>
+    <title>MK Studios Updates Düsseldorf Airport for MSFS 2020/2024</title>
+    <updated>2026-03-05T00:00:00+00:00</updated>
+    <link href="/news/mksdus110"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a9c0f8333af6ec41e0dca5_dusupdate1.webp"/>
+    <summary>Sim: FS24. MK Studios has recently issued an update to their rendition of Düsseldorf Airport (EDDL) for Microsoft Flight Simulator 2020/2024, bringing it up to date with real-life layout changes and more.  Update 1.1.0 ensures the ground layout matches Düsseldorf Airport as it is in 2026, fixes certain object placements, improves runway markings, and other small fixes. The complete changelog follows below: ​ Changelog 1.1.0  • Ground layout updated according to latest 2026 changes  • Object placement fixes  • Improved runway marking textures  • Various small fixes To celebrate the update, the scenery will be on sale (40% off) until Tuesday (10/03). It’s available on Contrail for roughly $12.50 (promotional price), requiring at least 4.4 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-05T00:00:00+00:00</published>
   </entry>
 </feed>
