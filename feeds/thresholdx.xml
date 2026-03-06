@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-05T19:20:54.184934+00:00</updated>
+  <updated>2026-03-06T18:56:40.630393+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aesstr24</id>
-    <title>Aerosoft Previews Stuttgart Airport for MSFS 2024</title>
-    <updated>2026-02-23T00:00:00+00:00</updated>
-    <link href="/news/aesstr24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699c33b35ad57089c1c3648f_stugarda1.webp"/>
-    <summary>Sim: FS24. Aerosoft has recently shared previews of their upcoming Stuttgart Airport (EDDS) for Microsoft Flight Simulator 2024, serving the city of Stuttgart, Germany, with an average of 7 million passengers per year. Built in 1939 to replace Böblingen Airport, it was taken over by the American forces right after the war. It was partially returned in 1948: the runway and facilities were shared with the US Army during the Cold War. The original terminal was replaced in 2004 with four terminals capable of handling up to 12 million passengers annually. Eurowings and Turkish Airlines use Terminal 1; Terminal 2 is used by Lufthansa and Star Alliance partners; Terminal 3 is used by TUIfly and KLM, and Terminal 4 is a separate building for other airlines, set to be rebuilt and expanded in the future. It’s a hub for Condor, Eurowings, and TUI fly Deutschland, sporting a substantial list of destinations. Aerosoft states that the scenery is in “final approach,” progressing well through beta testing, and they plan an event to celebrate the release (apparently of never-before-seen proportions). They also state the preview screenshots do not represent the final version of the product and may be subject to changes. There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fscs26</id>
-    <title>Annual Navigraph FlightSim Community Survey Now Live</title>
-    <updated>2026-02-24T00:00:00+00:00</updated>
-    <link href="/news/fscs26"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699e13b09b8ce3159853877a_Banner_Image.webp"/>
-    <summary>Sim: OTHER. Navigraph has officially launched the FlightSim Community Survey 2026. This annual survey features a range of questions related to software, hardware, and personal preferences within the flight simulation community. It serves as a valuable resource for identifying trends and tendencies in the flight simulation world. Last year, over 23,600 simmers participated in the survey, and Navigraph hopes to exceed that number this year. The results of this survey are utilized by various developers and companies, helping to shape the future of the flight simulation industry. The survey is now open and will be available until March 9th. You can participate by clicking here. ‍ For the latest flight simulation news, remember to stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/wsshkg24</id>
-    <title>WF Scenery Studio Announces Hong Kong International Airport V2 for MSFS 2020/2024</title>
-    <updated>2026-02-25T00:00:00+00:00</updated>
-    <link href="/news/wsshkg24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/699e841482f7ad288e17e2ea_kong1.jpg"/>
-    <summary>Sim: FS24. WF Scenery Studio has recently announced an update to their Hong Kong International Airport (VHHH) rendition for Microsoft Flight Simulator 2020 and 2024, featuring rebuilt models, enhanced details, and more. Hong Kong International was built to replace the old Kai Tak Airport, deemed too small to handle the traffic it was handling, and to address the insane number of complaints from airlines due to the delays, a direct consequence of the fact that it could not scale up to the demand. Planning studies started in 1974, with construction work only kicking in almost 20 years later, in 1991. Completion was achieved in early 1998. Built on a large artificial island, the total area of the airport (12.48 square kilometers) corresponds to nearly 1% of Hong Kong’s total area. ​ The airport is a hub for Cathay Pacific, Greater Bay Express, HK Express, and Hong Kong Airlines, and is visited by over 100 other airlines with more than 180 destinations. It’s also the World’s busiest cargo airport, hosting Air Hong Kong, Cathay Cargo, DHL Aviation, Hong Kong Airlines Cargo, Kalitta Air, Polar Air Cargo, and UPS Airlines. The update will feature completely rebuilt 3D models, the new terminal, which is under construction in real life, enhanced details, and extensive performance optimizations to warrant an even smoother experience.  ​ After Hong Kong V2, they will focus on updating Guangzhou Baiyun International, including the new runways and satellite terminals, matching up-to-date reference imagery. ​ There’s no pricing or release date information just yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/fslup330</id>
-    <title>FSLabs Updates A321ceo/neo for MSFS 2020/2024</title>
-    <updated>2026-02-26T00:00:00+00:00</updated>
-    <link href="/news/fslup330"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/687ac7f98fc52b4ce72b8314_309-1.webp"/>
-    <summary>Sim: FS24. FSLabs has recently issued an update to their experimental branches of the A321ceo and neo for Microsoft Flight Simulator 2020 and 2024, focusing on improving overall stability and introducing further refinements. Update v11.0.1.330 is an interim update, bringing the promised low-speed braking action refinements, updating the pedal curves with a more accurate and progressive deceleration feel, and delivering a more natural experience at speeds below 5 knots. In addition to low-speed braking, the update also brings further improvements to the systems, reflecting customer feedback and internal validation efforts. Furthermore, the FMGC code has been made more stable, and the logging architecture has been improved to make it easier to isolate and properly diagnose edge-case scenarios. There were also minor changes to ensure proper compatibility with the Sim Update 5 beta. The FSLabs A321ceo and neo are available on their website for $69.95 + VAT each. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mkskeyw24re</id>
-    <title>MK Studios Releases Key West International Airport for MSFS 2024</title>
-    <updated>2026-02-26T00:00:00+00:00</updated>
-    <link href="/news/mkskeyw24re"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a06b6bd8823687935f5324_west1.webp"/>
-    <summary>Sim: FS24. MK Studios has recently released their rendition of Key West International Airport (KEYW) for Microsoft Flight Simulator 2024, serving Key West, Florida, with an average of 1.5 million passengers per year. The airport’s history goes back over a century, when Augustin Parla flew to Cuba in 1913. Fifteen years later, Pan American Airways began flying scheduled routes from Key West. It was briefly taken over by the US Army during World War 2 after the Pearl Harbor attack, as an alternative to the Trumbo Point seaplane base and the main Naval Air Station for fixed-wing aircraft. ​It was returned to the city after the war, leading to its application for FAA grants in 1953 and its designation as Key West International Airport. Allegiant Air, American Airlines, American Eagle, Avelo Airlines, Breeze Airways, Delta Air Lines, Delta Connection, JetBlue, Spirit Airlines, United Airlines, and United Express serve it. The scenery features a high-detail rendition of the airport, with custom ground textures, an up-to-date ground layout, custom night lighting, custom jetways, performance-friendly optimization, and much more. It’s available on Contrail for roughly $18.86, requiring at least 2.19 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/vcr787</id>
     <title>Vector Reveals Upcoming Boeing 787 Dreamliner for MSFS24</title>
@@ -151,5 +106,50 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a9c0f8333af6ec41e0dca5_dusupdate1.webp"/>
     <summary>Sim: FS24. MK Studios has recently issued an update to their rendition of Düsseldorf Airport (EDDL) for Microsoft Flight Simulator 2020/2024, bringing it up to date with real-life layout changes and more.  Update 1.1.0 ensures the ground layout matches Düsseldorf Airport as it is in 2026, fixes certain object placements, improves runway markings, and other small fixes. The complete changelog follows below: ​ Changelog 1.1.0  • Ground layout updated according to latest 2026 changes  • Object placement fixes  • Improved runway marking textures  • Various small fixes To celebrate the update, the scenery will be on sale (40% off) until Tuesday (10/03). It’s available on Contrail for roughly $12.50 (promotional price), requiring at least 4.4 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ddtx12</id>
+    <title>DominicDesignTeam Releases Indianapolis International Airport for X-Plane 12</title>
+    <updated>2026-03-05T00:00:00+00:00</updated>
+    <link href="/news/ddtx12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a9ea5347e31c9652acc657_Cessna_172SP%20-%202026-03-03%2015.48.07.webp"/>
+    <summary>Sim: X-Plane. DominicDesignTeam have released their rendition of Indianapolis International Airport (KIND) for X-Plane 12. Located just 7 miles from downtown Indianapolis, it is the largest airport in Indiana, serving the city of Indianapolis, with over 10 million passenger operations in the last year.  Opened in 1931, it replaced Stout Field as the main airport serving Indianapolis. In 1944, it was renamed to Weir Cook Municipal Airport in honour of Harvey Weir Cook, a World War I flying ace. The airport was also one of the stops on the first transcontinental air service between Los Angeles and New York, operated by Transcontinental Air Transport, which later became the iconic TWA.  In 1961, the first jet aircraft to touch down at KIND was a TWA Convair 880, which was later followed by a Boeing B707. During the late 1980s, the airport also became a hub for USAir (which later became US Airways), ATA Airways, and FedEx, which made Indianapolis their second-largest hub, after Memphis.  Today, Indianapolis Intl’ Airport is served by 14 passenger airlines to over 50 destinations, including 6 international destinations, with five of them being seasonal service to popular tourist destinations in Mexico, Puerto Rico and the Dominican Republic, and by 5 cargo airlines, to over 60 destinations, mostly in USA.   The DominicDesignTeam’s rendition of KIND features custom made terminal, FBO and surrounding buildings, custom mesh and ground clutter, taxi signs, 3D grass, dynamic lighting, as well as support for WorldTraffic 3 and Traffic Global routes.  The scenery is available for purchase on the X-Plane.org store for $19.99, and requires at least 1.4GB of free disk space.  If you enjoy our content and want to support Threshold, consider joining us on Patreon!  ‍</summary>
+    <published>2026-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inihkgrel</id>
+    <title>iniBuilds Releases Hong Kong International Airport for MSFS 2024</title>
+    <updated>2026-03-06T00:00:00+00:00</updated>
+    <link href="/news/inihkgrel"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aace6d351bd54abe7fe28d_hkg1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently released their rendition of Hong Kong International Airport (VHHH) for Microsoft Flight Simulator 2024, the 8th busiest airport in the World, with an average of 71 million passengers per year. Hong Kong International was built to replace the old Kai Tak Airport, deemed too small to handle the traffic it was handling, and to address the insane number of complaints from airlines due to the delays, a direct consequence of the fact that it could not scale up to the demand. Planning studies started in 1974, with construction work only kicking in almost 20 years later, in 1991. Completion was achieved in early 1998. Built on a large artificial island, the total area of the airport (12.48 square kilometers) corresponds to nearly 1% of Hong Kong’s total area. The airport is a hub for Cathay Pacific, Greater Bay Express, HK Express, and Hong Kong Airlines, and is visited by over 100 other airlines with more than 180 destinations. It’s also the World’s busiest cargo airport, hosting Air Hong Kong, Cathay Cargo, DHL Aviation, Hong Kong Airlines Cargo, Kalitta Air, Polar Air Cargo, and UPS Airlines. The scenery features an up-to-date ground layout, true-to-life landside, handcrafted ground textures, custom jetways, highly detailed terminals, performance-optimized performance, custom night lighting, and a Point of Interest pack for Hong Kong landmarks. It’s available on the iniBuilds Store for roughly $26.72, requiring at least 6.27 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ​ ‍</summary>
+    <published>2026-03-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inia300107</id>
+    <title>iniBuilds Updates A300-600R Airliner for MSFS 2024</title>
+    <updated>2026-03-06T00:00:00+00:00</updated>
+    <link href="/news/inia300107"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ab0ea94205cdac1666466f_premium1.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently issued an update to their A300-600R Premium Airliner for Microsoft Flight Simulator 2024, improving systems, performance, visuals, sounds, and overall usability. Update v1.0.7 delivers significant performance gains across a wide range of systems, from low-end to high-end. On their low-spec test system with a mobile RTX 4070, the passenger version went from 26.8 FPS to 46.8 FPS, and the freighter went from 30.7 FPS to 43.6 FPS, with stability improvements. On their high-end test system with a 9800X3D and an RTX 4090, the frames per second on the passenger version went from 64.7 FPS to 80.8 FPS, and on the freighter version from 75.7 FPS to 84.3 FPS. They have also implemented numerous autopilot and flight mode fixes, added pause at top of descent, time compression, CPDLC compatibility for BATC/SI, improved EFB startup options, and resolved a variety of art, LOD, and sound issues. The complete changelog follows below: ‍ The A300-600R Premium is available on their store for roughly $60, requiring at least 3.5 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/atls346</id>
+    <title>Aerosoft Shares New A340-600 Screenshots for MSFS 2020/2024</title>
+    <updated>2026-03-06T00:00:00+00:00</updated>
+    <link href="/news/atls346"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ab14ce92a18682fb9fe05f_1.webp"/>
+    <summary>Sim: FS24. Aerosoft has shared new screenshots of their A340-600 Pro for Microsoft Flight Simulator 2020/2024, developed in conjunction with ToLiss, a renowned X-Plane add-on developer with a vast lineup of high-fidelity Airbus aircraft. Formerly the world’s longest commercial aircraft (up until the arrival of the Boeing 747-800), the A340-600 was designed to compete with early jumbo jets that were getting phased out at the time due to their age, offering the same four engines and similar passenger carrying capabilities, but boasting full fly-by-wire technology. While the range was nothing short of impressive, and the flying experience was smooth and comfortable, the timing was far from perfect, since the early 2000s also brought a beefy long-haul widebody with two engines, the 777-300ER, which was fairly cheaper to operate and ended up being the airplane of choice for many operators around the globe.  Aerosoft says things are “moving quickly” with the project and that the upcoming week will be very exciting for everyone waiting for the product. The riddle they teased recently will be solved, and they can’t wait to share what they have been working on. Furthermore, they shared a fresh batch of screenshots that show a bit more of the A340-600's interior and exterior.  There’s still no information about the pricing or the eventual release date, but Threshold will keep you updated! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/29pcha</id>
+    <title>29Palms Releases Chania International Airport for MSFS 2024</title>
+    <updated>2026-03-06T00:00:00+00:00</updated>
+    <link href="/news/29pcha"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ab1b1da2bac9dec91dda86_chania1.webp"/>
+    <summary>Sim: FS24. 29Palms has recently released their rendition of Chania International Airport (LGSA) for Microsoft Flight Simulator 2024, serving the city of Chania, Crete, with an average of 4 million passengers per year. The airport was originally a military base, and commercial flights were transferred from the previous airport (Maleme) due to insufficient capacity in the late 1950s, which eventually plagued the new airport as well, leading to the construction of a new terminal building in the 1990s.  The new terminal was inaugurated in 1996, with a surface area of 14,650 square meters and six aircraft stands, designed to handle up to 1.35 million passengers per year. The airport was privatized in 2015 and is now operated by Fraport AG and the Copelouzos Group for the next 40 years, as of April 2017.  In mid-2018, the airport saw its first post-privatization upgrades, including an expansion of the passenger safety area, ground layout changes, twice as many hand baggage scanners, new boarding gates, and more. It’s a focus city for Aegean Airlines and Ryanair. Air Serbia, Animawings, Austrian Airlines, British Airways, Brussels Airlines, Condor, Discover Airlines, easyJet, Edelweiss, Eurowings, Finnair, Jet2.com, Luxair, Neos, Norwegian Air Shuttle, Scandinavian Airlines, Sky Express, Smartwings, Transavia, TUI Airways, TUI fly Belgium, TUI fly Netherlands, and Wizz Air also serve it. The scenery features an accurate rendition of the airport, with custom ground textures, highly detailed 3d objects, terminal interiors, sloped runway profile, custom animated wingsocks, and much more. It’s available on Contrail for roughly $18.58, requiring at least 2.32 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-06T00:00:00+00:00</published>
   </entry>
 </feed>
