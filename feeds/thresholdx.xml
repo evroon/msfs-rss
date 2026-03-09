@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-08T18:45:29.331872+00:00</updated>
+  <updated>2026-03-09T19:01:59.891489+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/xcerj2</id>
-    <title>X-Crafts Releases ERJ Family 2.0 for X-Plane 12</title>
-    <updated>2026-02-26T00:00:00+00:00</updated>
-    <link href="/news/xcerj2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a0d53258aa62571f9ce823_main_picture_erj_family_by_x-crafts_004.webp"/>
-    <summary>Sim: X-Plane. X-Crafts has released its new ERJ Family 2.0 for X-Plane 12, a rebuilt-from-scratch, new generation of its Embraer regional jets, covering the ERJ 135, ERJ 140, ERJ 145, ERJ 145XR, and the Legacy 650.  The developer says the focus this time is a full, “real-world ops” systems simulation across the range, pairing a pilot-approved flight model with an authentic FMS and autopilot that supports procedures like holds, flyover waypoints, DME arcs, and intercepts. A major new addition is AirComms, an on-screen guidance system designed to keep you moving without turning the cockpit into a checklist marathon, offering reminders, warnings, and step-by-step prompts from startup to shutdown, with the option to disable it once you are comfortable.  Version 2.0 also introduces a new avionics suite, with high-resolution PFD, MFD, and EICAS displays, synoptic pages, a custom navigation map, weather radar, Terrain Radar compatibility, and resizable pop-out displays. The ERJ Family 2.0 also includes a fully integrated EFB, covering doors and ground services, weight and balance with SimBrief integration, take-off and landing calculations, interactive checklists, and aircraft settings, alongside AviTab integration.  X-Crafts notes that the passenger ERJs do not feature VNAV or autothrottle in real-world service, and these functions are not included here. Although some Legacy aircraft do have them, they are not currently simulated. Visually, the aircraft features a retextured interior, updated gear modelling with optional clean or dirty textures, new lighting, rain effects, VR-ready cockpit improvements, and performance optimisation via LOD tuning.  X-Crafts’ ERJ Family costs USD 139.95 as a bundle, or individually at USD 69.95 (Legacy 650, E145/E145XR) and USD 59.95 (E135, E140), with an upgrade to the remaining four variants for USD 79.99. Full details are on the X-Plane.org Store product page, or click here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/orbmcsia24</id>
-    <title>Orbx Releases McKinnon St. Simons Island Airport for MSFS 2024</title>
-    <updated>2026-02-28T00:00:00+00:00</updated>
-    <link href="/news/orbmcsia24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a2df07b5de00bd67f59a79_kssi1.webp"/>
-    <summary>Sim: FS24. Orbx has recently released their rendition of McKinnon St. Simons Island Airport (KSSI) for Microsoft Flight Simulator 2024, serving Brunswick, Georgia, with an average of 43,070 aircraft operations per year. It opened in early 1938, after three years of construction work. Its infrastructure and strategic location were made useful by the US Navy, becoming Naval Air Station St. Simons Island. It remained an active air station for a few years after the war, before its activities were merged into NAS Glynco, ultimately leading to its closure as a naval air station and its return as a civil airport. Back in the day, the airport saw some commercial activity from Delta (1945-1960s) and Eastern Airlines (1945-1964), but it has since become a general aviation airport. The scenery features an accurate rendition of the airport, with custom ground textures, ultra-high definition PBR texturing, seamless photogrammetry integration, custom night lighting, photorealistic HD textures, and more. It’s available on OrbxDirect for roughly $19.18, requiring at least 2.99 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ddkewr</id>
-    <title>Drzewiecki Design Releases KEWR for X-Plane 12</title>
-    <updated>2026-02-28T00:00:00+00:00</updated>
-    <link href="/news/ddkewr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a332403e7b5581ee5cb086_KEWR_XP12_79.jpg"/>
-    <summary>Sim: X-Plane. Renowned developer Drzewiecki Design has released their highly anticipated Newark Liberty International Airport (KEWR) scenery for X-Plane 12. KEWR serves as a major hub for United Airlines, as well as hosting significant operations for other major airlines in the USA, including JetBlue, Spirit Airlines, and American Airlines. Having first opened in 1928, the airport now serves as a major transatlantic hub, with frequent flights to Europe, the Middle East, and certain flights to Asia and South America. The airport serves as a key domestic gateway, featuring flights to cities such as San Francisco, Orlando, and Los Angeles. Lastly, KEWR sees significant cargo operations, which cements its spot as both a major passenger destination, but also an essential cargo hub, offering a variety of flights to do in the simulator. KEWR contains numerous features such as full PBR texturing, night lighting, weather effects, and more. The full feature list can be viewed below. If you wish to purchase KEWR for X-Plane 12, you can do so on the X-Plane.org Store, for a price of $24 (USD). </summary>
-    <published>2026-02-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/inivhhh</id>
     <title>iniBuilds Release VHHH Trailer</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ac92d9fd5338cb9dc7db03_SK2AM5Zg0pY-HD.webp"/>
     <summary>Sim: FS24. Aerosoft has published the official trailer for the Airbus A340-600 Pro, its joint project with ToLiss for MSFS 2020 and MSFS 2024. The video spotlights the EFB, failures, a taxi camera view, and what is described as a custom flight and engine model. Aerosoft has not attached a release date to the trailer, so, for now, this is still a preview, not a launch announcement. Also part of today’s announcement is the embargo lift, as Aerosoft has cleared a first wave of creators to start streaming the A340-600 Pro from 1300Z on March 7. You can now see the aircraft in action on YouTube. We will, of course, follow the project closely, leading up to release. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-03-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ini341</id>
+    <title>iniBuilds Update A340 To v1.0.10 </title>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <link href="/news/ini341"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69abff10c3540f3103c5cb8e_647112464_1480698930733350_8029144999757566521_n.jpg"/>
+    <summary>Sim: FS24. IniBuilds have just launched their latest update for the A340 Airliner. This update focuses on various improvements which improve operational accuracy and refining several core aircraft systems.  They have stated that multiple aircraft systems including flight guidance, FMGS behaviours, navigation handling and MCDU functionality have been fixed and improved.  The ground handling integration for the large jet has also been improved. We also see the addition of a new noise cancelling option in the EFB along with fixed cockpit sounds and enhanced cabin environment sounds.  For the full change log follow the link:  https://forum.inibuilds.com/topic/35789-inibuilds-a340-airliner-for-microsoft-flight-simulator-2024-v1010-released/ ‍</summary>
+    <published>2026-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bb757u</id>
+    <title>BlueBird Simulations Release Brief 757 200 Update </title>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <link href="/news/bb757u"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aab6c74b14a69c18985104_Screenshot%202026-03-06%20at%2011.12.43.png"/>
+    <summary>Sim: FS24. Arguably the most anticipated airliner for MSFS, the BB 757, has been further teased in a brief update on the development groups discord channel. We are shown two lovely wing view screenshots along with a brief update on how the project is progressing.  The developer informed us that the -200 variant is undergoing some finishing touches and additional details are being added which in turn hints that it could be getting close to release!  The bluebird 757 is set to be one of the most in depth airliners to come to the platform in recent times and if you would like to see more about it check out our previous articles covering update videos from the development cycle.  Threshold will keep you updated as the aircraft develops ‍</summary>
+    <published>2026-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/natraf</id>
+    <title>Nattani RAF Valley Freeware Scenery Updated For MSFS2024</title>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <link href="/news/natraf"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aef9c06e8e6184a207fb1b_Screenshot%202026-03-09%20at%2016.45.58.png"/>
+    <summary>Sim: FS24. The Popular freeware rendition of EGOV has been taken over by developer Nattani and has been updated and enhanced for MSFS 2024 and is now available via Flightsim.to  Well and truly a group project this msfs2020 scenery has been brought back to life by a group of dedicated devs including to mention a few: Deadjen and NickB with contributions from UK2000’s Gary.  The new version of the scenery includes:  ‍</summary>
+    <published>2026-03-09T00:00:00+00:00</published>
   </entry>
 </feed>
