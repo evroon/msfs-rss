@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-09T19:01:59.891489+00:00</updated>
+  <updated>2026-03-10T18:59:33.653928+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inivhhh</id>
-    <title>iniBuilds Release VHHH Trailer</title>
-    <updated>2026-02-28T00:00:00+00:00</updated>
-    <link href="/news/inivhhh"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a35fe45032b32c57cdd945_HKGForumBannerScenery.thumb.png.4d61d2ec81e57fdfd079992333349956.png"/>
-    <summary>Sim: FS24. Developer iniBuilds have released the trailer and additional information for their much anticipated rendition of Hong Kong International Airport and it's shaping up to be a stunner.  The development group took to their forums to announce the project is in the final development stages and it should be an on time arrival in Hong Kong for fans.  iniBuilds have disclosed that “The complexity of its (VHHH) layout, combined with its proximity to one of the most recognisable skylines in the world, has made this an incredibly satisfying project to work on” While also disclosing that an on-site visit was carried out by the team giving them the opportunity to gather plenty of photographic and video references to use in creating an accurate rendition of the airport.  Scenery features according to the developer include:  A footnote added that the currently under construction terminal will be added free of charge in a future update.  Now, what would VHHH be without the stunning metropolis of Hong Kong and its awe-inspiring skyline? Well no need to worry, inibuilds have disclosed that a Hong Kong city POI pack will also be released free of charge to those who purchase the scenery!  You can watch the trailer here:  Threshold will be sure to keep you updated as this progresses. </summary>
-    <published>2026-02-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/hjet24</id>
-    <title>FlightFX HJet HA-420 Released for MSFS 2024</title>
-    <updated>2026-02-28T00:00:00+00:00</updated>
-    <link href="/news/hjet24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a36bb893e9b37ceb24acc9_699655a2a3054.webp"/>
-    <summary>Sim: FS24. FlightFX has released the HJet HA-420 for MSFS 2024, bringing Marwan Gharib’s popular microjet into the new sim, also with a broad rebuild. According to FlightFX, the MSFS 2024 edition focuses on bigger changes under the hood, including a rebuilt flight model, updated ground handling and suspension physics, and an avionics backend moved to the Working Title V2 framework, with a custom Vertical Situation Display (VSD) to match.  On the visuals side, the package utilises MSFS 2024-native materials and shaders, a remodelled cockpit, and a refreshed cabin with interactive elements, smart glass-style window shades, and the now-not-so-secret cabin companion, Rufus. Audio has also been redone, with FlightFX listing a new soundscape by Echo 19, alongside updated engine, ground roll, and cockpit ambience work.  FlightFX is also shipping the HJet with its VAMS 2.0 EFB, including Navigraph integration, SimBrief-supported weight and balance tools, and additional utilities, plus native support for MSFS 2024 walk-around interactions. The developer also highlights compatibility with MSFS 2024 Career Mode. Flight Physics Avionics and Systems Visual Modeling Audio Electronic Flight Bag (VAMS 2.0) Miscellaneous FlightFX’s release post lists the HJet at $24.99 USD, with availability across the MSFS 2024 Marketplace, Contrail, the Flightsim.to Store, and Orbx Direct. If you already own the MSFS 2020 HJet, you are entitled to a free upgrade, but the process varies with each vendor. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-02-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/navias</id>
     <title>Annotations and Scratchpads Released for Navigraph Charts</title>
@@ -151,5 +133,23 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aef9c06e8e6184a207fb1b_Screenshot%202026-03-09%20at%2016.45.58.png"/>
     <summary>Sim: FS24. The Popular freeware rendition of EGOV has been taken over by developer Nattani and has been updated and enhanced for MSFS 2024 and is now available via Flightsim.to  Well and truly a group project this msfs2020 scenery has been brought back to life by a group of dedicated devs including to mention a few: Deadjen and NickB with contributions from UK2000’s Gary.  The new version of the scenery includes:  ‍</summary>
     <published>2026-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ffx180</id>
+    <title>FlightFX Announce Piaggio Update With MSFS2024 Release Date and More</title>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <link href="/news/ffx180"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69af331d62532142b04a4c6f_Screenshot%202026-03-09%20at%2020.51.07.png"/>
+    <summary>Sim: FS24. FlightFX today announced a major milestone for one of its most distinctive aircraft products, now officially titled the Piaggio P.180 Avanti II. Known for its unmistakable design and unique twin pusher-prop configuration, the aircraft stands out for blending speed, style, and advanced engineering in a way few aircraft do.  FlightFX’s rendition for MSFS 2024 brings that character into Microsoft Flight Simulator with advanced flight and engine modeling, ProLine 21 avionics, VAMS 2.0 tablet integration, and highly detailed visual and audio work built from on-site reference material.  FlightFX confirmed that the Microsoft Flight Simulator 2024 version of the Piaggio P.180 Avanti II has completed active development and testing, with a release date of March 10, 2026. In addition, some updates will also be released for the 2020 version as well. This release also marks the aircraft’s official designation as a licensed product. As part of this milestone, FlightFX will be updating product naming and branding across both of its Microsoft Flight Simulator releases. Users will see the Piaggio P.180 Avanti II name reflected in the Microsoft Flight Simulator 2020 version as well, aligning the product with its official licensed designation. “Official licensing is an important step for this aircraft and for our community,” said Nick Sdoucos, CEO at FlightFX. “It reflects our commitment to representing the Piaggio P.180 Avanti II accurately, partnering properly, and continuing to refine the experience through meaningful updates over time.”  The Piaggio P.180 Avanti II will be available on the in-game marketplace on MSFS 2020 and 2024. Owners of the current version in MSFS 2020 will be entitled to a free upgrade to the 2024 version. Please note that users are advised to purchase the aircraft in the sim they prefer to use first, as entitlements can sometimes take a brief period of time before syncing between the two platforms.  Key highlights include:  ● Now officially licensed as the Piaggio P.180 Avanti II  ● Name and branding updates coming to the Microsoft Flight Simulator 2020 version  ● Microsoft Flight Simulator 2024 version releases March 10, 2026  ● Continued support and ongoing updates planned ‍</summary>
+    <published>2026-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a34012</id>
+    <title>Aerosoft Announces March 12 Release for A340-600 Pro</title>
+    <updated>2026-03-10T00:00:00+00:00</updated>
+    <link href="/news/a34012"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b06529a8e2174e89b156d6_109%20(1).webp"/>
+    <summary>Sim: FS24. Aerosoft has confirmed that the Airbus A340-600 Pro will be released on March 12, 2026, with the date revealed during a recent developer stream on Aerosoft’s Twitch channel, hosted by community manager Rafi.  The A340-600 Pro is a joint effort between Aerosoft and ToLiss, with Aerosoft focusing on the aircraft’s modelling and presentation, and ToLiss handling the underlying systems.  In the past week, Aerosoft has steadily ramped up the public-facing coverage, first with an official trailer, also lifting the preview embargo, giving content creators the green light to show the aircraft ahead of release. We'll of course keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-10T00:00:00+00:00</published>
   </entry>
 </feed>
