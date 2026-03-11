@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-10T18:59:33.653928+00:00</updated>
+  <updated>2026-03-11T19:02:12.972935+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/navias</id>
-    <title>Annotations and Scratchpads Released for Navigraph Charts</title>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <link href="/news/navias"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a86573135bdde4797a704e_ezgif-368068bb0f844482.jpg"/>
-    <summary>Sim: OTHER. Navigraph has released both annotations and scratchpads to their charts application, marking a significant quality of life upgrade. With annotations, users can now draw directly on Jeppesen charts and SimBrief operational flight plans. The application supports freehand drawings, as well as simple shapes, to help in highlighting essential information on charts for your flights.  Annotations ‍ The scratchpad works completely within the app as well, allowing users to copy clearances, holding instructions, ATIS data, pireps, and more. This is super useful as you do not need to switch apps or use paper to write instructions now, as it can all be done within the app. Scratchpad ‍ The update is out now to all Navigraph Unlimited subscribers. To view more information, check out the original post on the Navigraph website.</summary>
-    <published>2026-03-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/fs2crew7324</id>
     <title>FS2Crew Updates Animated PMDG 737 First Officer Bringing MSFS 2024 Support</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b06529a8e2174e89b156d6_109%20(1).webp"/>
     <summary>Sim: FS24. Aerosoft has confirmed that the Airbus A340-600 Pro will be released on March 12, 2026, with the date revealed during a recent developer stream on Aerosoft’s Twitch channel, hosted by community manager Rafi.  The A340-600 Pro is a joint effort between Aerosoft and ToLiss, with Aerosoft focusing on the aircraft’s modelling and presentation, and ToLiss handling the underlying systems.  In the past week, Aerosoft has steadily ramped up the public-facing coverage, first with an official trailer, also lifting the preview embargo, giving content creators the green light to show the aircraft ahead of release. We'll of course keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-03-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ff777p</id>
+    <title>FlightFactor Releases Interactive Procedures for the 777 in X-Plane 12</title>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <link href="/news/ff777p"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b1913792b23fbf40e46040_MedalTVXPlane1120260310115456995.png"/>
+    <summary>Sim: X-Plane. X-Plane developer FlightFactor, has released another update for their 777 series in X-Plane 12. This time, the update is quite a major addition, with the inclusion of interactive procedures. The interactive procedures aim to bring further immersion and realism into the 777, bringing realistic SOP’s (standard operating procedures) to the simulator. In regards to how this works, the user will act as captain, and be able to activate various procedures for the FO to perform through the EFB. Furthermore, voice commands can be used, such as requesting “gear up,” where the FO will then comply. The feature list is immense, and there are various different parts to the interactive procedures, therefore, to view more information, head over to the forum post by FlightFactor where they talk about it in-depth. FlightFactor also included other features in this update, including various bugfixes, and other minor additions. The full feature list can be seen below To purchase the FlightFactor 777, head over to the x-plane.org store. The base package (777-200ER), can be purchased for $89.00, and various other expansions such as the extended engine package, the 777F, and a bundle can be purchased as well.</summary>
+    <published>2026-03-11T00:00:00+00:00</published>
   </entry>
 </feed>
