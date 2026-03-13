@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-12T19:03:00.099311+00:00</updated>
+  <updated>2026-03-13T18:53:41.626293+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/vfrscwrv2</id>
-    <title>VFRScenery Announces Walkaround V2 for X-Plane</title>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <link href="/news/vfrscwrv2"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a88d6351d0a02c3565649d_%F0%9F%91%80%20%5B%20X-Plane%2011%20%26%2012%20%5D%20WalkAround%20System%20V2%20disponible%20le%207%20mars%202026%200-11%20screenshot.webp"/>
-    <summary>Sim: X-Plane. VFRScenery, the developer of the Walkaround Plugin for X-Plane 11 and 12, has announced that an updated version will be released on March 7th. Walkaround V2 aims to deliver a comprehensive walkaround experience for both X-Plane 11 and 12. This new version features an immersive audio system, a fully redesigned user interface, and enhanced customisation options for both general aviation aircraft and airliners. One of the main highlights is the complete integration of the "WalkCabin mode," which allows users to perform an exterior check, climb stairs, and seamlessly transition into the cabin. Additional features include an advanced camera system that simulates realistic pilot height, as well as binoculars and a flashlight. There is also a landing rate module that provides commentary from the first officer and displays statistics such as feet per minute (FPM), G-Force, landing speed, and a calculated score. Walkaround V2 is releasing exclusively on the x-plane.org store on the seventh of March. The update is offered free of charge to owners of the previous version. ‍ For more about the Walkaround V2 Plugin, check out VFRScenery’s YouTube video. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/csscla</id>
-    <title>CSS Provide Blog Update on 737 Classic V2</title>
-    <updated>2026-03-05T00:00:00+00:00</updated>
-    <link href="/news/csscla"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a977080768dc424d057afd_CSS1.webp"/>
-    <summary>Sim: FS24. Development group CSS Simulations early this year provided an in depth look at their upcoming 737 Classic V2 update which will further enhance the aircraft.  The development of V2 is built around improving visual and systems quality along with bringing new features and further refinements.  CSS have stated that the V2 build is designed around community feedback and they are actively engaging with the community to provide a fantastic rendition of the “Classic” In regards to the interior they have stated:  The exterior is also set to receive a big overhaul including enhancements:  They have also stated that the -300 and -400 variants are almost ready to be released in their V1 configuration.  Threshold will keep you updated as we learn more.  ‍</summary>
-    <published>2026-03-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/mksdus110</id>
-    <title>MK Studios Updates Düsseldorf Airport for MSFS 2020/2024</title>
-    <updated>2026-03-05T00:00:00+00:00</updated>
-    <link href="/news/mksdus110"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69a9c0f8333af6ec41e0dca5_dusupdate1.webp"/>
-    <summary>Sim: FS24. MK Studios has recently issued an update to their rendition of Düsseldorf Airport (EDDL) for Microsoft Flight Simulator 2020/2024, bringing it up to date with real-life layout changes and more.  Update 1.1.0 ensures the ground layout matches Düsseldorf Airport as it is in 2026, fixes certain object placements, improves runway markings, and other small fixes. The complete changelog follows below: ​ Changelog 1.1.0  • Ground layout updated according to latest 2026 changes  • Object placement fixes  • Improved runway marking textures  • Various small fixes To celebrate the update, the scenery will be on sale (40% off) until Tuesday (10/03). It’s available on Contrail for roughly $12.50 (promotional price), requiring at least 4.4 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-03-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ddtx12</id>
     <title>DominicDesignTeam Releases Indianapolis International Airport for X-Plane 12</title>
@@ -151,5 +124,32 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b2c103ca079a1f70b17f02_29.jpg"/>
     <summary>Sim: FS24. Aerosoft and ToLiss have recently released their rendition of the Airbus A340-600 for Microsoft Flight Simulator 2020 and 2024, bringing a faithful recreation of the world’s former longest commercial aircraft with a distinctive set of features. Formerly the world’s longest commercial aircraft (up until the arrival of the Boeing 747-8), the A340-600 was designed to compete with early jumbo jets that were getting phased out at the time due to their age, offering the same four engines and similar passenger carrying capabilities, but boasting full fly-by-wire technology. While the range was nothing short of impressive, and the flying experience was smooth and comfortable, the timing was far from perfect, since the early 2000s also brought a beefy long-haul widebody with two engines, the 777-300ER, which was fairly cheaper to operate and ended up being the airplane of choice for many operators around the globe.  The joint effort between Aerosoft (3D model) and ToLiss (systems) promises one of the most authentic Airbus simulations on the market, with a custom flight model featuring proper aerodynamic effects of each control surface, accurate lift and drag modelling, effects of control surface failures on the dynamics and drag computations, custom coded flight control laws representing normal law, alternate one, alternate two, and direct law, with their respective differences in handling and available protections. It also features a detailed model of the hydro-mechanical and electrical systems, 303 different system failures that can be injected via a fault injection screen, or completely randomly at the user’s choice, functional reset switches, Hoppie CPDLC support, ACARS functionality with SimBrief flight plans uplinking directly into the FMGS, and take-off performance computations via uplink request, and a detailed custom display system with all ECAM screens, PFD, and MFD.  Furthermore, it sports three functional - and independent - MCDUs, two completely independent autopilots, an advanced flight management system with support for ARINC 424 legs, Airbus-specific VNAV with step climbs, route offsets, pilot-defined holdings, computed holdings, and database holdings, custom waypoints, custom navaids, custom runways, and more. The ADIRU system is completely custom-coded and includes injection of measurement accuracy errors on pressure readings and attitude angles, simulating small differences between the pilot and copilot sides as per real life.  On top of that, the engine model is completely custom, achieving high accuracy in simulated engine thrust and, consequently, its performance. The Electronic Flight Bag provides two sets of functions: the top row shows functions found in real life, and the bottom row is simulator-specific. There’s Navigraph integration for the map, navdata updates, and charts; an OFB display (SimBrief); a weight-and-balance screen; takeoff and landing performance calculations; and an interactive checklist. As for the bottom row, it has situation saving and reinstating, autosave, aircraft state change, quick engine starts, forcing alternate or direct law, choice between imperial or metric, etc. The complete feature list for the aircraft follows below: ‍A340-600Pro FeaturesAircraft handling Aircraft systems – general Aircraft systems – FMGS suite Aircraft systems – specific Useability Visuals Included situationsThese 10 situations allow you to explore the aircraft's various levels of simulation. You can experience everything from an 'easy' approach to complicated system failures, where you, as the pilot, have to handle the situation correctly. Let's challenge yourself – it's awesome and great fun to experience what real pilots are trained for! Included liveries It’s available on Aerosoft’s website for roughly $80.75, requiring at least 18 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/xp1241</id>
+    <title>Laminar Research Pushes X-Plane 12.4.1 Into Public Beta</title>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <link href="/news/xp1241"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b32031bd19449fbd66e49c_1241_Update_3%20(1).webp"/>
+    <summary>Sim: X-Plane. Laminar Research has just released X-Plane 12.4.1 as a public beta, bringing even more changes across the sim. The headline aircraft work continues on the default Airbus A330-300, which now includes a fully simulated, visibly deploying Ram Air Turbine, plus TCAS refinements with new aural warnings, and a long list of smaller logic fixes, ranging from vertical speed behaviour, to cockpit time display.  Avionics and weather also see targeted upgrades, with the X1000 gaining a weather radar overlay on the MFD map, and Laminar tweaking real-world weather interpretation to reduce abrupt shifts, and improve overall fidelity, including reported altimeter-related edge cases.  On the scenery side, new library assets arrive in the form of European-style cab-over trucks, and refreshed gravel textures, while 310 updated Gateway airports are included in the build.  Under the hood, Laminar says XP12 12.4.1 includes further CPU-side optimisation work, claiming a 15 to 20 percent uplift in typical scenarios, alongside general stability improvements.  As this is a beta, Laminar is clear that it can be unstable, and points users to the full release notes for the complete change log, and important caveats. Read the full update log here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/engm24</id>
+    <title>Orbx Releases Oslo Gardermoen for MSFS 2024</title>
+    <updated>2026-03-12T00:00:00+00:00</updated>
+    <link href="/news/engm24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b32d1a02572451306fd0bd_695efc5f73f1c.webp"/>
+    <summary>Sim: FS24. Orbx has released a new rendition of Oslo Gardermoen (ENGM) for MSFS 2024, developed by Finn Hansen and Jakub Lukaszewski.  Across the airport, users can expect interior terminal modelling, updated photoreal ground textures, and 4K PBR materials, alongside a suite of custom ground equipment.  Orbx also includes animated service traffic, covering pushback, buses, and other airside vehicles, and notes support for VDGS at applicable stands, which requires the Nool plugin.  Oslo Gardermoen (ENGM) for MSFS 2024 is now available, priced at $21.23. MSFS 2020 customers can upgrade for free via Orbx Central.  ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/jfpa300b4313</id>
+    <title>Just Flight Publishes New A300B4 Development Update </title>
+    <updated>2026-03-13T00:00:00+00:00</updated>
+    <link href="/news/jfpa300b4313"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b410d392d262b356c03ddc_A300_100326_1_Qp6Aci8K6V.webp"/>
+    <summary>Sim: FS24. Just Flight has recently published a new development update (the first so far in 2026) on their rendition of the Airbus A300B4, showcasing some of the progress they have made, especially in the art department. While this development update may have been the first of the year, Just Flight has mentioned that the frequency of development updates will significantly increase from now on, as they are rapidly approaching the aircraft's beta testing phase. They have been putting a lot of effort into getting the lighting right by using video reference (hard to find since it’s such an old airplane), photos, FCOM information, and research trips to visit the real thing. In addition, they also simulated its many quirks and complexities, and spent many hours ensuring the intensity, color, and angles were correct. Furthermore, the A300B4 has some quirks that are pretty much unique to it, such as dedicated towing/park exterior navigation lights to help the ground crew, forward- and rear-facing navigation and strobe lights, separate wing and engine lights, and more. There is no release date or pricing information yet, but Threshold will keep you informed! If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-13T00:00:00+00:00</published>
   </entry>
 </feed>
