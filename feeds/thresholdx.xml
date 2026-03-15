@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-14T18:50:23.500550+00:00</updated>
+  <updated>2026-03-15T18:51:18.663470+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/inia300107</id>
-    <title>iniBuilds Updates A300-600R Airliner for MSFS 2024</title>
-    <updated>2026-03-06T00:00:00+00:00</updated>
-    <link href="/news/inia300107"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ab0ea94205cdac1666466f_premium1.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently issued an update to their A300-600R Premium Airliner for Microsoft Flight Simulator 2024, improving systems, performance, visuals, sounds, and overall usability. Update v1.0.7 delivers significant performance gains across a wide range of systems, from low-end to high-end. On their low-spec test system with a mobile RTX 4070, the passenger version went from 26.8 FPS to 46.8 FPS, and the freighter went from 30.7 FPS to 43.6 FPS, with stability improvements. On their high-end test system with a 9800X3D and an RTX 4090, the frames per second on the passenger version went from 64.7 FPS to 80.8 FPS, and on the freighter version from 75.7 FPS to 84.3 FPS. They have also implemented numerous autopilot and flight mode fixes, added pause at top of descent, time compression, CPDLC compatibility for BATC/SI, improved EFB startup options, and resolved a variety of art, LOD, and sound issues. The complete changelog follows below: ‍ The A300-600R Premium is available on their store for roughly $60, requiring at least 3.5 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-03-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/atls346</id>
     <title>Aerosoft Shares New A340-600 Screenshots for MSFS 2020/2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b4805ae0278973a671a56c_5718e7_29d3a3f2ec53470b91a249c627d42995~mv2.webp"/>
     <summary>Sim: FS24. CFSS has released a new rendition of Boundary Bay Airport for MSFS 2024, bringing one of Canada’s busiest general aviation airports and a major flight training hub into the sim.  Located just south of Vancouver, CZBB is known more for business jets, turboprops, maintenance traffic, and training flights than airliner operations, and that focus is reflected in the scenery package. According to CFSS, the airport has been recreated using extensive research, with accurately modelled FBOs, hangars, terminal areas, aprons, and taxiways, all designed to reflect the real-world layout.  The developer also says the scenery uses current charts for markings and lighting, which should make it particularly well-suited to regular GA flying.‍ The scenery requires MSFS 2024, along with CFSS Library V1.0.0 or later. You can purchase the scenery for USD $14.55 here. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/vector</id>
+    <title>Vector Confirms FSWeekend 2026 Plans, Shares New Systems Preview</title>
+    <updated>2026-03-14T00:00:00+00:00</updated>
+    <link href="/news/vector"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b5c31bdc89dfa64fa646ca_Vector_787_Announcement-Large.avif"/>
+    <summary>Sim: FS24. Vector has confirmed it will attend FSWeekend 2026 at the Lelystad Aviodrome on March 21 and 22, where the studio will further preview its recently announced Boeing 787 Dreamliner for MSFS 2024.  For those unaware, Vector is a new name to the public flight simulation scene, having only recently broken silence and introduced itself. As part of the event, Vector will join a live Q&amp;A session hosted by FSElite at 1030Z, on Sunday, March 22. According to the studio, the session will cover the team’s vision, offer more detail on the aircraft, and give the community a chance to ask questions directly.  Alongside the announcement, Vector has shared a new work-in-progress image from the aircraft’s MAINT CTRL PGS page. The screenshot offers another early sign of the systems depth Vector is aiming for with Project Griffin, and continues the studio’s early messaging around a 787 built with a strong focus on fidelity, and operational realism. Vector notes that all data shown remains work in progress, and may change during development. With the studio only just beginning to introduce itself, FSWeekend will be the first real chance for many simmers to get a better sense of who Vector is, and what its 787 is aiming to deliver. Get your tickets here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-14T00:00:00+00:00</published>
   </entry>
 </feed>
