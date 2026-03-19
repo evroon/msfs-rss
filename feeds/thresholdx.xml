@@ -2,84 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-03-18T19:12:09.271729+00:00</updated>
+  <updated>2026-03-19T19:08:00.781749+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini341</id>
-    <title>iniBuilds Update A340 To v1.0.10 </title>
-    <updated>2026-03-09T00:00:00+00:00</updated>
-    <link href="/news/ini341"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69abff10c3540f3103c5cb8e_647112464_1480698930733350_8029144999757566521_n.jpg"/>
-    <summary>Sim: FS24. IniBuilds have just launched their latest update for the A340 Airliner. This update focuses on various improvements which improve operational accuracy and refining several core aircraft systems.  They have stated that multiple aircraft systems including flight guidance, FMGS behaviours, navigation handling and MCDU functionality have been fixed and improved.  The ground handling integration for the large jet has also been improved. We also see the addition of a new noise cancelling option in the EFB along with fixed cockpit sounds and enhanced cabin environment sounds.  For the full change log follow the link:  https://forum.inibuilds.com/topic/35789-inibuilds-a340-airliner-for-microsoft-flight-simulator-2024-v1010-released/ ‍</summary>
-    <published>2026-03-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/bb757u</id>
-    <title>BlueBird Simulations Release Brief 757 200 Update </title>
-    <updated>2026-03-09T00:00:00+00:00</updated>
-    <link href="/news/bb757u"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aab6c74b14a69c18985104_Screenshot%202026-03-06%20at%2011.12.43.png"/>
-    <summary>Sim: FS24. Arguably the most anticipated airliner for MSFS, the BB 757, has been further teased in a brief update on the development groups discord channel. We are shown two lovely wing view screenshots along with a brief update on how the project is progressing.  The developer informed us that the -200 variant is undergoing some finishing touches and additional details are being added which in turn hints that it could be getting close to release!  The bluebird 757 is set to be one of the most in depth airliners to come to the platform in recent times and if you would like to see more about it check out our previous articles covering update videos from the development cycle.  Threshold will keep you updated as the aircraft develops ‍</summary>
-    <published>2026-03-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/natraf</id>
-    <title>Nattani RAF Valley Freeware Scenery Updated For MSFS2024</title>
-    <updated>2026-03-09T00:00:00+00:00</updated>
-    <link href="/news/natraf"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69aef9c06e8e6184a207fb1b_Screenshot%202026-03-09%20at%2016.45.58.png"/>
-    <summary>Sim: FS24. The Popular freeware rendition of EGOV has been taken over by developer Nattani and has been updated and enhanced for MSFS 2024 and is now available via Flightsim.to  Well and truly a group project this msfs2020 scenery has been brought back to life by a group of dedicated devs including to mention a few: Deadjen and NickB with contributions from UK2000’s Gary.  The new version of the scenery includes:  ‍</summary>
-    <published>2026-03-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ffx180</id>
-    <title>FlightFX Announce Piaggio Update With MSFS2024 Release Date and More</title>
-    <updated>2026-03-09T00:00:00+00:00</updated>
-    <link href="/news/ffx180"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69af331d62532142b04a4c6f_Screenshot%202026-03-09%20at%2020.51.07.png"/>
-    <summary>Sim: FS24. FlightFX today announced a major milestone for one of its most distinctive aircraft products, now officially titled the Piaggio P.180 Avanti II. Known for its unmistakable design and unique twin pusher-prop configuration, the aircraft stands out for blending speed, style, and advanced engineering in a way few aircraft do.  FlightFX’s rendition for MSFS 2024 brings that character into Microsoft Flight Simulator with advanced flight and engine modeling, ProLine 21 avionics, VAMS 2.0 tablet integration, and highly detailed visual and audio work built from on-site reference material.  FlightFX confirmed that the Microsoft Flight Simulator 2024 version of the Piaggio P.180 Avanti II has completed active development and testing, with a release date of March 10, 2026. In addition, some updates will also be released for the 2020 version as well. This release also marks the aircraft’s official designation as a licensed product. As part of this milestone, FlightFX will be updating product naming and branding across both of its Microsoft Flight Simulator releases. Users will see the Piaggio P.180 Avanti II name reflected in the Microsoft Flight Simulator 2020 version as well, aligning the product with its official licensed designation. “Official licensing is an important step for this aircraft and for our community,” said Nick Sdoucos, CEO at FlightFX. “It reflects our commitment to representing the Piaggio P.180 Avanti II accurately, partnering properly, and continuing to refine the experience through meaningful updates over time.”  The Piaggio P.180 Avanti II will be available on the in-game marketplace on MSFS 2020 and 2024. Owners of the current version in MSFS 2020 will be entitled to a free upgrade to the 2024 version. Please note that users are advised to purchase the aircraft in the sim they prefer to use first, as entitlements can sometimes take a brief period of time before syncing between the two platforms.  Key highlights include:  ● Now officially licensed as the Piaggio P.180 Avanti II  ● Name and branding updates coming to the Microsoft Flight Simulator 2020 version  ● Microsoft Flight Simulator 2024 version releases March 10, 2026  ● Continued support and ongoing updates planned ‍</summary>
-    <published>2026-03-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a34012</id>
-    <title>Aerosoft Announces March 12 Release for A340-600 Pro</title>
-    <updated>2026-03-10T00:00:00+00:00</updated>
-    <link href="/news/a34012"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b06529a8e2174e89b156d6_109%20(1).webp"/>
-    <summary>Sim: FS24. Aerosoft has confirmed that the Airbus A340-600 Pro will be released on March 12, 2026, with the date revealed during a recent developer stream on Aerosoft’s Twitch channel, hosted by community manager Rafi.  The A340-600 Pro is a joint effort between Aerosoft and ToLiss, with Aerosoft focusing on the aircraft’s modelling and presentation, and ToLiss handling the underlying systems.  In the past week, Aerosoft has steadily ramped up the public-facing coverage, first with an official trailer, also lifting the preview embargo, giving content creators the green light to show the aircraft ahead of release. We'll of course keep you updated. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ff777p</id>
-    <title>FlightFactor Releases Interactive Procedures for the 777 in X-Plane 12</title>
-    <updated>2026-03-11T00:00:00+00:00</updated>
-    <link href="/news/ff777p"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b1913792b23fbf40e46040_MedalTVXPlane1120260310115456995.png"/>
-    <summary>Sim: X-Plane. X-Plane developer FlightFactor, has released another update for their 777 series in X-Plane 12. This time, the update is quite a major addition, with the inclusion of interactive procedures. The interactive procedures aim to bring further immersion and realism into the 777, bringing realistic SOP’s (standard operating procedures) to the simulator. In regards to how this works, the user will act as captain, and be able to activate various procedures for the FO to perform through the EFB. Furthermore, voice commands can be used, such as requesting “gear up,” where the FO will then comply. The feature list is immense, and there are various different parts to the interactive procedures, therefore, to view more information, head over to the forum post by FlightFactor where they talk about it in-depth. FlightFactor also included other features in this update, including various bugfixes, and other minor additions. The full feature list can be seen below To purchase the FlightFactor 777, head over to the x-plane.org store. The base package (777-200ER), can be purchased for $89.00, and various other expansions such as the extended engine package, the 777F, and a bundle can be purchased as well.</summary>
-    <published>2026-03-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aeto346rel</id>
-    <title>Aerosoft/ToLiss Release Airbus A340-600 Pro for MSFS 2020/2024</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <link href="/news/aeto346rel"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b2c103ca079a1f70b17f02_29.jpg"/>
-    <summary>Sim: FS24. Aerosoft and ToLiss have recently released their rendition of the Airbus A340-600 for Microsoft Flight Simulator 2020 and 2024, bringing a faithful recreation of the world’s former longest commercial aircraft with a distinctive set of features. Formerly the world’s longest commercial aircraft (up until the arrival of the Boeing 747-8), the A340-600 was designed to compete with early jumbo jets that were getting phased out at the time due to their age, offering the same four engines and similar passenger carrying capabilities, but boasting full fly-by-wire technology. While the range was nothing short of impressive, and the flying experience was smooth and comfortable, the timing was far from perfect, since the early 2000s also brought a beefy long-haul widebody with two engines, the 777-300ER, which was fairly cheaper to operate and ended up being the airplane of choice for many operators around the globe.  The joint effort between Aerosoft (3D model) and ToLiss (systems) promises one of the most authentic Airbus simulations on the market, with a custom flight model featuring proper aerodynamic effects of each control surface, accurate lift and drag modelling, effects of control surface failures on the dynamics and drag computations, custom coded flight control laws representing normal law, alternate one, alternate two, and direct law, with their respective differences in handling and available protections. It also features a detailed model of the hydro-mechanical and electrical systems, 303 different system failures that can be injected via a fault injection screen, or completely randomly at the user’s choice, functional reset switches, Hoppie CPDLC support, ACARS functionality with SimBrief flight plans uplinking directly into the FMGS, and take-off performance computations via uplink request, and a detailed custom display system with all ECAM screens, PFD, and MFD.  Furthermore, it sports three functional - and independent - MCDUs, two completely independent autopilots, an advanced flight management system with support for ARINC 424 legs, Airbus-specific VNAV with step climbs, route offsets, pilot-defined holdings, computed holdings, and database holdings, custom waypoints, custom navaids, custom runways, and more. The ADIRU system is completely custom-coded and includes injection of measurement accuracy errors on pressure readings and attitude angles, simulating small differences between the pilot and copilot sides as per real life.  On top of that, the engine model is completely custom, achieving high accuracy in simulated engine thrust and, consequently, its performance. The Electronic Flight Bag provides two sets of functions: the top row shows functions found in real life, and the bottom row is simulator-specific. There’s Navigraph integration for the map, navdata updates, and charts; an OFB display (SimBrief); a weight-and-balance screen; takeoff and landing performance calculations; and an interactive checklist. As for the bottom row, it has situation saving and reinstating, autosave, aircraft state change, quick engine starts, forcing alternate or direct law, choice between imperial or metric, etc. The complete feature list for the aircraft follows below: ‍A340-600Pro FeaturesAircraft handling Aircraft systems – general Aircraft systems – FMGS suite Aircraft systems – specific Useability Visuals Included situationsThese 10 situations allow you to explore the aircraft's various levels of simulation. You can experience everything from an 'easy' approach to complicated system failures, where you, as the pilot, have to handle the situation correctly. Let's challenge yourself – it's awesome and great fun to experience what real pilots are trained for! Included liveries It’s available on Aerosoft’s website for roughly $80.75, requiring at least 18 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xp1241</id>
-    <title>Laminar Research Pushes X-Plane 12.4.1 Into Public Beta</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <link href="/news/xp1241"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69b32031bd19449fbd66e49c_1241_Update_3%20(1).webp"/>
-    <summary>Sim: X-Plane. Laminar Research has just released X-Plane 12.4.1 as a public beta, bringing even more changes across the sim. The headline aircraft work continues on the default Airbus A330-300, which now includes a fully simulated, visibly deploying Ram Air Turbine, plus TCAS refinements with new aural warnings, and a long list of smaller logic fixes, ranging from vertical speed behaviour, to cockpit time display.  Avionics and weather also see targeted upgrades, with the X1000 gaining a weather radar overlay on the MFD map, and Laminar tweaking real-world weather interpretation to reduce abrupt shifts, and improve overall fidelity, including reported altimeter-related edge cases.  On the scenery side, new library assets arrive in the form of European-style cab-over trucks, and refreshed gravel textures, while 310 updated Gateway airports are included in the build.  Under the hood, Laminar says XP12 12.4.1 includes further CPU-side optimisation work, claiming a 15 to 20 percent uplift in typical scenarios, alongside general stability improvements.  As this is a beta, Laminar is clear that it can be unstable, and points users to the full release notes for the complete change log, and important caveats. Read the full update log here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/engm24</id>
     <title>Orbx Releases Oslo Gardermoen for MSFS 2024</title>
@@ -151,5 +79,77 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69baceb8d9818d6aa614437e_TristarFirstLook2%20(1).webp"/>
     <summary>Sim: FS24. iniBuilds has released a new, in-depth preview video of its upcoming TriStar Airliner for MSFS 2024, offering the most detailed look yet at the Lockheed L-1011 ahead of release.  The newly published “Welcome to the TriStar” video runs for just about 50 minutes and provides a broad overview of both the aircraft itself and IniBuilds’ implementation, covering everything from modelling and operations to systems and flight model. You can watch it here. iniBuilds notes that the footage shown is from a work-in-progress version of the aircraft, meaning bugs may be present, and features may change before release. Alongside the video release, iniBuilds has also announced an official first look livestream, taking place at 1500Z on Microsoft’s Twitch channel.  The TriStar Airliner is currently in development for MSFS 2024, with more previews and feature breakdowns expected in the lead-up to release.  ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-03-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/blkcarpro24</id>
+    <title>Black Square Releases Cessna Caravan Professional for MSFS 2020/2024</title>
+    <updated>2026-03-18T00:00:00+00:00</updated>
+    <link href="/news/blkcarpro24"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69baff33d864d57f96030658_cara1.jpg"/>
+    <summary>Sim: FS24. Black Square has recently released their Cessna Caravan Professional package for Microsoft Flight Simulator 2020 and 2024, offering either the passenger or amphibian &amp; cargo variants separately or a full package with both. The Cessna C208 Caravan is widely known as the “Swiss Army Knife” of the aviation world, redefining the concept of a utility aircraft since its launch in 1982. It was designed to be a “next generation” bush plane, built for durability and simplicity, with a high-wing design, fixed tricycle landing gear, and a boxy fuselage that can be easily configured to carry passengers or cargo (and sometimes both).  By opting for a turboprop engine (Pratt &amp; Whitney PT6A) instead of a piston engine, the aircraft’s reliability was significantly increased, along with a significant boost in “hot and high” performance, making it very useful for remote environments around the world.  It can be found in every corner of the world, be it shipping packages in America with FedEx (greatly responsible for its success, by the way), connecting remote villages in Africa, operating as an amphibian airplane in Asia, running missions, connecting regional airports in South America, and much more. Black Square claims it’s one of the most technically advanced airplanes ever developed for Microsoft Flight Simulator, featuring over 100 potential failures, 12 hot-swappable radio configurations, an advanced turbine engine simulation with beta range implementation, and the most advanced cabin temperature simulation in MSFS. Their EFB allows you to configure options, manage payload, control failures, monitor engines, electrical schematics, and environmental control systems, all from within the simulator.  The built-in failure system supports persistent wear, MTBF, and scheduled failures for nearly every component, and its gauges are affected by physics, becoming stuck without engine vibration, just like in real life. The radio navigation systems available span multiple eras of the Caravan’s history, featuring a Bendix-King KNS-80 RNAV system, a Garmin GTN 750/650 (PMS50 or TDS), and a variety of radios, autopilot systems, and a weather radar. Furthermore, it also includes a 145+ page manual with instructions on all equipment, and 42 in-game checklists with control highlighting to aid beginners. It’s available on Just Flight’s website for $47.99 each (cargo / passenger) or $64.99 for the complete bundle.  If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/350124</id>
+    <title>iniBuilds Updates A350 Airliner for MSFS 2020/2024</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/350124"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bbe0ed269d9bc7d464275e_A350v124OutNow%20(1).webp"/>
+    <summary>Sim: FS24. iniBuilds has released v1.2.4 for its A350 Airliner, bringing a smaller, but fairly practical update, focused mainly on flight logic, navigation, and handling fixes, plus one notable addition to the EFB. On the systems side, the update fixes an issue where the aircraft could incorrectly enter descent mode and then refuse to return to climb mode, along with a bug that caused multiple planned step climbs to overlap on the position report page.  iniBuilds has also corrected inaccurate fuel burn predictions in the MCDU, fixed DME stations displaying as VORs, and resolved unrealistic ADS-B vertical speed readouts. There are also a couple of flight handling improvements in here. According to iniBuilds, premature auto-rotation has been fixed, while roll axis sensitivity has been adjusted based on user feedback. Over on the EFB side, v1.2.4 adds an in-flight maintenance override, allowing users to repair maintenance items while airborne, which should be a useful quality-of-life option, especially during longer sectors. ‍ V1.2.4SYSTEMS ⚙️FIXED Aircraft had inadvertently entered descent mode and it was impossible to re-enter climb modeFIXED Having multiple planned step climbs causes them all to overlap on the position report pageFIXED Fuel burn predictions in MCDU are inaccurateFIXED Aircraft auto rotating prior to v1FIXED DMEs display as VORsFIXED ADS-B readout shows unrealistically high vertical speedsFIXED Adjusted roll axis sensitivity based on user feedback. EFB📱ADDED Override for maintenance items to be repaired in-flight The update is available now through the iniManager. For new customers, the A350 can be purchased on the iniBuilds Store, for around $80.04 USD. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/inilmr</id>
+    <title>iniBuilds TriStar Releasing in March for MSFS 2024</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/inilmr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bbe7d4bf14712be00f4ea7_videoframe_1880967.webp"/>
+    <summary>Sim: FS24. iniBuilds has now confirmed that its upcoming TriStar Airliner for MSFS 2024 will release later this month, with the aircraft set to launch as a Microsoft Flight Simulator Marketplace exclusive for both PC and Xbox users. The news was shared during the recent first look livestream, which is currently available to watch on Microsoft’s official Twitch channel, and comes shortly after the developer published another, nearly 50-minute preview video, offering an overview of the aircraft’s systems, cockpit, and overall operation. The preview content has highlighted everything from the RB211 engines and S-duct configuration to the flight engineer panel, INS navigation, AFCS modes, and performance management systems, alongside full flight sequences covering startup, departure, cruise, and landing. The decision to launch as a Marketplace exclusive at release mirrors a similar approach taken with the A340 Airliner, meaning access will initially be limited to Microsoft’s in-sim storefront, before potentially expanding elsewhere at a later stage. We’ll, of course, follow the anticipated aircraft, leading up to release. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/wav2xp</id>
+    <title>VFRScenery Releases Walkaround V2 for X-Plane 11/12</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/wav2xp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bbefdcb8fb80ae85905f84_cis_seminole_43020-202026-03-0520074653.webp"/>
+    <summary>Sim: X-Plane. VFRScenery has recently released Walkaround V2 for X-Plane 11 and 12, now accompanied by a follow-up update, v2.3.2. This new version is a full rebuild of the legacy product, now written entirely in native C++, resulting in improved performance, better stability, and smoother transitions throughout.  The core concept remains, letting users move freely around their aircraft, but V2 expands this significantly, most notably with a “WalkCabin” mode, allowing the user to transition naturally from exterior to interior. Now included is dynamic audio, including footsteps, environment-based sounds, and pilot/co-pilot dialogue tied to different flight phases. There’s also an integrated landing rate system that displays touchdown data such as vertical speed and G-force, with appropriate commentary. Shortly after release, VFRScenery rolled out v2.3.2, improving stair handling and ground-to-cabin transitions, with added support for double-deck aircraft. Additional fixes address camera positioning issues, while a new door height recording tool aims to improve aircraft compatibility going forward. Walkaround V2 is available now for XP11 and XP12, priced at $19.90 during the introductory period, and is free for existing Version 1 users. You can purchase it through the X-Plane.org Store. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mk-studios-previews-new-porto-airport-for-msfs-2024</id>
+    <title>MK Studios Previews New Porto Airport for MSFS 2024</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/mk-studios-previews-new-porto-airport-for-msfs-2024"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bbf5aadfad714478857072_651751815_1359611909520426_1791800216409393944_n.webp"/>
+    <summary>Sim: FS24. MK Studios has shared the first preview images of its upcoming Porto Airport (LPPR) for MSFS 2024, revealing a complete rebuild of the scenery, and offering an early look at what is shaping up to be a significantly improved version. The developer said the project has now reached a stage where it feels ready to be shown, giving the community a glimpse at this new version of Porto, which is being built entirely from scratch. A highlight this time around is the use of high-resolution elevation data, allowing MK Studios to properly capture Porto’s distinctive terrain profile, something that has historically been difficult to replicate accurately.  The new Porto Airport for MSFS 2024 is currently scheduled for release in April, with further previews and details expected in the lead-up to launch. View the full update post here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/ifsp12</id>
+    <title>New Video Showcases EFB for iFly 737 MAX 8 SP1</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/ifsp12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bbfd502e2d9d756f3b9445_62Fj-HDl6hw-HD.webp"/>
+    <summary>Sim: FS24. A new preview video from YouTube channel Wheels Up Live has offered us a closer look at the upcoming EFB overhaul for the iFly 737 MAX 8, as iFly lifts its preview embargo. The video was published by an iFly Discord moderator and beta tester, who makes clear throughout that everything shown remains work in progress. The preview focuses on the new tablet-style EFB, which replaces the older layout with a cleaner, more direct interface.  Among the features showcased are panel state saving and loading, revised settings pages, manual links, cabin announcements, updated ground services and door controls, SimBrief-linked payload and balance, Navigraph integration, performance tools, failure reporting, display colour customisation, and a new 4x acceleration option.  The presenter also shows support for using the EFB on an external iPad. Alongside the video, iFly has confirmed that beta testers are now working with the second SP1 beta, and are allowed to share videos, screenshots, and other previews. There is still no official ETA for release, and the features shown in the current beta may still change before launch. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/bc1310</id>
+    <title>Blackbird Simulations Releases C-130J Version 1.0.0 for MSFS 2024</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/bc1310"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bc0488e35671456dbeabfe_651886450_1392671736219841_861266673607784350_n.webp"/>
+    <summary>Sim: FS24. Blackbird Simulations has released version 1.0.0 of its C-130J for MSFS 2024, touching nearly every system onboard.  The update brings a quite substantial list of fixes and refinements, including updates to the flight model, avionics logic, and overall aircraft behaviour, alongside improvements to performance and stability across the board. TCAS has been improved, as well as synchronised animations and effects, including doors, lighting, and various external elements. Sound has also been refined, with tweaks to engine loops, startup sequences, APU behaviour, and environmental effects. On the systems side, Blackbird has addressed a number of navigation and avionics issues, including fixes to airway handling, runway detection, and multiple bugs within the CNI-SP and navigation logic.  Fuel system behaviour has been further refined, with more realistic transfer logic, updated pressure calculations, and improved handling of crossfeed and tank limits. The update also introduces various usability improvements, including adjustments to controls, tablet functionality, and interface clarity, while also addressing numerous smaller issues across panels, displays, among others. According to the developer, this release candidate represents a near-final version of the aircraft, with the full public release expected to follow shortly. Read the full changelog here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/assatr</id>
+    <title>Aerosoft Releases Stuttgart Airport Trailer for MSFS 2024</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <link href="/news/assatr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69bc0da07fcd6e808e5db398_7RngH2is7vE-HD.webp"/>
+    <summary>Sim: FS24. Aerosoft has released a trailer for its upcoming Stuttgart Airport (EDDS) for MSFS 2024, headed by the experienced scenery developers Jo Erlend Sund and Lukas Vezyroglou. The new rendition of Stuttgart aims to deliver a highly detailed and immersive experience, built exclusively for MSFS 2024, and taking full advantage of the platform’s latest SDK features. According to Aerosoft, the airport features an up-to-date layout as of March 2026, accurate modelling of buildings and infrastructure, and a custom terrain mesh that captures the airport’s distinct elevation profile.  High-resolution textures, realistic night lighting, and custom taxiway signage and lighting are also included. Beyond the core airport, the scenery also includes several nearby landmarks, such as the Stuttgarter Fernsehturm, as well as the Altbach/Deizisau power plant, both featuring custom modelling and lighting effects. The airport environment includes animated interiors, walkable terminal areas in avatar mode, interactive elements, such as elevators and automatic doors, and custom vehicle traffic across the apron. Additional features include custom jetways, GSX integration with dedicated profiles, VDGS support, and AI traffic compatibility with airline-specific parking codes. Aerosoft has not yet confirmed a release date, but notes that Stuttgart Airport is “coming soon” to MSFS 2024. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-03-19T00:00:00+00:00</published>
   </entry>
 </feed>
