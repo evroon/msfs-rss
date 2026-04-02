@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-01T19:13:23.532097+00:00</updated>
+  <updated>2026-04-02T19:05:31.659374+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ini1011t</id>
-    <title>iniBuilds Releases New Trailer for L-1011 TriStar </title>
-    <updated>2026-03-24T00:00:00+00:00</updated>
-    <link href="/news/ini1011t"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c30105cc907f1c2c9bc384_98T8rxUValw-HD.webp"/>
-    <summary>Sim: FS24. iniBuilds has given us another look at their upcoming TriStar Airliner for Microsoft Flight Simulator 2024, through an official trailer video. This trailer follows last week’s confirmation that the TriStar will launch later in March, as a Marketplace exclusive for Microsoft Flight Simulator 2024, available on both PC and Xbox.  That announcement came with some extended preview content, and you can read more about that here. As with the A340 Airliner, initial availability will be through Marketplace only, and we do not yet know when or if the TriStar will retail through other stores. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/swrmtb105</id>
     <title>Stratoware and Miltech Simulations Release MBB Bo 105 Trailer</title>
@@ -150,6 +141,15 @@
     <link href="/news/gsx387"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ccfbf9e14ba05835f12bdf_659802785_1455150906403968_7958265452571775136_n%20(1).webp"/>
     <summary>Sim: FS24. FSDreamTeam has released GSX 3.8.7, a large update for GSX, featuring simultaneous jetway/stairs boarding, Aviramp’s ramped staircase system, alongside a long list of changes, fixes, and backend improvements. The new Aviramp stairs are available in GSX Pro, and can be enabled through an airport profile. GSX now also offers a smarter gate selection menu, which hides stands that are too small for the current aircraft by default. This feature can be toggled on and off. As for simultaneous jetway and rear-stairs boarding/deboarding, when enabled in the airport customisation settings, GSX can now split passengers between the front jetway and the rear door.  FSDreamTeam has also added a fallback system, so if a jetway fails to dock, boarding will switch to stairs automatically, instead of boarding no passengers at all. Moving on, there are improvements for airport customisation and handler scripts, expanded Python tools, better gate pre-selection options, and improved waypoint editing.  The volume sliders now play a sound check when adjusted, making it easier to hear your changes immediately, and the handling for aircraft without GSX profiles has been added. There is also an expansion of the operator database, with several new handling and catering companies from around the world. ‍ Version 3.8.7 – March 31th, 2026 Full Release Notes ‍ GSX Pro can be purchased here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmd777cusim</id>
+    <title>PMDG Updates 777 Lineup for MSFS 2024</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <link href="/news/pmd777cusim"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/670074421902159c8c578804_randy5.webp"/>
+    <summary>Sim: FS24. PMDG has recently issued an update to their Boeing 777 Lineup in Microsoft Flight Simulator 2024, bringing a wealthy list of small changes and improvements, including a refactored C*U simulation. Build 2.04.138 represents a couple of months' worth of small fixes being implemented by their developers whenever they had free time during the development of the MSFS 2024 version of their 737 Lineup, with things speeding up once that came to a close.  ​ The highlight of the update is a refactoring of the C*U fly-by-wire control system simulation, allowing their 777 to fly more like the real counterpart, retaining the normal pitch/speed interface pilots are used to, but also leveraging the fly-by-wire capabilities to enhance speed and pitch stability, making the flight more stable and pleasurable.  ​ PMDG also makes sure to reinforce the fact that Boeing’s implementation of the fly-by-wire system is completely different from Airbus’ own approach, designed to function as an “ideal airplane” where their planes feel more like a regular non-FBW airplane, albeit on “steroids”.  ​ Furthermore, they have also given attention to the datalink system, displays, certain cabin features, the flight management system, ground operations, hydraulic system, memory management, ground handling physics, pneumatics, radios, numerous other functions, and more. The complete changelog follows below: ‍ Aircraft Specific: The 777 lineup is available on PMDG’s website, with prices ranging from $59.99 to $77, depending on the variant at hand. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
 </feed>
