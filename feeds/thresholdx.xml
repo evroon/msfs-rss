@@ -2,66 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-03T18:57:44.317924+00:00</updated>
+  <updated>2026-04-04T18:53:55.170861+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/ttsgfx</id>
-    <title>TriTriSim Announces GFX Airliner Effects Addon for MSFS 2020/2024</title>
-    <updated>2026-03-26T00:00:00+00:00</updated>
-    <link href="/news/ttsgfx"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c5724ac723ce8b88868aac_website%202Fimages%202FScreenshot_2025-12-21_231105%20(1).webp"/>
-    <summary>Sim: FS24. TriTriSim has announced GFX Airliner for Microsoft Flight Simulator 2020 and 2024, a visual effects enhancement add-on designed to bring more atmosphere to your sim. The announcement includes an official trailer and development update, confirming a planned release date of April 23.  TriTriSim says GFX Airliner will provide physics-based visual effects, aiming to simulate atmospheric interaction that is not currently represented in the default simulator.  This includes features such as wing condensation, engine vortices, and dynamic spray effects during wet runway operations, reacting in real time to conditions such as humidity, pressure, and aircraft behaviour. The add-on is positioned similarly to Parallel 42’s SimFX and Immersion Packs for MSFS 2020. TriTriSim says GFX is driven by real-time CFD simulations, with the effects appearing only when atmospheric conditions such as humidity, temperature, and angle of attack allow for it, although this can be overridden for cinematic purposes. Planned additions also include contrails and wing fade interaction with clouds. GFX Airliner will be available at an introductory price of $14.99 USD, before increasing to $19.99 USD shortly after release. We will keep you updated on its release. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/atl101up</id>
-    <title>Aerosoft/ToLiSS Update A340-600 Pro for MSFS 2020/2024</title>
-    <updated>2026-03-27T00:00:00+00:00</updated>
-    <link href="/news/atl101up"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c4022796fcfcb12852cde6_2537590_20260308151218_1.webp"/>
-    <summary>Sim: FS24. Aerosoft/ToLiSS have recently released their first update for the newly released A340-600 Pro for Microsoft Flight Simulator 2020 and 2024, bringing multiple fixes and improvements based on community feedback. Update 1.0.1, the first so far, improves the waypoint-skipping feature, tweaks in-flight wingflex, and adds drag and fuel-flow improvements at cruise altitude, among other changes. The complete changelog follows below: They also stated that they are already working on further updates, including a wing remodel and certain parts of the fuselage, to enhance the model’s accuracy and quality. Furthermore, they have suggested a community-made cockpit lighting mod if one does not want to wait for the official lighting update, which is currently under development.  It’s available on Aerosoft’s store for roughly $80, requiring at least 17 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sflincea</id>
-    <title>SiamFlight Releases Incheon International Airport for MSFS 2020/2024</title>
-    <updated>2026-03-27T00:00:00+00:00</updated>
-    <link href="/news/sflincea"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c681013c0501c642cc98ac_inc1.jpg"/>
-    <summary>Sim: FS24. SiamFlight has recently released an early access version of their Incheon International Airport (RKSI) rendition for Microsoft Flight Simulator 2020 and 2024, the largest airport in South Korea and among the busiest in the world, with a yearly average of 70 million passengers! Incheon opened in 2001 to replace Gimpo International Airport as the main airport in South Korea and handle the extra international air traffic that the former airport was unable to handle (as seen during the 1988 Olympics and the early 90s). Construction work began in 1992 on reclaimed land between Yeongjong Island and Youngyu Island, taking 8 years to complete and facing a delay due to an economic crisis.  It is the main hub for Korean Air, Asiana Airlines, Jeju Air, and Polar Air Cargo. The current record figures stand at around 71 million passengers a year, with Korean Air accounting for 26% of the market share, followed by Asiana Airlines and Jeju Air with 18.04% and 8.09%, respectively. Destination-wise, Hong Kong is the busiest, with 3,149,768 passengers, followed by Osaka-Kansai (2,840,003) and Tokyo-Narita (2,783,677).  The early-access release features a fully modeled terminal 1 and 2 (with the latest expansion), all satellite concourses with accurate architecture, cargo aprons 1 and 2, custom ground textures, custom runway textures, custom jetways, hand-crafted ground markings, custom night lighting, and performance-friendly optimization on both platforms. Future updates will include more detail both externally and internally, a custom GSX Pro profile, custom VDGS for the Xbox/marketplace version, more points of interest, cargo 2 apron warehouse texture improvements, more ground clutter, and more. The developers claim it is a true community-driven project, created in close partnership with the dedicated Korean flight simulation community. Updates will be released for free based on community feedback to keep on improving the product. It’s available on SimMarket for roughly $26.65, requiring at least 3.49 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aepxcd</id>
-    <title>X-Codr Designs Releases Airport Enhancement Package V2 for X-Plane 12</title>
-    <updated>2026-03-28T00:00:00+00:00</updated>
-    <link href="/news/aepxcd"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c7f280306a48468490f58b_Screenshot%20(106).png"/>
-    <summary>Sim: X-Plane. Scenery developer, X-Codr designs has released a massive update to their existing Airport Enhancement Package for X-Plane 12, with the product now at version 2. In this update, the developer has completely overhauled existing assets, built from the ground up. With this update, X-Codr has included new hangar models, new vehicle models, new clutter objects, and improved ground textures.  New to X-Plane, as well, the developer has included procedurally generated airport overlays. The addon will apply rules to default scenery, that then determines where to place objects such as skids on taxiways, grunge at gates, tiedowns, cones, fuel hydrants, etc.  Dynamic snow has been included as well. Instead of snow simply appearing everywhere at an airport, it accumulates more heavily in areas with less traffic, and less snow exists on taxiway centrelines, aprons, etc, where traffic usually operates.  Lastly, the developer has significantly improved taxiway signs at default airports with much more detailed and accurate models. The signs are based on published FAA data, with a close match in colouring, sizing, font, and character spacing, to enhance realism. Thankfully, this comes with practically zero performance impact. To view the original blog post, head over to X-Codr Design’s website. If you already own this addon, the developer has kindly made it a free update, even though significant work has been done. If you are not already an owner of the addon, it can be purchased from the X-Plane.org store for $22.95.</summary>
-    <published>2026-03-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/xckdev</id>
-    <title>X-Codr Designs Updates KDEN and KEVV for X-Plane 12</title>
-    <updated>2026-03-28T00:00:00+00:00</updated>
-    <link href="/news/xckdev"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c7f5bc9ac400822b2c041e_kden-inside%20(1).jpg"/>
-    <summary>Sim: X-Plane. X-Codr Designs has released new updates for both Denver International Airport (KDEN) and Evansville Regional Airport (KEVV) for X-Plane 12. With this update, the developer has brought improved snow textures to the sceneries, to go along with their recently updated Airport Enhancement Package (AEP). Although the sceneries already had snow textures, they now have varying amounts of snow depending on the location of the airport. For example, the centreline of taxiways will have less snow than other areas, due to more vehicle traffic. Furthermore, the update brings other additions, including reduced VRAM usage, support for sharing assets with AEP, some minor fixes, and SkunkCrafts Updater support. For existing customers, this is a free update, which can be updated using the SkunkCrafts Updater. For new customers, KDEN can be purchased for $29.95, and KEVV can be purchased for $21.95.</summary>
-    <published>2026-03-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/swsk24</id>
-    <title>SimWorksStudios Releases Kodiak 100 for MSFS 2024</title>
-    <updated>2026-03-28T00:00:00+00:00</updated>
-    <link href="/news/swsk24"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c7edad06d9a0320697290e_Kodiak_Exterior01%20(1).jpg"/>
-    <summary>Sim: FS24. Having initially released for MSFS 2020 with wide praise, SimWorks Studios has now released the aircraft for MSFS 2024, built using the 2024 SDK, and bringing with it a plethora of new features.  ‍ Firstly, the Kodiak 100 has seen a visual improvement, building upon the free visual upgrade from 2020. The aircraft now includes a fully modelled engine bay, cargo pod interior, and various modeling and texturing improvements. Furthermore, animated passengers have also now been simulated, and unique cargo types have been added for each cabin variant. Excitingly, the aircraft now features the walkaround mode featured in MSFS 2024, allowing users to open and remove covers, inspect the brakes, wheels, and check oil levels. Various other features have been included with this big update, and you can view the full feature list below: The developer has noted that the amphibian version of the Kodiak 100 is now bundled with the base package, however, the standalone option still remains. Furthermore, the aircraft now fully works with the MSFS 2024 career mode, which is restricted to the wheeled variant only due to restrictions within the simulator. SimWorks Studios has teased that there is more to come with the Kodiak 100, with the development team currently testing the integration of Navigraph charts in the G1000, and further pre-flight features. Lastly, they noted that further improvements are coming with Sim Update 5, and these features will not only improve the Kodiak 100, but will translate to their other products. ‍ To purchase the SimWorks Studios Kodiak 100, head over to the developer’s store, where the airplane can be bought for €34.99. Existing users of the MSFS 2020 version of the aircraft, can receive a 50% discount as well. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-03-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/carkin</id>
     <title>Carenado Releases the B200 King Air for MSFS 2024</title>
@@ -151,5 +97,59 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d0054388c9a169e26d28df_658045193_1408198581347055_2664682925902552922_n.webp"/>
     <summary>Sim: FS24. Black Square has released Version 1.1 of its Caravan Professional, the first big post-launch update to the aircraft, addressing everything from sound and systems to bug fixes. As for soundscape, Black Square has revised many areas of the engine sounds, including startup and lightoff, turbine spooling, beta range, and shutdown.  Interior propeller noise has also been rebalanced, and the update has added new sounds for secondary injector activation, bleed air heating, the fuel pump, and engine starts with doors or windows open. For the Amphibian, v.1.1 has added the full package of MSFS 2024 water effects, including prop wash, float splashes, spray, bow waves, and water rudder trails.  Black Square says it has also adjusted water depth behaviour, so the floats are now less likely to interact in weird ways with subsea terrain in rougher conditions. Moving on, the update includes a long list of changes to aircraft behaviour and systems. Among them are revised cabin temperature logic, a reduction in ITT, improved low and high idle behaviour, slightly earlier stall warning activation, and changes to the KAP 140’s default vertical navigation mode and annunciation.  The generator will now also activate automatically after a successful start. Black Square has also addressed several issues affecting beta behaviour, engine sounds, autopilot rudder behaviour, water rudder operation, electrical logic, sound filtering on the ground, flap drag, emergency power lever fuel flow, and a range of smaller cockpit, tablet, and HUD issues. New Features: Bug Fixes: Full Release Notes V1.1 of the Caravan Professional is available to existing users from the “Your Orders” section of their Just Flight account.  Purchase the aircraft for $47.99 USD through Just Flight. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fwx135</id>
+    <title>FinnWest Aviation Releases EC135 Sound Enhancement Pack for MSFS 2024</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <link href="/news/fwx135"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d01a99eb20c4c440207f8a_MSFS_ADAC_NoSnipe_NoLogo_NoText-1.webp"/>
+    <summary>Sim: FS24. FinnWest Aviation has released a new sound replacement mod for the Nemeth Design EC135 (Local Legend 21) in MSFS 2024. Created by a real-world helicopter pilot, the add-on replaces the default sounds with a new, highly detailed sound set. According to FWX Aviation, the package includes reworked cockpit turbine sounds, a custom startup sequence, smoother torque transitions, and a full exterior sound replacement for replays, flybys, and external views. The Airbus H135, formerly the Eurocopter EC135, is one of the best-known light twin-engine helicopters in service. First flying in 1994 and entering service in 1996, it has become a familiar sight around the world in air ambulance, police, training, and utility roles, thanks to its low noise footprint, safety record, and operational flexibility. FWX Aviation is also offering a separate Rotor Haptic Engine, a standalone tool designed for bass shakers and transducers. The software reads live rotor RPM data through SimConnect, then generates physical rotor impulses for use with external hardware, such as ButtKicker Haptics. Full release notes ‍ Pricing starts at $9.20 USD for the sound pack, $4.59 USD for the haptic tool, and $12.66 USD for both together. You can buy them on the FWX website, and on SimMarket. The sound pack requires the Local Legend 21 Eurocopter EC135 to be downloaded in your sim. Interestingly, FWX says the haptic tool also works with other helicopters in the simulator, not just the EC135. You can find their Discord Server here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fpxp12</id>
+    <title>Flight Panels Releases X-Plane Profiles for Zibo 737 and C172</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <link href="/news/fpxp12"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d022a0013169f37e5934c0_Zibo737-Hero4.webp"/>
+    <summary>Sim: X-Plane. Flight Panels has just launched its first products for X-Plane, following the company’s expansion announcement at Flight Sim Weekend 2026. The new range brings Stream Deck support to X-Plane 11 and 12 for the first time, with aircraft and autopilot profiles now available for the Zibo Boeing 737-800X and the Cessna 172.  For the Zibo 737, Flight Panels says its aircraft profile includes 706 pre-programmed buttons across 31 pages, covering everything from overhead systems and communications to lighting and navigation.  The Cessna 172 profile is obviously smaller, with 240 buttons across 11 pages, but follows the same idea. Autopilot profiles are also available for both aircraft, designed for the Stream Deck +, and making use of its physical buttons, touch screen, and rotary dials. According to Flight Panels, all of the new profiles are pre-configured and ready to use straight out of the box. Support is offered across the Stream Deck XL, MK.2, Stream Deck Mobile, Corsair Xeneon Edge, and, in the case of the autopilot products, the Stream Deck +. Flight Panels also used the launch to confirm that this is only the beginning of its X-Plane line-up, with the ToLiss Airbus A320neo expected to be the next release in April. The new products are available now through the Flight Panels store. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pepeyak18t</id>
+    <title>Pepelatz Announces Yakovlev Yak-18T for X-Plane 12</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <link href="/news/pepeyak18t"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d027dffc31b3ad34c8fd91_14.jpg.77aff8bbb7460cb86297c03c37f79b7d.webp"/>
+    <summary>Sim: X-Plane. Pepelatz has announced its next aircraft project for X-Plane, the Yakovlev Yak-18T, following the release of its Yak-55M last year. In a short development update on the X-Plane.Org forums, Pepelatz said work on the Yak-18T began immediately after the Yak-55M was done.  The team added that the 3D model is now complete and that work is moving on to UV mapping. As expected at this stage, there is still no release window, with the developer saying it is simply focused on building the aircraft. Alongside the announcement, Pepelatz shared some preview screenshots, showing the aircraft already taking shape externally.  Developed by Yakovlev, the Yak-18T is a four- or five-seat Soviet utility and aerobatic aircraft, originally introduced as a trainer for Aeroflot pilots, and powered by the Vedeneyev M14P radial engine. It is still early days for the project, and Pepelatz has not shared any timeline beyond the fact that development is underway. You can find the already-released Yak-55M here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/rssmig17f</id>
+    <title>Red Star Simulations Shares New MiG-17F Development Update for DCS</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <link href="/news/rssmig17f"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d031bf2f0a55d546be43d9_ijltbftzqgihmdup_Hero4.jpg"/>
+    <summary>Sim: DCS. Red Star Simulations has published a new development report for its upcoming DCS: MiG-17F, focusing on the aircraft’s VK-1F engine and afterburner.  The main takeaway is that the developer is aiming to recreate both the look and the handling cues of the MiG-17F’s afterburner in detail. According to Red Star, the module will model the distinctive exhaust flame and the slight delay before full afterburner thrust arrives, while also reflecting the fact that the real aircraft does not have a dedicated afterburner indicator light in the cockpit. Red Star says afterburner use in the MiG-17F will need to be handled with care, with the operator expected to watch engine temperatures and avoid overusing it. The developer also shared a rough idea of expected turning performance, noting that the MiG-17F should be capable of around 13 to 14 degrees per second at combat weight, rising to roughly 16 degrees per second with afterburner engaged.  The MiG-17F remains in development for DCS, with no release date announced yet. Read the full post here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/mksop1</id>
+    <title>MK Studios Teases Apr. 9 Release for Porto Airport</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <link href="/news/mksop1"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d03722771838362e90f17c_660055470_1373109194837364_5810216987746759622_n.webp"/>
+    <summary>Sim: FS24. MK Studios has shared a few preview images for its upcoming Porto scenery for MSFS 2024, showing off more of the airport’s exterior, terminal interior, and lighting.  Alongside the screenshots, the developer posted a short, slightly cryptic message, which at face value appears to point to an Apr. 9 release date. The new images show a wider look at the airport, including the runway, landside areas, apron scenes at night, and parts of the terminal interior.  While this scenery is for MSFS 2024, MK Studios has said there will be a discounted upgrade path for users moving over from the 2020 version.  View the full post here. If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pmdghdu</id>
+    <title>PMDG Announces Apr. 9 Release for 737-700 “High Detail Update” </title>
+    <updated>2026-04-04T00:00:00+00:00</updated>
+    <link href="/news/pmdghdu"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d0d14724675481b138a194_wOUDgPGMJ28-HD%20(1).jpg"/>
+    <summary>Sim: FS24. PMDG has previewed the finished “High Detail Update” for its 737 line in MSFS 2024, with the 737-700 set to be the first variant to receive it when it releases on Apr. 9.  Alongside the announcement, PMDG also shared a new video showing before-and-after comparisons of the updated model up close. First announced in Nov. 2025, the High Detail Update brings much more detailed artwork to the 737, with reworked textures, improved geometry, and added detail across the exterior and interior.  PMDG says the update includes “tens of thousands” of hand-placed rivets and fasteners, improved hatches and exterior controls, updated lighting, and improvements to the cockpit, cabin, cargo holds, landing gear, gear bays, and ground equipment.  That is reflected in the new previews, which show everything from the flight deck and passenger cabin to the power connection, service areas, and gear bay. We saw a glimpse of this work earlier, through a LinkedIn post by artists at Gaya Studios, which worked with PMDG on the cabin interior. That new cabin is seemingly part of this “High Detail Update”. The 737-700 will launch first with the completed High Detail Update, while the 737-600, 737-800, and 737-900 will follow afterwards as updates.  PMDG says the 737-600 is already in testing, with the others due to follow shortly after. These updated artwork updates will be integrated into the already released 737 for MSFS 2024, which comes with an upgrade price compared to the 2020 versions. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-04T00:00:00+00:00</published>
   </entry>
 </feed>
