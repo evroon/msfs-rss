@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-06T19:11:12.134044+00:00</updated>
+  <updated>2026-04-07T19:14:55.194610+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/carkin</id>
-    <title>Carenado Releases the B200 King Air for MSFS 2024</title>
-    <updated>2026-03-28T00:00:00+00:00</updated>
-    <link href="/news/carkin"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c7f84aad9580cec3f61947_659008459_1365929675574832_5056333810321770938_n%20(1).jpg"/>
-    <summary>Sim: FS24. Long time aircraft developer Carenado, has released the Beechcraft Kingair 200 exclusively for Microsoft Flight Simulator 2024. The B200 is a pressurized, twin engine, turboprop, powered by two PT-6 engines, delivering a range of 1500-1700 nautical miles, a service ceiling of 35,000 feet, and cruise speeds around 250 knots. Carenado’s rendition of the B200 comes with various features, including working circuit breakers, landing gear emergency extension, realistic sounds, realistic flight dynamics, and more. You can view the full feature list below. Feature List: The Carenado B200 can be purchased only from the MSFS 2024 marketplace, for a price of CAD 31.99.</summary>
-    <published>2026-03-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/initrirel</id>
     <title>iniBuilds Releases TriStar Airliner for MSFS 2024</title>
@@ -151,5 +142,14 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d0d14724675481b138a194_wOUDgPGMJ28-HD%20(1).jpg"/>
     <summary>Sim: FS24. PMDG has previewed the finished “High Detail Update” for its 737 line in MSFS 2024, with the 737-700 set to be the first variant to receive it when it releases on Apr. 9.  Alongside the announcement, PMDG also shared a new video showing before-and-after comparisons of the updated model up close. First announced in Nov. 2025, the High Detail Update brings much more detailed artwork to the 737, with reworked textures, improved geometry, and added detail across the exterior and interior.  PMDG says the update includes “tens of thousands” of hand-placed rivets and fasteners, improved hatches and exterior controls, updated lighting, and improvements to the cockpit, cabin, cargo holds, landing gear, gear bays, and ground equipment.  That is reflected in the new previews, which show everything from the flight deck and passenger cabin to the power connection, service areas, and gear bay. We saw a glimpse of this work earlier, through a LinkedIn post by artists at Gaya Studios, which worked with PMDG on the cabin interior. That new cabin is seemingly part of this “High Detail Update”. The 737-700 will launch first with the completed High Detail Update, while the 737-600, 737-800, and 737-900 will follow afterwards as updates.  PMDG says the 737-600 is already in testing, with the others due to follow shortly after. These updated artwork updates will be integrated into the already released 737 for MSFS 2024, which comes with an upgrade price compared to the 2020 versions. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-04-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/pdcpmi</id>
+    <title>Pyreegue Dev Co. Previews Palma de Mallorca Airport for MSFS</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <link href="/news/pdcpmi"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d5001a8615efd28b921aa9_659587531_18078013889547769_3862603099145195779_n.webp"/>
+    <summary>Sim: FS24. Pyreegue Dev Co. has further previewed Palma de Mallorca Airport (LEPA) in a new social media post, showcasing a handful of work-in-progress preview images. The project was first teased back in Oct. 2025. The screenshots show both exterior and interior areas of the airport, including parts of PMI Module C, with gates C38–C41 and C44–C48. As usual with Pyreegue, the level of detail looks to be quite high. While the post itself is very vague, the comment section quickly latched onto the shared pictures, with several users once again identifying the airport as Palma de Mallorca Airport.  There is no release window yet, and Pyreegue has not shared any other platform details in the post. We’ll follow any upcoming developments closely. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-07T00:00:00+00:00</published>
   </entry>
 </feed>
