@@ -2,57 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-11T18:56:43.950421+00:00</updated>
+  <updated>2026-04-12T19:00:19.384032+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/fss1036</id>
-    <title>FlightSim Studio AG Releases E-Jets Experimental Update</title>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <link href="/news/fss1036"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d7a65634593fcc933b6a0b_666471974_892759193806706_1334656982115791088_n%20(1).webp"/>
-    <summary>Sim: FS24. FlightSim Studio AG has released a new public experimental update for its E-Jets series of aircraft, with the developer and beta team pushing the aircraft a bit further over the past few weeks.  The main additions in this update are holdings and temperature compensation for RNAV approaches, both now supported through the MCDU.  Beyond that, the changelog points to wider work across the FMS and lateral navigation, with big MCDU and LNAV improvements, a full missed approach implementation, and support for completing multiple legs through the flight complete phase.  FlightSim Studio AG also says take-off and landing behaviour has been improved, alongside what it describes as “tons of smaller fixes and improvements”. They also used the update to point out what is still seen as the last big milestone, the autopilot. FlightSim Studio AG says it works in general, but still not as accurately as the team wants, and does not yet meet their own expectations.  Right now, the system is still built on top of the default Microsoft Flight Simulator autopilot, with a custom code layer added over it. Long-term, the plan is to replace that with a fully custom autopilot. ‍ **Changelog Version 0.10.36** - Major MCDU &amp; LNAV improvements - Improved takeoff &amp; landing behaviour - Full missed approach implementation - FMS temperature compensation for RNAV approaches - MCDU Holdings with all entry types - MCDU flight complete phase allows multiple legs in one session - Tons of smaller fixes and improvements ‍ Full post and Release Notes The new build, version 0.10.36, is available through the experimental branches on Contrail and Aerosoft One. The E190/E195 and E170/E175 aircraft are available for $39.23 USD through the same retailers. There is also a freighter version. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-04-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/e19208</id>
-    <title>Echo 19 Teases Cessna 208B EX Precision Audio Pack for MSFS2024</title>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <link href="/news/e19208"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d7abbaa2898d2f5412901e_29198b58-f504-47da-81f9-05a91edc3efd.webp"/>
-    <summary>Sim: FS24. Echo 19 has previewed its Cessna 208B EX Precision Audio Pack for Microsoft Flight Simulator 2024, delivering an immersive and highly responsive audio experience for the default Asobo C208B EX Grand Caravan. Like with the previous Echo 19’s products, the Grand Caravan audio pack is also built using the EchoFX, an in-house system that enables the audio to respond to G-forces, weather, altitude, flight physics and state of the aircraft. The soundpack has been recorded from the real aircraft with over 12 different microphones, and features custom PT6 engine sounds, 360° propeller audio, interior sounds, system sounds (such as the AC vent fans, bleed-air heating, and the flap motor), and a headphone simulation function. Aside from the sounds, the pack also includes 9 different liveries. The full feature list can be read below: 🔥 All-New PT6 Engine Audio 🌀 Propeller Audio in Full Surround 🛩️ Deeply Modeled 208B EX Characteristics 🌡️ System Sounds (New From Default) 🎙️ Full-3D Cockpit Interactivity 🎚️ Smart Customization Controls 🌎 Rich Exterior Ambience 🎨 Bonus Content ✝️ Flying for a Cause ‍ While the release date still isn’t known, the C208B EX Precision Audio Pack is priced at $13.25 on the Echo 19 store. ‍ For all the latest news and updates, stay tuned on Threshold! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/batcvfrs1</id>
-    <title>BeyondATC Releases Stage One of VFR on Experimental Branch</title>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <link href="/news/batcvfrs1"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d7afc88ee2e75323d3e008_19ScLL10jxk-HD.webp"/>
-    <summary>Sim: FS24. Drzewiecki Design has released EPSC Szczecin for Microsoft Flight Simulator, with the scenery now available for both MSFS 2020 and MSFS 2024.  The new package models Solidarity Szczecin-Goleniów Airport, the main airport serving Szczecin, north-western Poland, and part of the wider Baltic region. The airport sits approximately 28 miles from Szczecin, and, while it is on the smaller side, it plays an important regional role in Poland, handling scheduled, seasonal, and charter traffic.  Drzewiecki Design also points out the airport’s military roots, with the field gradually shifting into civilian use over time, before becoming the regional gateway it is today. The package includes accurate aprons, taxiways, stands, markings, lighting, landside areas, technical infrastructure, and a broad set of custom assets built specifically for the airport.  It features high-quality modelling and texturing, custom runway, taxiway, and approach lighting, immersive clutter and interiors, and a performance-friendly build, with optimised geometry, LODs, and textures The developer also says the scenery has been designed to work properly with AI traffic and ATC addons. ‍ SCENERY FEATURES ‍ An interesting sidenote is that the scenery includes the airport’s planned passenger terminal, which is expected to open in 2027. According to Drzewiecki Design, that terminal has been recreated from architectural plans and official visualisations, while the airport layout itself still reflects the current real-world configuration.  Drzewiecki Design’s Solidarity Szczecin–Goleniów Airport is available through a range of retailers, including iniBuilds, Contrail, Aerosoft, Orbx, simMarket and Just Flight, for roughly $17 USD. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-04-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/drzdszz</id>
-    <title>Drzewiecki Design Releases Solidarity Szczecin–Goleniów Airport for MSFS 2020/2024</title>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <link href="/news/drzdszz"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d7b84d0e6ab6de781630ed_661389841_1637364587979321_187169286119367522_n.webp"/>
-    <summary>Sim: FS24. Drzewiecki Design has released EPSC Szczecin for Microsoft Flight Simulator, with the scenery now available for both MSFS 2020 and MSFS 2024.  The new package models Solidarity Szczecin-Goleniów Airport, the main airport serving Szczecin, north-western Poland, and part of the wider Baltic region. The airport sits approximately 28 miles from Szczecin, and, while it is on the smaller side, it plays an important regional role in Poland, handling scheduled, seasonal, and charter traffic.  Drzewiecki Design also points out the airport’s military roots, with the field gradually shifting into civilian use over time, before becoming the regional gateway it is today. The package includes accurate aprons, taxiways, stands, markings, lighting, landside areas, technical infrastructure, and a broad set of custom assets built specifically for the airport.  It features high-quality modelling and texturing, custom runway, taxiway, and approach lighting, immersive clutter and interiors, and a performance-friendly build, with optimised geometry, LODs, and textures The developer also says the scenery has been designed to work properly with AI traffic and ATC addons. ‍ SCENERY FEATURES An interesting sidenote is that the scenery includes the airport’s planned passenger terminal, which is expected to open in 2027.  According to Drzewiecki, that terminal has been recreated from architectural plans and official visualisations, while the airport layout itself still reflects the current real-world configuration.  Drzewiecki Design’s Solidarity Szczecin–Goleniów Airport is available through a range of retailers, including iniBuilds, Contrail, Aerosoft, Orbx, simMarket and Just Flight, for roughly $17 USD.  It is compatible with existing Asobo scenery. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-04-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/vsmjna</id>
-    <title>Verticalsim Announces John Wayne Airport for MSFS 2024</title>
-    <updated>2026-04-09T00:00:00+00:00</updated>
-    <link href="/news/vsmjna"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69d7cfa6ababa8f4b51118fd_659104805_1335331401949867_8475312147309466152_n.webp"/>
-    <summary>Sim: FS24. Verticalsim has announced its next airport project, and this time in Southern California, with KSNA, John Wayne Airport, for MSFS 2024. The developer says this is one of three airports currently in development. Set close to Disneyland and in the middle of a busy region in Southern California, John Wayne is known for a short runway and stringent noise abatement procedures. The traffic there includes a mix of airliners, business jets and general aviation. Verticalsim says to expect high-detail terminal modelling, Clay Lacy Aviation’s FBO, and an accurate ground layout with correct markings.  The developer says the project is being built around a “true-to-life” Southern California atmosphere, which may entail a lot of things.  They did not give much preview imagery, only linking a few real-life photos, in addition to a very early render. Safe to say, it is early stages for the project. Verticalsim also says the project is benefiting from collaboration with local ramp agents and airport personnel, with the aim of giving the scenery stronger real-world accuracy and operational detail.  There is no release window yet, but more information, along with in-sim previews, is expected soon. ‍ ‍If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-04-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ff77w09</id>
     <title>FlightFactor Shares More 777-300ER Images, Paint Kit Now Available </title>
@@ -151,5 +106,50 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69da49f10860576d86ac9ed7_videoframe_1372.webp"/>
     <summary>Sim: FS24. Practically out of nowhere, Rhodiumcode, a new studio from the public perspective, has today announced that it is developing an Airbus A350 for Microsoft Flight Simulator, with a first cinematic trailer set to premiere on May 3 at 0500Z. The announcement first came in a Reddit post, where the team introduced themselves as “a small studio of developers and artists” working on their first aircraft for Microsoft Flight Simulator.  According to Rhodiumcode, the project has been in development for the past three years, obviously entirely behind the scenes. This surprise announcement is, perhaps, similar to what we saw with Vector’s 787 reveal just a few months ago. In their first message, Rhodiumcode says it has been building “their own vision” of the A350 from the ground up, and confirmed that the first proper look at the aircraft will come in the form of a trailer premiering on Sunday, May 3.  They followed up with a more detailed Discord announcement from Michael, identified as president and lead developer of Rhodiumcode. He again describes the company as a small game studio composed of enthusiasts from diverse backgrounds. Michael says he has been flying in simulators since the FS2004 era and that the May 3 trailer will follow the aircraft on an early-morning departure from Taipei.  He made it clear that Rhodiumcode is still early in its journey, that there is “a long road ahead”, and that the studio is not yet making promises about features or timelines. ‍ They do not add much more, saying only that they want to deliver a “sophisticated and immersive” A350 experience. At the time of writing, we do not know much more about Rhodiumcode beyond what the studio has now shared. Their website describes them as a small California-based game studio, and their YouTube channel dates back to 2022.  Rhodiumcode also opened a help-wanted channel on Discord, inviting both type-rated pilots and simmers to get involved in the project. Join their discord here. We will keep you updated on future developments. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/f100dgd</id>
+    <title>Grinelli Designs Shares Further Previews of F-100D Super Sabre for DCS</title>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link href="/news/f100dgd"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69db4a2e3ff3eebe654ffbfc_In_Dev1a.jpg.c3a0edc1988d5cdab4f1f11dd01f0c56.webp"/>
+    <summary>Sim: DCS. Grinelli Designs have recently released a development update for their upcoming F-100D Super Sabre module for DCS, which focused on the art, flight model and sound development. The North American F-100D Super Sabre was one of the pioneers of American military aviation, as it was the first jet fighter in the USAF that was capable of achieving supersonic speeds in level flight. Developed from the F-86 Sabre, it entered service in 1954 and was most famous for its use during the Vietnam War. According to the developers, the art development is almost finished, as they have used photogrammetry scans of an actual F-100D during the process of 3D modelling. They have also confirmed that the module will feature various historically accurate liveries of both USAF training squadrons and the squadrons that flew during the Vietnam War. Moving on to the flight model development, Grinelli Designs is working in collaboration with Eagle Dynamics to fine-tune the flight model, as the F-100D was known for its stunning high-speed performance, but also for its behaviour in low-speed conditions. The audio development is also nearing completion, with the developing team using sound recordings from a real F-100. Eagle Dynamics has also confirmed that the module is currently undergoing internal testing. ‍ Currently, there is no information about the release date or the pricing, but as always, Threshold will keep you updated on any future updates! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fp737sdp2</id>
+    <title>Flight Panels Updates PMDG 737 Stream Deck Profile </title>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link href="/news/fp737sdp2"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69dbab00da6aa642de6ac6da_Hero1.webp"/>
+    <summary>Sim: FS24. Flight Panels has announced a new version of its PMDG 737 Stream Deck profile, rebuilding the product ahead of the continued PMDG 737 rollout for MSFS 2024.  Originally released in 2023, the profile has now grown from 312 controls across 12 pages to 841 controls across 33 pages. According to Flight Panels, this version covers the full cockpit to a greater extent than the old profile. Flight Panels says the new Generation 2 version now includes cockpit and cabin feature controls, a full MCDU with keyboard and numpad, an audio control panel, and much broader system access across the aircraft.  The profile supports both 15-key and 32-key layouts, making it compatible with the Stream Deck XL, MK.2, Stream Deck Mobile, and Corsair Xeneon Edge.  Separate autopilot profiles are also available for the Stream Deck +, which can be accessed via its buttons, touchscreen, and rotary dials. The product works with both MSFS 2020 and MSFS 2024, and the Generation 2 update is free for existing customers.  New customers can pick it up from the Flight Panels store for approximately $34 USD. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/gsx391</id>
+    <title>FSDreamTeam Updates GSX with Towing Capability</title>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link href="/news/gsx391"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69ccfda6bb7e1c6953c614dd_gsx_pro_logo.webp"/>
+    <summary>Sim: FS24. FSDreamTeam has released GSX update 3.9.1, adding towing support.  GSX can now move aircraft with both push-in and gate-to-gate towing, allowing them to be repositioned between gates and towed from the taxiway to a stand. When taxiing in and selecting a parking position, GSX can now send a towbarless tug out to meet the aircraft and tow it from the taxiway to the gate, using an automatically selected route along the airport’s taxiway layout. If you are already parked, GSX can now push the aircraft out using the existing pushback route, then tow it across to another gate, with the tug again choosing the best pushback direction for the destination. In terms of fixes, most menus now include a proper back button, pushback speed is now adjustable via a slider in the settings, and seated passenger support for the PMDG 737-700 in MSFS 2024 has been added. Version 3.9.1 – April 11th, 2026 ‍ Full changelog You can buy a copy of GSX Pro here. Version 3.9.1 can be installed via the FSDT Installer. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/hbsf4er</id>
+    <title>Heatblur Simulations Teases F-4E Phantom II for Microsoft Flight Simulator</title>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link href="/news/hbsf4er"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69dbc11e40d8d3f8b6c1688c_667981253_1525134182709380_853971649896214393_n.webp"/>
+    <summary>Sim: FS24. Heatblur Simulations has recently given an update on its McDonnell Douglas F-4 Phantom II project for Microsoft Flight Simulator, which is now said to be entering final testing. As pre-release development wraps up, Heatblur says it is putting the final finishing touches in place before starting the release process, which is expected to be completed by April. This work includes work on various input systems, EFB pages, Navigraph integration and more. The F-4E Phantom project is based on Heatblur’s Anvil component-based simulation framework, aiming to recreate the aircraft in authentic, high-detail form.  The F4 will include a fully custom external flight model that represents the real aircraft's flight envelope and behaviours in detail, ensuring the in-sim recreation behaves as closely as possible to the real-life counterpart. They say they are working on a release trailer, and it does look like the F-4E Phantom II for MSFS is close to release. We will keep you updated on future developments. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/nmbs707apr</id>
+    <title>Nimbus Simulation Studios Further Teases 707 for X-Plane 12</title>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link href="/news/nmbs707apr"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69dbc6ce7d12bc7233d30f6b_669797329_1357743146371357_7176213630228812753_n.webp"/>
+    <summary>Sim: X-Plane. Nimbus Simulation Studios has once again come out on Facebook to share some more images of their upcoming 707 project for X-Plane 12. The previews showcase the aircraft on the ground and in the air around Albuquerque. We still do not know much else about the project, but the team says that they are about 95% done with the external model, texturing and animations.  They also added that another preview focusing on the cockpit will be shared sometime next week (13APR-19APR). We will keep an eye on progress! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-12T00:00:00+00:00</published>
   </entry>
 </feed>
