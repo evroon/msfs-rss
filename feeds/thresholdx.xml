@@ -2,39 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-17T19:11:18.154286+00:00</updated>
+  <updated>2026-04-18T19:01:09.173925+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/nmbs707apr</id>
-    <title>Nimbus Simulation Studios Further Teases 707 for X-Plane 12</title>
-    <updated>2026-04-12T00:00:00+00:00</updated>
-    <link href="/news/nmbs707apr"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69dbc6ce7d12bc7233d30f6b_669797329_1357743146371357_7176213630228812753_n.webp"/>
-    <summary>Sim: X-Plane. Nimbus Simulation Studios has once again come out on Facebook to share some more images of their upcoming 707 project for X-Plane 12. The previews showcase the aircraft on the ground and in the air around Albuquerque. We still do not know much else about the project, but the team says that they are about 95% done with the external model, texturing and animations.  They also added that another preview focusing on the cockpit will be shared sometime next week (13APR-19APR). We will keep an eye on progress! ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
-    <published>2026-04-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/initristar102out</id>
-    <title>iniBuilds Updates TriStar Airliner for MSFS 2024</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/initristar102out"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69deab8b8487e98713577876_newcover.webp"/>
-    <summary>Sim: FS24. iniBuilds has recently updated their rendition of the TriStar Airliner for Microsoft Flight Simulator 2024, bringing a further round of fixes and improvements across core systems. Version 1.0.2 focuses on resolving key areas, including INS behavior, autopilot and flight director logic, ILS functionality, and various cockpit interactions, as well as general stability and usability enhancements. The complete changelog follows below: ‍ V1.0.2SYSTEMS ⚙️ ART 🎨 PFB📜 SOUNDS🔊 The add-on is available in the Marketplace for $49.99 If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/sflcard</id>
-    <title>SoFly Updates Cardiff Airport for MSFS 2020/2024</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/sflcard"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69dead80fd1051ca7d274840_cardiff1.webp"/>
-    <summary>Sim: FS24. SoFly has recently issued an update to their rendition of Cardiff Airport (EGFF) for Microsoft Flight Simulator 2020 and 2024, adding animated 3D people, performance enhancements, fixes to photogrammetry issues, and more. ​ Update v1.2.0 brings a major revamp of their scenery product, with improved performance across the board, a smaller file size, mitigation of all photogrammetry issues, removal of ground bumps/lumps, animated 3D passengers, and a custom GSX profile. The complete changelog follows below: It’s available on Contrail for roughly $12.63 (30% off), requiring at least 2.92 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/mksporto201</id>
     <title>MK Studios Updates Porto Airport V2 for MSFS 2024</title>
@@ -150,6 +123,33 @@
     <link href="/news/dfteblirv2"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e27c93fa2291faa9899e0a_671508337_1251470366972041_7548225934320221622_n.webp"/>
     <summary>Sim: FS24. Dreamflight Studios has provided an update on two of its airport projects, starting with a first proper look at Teterboro V2, followed by a clarification on the status of Guanacaste V2, both of which appear to have grown well beyond their original scope. Starting with Teterboro, the developer has revealed that a full V2 rebuild is on the way, marking six years since the original release. Rather than iterating on the existing version, Dreamflight has rebuilt the airport entirely from the ground up, aiming to bring it in line with its current standards.  It will include upgraded textures, reworked models, and a more cohesive overall build across the airport. Teterboro’s role as a major business aviation hub just outside New York City is also worth mentioning, with Dreamflight highlighting seven fully recreated FBOs, each with detailed interiors.  We do not yet have a release date for the project, but it looks to be shaping up nicely. You can watch a preview stream of the scenery below: In a separate post, Dreamflight addressed MRLBv2, confirming that the project is still in active development after a period of silence.  What was initially planned as a smaller update has since evolved into a full rebuild, after the team revisited the original assets and found they no longer met the quality level of their newer work. This shift explains Dreamflight’s silence, with the developer acknowledging the communication gap while noting that progress is now well underway.  According to Dreamflight, MRLBv2 is “not far away” and will be released as a free update for existing users. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfycwlxp</id>
+    <title>SoFly Announces Cardiff Airport for X-Plane 12</title>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+    <link href="/news/sfycwlxp"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e285f3d09fcdef01e8efaa_sofly-cardiff-airport-egff-x-plane-12_37.webp"/>
+    <summary>Sim: X-Plane. SoFly has announced its first release in the X-Plane ecosystem, confirming that Cardiff Airport (EGFF) is in development for X-Plane 12. The project is being developed in collaboration with Sun Studios and is based on SoFly’s existing rendition of Cardiff for MSFS, now brought across and adapted for Laminar’s platform.  The developer says the airport has been reworked to take advantage of XP12’s lighting and weather systems, with a focus on making the environment feel more reactive to conditions. SoFly highlights dynamic surfaces across the airport, including wet taxiways during rain, and snow accumulation affecting ground equipment and vehicles when conditions call for it.  The scenery aims to reflect the current real-world layout, coming with updated textures and refined modelling throughout.  The developer points to several smaller details around the field, including the British Airways maintenance hangar. Multiple stands will also feature SAM jetways. SoFly has not provided a confirmed price or exact release date, though both are expected to follow soon, alongside a full trailer. ‍ Read the full press release here. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sdgspx</id>
+    <title>Sim Design Group Releases Giza Sphinx for MSFS 2020/2024</title>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+    <link href="/news/sdgspx"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e28d537888cf88971a7af1__y4th8tShDU-HD.webp"/>
+    <summary>Sim: FS24. Sim Design Group has recently released Sphinx International Airport (HESX), located just outside Cairo and minutes from the Giza Pyramids, for Microsoft Flight Simulator 2020 and 2024, bringing one of Egypt’s newest airports into the sim. As a gateway to one of the most recognisable landmarks in the world, Giza Sphinx offers a bit of a different flying experience compared to its busier siblings across Egypt, serving a lot of low-cost traffic, private aviation, and short-haul operations.  The scenery includes a fully modelled terminal and surrounding airport buildings that match the real-world architecture, proportions, and materials. It is built on an accurate layout based on current data, covering runway geometry, taxiways, apron structure, and parking stands. Custom textures have been used across the airfield, with visible wear, surface variation, and various markings. Custom night lighting and a custom GSX profile is also included. Sphinx International Airport is now available for $16.28 USD, and is compatible with both MSFS 2020 and MSFS 2024. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/frvfrpis</id>
+    <title>France VFR Releases Poitiers-Biard for MSFS 2020/2024</title>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+    <link href="/news/frvfrpis"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e29620175e75b74bea36ed_376999_FVFR_Poitiers_MSFS_1200x675.webp"/>
+    <summary>Sim: FS24. France VFR has released Poitiers-Biard Airport (LFBI) for Microsoft Flight Simulator 2020 and 2024, continuing the ongoing Airports France series. Located just west of Poitiers, in the Nouvelle-Aquitaine region, LFBI is a compact international airport, with operators Air France, Ryanair and Volotea flying out of it. The scenery includes accurately modelled terminal buildings, surrounding structures, ground textures, and markings, alongside a mix of static and animated objects placed across the apron.  The airport features custom night lighting and is built on the latest layouts, aligned with the current charts and reference data. Further included are high-resolution textures, photo-realistic surfaces across the airfield, and custom 3D buildings. Vegetation around the airport has also been worked on, helping soften the transition between the airfield and the surrounding MSFS scenery. The package comes with some additional material, including SIA, VAC, IAC, APT, and ARRDEP charts. ‍ LFBI Poitiers-Biard is available now for $11.65 USD, excluding taxes, with a download size of around 900 MB, and supports both MSFS 2020 and MSFS 2024.  ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-04-17T00:00:00+00:00</published>
   </entry>
 </feed>
