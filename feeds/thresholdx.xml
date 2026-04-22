@@ -2,48 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-21T19:21:40.695762+00:00</updated>
+  <updated>2026-04-22T19:23:49.388875+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/mksporto201</id>
-    <title>MK Studios Updates Porto Airport V2 for MSFS 2024</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/mksporto201"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69deaf3430ea809b82de7172_porto1.webp"/>
-    <summary>Sim: FS24. MK Studios has recently issued an update to their newly released Porto Airport (LPPR) for Microsoft Flight Simulator 2024, bringing AFCAD fixes, minor tweaks, and more. Update v2.0.1 - the first so far since its release -brings AFCAD fixes, fixes certain missing procedures, adds the ground frequency, fixes the departures sign, adds custom buildings near runway 17, and adds lights to the train station. ​The scenery is available on Contrail for roughly $20.44, and V1 owners are entitled to a 20% discount coupon. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/aerdus103</id>
-    <title>Aerosoft Updates Düsseldorf Airport for MSFS 2020/2024</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/aerdus103"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69deb120c030aea6201ee011_dus1.webp"/>
-    <summary>Sim: FS24. Aerosoft has recently issued an update to their rendition of Düsseldorf Airport (EDDL) for Microsoft Flight Simulator 2020 and 2024, adding new buildings, AFCAD adjustments, terrain fixes, and more. Update v1.0.3 adds the new fire station, new solar farms to the north of the runway, reworks ground markings to match the current layout, adjusts AFCAD parkings and taxiway paths, changes some service vehicle textures, changes taxisigns to the current layout, fixes a terrain glitch on the southeast apron, and tweaks the ground orthoimagery. It’s available on Aerosoft’s shop for roughly $15.99 (20% off), requiring at least 4.74 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/l3dsimraas103</id>
-    <title>LAND3 Simulations Updates vRAAS for MSFS 2020/2024</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/l3dsimraas103"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69deb36c01d23839eb9778a1_raas1.webp"/>
-    <summary>Sim: FS24. LAND3 Simulations has recently issued a major update to their vRAAS add-on for Microsoft Flight Simulator 2020 and 2024, adding a realistic voice pack, ROW/ROPS (Airbus) &amp; RSAT (Boeing), multiple fixes, and more. Update v1.3.0 brings a new realistic voice pack, ROW/ROPS (Airbus) and RSAT (Boeing), “Autobrake OFF” callout on Airbus, adds a debug page, improves the timing for distance remaining callouts and altimeter setting tolerances, disables the  1500m and 1200m callouts by default, fixes the auto-start not working for some users, and mitigates the audio device error. It’s available on Contrail for roughly $16.83, requiring at least 338 MB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/ff777thu</id>
-    <title>FlightFactor's 777-300ER Expansion to Release on Thursday</title>
-    <updated>2026-04-14T00:00:00+00:00</updated>
-    <link href="/news/ff777thu"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69deb6f399ab489dbd40d852_triple1.jpg"/>
-    <summary>Sim: X-Plane. FlightFactor has recently defined a release date for their long-awaited 777-300ER expansion for X-Plane 12, set to land on Thursday (16/04) for $89.  The longest member of the 777 family adds to their pre-existing 777v2 lineup, bringing more range, capability, and route variety, costing only $30 to 777V2 owners.  It features the GE90-115BL engines as standard, and owners of the engine expansion upgrade will also get access to the GE90-115B. ​ Selected streamers will receive an early access key to showcase the product within the next few days. ​If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/ffu777v2update</id>
     <title>FlightFactor Updates 777v2 for X-Plane 12</title>
@@ -151,5 +115,41 @@
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e29620175e75b74bea36ed_376999_FVFR_Poitiers_MSFS_1200x675.webp"/>
     <summary>Sim: FS24. France VFR has released Poitiers-Biard Airport (LFBI) for Microsoft Flight Simulator 2020 and 2024, continuing the ongoing Airports France series. Located just west of Poitiers, in the Nouvelle-Aquitaine region, LFBI is a compact international airport, with operators Air France, Ryanair and Volotea flying out of it. The scenery includes accurately modelled terminal buildings, surrounding structures, ground textures, and markings, alongside a mix of static and animated objects placed across the apron.  The airport features custom night lighting and is built on the latest layouts, aligned with the current charts and reference data. Further included are high-resolution textures, photo-realistic surfaces across the airfield, and custom 3D buildings. Vegetation around the airport has also been worked on, helping soften the transition between the airfield and the surrounding MSFS scenery. The package comes with some additional material, including SIA, VAC, IAC, APT, and ARRDEP charts. ‍ LFBI Poitiers-Biard is available now for $11.65 USD, excluding taxes, with a download size of around 900 MB, and supports both MSFS 2020 and MSFS 2024.  ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
     <published>2026-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/navsur2026out</id>
+    <title>Navigraph Publishes Community Survey 2026 Results</title>
+    <updated>2026-04-21T00:00:00+00:00</updated>
+    <link href="/news/navsur2026out"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e7fd4a46122f71648564c1_survey-2026-results-1920.webp"/>
+    <summary>Sim: OTHER. Navigraph recently shared the results of their annual Community Survey, which gathered a record-breaking 42,000 responses and provided insights into the most popular platforms, add-ons, simulation habits, most commonly used hardware, and more. Microsoft Flight Simulator 2024 now takes the leadership of the popularity chart with a whopping 49.5% market share, followed by Microsoft Flight Simulator 2020 with 27.8%, totaling up to nearly 80% combined, meaning it has gained ground since 2023, when Microsoft Flight Simulator 2020 (2024 didn’t exist yet) had 70.8% of the market. In relation to last year’s survey, 2024 has now overtaken 2020, but the numbers show that 2020 still has its loyalists. X-Plane 12, on the other hand, remains stagnant at 11%, while X-Plane 11 and P3D feature in the bottom row with less than 2% each. The survey also shows that most simmers who primarily used Microsoft Flight Simulator 2020 migrated to 2024, as reflected in the new popularity chart. Former X-Plane 11 simmers went over to Microsoft Flight Simulator 2020 instead of X-Plane 12, though, reflecting an issue with both platforms: VRAM demands are too high, so people with less powerful graphics cards are forced to keep using DirectX 11-based platforms.  ​ As for the popular aircraft add-ons go, Fenix (42.4%), PMDG (31.5% and 23.3%), and iniBuilds (15.7%) lead the Microsoft Flight Simulator chart, whereas ToLiss (37.2%, 11.2%, and 9.2%), Zibo (29.8%), and Flight Factor (17.1%) lead the X-Plane chart.  Click here to dive into the full details of Navigraph’s latest survey. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-04-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/tristar103</id>
+    <title>iniBuilds Updates TriStar Airliner for MSFS 2024</title>
+    <updated>2026-04-21T00:00:00+00:00</updated>
+    <link href="/news/tristar103"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e7ff9d7a044b45b96e27d5_6.webp"/>
+    <summary>Sim: FS24. iniBuilds has recently updated their TriStar Airliner for Microsoft Flight Simulator 2024, bringing a wide range of fixes across core systems to improve stability and day-to-day usability. Update v1.0.3 includes key fixes to autopilot/AFCS behavior, INS navigation logic, fuel and electrical systems, engine operation, and various cockpit interactions and bindings, alongside tweaks to flight handling, including smoother pitch trim, refined autothrottle behavior, and more accurate climb performance.  Furthermore, additional fixes have been applied across visuals, PFB usability, and sounds (corrected callouts and improved audio consistency). The complete changelog follows below: V1.0.3SYSTEMS ⚙️ ART 🎨 PFB📜 SOUNDS🔊 The add-on is available in the MSFS Marketplace for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-04-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/sfycwlt</id>
+    <title>SoFly’s Cardiff Airport for X-Plane 12 Releasing Apr. 23</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <link href="/news/sfycwlt"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e8a026ca656f8e1e596170_cardiff-airport-for-xp12-v0-b44qpkeyfmwg1.webp"/>
+    <summary>Sim: X-Plane. SoFly has released a new trailer for its upcoming Cardiff Airport (EGFF) scenery for X-Plane 12, marking its first dedicated release for the platform. The scenery is now confirmed to release on Thursday, Apr. 23. SoFly head Calum shared more context in a Reddit post, explaining that the team has spent most of its time on other simulators recently, but now wants to bring more UK airports into X-Plane. Cardiff was chosen because that area “needed some TLC” and offers quite a bit of character for its relatively small size. SoFly followed up with a blog post confirming that Cardiff Airport for XP12 will release on April 23, 2026, and will be available exclusively through the iniBuilds store at launch, with other storefronts planned later. Cardiff has a scenic coastal approach and also has a slightly unusual operational role. In addition to regular scheduled flights from Ryanair and TUI, the airport is also used by British Airways as a maintenance base for parts of its widebody fleet. The airport is recreated in great detail and will be brought up to a modern XP12 standard.  As SoFly’s first XP12 project, the team is seeking community feedback, with them suggesting that more X-Plane content could follow if the demand is there. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/fsweekend2027</id>
+    <title>FlightSimWeekend 2027 to Be Held in Utrecht Apr. 3–4</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <link href="/news/fsweekend2027"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e8fa75a1cdc512263157df_1_Expo_Houten_entree_nieuw_2.webp"/>
+    <summary>Sim: OTHER. After years at the Aviodrome museum in Lelystad, Flight Sim Weekend has today announced that Utrecht, The Netherlands, will be the new location for its 2027 edition. The organisers have confirmed that FlightSimWeekend 2027 will take place on Apr. 3-4 at Expo Houten in Utrecht, a dedicated exhibition venue just outside the city.  According to FSWeekend, the move comes after a period of major growth, with attendance at the 2026 edition climbing to nearly 5,000 visitors, a record for the show, and enough to justify moving to a larger, more professional exhibition space. Utrecht is located centrally in the Netherlands, and the new venue offers significantly easier access for both domestic and international visitors. Utrecht Centraal, the main railway station, is nearby, and Amsterdam Schiphol Airport is roughly 45 minutes away, making travel more straightforward for exhibitors and attendees alike. The Netherlands' national train operator, NS, has direct train connections from Schipol Airport to Utrecht several times every hour, with Utrecht being a major rail junction. The move marks a significant turning point, as Lelystad and the Aviodrome have been closely tied to FlightSimWeekend for years, with the location serving as an aviation museum.  Utrecht offers a, perhaps, more conventional trade-show setting, but the FSWeekend team notes a significant capacity boost, expanded floor space, improved layouts, and better connectivity and comfort. According to the venue, Expo Houten offers 10,000 square metres of exhibition space across four ground-floor halls, a congress area for around 350 guests, a wider event space, alongside around 10 meeting spaces.  The site is directly off the A27 motorway, including 1,650 free parking spaces, and can also be reached by bus from Utrecht Centraal or Houten station. Read the full press release here. Visit the FlightSimWeekend website here. ‍ More details on 2027 exhibitors, schedules, and tickets are expected to follow in the coming weeks. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-22T00:00:00+00:00</published>
   </entry>
 </feed>
