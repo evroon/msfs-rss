@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-04-23T19:22:41.542758+00:00</updated>
+  <updated>2026-04-24T19:03:43.779023+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,22 +34,58 @@
     <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/</id>
-    <title>April 2nd, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-02T23:03:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-768x432.jpeg"/>
-    <summary>Weekly RecapThe entire Microsoft Flight Simulator Team wishes godspeed to the crew of Artemis II on their historic space flight to the moon! We know many of you watched the launch yesterday, and if you’re interested in celebrating this mission some more, be sure to join our Community Fly-In Friday group flight this week as … Continued</summary>
-    <published>2026-04-02T23:03:08+00:00</published>
+    <id>https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/</id>
+    <title>April 9th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-09T21:28:34+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Takeru_Toys-Twitter-768x432.jpg"/>
+    <summary>Weekly RecapOur next Developer Livestream now has a scheduled date! Join the regular panel of Jorg, Seb, and Martial plus special guests on Wednesday, April 15 at 10:30am Pacific time (1730 UTC) for a discussion about future development of MSFS and answers to many questions from the community. Thank you to everyone who pre-submitted questions … Continued</summary>
+    <published>2026-04-09T21:28:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/</id>
-    <title>Marketplace Update Week of April 6, 2026</title>
-    <updated>2026-04-09T20:29:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-6-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on … Continued</summary>
-    <published>2026-04-09T20:29:14+00:00</published>
+    <id>https://www.flightsimulator.com/development-update-april-2026/</id>
+    <title>Development Update – April 2026</title>
+    <updated>2026-04-16T00:17:43+00:00</updated>
+    <link href="https://www.flightsimulator.com/development-update-april-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/DevStream_Recap_Image-April-15-768x419.png"/>
+    <summary>Welcome to the first of our newly formatted Development Updates from the Microsoft Flight Simulator team! Thanks to community feedback, we shifted the focus of our regular weekly blogs (now renamed the “Weekly Briefing”) to contain a quick snapshot of high-level MSFS news, Marketplace releases/updates, Community Updates, and of course the much-loved Screenshot Challenge. Development … Continued</summary>
+    <published>2026-04-16T00:17:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-13-2026/</id>
+    <title>Marketplace Update Week of April 13, 2026</title>
+    <updated>2026-04-16T22:31:20+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-13-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-13-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
+    <published>2026-04-16T22:31:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-16th-2026-msfs-weekly-briefing/</id>
+    <title>April 16th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-16T22:31:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-16th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-1-768x432.jpeg"/>
+    <summary>Weekly RecapYesterday we hosted a Developer Livestream on our official Twitch channel. We know it’s been a few months longer than you (and us!) would like since the last Developer Livestream, so we were really thrilled to have our regular panel of Jorg, Seb, and Martial once again provide an update on the latest improvements … Continued</summary>
+    <published>2026-04-16T22:31:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/</id>
+    <title>Marketplace Update Week of April 20, 2026</title>
+    <updated>2026-04-23T22:12:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-20-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on Xbox New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
+    <published>2026-04-23T22:12:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/</id>
+    <title>April 23rd, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-23T23:53:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/christophercanoli-Discord-768x432.png"/>
+    <summary>Weekly RecapFollowing last week’s Developer Livestream, Sim Update 5 is nearing the finish line as the team completes final polish. One additional pre-release test build is planned for participants in the optional public beta. In parallel, we’re validating that the Oversized Cargo Rating (previously called Heavy Cargo Rating) is ready to go and resolving an … Continued</summary>
+    <published>2026-04-23T23:53:36+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/</id>
@@ -88,76 +124,22 @@
     <published>2026-04-16T22:31:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/</id>
-    <title>April 2nd, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-02T23:03:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-768x432.jpeg"/>
-    <summary>Weekly RecapThe entire Microsoft Flight Simulator Team wishes godspeed to the crew of Artemis II on their historic space flight to the moon! We know many of you watched the launch yesterday, and if you’re interested in celebrating this mission some more, be sure to join our Community Fly-In Friday group flight this week as … Continued</summary>
-    <published>2026-04-02T23:03:08+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/</id>
+    <title>Marketplace Update Week of April 20, 2026</title>
+    <updated>2026-04-23T22:12:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-20-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on Xbox New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
+    <published>2026-04-23T22:12:44+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/</id>
-    <title>Marketplace Update Week of April 6, 2026</title>
-    <updated>2026-04-09T20:29:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-6-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on … Continued</summary>
-    <published>2026-04-09T20:29:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/</id>
-    <title>April 9th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-09T21:28:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Takeru_Toys-Twitter-768x432.jpg"/>
-    <summary>Weekly RecapOur next Developer Livestream now has a scheduled date! Join the regular panel of Jorg, Seb, and Martial plus special guests on Wednesday, April 15 at 10:30am Pacific time (1730 UTC) for a discussion about future development of MSFS and answers to many questions from the community. Thank you to everyone who pre-submitted questions … Continued</summary>
-    <published>2026-04-09T21:28:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/development-update-april-2026/</id>
-    <title>Development Update – April 2026</title>
-    <updated>2026-04-16T00:17:43+00:00</updated>
-    <link href="https://www.flightsimulator.com/development-update-april-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/DevStream_Recap_Image-April-15-768x419.png"/>
-    <summary>Welcome to the first of our newly formatted Development Updates from the Microsoft Flight Simulator team! Thanks to community feedback, we shifted the focus of our regular weekly blogs (now renamed the “Weekly Briefing”) to contain a quick snapshot of high-level MSFS news, Marketplace releases/updates, Community Updates, and of course the much-loved Screenshot Challenge. Development … Continued</summary>
-    <published>2026-04-16T00:17:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-13-2026/</id>
-    <title>Marketplace Update Week of April 13, 2026</title>
-    <updated>2026-04-16T22:31:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-13-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-13-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
-    <published>2026-04-16T22:31:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-16th-2026-msfs-weekly-briefing/</id>
-    <title>April 16th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-16T22:31:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-16th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-1-768x432.jpeg"/>
-    <summary>Weekly RecapYesterday we hosted a Developer Livestream on our official Twitch channel. We know it’s been a few months longer than you (and us!) would like since the last Developer Livestream, so we were really thrilled to have our regular panel of Jorg, Seb, and Martial once again provide an update on the latest improvements … Continued</summary>
-    <published>2026-04-16T22:31:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/</id>
-    <title>April 2nd, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-02T23:03:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-2nd-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-768x432.jpeg"/>
-    <summary>Weekly RecapThe entire Microsoft Flight Simulator Team wishes godspeed to the crew of Artemis II on their historic space flight to the moon! We know many of you watched the launch yesterday, and if you’re interested in celebrating this mission some more, be sure to join our Community Fly-In Friday group flight this week as … Continued</summary>
-    <published>2026-04-02T23:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/</id>
-    <title>Marketplace Update Week of April 6, 2026</title>
-    <updated>2026-04-09T20:29:14+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-6-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-6-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on … Continued</summary>
-    <published>2026-04-09T20:29:14+00:00</published>
+    <id>https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/</id>
+    <title>April 23rd, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-23T23:53:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/christophercanoli-Discord-768x432.png"/>
+    <summary>Weekly RecapFollowing last week’s Developer Livestream, Sim Update 5 is nearing the finish line as the team completes final polish. One additional pre-release test build is planned for participants in the optional public beta. In parallel, we’re validating that the Oversized Cargo Rating (previously called Heavy Cargo Rating) is ready to go and resolving an … Continued</summary>
+    <published>2026-04-23T23:53:36+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-9th-2026-msfs-weekly-briefing/</id>
@@ -194,6 +176,24 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@CpuGeta486-twitter-1-768x432.jpeg"/>
     <summary>Weekly RecapYesterday we hosted a Developer Livestream on our official Twitch channel. We know it’s been a few months longer than you (and us!) would like since the last Developer Livestream, so we were really thrilled to have our regular panel of Jorg, Seb, and Martial once again provide an update on the latest improvements … Continued</summary>
     <published>2026-04-16T22:31:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/</id>
+    <title>Marketplace Update Week of April 20, 2026</title>
+    <updated>2026-04-23T22:12:44+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-20-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace-Week-of-april-20-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New Products New on Xbox New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
+    <published>2026-04-23T22:12:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/</id>
+    <title>April 23rd, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-23T23:53:36+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/christophercanoli-Discord-768x432.png"/>
+    <summary>Weekly RecapFollowing last week’s Developer Livestream, Sim Update 5 is nearing the finish line as the team completes final polish. One additional pre-release test build is planned for participants in the optional public beta. In parallel, we’re validating that the Oversized Cargo Rating (previously called Heavy Cargo Rating) is ready to go and resolving an … Continued</summary>
+    <published>2026-04-23T23:53:36+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/now-available-in-the-msfs-2024-marketplace-the-inibuilds-tristar-airliner/</id>
