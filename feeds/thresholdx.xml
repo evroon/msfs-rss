@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.thresholdx.net/news</id>
   <title>Thresholdx blog</title>
-  <updated>2026-04-29T19:45:15.461840+00:00</updated>
+  <updated>2026-04-30T19:42:45.583854+00:00</updated>
   <link href="https://www.thresholdx.net/news" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/threshold.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://assets-global.website-files.com/5b27a494dc3d3103abc01d83/5f2387c90e9e1dca5453fc23_web1.png</logo>
   <subtitle>News about flight simulators.</subtitle>
-  <entry>
-    <id>/news/aesfrat3up</id>
-    <title>Aerosoft Updates Frankfurt Airport for MSFS 2020/2024</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <link href="/news/aesfrat3up"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69e95420a120045e590d3ab7_fraupd.jpg"/>
-    <summary>Sim: FS24. Aerosoft has recently issued a major update to their rendition of Frankfurt Airport (EDDF) for Microsoft Flight Simulator 2020 and 2024, bringing the ground layout around Terminal 3 up to current standards, adding the new taxiway “s”, and many other fixes. Update 1.1.2 brings the ground layout around Terminal 3 to its current state as of April 2026, adds the new taxiway “s”, adds and corrects multiple taxisigns, fixes the terraforming at the intersection between “N14” and “N”, fixes spelling on markings at the de-icing pad 2, added animated jetways to terminal 3, changes the Aerosoft VDGS models to the new “Safedock X” system, adjusts jetway placement to prevent clipping when docked to an airplane, and adjusts the minimum and maximum rotation values on jetways A50-A69. ​ It’s available on the Aerosoft Shop for roughly $24.99, requiring at least 3.7 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>/news/a346102</id>
-    <title>Aerosoft/ToLiss Updates A340-600 Professional for MSFS 2020/2024</title>
-    <updated>2026-04-23T00:00:00+00:00</updated>
-    <link href="/news/a346102"/>
-    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69c406581e30bf94987e1709_2537590_20260308132311_1.webp"/>
-    <summary>Sim: FS24. Aerosoft and ToLiss have recently issued an update to their newly released A340-600 Professional for Microsoft Flight Simulator 2020 and 2024, adding new functionalities, hardware support improvements, and bug fixes. Update 1.0.2 brings a vast list of new features, including the ability to pin charts in the EFB, an LVAR to inhibit rotary acceleration for hardware FCU interfacing, an option for the SimBrief import to skip filling init page B, SayIntentions CPDLC support, and more. The complete changelog follows below: New Features Fixes &amp; Improvements ‍ ​The add-on is available on the Aerosoft Store for roughly $79.99, requiring at least 18 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
-    <published>2026-04-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>/news/sfycwl</id>
     <title>SoFly Releases Cardiff Airport for X-Plane 12</title>
@@ -150,6 +132,24 @@
     <link href="/news/fsdgtqo"/>
     <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69f2074f77c05c780561b43b_124_4.webp"/>
     <summary>Sim: FS24. Flight Sim Development Group has released their latest scenery for Microsoft Flight Simulator, Mexico’s new Tulum International Airport, for both MSFS 2020 and MSFS 2024. Known as Felipe Carrillo Puerto International Airport (MMTL), Tulum is one of Mexico’s newest airports, having opened in late 2023 to serve the rapidly growing Riviera Maya region, as an alternative to Cancun. Unlike Mexico’s larger airports along the coast, Tulum is situated deep into the remote Yucatán jungle.  The scenery includes a full recreation of the airport’s terminal and infrastructure, with FSDG promising an accurate and detailed rendition of the real-world layout.  Also included is updated aerial imagery, detailed airport modelling, realistic lighting, reflective textures and more. The airport has been optimised for performance. Features: FSDG’s Tulum is available now through the FSDG store for approximately $23.39 USD including VAT. ‍ If you enjoy our content and want to support Threshold, consider joining us on Patreon!</summary>
+    <published>2026-04-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/a2aaer106</id>
+    <title>A2A Simulations Updates Aerostar 600 for MSFS 2020/2024</title>
+    <updated>2026-04-29T00:00:00+00:00</updated>
+    <link href="/news/a2aaer106"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69f28ac930b4f0b3f0124070_1.jpg"/>
+    <summary>Sim: FS24. A2A Simulations has recently issued an update to their Accu-Sim Aerostar 600 for Microsoft Flight Simulator 2020 and 2024, bringing a range of fixes and improvements across the board. Update v1.0.6 improves shakes and turbulence (VR and flat screen), adds single GTN 650/650Xi panel support, GNS brightness adjustments, multiple systems and visual fixes, and much more. The complete changelog for both platforms follows below: Highlights:  • Improved shakes &amp; turbulence (VR + 2D)  • Single GTN650 / GTN650Xi panel support  • GPSS disconnect potential fix  • GNS brightness adjustments  • Flaps sync with MSFS  • Various system &amp; visual fixes  ‍ MSFS 2024:  ‍ • Added aux hydraulic switch bindings  ‍ MSFS 2020:  • Fixed rain/ice windshield effects  • EDM pop-up enabled  It’s available in their store for $49.99. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
+    <published>2026-04-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/news/aeslimc160</id>
+    <title>Aerosoft Updates Milan Malpensa Airport for MSFS 2024</title>
+    <updated>2026-04-29T00:00:00+00:00</updated>
+    <link href="/news/aeslimc160"/>
+    <link href="https://cdn.prod.website-files.com/5b27a494dc3d312fe5c01da8/69f28d4d0a241b5ea0163a68_malpensa1.jpg"/>
+    <summary>Sim: FS24. Aerosoft has recently released a native update for their Milan Malpensa Airport (LIMC) rendition for Microsoft Flight Simulator 2024, taking full advantage of the new simulator’s capabilities. Update 1.6.0 adds native compatibility with Microsoft Flight Simulator 2024, updates the ground layout to its current state as of 2026, introduces an official GSX profile, and delivers a wealth of improvements and fixes throughout. The complete changelog follows below: Official GSX profile by Luca Verzura, featuring: ‍ The scenery is available on the Aerosoft Shop for roughly $22.99, requiring at least 6 GB of free hard disk space to install. If you enjoy our content and want to support Threshold, consider joining us on Patreon! ‍</summary>
     <published>2026-04-29T00:00:00+00:00</published>
   </entry>
 </feed>
