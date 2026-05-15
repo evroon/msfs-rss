@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-05-14T19:54:27.589947+00:00</updated>
+  <updated>2026-05-15T19:47:34.772020+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,22 +34,58 @@
     <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/</id>
-    <title>Microsoft Flight Simulator 2024 Releases Sim Update 5</title>
-    <updated>2026-04-30T16:56:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/MSFS24_PSVR_Still_Shot1-768x432.png"/>
-    <summary>Sim Update 5 makes significant improvements across the entire simulator, introduces PS VR2, and unlocks two more Career specializations.Technical Polish Performance Improvement: Optimization in SU_05 improves frame rates and reduces stuttering, especially in large cities and complex airports. AMD Hardware Fix: We have implemented a fix for visual glitches on AMD Radeon RX 9xxx series cards, ensuring … Continued</summary>
-    <published>2026-04-30T16:56:20+00:00</published>
+    <id>https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/</id>
+    <title>April 30th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-04-30T23:02:38+00:00</updated>
+    <link href="https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@pommes_l-Twitter-2-768x432.jpeg"/>
+    <summary>Weekly RecapSim Update 5 is now available on all platforms! This is the largest update to Microsoft Flight Simulator 2024 yet and includes many exciting new features and thousands of bug fixes and improvements. For an overview of the highlights in SU5, you can read our article here. Updates in SU5 include: PS® VR2 on PS5 … Continued</summary>
+    <published>2026-04-30T23:02:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/</id>
-    <title>Marketplace Update Week of April 27, 2026</title>
-    <updated>2026-04-30T23:00:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace_Week_of_april_27-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation Products New on PS5 New on PS5 New on PS5 New on PS5   New PC &amp; Xbox Products New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
-    <published>2026-04-30T23:00:08+00:00</published>
+    <id>https://www.flightsimulator.com/world-update-21/</id>
+    <title>Microsoft Flight Simulator Releases Its Next Beautiful World Update 21: Australia</title>
+    <updated>2026-05-05T15:31:57+00:00</updated>
+    <link href="https://www.flightsimulator.com/world-update-21/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/d1d1b87b-80c6-43cf-b9f9-39e9686bea35-768x432.png"/>
+    <summary>Available today, World Update 21: Australia sets a new standard in realism for pilots in the Microsoft Flight Simulator world!Australia is home to some of the world’s most spectacular sights and destinations, including stunning coastlines, vast deserts, beautiful mountains, and architectural marvels. Renowned attractions include the Sydney Opera House, one of the most distinctive structures … Continued</summary>
+    <published>2026-05-05T15:31:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-4-2026/</id>
+    <title>Marketplace Update Week of May 4, 2026</title>
+    <updated>2026-05-07T22:38:39+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-4-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace-Week-of-may-4-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation Products New on PS5 New on PS5 New on PS5 New on PS5   New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on … Continued</summary>
+    <published>2026-05-07T22:38:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-7th-2026-msfs-weekly-briefing/</id>
+    <title>May 7th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-05-07T23:09:29+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-7th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Parorng-Forums-768x432.jpeg"/>
+    <summary>Weekly RecapWe started the week with the release of World Update 21: Australia! Claim this FREE update from the in-sim Marketplace to enjoy dozens of new bespoke landmarks, airports, and updated TIN cities throughout the Land Down Under.To coincide with the release of World Update 21, we also launched the latest in our Local Legends series of … Continued</summary>
+    <published>2026-05-07T23:09:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/</id>
+    <title>Marketplace Update Week of May 11, 2026</title>
+    <updated>2026-05-14T21:56:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_11-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New PC &amp; Xbox Products New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC … Continued</summary>
+    <published>2026-05-14T21:56:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/</id>
+    <title>May 14th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-05-14T22:01:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/@CpuGeta486-twitter-768x432.jpeg"/>
+    <summary>Weekly RecapIn response to the stability and avionics issues on Xbox and PS5 introduced in Sim Update 5, we’ve prepared a new update (1.7.28.0) for all platforms.We are actively investigating the core memory and avionics issues affecting both Xbox and PS5. While we believe this update may improve stability for some players, an important part … Continued</summary>
+    <published>2026-05-14T22:01:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/</id>
@@ -88,76 +124,22 @@
     <published>2026-05-07T23:09:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/</id>
-    <title>April 23rd, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-23T23:53:36+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-23rd-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/christophercanoli-Discord-768x432.png"/>
-    <summary>Weekly RecapFollowing last week’s Developer Livestream, Sim Update 5 is nearing the finish line as the team completes final polish. One additional pre-release test build is planned for participants in the optional public beta. In parallel, we’re validating that the Oversized Cargo Rating (previously called Heavy Cargo Rating) is ready to go and resolving an … Continued</summary>
-    <published>2026-04-23T23:53:36+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/</id>
+    <title>Marketplace Update Week of May 11, 2026</title>
+    <updated>2026-05-14T21:56:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_11-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New PC &amp; Xbox Products New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC … Continued</summary>
+    <published>2026-05-14T21:56:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/</id>
-    <title>Marketplace Update Week of April 27, 2026</title>
-    <updated>2026-04-30T23:00:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace_Week_of_april_27-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation Products New on PS5 New on PS5 New on PS5 New on PS5   New PC &amp; Xbox Products New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
-    <published>2026-04-30T23:00:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/</id>
-    <title>April 30th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-04-30T23:02:38+00:00</updated>
-    <link href="https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/@pommes_l-Twitter-2-768x432.jpeg"/>
-    <summary>Weekly RecapSim Update 5 is now available on all platforms! This is the largest update to Microsoft Flight Simulator 2024 yet and includes many exciting new features and thousands of bug fixes and improvements. For an overview of the highlights in SU5, you can read our article here. Updates in SU5 include: PS® VR2 on PS5 … Continued</summary>
-    <published>2026-04-30T23:02:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/world-update-21/</id>
-    <title>Microsoft Flight Simulator Releases Its Next Beautiful World Update 21: Australia</title>
-    <updated>2026-05-05T15:31:57+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-21/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/d1d1b87b-80c6-43cf-b9f9-39e9686bea35-768x432.png"/>
-    <summary>Available today, World Update 21: Australia sets a new standard in realism for pilots in the Microsoft Flight Simulator world!Australia is home to some of the world’s most spectacular sights and destinations, including stunning coastlines, vast deserts, beautiful mountains, and architectural marvels. Renowned attractions include the Sydney Opera House, one of the most distinctive structures … Continued</summary>
-    <published>2026-05-05T15:31:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-4-2026/</id>
-    <title>Marketplace Update Week of May 4, 2026</title>
-    <updated>2026-05-07T22:38:39+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-4-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace-Week-of-may-4-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation Products New on PS5 New on PS5 New on PS5 New on PS5   New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on … Continued</summary>
-    <published>2026-05-07T22:38:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/may-7th-2026-msfs-weekly-briefing/</id>
-    <title>May 7th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-05-07T23:09:29+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-7th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Parorng-Forums-768x432.jpeg"/>
-    <summary>Weekly RecapWe started the week with the release of World Update 21: Australia! Claim this FREE update from the in-sim Marketplace to enjoy dozens of new bespoke landmarks, airports, and updated TIN cities throughout the Land Down Under.To coincide with the release of World Update 21, we also launched the latest in our Local Legends series of … Continued</summary>
-    <published>2026-05-07T23:09:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/</id>
-    <title>Microsoft Flight Simulator 2024 Releases Sim Update 5</title>
-    <updated>2026-04-30T16:56:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/MSFS24_PSVR_Still_Shot1-768x432.png"/>
-    <summary>Sim Update 5 makes significant improvements across the entire simulator, introduces PS VR2, and unlocks two more Career specializations.Technical Polish Performance Improvement: Optimization in SU_05 improves frame rates and reduces stuttering, especially in large cities and complex airports. AMD Hardware Fix: We have implemented a fix for visual glitches on AMD Radeon RX 9xxx series cards, ensuring … Continued</summary>
-    <published>2026-04-30T16:56:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/</id>
-    <title>Marketplace Update Week of April 27, 2026</title>
-    <updated>2026-04-30T23:00:08+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-april-27-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/Marketplace_Week_of_april_27-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation Products New on PS5 New on PS5 New on PS5 New on PS5   New PC &amp; Xbox Products New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and … Continued</summary>
-    <published>2026-04-30T23:00:08+00:00</published>
+    <id>https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/</id>
+    <title>May 14th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-05-14T22:01:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/@CpuGeta486-twitter-768x432.jpeg"/>
+    <summary>Weekly RecapIn response to the stability and avionics issues on Xbox and PS5 introduced in Sim Update 5, we’ve prepared a new update (1.7.28.0) for all platforms.We are actively investigating the core memory and avionics issues affecting both Xbox and PS5. While we believe this update may improve stability for some players, an important part … Continued</summary>
+    <published>2026-05-14T22:01:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/april-30th-2026-msfs-weekly-briefing/</id>
@@ -194,6 +176,24 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Parorng-Forums-768x432.jpeg"/>
     <summary>Weekly RecapWe started the week with the release of World Update 21: Australia! Claim this FREE update from the in-sim Marketplace to enjoy dozens of new bespoke landmarks, airports, and updated TIN cities throughout the Land Down Under.To coincide with the release of World Update 21, we also launched the latest in our Local Legends series of … Continued</summary>
     <published>2026-05-07T23:09:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/</id>
+    <title>Marketplace Update Week of May 11, 2026</title>
+    <updated>2026-05-14T21:56:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-11-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_11-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024   New PC &amp; Xbox Products New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC New on PC and Xbox New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC … Continued</summary>
+    <published>2026-05-14T21:56:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/</id>
+    <title>May 14th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-05-14T22:01:23+00:00</updated>
+    <link href="https://www.flightsimulator.com/may-14th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/@CpuGeta486-twitter-768x432.jpeg"/>
+    <summary>Weekly RecapIn response to the stability and avionics issues on Xbox and PS5 introduced in Sim Update 5, we’ve prepared a new update (1.7.28.0) for all platforms.We are actively investigating the core memory and avionics issues affecting both Xbox and PS5. While we believe this update may improve stability for some players, an important part … Continued</summary>
+    <published>2026-05-14T22:01:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/</id>
