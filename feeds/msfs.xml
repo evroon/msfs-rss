@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-06-06T19:40:42.313492+00:00</updated>
+  <updated>2026-06-07T19:41:07.186744+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-1024x576.png"/>
     <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
     <published>2026-02-25T20:28:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-25-2026/</id>
-    <title>Marketplace Update Week of May 25, 2026</title>
-    <updated>2026-05-28T22:34:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-25-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_25-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation 5 Products   New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox … Continued</summary>
-    <published>2026-05-28T22:34:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/eaglegreg1206-Forum-768x324.jpeg"/>
     <summary>Weekly RecapThe ongoing public pre-release test for Sim Update 5.1 continues with a new build (1.7.30.0) released last week to those enrolled in the optional beta. You can read the release notes for this build here. We once again kindly ask everyone participating in the public beta test to vote in our surveys and share your … Continued</summary>
     <published>2026-06-04T23:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/</id>
+    <title>Microsoft Flight Simulator 2024 | World Update 22 Announce – XBOX Games Showcase 2026</title>
+    <updated>2026-06-07T18:32:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/XboxGamesShowcase2026_MS-FlightSim_Update22_Thumbnail-768x432.png"/>
+    <summary>Microsoft Flight Simulator celebrates gorgeous United States of America landscapes in this spectacular World Update 22: US National Parks. Featuring over thirty National Parks and Monuments and the Goodyear Blimp- Coming July 4th, 2026!Want to experience the thrills and adventure of air racing? Coming this fall, take to the skies over New Mexico with the … Continued</summary>
+    <published>2026-06-07T18:32:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-may-18-2026/</id>
@@ -142,15 +142,6 @@
     <published>2026-06-04T23:00:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-25-2026/</id>
-    <title>Marketplace Update Week of May 25, 2026</title>
-    <updated>2026-05-28T22:34:30+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-25-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_25-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation 5 Products   New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox … Continued</summary>
-    <published>2026-05-28T22:34:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/</id>
     <title>May 28th, 2026 MSFS Weekly Briefing</title>
     <updated>2026-05-28T22:40:19+00:00</updated>
@@ -196,13 +187,13 @@
     <published>2026-06-04T23:00:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/</id>
-    <title>Microsoft Flight Simulator 2024 Releases Sim Update 5</title>
-    <updated>2026-04-30T16:56:20+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-releases-sim-update-5/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/MSFS24_PSVR_Still_Shot1-1024x576.png"/>
-    <summary>Sim Update 5 makes significant improvements across the entire simulator, introduces PS VR2, and unlocks two more Career specializations.Technical Polish Performance Improvement: Optimization in SU_05 improves frame rates and reduces stuttering, especially in large cities and complex airports. AMD Hardware Fix: We have implemented a fix for visual glitches on AMD Radeon RX 9xxx series cards, ensuring … Continued</summary>
-    <published>2026-04-30T16:56:20+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/</id>
+    <title>Microsoft Flight Simulator 2024 | World Update 22 Announce – XBOX Games Showcase 2026</title>
+    <updated>2026-06-07T18:32:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/XboxGamesShowcase2026_MS-FlightSim_Update22_Thumbnail-768x432.png"/>
+    <summary>Microsoft Flight Simulator celebrates gorgeous United States of America landscapes in this spectacular World Update 22: US National Parks. Featuring over thirty National Parks and Monuments and the Goodyear Blimp- Coming July 4th, 2026!Want to experience the thrills and adventure of air racing? Coming this fall, take to the skies over New Mexico with the … Continued</summary>
+    <published>2026-06-07T18:32:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-21/</id>
@@ -212,5 +203,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/d1d1b87b-80c6-43cf-b9f9-39e9686bea35-1024x576.png"/>
     <summary>Available today, World Update 21: Australia sets a new standard in realism for pilots in the Microsoft Flight Simulator world!Australia is home to some of the world’s most spectacular sights and destinations, including stunning coastlines, vast deserts, beautiful mountains, and architectural marvels. Renowned attractions include the Sydney Opera House, one of the most distinctive structures … Continued</summary>
     <published>2026-05-05T15:31:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/local-legend-24/</id>
+    <title>Microsoft Flight Simulator Releases Local Legend 24: The CAC Boomerang</title>
+    <updated>2026-05-05T15:59:16+00:00</updated>
+    <link href="https://www.flightsimulator.com/local-legend-24/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/4065ed2e-3cf1-4dc6-95f1-9bd0f21de8ee-1024x576.png"/>
+    <summary>The legendary Boomerang is the only fighter aircraft designed and manufactured in its entirety in AustraliaAnswering the Call of WarThe Boomerang is a single-seat, single-engine, multi-role fighter developed and manufactured by the Commonwealth Aircraft Corporation (CAC) of Australia. CAC began developing the Boomerang to fulfill Australia’s urgent need for a combat aircraft following the outbreak … Continued</summary>
+    <published>2026-05-05T15:59:16+00:00</published>
   </entry>
 </feed>
