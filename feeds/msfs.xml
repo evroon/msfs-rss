@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-06-10T20:39:29.314467+00:00</updated>
+  <updated>2026-06-11T20:29:39.351271+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/developer-highlight-taogs-hangar/</id>
-    <title>Developer Highlight: Taog’s Hangar and the UH-1H Huey</title>
-    <updated>2025-12-09T18:34:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/developer-highlight-taogs-hangar/"/>
-    <summary>Few aircraft in aviation history are as instantly recognizable as the Bell UH-1H Huey. In Microsoft Flight Simulator 2024, this legendary helicopter is now taking to the skies in partnership with Taog’s Hangar, a developer known for high-fidelity, community-driven rotorcraft. Download the Stranger Things Expansion for FREE and fly the Huey through its dedicated missions … Continued</summary>
-    <published>2025-12-09T18:34:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/creator-highlight-january-2026-cowtown/</id>
     <title>Creator Highlight, January 2026 – CowTown</title>
@@ -29,18 +21,17 @@
     <title>Creator Highlight, February 2026 – FlyWithLado</title>
     <updated>2026-02-25T20:28:38+00:00</updated>
     <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/02/lado-header-1024x576.png"/>
     <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
     <published>2026-02-25T20:28:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/</id>
-    <title>May 28th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-05-28T22:40:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/eaglegreg1206-Forum-768x324.jpeg"/>
-    <summary>Weekly RecapThe Sim Update 5.1 beta remains ongoing, and the team is very carefully reviewing all the player feedback and bug reports, the results of our forum surveys, and automatic telemetry data from beta testers as they work to improve stability and resolve low memory and avionics issues encountered by players in SU5, particularly among … Continued</summary>
-    <published>2026-05-28T22:40:19+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
+    <title>Microsoft Flight Simulator at FSExpo 2026</title>
+    <updated>2026-06-10T23:08:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/6e12f64c42818842ee03a6c8f072bc53240a3c1e.png"/>
+    <summary>FlightSimExpo 2026 is coming up on June 12-14 from the Saint Paul RiverCentre in St. Paul, MN, USA! For the third time, the Microsoft Flight Simulator team is thrilled to be in attendance.</summary>
+    <published>2026-06-10T23:08:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/aircraft-avionics-update-04-and-microsoft-creator-sale/</id>
@@ -88,13 +79,13 @@
     <published>2026-06-07T18:32:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-may-18-2026/</id>
-    <title>Marketplace Update Week of May 18, 2026</title>
-    <updated>2026-05-21T23:29:51+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-may-18-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/Marketplace_Week_of_may_18-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024 New PlayStation 5 Products   New PC &amp; Xbox Products New on PC New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC … Continued</summary>
-    <published>2026-05-21T23:29:51+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
+    <title>Microsoft Flight Simulator at FSExpo 2026</title>
+    <updated>2026-06-10T23:08:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/6e12f64c42818842ee03a6c8f072bc53240a3c1e-768x432.png"/>
+    <summary>FlightSimExpo 2026 is coming up on June 12-14 from the Saint Paul RiverCentre in St. Paul, MN, USA! For the third time, the Microsoft Flight Simulator team is thrilled to be in attendance.</summary>
+    <published>2026-06-10T23:08:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/may-21st-2026-msfs-weekly-briefing/</id>
@@ -142,13 +133,13 @@
     <published>2026-06-04T23:00:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/</id>
-    <title>May 28th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-05-28T22:40:19+00:00</updated>
-    <link href="https://www.flightsimulator.com/may-28th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/eaglegreg1206-Forum-768x324.jpeg"/>
-    <summary>Weekly RecapThe Sim Update 5.1 beta remains ongoing, and the team is very carefully reviewing all the player feedback and bug reports, the results of our forum surveys, and automatic telemetry data from beta testers as they work to improve stability and resolve low memory and avionics issues encountered by players in SU5, particularly among … Continued</summary>
-    <published>2026-05-28T22:40:19+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
+    <title>Microsoft Flight Simulator at FSExpo 2026</title>
+    <updated>2026-06-10T23:08:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/6e12f64c42818842ee03a6c8f072bc53240a3c1e-768x432.png"/>
+    <summary>FlightSimExpo 2026 is coming up on June 12-14 from the Saint Paul RiverCentre in St. Paul, MN, USA! For the third time, the Microsoft Flight Simulator team is thrilled to be in attendance.</summary>
+    <published>2026-06-10T23:08:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/aircraft-avionics-update-04-and-microsoft-creator-sale/</id>
@@ -196,13 +187,13 @@
     <published>2026-06-07T18:32:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/world-update-21/</id>
-    <title>Microsoft Flight Simulator Releases Its Next Beautiful World Update 21: Australia</title>
-    <updated>2026-05-05T15:31:57+00:00</updated>
-    <link href="https://www.flightsimulator.com/world-update-21/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/05/d1d1b87b-80c6-43cf-b9f9-39e9686bea35-1024x576.png"/>
-    <summary>Available today, World Update 21: Australia sets a new standard in realism for pilots in the Microsoft Flight Simulator world!Australia is home to some of the world’s most spectacular sights and destinations, including stunning coastlines, vast deserts, beautiful mountains, and architectural marvels. Renowned attractions include the Sydney Opera House, one of the most distinctive structures … Continued</summary>
-    <published>2026-05-05T15:31:57+00:00</published>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
+    <title>Microsoft Flight Simulator at FSExpo 2026</title>
+    <updated>2026-06-10T23:08:04+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/6e12f64c42818842ee03a6c8f072bc53240a3c1e-768x432.png"/>
+    <summary>FlightSimExpo 2026 is coming up on June 12-14 from the Saint Paul RiverCentre in St. Paul, MN, USA! For the third time, the Microsoft Flight Simulator team is thrilled to be in attendance.</summary>
+    <published>2026-06-10T23:08:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/local-legend-24/</id>
@@ -212,5 +203,14 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/04/4065ed2e-3cf1-4dc6-95f1-9bd0f21de8ee-1024x576.png"/>
     <summary>The legendary Boomerang is the only fighter aircraft designed and manufactured in its entirety in AustraliaAnswering the Call of WarThe Boomerang is a single-seat, single-engine, multi-role fighter developed and manufactured by the Commonwealth Aircraft Corporation (CAC) of Australia. CAC began developing the Boomerang to fulfill Australia’s urgent need for a combat aircraft following the outbreak … Continued</summary>
     <published>2026-05-05T15:59:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/</id>
+    <title>Microsoft Flight Simulator 2024 | World Update 22 Announce – XBOX Games Showcase 2026</title>
+    <updated>2026-06-07T18:32:18+00:00</updated>
+    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-2024-world-update-22-announce-xbox-games-showcase-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/XboxGamesShowcase2026_MS-FlightSim_Update22_Thumbnail-1024x576.png"/>
+    <summary>Microsoft Flight Simulator celebrates gorgeous United States of America landscapes in this spectacular World Update 22: US National Parks. Featuring over thirty National Parks and Monuments and the Goodyear Blimp- Coming July 4th, 2026!Want to experience the thrills and adventure of air racing? Coming this fall, take to the skies over New Mexico with the … Continued</summary>
+    <published>2026-06-07T18:32:18+00:00</published>
   </entry>
 </feed>
