@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-06-29T20:07:33.344808+00:00</updated>
+  <updated>2026-06-30T20:06:47.935039+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -32,15 +32,6 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/6e12f64c42818842ee03a6c8f072bc53240a3c1e.png"/>
     <summary>FlightSimExpo 2026 is coming up on June 12-14 from the Saint Paul RiverCentre in St. Paul, MN, USA! For the third time, the Microsoft Flight Simulator team is thrilled to be in attendance.</summary>
     <published>2026-06-10T23:08:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-expert-series-02-the-piper-m600/</id>
-    <title>Microsoft Flight Simulator Releases Expert Series 02: The Piper M600</title>
-    <updated>2026-06-12T21:19:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-expert-series-02-the-piper-m600/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/MSFS2024_M600_noSnipe_noLogo_noText-1-768x432.png"/>
-    <summary>The Innovative M600 sets new standards in performance, reliability, and cockpit experience.Distinction and UtilityThe M600 is a 6-seat, single-engine, multi-use light civil airplane developed and manufactured by Piper Aircraft of the United States. Introduced in 2015, the M600 is an advanced member of the Piper M-Class. Boasting a pressurized cabin, state-of-the-art avionics, and luxurious passenger … Continued</summary>
-    <published>2026-06-12T21:19:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/inibuilds-creator-sale/</id>
@@ -86,6 +77,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/Marketplace_Week_of_june_22-768x432.png"/>
     <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024  Updated PlayStation 5 Products               New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox … Continued</summary>
     <published>2026-06-26T22:32:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/release-notes-sim-update-5-1-1-7-35-0-now-available/</id>
+    <title>Release Notes – Sim Update 5.1 [1.7.35.0] Now Available</title>
+    <updated>2026-06-29T19:54:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-sim-update-5-1-1-7-35-0-now-available/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Fe5nUukWAAEud48-768x432.jpg"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 5.1 – release notes – 1.7.35.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.Stability … Continued</summary>
+    <published>2026-06-29T19:54:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/city-update-15/</id>
@@ -142,15 +142,6 @@
     <published>2026-06-26T22:32:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/microsoft-flight-simulator-releases-expert-series-02-the-piper-m600/</id>
-    <title>Microsoft Flight Simulator Releases Expert Series 02: The Piper M600</title>
-    <updated>2026-06-12T21:19:10+00:00</updated>
-    <link href="https://www.flightsimulator.com/microsoft-flight-simulator-releases-expert-series-02-the-piper-m600/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/MSFS2024_M600_noSnipe_noLogo_noText-1-768x432.png"/>
-    <summary>The Innovative M600 sets new standards in performance, reliability, and cockpit experience.Distinction and UtilityThe M600 is a 6-seat, single-engine, multi-use light civil airplane developed and manufactured by Piper Aircraft of the United States. Introduced in 2015, the M600 is an advanced member of the Piper M-Class. Boasting a pressurized cabin, state-of-the-art avionics, and luxurious passenger … Continued</summary>
-    <published>2026-06-12T21:19:10+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/inibuilds-creator-sale/</id>
     <title>iniBuilds Creator Sale</title>
     <updated>2026-06-18T18:28:34+00:00</updated>
@@ -194,6 +185,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/06/Marketplace_Week_of_june_22-768x432.png"/>
     <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024  Updated PlayStation 5 Products               New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox New on Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox New on PC and Xbox … Continued</summary>
     <published>2026-06-26T22:32:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/release-notes-sim-update-5-1-1-7-35-0-now-available/</id>
+    <title>Release Notes – Sim Update 5.1 [1.7.35.0] Now Available</title>
+    <updated>2026-06-29T19:54:19+00:00</updated>
+    <link href="https://www.flightsimulator.com/release-notes-sim-update-5-1-1-7-35-0-now-available/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2023/06/Fe5nUukWAAEud48-768x432.jpg"/>
+    <summary>microsoft flight simulator 2024 | Sim Update 5.1 – release notes – 1.7.35.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.Stability … Continued</summary>
+    <published>2026-06-29T19:54:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
