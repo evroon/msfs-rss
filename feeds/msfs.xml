@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-08-13T19:10:59.771559+00:00</updated>
+  <updated>2026-08-14T19:02:15.352029+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://msfs-cdn.azureedge.net/wp-content/uploads/2020/03/msf-logo.png</logo>
   <subtitle>Development updates of Microsoft Flight Simulator.</subtitle>
-  <entry>
-    <id>https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/</id>
-    <title>Creator Highlight, February 2026 – FlyWithLado</title>
-    <updated>2026-02-25T20:28:38+00:00</updated>
-    <link href="https://www.flightsimulator.com/creator-highlight-february-2026-flywithlado/"/>
-    <summary>For our February Creator Highlight, we’re focusing on popular video creator FlyWithLado! Having amassed a ginormous following of over 540,000 Instagram users and many more on different platforms, FlyWithLado is redefining content creation for social media in our community.We asked them some questions to give you all a behind the scenes look at their content:Do … Continued</summary>
-    <published>2026-02-25T20:28:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.flightsimulator.com/microsoft-flight-simulator-at-fsexpo-2026/</id>
     <title>Microsoft Flight Simulator at FSExpo 2026</title>
@@ -29,36 +21,17 @@
     <title>Introducing The AzurPoly Dassault Rafale</title>
     <updated>2026-08-04T20:20:53+00:00</updated>
     <link href="https://www.flightsimulator.com/introducing-the-azurpoly-dassault-rafale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/582690287_1445309047603144_1920040840347814562_n-1024x576.jpg"/>
     <summary>Experience the first officially licensed Dassault Aviation Rafale C* for Microsoft Flight Simulator 2024!Developed by AzurPoly in cooperation with JFEXP, this detailed rendition brings one of France’s most advanced aircraft to the simulator with a high level of care, immersion and functionality.Developed from the ground up over a period of more than two years, the … Continued</summary>
     <published>2026-08-04T20:20:53+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/july-30th-2026-msfs-weekly-briefing/</id>
-    <title>July 30th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-07-30T22:27:54+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-30th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/07/woooshboom-Forums-768x432.jpeg"/>
-    <summary>Weekly RecapPublic beta testing for the upcoming Sim Update 6 remains ongoing. Earlier this week, we released a new test build to those simmers enrolled in the optional SU6 beta. You can read the full release notes for this build (1.8.10.0) on our forums here. To all those participating in the beta, please share your … Continued</summary>
-    <published>2026-07-30T22:27:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/introducing-the-azurpoly-dassault-rafale/</id>
-    <title>Introducing The AzurPoly Dassault Rafale</title>
-    <updated>2026-08-04T20:20:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/introducing-the-azurpoly-dassault-rafale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/582690287_1445309047603144_1920040840347814562_n-768x432.jpg"/>
-    <summary>Experience the first officially licensed Dassault Aviation Rafale C* for Microsoft Flight Simulator 2024!Developed by AzurPoly in cooperation with JFEXP, this detailed rendition brings one of France’s most advanced aircraft to the simulator with a high level of care, immersion and functionality.Developed from the ground up over a period of more than two years, the … Continued</summary>
-    <published>2026-08-04T20:20:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-august-3-2026/</id>
-    <title>Marketplace Update Week of August 3, 2026</title>
-    <updated>2026-08-06T22:16:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-august-3-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Marketplace-Week-of-Blog-Post-2-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024  New Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5     New on PS5               New … Continued</summary>
-    <published>2026-08-06T22:16:47+00:00</published>
+    <id>https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/</id>
+    <title>Famous Flyer 10: Boeing 707-320C Interview With Working Title</title>
+    <updated>2026-08-14T16:15:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/MSFS2024_FF10_Boeing707_07-1024x576.jpg"/>
+    <summary>Earlier this week we released a revamped Famous Flyer 10: Boeing 707-320C for Microsoft Flight Simulator 2024, developed by Working Title and iniBuilds. To celebrate this launch, we recently asked Chris Burnett, one of the founders of Working Title, some questions to get a behind-the-scenes look at this new airliner!The Boeing 707-320C is a collaboration … Continued</summary>
+    <published>2026-08-14T16:15:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-6th-2026-msfs-weekly-briefing/</id>
@@ -88,22 +61,31 @@
     <published>2026-08-13T18:00:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/july-23rd-2026-msfs-weekly-briefing/</id>
-    <title>July 23rd, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-07-23T22:43:56+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-23rd-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/07/ARROW2929-Twitter-4-768x432.jpg"/>
-    <summary>Weekly RecapThe dev team remains very hard at work on Sim Update 6! In case you missed it, last week we released a new public beta build, version 1.8.8.0. You can read the release notes for this test build on our forums here. As always, we encourage everyone participating in the public beta (available on … Continued</summary>
-    <published>2026-07-23T22:43:56+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/</id>
+    <title>Marketplace Update Week of August 10, 2026</title>
+    <updated>2026-08-14T00:07:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024    New and Updated Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5     New on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-08-14T00:07:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-july-27-2026/</id>
-    <title>Marketplace Update Week of July 27, 2026</title>
-    <updated>2026-07-30T22:22:37+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-july-27-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/07/Marketplace-Week-of-Blog-Post-1-1-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024  New Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5               New PC &amp; Xbox Products New on PC and Xbox New on PC and Xbox … Continued</summary>
-    <published>2026-07-30T22:22:37+00:00</published>
+    <id>https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/</id>
+    <title>August 13th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-08-14T00:12:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Takeru_Toys-Twitter-768x432.jpg"/>
+    <summary>Weekly RecapSim Update 6 is now available on all platforms! Highlights of this release include the return of bush trips, support for Nvidia DLSS 4.5, updates to many aircraft, and thousands of other bug fixes and improvements. You can read the full release notes for SU6 here.Earlier this week, we released a new version of … Continued</summary>
+    <published>2026-08-14T00:12:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/</id>
+    <title>Famous Flyer 10: Boeing 707-320C Interview With Working Title</title>
+    <updated>2026-08-14T16:15:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/MSFS2024_FF10_Boeing707_07-768x432.jpg"/>
+    <summary>Earlier this week we released a revamped Famous Flyer 10: Boeing 707-320C for Microsoft Flight Simulator 2024, developed by Working Title and iniBuilds. To celebrate this launch, we recently asked Chris Burnett, one of the founders of Working Title, some questions to get a behind-the-scenes look at this new airliner!The Boeing 707-320C is a collaboration … Continued</summary>
+    <published>2026-08-14T16:15:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/july-30th-2026-msfs-weekly-briefing/</id>
@@ -142,31 +124,22 @@
     <published>2026-08-11T17:41:59+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/july-30th-2026-msfs-weekly-briefing/</id>
-    <title>July 30th, 2026 MSFS Weekly Briefing</title>
-    <updated>2026-07-30T22:27:54+00:00</updated>
-    <link href="https://www.flightsimulator.com/july-30th-2026-msfs-weekly-briefing/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/07/woooshboom-Forums-768x432.jpeg"/>
-    <summary>Weekly RecapPublic beta testing for the upcoming Sim Update 6 remains ongoing. Earlier this week, we released a new test build to those simmers enrolled in the optional SU6 beta. You can read the full release notes for this build (1.8.10.0) on our forums here. To all those participating in the beta, please share your … Continued</summary>
-    <published>2026-07-30T22:27:54+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/</id>
+    <title>Marketplace Update Week of August 10, 2026</title>
+    <updated>2026-08-14T00:07:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024    New and Updated Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5     New on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-08-14T00:07:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/introducing-the-azurpoly-dassault-rafale/</id>
-    <title>Introducing The AzurPoly Dassault Rafale</title>
-    <updated>2026-08-04T20:20:53+00:00</updated>
-    <link href="https://www.flightsimulator.com/introducing-the-azurpoly-dassault-rafale/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/582690287_1445309047603144_1920040840347814562_n-768x432.jpg"/>
-    <summary>Experience the first officially licensed Dassault Aviation Rafale C* for Microsoft Flight Simulator 2024!Developed by AzurPoly in cooperation with JFEXP, this detailed rendition brings one of France’s most advanced aircraft to the simulator with a high level of care, immersion and functionality.Developed from the ground up over a period of more than two years, the … Continued</summary>
-    <published>2026-08-04T20:20:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-august-3-2026/</id>
-    <title>Marketplace Update Week of August 3, 2026</title>
-    <updated>2026-08-06T22:16:47+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-august-3-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Marketplace-Week-of-Blog-Post-2-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024  New Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5     New on PS5               New … Continued</summary>
-    <published>2026-08-06T22:16:47+00:00</published>
+    <id>https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/</id>
+    <title>August 13th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-08-14T00:12:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Takeru_Toys-Twitter-768x432.jpg"/>
+    <summary>Weekly RecapSim Update 6 is now available on all platforms! Highlights of this release include the return of bush trips, support for Nvidia DLSS 4.5, updates to many aircraft, and thousands of other bug fixes and improvements. You can read the full release notes for SU6 here.Earlier this week, we released a new version of … Continued</summary>
+    <published>2026-08-14T00:12:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/august-6th-2026-msfs-weekly-briefing/</id>
@@ -194,6 +167,33 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Sim-Update-Beta-Cover-Banner-Image-768x432.png"/>
     <summary>RELEASE NOTES Sim Update 6 – 1.8.14.0If you are playing on PC, outdated packages in your community folder may have an unexpected impact on the title’s performance and behavior.If you suffer from stability issues or long loading times, move your community package(s) to another folder before relaunching the title.New Content and Features Overhauled the visuals … Continued</summary>
     <published>2026-08-13T18:00:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/</id>
+    <title>Marketplace Update Week of August 10, 2026</title>
+    <updated>2026-08-14T00:07:02+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-august-10-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓Microsoft Flight Simulator 2024    New and Updated Playstation 5 Products New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5 New on PS5     New on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-08-14T00:07:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/</id>
+    <title>August 13th, 2026 MSFS Weekly Briefing</title>
+    <updated>2026-08-14T00:12:12+00:00</updated>
+    <link href="https://www.flightsimulator.com/august-13th-2026-msfs-weekly-briefing/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/Takeru_Toys-Twitter-768x432.jpg"/>
+    <summary>Weekly RecapSim Update 6 is now available on all platforms! Highlights of this release include the return of bush trips, support for Nvidia DLSS 4.5, updates to many aircraft, and thousands of other bug fixes and improvements. You can read the full release notes for SU6 here.Earlier this week, we released a new version of … Continued</summary>
+    <published>2026-08-14T00:12:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/</id>
+    <title>Famous Flyer 10: Boeing 707-320C Interview With Working Title</title>
+    <updated>2026-08-14T16:15:30+00:00</updated>
+    <link href="https://www.flightsimulator.com/famous-flyer-10-boeing-707-320c-interview-with-working-title/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/08/MSFS2024_FF10_Boeing707_07-768x432.jpg"/>
+    <summary>Earlier this week we released a revamped Famous Flyer 10: Boeing 707-320C for Microsoft Flight Simulator 2024, developed by Working Title and iniBuilds. To celebrate this launch, we recently asked Chris Burnett, one of the founders of Working Title, some questions to get a behind-the-scenes look at this new airliner!The Boeing 707-320C is a collaboration … Continued</summary>
+    <published>2026-08-14T16:15:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/world-update-22/</id>
