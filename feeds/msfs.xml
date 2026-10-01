@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.flightsimulator.com</id>
   <title>MSFS Blog</title>
-  <updated>2026-09-30T22:06:49.999896+00:00</updated>
+  <updated>2026-10-01T22:33:47.101451+00:00</updated>
   <link href="https://www.flightsimulator.com" rel="alternate"/>
   <link href="https://raw.githubusercontent.com/evroon/msfs-rss/main/feeds/msfs.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -34,15 +34,6 @@
     <published>2026-09-09T18:47:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/development-update-september-2026/</id>
-    <title>Development Update – September 2026</title>
-    <updated>2026-09-17T10:26:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/development-update-september-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/09/DevStream_Recap_Image-768x419.png"/>
-    <summary>Welcome to the second of our newly formatted Development Updates from the Microsoft Flight Simulator team! Thanks to community feedback, we shifted the focus of our regular weekly blogs (now renamed the “Weekly Briefing”) to contain a quick snapshot of high-level MSFS news, Marketplace releases/updates, Community Updates, and of course the much-loved Screenshot Challenge. Development … Continued</summary>
-    <published>2026-09-17T10:26:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-september-14-2026/</id>
     <title>Marketplace Update Week of September 14, 2026</title>
     <updated>2026-09-18T12:45:34+00:00</updated>
@@ -88,13 +79,13 @@
     <published>2026-09-30T02:47:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/development-update-september-2026/</id>
-    <title>Development Update – September 2026</title>
-    <updated>2026-09-17T10:26:32+00:00</updated>
-    <link href="https://www.flightsimulator.com/development-update-september-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/09/DevStream_Recap_Image-768x419.png"/>
-    <summary>Welcome to the second of our newly formatted Development Updates from the Microsoft Flight Simulator team! Thanks to community feedback, we shifted the focus of our regular weekly blogs (now renamed the “Weekly Briefing”) to contain a quick snapshot of high-level MSFS news, Marketplace releases/updates, Community Updates, and of course the much-loved Screenshot Challenge. Development … Continued</summary>
-    <published>2026-09-17T10:26:32+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/</id>
+    <title>Marketplace Update Week of September 28, 2026</title>
+    <updated>2026-10-01T22:22:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/10/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓ Microsoft Flight Simulator 2024   First Party Products Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PS5 Updated on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-10-01T22:22:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/marketplace-update-week-of-september-14-2026/</id>
@@ -142,13 +133,13 @@
     <published>2026-09-29T21:14:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.flightsimulator.com/marketplace-update-week-of-september-14-2026/</id>
-    <title>Marketplace Update Week of September 14, 2026</title>
-    <updated>2026-09-18T12:45:34+00:00</updated>
-    <link href="https://www.flightsimulator.com/marketplace-update-week-of-september-14-2026/"/>
-    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/09/Marketplace-Week-of-September-14-768x432.png"/>
-    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓ Microsoft Flight Simulator 2024   first party updated products Updated on PS5 Updated on PC and Xbox     Microsoft Flight Simulator 2024 Marketplace Products First Party Creator Title Price in SC Status Microsoft / FSReborn Piper M600 100 Updated on PS5 Microsoft / FSReborn … Continued</summary>
-    <published>2026-09-18T12:45:34+00:00</published>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/</id>
+    <title>Marketplace Update Week of September 28, 2026</title>
+    <updated>2026-10-01T22:22:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/10/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓ Microsoft Flight Simulator 2024   First Party Products Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PS5 Updated on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-10-01T22:22:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/september-18th-2026-msfs-weekly-briefing/</id>
@@ -194,6 +185,15 @@
     <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/09/Sim-Update-Beta-Cover-Banner-Image-1-768x432.png"/>
     <summary>Aircraft &amp; Avionics Update 06 (AAU_06) is available now! This update brings enhancements and improvements to five aircraft from German manufacturers. Existing owners of these aircraft will receive this upgrade for free in Microsoft Flight Simulator 2024. If you do not yet own these aircraft, they can be purchased from the in-sim Marketplace for USD … Continued</summary>
     <published>2026-09-30T02:47:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/</id>
+    <title>Marketplace Update Week of September 28, 2026</title>
+    <updated>2026-10-01T22:22:24+00:00</updated>
+    <link href="https://www.flightsimulator.com/marketplace-update-week-of-september-28-2026/"/>
+    <link href="https://flightsimulator.azureedge.net/wp-content/uploads/2026/10/Marketplace-Week-of-Blog-Post-3-768x432.png"/>
+    <summary>Jump to:  MSFS 2020 Releases ↓  |  Marketplace Backlog ↓ Microsoft Flight Simulator 2024   First Party Products Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PC and Xbox Updated on PS5 Updated on PS5 Updated on PS5 Updated on PS5 … Continued</summary>
+    <published>2026-10-01T22:22:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.flightsimulator.com/development-update-september-2026/</id>
